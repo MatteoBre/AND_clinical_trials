@@ -1,0 +1,294 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17084538</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>03</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0306-4522</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>144</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Jan</Month>
+<Day>05</Day>
+</PubDate>
+</JournalIssue>
+<Title>Neuroscience</Title>
+<ISOAbbreviation>Neuroscience</ISOAbbreviation>
+</Journal>
+<ArticleTitle>L-carnitine protects neurons from 1-methyl-4-phenylpyridinium-induced neuronal apoptosis in rat forebrain culture.</ArticleTitle>
+<Pagination>
+<MedlinePgn>46-55</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1-Methyl-4-phenylpyridinium ion (MPP+), an inhibitor of mitochondrial complex I, has been widely used as a neurotoxin because it elicits a severe Parkinson's disease-like syndrome with an elevation of intracellular reactive oxygen species (ROS) and apoptosis. L-carnitine plays an integral role in attenuating the brain injury associated with mitochondrial neurodegenerative disorders. The present study investigates the effects of L-carnitine against the toxicity of MPP+ in rat forebrain primary cultures. Cells in culture were treated for 24 h with 100, 250, 500 and 1000 microM MPP+ alone or co-incubated with L-carnitine. MPP+ produced a dose-related increase in DNA fragmentation as measured by cell death ELISA (enzyme-linked immunosorbent assay), an increase in the number of TUNEL (terminal dUTP nick-end labeling)-positive cells and a reduction in the mitochondrial metabolism of 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT). No significant effect was observed with the release of lactate dehydrogenase (LDH), indicating that cell death presumably occurred via apoptotic mechanisms. Co-incubation of MPP+ with L-carnitine significantly reduced MPP+-induced apoptosis. Western blot analyses showed that neurotoxic concentrations of MPP+ decreased the ratio of BCL-X(L) to Bax and decreased the protein levels of polysialic acid neural cell adhesion molecules (PSA-NCAM), a neuron specific marker. L-carnitine blocked these effects of MPP+ suggesting its potential therapeutic utility in degenerative disorders such as Parkinson's disease, Alzheimer's disease, ornithine transcarbamylase deficiency and other mitochondrial diseases.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Neurotoxicology, HFT-132, National Center for Toxicological Research/U.S. Food and Drug Administration, Jefferson, AR 72079, USA. cheng.wang@fda.hhs.gov</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sadovova</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ali</LastName>
+<ForeName>H K</ForeName>
+<Initials>HK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Duhart</LastName>
+<ForeName>H M</ForeName>
+<Initials>HM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fu</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zou</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Patterson</LastName>
+<ForeName>T A</ForeName>
+<Initials>TA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Binienda</LastName>
+<ForeName>Z K</ForeName>
+<Initials>ZK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Virmani</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paule</LastName>
+<ForeName>M G</ForeName>
+<Initials>MG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Slikker</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ali</LastName>
+<ForeName>S F</ForeName>
+<Initials>SF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2006</Year>
+<Month>11</Month>
+<Day>02</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Neuroscience</MedlineTA>
+<NlmUniqueID>7605074</NlmUniqueID>
+<ISSNLinking>0306-4522</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018696">Neuroprotective Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012794">Sialic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D013778">Tetrazolium Salts</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D013844">Thiazoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051028">bcl-2-Associated X Protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051020">bcl-X Protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C021319">polysialic acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.1.1.27</RegistryNumber>
+<NameOfSubstance UI="D007770">L-Lactate Dehydrogenase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EUY85H477I</RegistryNumber>
+<NameOfSubstance UI="C022616">thiazolyl blue</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>R865A5OY8J</RegistryNumber>
+<NameOfSubstance UI="D015655">1-Methyl-4-phenylpyridinium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>S7UI8SM58A</RegistryNumber>
+<NameOfSubstance UI="D002331">Carnitine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015655">1-Methyl-4-phenylpyridinium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015153">Blotting, Western</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002331">Carnitine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002467">Cell Nucleus</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000648">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004797">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007150">Immunohistochemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020287">In Situ Nick-End Labeling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007770">L-Lactate Dehydrogenase</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009474">Neurons</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D018696">Neuroprotective Agents</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016548">Prosencephalon</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012794">Sialic Acids</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013778">Tetrazolium Salts</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013844">Thiazoles</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051028">bcl-2-Associated X Protein</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051020">bcl-X Protein</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2006</Year>
+<Month>05</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2006</Year>
+<Month>08</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2006</Year>
+<Month>08</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>11</Month>
+<Day>7</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>3</Month>
+<Day>16</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>11</Month>
+<Day>7</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17084538</ArticleId>
+<ArticleId IdType="pii">S0306-4522(06)01171-7</ArticleId>
+<ArticleId IdType="doi">10.1016/j.neuroscience.2006.08.083</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

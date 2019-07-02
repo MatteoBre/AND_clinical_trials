@@ -1,0 +1,154 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23722225</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>01</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Electronic-Print">
+<Journal>
+<ISSN IssnType="Electronic">1479-6821</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>20</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Endocrine-related cancer</Title>
+<ISOAbbreviation>Endocr. Relat. Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The role of 18F-fluorodeoxyglucose positron emission tomography in differentiated thyroid cancer before surgery.</ArticleTitle>
+<Pagination>
+<MedlinePgn>R203-13</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1530/ERC-13-0088</ELocationID>
+<Abstract>
+<AbstractText>The incidence of thyroid cancer in both men and women is increasing faster than that of any other cancer. Although positron emission tomography (PET) using (18)F-fluorodeoxyglucose (FDG) has received much attention, the use of FDG PET for the management of thyroid cancer is limited primarily to postoperative follow-up. However, it might have a role in selected, more aggressive pathologies, and so patients at a high risk of distant metastasis may benefit from PET before surgery. As less FDG-avid thyroid cancers may lower the diagnostic accuracy of PET in preoperative assessment, an understanding of FDG avidity is important for the evaluation of thyroid cancer. FDG avidity has been shown to be associated with tumor size, lymph node metastasis, and glucose transporter expression and differentiation. As PET is commonly used in clinical practice, the detection of incidentalomas by PET is increasing. However, incidentalomas detected by PET have a high risk of malignancy. Clinicians handling cytologically indeterminate nodules face a dilemma regarding a procedure for a definitive diagnosis, usually lobectomy. With 'nondiagnostic (ND)' fine-needle biopsy (FNA), PET has shown a negative predictive value (NPV) of 100%, which indicates that negative uptake in a ND FNA procedure accurately excludes malignancy. With 'atypia of undetermined significance' or 'follicular neoplasm', the sensitivity and NPV of PET are 84 and 88%. PET does not provide additional information for the preoperative assessment of thyroid cancer. However, factors associated with FDG positivity are related to a poor prognosis; therefore, FDG PET scans before surgery may facilitate the prediction of the prognosis of differentiated thyroid cancer. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Pak</LastName>
+<ForeName>Kyoungjune</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Nuclear Medicine, Department of Internal Medicine Medical Research Institute, Pusan National University Hospital, Pusan National University, Busan, South Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Seong-Jang</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>In Joo</ForeName>
+<Initials>IJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Bo Hyun</ForeName>
+<Initials>BH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Sang Soo</ForeName>
+<Initials>SS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jeon</LastName>
+<ForeName>Yun Kyung</ForeName>
+<Initials>YK</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Endocr Relat Cancer</MedlineTA>
+<NlmUniqueID>9436481</NlmUniqueID>
+<ISSNLinking>1351-0088</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0Z5B2CJX4D</RegistryNumber>
+<NameOfSubstance UI="D019788">Fluorodeoxyglucose F18</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019788">Fluorodeoxyglucose F18</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049268">Positron-Emission Tomography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019275">Radiopharmaceuticals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013964">Thyroid Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">carcinoma</Keyword>
+<Keyword MajorTopicYN="N">thyroid</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23722225</ArticleId>
+<ArticleId IdType="pii">ERC-13-0088</ArticleId>
+<ArticleId IdType="doi">10.1530/ERC-13-0088</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

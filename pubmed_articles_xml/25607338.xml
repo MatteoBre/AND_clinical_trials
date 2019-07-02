@@ -1,0 +1,305 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25607338</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>02</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1439-3646</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>123</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Experimental and clinical endocrinology &amp; diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association</Title>
+<ISOAbbreviation>Exp. Clin. Endocrinol. Diabetes</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The comparative effect of pioglitazone and metformin on serum osteoprotegerin, adiponectin and intercellular adhesion molecule concentrations in patients with newly diagnosed type 2 diabetes: a randomized clinical trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>289-95</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1055/s-0034-1396864</ELocationID>
+<Abstract>
+<AbstractText Label="AIM" NlmCategory="OBJECTIVE">The etiologic role of inflammatory pathways in the development of diabetic complications, especially cardiovascular events, has been established. The anti-inflammatory role of metformin and pioglitazone has been described; however, no study to date has compared the efficacy of these common oral agents in this regard. In this study, the authors aimed to compare the anti-inflammatory properties of pioglitazone and metformin, with respect to their effect on serum concentrations of highly sensitive C-reactive protein (hsCRP), osteoprotegerin (OPG), intercellular adhesion molecule-1 (ICAM-1) and adiponectin.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">In an open-label randomized clinical trial, 117 patients with newly diagnosed type 2 diabetes mellitus were visited; 84 fulfilled the inclusion criteria, and were randomly allocated to 2 arms receiving either 1,000 mg/d metformin or 30 mg/d pioglitazone, respectively. Biochemical assessments were made at baseline and the end of the 3 months trial.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Significant reduction in FPG, insulin and HbA1c in women and men of both arms were observed. Log-hsCRP values significantly decreased in both arms. A decreasing, but non-significant trend in log-OPG levels was observed in women of the metformin arm (p=0.063). A greater reduction in log-ICAM levels was identifiable in men receiving pioglitazone compared to the other arm (p=0.008); in addition, the same trend was observed in log-OPG values (p=0.029). Nonetheless, reduction in log-ICAM and log-OPG levels was comparable between the 2 arms. A significant increase in adiponectin was observed in both men and women in the pioglitazone arm (p&lt;0.001), whereas changes were non-significant in the metformin arm.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Remarkably, patients receiving pioglitazone revealed more significant reduction in inflammatory markers.</AbstractText>
+<CopyrightInformation>© Georg Thieme Verlag KG Stuttgart · New York.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Esteghamati</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Endocrinology and Metabolism Research Center (EMRC), Vali-Asr Hospital, School of Medicine, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Azizi</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Endocrinology and Metabolism Research Center (EMRC), Vali-Asr Hospital, School of Medicine, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ebadi</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Endocrinology and Metabolism Research Center (EMRC), Vali-Asr Hospital, School of Medicine, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Noshad</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Endocrinology and Metabolism Research Center (EMRC), Vali-Asr Hospital, School of Medicine, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mousavizadeh</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Endocrinology and Metabolism Research Center (EMRC), Vali-Asr Hospital, School of Medicine, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Afarideh</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Endocrinology and Metabolism Research Center (EMRC), Vali-Asr Hospital, School of Medicine, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nakhjavani</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Endocrinology and Metabolism Research Center (EMRC), Vali-Asr Hospital, School of Medicine, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT01963663</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>01</Month>
+<Day>21</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Exp Clin Endocrinol Diabetes</MedlineTA>
+<NlmUniqueID>9505926</NlmUniqueID>
+<ISSNLinking>0947-7349</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C499918">ADIPOQ protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D052242">Adiponectin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006442">Glycated Hemoglobin A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007004">Hypoglycemic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C573420">ICAM1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018836">Inflammation Mediators</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D053244">Osteoprotegerin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C506030">TNFRSF11B protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D045162">Thiazolidinediones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C517652">hemoglobin A1c protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>126547-89-5</RegistryNumber>
+<NameOfSubstance UI="D018799">Intercellular Adhesion Molecule-1</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-41-4</RegistryNumber>
+<NameOfSubstance UI="D002097">C-Reactive Protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9100L32L2N</RegistryNumber>
+<NameOfSubstance UI="D008687">Metformin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>X4OV71U42S</RegistryNumber>
+<NameOfSubstance UI="D000077205">Pioglitazone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D052242">Adiponectin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000819">agonists</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001786">Blood Glucose</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002097">C-Reactive Protein</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003924">Diabetes Mellitus, Type 2</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006442">Glycated Hemoglobin A</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006943">Hyperglycemia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007004">Hypoglycemic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018836">Inflammation Mediators</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000819">agonists</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018799">Intercellular Adhesion Molecule-1</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008687">Metformin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053244">Osteoprotegerin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077205">Pioglitazone</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012727">Sex Characteristics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045162">Thiazolidinediones</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25607338</ArticleId>
+<ArticleId IdType="doi">10.1055/s-0034-1396864</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

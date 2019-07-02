@@ -1,0 +1,152 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26881392</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1473-656X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Current opinion in obstetrics &amp; gynecology</Title>
+<ISOAbbreviation>Curr. Opin. Obstet. Gynecol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Targeting the programmed cell death-1 pathway in breast and ovarian cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>142-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/GCO.0000000000000257</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE OF REVIEW" NlmCategory="OBJECTIVE">Immune checkpoint blockade is changing cancer therapy. Targeting the programmed cell death-1 (PD-1) pathway releases T cells from inhibitory signals within the tumor microenvironment, thereby activating a latent antitumor immune response. Here, we review the biology underlying the activity of PD-1/programmed cell death-ligand 1 (PD-L1) antagonists, and data describing their clinical activity in breast and ovarian cancer.</AbstractText>
+<AbstractText Label="RECENT FINDINGS" NlmCategory="RESULTS">Several antagonists of PD-1 and PD-L1 have been tested in breast and ovarian cancer. These drugs are generally well tolerated, with some immune-related adverse events that are typically easily managed. Objective response rates generally range from about 10 to 20% in both breast cancer and ovarian cancer, with durable responses noted in multiple trials. Selecting patients with PD-L1 expression by cells within the tumor microenvironment appears to enrich for responses. These agents are under accelerated development based on these promising early data.</AbstractText>
+<AbstractText Label="SUMMARY" NlmCategory="CONCLUSIONS">Monoclonal antibody-based blockade of the PD-1 pathway results in objective and durable clinical responses in a subset of patients with breast or ovarian cancers, particularly those with PD-L1-positive cells within the tumor microenvironment. Current priorities are to refine biomarkers of therapeutic response, and to develop combination immunotherapy strategies that integrate PD-1/PD-L1 antagonists with both standard and immune-based cancer therapies to increase efficacy.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Emens</LastName>
+<ForeName>Leisha A</ForeName>
+<Initials>LA</Initials>
+<AffiliationInfo>
+<Affiliation>aDepartment of Oncology, Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA bThe Netherlands Cancer Institute, Amsterdam, the Netherlands cThe Kelly Gynecologic Oncology Service, Department of Obstetrics and Gynecology, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kok</LastName>
+<ForeName>Marleen</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ojalvo</LastName>
+<ForeName>Laureen S</ForeName>
+<Initials>LS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Curr Opin Obstet Gynecol</MedlineTA>
+<NlmUniqueID>9007264</NlmUniqueID>
+<ISSNLinking>1040-872X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D060890">B7-H1 Antigen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000911">Antibodies, Monoclonal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060890">B7-H1 Antigen</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007167">Immunotherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010051">Ovarian Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26881392</ArticleId>
+<ArticleId IdType="doi">10.1097/GCO.0000000000000257</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

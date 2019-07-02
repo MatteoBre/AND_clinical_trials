@@ -1,0 +1,240 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24476662</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>09</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1476-5543</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>34</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of perinatology : official journal of the California Perinatal Association</Title>
+<ISOAbbreviation>J Perinatol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Neonatal neuroimaging findings in congenital myotonic dystrophy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>159-60</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/jp.2013.142</ELocationID>
+<Abstract>
+<AbstractText>We report on a preterm neonate of 30 weeks gestational age who presented with marked muscular hypotonia and severe respiratory failure at birth and was diagnosed with congenital myotonic dystrophy. Neuroimaging at 36 gestational weeks demonstrated diffuse T2-hyperintense signal of the supratentorial white matter and a simplified gyration and sulcation pattern. Follow-up imaging showed progressive myelination, brain maturation and decrease in T2-signal of the white matter. We discuss possible pathomechanisms for white matter signal abnormalities in this neonate. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bosemani</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>1] Section of Pediatric Neuroradiology, Division of Pediatric Radiology, Russell H. Morgan Department of Radiology and Radiological Science, Charlotte R. Bloomberg Children's Center, Johns Hopkins University School of Medicine, Baltimore, MD, USA [2] Neurosciences Intensive Care Nursery Program, Johns Hopkins University School of Medicine, Baltimore, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jasien</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>1] Neurosciences Intensive Care Nursery Program, Johns Hopkins University School of Medicine, Baltimore, MD, USA [2] Kennedy Krieger Institute, Baltimore, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnston</LastName>
+<ForeName>M V</ForeName>
+<Initials>MV</Initials>
+<AffiliationInfo>
+<Affiliation>1] Neurosciences Intensive Care Nursery Program, Johns Hopkins University School of Medicine, Baltimore, MD, USA [2] Kennedy Krieger Institute, Baltimore, MD, USA [3] Department of Pediatrics, Johns Hopkins University School of Medicine, Baltimore, MD, USA [4] Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huisman</LastName>
+<ForeName>T A G M</ForeName>
+<Initials>TA</Initials>
+<AffiliationInfo>
+<Affiliation>1] Section of Pediatric Neuroradiology, Division of Pediatric Radiology, Russell H. Morgan Department of Radiology and Radiological Science, Charlotte R. Bloomberg Children's Center, Johns Hopkins University School of Medicine, Baltimore, MD, USA [2] Neurosciences Intensive Care Nursery Program, Johns Hopkins University School of Medicine, Baltimore, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Poretti</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>1] Section of Pediatric Neuroradiology, Division of Pediatric Radiology, Russell H. Morgan Department of Radiology and Radiological Science, Charlotte R. Bloomberg Children's Center, Johns Hopkins University School of Medicine, Baltimore, MD, USA [2] Neurosciences Intensive Care Nursery Program, Johns Hopkins University School of Medicine, Baltimore, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Northington</LastName>
+<ForeName>F J</ForeName>
+<Initials>FJ</Initials>
+<AffiliationInfo>
+<Affiliation>1] Neurosciences Intensive Care Nursery Program, Johns Hopkins University School of Medicine, Baltimore, MD, USA [2] Department of Pediatrics, Johns Hopkins University School of Medicine, Baltimore, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Perinatol</MedlineTA>
+<NlmUniqueID>8501884</NlmUniqueID>
+<ISSNLinking>0743-8346</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009223">Myotonic Dystrophy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059906">Neuroimaging</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>31</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>31</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24476662</ArticleId>
+<ArticleId IdType="pii">jp2013142</ArticleId>
+<ArticleId IdType="doi">10.1038/jp.2013.142</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Pediatrics. 2004 Apr;113(4):811-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15060232</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Dev. 1995 Jan-Feb;17(1):24-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7762758</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Signal. 2008 Nov;20(11):1935-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18583094</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Paediatr. 1992 Aug;81(8):613-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1392386</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Ann. 2007 Dec;36(12):777, 781-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18229518</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2011 Dec;134(Pt 12):3530-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22131273</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Dev. 2003 Oct;25(7):457-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13129589</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuromuscul Disord. 2011 Feb;21(2):89-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21169018</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>No To Hattatsu. 2000 May;32(3):268-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10824580</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Sci. 1993 Mar;115(1):95-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8166775</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Neurol. 2012 Oct;11(10):891-905</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22995693</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Paediatr Scand. 1986 Sep;75(5):849-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3564952</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

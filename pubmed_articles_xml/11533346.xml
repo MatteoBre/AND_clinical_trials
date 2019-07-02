@@ -1,0 +1,126 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11533346</PMID>
+<DateCompleted>
+<Year>2001</Year>
+<Month>10</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>06</Month>
+<Day>05</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1098-4275</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>108</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2001</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pediatrics</Title>
+<ISOAbbreviation>Pediatrics</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Nasal prongs continuous positive airway pressure: a simple yet powerful tool.</ArticleTitle>
+<Pagination>
+<MedlinePgn>759-61</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Aly</LastName>
+<ForeName>H Z</ForeName>
+<Initials>HZ</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Pediatrics, Obstetrics and Gynecology, Division of Newborn Service, George Washington University Medical Center, Children's National Medical Center, Washington, DC 20037, USA. haly@cnmc.org</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016420">Comment</PublicationType>
+<PublicationType UI="D023362">Evaluation Studies</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pediatrics</MedlineTA>
+<NlmUniqueID>0376422</NlmUniqueID>
+<ISSNLinking>0031-4005</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Pediatrics. 2000 Jun;105(6):1194-201</RefSource>
+<PMID Version="1">10835057</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004867">Equipment Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007234">Infant, Premature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007235">Infant, Premature, Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019102">Infant, Very Low Birth Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007902">Length of Stay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008171">Lung Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011175">Positive-Pressure Respiration</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2001</Year>
+<Month>9</Month>
+<Day>5</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2001</Year>
+<Month>10</Month>
+<Day>19</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2001</Year>
+<Month>9</Month>
+<Day>5</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11533346</ArticleId>
+<ArticleId IdType="doi">10.1542/peds.108.3.759</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

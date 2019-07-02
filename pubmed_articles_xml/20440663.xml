@@ -1,0 +1,197 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20440663</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>09</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2010</Year>
+<Month>06</Month>
+<Day>04</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1496-8975</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>57</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Canadian journal of anaesthesia = Journal canadien d'anesthesie</Title>
+<ISOAbbreviation>Can J Anaesth</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Incomplete adherence to the ASA difficult airway algorithm is unchanged after a high-fidelity simulation session.</ArticleTitle>
+<Pagination>
+<MedlinePgn>644-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s12630-010-9322-4</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Although guidelines for difficult airway management have been published, the extent to which consultant anesthesiologists follow these guidelines has not been determined. The purpose of this study is to observe how consultant anesthesiologists manage a "cannot intubate, cannot ventilate" (CICV) scenario in a high-fidelity simulator and to evaluate whether a simulation teaching session improves their adherence to the American Society of Anesthesiologists (ASA) difficult airway algorithm.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">With Ethics Board approval and informed consent, all staff anesthesiologists in a single tertiary care institution were invited to enrol in this study where they managed a simulated unanticipated CICV scenario in a high-fidelity simulator. The scenario involved a patient with a difficult airway whose trachea could not be intubated and where it was impossible to ventilate the patient's lungs. Airway management options, including laryngeal mask airway, a fibreoptic bronchoscope, and a Glidescope were available for use but scripted to fail. A percutaneous cricothyroidotomy was required to re-establish adequate ventilation. Following the scenario, there was a personalized one-hour video-assisted expert debriefing focusing on the ASA difficult airway guidelines and "hands-on" cricothyroidotomy teaching. The second scenario followed immediately with an identical CICV scenario. The content to either scenario was not revealed beforehand. Outcome measures included: 1) major deviations from the ASA difficult airway guidelines; 2) time to start cricothyroidotomy; and 3) time to achieve ventilation.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Thirty-eight anesthesiologists agreed to participate. The number of major deviations from the ASA algorithm was similar in the first and second sessions. These deviations included: multiple laryngoscopies (0 vs 2 pre-post; P = 0.49), use of fibreoptic bronchoscope (8 vs 7 pre-post; P = 1.0), bypass of laryngeal mask airway attempt (7 vs 13 pre-post; P = 0.19), and failure to call for anesthetic help (12 vs 8 pre-post; P = 0.43). However, more participants failed to call for surgical help in the second session (7 vs 16; P = 0.04). The times to start cricothyroidotomy and the times to achieve ventilation were significantly shorter in the second session (205.5 +/- 61.3 sec vs 179.7 +/- 65.1 sec; P = 0.01 and 356.9 +/- 117.2 sec vs 269.4 +/- 77.43 sec; P = 0.0002, respectively).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">No substantial changes in airway management in a CICV scenario were observed after an intense one-hour personalized video-assisted airway-focused simulation debriefing session with an expert. It appears that multiple factors other than airway algorithms come into play in emergency airway decision-making processes, including one's personal clinical experience with the many available airway devices.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Borges</LastName>
+<ForeName>Bruno C R</ForeName>
+<Initials>BC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Anesthesia, St. Michael's Hospital, University of Toronto, ON, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boet</LastName>
+<ForeName>Sylvain</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Siu</LastName>
+<ForeName>Lyndon W</ForeName>
+<Initials>LW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bruppacher</LastName>
+<ForeName>Heinz R</ForeName>
+<Initials>HR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Naik</LastName>
+<ForeName>Viren N</ForeName>
+<Initials>VN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Riem</LastName>
+<ForeName>Nicole</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Joo</LastName>
+<ForeName>Hwan S</ForeName>
+<Initials>HS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>05</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Can J Anaesth</MedlineTA>
+<NlmUniqueID>8701709</NlmUniqueID>
+<ISSNLinking>0832-610X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Can J Anaesth. 2010 Jul;57(7):627-35</RefSource>
+<PMID Version="1">20431979</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000776">Anesthesiology</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000193">education</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D002983">Clinical Competence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004502">Education, Medical, Continuing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005593">Fracture Fixation, Internal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019983">Guideline Adherence</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007442">Intubation, Intratracheal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008337">Mandibular Fractures</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016544">Patient Simulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018401">Sample Size</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>01</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>04</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20440663</ArticleId>
+<ArticleId IdType="doi">10.1007/s12630-010-9322-4</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

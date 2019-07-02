@@ -1,0 +1,188 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25675687</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>05</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0125-2208</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>97</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the Medical Association of Thailand = Chotmaihet thangphaet</Title>
+<ISOAbbreviation>J Med Assoc Thai</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Initial dosage regimen of vancomycin for septic shock patients: a pharmacokinetic study and Monte Carlo simulation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1209-19</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate the pharmacokinetic parameters of vancomycin in septic shock patients and to determine the vancomycin dosage to achieve requisite pharmacokinetic/pharmacodynamic (PK/PD) target against methicillin resistant Staphylocccus aureus (MRSA) in patients with septic shock.</AbstractText>
+<AbstractText Label="MATERIAL AND METHOD" NlmCategory="METHODS">Pharmacokinetic parameters of vancomycin in 12 septic shock patients were assessed. Then, the Monte Carlo simulation was performed to calculate the probabilities of target attainment (PTAs) to reach target AUC0-24/MIC of 400 and 450 mg.h/L.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The total clearance (CL) and the volume of the central compartment (Vc) of vancomycin was 3.34±1.39 L/h and 0.14±1.43 L/kg, respectively. For Staphylococcalspp. with low MICs of 0.125 and 0.5 mg/L, the administration of vancomycin 30 mg/kg as the loading dose, followed by the maintenance dose of 20 mg/kg every six, eight, 12, and 24 hours achieved &gt;90% PTAs to reach target AUC0-24/MlC: For pathogens with MIC of 1, and 1.5 mg/L, the vancomycin maintenance dose of 20 mg/kg every six, eight, and 12 hours and every six and eight hours respectively to achieve &gt;90% PTA.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">High dose ofvancomycin is required to achieve PK/PD target for treatment of MRSA septic shock, especially if MRSA MIC is higher than 1 mg/L.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Katip Bpharm</LastName>
+<ForeName>Wasan</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jaruratanasirikul</LastName>
+<ForeName>Sutep</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pattharachayakul</LastName>
+<ForeName>Sutthiporn</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wongpoowarak</LastName>
+<ForeName>Wibul</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jitsurong</LastName>
+<ForeName>Arnurai</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Thailand</Country>
+<MedlineTA>J Med Assoc Thai</MedlineTA>
+<NlmUniqueID>7507216</NlmUniqueID>
+<ISSNLinking>0125-2208</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6Q205EH1VU</RegistryNumber>
+<NameOfSubstance UI="D014640">Vancomycin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000900">Anti-Bacterial Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003198">Computer Simulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004334">Drug Administration Schedule</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006785">Hospitals, University</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055624">Methicillin-Resistant Staphylococcus aureus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008826">Microbial Sensitivity Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009010">Monte Carlo Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012772">Shock, Septic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013203">Staphylococcal Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013785">Thailand</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014640">Vancomycin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>2</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>2</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25675687</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

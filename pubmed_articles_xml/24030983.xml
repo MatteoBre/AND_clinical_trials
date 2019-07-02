@@ -1,0 +1,115 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24030983</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>08</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1473-6810</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>18</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Evidence-based medicine</Title>
+<ISOAbbreviation>Evid Based Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Multitreatment comparison meta-analysis: promise and peril.</ArticleTitle>
+<Pagination>
+<MedlinePgn>201-3</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1136/eb-2013-101455</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Campbell-Scherer</LastName>
+<ForeName>Denise</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Family Medicine, University of Alberta, , Edmonton, Alberta, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016421">Editorial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>12</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Evid Based Med</MedlineTA>
+<NlmUniqueID>9608386</NlmUniqueID>
+<ISSNLinking>1356-5524</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019317">Evidence-Based Medicine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015201">Meta-Analysis as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016540">Smoking Cessation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061485">Tobacco Use Cessation Devices</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24030983</ArticleId>
+<ArticleId IdType="pii">eb-2013-101455</ArticleId>
+<ArticleId IdType="doi">10.1136/eb-2013-101455</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

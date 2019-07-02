@@ -1,0 +1,107 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">21687177</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>11</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>05</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1757-790X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>2009</Volume>
+<PubDate>
+<Year>2009</Year>
+</PubDate>
+</JournalIssue>
+<Title>BMJ case reports</Title>
+<ISOAbbreviation>BMJ Case Rep</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Bridge to recovery in a patient with ChurgStrauss myocarditis by long-term percutaneous support with microaxial blood pump.</ArticleTitle>
+<Pagination>
+<MedlinePgn>bcr2006101881</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1136/bcr.2006.101881</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ferrari</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pfeifer</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Poerner</LastName>
+<ForeName>T C</ForeName>
+<Initials>TC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Figulla</LastName>
+<ForeName>H R</ForeName>
+<Initials>HR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>02</Month>
+<Day>18</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>BMJ Case Rep</MedlineTA>
+<NlmUniqueID>101526291</NlmUniqueID>
+<ISSNLinking>1757-790X</ISSNLinking>
+</MedlineJournalInfo>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">heart-assist devices</Keyword>
+<Keyword MajorTopicYN="N">myocarditis</Keyword>
+<Keyword MajorTopicYN="N">shock</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>6</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21687177</ArticleId>
+<ArticleId IdType="doi">10.1136/bcr.2006.101881</ArticleId>
+<ArticleId IdType="pii">bcr.2006.101881</ArticleId>
+<ArticleId IdType="pmc">PMC3105861</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,153 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18391676</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>06</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>04</Month>
+<Day>08</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1536-7355</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>14</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of clinical rheumatology : practical reports on rheumatic &amp; musculoskeletal diseases</Title>
+<ISOAbbreviation>J Clin Rheumatol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Trochanteric bursitis: refuting the myth of inflammation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>82-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/RHU.0b013e31816b4471</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND AND OBJECTIVES" NlmCategory="OBJECTIVE">Greater trochanteric (GT) bursitis is a common cause of hip pain. Previously, the etiology of the trochanteric pain syndrome was thought to be caused by inflammation of the subgluteus maximus bursa (i.e., bursitis). Recently, MRI and ultrasound studies have brought into serious doubt the idea that bursitis is the etiology for trochanteric pain. To our knowledge, no histologic study of GT bursitis has been reported to date. The purpose of this study is to evaluate the histopathology of patients with and without the clinical syndrome of GT bursitis to assess for the presence of bursal inflammation.</AbstractText>
+<AbstractText Label="DESIGN AND METHODS" NlmCategory="METHODS">This is a prospective, case-controlled, blinded study of the histopathologic features of controls and patients with GT bursitis. We recruited patients who required total hip arthroplasty (THA) for rheumatoid or osteoarthritis. Inclusion criteria for the study consisted of the following: needing THA as standard of care; THA secondary to OA or RA; age greater than 18; and minimal risk for surgery by the American Heart Association Criteria. We excluded anyone who received a GT bursa injection 9 months before surgery. Eligible participants were then stratified as cases or controls using the 1985 clinical criteria for GT bursitis. The harvesting of the bursa required no modification of the surgical procedure. The specimens were then examined by 2 independent pathologists who were blinded as to the patients' clinical status.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Six bursal specimens were evaluated by 2 blinded surgical pathologists revealing primarily fibroadipose tissue with no signs of acute or chronic inflammation. There were 3 bursas in the control group and 2 specimens with clinical GT bursitis. No significant differences were found between the specimens of the 2 groups.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results of this small prospective observational histologic study, along with recent MRI and ultrasound studies on the topic, strongly suggest that there is no etiologic role of bursal inflammation in the trochanteric pain syndrome.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Silva</LastName>
+<ForeName>Fernando</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Wilford Hall Medical Center, Lackland AFB, Texas, USA. fernando.silva@lackland.af.mil</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Adams</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feinstein</LastName>
+<ForeName>Jeffery</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arroyo</LastName>
+<ForeName>Ramon A</ForeName>
+<Initials>RA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Clin Rheumatol</MedlineTA>
+<NlmUniqueID>9518034</NlmUniqueID>
+<ISSNLinking>1076-1608</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019644">Arthroplasty, Replacement, Hip</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002061">Bursa, Synovial</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002062">Bursitis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005269">Femur</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006621">Hip Joint</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007249">Inflammation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>4</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>6</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>4</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18391676</ArticleId>
+<ArticleId IdType="doi">10.1097/RHU.0b013e31816b4471</ArticleId>
+<ArticleId IdType="pii">00124743-200804000-00006</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

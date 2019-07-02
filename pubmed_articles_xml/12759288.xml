@@ -1,0 +1,386 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12759288</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>07</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>05</Month>
+<Day>03</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0003-4967</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>62</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2003</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Annals of the rheumatic diseases</Title>
+<ISOAbbreviation>Ann. Rheum. Dis.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Genetic markers for the efficacy of tumour necrosis factor blocking therapy in rheumatoid arthritis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>526-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Rheumatoid arthritis (RA) is a genetically complex disease where the response to different treatments varies greatly between different patients. This is the case with the tumour necrosis factor (TNF) blocking agents, where 20-40% of patients have been described as non-responders. No predictive markers exist as yet for the prognosis of response.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To analyse whether polymorphisms of several cytokine genes are associated with the responsiveness to TNF blockade with etanercept.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">123 patients with active RA were treated with etanercept and response rates were determined after three months using American College of Rheumatology (ACR)20 and disease activity score (DAS)28 response criteria. Genotyping was done for TNF (-308 TNFA), interleukin (IL)10 (-1087 IL10), transforming growth factor (TGF)beta1 (codon 25 TGFB1), and IL1 receptor antagonist (intron 2 IL1RN).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">24 patients (20%) were defined as non-responders owing to their failure to fulfil any of the ACR20 or DAS28 response criteria. None of the recorded alleles was alone significantly associated with responsiveness to treatment. However, a certain combination of alleles (-308 TNF1/TNF1 and -1087 G/G) was associated with good responsiveness to etanercept (p&lt;0.05). In addition, a combination of alleles influencing interleukin 1 receptor antagonist (IL1Ra) and TGFbeta1 production (A2 allele for IL1RN and rare C allele in codon 25 of TGFB1 gene) was associated with non-responsiveness (p&lt;0.05).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Genetic polymorphisms, which may influence the balance of pro- and anti-inflammatory cytokines of relevance for the course of RA, are associated with clinical responsiveness to etanercept treatment.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Padyukov</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Rheumatology, Karolinska Hospital, Karolinska Institutet, Stockholm, Sweden. leonid.padyukov@cmm.ki.se</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lampa</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heimbürger</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ernestam</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cederholm</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lundkvist</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andersson</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hermansson</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harju</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Klareskog</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bratt</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Ann Rheum Dis</MedlineTA>
+<NlmUniqueID>0372355</NlmUniqueID>
+<ISSNLinking>0003-4967</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018501">Antirheumatic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005819">Genetic Markers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007074">Immunoglobulin G</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018124">Receptors, Tumor Necrosis Factor</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011993">Recombinant Fusion Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>OP401G7OJC</RegistryNumber>
+<NameOfSubstance UI="D000068800">Etanercept</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018501">Antirheumatic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001172">Arthritis, Rheumatoid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016207">Cytokines</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000068800">Etanercept</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005819">Genetic Markers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007074">Immunoglobulin G</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018579">Patient Selection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011110">Polymorphism, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018124">Receptors, Tumor Necrosis Factor</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011993">Recombinant Fusion Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>5</Month>
+<Day>22</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>7</Month>
+<Day>19</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>5</Month>
+<Day>22</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12759288</ArticleId>
+<ArticleId IdType="pmc">PMC1754569</ArticleId>
+<ArticleId IdType="doi">10.1136/ard.62.6.526</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Ann Intern Med. 1992 Nov 15;117(10):801-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1416553</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1999 Jul;56(1):281-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10411704</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 1994 Aug;37(8):1166-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8053954</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1994 Oct 6;371(6497):508-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7935762</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Exp Immunol. 1995 Feb;99(2):303-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7851026</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 1995 Jun;38(6):727-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7779114</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tissue Antigens. 1996 Sep;48(3):153-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8896173</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Immunogenet. 1997 Feb;24(1):1-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9043871</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1999 Dec 4;354(9194):1932-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10622295</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 2000 Jun;59(6):439-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10834861</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2000 Nov 30;343(22):1586-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11096165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2000 Nov;43(11):2391-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11083259</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2001 Mar 22;344(12):907-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11259725</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2001 May;120(6):1347-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11313304</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Immun. 2001 Aug;2(5):280-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11528523</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 1988 Mar;31(3):315-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3358796</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tissue Antigens. 1992 May;39(5):225-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1357775</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1997 Apr 1;94(7):3195-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9096369</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Immunol. 1997 Apr;34(5):391-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9293772</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 1997 Sep 15;64(5):776-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9311720</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Immunol Immunopathol. 1998 Jun;87(3):309-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9646842</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 1998 Oct 27;66(8):1014-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9808485</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 1999 Apr;42(4):757-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10211891</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Genet. 1993 May;91(4):403-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8500797</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

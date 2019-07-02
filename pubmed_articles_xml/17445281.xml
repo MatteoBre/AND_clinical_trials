@@ -1,0 +1,196 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17445281</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>10</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0033-2917</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>37</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Psychological medicine</Title>
+<ISOAbbreviation>Psychol Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Suicide and occupation: the impact of socio-economic, demographic and psychiatric differences.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1131-40</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">To explore the risk of suicide associated with occupation while evaluating the impact of socio-economic, demographic and psychiatric differences.</AbstractText>
+<AbstractText Label="METHOD" NlmCategory="METHODS">A nested case-control study with 3195 suicides and 63 900 matched controls. Information on causes of death, occupation, psychiatric admission, marital status and socio-economic factors was obtained from routine registers.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Across the 55 occupations investigated, the risk of suicide ranged from 2.73 [95% confidence interval (CI) 1.77-4.22] among doctors to 0.44 (95% CI 0.27-0.72) among architects and engineers compared with primary school teachers. With the exception of doctors and nurses, most of the excess risk of suicide associated with particular occupations is explained by the social and economic characteristics of people in those occupations. Much, but not all, of the excess risk in doctors and nurses is due to their increased use of self-poisoning, a method for which they have the knowledge to use effectively. Occupation has little association with suicide among people who suffer from a psychiatric illness, except for doctors, where the excess risk is 3.62 (p=0.007).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Most of the considerable variation in suicide risk across occupations is explained by socio-economic factors, except for doctors and nurses. Apart from in doctors, the risk of suicide has little association with occupation among people who suffer from a psychiatric illness. Restriction of access to lethal means is an important strategy in suicide prevention.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Agerbo</LastName>
+<ForeName>Esben</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>National Centre for Register-based Research, University of Aarhus, Aarhus C, Denmark. ea@ncrr.dk</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gunnell</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bonde</LastName>
+<ForeName>Jens Peter</ForeName>
+<Initials>JP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mortensen</LastName>
+<ForeName>Preben Bo</ForeName>
+<Initials>PB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nordentoft</LastName>
+<ForeName>Merete</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>04</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Psychol Med</MedlineTA>
+<NlmUniqueID>1254142</NlmUniqueID>
+<ISSNLinking>0033-2917</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Psychol Med. 2007 Aug;37(8):1073-4</RefSource>
+<PMID Version="1">17537286</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001108">Architecture</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002423">Cause of Death</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003430">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003718">Denmark</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004738">Engineering</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005178">Faculty</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001523">Mental Disorders</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009726">Nurses</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009790">Occupations</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010820">Physicians</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012042">Registries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012959">Socioeconomic Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013405">Suicide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>4</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>10</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>4</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17445281</ArticleId>
+<ArticleId IdType="pii">S0033291707000487</ArticleId>
+<ArticleId IdType="doi">10.1017/S0033291707000487</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

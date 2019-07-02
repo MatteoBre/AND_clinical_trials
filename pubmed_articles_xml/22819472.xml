@@ -1,0 +1,437 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22819472</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1552-6259</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>94</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Annals of thoracic surgery</Title>
+<ISOAbbreviation>Ann. Thorac. Surg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The role of consolidation therapy for stage III non-small cell lung cancer with persistent N2 disease after induction chemotherapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>914-20</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.athoracsur.2012.04.088</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Persistent pathologic mediastinal nodal involvement after induction chemotherapy and surgical resection is a negative prognostic factor for stage III-N2 non-small cell lung cancer patients. This population has high rates of local-regional failure and distant failure, yet the effectiveness of additional therapies is not clear. We assessed the role of consolidative therapies (postoperative radiation therapy and chemotherapy) for such patients.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">In all, 179 patients with stage III-N2 non-small cell lung cancer at MD Anderson Cancer Center were treated with induction chemotherapy followed by surgery from 1998 through 2008; 61 patients in this cohort had persistent, pathologically confirmed, mediastinal nodal disease, and were treated with postoperative radiation therapy. Local-regional failure was defined as recurrence at the surgical site or lymph nodes (levels 1 to 14, including supraclavicular), or both. Overall survival was calculated using the Kaplan-Meier method, and survival outcomes were assessed by log rank tests. Univariate and multivariate Cox proportional hazards models were used to identify factors influencing local-regional failure, distant failure, and overall survival.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">All patients received postoperative radiation therapy after surgery, but approximately 25% of the patients also received additional chemotherapy: 9 (15%) with concurrent chemotherapy, 4 (7%) received adjuvant sequential chemotherapy, and 2 (3%) received both. Multivariate analysis indicated that additional postoperative chemotherapy significantly reduced distant failure (hazard ratio 0.183, 95% confidence interval: 0.052 to 0.649, p=0.009) and improved overall survival (hazard ratio 0.233, 95% confidence interval: 0.089 to 0.612, p=0.003). However, additional postoperative chemotherapy had no affect on local-regional failure.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Aggressive consolidative therapies may improve outcomes for patients with persistent N2 disease after induction chemotherapy and surgery.</AbstractText>
+<CopyrightInformation>Copyright © 2012 The Society of Thoracic Surgeons. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Amini</LastName>
+<ForeName>Arya</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, University of Texas MD Anderson Cancer Center, Houston, Texas 77030, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Correa</LastName>
+<ForeName>Arlene M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Komaki</LastName>
+<ForeName>Ritsuko</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chang</LastName>
+<ForeName>Joe Y</ForeName>
+<Initials>JY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tsao</LastName>
+<ForeName>Anne S</ForeName>
+<Initials>AS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roth</LastName>
+<ForeName>Jack A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Swisher</LastName>
+<ForeName>Stephen G</ForeName>
+<Initials>SG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rice</LastName>
+<ForeName>David C</ForeName>
+<Initials>DC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vaporciyan</LastName>
+<ForeName>Ara A</ForeName>
+<Initials>AA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lin</LastName>
+<ForeName>Steven H</ForeName>
+<Initials>SH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P30 CA016672</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P50 CA070907</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>CA016672</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>07</Month>
+<Day>21</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Ann Thorac Surg</MedlineTA>
+<NlmUniqueID>15030100R</NlmUniqueID>
+<ISSNLinking>0003-4975</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Ann Thorac Surg. 2012 Sep;94(3):920-1</RefSource>
+<PMID Version="1">22916752</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Semin Thorac Cardiovasc Surg. 2014 Spring;26(1):67-70</RefSource>
+<PMID Version="1">24952759</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000704">Analysis of Variance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002289">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000556">secondary</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018572">Disease-Free Survival</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D060828">Induction Chemotherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008198">Lymph Nodes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008207">Lymphatic Metastasis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008482">Mediastinum</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015999">Multivariate Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009361">Neoplasm Invasiveness</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011013">Pneumonectomy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018714">Radiotherapy, Adjuvant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>02</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2012</Year>
+<Month>04</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>04</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22819472</ArticleId>
+<ArticleId IdType="pii">S0003-4975(12)00960-5</ArticleId>
+<ArticleId IdType="doi">10.1016/j.athoracsur.2012.04.088</ArticleId>
+<ArticleId IdType="pmc">PMC3468148</ArticleId>
+<ArticleId IdType="mid">NIHMS405525</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Cancer. 1999 Jul 15;86(2):265-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10421262</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 1990 Jan;99(1):48-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2152952</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1994 Jan 20;330(3):153-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8043059</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2000 Oct 26;343(17):1217-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11071672</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2008 Jul 20;26(21):3552-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18506026</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2012 Jan 10;30(2):172-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22124104</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Surg Oncol. 2006 Dec 1;94(7):599-606</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17039491</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2007 Sep;132(3 Suppl):243S-265S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17873172</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2000 Dec;70(6):1826-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11156079</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Cancer. 2006 Apr 24;94(8):1099-106</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16622435</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2005 May 20;23(15):3480-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15908657</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2003 Jul 1;56(3):616-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12788166</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2003 May 1;21(9):1752-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12721251</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Cancer. 1996 Aug;74(4):632-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8761382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lung Cancer. 1997 May;17(1):147-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9194034</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2000 Jul 1;47(4):925-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10863061</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 1997 Nov;64(5):1402-7; discussion 1407-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9386711</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst. 1994 May 4;86(9):673-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8158698</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Jun 23;352(25):2589-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15972865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2008 Nov 1;72(3):695-701</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18439766</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 Jan 22;350(4):351-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14736927</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2007 Oct 20;25(30):4736-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17947721</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Zhongguo Fei Ai Za Zhi. 2008 Jun 20;11(3):398-405</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20731942</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

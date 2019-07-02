@@ -1,0 +1,779 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24158121</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>01</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-5497</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>International journal of obesity (2005)</Title>
+<ISOAbbreviation>Int J Obes (Lond)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Newborns of obese parents have altered DNA methylation patterns at imprinted genes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>650-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/ijo.2013.193</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Several epidemiologic studies have demonstrated associations between periconceptional environmental exposures and health status of the offspring in later life. Although these environmentally related effects have been attributed to epigenetic changes, such as DNA methylation shifts at imprinted genes, little is known about the potential effects of maternal and paternal preconceptional overnutrition or obesity.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We examined parental preconceptional obesity in relation to DNA methylation profiles at multiple human imprinted genes important in normal growth and development, such as: maternally expressed gene 3 (MEG3), mesoderm-specific transcript (MEST), paternally expressed gene 3 (PEG3), pleiomorphic adenoma gene-like 1 (PLAGL1), epsilon sarcoglycan and paternally expressed gene 10 (SGCE/PEG10) and neuronatin (NNAT).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We measured methylation percentages at the differentially methylated regions (DMRs) by bisulfite pyrosequencing in DNA extracted from umbilical cord blood leukocytes of 92 newborns. Preconceptional obesity, defined as BMI ⩾30 kg m(-2), was ascertained through standardized questionnaires.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">After adjusting for potential confounders and cluster effects, paternal obesity was significantly associated with lower methylation levels at the MEST (β=-2.57; s.e.=0.95; P=0.008), PEG3 (β=-1.71; s.e.=0.61; P=0.005) and NNAT (β=-3.59; s.e.=1.76; P=0.04) DMRs. Changes related to maternal obesity detected at other loci were as follows: β-coefficient was +2.58 (s.e.=1.00; P=0.01) at the PLAGL1 DMR and -3.42 (s.e.=1.69; P=0.04) at the MEG3 DMR.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We found altered methylation outcomes at multiple imprint regulatory regions in children born to obese parents, compared with children born to non-obese parents. In spite of the small sample size, our data suggest a preconceptional influence of parental life-style or overnutrition on the (re)programming of imprint marks during gametogenesis and early development. More specifically, the significant and independent association between paternal obesity and the offspring's methylation status suggests the susceptibility of the developing sperm for environmental insults. The acquired imprint instability may be carried onto the next generation and increase the risk for chronic diseases in adulthood.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Soubry</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>1] Duke Cancer Institute, Duke University Medical Center, Durham, NC, USA [2] Epidemiology Research Group, Department of Public Health and Primary Care, Faculty of Medicine, KULeuven, Leuven, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Murphy</LastName>
+<ForeName>S K</ForeName>
+<Initials>SK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, Division of Gynecologic Oncology, Duke University Medical Center, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Duke Cancer Institute, Duke University Medical Center, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Z</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, Division of Gynecologic Oncology, Duke University Medical Center, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vidal</LastName>
+<ForeName>A C</ForeName>
+<Initials>AC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, Division of Clinical and Epidemiologic Research and Cancer Prevention, Duke University Medical Center, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fuemmeler</LastName>
+<ForeName>B F</ForeName>
+<Initials>BF</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Community and Family Medicine, Duke University Medical Center, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kurtzberg</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Carolinas Cord Blood Bank, Robertson Cell and Translational Therapy Program, Duke Translational Research Institute, Duke University Medical Center, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Murtha</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, Division of Maternal and Fetal Medicine, Duke University Medical Center, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jirtle</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Oncology, McArdle Laboratory for Cancer Research, University of Wisconsin, Madison, WI, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schildkraut</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+<AffiliationInfo>
+<Affiliation>1] Duke Cancer Institute, Duke University Medical Center, Durham, NC, USA [2] Department of Community and Family Medicine, Duke University Medical Center, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hoyo</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, Division of Clinical and Epidemiologic Research and Cancer Prevention, Duke University Medical Center, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R21ES014947</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R21 ES014947</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30ES011961</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R25CA126938</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R25 CA126938</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 ES011961</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01DK085173</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 ES016772</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK085173</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01ES016772</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>25</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Int J Obes (Lond)</MedlineTA>
+<NlmUniqueID>101256108</NlmUniqueID>
+<ISSNLinking>0307-0565</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018797">Cell Cycle Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051741">Kruppel-Like Transcription Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C490237">NNAT protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D009419">Nerve Tissue Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C432965">PEG10 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C490820">PEG3 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C106464">PLAGL1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C526572">SGCE protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D049031">Sarcoglycans</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D025521">Tumor Suppressor Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C103637">mesoderm specific transcript protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>67763-97-7</RegistryNumber>
+<NameOfSubstance UI="D007335">Insulin-Like Growth Factor II</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018797">Cell Cycle Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019175">DNA Methylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004781">Environmental Exposure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005312">Fetal Blood</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D018392">Genomic Imprinting</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007335">Insulin-Like Growth Factor II</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051741">Kruppel-Like Transcription Factors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008565">Membrane Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009419">Nerve Tissue Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009765">Obesity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010290">Parents</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011506">Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049031">Sarcoglycans</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017422">Sequence Analysis, DNA</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014157">Transcription Factors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D025521">Tumor Suppressor Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014470">Umbilical Cord</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>06</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24158121</ArticleId>
+<ArticleId IdType="pii">ijo2013193</ArticleId>
+<ArticleId IdType="doi">10.1038/ijo.2013.193</ArticleId>
+<ArticleId IdType="pmc">PMC4048324</ArticleId>
+<ArticleId IdType="mid">NIHMS584637</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Clin Epigenetics. 2011 Oct 26;3:2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22414206</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2004 Apr;126(4):964-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15057734</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Development. 2009 Oct;136(20):3413-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19762426</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Head Neck. 2004 Apr;26(4):338-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15054737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2010 Dec 23;143(7):1084-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21183072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Reproduction. 2010 Sep;140(3):387-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20562299</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Med. 2013;11:29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23388414</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutrition. 2006 Mar;22(3):327-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16500559</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Rev. 2006 May;7(2):201-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16629875</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 2013 Apr;62(4):1320-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23209187</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br Med Bull. 2001;60:5-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11809615</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gene. 2012 Feb 15;494(1):36-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22202639</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Epigenetics. 2009 Feb 16;4(2):114-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19242102</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Regul Integr Comp Physiol. 2008 Jul;295(1):R189-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18448610</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2011;6(10):e26410</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22039481</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2000 Mar;71(3):829-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10702180</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2009;4(11):e7845</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19924280</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1976 Aug 12;295(7):349-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">934222</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Paediatr Suppl. 1997 Nov;423:178-82; discussion 183</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9401568</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2008 Apr;134(4):953-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18395076</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2006 Aug;84(2):322-7; quiz 466-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16895878</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Res. 2013 Apr;73(4 Pt 2):523-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23314296</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutrition. 2004 Jan;20(1):63-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14698016</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 1999 Dec 9;18(52):7527-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10602511</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gynecol Oncol. 2004 Dec;95(3):449-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15581945</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Cell. 2006 Nov;11(5):711-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17084362</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1994 Jul;7(3):433-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7920665</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Hum Genet. 2002 Nov;10(11):682-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12404098</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Soc Sci Med. 2013 Nov;97:259-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23313495</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Rev Camb Philos Soc. 2008 Nov;83(4):441-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18783362</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Reprod Med. 2011 May;29(3):266-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21769766</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2005 Apr;90(4):2179-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15644399</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Endocrinol Metab. 2005 Jan;288(1):E117-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15353408</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hypertens. 1999 Mar;17(3):325-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10100069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2009 Feb 11;301(6):636-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19211471</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Res. 2012 Jan;71(1):32-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22289848</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2011 Aug 15;129(4):773-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21400503</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Obes (Lond). 2013 Jul;37(7):907-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23609933</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Reprod Toxicol. 2011 Apr;31(3):363-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21256208</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Public Health. 2011;11(1):46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21255390</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2002 Nov 15;62(22):6442-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12438232</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2010 Oct 21;467(7318):963-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20962845</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(2):e56325</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23418553</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fertil Steril. 2013 Mar 1;99(3):632-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23357453</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obesity (Silver Spring). 2010 Jul;18(7):1289-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19851307</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 1999 Jul 8;18(27):3979-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10435621</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Jpn Acad Ser B Phys Biol Sci. 2009;85(4):157-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19367087</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatrics. 2012 May;129(5):e1121-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22492772</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1998 Oct;20(2):163-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9771709</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Reprod. 2013 May;88(5):117</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23515675</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer Res. 2005 Sep;3(9):483-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16179495</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Schizophr Bull. 2001;27(3):379-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11596842</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2008 Oct;93(10):4119-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18628527</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Obes (Lond). 2008 Mar;32(3):550-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17938639</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2009 Jun;89(6):1737-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19386743</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2008 Nov 4;105(44):17046-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18955703</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(7):e40924</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22808284</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Biol. 2006 Nov-Dec;18(6):853-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17039469</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer Res. 2006 Apr;4(4):283-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16603642</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Genet. 2007 Apr;8(4):253-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17363974</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2010 Oct;140(10):1874-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20702751</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

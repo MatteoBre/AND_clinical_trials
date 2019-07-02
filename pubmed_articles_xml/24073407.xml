@@ -1,0 +1,424 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24073407</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>04</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">2314-6141</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>2013</Volume>
+<PubDate>
+<Year>2013</Year>
+</PubDate>
+</JournalIssue>
+<Title>BioMed research international</Title>
+<ISOAbbreviation>Biomed Res Int</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effects of repeated central administration of endothelin type A receptor antagonist on the development of neuropathic pain in rats.</ArticleTitle>
+<Pagination>
+<MedlinePgn>529871</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1155/2013/529871</ELocationID>
+<Abstract>
+<AbstractText>Endothelin-1 (ET-1) predominates in the endothelin family effectively in vascular tone control, mitogenesis, and neuromodulation. Its receptors are widespread in the central nervous system (CNS) associated with endogenous pain control, suggesting an important role of ET-1 in central pain processing. This study aimed to evaluate the effect of central ET-1 on the development of neuropathic pain behaviour by repeated intrathecal administration of endothelin type A receptor (ETAR) antagonist (BQ-123) in a sciatic nerve ligation (SNL) animal model. BQ-123 was administered intrathecally to rats at dosages 15 μg, 20 μg, 25 μg, and 30 μg, daily for 3 days. Mechanical allodynia was assessed daily 30 minutes before/after injection, 1 hour after injection of BQ-123 from post-SNL day 4 to day 6, and once on day 7 (without BQ-123 administration) before rats were sacrificed. Increasing trends of mechanical threshold were observed, and they reached significance at all dosages on post-SNL day 7 (P &lt; 0.05 at dosage 15 μg and P &lt; 0.001 at dosages 20 μg, 25 μg, and 30 μg) in comparison to control group. BQ-123 at dosage 30 μg showed the most stable and significant mechanical threshold rise. Repeated central administration of BQ-123 alleviated mechanical allodynia after SNL. Our results provide insight into the therapeutic strategies, including timing, against neuropathic pain development with ETAR antagonist.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Tai</LastName>
+<ForeName>Lydia W</ForeName>
+<Initials>LW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Anaesthesiology, The University of Hong Kong, Queen Mary Hospital, Room 424, 4/F, Block K, 102 Pokfulam, Pokfulam, Hong Kong ; Laboratory and Clinical Research Institute for Pain, The University of Hong Kong, Queen Mary Hospital, Room 424, 4/F, Block K, 102 Pokfulam, Pokfulam, Hong Kong.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hung</LastName>
+<ForeName>Victor K L</ForeName>
+<Initials>VK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mei</LastName>
+<ForeName>Wei</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Qiu</LastName>
+<ForeName>Qiu</ForeName>
+<Initials>Q</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chung</LastName>
+<ForeName>Sookja K</ForeName>
+<Initials>SK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cheung</LastName>
+<ForeName>C W</ForeName>
+<Initials>CW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>29</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Biomed Res Int</MedlineTA>
+<NlmUniqueID>101600173</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D065130">Endothelin A Receptor Antagonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010456">Peptides, Cyclic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D044022">Receptor, Endothelin A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>S2A8YZM151</RegistryNumber>
+<NameOfSubstance UI="C072247">cyclo(Trp-Asp-Pro-Val-Leu)</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D065130">Endothelin A Receptor Antagonists</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006930">Hyperalgesia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007278">Injections, Spinal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008026">Ligation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009437">Neuralgia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010456">Peptides, Cyclic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044022">Receptor, Endothelin A</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012584">Sciatic Nerve</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012684">Sensory Thresholds</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>04</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>06</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>4</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24073407</ArticleId>
+<ArticleId IdType="doi">10.1155/2013/529871</ArticleId>
+<ArticleId IdType="pmc">PMC3773389</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Pain. 2009 Jan;10(1):4-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19111868</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Protoc Neurosci. 2003 May;Chapter 9:Unit 9.14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18428587</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Peptides. 2009 May;30(5):918-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19428770</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain. 2009 Jul;10(7):740-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19559390</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 2010 Jan 20;165(2):553-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19874873</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 2010 May;149(2):305-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20223588</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 2011 Mar 31;178:189-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21277948</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesth Analg. 2011 Aug;113(2):398-404</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21490083</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 2012 Jan;153(1):177-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22078661</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Toxicol Methods. 2012 Jul;66(1):8-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22575456</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Pharmacol. 2012 Dec 15;697(1-3):40-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23041152</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pharmacol Biochem Behav. 2013 Feb;103(4):735-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23159543</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Pharmacol. 2000 Jan 24;388(1):29-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10657544</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Pharmacol. 2000 Mar;129(5):961-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10696096</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2001 Feb 1;21(3):999-1006</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11157085</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2001 Jul 15;21(14):5358-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11438612</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroreport. 2001 Dec 4;12(17):3853-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11726808</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2003 Aug;9(8):1055-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12847519</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Naunyn Schmiedebergs Arch Pharmacol. 2004 Feb;369(2):245-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14661069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chem Neuroanat. 2004 May;27(2):87-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15121213</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Pharmacol. 2004 Oct 6;501(1-3):87-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15464066</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 1990 Nov;43(2):205-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1982347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Histochemistry. 1991;95(3):303-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2050550</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods Find Exp Clin Pharmacol. 1992 Apr;14(3):229-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1625506</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 1994 Oct;271(1):156-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7965709</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Life Sci. 1996;58(10):PL 177-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8602109</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 1996 Feb;276(2):647-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8632332</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci Methods. 1996 Apr;65(2):167-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8740594</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 1996 May-Jun;65(2-3):205-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8826508</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comp Neurol. 1997 Dec 15;389(2):348-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9416926</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroreport. 1998 Jul 13;9(10):2279-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9694215</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cardiovasc Pharmacol. 2004 Nov;44 Suppl 1:S318-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15838310</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesth Analg. 2005 Dec;101(6):1757-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16301255</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Neurol. 2006 Oct;201(2):399-406</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16806184</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuropeptides. 2008 Apr;42(2):119-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18194815</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res Rev. 2009 Apr;60(1):36-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19150466</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

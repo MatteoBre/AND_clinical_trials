@@ -1,0 +1,496 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24642382</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>06</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1552-6844</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>9</Issue>
+<PubDate>
+<MedlineDate>2014 Nov-Dec</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Neurorehabilitation and neural repair</Title>
+<ISOAbbreviation>Neurorehabil Neural Repair</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Corticospinal excitability as a predictor of functional gains at the affected upper limb following robotic training in chronic stroke survivors.</ArticleTitle>
+<Pagination>
+<MedlinePgn>819-27</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1177/1545968314527351</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Robotic training can help improve function of a paretic limb following a stroke, but individuals respond differently to the training. A predictor of functional gains might improve the ability to select those individuals more likely to benefit from robot-based therapy. Studies evaluating predictors of functional improvement after a robotic training are scarce. One study has found that white matter tract integrity predicts functional gains following a robotic training of the hand and wrist. Objective. To determine the predictive ability of behavioral and brain measures in order to improve selection of individuals for robotic training.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Twenty subjects with chronic stroke participated in an 8-week course of robotic exoskeletal training for the arm. Before training, a clinical evaluation, functional magnetic resonance imaging (fMRI), diffusion tensor imaging, and transcranial magnetic stimulation (TMS) were each measured as predictors. Final functional gain was defined as change in the Box and Block Test (BBT). Measures significant in bivariate analysis were fed into a multivariate linear regression model.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Training was associated with an average gain of 6 ± 5 blocks on the BBT (P &lt; .0001). Bivariate analysis revealed that lower baseline motor-evoked potential (MEP) amplitude on TMS, and lower laterality M1 index on fMRI each significantly correlated with greater BBT change. In the multivariate linear regression analysis, baseline MEP magnitude was the only measure that remained significant.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Subjects with lower baseline MEP magnitude benefited the most from robotic training of the affected arm. These subjects might have reserve remaining for the training to boost corticospinal excitability, translating into functional gains.</AbstractText>
+<CopyrightInformation>© The Author(s) 2014.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Milot</LastName>
+<ForeName>Marie-Hélène</ForeName>
+<Initials>MH</Initials>
+<AffiliationInfo>
+<Affiliation>Université de Sherbrooke, Sherbrooke, Quebec, Canada University of California; Irvine, CA, USA marie-helene.milot@usherbrooke.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spencer</LastName>
+<ForeName>Steven J</ForeName>
+<Initials>SJ</Initials>
+<AffiliationInfo>
+<Affiliation>University of California; Irvine, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chan</LastName>
+<ForeName>Vicky</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>University of California; Irvine, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Allington</LastName>
+<ForeName>James P</ForeName>
+<Initials>JP</Initials>
+<AffiliationInfo>
+<Affiliation>University of California; Irvine, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Klein</LastName>
+<ForeName>Julius</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>University of California; Irvine, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chou</LastName>
+<ForeName>Cathy</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>University of California; Irvine, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pearson-Fuhrhop</LastName>
+<ForeName>Kristin</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>University of California; Irvine, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bobrow</LastName>
+<ForeName>James E</ForeName>
+<Initials>JE</Initials>
+<AffiliationInfo>
+<Affiliation>University of California; Irvine, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Reinkensmeyer</LastName>
+<ForeName>David J</ForeName>
+<Initials>DJ</Initials>
+<AffiliationInfo>
+<Affiliation>University of California; Irvine, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cramer</LastName>
+<ForeName>Steven C</ForeName>
+<Initials>SC</Initials>
+<AffiliationInfo>
+<Affiliation>University of California; Irvine, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>K24 HD074722</GrantID>
+<Acronym>HD</Acronym>
+<Agency>NICHD NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>M01 RR000827</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HD33352</GrantID>
+<Acronym>HD</Acronym>
+<Agency>NICHD NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5M011 RR-00827-29</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>03</Month>
+<Day>18</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Neurorehabil Neural Repair</MedlineTA>
+<NlmUniqueID>100892086</NlmUniqueID>
+<ISSNLinking>1545-9683</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>S88TT14065</RegistryNumber>
+<NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002908">Chronic Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056324">Diffusion Tensor Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019054">Evoked Potentials, Motor</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005081">Exercise Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007839">Functional Laterality</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007091">Image Processing, Computer-Assisted</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010100">Oxygen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011712">Pyramidal Tracts</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000098">blood supply</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020127">Recovery of Function</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012371">Robotics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020521">Stroke</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000071939">Stroke Rehabilitation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017741">Survivors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050781">Transcranial Magnetic Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D034941">Upper Extremity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">function</Keyword>
+<Keyword MajorTopicYN="N">predictor</Keyword>
+<Keyword MajorTopicYN="N">robot</Keyword>
+<Keyword MajorTopicYN="N">stroke</Keyword>
+<Keyword MajorTopicYN="N">training</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>6</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24642382</ArticleId>
+<ArticleId IdType="pii">1545968314527351</ArticleId>
+<ArticleId IdType="doi">10.1177/1545968314527351</ArticleId>
+<ArticleId IdType="pmc">PMC4167999</ArticleId>
+<ArticleId IdType="mid">NIHMS568216</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Neurology. 2006 Oct 10;67(7):1189-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17030751</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1992 Feb;115 Pt 1:87-107</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1559165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuroeng Rehabil. 2006 Jun 21;3:12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16790067</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2008 Feb;131(Pt 2):425-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18156154</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2007 Jan;130(Pt 1):170-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17148468</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2007 Jan 1;34(1):322-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17045490</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuroeng Rehabil. 2013;10:112</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24354476</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2006 Jul 15;31(4):1453-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16571375</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Phys Med Rehabil. 2002 Jul;83(7):952-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12098155</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Protoc. 2007;2(7):1675-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17641632</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PM R. 2010 Dec;2(12 Suppl 2):S227-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21172685</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rehabil Med. 2009 Nov;41(12):955-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19841823</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2007 Jul;38(7):2108-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17540966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Rehabil. 2012 Apr;26(4):291-313</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22023891</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Conf Proc IEEE Eng Med Biol Soc. 2009;2009:2439-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19965205</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurorehabil Neural Repair. 2005 Sep;19(3):194-205</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16093410</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2006 Jun;37(6):1552-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16645139</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Disabil Rehabil. 2007 Apr 15;29(7):559-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17453976</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1973 Jun;23(6):658-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4736313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Electroencephalogr Clin Neurophysiol. 1994 Aug;91(2):79-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7519144</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Neurol Neurosci Rep. 2013 Feb;13(2):329</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23299824</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Restor Neurol Neurosci. 2002;20(1-2):21-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12237494</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2010 May 13;362(19):1772-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20400552</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Phys Med Rehabil. 1992 Apr;73(4):339-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1554307</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2010 Jan 1;49(1):94-103</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19679191</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2011 Feb;42(2):421-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21164128</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurorehabil Neural Repair. 2004 Dec;18(4):230-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15537994</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Rehabil Med. 1975;7(1):13-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1135616</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuroeng Rehabil. 2009;6:46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20017939</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Occup Ther. 1985 Jun;39(6):386-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3160243</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2010 Feb 23;121(7):e46-e215</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20019324</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurorehabil Neural Repair. 2009 May;23(4):336-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18984830</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2008 Mar;63(3):272-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18383072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2010 Oct;41(10 Suppl):S114-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20876483</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

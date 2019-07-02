@@ -1,0 +1,209 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26416843</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>01</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>01</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1471-8405</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>66</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Occupational medicine (Oxford, England)</Title>
+<ISOAbbreviation>Occup Med (Lond)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Depressive symptoms and psychosocial aspects of work in bank employees.</ArticleTitle>
+<Pagination>
+<MedlinePgn>54-61</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1093/occmed/kqv124</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The financial sector has seen an increase in the number of cases of violence and stress, which can result in adverse health outcomes, including depressive symptoms, but studies related to stress at work and depression for these workers are scarce.</AbstractText>
+<AbstractText Label="AIMS" NlmCategory="OBJECTIVE">To investigate the association between exposure to psychosocial work stressors and depressive symptoms in bank employees.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A self-administered questionnaire was completed by a sample of bank employees in Pará and Amapá, Brazil. The survey assessed sociodemographic characteristics, mental health (Patient Health Questionnaire-9), Demand-Control-Support and Effort-Reward Imbalance (ERI). Outcomes included two levels of depressive symptoms: major depressive symptoms (MDS) and other forms of depressive symptoms (ODS). Logistic regression models were used to estimate associations between depressive symptoms, the two job stress models and relevant covariates.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 2806 eligible subjects, there were 1445 respondents (52% response rate) and the final analyses included 1046 participants. The overall prevalence of depressive symptoms was 32% (MDS = 18%; ODS = 14%), with no statistically significant difference between men and women. High demands, low levels of control and low social support were associated with MDS and/or ODS, adjusted for gender, age and other work-related conditions. High effort/low reward, over-commitment and ERI were also associated with MDS and ODS.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Psychosocial conditions in banking activity involving high strain, low social support at work, high effort with low reward and over-commitment may represent possible risk factors for depressive symptoms in bank employees.</AbstractText>
+<CopyrightInformation>© The Author 2015. Published by Oxford University Press on behalf of the Society of Occupational Medicine. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Valente</LastName>
+<ForeName>M S S</ForeName>
+<Initials>MS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Preventive Medicine, Faculty of Medicine, University of São Paulo, São Paulo 01246-903, Brazil, xmarival@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Menezes</LastName>
+<ForeName>P R</ForeName>
+<Initials>PR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Preventive Medicine, Faculty of Medicine, University of São Paulo, São Paulo 01246-903, Brazil, Center of Research in Mental Health Population, University of São Paulo, São Paulo 01246-903, Brazil.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pastor-Valero</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Public Health, History of Science and Gynecology, Faculty of Medicine, Miguel Hernández University, Campus de San Juan, Spain, CIBER en Epidemiología y Salud Pública (CIBERESP), Madrid, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lopes</LastName>
+<ForeName>C S</ForeName>
+<Initials>CS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Institute of Social Medicine, State University of Rio de Janeiro, Rio de Janeiro 20550-013, Brazil.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>09</Month>
+<Day>28</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Occup Med (Lond)</MedlineTA>
+<NlmUniqueID>9205857</NlmUniqueID>
+<ISSNLinking>0962-7480</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000067012">Banking, Personal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001938">Brazil</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003132">Commerce</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003863">Depression</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003865">Depressive Disorder, Major</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004651">Employment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007588">Job Satisfaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009784">Occupational Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016273">Occupational Exposure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009790">Occupations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011209">Power (Psychology)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012201">Reward</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012944">Social Support</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013315">Stress, Psychological</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011795">Surveys and Questionnaires</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014937">Work</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Banking working</Keyword>
+<Keyword MajorTopicYN="N">cross-sectional studies</Keyword>
+<Keyword MajorTopicYN="N">depressive symptoms</Keyword>
+<Keyword MajorTopicYN="N">mental health</Keyword>
+<Keyword MajorTopicYN="N">psychosocial work stressors</Keyword>
+<Keyword MajorTopicYN="N">working conditions.</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>1</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26416843</ArticleId>
+<ArticleId IdType="pii">kqv124</ArticleId>
+<ArticleId IdType="doi">10.1093/occmed/kqv124</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

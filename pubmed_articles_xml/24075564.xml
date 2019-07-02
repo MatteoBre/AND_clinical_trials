@@ -1,0 +1,688 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24075564</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>07</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1097-685X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>147</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of thoracic and cardiovascular surgery</Title>
+<ISOAbbreviation>J. Thorac. Cardiovasc. Surg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Risk factors for prolonged length of stay after the stage 2 procedure in the single-ventricle reconstruction trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1791-8, 1798.e1-4</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jtcvs.2013.07.063</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0022-5223(13)00896-9</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The single-ventricle reconstruction trial randomized patients with single right ventricle lesions to a modified Blalock-Taussig or right ventricle-to-pulmonary artery shunt at the Norwood. This analysis describes outcomes at the stage 2 procedure and factors associated with a longer hospital length of stay (LOS).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We examined the association of shunt type with stage 2 hospital outcomes. Cox regression and bootstrapping were used to evaluate risk factors for longer LOS. We also examined characteristics associated with in-hospital death.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">There were 393 subjects in the analytic cohort. Median stage 2 procedure hospital LOS (8 days; interquartile range [IQR], 6-14 days), hospital mortality (4.3%), transplantation (0.8%), median ventilator time (2 days; IQR, 1-3 days), median intensive care unit LOS (4 days; IQR, 3-7 days), number of additional cardiac procedures or complications, and serious adverse events did not differ by shunt type. Longer LOS was associated (R(2) = 0.26) with center, longer post-Norwood LOS (hazard ratio [HR], 1.93 per log day; P &lt; .001), nonelective timing of the stage 2 procedure (HR, 1.78; P &lt; .001), and pulmonary artery (PA) stenosis (HR, 1.56; P &lt; .001). By univariate analysis, nonelective stage 2 (65% vs 32%; P = .009), moderate or greater atrioventricular valve (AVV) regurgitation (75% vs 24%; P &lt; .001), and AVV repair (53% vs 9%; P &lt; .001) were among the risk factors associated with in-hospital death.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Norwood LOS, PA stenoses, and nonelective stage 2 procedure, but not shunt type, are independently associated with longer LOS. Nonelective stage 2 procedure, moderate or greater AVV regurgitation, and need for AVV repair are among the risk factors for death.</AbstractText>
+<CopyrightInformation>Copyright © 2014 The American Association for Thoracic Surgery. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Schwartz</LastName>
+<ForeName>Steven M</ForeName>
+<Initials>SM</Initials>
+<AffiliationInfo>
+<Affiliation>Divisions of Cardiac Critical Care Medicine and Cardiology, Departments of Critical Care Medicine and Paediatrics, The Hospital for Sick Children, Toronto, Ontario, Canada. Electronic address: steven.schwartz@sickkids.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lu</LastName>
+<ForeName>Minmin</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>New England Research Institutes, Watertown, Mass.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ohye</LastName>
+<ForeName>Richard G</ForeName>
+<Initials>RG</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Pediatric Cardiovascular Surgery, Department of Cardiac Surgery, University of Michigan Medical School, Ann Arbor, Mich.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hill</LastName>
+<ForeName>Kevin D</ForeName>
+<Initials>KD</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cardiology, Department of Pediatrics, Duke University, Durham, NC.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Atz</LastName>
+<ForeName>Andrew M</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Pediatric Cardiology, Department of Pediatrics, Medical University of South Carolina, Charleston, SC.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Naim</LastName>
+<ForeName>Maryam Y</ForeName>
+<Initials>MY</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Critical Care Medicine, Department of Anesthesia and Critical Care, Children's Hospital of Philadelphia, Philadelphia, Pa.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Williams</LastName>
+<ForeName>Ismee A</ForeName>
+<Initials>IA</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Pediatric Cardiology, Department of Pediatrics, Columbia University, New York, NY.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goldberg</LastName>
+<ForeName>Caren S</ForeName>
+<Initials>CS</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Pediatric Cardiology, Department of Pediatrics &amp; Communicable Diseases, University of Michigan Medical School, Ann Arbor, Mich.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lewis</LastName>
+<ForeName>Alan</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cardiology, Department of Pediatrics, Children's Hospital Los Angeles, Los Angeles, Calif.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pigula</LastName>
+<ForeName>Frank</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiac Surgery, Children's Hospital Boston, Boston, Mass.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Manning</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cardiovascular Surgery, Department of Surgery, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pizarro</LastName>
+<ForeName>Christian</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Pediatric Cardiothoracic Surgery, Department of Surgery, Alfred I. duPont Hospital for Children, Wilmington, Del.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chai</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cardiovascular Surgery, All Children's Hospital, Tampa, Fla.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>McCandless</LastName>
+<ForeName>Rachel</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Pediatric Cardiology, Department of Pediatrics, Primary Children's Medical Center, Salt Lake City, Utah.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunbar-Masterson</LastName>
+<ForeName>Carolyn</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiology, Children's Hospital Boston, Boston, Mass.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaltman</LastName>
+<ForeName>Jonathan R</ForeName>
+<Initials>JR</Initials>
+<AffiliationInfo>
+<Affiliation>Heart Development and Structural Diseases Branch, Division of Cardiovascular Sciences, National Heart, Lung, and Blood Institute, Bethesda, Md.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kanter</LastName>
+<ForeName>Kirk</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cardiothoracic Surgery, Department of Surgery, Emory University, Atlanta, Ga.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sleeper</LastName>
+<ForeName>Lynn A</ForeName>
+<Initials>LA</Initials>
+<AffiliationInfo>
+<Affiliation>New England Research Institutes, Watertown, Mass.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schonbeck</LastName>
+<ForeName>Julie V</ForeName>
+<Initials>JV</Initials>
+<AffiliationInfo>
+<Affiliation>New England Research Institutes, Watertown, Mass.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ghanayem</LastName>
+<ForeName>Nancy</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Critical Care Medicine, Department of Pediatrics, Children's Hospital of Wisconsin, Milwaukee, Wis.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>Pediatric Heart Network Investigators</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00115934</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>HL068288</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL068285</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL109737</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U10 HL109781</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL068269</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U10 HL109816</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL068279</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL068290</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL068279</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL068288</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL109781</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U10 HL068270</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL068281</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL068270</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL085057</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U10 HL109737</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U10 HL109777</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL068281</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL068292</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL068269</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL068270</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL085057</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U10 HL109778</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL068290</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL068285</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL068292</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>24</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Thorac Cardiovasc Surg</MedlineTA>
+<NlmUniqueID>0376343</NlmUniqueID>
+<ISSNLinking>0022-5223</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058366">Blalock-Taussig Procedure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006330">Heart Defects, Congenital</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006352">Heart Ventricles</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000002">abnormalities</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017052">Hospital Mortality</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007362">Intensive Care Units</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007902">Length of Stay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015999">Multivariate Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D009656">North America</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058327">Norwood Procedures</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011183">Postoperative Complications</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>04</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>7</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24075564</ArticleId>
+<ArticleId IdType="pii">S0022-5223(13)00896-9</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jtcvs.2013.07.063</ArticleId>
+<ArticleId IdType="pmc">PMC3964142</ArticleId>
+<ArticleId IdType="mid">NIHMS518393</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Circulation. 2012 May 29;125(21):2630-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22523314</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2012 Jul 1;110(1):118-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22464211</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2012 Jul;94(1):164-70; discussion 170-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22560969</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Cardiothorac Surg. 2012 Jul;42(1):42-8; discussion 48-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22290923</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 1999 Oct;68(4):1361-7; discussion 1368</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10543507</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2001 Jul 12;345(2):99-106</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11450679</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2004 Apr;127(4):982-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15052194</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 1993 Apr 15;71(11):959-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8465789</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 1996 Nov;112(5):1180-90; discussion 1190-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8911314</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 1997 Mar 1;29(3):665-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9060909</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 1997 May;29(6):1365-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9137237</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2005 Feb;79(2):613-7; discussion 617</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15680845</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Cardiothorac Surg. 2005 Jun;27(6):956-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15896601</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2007 May;83(5):1768-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17462397</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2007 Jul;134(1):82-9, 89.e1-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17599490</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2007 Aug;134(2):297-303</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17662765</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Interact Cardiovasc Thorac Surg. 2007 Feb;6(1):97-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17669781</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2008 Oct 1;102(7):907-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18805120</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2008 Sep 30;118(14 Suppl):S177-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18824752</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2008 Oct;136(4):968-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18954638</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2008 Nov;136(5):1237-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19026809</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2009 May;87(5):1484-8; discussion 1488-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19379889</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2009 Aug;138(2):397-404.e1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19619784</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2010 Mar;139(3):562-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19909996</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2010 May 27;362(21):1980-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20505177</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2011 Feb;141(2):400-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21241860</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Cardiothorac Surg. 2011 Jul;40(1):e43-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21652002</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Cardiothorac Surg. 2011 Oct;40(4):1000-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21377892</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2012 Oct;144(4):896-906</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22795436</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Cardiol. 2013 Jan;34(1):143-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22673966</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,627 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24127449</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>01</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1527-7755</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>31</Volume>
+<Issue>33</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Nov</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of clinical oncology : official journal of the American Society of Clinical Oncology</Title>
+<ISOAbbreviation>J. Clin. Oncol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Association between the prevalence of symptoms and health-related quality of life in adult survivors of childhood cancer: a report from the St Jude Lifetime Cohort study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>4242-51</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1200/JCO.2012.47.8867</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">We investigated the association between prevalence of symptoms and health-related quality of life (HRQOL) in adult survivors of childhood cancer enrolled in the St Jude Lifetime Cohort study.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Eligibility criteria include childhood malignancy treated at St Jude, survival ≥ 10 years from diagnosis, and current age ≥ 18 years. Study participants were 1,667 survivors (response rate = 65%). Symptoms were self-reported by using a comprehensive health questionnaire and categorized into 12 classes: cardiac; pulmonary; motor/movement; pain in head; pain in back/neck; pain involving sites other than head, neck, and back; sensation abnormalities; disfigurement; learning/memory; anxiety; depression; and somatization. HRQOL was measured by using physical/mental component summary (PCS/MCS) and six domain scores of the Medical Outcomes Study 36-Item Short-Form Health Survey. Multivariable regression analysis was performed to investigate associations between symptom classes and HRQOL. Cumulative prevalence of symptom classes in relation to time from diagnosis was estimated.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Pain involving sites other than head, neck and back, and disfigurement represented the most frequent symptom classes, endorsed by 58.7% and 56.3% of survivors, respectively. Approximately 87% of survivors reported multiple symptom classes. Greater symptom prevalence was associated with poorer HRQOL. In multivariable analysis, symptom classes explained up to 60% of the variance in PCS and 56% of the variance in MCS; demographic and clinical variables explained up to 15% of the variance in PCS and 10% of the variance in MCS. Longer time since diagnosis was associated with higher cumulative prevalence in all symptom classes.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">A large proportion of survivors suffered from many symptom classes, which was associated with HRQOL impairment.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>I-Chan</ForeName>
+<Initials>IC</Initials>
+<AffiliationInfo>
+<Affiliation>I-Chan Huang, Kelly Kenzik, and Elizabeth Shenkman, University of Florida, Gainesville, FL; and Tara M. Brinkman, James G. Gurney, Kirsten K. Ness, Jennifer Lanctot, Leslie L. Robison, Melissa M. Hudson, and Kevin R. Krull, St Jude Children's Research Hospital, Memphis, TN.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brinkman</LastName>
+<ForeName>Tara M</ForeName>
+<Initials>TM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kenzik</LastName>
+<ForeName>Kelly</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gurney</LastName>
+<ForeName>James G</ForeName>
+<Initials>JG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ness</LastName>
+<ForeName>Kirsten K</ForeName>
+<Initials>KK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lanctot</LastName>
+<ForeName>Jennifer</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shenkman</LastName>
+<ForeName>Elizabeth</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Robison</LastName>
+<ForeName>Leslie L</ForeName>
+<Initials>LL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hudson</LastName>
+<ForeName>Melissa M</ForeName>
+<Initials>MM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krull</LastName>
+<ForeName>Kevin R</ForeName>
+<Initials>KR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>K23 HD057146</GrantID>
+<Acronym>HD</Acronym>
+<Agency>NICHD NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 CA021765</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>CA21765</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K23HD057146</GrantID>
+<Acronym>HD</Acronym>
+<Agency>NICHD NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>14</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Clin Oncol</MedlineTA>
+<NlmUniqueID>8309333</NlmUniqueID>
+<ISSNLinking>0732-183X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006304">Health Status</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015999">Multivariate Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011788">Quality of Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012044">Regression Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011795">Surveys and Questionnaires</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017741">Survivors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24127449</ArticleId>
+<ArticleId IdType="pii">JCO.2012.47.8867</ArticleId>
+<ArticleId IdType="doi">10.1200/JCO.2012.47.8867</ArticleId>
+<ArticleId IdType="pmc">PMC3821013</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>JAMA. 1995 Jan 4;273(1):59-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7996652</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Cancer. 1996 Jul;32A(8):1354-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8869099</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 1997 Feb;15(2):547-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9053476</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pediatr Hematol Oncol. 1997 May-Jun;19(3):220-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9201144</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Pediatr Oncol. 1997 Dec;29(6):582-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9324350</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2009 May 10;27(14):2308-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19364948</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain Symptom Manage. 2009 Aug;38(2):258-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19535218</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain Symptom Manage. 2010 Mar;39(3):477-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20303025</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst. 2010 Jun 16;102(12):881-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20458059</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Psychiatry Med. 2010;40(2):163-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20848873</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Nurs Forum. 2010 Nov;37(6):E377-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21059571</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Oncol. 2011 Feb;50(2):223-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21091085</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Palliat Support Care. 2011 Mar;9(1):81-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21352621</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Blood Cancer. 2011 May;56(5):825-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21370418</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Oncol Nurs. 2011 Apr;15(2):203-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21444288</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Rev Oncol Hematol. 2011 May;78(2):127-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20403706</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosomatics. 2011 May-Jun;52(3):272-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21565599</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain Symptom Manage. 2011 Aug;42(2):213-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21398089</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2011 Oct;20(10):2022-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21980010</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Palliat Med. 2011 Oct;14(10):1149-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21861613</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 2011 Nov;152(11):2616-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21907493</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Oncol. 2012 Jan;7(1):64-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22134070</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Care. 2012;24(8):963-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22519889</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Vital Health Stat 10. 2012 Jan;(252):1-207</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22834228</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Nurs. 2012 Nov-Dec;35(6):E1-E20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22228391</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain Symptom Manage. 2012 Dec;44(6):810-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22771125</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2011 Jun 1;117(11):2559-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21484777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Hematol Oncol. 1997 Nov-Dec;14(6):513-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9383804</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 1998 Jul 1;83(1):69-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9655295</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stat Med. 1999 Mar 30;18(6):695-706</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10204198</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain Symptom Manage. 1999 May;17(5):320-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10355211</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Nurs. 2004 Sep-Oct;27(5):389-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15525867</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2004 Dec 15;22(24):4979-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15576413</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Blood Cancer. 2005 Jun 15;44(7):643-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15700252</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Nurs Forum. 2005 May;32(3):542</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15897927</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2005 Aug 20;23(24):5501-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16110010</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychooncology. 2006 Jan;15(1):31-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15751002</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2006 Jun 1;24(16):2527-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16735705</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Psychiatry Med. 2006;36(1):13-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16927576</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Nurs Forum. 2006 Sep;33(5):931-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16955121</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2006 Sep 20;24(27):4485-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16983118</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2006 Oct 12;355(15):1572-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17035650</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Phys Med Rehabil. 2007 May;88(5):638-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17466734</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pediatr Oncol Nurs. 2007 Jul-Aug;24(4):220-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17588894</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2007 Aug 20;25(24):3649-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17704415</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CA Cancer J Clin. 2007 Sep-Oct;57(5):278-300</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17855485</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Nurs Forum. 2007 Sep;34(5):971-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17878126</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst Monogr. 2007;(37):39-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17951230</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Phys Med Rehabil. 2008 Jan;89(1):128-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18164342</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2008 Feb;17(2):435-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18268128</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2008 Feb;31(2):271-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18274275</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain Symptom Manage. 2009 Apr;37(4):715-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19019626</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Support Care Cancer. 2009 Jun;17(6):653-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18953578</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2009 May 10;27(14):2396-404</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19255309</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Nurs Forum. 1999 Nov-Dec;26(10):1663-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10573683</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2000 Feb;18(4):743-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10673515</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Pract. 1999 Sep-Oct;7(5):240-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10687593</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Nurs Forum. 2000 Oct;27(9):1443-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11058976</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Nurs Forum. 2001 Apr;28(3):465-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11338755</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Care. 2003 May;41(5):582-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12719681</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2003 Jun 1;97(11):2919-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12767108</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2003 Sep 24;290(12):1583-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14506117</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CA Cancer J Clin. 2004 Jul-Aug;54(4):208-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15253918</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst Monogr. 2004;(32):17-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15263036</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimmunomodulation. 2004;11(5):279-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15316238</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Care. 1992 Jun;30(6):473-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1593914</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

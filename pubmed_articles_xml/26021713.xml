@@ -1,0 +1,580 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26021713</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>02</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1757-6512</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>6</Volume>
+<PubDate>
+<Year>2015</Year>
+<Month>May</Month>
+<Day>29</Day>
+</PubDate>
+</JournalIssue>
+<Title>Stem cell research &amp; therapy</Title>
+<ISOAbbreviation>Stem Cell Res Ther</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Efficacy of autologous stem cell-based therapy for osteonecrosis of the femoral head in sickle cell disease: a five-year follow-up study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>110</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/s13287-015-0105-2</ELocationID>
+<Abstract>
+<AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Stem cell therapy with bone marrow-derived mononuclear cells (BMMCs) is an option for improving joint function in osteonecrosis of the femoral head (ONFH). Bone marrow-derived mesenchymal stromal cell (MSC) numbers and their osteogenic differentiation are decreased in patients with ONFH. However, whether this decrease also extends to the early stages of ONFH in sickle cell disease (SCD) is still unclear.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a phase I/II, non-controlled study to determine efficacy and safety of BMMC implantation using a minimally invasive technique in SCD patients with ONFH. Eighty-nine patients were recruited and followed up for 60 months after surgery. Clinical and radiographic findings were assessed, and data were completed by in vitro analysis.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">At the final follow-up (60 months) there was a significant improvement in clinical joint symptoms and pain relief as measured by the Harris Hip Score (P = 0.0005). In addition, after the BMMC implantation procedure, radiographic assessment showed disease stabilization and only 3.7 % of the treated patients did not achieve a satisfactory clinical result. The amount of fibroblast colony-forming units was 28.2 ± 13.9 per 1 million BMMCs after concentration. Flow cytometry analysis showed a significantly higher number of hematopoietic stem/endothelial progenitor cell markers in concentrated BMMCs when compared with bone marrow aspirate, indicating an enrichment of these cell types. Isolated MSCs from SCD patients with pre-collapse ONFH maintained the replicative capacity without significant loss of their specific biomolecular characteristics, multi-differentiation potential, and osteogenic differentiation activities. Cytokines and growth factors (interleukin-8, transforming growth factor-beta, stromal cell-derived factor-1alpha and vascular endothelial growth factor) that mediate endogenous bone regeneration were also produced by expanded MSCs from SCD patients.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The autologous BMMC implantation with a minimally invasive technique resulted in significant pain relief and halted the progression of early stages of ONFH in SCD patients. MSCs from SCD patients display biological properties that may add to the efficiency of surgical treatment in ONFH. In summary, our results indicate that infusion of BMMCs enriched with stem/progenitor cells is a safe and effective treatment for the early stages of ONFH in SCD patients.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov NCT02448121; registered 15 May 2015.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Daltro</LastName>
+<ForeName>Gildasio Cerqueira</ForeName>
+<Initials>GC</Initials>
+<AffiliationInfo>
+<Affiliation>Prof. Edgar Santos Hospital Complex, Salvador, BA, 40110-902, Brazil. gildasio.daltro@yahoo.com.br.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fortuna</LastName>
+<ForeName>Vitor</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Health Science Institute, Federal University of Bahia, Reitor Miguel Calmon Avenue, Salvador, BA, 40110-100, Brazil. vfort@ufba.br.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Souza</LastName>
+<ForeName>Eliane Silva</ForeName>
+<Initials>ES</Initials>
+<AffiliationInfo>
+<Affiliation>Health Science Institute, Federal University of Bahia, Reitor Miguel Calmon Avenue, Salvador, BA, 40110-100, Brazil. elifarufba@yahoo.com.br.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salles</LastName>
+<ForeName>Marcela Miranda</ForeName>
+<Initials>MM</Initials>
+<AffiliationInfo>
+<Affiliation>Health Science Institute, Federal University of Bahia, Reitor Miguel Calmon Avenue, Salvador, BA, 40110-100, Brazil. celafarma@yahoo.com.br.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carreira</LastName>
+<ForeName>Ana Claudia</ForeName>
+<Initials>AC</Initials>
+<AffiliationInfo>
+<Affiliation>Cell and Molecular Therapy Center NUCEL-NETCEM, School of Medicine, Internal Medicine Department, and Chemistry Institute, Biochemistry Department, University of São Paulo, São Paulo, SP, 05508-900, Brazil. ancoc@iq.usp.br.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meyer</LastName>
+<ForeName>Roberto</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Health Science Institute, Federal University of Bahia, Reitor Miguel Calmon Avenue, Salvador, BA, 40110-100, Brazil. rmeyer@ufba.br.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Freire</LastName>
+<ForeName>Songeli Menezes</ForeName>
+<Initials>SM</Initials>
+<AffiliationInfo>
+<Affiliation>Health Science Institute, Federal University of Bahia, Reitor Miguel Calmon Avenue, Salvador, BA, 40110-100, Brazil. songeli.mf@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Borojevic</LastName>
+<ForeName>Radovan</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Petrópolis School of Medicine/Arthur de Sá Earp Faculties, Petrópolis, RJ, 25680-120, Brazil. rrborojevic@gmail.com.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>National Institute of Metrology, Quality and Technology (Inmetro), Xerém, Rio de Janeiro, RJ, 25250-020, Brazil. rrborojevic@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT02448121</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D017426">Clinical Trial, Phase I</PublicationType>
+<PublicationType UI="D017427">Clinical Trial, Phase II</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>05</Month>
+<Day>29</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Stem Cell Res Ther</MedlineTA>
+<NlmUniqueID>101527581</NlmUniqueID>
+<ISSNLinking>1757-6512</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015703">Antigens, CD</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050156">Adipogenesis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000755">Anemia, Sickle Cell</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015703">Antigens, CD</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001854">Bone Marrow Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020219">Chondrogenesis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016207">Cytokines</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005271">Femur Head Necrosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006615">Hip</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016130">Immunophenotyping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010012">Osteogenesis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011859">Radiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D033581">Stem Cell Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013234">Stem Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014182">Transplantation, Autologous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>05</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>04</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26021713</ArticleId>
+<ArticleId IdType="doi">10.1186/s13287-015-0105-2</ArticleId>
+<ArticleId IdType="pii">10.1186/s13287-015-0105-2</ArticleId>
+<ArticleId IdType="pmc">PMC4465459</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>BMC Genomics. 2007;8:70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17352823</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Joint Surg Am. 1997 Jul;79(7):1047-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9234881</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Orthop Trauma Surg. 2013 May;133(5):609-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23494112</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood Rev. 2007 Jan;21(1):37-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17084951</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Endocrinol Diabetes Obes. 2013 Dec;20(6):539-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24150191</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Orthop Relat Res. 1997 Nov;(344):243-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9372775</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Orthop Res. 2006 Apr;24(4):604-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16514658</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bone. 2015 Jan;70:102-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25016964</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cad Saude Publica. 2005 Jul-Aug;21(4):1287-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16021267</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Orthop Relat Res. 2008 Feb;466(2):300-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18196410</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Orthop Relat Res. 1998 Oct;(355 Suppl):S124-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9917633</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Joint Surg Am. 2006 Dec;88(12):2573-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17142406</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Joint Surg Br. 1992 May;74(3):367-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1587879</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Hematol. 2003 Aug;31(8):723-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12901978</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods. 2001 Dec;25(4):402-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11846609</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Exp Rheumatol. 2008 May-Jun;26(3):421-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18578963</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Med Assoc. 2004 May;96(5):678-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15160984</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Joint Surg Am. 2006 Dec;88(12):2565-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17142405</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stem Cell Res Ther. 2014;5(5):115</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25315149</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bone. 2012 Jan;50(1):325-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22094904</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Orthop Res. 2007 Aug;25(8):1029-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17469183</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2004 Sep 27;78(6):925-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15385815</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2007 Oct 1;176(7):724-5; author reply 725</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17881591</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Orthop Scand. 2004 Apr;75(2):142-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15180228</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Orthop Trauma Surg. 2010 Jul;130(7):859-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19621230</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Open Orthop J. 2008 Apr 25;2:62-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19478932</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bone. 2011 Nov;49(5):1005-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21821156</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Joint Surg Br. 1999 Mar;81(2):349-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10204950</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Orthop Relat Res. 2002 Dec;(405):14-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12461352</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Arthroplasty. 2013 Oct;28(9):1693-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23726348</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Orthop Relat Res. 2005 Feb;(431):220-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15685079</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Mol Med. 2013;45:e54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24232253</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 2003 Feb;30(2):348-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12563694</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Joint Surg Am. 2003 Mar;85-A(3):500-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12637438</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Orthop Relat Res. 1992 Apr;(277):128-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1555333</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Miner Res. 2003 Feb;18(2):213-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12568398</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2014;7:CD004344</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25009086</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Orthop Res. 2009 Apr;27(4):442-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18925660</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Orthop Traumatol Surg Res. 2009 Nov;95(7):498-504</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19801210</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Joint Surg Br. 1995 Jan;77(1):34-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7822393</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hematol. 2011 Sep;86(9):806-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21850660</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Med Sci. 2011;8(1):74-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21234272</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bone. 2013 Dec;57(2):509-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23994171</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cad Saude Publica. 2005 Jan-Feb;21(1):292-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15692663</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hematol. 1999 Nov;62(3):129-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10539878</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Braz J Med Biol Res. 2001 Oct;34(10):1309-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11593306</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AJR Am J Roentgenol. 1986 Jul;147(1):67-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3487233</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int Orthop. 2009 Jun;33(3):867-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18283456</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Arthroplasty. 2012 May;27(5):679-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22000577</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Arthroplasty. 2002 Jun;17(4):441-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12066273</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Joint Surg Am. 2010 Sep 15;92(12):2165-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20844158</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

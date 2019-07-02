@@ -1,0 +1,146 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21269344</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>07</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>03</Month>
+<Day>17</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1524-4741</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>17</Volume>
+<Issue>2</Issue>
+<PubDate>
+<MedlineDate>2011 Mar-Apr</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>The breast journal</Title>
+<ISOAbbreviation>Breast J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Radiologic and pathologic images of mammary fibromatosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>207-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1524-4741.2010.01061.x</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Brodt</LastName>
+<ForeName>Julie K</ForeName>
+<Initials>JK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Mayo Clinic, Rochester, Minnesota, USA. boughey.judy@mayo.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rhodes</LastName>
+<ForeName>Deborah J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Glazebrook</LastName>
+<ForeName>Katrina N</ForeName>
+<Initials>KN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hruska</LastName>
+<ForeName>Carrie</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Connor</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boughey</LastName>
+<ForeName>Judy C</ForeName>
+<Initials>JC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>01</Month>
+<Day>27</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Breast J</MedlineTA>
+<NlmUniqueID>9505539</NlmUniqueID>
+<ISSNLinking>1075-122X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001941">Breast Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005350">Fibroma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008327">Mammography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014463">Ultrasonography</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>1</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>1</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21269344</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1524-4741.2010.01061.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

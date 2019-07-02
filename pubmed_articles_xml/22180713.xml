@@ -1,0 +1,373 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22180713</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>02</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">2219-2840</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>17</Volume>
+<Issue>42</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Nov</Month>
+<Day>14</Day>
+</PubDate>
+</JournalIssue>
+<Title>World journal of gastroenterology</Title>
+<ISOAbbreviation>World J. Gastroenterol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Epidemiological aspects of Budd-Chiari in Egyptian patients: a single-center study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>4704-10</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3748/wjg.v17.i42.4704</ELocationID>
+<Abstract>
+<AbstractText Label="AIM" NlmCategory="OBJECTIVE">To describe the socio-demographic features, etiology, and risk factors for Budd-Chiari syndrome (BCS) in Egyptian patients.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Ninety-four Egyptian patients with confirmed primary Budd-Chiari syndrome were presented to the Budd-Chiari Study Group (BCSG) and admitted to the Tropical Medicine Department of Ain Shams University Hospital (Cairo, Egypt). Complete clinical evaluation and laboratory investigations, including a thrombophilia workup and full radiological assessment, were performed to determine underlying disease etiologies.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">BCS was chronic in 79.8% of patients, acute or subacute in 19.1%, and fulminant in 1.1%. Factor V Leiden mutation (FVLM) was the most common etiological cause of disease (53.1%), followed by mutation of the gene encoding methylene tetrahydrofolate reductase (MTHFR) (51.6%). Current or recent hormonal treatment was documented in 15.5% of females, and BCS associated with pregnancy was present in 17.2% of females. Etiology could not be determined in 8.5% of patients. Males had significantly higher rates of MTHFR gene mutation and Behçet's disease, and females had significantly higher rates of secondary antiphospholipid antibody syndrome. A highly significant positive relationship was evident between the presence of Behçet's disease and inferior vena caval occlusion, either alone or combined with occlusion of the hepatic veins (P &lt; 0.0001).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">FVLM is the most common disease etiology and MTHFR the second most common in Egyptian BCS patients. BCS etiology tends to vary with geographic region.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Sakr</LastName>
+<ForeName>Mohammad</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Tropical Medicine, Faculty of Medicine, Ain Shams University, Abbassia, Cairo 11341, Egypt.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barakat</LastName>
+<ForeName>Eman</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abdelhakam</LastName>
+<ForeName>Sara</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dabbous</LastName>
+<ForeName>Hany</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yousuf</LastName>
+<ForeName>Said</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shaker</LastName>
+<ForeName>Mohamed</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eldorry</LastName>
+<ForeName>Ahmed</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>World J Gastroenterol</MedlineTA>
+<NlmUniqueID>100883448</NlmUniqueID>
+<ISSNLinking>1007-9327</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C095381">factor V Leiden</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9001-24-5</RegistryNumber>
+<NameOfSubstance UI="D005165">Factor V</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.5.1.20</RegistryNumber>
+<NameOfSubstance UI="D042965">Methylenetetrahydrofolate Reductase (NADPH2)</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006502">Budd-Chiari Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D004534">Egypt</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005165">Factor V</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D042965">Methylenetetrahydrofolate Reductase (NADPH2)</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011248">Pregnancy Complications</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Budd-Chiari syndrome</Keyword>
+<Keyword MajorTopicYN="N">Epidemiological aspects</Keyword>
+<Keyword MajorTopicYN="N">Etiology</Keyword>
+<Keyword MajorTopicYN="N">Factor V Leiden mutation</Keyword>
+<Keyword MajorTopicYN="N">Methylene tetrahydrofolate reductase gene mutation</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>07</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2011</Year>
+<Month>07</Month>
+<Day>28</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2011</Year>
+<Month>08</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22180713</ArticleId>
+<ArticleId IdType="doi">10.3748/wjg.v17.i42.4704</ArticleId>
+<ArticleId IdType="pmc">PMC3233677</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Hepatology. 2000 Mar;31(3):587-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10706547</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hepatol. 2009 Jan;50(1):195-203</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19012988</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2001 Jun;113(3):630-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11380448</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2001 Oct;34(4 Pt 1):666-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11584361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Liver Dis. 2002 Feb;22(1):5-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11928075</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Liver Dis. 2002 Feb;22(1):15-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11928076</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hematol. 2002 Sep;71(1):11-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12221667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hepatol. 2003 Mar;38(3):364-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12586305</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2003 Oct;38(4):793-803</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14512865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2004 Feb;39(2):500-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14768004</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Immunol Immunopathol. 1987 Sep;44(3):297-307</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3497746</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1990 May 5;335(8697):1078-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1970380</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Probl Surg. 1996 Feb;33(2):83-211</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8595784</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1996 Aug 31;348(9027):573-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8774569</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hepatol. 1997 Feb;26(2):293-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9059949</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 1997 May;92(5):858-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9149201</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2005 Mar;41(3):603-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15726653</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2005 May;129(4):553-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15877740</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2006 Jun;130(7):2031-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16762626</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2006 Dec;44(6):1528-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17133457</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thromb Haemost. 2007 Jan;5(1):55-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17059429</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Haematol Suppl. 2007 Oct;(68):9-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17727558</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 May 15;111(10):4922-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18250227</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>World J Gastroenterol. 2008 May 14;14(18):2858-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18473410</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood Coagul Fibrinolysis. 2008 Jul;19(5):459-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18600100</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 2008 Oct;57(10):1469-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18583397</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 2001 Feb;48(2):264-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11156651</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

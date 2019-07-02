@@ -1,0 +1,181 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20010165</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>01</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1540-336X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>15</Volume>
+<Issue>6</Issue>
+<PubDate>
+<MedlineDate>2009 Nov-Dec</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Cancer journal (Sudbury, Mass.)</Title>
+<ISOAbbreviation>Cancer J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The importance of complete response in outcomes in myeloma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>465-72</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/PPO.0b013e3181c51cd4</ELocationID>
+<Abstract>
+<AbstractText>Outcomes for patients with multiple myeloma have dramatically improved during the past 20 years as a result of improved therapeutic options and a better understanding of malignant plasma cell biology. Until the past 10 years, the major limitations on improving outcomes were related to the minimal efficacy of existing agents and balancing the toxicity of therapy in an older patient population. However, despite these limitations, there have been advances that have resulted in improvements in progression-free survival and overall survival (OS). High-dose therapy and autologous transplant were the first among therapies to demonstrate an improvement in OS; but more recent analyses have demonstrated that there can be improvement in OS, which is also associated with improvement in the complete response (CR) rate, even among nontransplant patients as well. Thus, achieving CR has been associated with improved OS and has become a therapeutic goal. In the current era of new agents, such as thalidomide, bortezomib, and lenalidomide, the fraction of patients who achieve a CR is now greater than before, and the data regarding the importance of achieving this benchmark of response have never been more benefit.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Nooka</LastName>
+<ForeName>Ajay</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Winship Cancer Institute, Emory University, Atlanta, GA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaufman</LastName>
+<ForeName>Jonathan</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lonial</LastName>
+<ForeName>Sagar</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cancer J</MedlineTA>
+<NlmUniqueID>100931981</NlmUniqueID>
+<ISSNLinking>1528-9117</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D020533">Angiogenesis Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018906">Antineoplastic Agents, Alkylating</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018931">Antineoplastic Agents, Hormonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>4Z8R6ORS6L</RegistryNumber>
+<NameOfSubstance UI="D013792">Thalidomide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>F0P408N6V4</RegistryNumber>
+<NameOfSubstance UI="D000077269">Lenalidomide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>Q41OR9510P</RegistryNumber>
+<NameOfSubstance UI="D008558">Melphalan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>VB0R961HZT</RegistryNumber>
+<NameOfSubstance UI="D011241">Prednisone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020533">Angiogenesis Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018906">Antineoplastic Agents, Alkylating</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018931">Antineoplastic Agents, Hormonal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077269">Lenalidomide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008558">Melphalan</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009101">Multiple Myeloma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011241">Prednisone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013792">Thalidomide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000031">analogs &amp; derivatives</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>66</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>1</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20010165</ArticleId>
+<ArticleId IdType="doi">10.1097/PPO.0b013e3181c51cd4</ArticleId>
+<ArticleId IdType="pii">00130404-200911000-00004</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

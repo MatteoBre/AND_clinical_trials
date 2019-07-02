@@ -1,0 +1,124 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24825646</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1538-3598</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>311</Volume>
+<Issue>18</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>May</Month>
+<Day>14</Day>
+</PubDate>
+</JournalIssue>
+<Title>JAMA</Title>
+<ISOAbbreviation>JAMA</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Implications of the Pacific Ocular Inflammation uveitis epidemiology study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1912-3</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1001/jama.2014.2294</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Yeh</LastName>
+<ForeName>Steven</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Emory Eye Center, Emory University School of Medicine, Atlanta, Georgia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Forooghian</LastName>
+<ForeName>Farzin</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Ophthalmology and Visual Sciences, University of British Columbia, Vancouver, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Suhler</LastName>
+<ForeName>Eric B</ForeName>
+<Initials>EB</Initials>
+<AffiliationInfo>
+<Affiliation>Casey Eye Institute, Oregon Health and Science University, Portland4Veterans Affairs Medical Center, Portland, Oregon.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>JAMA</MedlineTA>
+<NlmUniqueID>7501160</NlmUniqueID>
+<ISSNLinking>0098-7484</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>JAMA Ophthalmol. 2013 Nov;131(11):1405-12</RefSource>
+<PMID Version="1">24008391</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014605">Uveitis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24825646</ArticleId>
+<ArticleId IdType="pii">1869195</ArticleId>
+<ArticleId IdType="doi">10.1001/jama.2014.2294</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,97 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">21060615</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>10</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>10</Month>
+<Day>23</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1559-128X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>34</Volume>
+<Issue>31</Issue>
+<PubDate>
+<Year>1995</Year>
+<Month>Nov</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Applied optics</Title>
+<ISOAbbreviation>Appl Opt</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Mie and Rayleigh modeling of visible-light scattering in neonatal skin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>7410-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1364/AO.34.007410</ELocationID>
+<Abstract>
+<AbstractText>Reduced-scattering coefficients of neonatal skin were deduced in the 450-750-nm range from integrating-sphere measurements of the total reflection and total transmission of 22 skin samples. The reduced-scattering coefficients increased linearly at each wavelength with gestational maturity. The distribution of diameters d and concentration ρ(A) of the skin-sample collagen fibers were measured in histological sections of nine neonatal skin samples of varying gestational ages. An algorithm that calculates Mie scattering by cylinders was used to model the scattering by the collagen fibers in the skin. The fraction of the reduced-scattering coefficient µ(s)' that was attributable to Mie scattering by collagen fibers, as deduced from wavelength-dependent analysis, increased with gestational age and approached that found for adult skin. An assignment of 1.017 for n(rel), the refractive index of the collagen fibers relative to that of the surrounding medium, allowed the values for Mie scattering by collagen fibers, as predicted by the model for each of the nine neonatal skin samples to match the values for Mie scattering by collagen fibers as expected from the measurements of µ(s)'. The Mie-scattering model predicted an increase in scattering with gestational age on the basis of changes in the collagen-fiber diameters, and this increase was proportional to that measured with the integrating-sphere method.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Saidi</LastName>
+<ForeName>I S</ForeName>
+<Initials>IS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jacques</LastName>
+<ForeName>S L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tittel</LastName>
+<ForeName>F K</ForeName>
+<Initials>FK</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Appl Opt</MedlineTA>
+<NlmUniqueID>0247660</NlmUniqueID>
+<ISSNLinking>1559-128X</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1995</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1995</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21060615</ArticleId>
+<ArticleId IdType="pii">46316</ArticleId>
+<ArticleId IdType="doi">10.1364/AO.34.007410</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

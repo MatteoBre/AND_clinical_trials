@@ -1,0 +1,152 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19429090</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>07</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>05</Month>
+<Day>11</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1872-7972</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>454</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>May</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Neuroscience letters</Title>
+<ISOAbbreviation>Neurosci. Lett.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Upper frequency limits of bilateral coordination patterns.</ArticleTitle>
+<Pagination>
+<MedlinePgn>233-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neulet.2009.03.036</ELocationID>
+<Abstract>
+<AbstractText>This study examined what changes occur in upper-limb bilateral coordination during clapping as the movement frequency requirements were increased to the maximum. Subjects were required to begin the clapping action at approximately 1Hz and gradually increase the movement speed until their maximal frequency was achieved. Hand and finger displacement and surface electromyograms (EMG) from finger flexor/extensor muscles were recorded. The results showed that the maximal attainable movement frequency was between 7 and 8Hz. As the action approached the ceiling frequency (&gt;5Hz), there was a significant reduction in movement amplitude of the non-preferred limb accompanied by increased co-activation of the muscles within this limb. The movement amplitude of preferred limb was maintained. Subsequently, there was a decrease in coupling between the two limbs with the bilateral coordination pattern transitioning from an in-phase pattern to an asymmetric mode, where only the preferred limb was moving. These findings reveal that there is a frequency induced transition to single-limb motion that reflects a stability boundary at the upper frequency limits of bimanual coordination.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Morrison</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>School of Physical Therapy, Old Dominion University, Norfolk, VA, USA. smorriso@odu.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hong</LastName>
+<ForeName>S L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Newell</LastName>
+<ForeName>K M</ForeName>
+<Initials>KM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>03</Month>
+<Day>16</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Ireland</Country>
+<MedlineTA>Neurosci Lett</MedlineTA>
+<NlmUniqueID>7600130</NlmUniqueID>
+<ISSNLinking>0304-3940</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001132">Arm</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004576">Electromyography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007839">Functional Laterality</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006225">Hand</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018482">Muscle, Skeletal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011597">Psychomotor Performance</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2008</Year>
+<Month>12</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2009</Year>
+<Month>02</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2009</Year>
+<Month>03</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>5</Month>
+<Day>12</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>5</Month>
+<Day>12</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>7</Month>
+<Day>16</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19429090</ArticleId>
+<ArticleId IdType="pii">S0304-3940(09)00318-8</ArticleId>
+<ArticleId IdType="doi">10.1016/j.neulet.2009.03.036</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

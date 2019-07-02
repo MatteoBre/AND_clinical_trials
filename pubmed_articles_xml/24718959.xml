@@ -1,0 +1,269 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24718959</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>07</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1468-2060</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>74</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Annals of the rheumatic diseases</Title>
+<ISOAbbreviation>Ann. Rheum. Dis.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Efficacy of TNFα blockers in patients with ankylosing spondylitis and non-radiographic axial spondyloarthritis: a meta-analysis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1241-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1136/annrheumdis-2014-205322</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">This meta-analysis investigates the efficacy of tumour necrosis factor α (TNFα) blockers versus placebo for the treatment of ankylosing spondylitis (AS) and non-radiographic axial spondyloarthritis (nr-axSpA).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A systematic literature search was conducted independently by two reviewers. Double-blind randomised controlled trials (RCTs) investigating the efficacy of adalimumab, certolizumab, etanercept, golimumab or infliximab in approved dosages in comparison with placebo were included. The use of concomitant non-steroidal antirheumatic drugs was allowed. The outcome parameters were improvement in disease activity and function measured by the Bath AS disease activity index (BASDAI), Bath AS functional index (BASFI) and ASAS40 response. The effect sizes of the changes in BASDAI/BASFI between TNFα blocker and placebo comparator groups were calculated. Mixed effect models were applied separately for RCTs with AS and nr-axSpA patients and differences between those groups were evaluated in a joint model.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">20 studies with data from 3096 patients were included in the analysis: 15 studies with AS patients, four with nr-axSpA patients and one with both. For AS patients, TNFα blockers showed better efficacy than placebo for BASDAI (effect size 1.00), BASFI (effect size 0.67) and ASAS40 response (OR 4.7). For nr-axSpA patients, the differences were smaller (effect sizes 0.73, 0.57; OR 3.6). However, after adjustment for the year of publication as a proxy for disease severity, no differences in the effect sizes between the AS and nr-axSpA trials were observed.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Compared with placebo, TNFα blockers improve disease activity and functional capacity clinically meaningful for both AS and nr-axSpA patients.</AbstractText>
+<CopyrightInformation>Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to http://group.bmj.com/group/rights-licensing/permissions.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Callhoff</LastName>
+<ForeName>Johanna</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Epidemiology Unit, German Rheumatism Research Centre, Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sieper</LastName>
+<ForeName>Joachim</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Medical Department I, Rheumatology, Charité University Medicine Berlin, Campus Benjamin Franklin, Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weiß</LastName>
+<ForeName>Anja</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Epidemiology Unit, German Rheumatism Research Centre, Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zink</LastName>
+<ForeName>Angela</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Epidemiology Unit, German Rheumatism Research Centre, Berlin, Germany Department of Rheumatology and Clinical Immunology, Charité University Medicine Berlin, Campus Mitte, Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Listing</LastName>
+<ForeName>Joachim</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Epidemiology Unit, German Rheumatism Research Centre, Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D017418">Meta-Analysis</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>04</Month>
+<Day>09</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Ann Rheum Dis</MedlineTA>
+<NlmUniqueID>0372355</NlmUniqueID>
+<ISSNLinking>0003-4967</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D061067">Antibodies, Monoclonal, Humanized</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018501">Antirheumatic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007140">Immunoglobulin Fab Fragments</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007074">Immunoglobulin G</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018124">Receptors, Tumor Necrosis Factor</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3WJQ0SDW1A</RegistryNumber>
+<NameOfSubstance UI="D011092">Polyethylene Glycols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>91X1KLU43E</RegistryNumber>
+<NameOfSubstance UI="C529000">golimumab</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>B72HH48FLU</RegistryNumber>
+<NameOfSubstance UI="D000069285">Infliximab</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>FYS6T7F842</RegistryNumber>
+<NameOfSubstance UI="D000068879">Adalimumab</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>OP401G7OJC</RegistryNumber>
+<NameOfSubstance UI="D000068800">Etanercept</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>UMD07X179E</RegistryNumber>
+<NameOfSubstance UI="D000068582">Certolizumab Pegol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000068879">Adalimumab</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000911">Antibodies, Monoclonal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061067">Antibodies, Monoclonal, Humanized</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018501">Antirheumatic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000068582">Certolizumab Pegol</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000068800">Etanercept</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007140">Immunoglobulin Fab Fragments</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007074">Immunoglobulin G</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069285">Infliximab</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011092">Polyethylene Glycols</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016032">Randomized Controlled Trials as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018124">Receptors, Tumor Necrosis Factor</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D025241">Spondylarthritis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013167">Spondylitis, Ankylosing</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014409">Tumor Necrosis Factor-alpha</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Ankylosing Spondylitis</Keyword>
+<Keyword MajorTopicYN="N">Anti-TNF</Keyword>
+<Keyword MajorTopicYN="N">Spondyloarthritis</Keyword>
+<Keyword MajorTopicYN="N">Treatment</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>01</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>03</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>4</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>4</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24718959</ArticleId>
+<ArticleId IdType="pii">annrheumdis-2014-205322</ArticleId>
+<ArticleId IdType="doi">10.1136/annrheumdis-2014-205322</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

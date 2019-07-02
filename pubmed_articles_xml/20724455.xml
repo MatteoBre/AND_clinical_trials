@@ -1,0 +1,404 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20724455</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>09</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1464-3685</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>39</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>International journal of epidemiology</Title>
+<ISOAbbreviation>Int J Epidemiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>War-related stress exposure and mortality: a meta-analysis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1499-509</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1093/ije/dyq132</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Domestic and international wars continue to be pervasive in the 21st century. This study summarizes the effects of war-related stress on all-cause mortality using meta-analyses and meta-regressions.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A keyword search was performed, supplemented by extensive iterative hand-searches for observational studies of war-related stress and mortality. Two hundred and twenty mortality risk estimates from 30 studies were extracted, providing data on more than 9 million persons.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean hazard ratio (HR) was 1.05 [95% confidence interval (CI) 0.98-1.13] among HRs adjusted for age and additional covariates. The mean effect for men was 1.14 (CI 1.00-1.31), and for women it was 0.92 (CI 0.66-1.28). No differences were found for various follow-up durations or for various types of war stress. Neither civilians nor military personnel had an elevated mortality risk. Those exposed to a combat zone during the Vietnam War had a slightly higher chance of death (HR 1.11; 95% CI 1.00-1.23).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results show that, over all, exposure to war-stress did not increase the risk of death when studies were well controlled. Effects were small when found. This lack of substantial effect may be the result of selection processes, developed resiliency and/or institutional support.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Roelfs</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Sociology, Stony Brook University, Stony Brook, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shor</LastName>
+<ForeName>Eran</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davidson</LastName>
+<ForeName>Karina</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schwartz</LastName>
+<ForeName>Joseph</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>HL-76857</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D017418">Meta-Analysis</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>08</Month>
+<Day>19</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Int J Epidemiol</MedlineTA>
+<NlmUniqueID>7802871</NlmUniqueID>
+<ISSNLinking>0300-5771</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055826">Afghan Campaign 2001-</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002423">Cause of Death</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003130">Combat Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D007493">Iraq</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008889">Military Personnel</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011329">Prisoners</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017149">Private Sector</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012044">Regression Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012737">Sex Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013315">Stress, Psychological</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014857">Warfare</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>8</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>8</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>9</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20724455</ArticleId>
+<ArticleId IdType="pii">dyq132</ArticleId>
+<ArticleId IdType="doi">10.1093/ije/dyq132</ArticleId>
+<ArticleId IdType="pmc">PMC2992629</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>JAMA. 2008 Aug 13;300(6):652-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18698062</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Geriatr Soc. 2008 Mar;56(3):470-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18194229</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Med. 2009 Mar 3;6(3):e26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19260757</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Occup Environ Med. 2009 Jul;66(7):438-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19541805</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immigr Health. 2005 Oct;7(4):221-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19813288</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Affect Disord. 2010 Jan;120(1-3):188-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19443043</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1999 Dec 18-25;354(9196):2116-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10609817</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2000 Jul 1;356(9223):17-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10892759</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Inj Prev. 2001 Mar;7(1):4-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11289533</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Epidemiol. 2001 Jul 15;154(2):128-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11447045</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2001 Aug 1;286(5):546-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11476656</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Epidemiol. 2001 Sep 1;154(5):399-405</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11532780</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Prev Med. 2004 Jun;26(5):443-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15165662</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2004 Sep 27;164(17):1908-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15451767</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Epidemiol. 1970 Feb;91(2):123-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5416246</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Isr Ann Psychiatr Relat Discip. 1973 Sep;11(3):199-209</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4520331</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Epidemiol. 1980 Feb;111(2):194-211</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7355882</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1986 Mar 6;314(10):620-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3945247</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med J Aust. 1985 Dec 9-23;143(12-13):541-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3831743</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1987 Feb 13;257(6):790-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3027422</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Epidemiol. 1987 May;125(5):869-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3565361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Community Health Stud. 1988;12(4):408-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3243075</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med J Aust. 1989 Apr 3;150(7):378-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2783215</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Epidemiol. 1991 Nov 1;134(9):973-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1951295</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Epidemiol. 1993 Jun;46(6):573-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8501484</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1995 Apr 19;273(15):1208-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7707629</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Occup Environ Med. 1995 Apr;37(4):423-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7670897</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Epidemiol. 1995 Sep;5(5):407-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8653214</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1996 Nov 14;335(20):1498-504</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8890102</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1998 Nov 18;280(19):1690-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9832001</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma Stress. 2004 Oct;17(5):403-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15633919</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiol. 2005 Mar 10;99(1):1-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15721492</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Epidemiol. 2005 Dec;34(6):1403-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16251257</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Traffic Inj Prev. 2006 Mar;7(1):31-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16484030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Epidemiol. 2006 Apr;16(4):248-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16099672</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Geriatr Soc. 2007 Sep;55(9):1380-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17767679</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2008 Aug 13;300(6):663-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18698065</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

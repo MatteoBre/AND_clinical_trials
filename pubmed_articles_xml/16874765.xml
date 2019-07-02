@@ -1,0 +1,285 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16874765</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>07</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1545-5009</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>49</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pediatric blood &amp; cancer</Title>
+<ISOAbbreviation>Pediatr Blood Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Outcome for young children newly diagnosed with ependymoma, treated with intensive induction chemotherapy followed by myeloablative chemotherapy and autologous stem cell rescue.</ArticleTitle>
+<Pagination>
+<MedlinePgn>34-40</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The purpose of this study is to investigate the efficacy of an intensive chemotherapy induction regimen followed by myeloablative chemotherapy and autologous hematopoietic stem cell rescue (AHSCR) in children with newly diagnosed ependymoma.</AbstractText>
+<AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Twenty-nine children less than 10 years of age at diagnosis of ependymoma were enrolled on the "Head Start" studies. Twenty-four patients with localized disease received an induction regimen including five cycles of chemotherapy (cisplatin, vincristine, etoposide cyclophosphamide, and high dose methotrexate for patients with metastatic disease). Following induction, individuals without evidence of disease proceeded to marrow-ablative chemotherapy (thiotepa, carboplatin, and etoposide) with AHSCR.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The estimated 5-year event free survival (EFS) and overall survival (OS) from diagnosis were 12% (+/-6%) and 38% (+/-10%), respectively. The toxic mortality amongst this group of 29 patients was 10.3%. Younger age (less than 18 months at diagnosis) was the only statistically significant prognostic factor. The estimated 5-year OS rate for the five patients with metastatic disease at presentation was 80% (+/-18%). Overall, radiation-free survival at 5 years from diagnosis was 8% (+/-5%).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The use of an intensive induction chemotherapy regimen including myeloablative chemotherapy followed by AHSCR in newly diagnosed young children with ependymoma is not superior to other previously reported chemotherapeutic strategies.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zacharoulis</LastName>
+<ForeName>Stergios</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatric Hematology/Oncology, Children's Hospital Los Angdes, Neural Tumors Program, Los Angles, CA 900 27, USA. szacharoulis@chla.usc.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Levy</LastName>
+<ForeName>Adam</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chi</LastName>
+<ForeName>Susan N</ForeName>
+<Initials>SN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gardner</LastName>
+<ForeName>Sharon</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenblum</LastName>
+<ForeName>Marc</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miller</LastName>
+<ForeName>Douglas C</ForeName>
+<Initials>DC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunkel</LastName>
+<ForeName>Ira</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Diez</LastName>
+<ForeName>Blanca</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sposto</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ji</LastName>
+<ForeName>Lingyun</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Asgharzadeh</LastName>
+<ForeName>Shahab</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hukin</LastName>
+<ForeName>Juliette</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Belasco</LastName>
+<ForeName>Jean</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dubowy</LastName>
+<ForeName>Ronald</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kellie</LastName>
+<ForeName>Stewart</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Termuhlen</LastName>
+<ForeName>Amanda</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Finlay</LastName>
+<ForeName>Jonathan</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pediatr Blood Cancer</MedlineTA>
+<NlmUniqueID>101186624</NlmUniqueID>
+<ISSNLinking>1545-5009</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>5J49Q6B70F</RegistryNumber>
+<NameOfSubstance UI="D014750">Vincristine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6PLQ3CP4P3</RegistryNumber>
+<NameOfSubstance UI="D005047">Etoposide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8N3DW7272P</RegistryNumber>
+<NameOfSubstance UI="D003520">Cyclophosphamide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>905Z5W3GKH</RegistryNumber>
+<NameOfSubstance UI="D013852">Thiotepa</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>BG3F62OND5</RegistryNumber>
+<NameOfSubstance UI="D016190">Carboplatin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>Q20Q21Q62J</RegistryNumber>
+<NameOfSubstance UI="D002945">Cisplatin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>YL5FZ2Y5U1</RegistryNumber>
+<NameOfSubstance UI="D008727">Methotrexate</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001932">Brain Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016190">Carboplatin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002945">Cisplatin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003520">Cyclophosphamide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018572">Disease-Free Survival</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004806">Ependymoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005047">Etoposide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D018380">Hematopoietic Stem Cell Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008727">Methotrexate</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013852">Thiotepa</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014182">Transplantation, Autologous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014750">Vincristine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>29</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>7</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>29</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16874765</ArticleId>
+<ArticleId IdType="doi">10.1002/pbc.20935</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

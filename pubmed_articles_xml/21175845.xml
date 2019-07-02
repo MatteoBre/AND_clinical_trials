@@ -1,0 +1,211 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21175845</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>07</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1540-8183</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>24</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of interventional cardiology</Title>
+<ISOAbbreviation>J Interv Cardiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Intracoronary compared to intravenous bolus abciximab during primary percutaneous coronary intervention in ST-segment Elevation Myocardial Infarction (STEMI) patients reduces 30-day mortality and target vessel revascularization: a randomized trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>105-11</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1540-8183.2010.00616.x</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND"> Abciximab is beneficial in patients with ST-segment elevation myocardial infarction (STEMI) undergoing primary percutaneous coronary intervention (pPCI). However, the optimal administration route of the initial bolus of abciximab, that is, intravenous (IV) versus intracoronary (IC), has been questioned. Preliminary studies suggest that IC-bolus is superior, probably due to high local concentration. In this study, we assess the short-term efficacy and safety of IC compared to IV bolus of abciximab in patients with STEMI during pPCI.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS"> In 2006-2008, we randomized 355 STEMI patients who underwent pPCI and had indication for abciximab to either IV or IC bolus followed by a 12-hour IV infusion. Primary end-points at 30 days were target vessel revascularization (TVR), recurrent myocardial infarction (MI) or death, and the composite of the three. Secondary end-points were bleeding complications.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS"> The two groups (IV n = 170;IC n = 185) were similar with respect to baseline characteristics. Mortality at 30 days was 5.3% in the IV group compared to only 1.1% in the IC group (P = 0.02). TVR was performed in 9.4% in the IV group compared to 3.8% in the IC group (P = 0.03). No significant difference in MI rates was seen (IV 4.7% vs. IC 2.7%; P = 0.32). We found a significant reduction in the composite end-point (IV 19.4% vs. IC 7.6%; P = 0.001) in favor of IC use. Major bleeding complications were similar (IV 2.4% vs. IC 1.6%; P = 0.62). Neither difference was observed in minor bleedings (IV 14.1% vs. IC 9.7%; P = 0.20).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS"> IC administration of bolus abciximab in STEMI patients undergoing pPCI reduces 30-day mortality and TVR and tends to reduce MI, compared to IV-bolus.</AbstractText>
+<CopyrightInformation>©2010, Wiley Periodicals, Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Iversen</LastName>
+<ForeName>Allan</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiology, Gentofte University Hospital, Copenhagen, Denmark. allive01@geh.regionh.dk</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abildgaard</LastName>
+<ForeName>Ulrik</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Galloe</LastName>
+<ForeName>Anders</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hansen</LastName>
+<ForeName>Peter R</ForeName>
+<Initials>PR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Galatius</LastName>
+<ForeName>Soren</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Madsen</LastName>
+<ForeName>Jan K</ForeName>
+<Initials>JK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Engstroem</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pedersen</LastName>
+<ForeName>Sune</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jensen</LastName>
+<ForeName>Kurt S</ForeName>
+<Initials>KS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jensen</LastName>
+<ForeName>Jan S</ForeName>
+<Initials>JS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Interv Cardiol</MedlineTA>
+<NlmUniqueID>8907826</NlmUniqueID>
+<ISSNLinking>0896-4327</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007140">Immunoglobulin Fab Fragments</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>X85G7936GV</RegistryNumber>
+<NameOfSubstance UI="D000077284">Abciximab</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077284">Abciximab</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015906">Angioplasty, Balloon, Coronary</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000911">Antibodies, Monoclonal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003331">Coronary Vessels</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004333">Drug Administration Routes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007140">Immunoglobulin Fab Fragments</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007269">Injections, Intra-Arterial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007275">Injections, Intravenous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009203">Myocardial Infarction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009204">Myocardial Revascularization</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21175845</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1540-8183.2010.00616.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

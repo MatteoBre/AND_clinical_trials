@@ -1,0 +1,287 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22549450</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>12</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1533-4023</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>60</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of cardiovascular pharmacology</Title>
+<ISOAbbreviation>J. Cardiovasc. Pharmacol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Losartan attenuates human monocyte-derived dendritic cell immune maturation via downregulation of lectin-like oxidized low-density lipoprotein receptor-1.</ArticleTitle>
+<Pagination>
+<MedlinePgn>133-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/FJC.0b013e318258f336</ELocationID>
+<Abstract>
+<AbstractText>The angiotensin II receptor-1 blockers have generally been shown to have antiatherogenic effects, and dendritic cells (DCs) are the most efficient antigen presenting cells that play an active role in the development of atherosclerosis through inflammatory-immune responses. Here, we tested the hypothesis that the antiatherogenic effect of losartan, the first angiotensin II receptor-1 blockers, might partly be mediated by attenuating DCs maturation. In this study, we showed that oxidized low-density lipoprotein (oxLDL) and angiotensin II (Ang II) could induce the maturation of human monocyte-derived DCs, stimulate CD83, HLA-DR expressions and IL-12, interferon-gamma secretions and increase the capacity of DCs to stimulate T-cell proliferation, which were suppressed by losartan. OxLDL could promote the autocrine secretion of Ang II by DCs and upregulate the expressions of 3 scavenger receptors SR-A, CD36, and LOX-1. Losartan reduced oxLDL-induced LOX-1 expression but not SR-A and CD36 expressions. Ang II could only upregulate the LOX-1 expression, which was reduced by losartan. OxLDL- and Ang II-induced upregulation of CD83 and secretion of IL-12 were all attenuated by LOX-1 neutralizing antibody. In conclusion, losartan could attenuate the oxLDL- and Ang II-induced immune maturation of human monocyte-derived DCs partly through downregulation of the LOX-1 expression.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Dong</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiology, Shanghai Institute of Cardiovascular Diseases, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lu</LastName>
+<ForeName>Hao</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Hongying</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yao</LastName>
+<ForeName>Kang</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sun</LastName>
+<ForeName>Aijun</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zou</LastName>
+<ForeName>Yunzeng</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ge</LastName>
+<ForeName>Junbo</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Cardiovasc Pharmacol</MedlineTA>
+<NlmUniqueID>7902492</NlmUniqueID>
+<ISSNLinking>0160-2446</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D047228">Angiotensin II Type 1 Receptor Blockers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015703">Antigens, CD</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018955">CD36 Antigens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C092961">CD83 antigen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D002352">Carrier Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006684">HLA-DR Antigens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007136">Immunoglobulins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008077">Lipoproteins, LDL</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008562">Membrane Glycoproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C495137">OLR1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C503566">SCAF1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051127">Scavenger Receptors, Class E</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C099252">oxidized low density lipoprotein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11128-99-7</RegistryNumber>
+<NameOfSubstance UI="D000804">Angiotensin II</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>170974-22-8</RegistryNumber>
+<NameOfSubstance UI="D000068103">Serine-Arginine Splicing Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>187348-17-0</RegistryNumber>
+<NameOfSubstance UI="D018664">Interleukin-12</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>82115-62-6</RegistryNumber>
+<NameOfSubstance UI="D007371">Interferon-gamma</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>JMS50MPO89</RegistryNumber>
+<NameOfSubstance UI="D019808">Losartan</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000804">Angiotensin II</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047228">Angiotensin II Type 1 Receptor Blockers</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015703">Antigens, CD</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018955">CD36 Antigens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002352">Carrier Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018920">Coculture Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003713">Dendritic Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015536">Down-Regulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006684">HLA-DR Antigens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007136">Immunoglobulins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007371">Interferon-gamma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018664">Interleukin-12</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008077">Lipoproteins, LDL</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019808">Losartan</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008562">Membrane Glycoproteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009000">Monocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051127">Scavenger Receptors, Class E</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000068103">Serine-Arginine Splicing Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013601">T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22549450</ArticleId>
+<ArticleId IdType="doi">10.1097/FJC.0b013e318258f336</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

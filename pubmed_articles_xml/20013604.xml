@@ -1,0 +1,197 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20013604</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>09</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2010</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1098-8785</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>27</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>American journal of perinatology</Title>
+<ISOAbbreviation>Am J Perinatol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The influence of phototherapy on serum cytokine concentrations in newborn infants.</ArticleTitle>
+<Pagination>
+<MedlinePgn>375-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1055/s-0029-1243311</ELocationID>
+<Abstract>
+<AbstractText>We sought to determine cytokine response in term and late preterm newborn infants on phototherapy. Twenty newborn infants with gestational age &gt; or = 35 weeks and birth weight &gt; or = 2000 g in the first week of life had serum interleukin (IL)-6, IL-8, IL-10, IL-1beta, and tumor necrosis factor (TNF)-alpha measured immediately prior to and after 24 hours on phototherapy. Exclusion criteria were newborns with severe congenital malformations, congenital infections, birth asphyxia, sepsis, hemolytic anemia that required blood transfusion, maternal-infant Rh incompatibility and those who required exchange transfusion or intravenous immunoglobulin treatment for hyperbilirubinemia. Median IL-6 concentrations significantly decreased after 24 hours on phototherapy (18.3 pg/mL and 7.85 pg/mL, respectively, p = 0.005). IL-6 concentrations decreased in 17 out of the 20 newborns. There were no statistical differences in IL-8, IL-10, IL-1beta, and TNF-alpha concentrations before and after 24 hours on phototherapy. There was a statistically significant correlation between IL-6 decline and irradiance (r = 0.57, p = 0.009). The finding that serum IL-6 decreases in newborn under phototherapy suggests that phototherapy possibly has an anti-inflammatory effect, although the clinical implications of this study deserve further studies.</AbstractText>
+<CopyrightInformation>Copyright Thieme Medical Publishers.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Procianoy</LastName>
+<ForeName>Renato S</ForeName>
+<Initials>RS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brazil. renatosp@terra.com.br</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Silveira</LastName>
+<ForeName>Rita C</ForeName>
+<Initials>RC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fonseca</LastName>
+<ForeName>Luciana T</ForeName>
+<Initials>LT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heidemann</LastName>
+<ForeName>Luciana A</ForeName>
+<Initials>LA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Neto</LastName>
+<ForeName>Eurico C</ForeName>
+<Initials>EC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Perinatol</MedlineTA>
+<NlmUniqueID>8405212</NlmUniqueID>
+<ISSNLinking>0735-1631</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D053583">Interleukin-1beta</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016209">Interleukin-8</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>130068-27-8</RegistryNumber>
+<NameOfSubstance UI="D016753">Interleukin-10</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016207">Cytokines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005865">Gestational Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007234">Infant, Premature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016753">Interleukin-10</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053583">Interleukin-1beta</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015850">Interleukin-6</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016209">Interleukin-8</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007567">Jaundice, Neonatal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018384">Oxidative Stress</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010789">Phototherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014409">Tumor Necrosis Factor-alpha</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20013604</ArticleId>
+<ArticleId IdType="doi">10.1055/s-0029-1243311</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

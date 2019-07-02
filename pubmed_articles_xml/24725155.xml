@@ -1,0 +1,106 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">24725155</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>05</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>10</Month>
+<Day>08</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1520-6890</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>114</Volume>
+<Issue>19</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Oct</Month>
+<Day>08</Day>
+</PubDate>
+</JournalIssue>
+<Title>Chemical reviews</Title>
+<ISOAbbreviation>Chem. Rev.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>One-dimensional titanium dioxide nanomaterials: nanowires, nanorods, and nanobelts.</ArticleTitle>
+<Pagination>
+<MedlinePgn>9346-84</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1021/cr400633s</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Xudong</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Materials Science and Engineering, University of Wisconsin-Madison , Madison, Wisconsin 53706, United States.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Zhaodong</ForeName>
+<Initials>Z</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shi</LastName>
+<ForeName>Jian</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yu</LastName>
+<ForeName>Yanhao</ForeName>
+<Initials>Y</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>04</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Chem Rev</MedlineTA>
+<NlmUniqueID>2985134R</NlmUniqueID>
+<ISSNLinking>0009-2665</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>4</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>4</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>4</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24725155</ArticleId>
+<ArticleId IdType="doi">10.1021/cr400633s</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,209 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24557761</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>06</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>04</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1522-1547</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>306</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Apr</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>American journal of physiology. Gastrointestinal and liver physiology</Title>
+<ISOAbbreviation>Am. J. Physiol. Gastrointest. Liver Physiol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Ethanol disrupts intestinal epithelial tight junction integrity through intracellular calcium-mediated Rho/ROCK activation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>G677-85</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1152/ajpgi.00236.2013</ELocationID>
+<Abstract>
+<AbstractText>Evidence indicates that ethanol-induced intestinal barrier dysfunction and subsequent endotoxemia plays a key role in the pathogenesis of alcoholic liver disease. Recently, it has been demonstrated that ethanol induces RhoA kinase activation in intestinal epithelium, thereby disrupting barrier integrity. In this study, the role of a rise in intracellular calcium concentration ([Ca(2+)]i) in ethanol-induced Rho-associated coiled coil-forming kinase (Rho/ROCK) activation and barrier disruption was investigated in Caco-2 cell monolayers. Treatment of Caco-2 monolayers with 40 mmol/l ethanol induced [Ca(2+)]i release as indicated by increased relative fluorescent units of Fluo-3 from 0.06 ± 0.02 to 2.27 ± 1.96 (P &lt; 0.0001). Pretreatment with 1,2-bis(2-aminophenoxy) ethane-N,N,N',N'-tetraacetic acid (BAPTA-AM) completely inhibited the release, whereas the inositol 1,4,5-triphosphate receptor (IP3R)-antagonist, Xestospongin C, partially inhibited the ethanol-induced [Ca(2+)]i release (from 2.27 ± 1.96 to 0.03 ± 0.01; P &lt; 0.0001 and from 2.27 ± 1.96 to 1.19 ± 1.80; P &lt; 0.001, respectively). The rise in [Ca(2+)]i was paralleled with increased intestinal permeability, which could be attenuated by either BAPTA-AM or Xestospongin C. Furthermore, ethanol induced Rho/ROCK activation, as indicated by increased phosphorylation of myosin-binding subunit, which could be prevented either by BAPTA, Xestospongin C, or the specific Rho/ROCK inhibitor Y27632. Finally, inhibition of Rho/ROCK kinase by Y27632 ameliorated the ethanol-induced redistribution of zonula occluden-1, adherens junction proteins including E-cadherin and β-catenin, and also disorganization of F-actin. These findings suggest that ethanol-induced [Ca(2+)]i release, mediated by stimulating IP3R-gated Ca(2+) channel, activates Rho/ROCK in Caco-2 cells, thereby contributing to ethanol-induced intestinal barrier dysfunction.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Elamin</LastName>
+<ForeName>Elhaseen</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Top Institute Food and Nutrition (TIFN), Wageningen;</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Masclee</LastName>
+<ForeName>Ad</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dekker</LastName>
+<ForeName>Jan</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jonkers</LastName>
+<ForeName>Daisy</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>02</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Physiol Gastrointest Liver Physiol</MedlineTA>
+<NlmUniqueID>100901227</NlmUniqueID>
+<ISSNLinking>0193-1857</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D002614">Chelating Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012997">Solvents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>139890-68-9</RegistryNumber>
+<NameOfSubstance UI="C070379">1,2-bis(2-aminophenoxy)ethane N,N,N',N'-tetraacetic acid acetoxymethyl ester</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3K9958V90M</RegistryNumber>
+<NameOfSubstance UI="D000431">Ethanol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>526U7A2651</RegistryNumber>
+<NameOfSubstance UI="D004533">Egtazic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.11.1</RegistryNumber>
+<NameOfSubstance UI="D054460">rho-Associated Kinases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>SY7Q814VUP</RegistryNumber>
+<NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018938">Caco-2 Cells</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002118">Calcium</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002614">Chelating Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004533">Egtazic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000431">Ethanol</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007413">Intestinal Mucosa</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008108">Liver Diseases, Alcoholic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010539">Permeability</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012997">Solvents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019108">Tight Junctions</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054460">rho-Associated Kinases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Caco-2</Keyword>
+<Keyword MajorTopicYN="N">Rho kinase</Keyword>
+<Keyword MajorTopicYN="N">ethanol</Keyword>
+<Keyword MajorTopicYN="N">inositol 1,4,5-triphosphate receptor</Keyword>
+<Keyword MajorTopicYN="N">intestinal epithelial barrier</Keyword>
+<Keyword MajorTopicYN="N">intracellular calcium</Keyword>
+<Keyword MajorTopicYN="N">tight junction</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>2</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>2</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>6</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24557761</ArticleId>
+<ArticleId IdType="pii">ajpgi.00236.2013</ArticleId>
+<ArticleId IdType="doi">10.1152/ajpgi.00236.2013</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

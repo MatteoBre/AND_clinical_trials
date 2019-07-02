@@ -1,0 +1,91 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">23424610</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>02</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>10</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1836-1935</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>6</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2013</Year>
+</PubDate>
+</JournalIssue>
+<Title>The Australasian medical journal</Title>
+<ISOAbbreviation>Australas Med J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Going native (or not): Five questions to ask mobile application developers.</ArticleTitle>
+<Pagination>
+<MedlinePgn>7-14</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.4066/AMJ.2013.1576</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>White</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Curtin Health Innovation Research Institute, Curtin University.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>01</Month>
+<Day>31</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Canada</Country>
+<MedlineTA>Australas Med J</MedlineTA>
+<NlmUniqueID>101558564</NlmUniqueID>
+<ISSNLinking>1836-1935</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23424610</ArticleId>
+<ArticleId IdType="doi">10.4066/AMJ.2013.1576</ArticleId>
+<ArticleId IdType="pii">20131576</ArticleId>
+<ArticleId IdType="pmc">PMC3575060</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,229 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27278921</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>04</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>04</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1619-3997</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>45</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>May</Month>
+<Day>24</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of perinatal medicine</Title>
+<ISOAbbreviation>J Perinat Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Ferric carboxymaltose vs. oral iron in the treatment of pregnant women with iron deficiency anemia: an international, open-label, randomized controlled trial (FER-ASAP).</ArticleTitle>
+<Pagination>
+<MedlinePgn>443-453</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1515/jpm-2016-0050</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">/j/jpme.2017.45.issue-4/jpm-2016-0050/jpm-2016-0050.xml</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To compare the efficacy and safety of intravenous ferric carboxymaltose (FCM) with first-line oral ferrous sulfate (FS) in pregnant women with iron deficiency anemia (IDA).</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Pregnant women (n=252; gestational weeks 16-33) with IDA were randomized 1:1 to FCM (1000-1500 mg iron) or FS (200 mg iron/day) for 12 weeks. The primary objective was to compare efficacy; secondary objectives included safety and quality of life.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Hemoglobin (Hb) levels improved at comparable rates across both treatments; however, significantly more women achieved anemia correction with FCM vs. FS [Hb ≥11.0 g/dL; 84% vs. 70%; odds ratio (OR): 2.06, 95% confidence interval (CI): 1.07, 3.97; P=0.031] and within a shorter time frame (median 3.4 vs. 4.3 weeks). FCM treatment significantly improved vitality (P=0.025) and social functioning (P=0.049) prior to delivery. Treatment-related adverse events were experienced by 14 (FCM; 11%) and 19 (FS; 15%) women, with markedly higher rates of gastrointestinal disorders reported with FS (16 women) than with FCM (3 women). Newborn characteristics were similar across treatments.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">During late-stage pregnancy, FCM may be a more appropriate option than first-line oral iron for rapid and effective anemia correction, with additional benefits for vitality and social functioning.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Breymann</LastName>
+<ForeName>Christian</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Milman</LastName>
+<ForeName>Nils</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mezzacasa</LastName>
+<ForeName>Anna</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bernard</LastName>
+<ForeName>Roubert</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dudenhausen</LastName>
+<ForeName>Joachim</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>FER-ASAP investigators</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>J Perinat Med</MedlineTA>
+<NlmUniqueID>0361031</NlmUniqueID>
+<ISSNLinking>0300-5577</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005290">Ferric Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005296">Ferrous Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>39R4TAN1VT</RegistryNumber>
+<NameOfSubstance UI="C020748">ferrous sulfate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6897GXD6OE</RegistryNumber>
+<NameOfSubstance UI="C522335">ferric carboxymaltose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>69-79-4</RegistryNumber>
+<NameOfSubstance UI="D008320">Maltose</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061605">Administration, Intravenous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000284">Administration, Oral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018798">Anemia, Iron-Deficiency</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005290">Ferric Compounds</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005296">Ferrous Compounds</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008320">Maltose</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011250">Pregnancy Complications, Hematologic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011788">Quality of Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Clinical trial</Keyword>
+<Keyword MajorTopicYN="N">ferric carboxymaltose</Keyword>
+<Keyword MajorTopicYN="N">hemoglobin</Keyword>
+<Keyword MajorTopicYN="N">intravenous</Keyword>
+<Keyword MajorTopicYN="N">iron deficiency anemia</Keyword>
+<Keyword MajorTopicYN="N">newborn</Keyword>
+<Keyword MajorTopicYN="N">pregnancy</Keyword>
+<Keyword MajorTopicYN="N">quality of life</Keyword>
+<Keyword MajorTopicYN="N">serum ferritin</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>02</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>6</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2018</Year>
+<Month>4</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>6</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27278921</ArticleId>
+<ArticleId IdType="doi">10.1515/jpm-2016-0050</ArticleId>
+<ArticleId IdType="pii">/j/jpme.ahead-of-print/jpm-2016-0050/jpm-2016-0050.xml</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

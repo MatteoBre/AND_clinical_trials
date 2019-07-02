@@ -1,0 +1,188 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25350772</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>03</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>03</Month>
+<Day>31</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1545-0066</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>19</Volume>
+<Issue>2</Issue>
+<PubDate>
+<MedlineDate>2015 Apr-Jun</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Prehospital emergency care : official journal of the National Association of EMS Physicians and the National Association of State EMS Directors</Title>
+<ISOAbbreviation>Prehosp Emerg Care</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Intentional drug poisoning care in a physician-manned emergency medical service.</ArticleTitle>
+<Pagination>
+<MedlinePgn>224-31</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3109/10903127.2014.964890</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Severely poisoned patients can benefit from intensive and specific treatments. Emergency medical services (EMS) may therefore play a crucial role by matching prehospital care and hospital referral to the severity of poisoned patients. Our aim was to investigate EMS accuracy in this condition.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A 3-year retrospective study was conducted in a university hospital. Emergency telephone calls about adult patients with intentional drug poisoning (IDP) were included. In daily practice, an emergency physician answers such telephone calls and dispatches either first responders or a mobile intensive care unit (MICU). According to on-scene evaluation, patients are referred to the emergency department (ED) or to an intensive care unit (ICU). We therefore calculated global EMS accuracy according to patients' actual medical needs. We further evaluated the performance of dispatch and hospital referral decision. We also performed a regression analysis to identify factors of inappropriate dispatch.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 2,227 patients were studied. Median age was 41 years old (range 30-49) and 63% were women. Dispatch was appropriate for 1,937 (87%) patients. Sensitivity and specificity of dispatch decision were 0.43 and 0.93, respectively. Decision of patients' referral to an appropriate hospital facility had a sensitivity of 0.67 and a specificity of 0.98. Toxicological data, age, and Glasgow coma scale were significantly associated with inappropriate EMS decisions.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A physician-operated EMS is an accurate system to provide prehospital care to IDP patients. However, dispatch physicians should pay attention, especially to toxicological anamnesis, to anticipate proper patient care.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Maignan</LastName>
+<ForeName>Maxime</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Richard</LastName>
+<ForeName>Anais</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Debaty</LastName>
+<ForeName>Guillaume</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pommier</LastName>
+<ForeName>Philippe</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Viglino</LastName>
+<ForeName>Damien</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Loizzo</LastName>
+<ForeName>François</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Timsit</LastName>
+<ForeName>Jean-François</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hanna</LastName>
+<ForeName>Jérome</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carpentier</LastName>
+<ForeName>Françoise</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Danel</LastName>
+<ForeName>Vincent</ForeName>
+<Initials>V</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>28</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Prehosp Emerg Care</MedlineTA>
+<NlmUniqueID>9703530</NlmUniqueID>
+<ISSNLinking>1090-3127</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003657">Decision Making</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004632">Emergency Medical Services</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010820">Physicians</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011041">Poisoning</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012017">Referral and Consultation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012044">Regression Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014218">Triage</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">dispatch</Keyword>
+<Keyword MajorTopicYN="N">emergency medical service</Keyword>
+<Keyword MajorTopicYN="N">poisoning</Keyword>
+<Keyword MajorTopicYN="N">process assessment</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25350772</ArticleId>
+<ArticleId IdType="doi">10.3109/10903127.2014.964890</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

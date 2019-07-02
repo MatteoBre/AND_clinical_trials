@@ -1,0 +1,205 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23926236</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>03</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1600-0455</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>55</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Acta radiologica (Stockholm, Sweden : 1987)</Title>
+<ISOAbbreviation>Acta Radiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Lymphoscintigraphy with peritumoral injection versus lymphoscintigraphy with subdermal periareolar injection of technetium-labeled human albumin to identify sentinel lymph nodes in breast cancer patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>39-44</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1177/0284185113493775</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Preoperative lymphoscintigraphy is without doubt a valid method for the detection of the sentinel lymph node (SLN). There has been considerable debate regarding the optimal site for the introduction of the tracer; various sites include peritumoral (PT), periareolar (PA), subdermal, and intradermal injection.</AbstractText>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To evaluate retrospectively the lymphoscintigraphic identification rate of peritumoral (PT) injection versus subdermal periareolar (PA) injection in the detection of SLNs in breast cancer.</AbstractText>
+<AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">Between October 2002 and December 2011, a cohort of 906 consecutive patients with biopsy proven breast cancer underwent 914 SLN biopsy procedures. A total of 339 procedures (Group A) were performed using a PT deep injection of radiotracer while 575 procedures (Group B) adopted a subdermal PA injection of radiotracer towards the upper outer quadrant, regardless of the site of the carcinoma. All the patients underwent synchronous excision of the breast cancer and SLN biopsy.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">SLNs were identified in the lymphoscintigram in 308/339 cases (90.85%) of Group A (PT injection) and in 537/575 cases (93.39%) of Group B (PA injection). Furthermore, in 2/339 patients (0.58%) of Group A, internal mammary lymph nodes were found at lymphoscintigraphy, whereas no internal mammary sentinel nodes were found in the Group B patients. The intraoperative identification rate of axillary SLNs was 99.41% (337 of 339) in the Group A patients and 99.65% (573 of 575) in the Group B patients. There was no significant difference in the two groups between the incidence of the number of SLNs detected and the incidence of identification of positive SLNs.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">PT versus PA injection of radiotracer showed comparable success rates for axillary SLN identification, and can be considered a rapid and reliable method.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Caruso</LastName>
+<ForeName>Giuseppe</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Biotechnologies and Forensic Medicine - Section of Radiological Sciences, AOU Policlinico Paolo Giaccone - University of Palermo, Palermo, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cipolla</LastName>
+<ForeName>Calogero</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Costa</LastName>
+<ForeName>Renato</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morabito</LastName>
+<ForeName>Alessandra</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Latteri</LastName>
+<ForeName>Stefania</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fricano</LastName>
+<ForeName>Salvatore</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salerno</LastName>
+<ForeName>Sergio</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Latteri</LastName>
+<ForeName>Mario Adelfio</ForeName>
+<Initials>MA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Acta Radiol</MedlineTA>
+<NlmUniqueID>8706123</NlmUniqueID>
+<ISSNLinking>0284-1851</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D013668">Technetium Tc 99m Aggregated Albumin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C083602">technetium Tc 99m nanocolloid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007089">Image Enhancement</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015552">Injections, Intralesional</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061305">Lymphoscintigraphy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019275">Radiopharmaceuticals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D021701">Sentinel Lymph Node Biopsy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013668">Technetium Tc 99m Aggregated Albumin</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Breast cancer</Keyword>
+<Keyword MajorTopicYN="N">lymphoscintigraphy</Keyword>
+<Keyword MajorTopicYN="N">peritumoral</Keyword>
+<Keyword MajorTopicYN="N">radio-colloid</Keyword>
+<Keyword MajorTopicYN="N">sentinel lymph node biopsy</Keyword>
+<Keyword MajorTopicYN="N">sub areolar</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>8</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>8</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23926236</ArticleId>
+<ArticleId IdType="pii">0284185113493775</ArticleId>
+<ArticleId IdType="doi">10.1177/0284185113493775</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,1070 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16710414</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>06</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>09</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1476-4687</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>441</Volume>
+<Issue>7091</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>May</Month>
+<Day>18</Day>
+</PubDate>
+</JournalIssue>
+<Title>Nature</Title>
+<ISOAbbreviation>Nature</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The DNA sequence and biological annotation of human chromosome 1.</ArticleTitle>
+<Pagination>
+<MedlinePgn>315-21</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The reference sequence for each human chromosome provides the framework for understanding genome function, variation and evolution. Here we report the finished sequence and biological annotation of human chromosome 1. Chromosome 1 is gene-dense, with 3,141 genes and 991 pseudogenes, and many coding sequences overlap. Rearrangements and mutations of chromosome 1 are prevalent in cancer and many other diseases. Patterns of sequence variation reveal signals of recent selection in specific genes that may contribute to human fitness, and also in regions where no function is evident. Fine-scale recombination occurs in hotspots of varying intensity along the sequence, and is enriched near genes. These and other studies of human biology and disease encoded within chromosome 1 are made possible with the highly accurate annotated sequence, as part of the completed set of chromosome sequences that comprise the reference human genome.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gregory</LastName>
+<ForeName>S G</ForeName>
+<Initials>SG</Initials>
+<AffiliationInfo>
+<Affiliation>The Wellcome Trust Sanger Institute, The Wellcome Trust Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK. sgregory@chg.duhs.duke.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barlow</LastName>
+<ForeName>K F</ForeName>
+<Initials>KF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McLay</LastName>
+<ForeName>K E</ForeName>
+<Initials>KE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaul</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Swarbreck</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunham</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scott</LastName>
+<ForeName>C E</ForeName>
+<Initials>CE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Howe</LastName>
+<ForeName>K L</ForeName>
+<Initials>KL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Woodfine</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spencer</LastName>
+<ForeName>C C A</ForeName>
+<Initials>CC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jones</LastName>
+<ForeName>M C</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gillson</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Searle</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhou</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kokocinski</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McDonald</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Evans</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Phillips</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Atkinson</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cooper</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jones</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hall</LastName>
+<ForeName>R E</ForeName>
+<Initials>RE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andrews</LastName>
+<ForeName>T D</ForeName>
+<Initials>TD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lloyd</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ainscough</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Almeida</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ambrose</LastName>
+<ForeName>K D</ForeName>
+<Initials>KD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andrew</LastName>
+<ForeName>R W</ForeName>
+<Initials>RW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ashwell</LastName>
+<ForeName>R I S</ForeName>
+<Initials>RI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aubin</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Babbage</LastName>
+<ForeName>A K</ForeName>
+<Initials>AK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bagguley</LastName>
+<ForeName>C L</ForeName>
+<Initials>CL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bailey</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beasley</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bethel</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bird</LastName>
+<ForeName>C P</ForeName>
+<Initials>CP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bray-Allen</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>J Y</ForeName>
+<Initials>JY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Buckley</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Burton</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bye</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carder</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chapman</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clark</LastName>
+<ForeName>S Y</ForeName>
+<Initials>SY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clarke</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clee</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cobley</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Collier</LastName>
+<ForeName>R E</ForeName>
+<Initials>RE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Corby</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Coville</LastName>
+<ForeName>G J</ForeName>
+<Initials>GJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davies</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deadman</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunn</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Earthrowl</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ellington</LastName>
+<ForeName>A G</ForeName>
+<Initials>AG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Errington</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Frankish</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Frankland</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>French</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garner</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garnett</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gay</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ghori</LastName>
+<ForeName>M R J</ForeName>
+<Initials>MR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gibson</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gilby</LastName>
+<ForeName>L M</ForeName>
+<Initials>LM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gillett</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Glithero</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grafham</LastName>
+<ForeName>D V</ForeName>
+<Initials>DV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Griffiths</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Griffiths-Jones</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grocock</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hammond</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harrison</LastName>
+<ForeName>E S I</ForeName>
+<Initials>ES</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hart</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haugen</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heath</LastName>
+<ForeName>P D</ForeName>
+<Initials>PD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holmes</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holt</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Howden</LastName>
+<ForeName>P J</ForeName>
+<Initials>PJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hunt</LastName>
+<ForeName>A R</ForeName>
+<Initials>AR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hunt</LastName>
+<ForeName>S E</ForeName>
+<Initials>SE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hunter</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Isherwood</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>James</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Joy</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kay</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kershaw</LastName>
+<ForeName>J K</ForeName>
+<Initials>JK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kibukawa</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kimberley</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>King</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Knights</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lad</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Laird</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lawlor</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leongamornlert</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lloyd</LastName>
+<ForeName>D M</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Loveland</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lovell</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lush</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lyne</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Martin</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mashreghi-Mohammadi</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matthews</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matthews</LastName>
+<ForeName>N S W</ForeName>
+<Initials>NS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McLaren</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Milne</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mistry</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moore</LastName>
+<ForeName>M J F</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nickerson</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Dell</LastName>
+<ForeName>C N</ForeName>
+<Initials>CN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oliver</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palmeiri</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palmer</LastName>
+<ForeName>S A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Parker</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Patel</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pearce</LastName>
+<ForeName>A V</ForeName>
+<Initials>AV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peck</LastName>
+<ForeName>A I</ForeName>
+<Initials>AI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pelan</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Phelps</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Phillimore</LastName>
+<ForeName>B J</ForeName>
+<Initials>BJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Plumb</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rajan</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Raymond</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rouse</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saenphimmachak</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sehra</LastName>
+<ForeName>H K</ForeName>
+<Initials>HK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sheridan</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shownkeen</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sims</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Skuce</LastName>
+<ForeName>C D</ForeName>
+<Initials>CD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Steward</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Subramanian</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sycamore</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tracey</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tromans</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Van Helmond</LastName>
+<ForeName>Z</ForeName>
+<Initials>Z</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wall</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wallis</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>White</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Whitehead</LastName>
+<ForeName>S L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilkinson</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Willey</LastName>
+<ForeName>D L</ForeName>
+<Initials>DL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Williams</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilming</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wray</LastName>
+<ForeName>P W</ForeName>
+<Initials>PW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Z</ForeName>
+<Initials>Z</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Coulson</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vaudin</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sulston</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Durbin</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hubbard</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wooster</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunham</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carter</LastName>
+<ForeName>N P</ForeName>
+<Initials>NP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McVean</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ross</LastName>
+<ForeName>M T</ForeName>
+<Initials>MT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harrow</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olson</LastName>
+<ForeName>M V</ForeName>
+<Initials>MV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beck</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rogers</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bentley</LastName>
+<ForeName>D R</ForeName>
+<Initials>DR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Banerjee</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bryant</LastName>
+<ForeName>S P</ForeName>
+<Initials>SP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Burford</LastName>
+<ForeName>D C</ForeName>
+<Initials>DC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Burrill</LastName>
+<ForeName>W D H</ForeName>
+<Initials>WD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clegg</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dhami</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dovey</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Faulkner</LastName>
+<ForeName>L M</ForeName>
+<Initials>LM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gribble</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Langford</LastName>
+<ForeName>C F</ForeName>
+<Initials>CF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pandian</LastName>
+<ForeName>R D</ForeName>
+<Initials>RD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Porter</LastName>
+<ForeName>K M</ForeName>
+<Initials>KM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prigmore</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>RefSeq</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NC_000001</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>G0000107</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Nature</MedlineTA>
+<NlmUniqueID>0410462</NlmUniqueID>
+<ISSNLinking>0028-0836</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="ErratumIn">
+<RefSource>Nature. 2006 Oct 26;443(7114):1013</RefSource>
+<Note>Banerjee, R [added]; Bryant, SP [added]; Burford, DC [added]; Burrill, WDH [added]; Clegg, SM [added]; Dhami, P [added]; Dovey, O [added]; Faulkner, LM [added]; Gribble, SM [added]; Langford, CF [added]; Pandian, RD [added]; Porter, KM [added]; Prigmore, E</Note>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002878">Chromosomes, Human, Pair 1</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D042522">DNA Replication Timing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004194">Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020440">Gene Duplication</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005796">Genes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014644">Genetic Variation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D023281">Genomics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016366">Open Reading Frames</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011544">Pseudogenes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011995">Recombination, Genetic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012641">Selection, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017422">Sequence Analysis, DNA</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2005</Year>
+<Month>12</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2006</Year>
+<Month>03</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>6</Month>
+<Day>15</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16710414</ArticleId>
+<ArticleId IdType="pii">nature04727</ArticleId>
+<ArticleId IdType="doi">10.1038/nature04727</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

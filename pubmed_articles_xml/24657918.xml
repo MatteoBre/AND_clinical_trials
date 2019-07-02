@@ -1,0 +1,312 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24657918</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>01</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>05</Month>
+<Day>09</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1567-7257</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>24</Volume>
+<PubDate>
+<Year>2014</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases</Title>
+<ISOAbbreviation>Infect. Genet. Evol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Single nucleotide polymorphisms in Plasmodium falciparum V type H(+) pyrophosphatase gene (pfvp2) and their associations with pfcrt and pfmdr1 polymorphisms.</ArticleTitle>
+<Pagination>
+<MedlinePgn>111-5</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.meegid.2014.03.004</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S1567-1348(14)00086-0</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Chloroquine resistance in Plasmodium falciparum malaria has been associated with pfcrt 76T (chloroquine resistance transporter gene) and pfmdr1 86Y (multidrug resistance gene 1) alleles. Pfcrt 76T enables transport of protonated chloroquine out of the parasites digestive vacuole resulting in a loss of hydrogen ions (H(+)). V type H(+) pyrophosphatase (PfVP2) is thought to pump H(+) into the digestive vacuole. This study aimed to describe the geographic distribution of single nucleotide polymorphisms in pfvp2 and their possible associations with pfcrt and pfmdr1 polymorphisms.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Blood samples from 384 patients collected (1981-2009) in Honduras (n=35), Colombia (n=50), Liberia (n=50), Guinea Bissau (n=50), Tanzania (n=50), Iran (n=50), Thailand (n=49) and Vanuatu (n=50) were analysed. The pfcrt 72-76 haplotype, pfmdr1 copy numbers, pfmdr1 N86Y and pfvp2 V405I, K582R and P711S alleles were identified using PCR based methods.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Pfvp2 was amplified in 344 samples. The pfvp2 allele proportions were V405 (97%), 405I (3%), K582 (99%), 582R (1%), P711 (97%) and 711S (3%). The number of patients with any of pfvp2 405I, 582R and/or 711S were as follows: Honduras (2/30), Colombia (0/46), Liberia (7/48), Guinea-Bissau (4/50), Tanzania (3/48), Iran (3/50), Thailand (1/49) and Vanuatu (0/31). The alleles were most common in Liberia (P=0.01) and Liberia+Guinea-Bissau (P=0.01). The VKP haplotype was found in 189/194 (97%) and 131/145 (90%) samples harbouring pfcrt 76T and pfcrt K76 respectively (P=0.007).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The VKP haplotype was dominant. Most pfvp2 405I, 582R and 711S SNPs were seen where CQ resistance was not highly prevalent at the time of blood sampling possibly due to greater genetic variation prior to the bottle neck event of spreading CQ resistance. The association between the pfvp2 VKP haplotype and pfcrt 76T, which may indicate that pfvp2 is involved in CQ resistance, should therefore be interpreted with caution.</AbstractText>
+<CopyrightInformation>Copyright © 2014 Elsevier B.V. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Jovel</LastName>
+<ForeName>Irina Tatiana</ForeName>
+<Initials>IT</Initials>
+<AffiliationInfo>
+<Affiliation>Malaria Research, Infectious Diseases Unit, Department of Medicine Solna, Karolinska University Hospital/Karolinska Institutet, Retzius väg 10, 171 77 Stockholm, Sweden; Departamento de Parasitología, Escuela de Microbiología, Facultad de Ciencias, Universidad Nacional Autónoma de Honduras (UNAH), Tegucigalpa, Honduras. Electronic address: irina.jovel@ki.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ferreira</LastName>
+<ForeName>Pedro Eduardo</ForeName>
+<Initials>PE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Microbiology, Tumor and Cell Biology (MTC), Karolinska Institutet, Stockholm, Sweden; School of Biological Sciences, Nanyang Technological University, Singapore. Electronic address: pedroemferreira@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Veiga</LastName>
+<ForeName>Maria Isabel</ForeName>
+<Initials>MI</Initials>
+<AffiliationInfo>
+<Affiliation>Malaria Research, Infectious Diseases Unit, Department of Medicine Solna, Karolinska University Hospital/Karolinska Institutet, Retzius väg 10, 171 77 Stockholm, Sweden; Life and Health Sciences Research Institute (ICVS), School of Health Sciences, University of Minho, Braga, Portugal; ICVS/3B's - PT Government Associate Laboratory, Braga/Guimarães, Portugal. Electronic address: maria.isabel.veiga@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Malmberg</LastName>
+<ForeName>Maja</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Malaria Research, Infectious Diseases Unit, Department of Medicine Solna, Karolinska University Hospital/Karolinska Institutet, Retzius väg 10, 171 77 Stockholm, Sweden; Department of Biomedical Sciences and Veterinary Public Health, Section of Virology, Swedish University of Agricultural Sciences, Uppsala, Sweden. Electronic address: malmberg.maja@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mårtensson</LastName>
+<ForeName>Andreas</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Malaria Research, Infectious Diseases Unit, Department of Medicine Solna, Karolinska University Hospital/Karolinska Institutet, Retzius väg 10, 171 77 Stockholm, Sweden; Global Health, Department of Public Health Sciences, Karolinska Institutet, Stockholm, Sweden. Electronic address: andreas.martensson@ki.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaneko</LastName>
+<ForeName>Akira</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Microbiology, Tumor and Cell Biology (MTC), Karolinska Institutet, Stockholm, Sweden. Electronic address: akira.kaneko@ki.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zakeri</LastName>
+<ForeName>Sedigheh</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Malaria and Vector Research Group, Biotechnology Research Center, Pasteur Institute of Iran, Iran. Electronic address: zakeris@yahoo.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Murillo</LastName>
+<ForeName>Claribel</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Centro Internacional de Entrenamiento e Investigaciones Médicas, Cali, Colombia. Electronic address: claribel_murillo@cideim.org.co.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nosten</LastName>
+<ForeName>Francois</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Shoklo Malaria Research Unit, Mae Sot Tak, Thailand; Faculty of Tropical Medicine, Mahidol University, Bangkok, Thailand; Nuffield Department of Clinical Medicine, Centre for Clinical Vaccinology and Tropical Medicine, University of Oxford, Oxford, United Kingdom. Electronic address: francois@tropmedres.ac.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Björkman</LastName>
+<ForeName>Anders</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Malaria Research, Infectious Diseases Unit, Department of Medicine Solna, Karolinska University Hospital/Karolinska Institutet, Retzius väg 10, 171 77 Stockholm, Sweden. Electronic address: anders.bjorkman@karolinska.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ursing</LastName>
+<ForeName>Johan</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Malaria Research, Infectious Diseases Unit, Department of Medicine Solna, Karolinska University Hospital/Karolinska Institutet, Retzius väg 10, 171 77 Stockholm, Sweden. Electronic address: johan.ursing@karolinska.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>03</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Infect Genet Evol</MedlineTA>
+<NlmUniqueID>101084138</NlmUniqueID>
+<ISSNLinking>1567-1348</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000962">Antimalarials</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016054">DNA, Protozoan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C513498">Mdr1 protein, Plasmodium falciparum</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D026901">Membrane Transport Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D027425">Multidrug Resistance-Associated Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C416369">PfCRT protein, Plasmodium falciparum</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015800">Protozoan Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>886U3H6UFF</RegistryNumber>
+<NameOfSubstance UI="D002738">Chloroquine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.1</RegistryNumber>
+<NameOfSubstance UI="D043564">Inorganic Pyrophosphatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000483">Alleles</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000962">Antimalarials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002738">Chloroquine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016054">DNA, Protozoan</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004351">Drug Resistance</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008040">Genetic Linkage</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006239">Haplotypes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D043564">Inorganic Pyrophosphatase</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016778">Malaria, Falciparum</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000469">parasitology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D026901">Membrane Transport Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D027425">Multidrug Resistance-Associated Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010963">Plasmodium falciparum</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015800">Protozoan Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017422">Sequence Analysis, DNA</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Chloroquine</Keyword>
+<Keyword MajorTopicYN="N">Malaria</Keyword>
+<Keyword MajorTopicYN="N">P. falciparum</Keyword>
+<Keyword MajorTopicYN="N">Pfcrt</Keyword>
+<Keyword MajorTopicYN="N">Pfmdr1</Keyword>
+<Keyword MajorTopicYN="N">Pfvp2</Keyword>
+<Keyword MajorTopicYN="N">Resistance</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2014</Year>
+<Month>03</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>03</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24657918</ArticleId>
+<ArticleId IdType="pii">S1567-1348(14)00086-0</ArticleId>
+<ArticleId IdType="doi">10.1016/j.meegid.2014.03.004</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

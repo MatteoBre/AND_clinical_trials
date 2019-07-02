@@ -1,0 +1,501 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27255837</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>02</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>02</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">2055-0278</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>2</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>05</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+<Title>Nature plants</Title>
+<ISOAbbreviation>Nat Plants</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The rubber tree genome reveals new insights into rubber production and species adaptation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>16073</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/nplants.2016.73</ELocationID>
+<Abstract>
+<AbstractText>The Para rubber tree (Hevea brasiliensis) is an economically important tropical tree species that produces natural rubber, an essential industrial raw material. Here we present a high-quality genome assembly of this species (1.37 Gb, scaffold N50 = 1.28 Mb) that covers 93.8% of the genome (1.47 Gb) and harbours 43,792 predicted protein-coding genes. A striking expansion of the REF/SRPP (rubber elongation factor/small rubber particle protein) gene family and its divergence into several laticifer-specific isoforms seem crucial for rubber biosynthesis. The REF/SRPP family has isoforms with sizes similar to or larger than SRPP1 (204 amino acids) in 17 other plants examined, but no isoforms with similar sizes to REF1 (138 amino acids), the predominant molecular variant. A pivotal point in Hevea evolution was the emergence of REF1, which is located on the surface of large rubber particles that account for 93% of rubber in the latex (despite constituting only 6% of total rubber particles, large and small). The stringent control of ethylene synthesis under active ethylene signalling and response in laticifers resolves a longstanding mystery of ethylene stimulation in rubber production. Our study, which includes the re-sequencing of five other Hevea cultivars and extensive RNA-seq data, provides a valuable resource for functional genomics and tools for breeding elite Hevea cultivars.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Tang</LastName>
+<ForeName>Chaorong</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Meng</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>University of Chinese Academy of Sciences, Beijing, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fang</LastName>
+<ForeName>Yongjun</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Luo</LastName>
+<ForeName>Yingfeng</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gao</LastName>
+<ForeName>Shenghan</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xiao</LastName>
+<ForeName>Xiaohu</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>An</LastName>
+<ForeName>Zewei</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhou</LastName>
+<ForeName>Binhui</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>College of Agronomy, Hainan University, Haikou 570228, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Bing</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Core Genomic Facility, Beijing Institute of Genomics, CAS, Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tan</LastName>
+<ForeName>Xinyu</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yeang</LastName>
+<ForeName>Hoong-Yeet</ForeName>
+<Initials>HY</Initials>
+<Identifier Source="ORCID">0000-0002-1916-8415</Identifier>
+<AffiliationInfo>
+<Affiliation>Bukit Bandar Raya, 59100 Kuala Lumpur, Malaysia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Qin</LastName>
+<ForeName>Yunxia</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Jianghua</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lin</LastName>
+<ForeName>Qiang</ForeName>
+<Initials>Q</Initials>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mei</LastName>
+<ForeName>Hailiang</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>University of Chinese Academy of Sciences, Beijing, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Montoro</LastName>
+<ForeName>Pascal</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>CIRAD, UMR AGAP, F-34398, Montpellier, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Long</LastName>
+<ForeName>Xiangyu</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Qi</LastName>
+<ForeName>Jiyan</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hua</LastName>
+<ForeName>Yuwei</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>He</LastName>
+<ForeName>Zilong</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>University of Chinese Academy of Sciences, Beijing, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sun</LastName>
+<ForeName>Min</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Core Genomic Facility, Beijing Institute of Genomics, CAS, Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Wenjie</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Core Genomic Facility, Beijing Institute of Genomics, CAS, Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zeng</LastName>
+<ForeName>Xia</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cheng</LastName>
+<ForeName>Han</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Ying</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Core Genomic Facility, Beijing Institute of Genomics, CAS, Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Jin</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Core Genomic Facility, Beijing Institute of Genomics, CAS, Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tian</LastName>
+<ForeName>Weimin</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhuang</LastName>
+<ForeName>Nansheng</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>College of Agronomy, Hainan University, Haikou 570228, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zeng</LastName>
+<ForeName>Rizhong</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Dejun</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>He</LastName>
+<ForeName>Peng</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Zhe</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zou</LastName>
+<ForeName>Zhi</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Shuangli</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Core Genomic Facility, Beijing Institute of Genomics, CAS, Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Chenji</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Jixiang</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wei</LastName>
+<ForeName>Dong</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lai</LastName>
+<ForeName>Chao-Qiang</ForeName>
+<Initials>CQ</Initials>
+<AffiliationInfo>
+<Affiliation>Nutrition and Genomics Laboratory, JM-USDA Human Nutrition Research Center on Aging, Tufts University, Massachusetts 02111, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Luo</LastName>
+<ForeName>Wei</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yu</LastName>
+<ForeName>Jun</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hu</LastName>
+<ForeName>Songnian</ForeName>
+<Initials>S</Initials>
+<Identifier Source="ORCID">0000-0003-3966-3111</Identifier>
+<AffiliationInfo>
+<Affiliation>CAS Key Laboratory of Genome Sciences and Information, Beijing Institute of Genomics, Chinese Academy of Sciences (CAS), Beijing 100101, China.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>University of Chinese Academy of Sciences, Beijing, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Huasun</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Rubber Research Institute, Chinese Academy of Tropical Agricultural Sciences (CATAS), Danzhou 571737, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>05</Month>
+<Day>23</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Nat Plants</MedlineTA>
+<NlmUniqueID>101651677</NlmUniqueID>
+<ISSNLinking>2055-0278</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005030">Ethylenes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010937">Plant Growth Regulators</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9006-04-6</RegistryNumber>
+<NameOfSubstance UI="D012408">Rubber</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>91GW059KN7</RegistryNumber>
+<NameOfSubstance UI="C036216">ethylene</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Nat Plants. 2016 Jun 03;2(6):16083</RefSource>
+<PMID Version="1">27255846</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000220">Adaptation, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005030">Ethylenes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D018745">Genome, Plant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D028482">Hevea</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010937">Plant Growth Regulators</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012408">Rubber</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>02</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>6</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>6</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2018</Year>
+<Month>2</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27255837</ArticleId>
+<ArticleId IdType="pii">nplants201673</ArticleId>
+<ArticleId IdType="doi">10.1038/nplants.2016.73</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

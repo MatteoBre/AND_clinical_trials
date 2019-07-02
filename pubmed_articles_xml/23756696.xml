@@ -1,0 +1,248 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23756696</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>01</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1941-7632</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>6</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Circulation. Cardiovascular interventions</Title>
+<ISOAbbreviation>Circ Cardiovasc Interv</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Bloodstream infections occurring in patients with percutaneously implanted bioprosthetic pulmonary valve: a single-center experience.</ArticleTitle>
+<Pagination>
+<MedlinePgn>301-10</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1161/CIRCINTERVENTIONS.112.000348</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Percutaneous pulmonary valve implantation using a stent-based bioprosthetic valve provides an alternative to surgery in select patients. Systemic infections in Melody valve-implanted patients with and without identified valve involvement have been reported, yet the incidence is unknown, and risk factors remain unidentified.</AbstractText>
+<AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">Between 2007 and 2012, a total of 147 consecutive patients with congenital heart disease underwent Melody percutaneous pulmonary valve implantation at our institution. Demographic and clinical variables were collected at baseline and at follow-up and analyzed as predictors. The occurrence of bloodstream infection (BSI), defined as a bacterial infection treated with ≥4 weeks of antibiotics, served as our primary outcome. The mean age at implantation for the study population was 21.5±11 years, and tetralogy of Fallot was the cardiac condition in 59%. During a median follow-up of 19 months, 14 patients experienced BSI (9.5%; 95% confidence interval, 5.3%-15%). Of these, 4 (2.7%) patients had Melody valve endocarditis. Two patients died during the event, neither of whom had known valve involvement. The median procedure to infection time was 15 months (range, 1-56). In univariate analysis, male sex, previous endocarditis, in situ stents in the right ventricular outflow tract, and presence of outflow tract irregularities at the implant site were associated with BSI occurrence.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In this cohort, 9.5% of patients who underwent Melody percutaneous pulmonary valve implantation experienced subsequent BSI, occurring 1 to 56 months after implant, and 2.7% of patients had prosthetic endocarditis. Our findings suggest that patient and nonvalve anatomic factors may be associated with BSI after percutaneous pulmonary valve implantation.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Buber</LastName>
+<ForeName>Jonathan</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiology and the Division of Infectious Diseases, Departments of Medicine and Laboratory Medicine, Boston Children's Hospital, Boston, MA 02115, USA..</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bergersen</LastName>
+<ForeName>Lisa</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lock</LastName>
+<ForeName>James E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gauvreau</LastName>
+<ForeName>Kimberlee</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Esch</LastName>
+<ForeName>Jesse J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Landzberg</LastName>
+<ForeName>Michael J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Valente</LastName>
+<ForeName>Anne Marie</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sandora</LastName>
+<ForeName>Thomas J</ForeName>
+<Initials>TJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marshall</LastName>
+<ForeName>Audrey C</ForeName>
+<Initials>AC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>06</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Circ Cardiovasc Interv</MedlineTA>
+<NlmUniqueID>101499602</NlmUniqueID>
+<ISSNLinking>1941-7640</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000900">Anti-Bacterial Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001705">Bioprosthesis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001900">Boston</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004697">Endocarditis, Bacterial</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006330">Heart Defects, Congenital</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006350">Heart Valve Prosthesis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019918">Heart Valve Prosthesis Implantation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011474">Prosthesis Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016459">Prosthesis-Related Infections</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011664">Pulmonary Valve</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011859">Radiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014463">Ultrasonography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">congenital cardiac defect</Keyword>
+<Keyword MajorTopicYN="N">infection</Keyword>
+<Keyword MajorTopicYN="N">percutaneous valve implantation</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23756696</ArticleId>
+<ArticleId IdType="pii">CIRCINTERVENTIONS.112.000348</ArticleId>
+<ArticleId IdType="doi">10.1161/CIRCINTERVENTIONS.112.000348</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

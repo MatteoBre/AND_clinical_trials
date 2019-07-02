@@ -1,0 +1,214 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22704287</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>01</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1097-685X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>144</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of thoracic and cardiovascular surgery</Title>
+<ISOAbbreviation>J. Thorac. Cardiovasc. Surg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Early elevation of cardiac troponin I is predictive of short-term outcome in neonates and infants with coronary anomalies or reduced ventricular mass undergoing cardiac surgery.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1436-44</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jtcvs.2012.05.034</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0022-5223(12)00573-9</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The present study aimed to assess the usefulness of routine monitoring of cardiac troponin I concentrations within 24 hours of surgery (cTn-I&lt;24h) in neonates and infants undergoing cardiac surgery.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The added predictive ability of a high peak cTn-I&lt;24h (within the upper quintile per procedure) for a composite outcome, including 30-day mortality and severe morbidity, was assessed retrospectively. The predicted risk for the composite outcome was estimated from a logistic regression model including preoperative and intraoperative variables. Adding a high peak cTn-I&lt;24h to the risk model resulted in reclassification of the predicted risk. It also allowed quantification of the improvement in reclassification and discrimination by the difference between c-indexes, the Net Reclassification and the Integrated Discrimination Indexes (NRI and IDI).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, 1023 consecutive patients were included. Adding a high peak cTn-I&lt;24h to the model resulted in no improvement in reclassification or discrimination in the overall population (difference between c-indexes: 0.011 [-0.004 to 0.029], NRI = 0.06, P = .22, IDI = 0.02, P = .06), except in a subgroup of patients undergoing the arterial switch operation with or without ventricular septal defect closure and/or aortic arc repair, anomalous origin of the left coronary artery from the pulmonary artery repair, truncus arteriosus repair, Norwood procedure, and Sano modification, in whom NRI = 0.23 (P = .005) and IDI = 0.05 (P &lt; .001).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Patients with coronary anomalies and patients with reduced ventricular mass should benefit from the routine monitoring of cTn-I concentrations after surgery for congenital cardiac disease.</AbstractText>
+<CopyrightInformation>Copyright © 2012 The American Association for Thoracic Surgery. Published by Mosby, Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bojan</LastName>
+<ForeName>Mirela</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Anesthesia and Critical Care Department, Necker-Enfants Malades Hospital, Assistance Publique, Hôpitaux de Paris, France. mirela.bojan@nck.aphp.fr</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peperstraete</LastName>
+<ForeName>Harlinde</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lilot</LastName>
+<ForeName>Marc</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vicca</LastName>
+<ForeName>Stéphanie</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pouard</LastName>
+<ForeName>Philippe</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vouhé</LastName>
+<ForeName>Pascal</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>06</Month>
+<Day>15</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Thorac Cardiovasc Surg</MedlineTA>
+<NlmUniqueID>0376343</NlmUniqueID>
+<ISSNLinking>0022-5223</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019210">Troponin I</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006348">Cardiac Surgical Procedures</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016002">Discriminant Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006330">Heart Defects, Congenital</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011183">Postoperative Complications</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019210">Troponin I</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015854">Up-Regulation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2012</Year>
+<Month>03</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>05</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>1</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22704287</ArticleId>
+<ArticleId IdType="pii">S0022-5223(12)00573-9</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jtcvs.2012.05.034</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

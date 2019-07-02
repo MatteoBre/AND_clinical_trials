@@ -1,0 +1,185 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">25273784</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>05</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>10</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1089-7623</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>85</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Review of scientific instruments</Title>
+<ISOAbbreviation>Rev Sci Instrum</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A geophysical shock and air blast simulator at the National Ignition Facility.</ArticleTitle>
+<Pagination>
+<MedlinePgn>095119</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1063/1.4896119</ELocationID>
+<Abstract>
+<AbstractText>The energy partitioning energy coupling experiments at the National Ignition Facility (NIF) have been designed to measure simultaneously the coupling of energy from a laser-driven target into both ground shock and air blast overpressure to nearby media. The source target for the experiment is positioned at a known height above the ground-surface simulant and is heated by four beams from the NIF. The resulting target energy density and specific energy are equal to those of a low-yield nuclear device. The ground-shock stress waves and atmospheric overpressure waveforms that result in our test system are hydrodynamically scaled analogs of full-scale seismic and air blast phenomena. This report summarizes the development of the platform, the simulations, and calculations that underpin the physics measurements that are being made, and finally the data that were measured. Agreement between the data and simulation of the order of a factor of two to three is seen for air blast quantities such as peak overpressure. Historical underground test data for seismic phenomena measured sensor displacements; we measure the stresses generated in our ground-surrogate medium. We find factors-of-a-few agreement between our measured peak stresses and predictions with modern geophysical computer codes. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Fournier</LastName>
+<ForeName>K B</ForeName>
+<Initials>KB</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Livermore National Laboratory, P.O. Box 808, L-481, Livermore, California 94550, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>C G</ForeName>
+<Initials>CG</Initials>
+<Suffix>Jr</Suffix>
+<AffiliationInfo>
+<Affiliation>Lawrence Livermore National Laboratory, P.O. Box 808, L-481, Livermore, California 94550, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>May</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Livermore National Laboratory, P.O. Box 808, L-481, Livermore, California 94550, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Compton</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Livermore National Laboratory, P.O. Box 808, L-481, Livermore, California 94550, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Walton</LastName>
+<ForeName>O R</ForeName>
+<Initials>OR</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Livermore National Laboratory, P.O. Box 808, L-481, Livermore, California 94550, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shingleton</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Livermore National Laboratory, P.O. Box 808, L-481, Livermore, California 94550, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kane</LastName>
+<ForeName>J O</ForeName>
+<Initials>JO</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Livermore National Laboratory, P.O. Box 808, L-481, Livermore, California 94550, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holtmeier</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Livermore National Laboratory, P.O. Box 808, L-481, Livermore, California 94550, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Loey</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Livermore National Laboratory, P.O. Box 808, L-481, Livermore, California 94550, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mirkarimi</LastName>
+<ForeName>P B</ForeName>
+<Initials>PB</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Livermore National Laboratory, P.O. Box 808, L-481, Livermore, California 94550, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunlop</LastName>
+<ForeName>W H</ForeName>
+<Initials>WH</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Livermore National Laboratory, P.O. Box 808, L-481, Livermore, California 94550, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guyton</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+<AffiliationInfo>
+<Affiliation>National Securities Technologies, Vasco Rd., Livermore, California 94551, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huffman</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>National Securities Technologies, Vasco Rd., Livermore, California 94551, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Rev Sci Instrum</MedlineTA>
+<NlmUniqueID>0405571</NlmUniqueID>
+<ISSNLinking>0034-6748</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25273784</ArticleId>
+<ArticleId IdType="doi">10.1063/1.4896119</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

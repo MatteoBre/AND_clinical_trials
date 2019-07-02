@@ -1,0 +1,192 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20819898</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>10</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1098-4275</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>126</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pediatrics</Title>
+<ISOAbbreviation>Pediatrics</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Iron supplements reduce the risk of iron deficiency anemia in marginally low birth weight infants.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e874-83</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1542/peds.2009-3624</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Low birth weight infants are at risk for iron deficiency (ID). Most LBW infants have marginally low birth weight (MLBW, 2000-2500 g) and it is not known whether they benefit from iron supplements. The objective of this trial was to study the effects of iron supplementation in MLBW infants.</AbstractText>
+<AbstractText Label="METHOD" NlmCategory="METHODS">In a randomized controlled trial, we assigned 285 healthy, MLBW infants to receive iron supplements at a dose of 0 (placebo), 1, or 2 mg/kg per day between 6 weeks and 6 months of age. Hemoglobin levels, ferritin levels, transferrin saturation, mean cell volume, and transferrin receptor levels were analyzed at 6 months. Growth and morbidity were monitored.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Iron supplementation resulted in significant dose-dependent effects on hemoglobin and all iron status indicators at 6 months. The prevalence of ID at 6 months was 36% in the placebo group, 8.2% in the 1 mg/kg per day group, and 3.8% in the 2 mg/kg per day group (P&lt;.001). The prevalence rates of ID anemia (IDA) were 9.9%, 2.7%, and 0%, respectively (P=.004). Among infants who were exclusively breastfed at 6 weeks, the prevalence of IDA was 18% in the placebo group. There were no significant differences between groups in growth or morbidity.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">MLBW infants have relatively high risks of ID and IDA, especially if they are breastfed. Iron supplementation at 2 mg/kg per day from 6 weeks to 6 months reduces this risk effectively, with no short-term adverse effects on morbidity or growth.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Berglund</LastName>
+<ForeName>Staffan</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Umeå University, Department of Clinical Sciences, Division of Pediatrics, SE-901 85 Umeå, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Westrup</LastName>
+<ForeName>Björn</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Domellöf</LastName>
+<ForeName>Magnus</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00558454</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>09</Month>
+<Day>06</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pediatrics</MedlineTA>
+<NlmUniqueID>0376422</NlmUniqueID>
+<ISSNLinking>0031-4005</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005296">Ferrous Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006454">Hemoglobins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014168">Transferrin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>818ZYK7N91</RegistryNumber>
+<NameOfSubstance UI="C022943">ferrous succinate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>E1UOL152H7</RegistryNumber>
+<NameOfSubstance UI="D007501">Iron</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018798">Anemia, Iron-Deficiency</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001942">Breast Feeding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005296">Ferrous Compounds</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006454">Hemoglobins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007230">Infant, Low Birth Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007234">Infant, Premature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007501">Iron</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014168">Transferrin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20819898</ArticleId>
+<ArticleId IdType="pii">peds.2009-3624</ArticleId>
+<ArticleId IdType="doi">10.1542/peds.2009-3624</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

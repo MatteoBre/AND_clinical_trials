@@ -1,0 +1,458 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17164724</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>03</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0041-1337</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>82</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Dec</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Transplantation</Title>
+<ISOAbbreviation>Transplantation</ISOAbbreviation>
+</Journal>
+<ArticleTitle>CD8(+) T cells resistant to costimulatory blockade are controlled by an antagonist interleukin-15/Fc protein.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1510-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Although permanent engraftment is often achieved with new therapeutics, chronic rejection and graft failure still occur. As the importance of CD8(+) T cells in rejection processes has been underlined in various transplant models, and as interleukin (IL)-15 is involved in the activation of CD8(+) T cells, we hypothesize that CD8(+) T cell "escape" from costimulation blockade might be a IL-15/IL-15R dependent process.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">In a murine islet allograft model employing a fully major histocompatibility complex-mismatched strain combination of Balb/c donors to CD4 C57BL/6 recipients, a monotherapy with the IL-15 antagonist, IL-15 mutant/Fcgamma2a, or the costimulatory blockade molecule, CTLA4/Fc, was used. In addition to monitoring graft survival, infiltration of alloreactive immune cells was analyzed by histology and immunohistochemistry, and alloimmune response of proliferative CD8(+) T cells was measured in vivo.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Sixty percent of the recipients treated with CTLA4/Fc acutely rejected their islet allograft, comparable to untreated control animals (50% survival). In contrast, the IL-15 antagonist proved to be highly effective, with 100% of recipients accepting their allograft. Immunohistology study demonstrated a remarkable decrease of CD8(+) T-cell intragraft infiltration in IL-15 mutant/Fcgamma2a treated animals with well-preserved islet architecture and a reduced frequency of proliferating alloreactive CD8(+) T cells in comparison with that of untreated and CTLA4/Fc treated groups.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In this study, we determined the efficacy and potential therapeutic benefit of the IL-15 antagonist on CD4-independent CD8(+) T-cell responses to alloantigens. Targeting the IL-15/IL-15R pathway represents a potent strategy to prevent rejection driven by CD8(+) T cells resistant to costimulation blockade.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ferrari-Lacraz</LastName>
+<ForeName>Sylvie</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Harvard Medical School, Division of Immunology, Beth Israel Deaconess Medical Center, Boston, MA, USA. sylvie.ferrari@hcuge.ch</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zheng</LastName>
+<ForeName>Xin Xiao</ForeName>
+<Initials>XX</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fueyo</LastName>
+<ForeName>Alberto Sanchez</ForeName>
+<Initials>AS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Maslinski</LastName>
+<ForeName>Wlodzimierz</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moll</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Strom</LastName>
+<ForeName>Terry B</ForeName>
+<Initials>TB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P01 AI041521</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>1P01 AI GF 41521</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI42298</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Transplantation</MedlineTA>
+<NlmUniqueID>0132144</NlmUniqueID>
+<ISSNLinking>0041-1337</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015703">Antigens, CD</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000943">Antigens, Differentiation</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D060908">CTLA-4 Antigen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C556707">Ctla4 protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C508025">Il15ra protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019409">Interleukin-15</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D053647">Receptors, Interleukin-15</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015703">Antigens, CD</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000943">Antigens, Differentiation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015496">CD4-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018414">CD8-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060908">CTLA-4 Antigen</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006084">Graft Rejection</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019409">Interleukin-15</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016381">Islets of Langerhans Transplantation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008213">Lymphocyte Activation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008817">Mice, Mutant Strains</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053647">Receptors, Interleukin-15</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>14</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>3</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>14</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17164724</ArticleId>
+<ArticleId IdType="doi">10.1097/01.tp.0000243168.53126.d2</ArticleId>
+<ArticleId IdType="pii">00007890-200612150-00022</ArticleId>
+<ArticleId IdType="pmc">PMC3779921</ArticleId>
+<ArticleId IdType="mid">NIHMS518145</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Exp Med. 2000 Mar 6;191(5):771-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10704459</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2000 Jul 15;165(2):1111-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10878390</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2000 Sep 15;165(6):3444-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10975865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2001 Jan;7(1):114-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11135625</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1984 Jun;81(12):3864-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6427778</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1981 Aug;78(8):5156-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6795629</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2003 Nov 15;171(10):5085-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14607906</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 2003 Oct;19(4):503-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14563315</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2002 Nov 15;100(10):3633-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12393617</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2002 Mar;8(3):233-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11875493</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2001 Nov 1;167(9):4936-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11673499</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2001 Nov 1;167(9):4796-800</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11673481</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Exp Med. 2001 Jan 15;193(2):219-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11208862</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2001 Sep 15;167(6):3478-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11544341</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 1999 Dec;104(12):1715-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10606625</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2000 Jan 1;164(1):512-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10605049</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Immunol. 1998 Oct;28(10):3137-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9808182</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1998 Jul 15;161(2):890-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9670967</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1998 Jun 15;160(12):5742-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9637483</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 1998 May;8(5):591-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9620680</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1997 Aug 5;94(16):8789-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9238056</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1995 Aug 1;155(3):1165-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7543517</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Immunol. 1995 Oct;25(10):2972-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7589100</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1996 May 30;381(6581):434-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8632801</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1995 Jul 1;155(1):489-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7602120</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1992 Aug 7;257(5071):789-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1323143</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1993 Feb 1;150(3):1093-104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8423334</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 1998 Nov;9(5):669-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9846488</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg. 1999 Apr;229(4):570-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10203092</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 1999 May 15;67(9):1281-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10342323</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1999 Sep 1;163(5):2358-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10452966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1999 Nov 1;163(9):4805-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10528180</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2005 Jan 15;105(2):865-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15280205</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2005 Apr;5(4 Pt 1):702-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15760393</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2005 Jun 1;174(11):6648-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15905503</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2005 Oct;11(10):1059-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16155578</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2006 Jan 15;81(1):109-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16421485</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol Methods. 1994 May 2;171(1):131-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8176234</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

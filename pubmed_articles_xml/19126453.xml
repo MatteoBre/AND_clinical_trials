@@ -1,0 +1,177 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19126453</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>02</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1558-2531</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>55</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>IEEE transactions on bio-medical engineering</Title>
+<ISOAbbreviation>IEEE Trans Biomed Eng</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Adaptive and robust methods of reconstruction (ARMOR) for thermoacoustic tomography.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2741-52</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1109/TBME.2008.919112</ELocationID>
+<Abstract>
+<AbstractText>In this paper, we present new adaptive and robust methods of reconstruction (ARMOR) for thermoacoustic tomography (TAT), and study their performances for breast cancer detection. TAT is an emerging medical imaging technique that combines the merits of high contrast due to electromagnetic or laser stimulation and high resolution offered by thermal acoustic imaging. The current image reconstruction methods used for TAT, such as the delay-and-sum (DAS) approach, are data-independent and suffer from low-resolution, high sidelobe levels, and poor interference rejection capabilities. The data-adaptive ARMOR can have much better resolution and much better interference rejection capabilities than their data-independent counterparts. By allowing certain uncertainties, ARMOR can be used to mitigate the amplitude and phase distortion problems encountered in TAT. The excellent performance of ARMOR is demonstrated using both simulated and experimentally measured data.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Xie</LastName>
+<ForeName>Yao</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Electrical and Computer Engineering, University of Florida, Gainesville, FL 32611-6130, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guo</LastName>
+<ForeName>Bin</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Jian</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ku</LastName>
+<ForeName>Geng</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Lihong V</ForeName>
+<Initials>LV</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>1R41CA107903-1</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>IEEE Trans Biomed Eng</MedlineTA>
+<NlmUniqueID>0012737</NlmUniqueID>
+<ISSNLinking>0018-9294</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000042">Absorption</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000162">Acoustics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016477">Artifacts</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020811">Biomedical Technology</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004574">Electromagnetic Fields</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004735">Energy Transfer</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006358">Hot Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007091">Image Processing, Computer-Assisted</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012815">Signal Processing, Computer-Assisted</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013018">Sound Spectrography</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014054">Tomography</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014894">Weights and Measures</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>1</Month>
+<Day>8</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>1</Month>
+<Day>8</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>2</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19126453</ArticleId>
+<ArticleId IdType="doi">10.1109/TBME.2008.919112</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

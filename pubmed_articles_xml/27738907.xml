@@ -1,0 +1,508 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27738907</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>08</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1720-8386</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>40</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of endocrinological investigation</Title>
+<ISOAbbreviation>J. Endocrinol. Invest.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Secondary hyperparathyroidism prevalence and prognostic role in elderly males with heart failure.</ArticleTitle>
+<Pagination>
+<MedlinePgn>297-304</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s40618-016-0561-2</ELocationID>
+<Abstract>
+<AbstractText Label="AIM" NlmCategory="OBJECTIVE">Evaluation of secondary hyperparathyroidism (SHPT) and its prognostic impact on all-cause mortality in elderly males with heart failure (HF).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Seventy three males (67 ± 7 years old) with systolic HF were included. Baseline PTH was measured. Patients were grouped according to PTH cut-off levels of 65 pg/ml (&gt;65 pg/ml = SHPT vs. normal PTH). All-cause mortality was evaluated at 6-year follow-up.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">SHPT was diagnosed in 43 (59 %) patients. They were more severe compared to the patients with normal PTH regarding NYHA functional class (2.4 ± 0.5 vs. 2.1 ± 0.2, p = 0.001), quality of life score (34 ± 14 vs. 24 ± 12, p = 0.005), 6-min walking distance (378 ± 79 vs. 446 ± 73 m, p &lt; 0.0001), left ventricular ejection fraction (27 ± 8 vs. 31 ± 7 %, p = 0.019), and NT-proBNP [2452 (3399) vs. 918 (1372) pg/ml, p &lt; 0.0001]. No differences in age, vitamin D status, and renal function were noted between studied groups. A total of 41 (56 %) patients died within 6 years of follow-up. Kaplan-Meier survival analysis showed impaired long-term survival in patients with SHPT versus patients with normal PTH (p = 0.009). The rate of death was highest (75 %) in the group of patients with SHPT and NT-proBNP levels above median value (p = 0.003). Cox regression analysis demonstrated that NT-proBNP was the single independent predictor of all-cause mortality at 6-year follow-up [HR 3.698 (1.927-7.095), p &lt; 0.0001].</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">SHPT was highly prevalent in elderly males with HF and was associated with impaired survival. HF patients with SHPT had more severe disease compared to the patients with normal serum PTH. Determination of serum PTH levels provided additional value to NT-proBNP for risk stratification in these patients.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Loncar</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiology Department, Clinical Hospital Zvezdara, Dimitrija Tucovica 161, Belgrade, 11 000, Serbia. loncar_goran@yahoo.com.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Faculty of Medicine, University of Belgrade, Belgrade, Serbia. loncar_goran@yahoo.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bozic</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Institute for Medical Research, Military Medical Academy, Belgrade, Serbia.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Institute for Physiology and Biochemistry, University of Belgrade, Belgrade, Serbia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cvetinovic</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiology Department, Clinical Hospital Zvezdara, Dimitrija Tucovica 161, Belgrade, 11 000, Serbia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dungen</LastName>
+<ForeName>H-D</ForeName>
+<Initials>HD</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiology, Campus Virchow, Charité Universitätsmedizin Berlin, Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lainscak</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Cardiology and Research and Education, General Hospital Celje, Celje, Slovenia.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Faculty of Medicine, University of Ljubljana, Ljubljana, Slovenia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>von Haehling</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Innovative Clinical Trials, Department of Cardiology and Pneumology, University of Medicine Göttingen, Göttingen, Germany.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Applied Cachexia Research, Department of Cardiology, Charité-University Medical School, Campus Virchow-Klinikum, Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Doehner</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Center for Stroke Research Berlin, Charite University Medical School, Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Radojicic</LastName>
+<ForeName>Z</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Institute for Statistics, Faculty of Organizational Sciences, University of Belgrade, Belgrade, Serbia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Putnikovic</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Faculty of Medicine, University of Belgrade, Belgrade, Serbia.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cardiology Department, Clinical Hospital Center Zemun, Belgrade, Serbia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Trippel</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiology, Campus Virchow, Charité Universitätsmedizin Berlin, Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Popovic</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Faculty of Medicine, University of Belgrade, Belgrade, Serbia.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Institute of Endocrinology, Clinical Center of Serbia, Belgrade, Serbia.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>13</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Italy</Country>
+<MedlineTA>J Endocrinol Invest</MedlineTA>
+<NlmUniqueID>7806594</NlmUniqueID>
+<ISSNLinking>0391-4097</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006333">Heart Failure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006962">Hyperparathyroidism, Secondary</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011788">Quality of Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012372">ROC Curve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055771">Serbia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Heart failure</Keyword>
+<Keyword MajorTopicYN="N">Hyperparathyroidism</Keyword>
+<Keyword MajorTopicYN="N">Mortality</Keyword>
+<Keyword MajorTopicYN="N">PTH</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>08</Month>
+<Day>01</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>8</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27738907</ArticleId>
+<ArticleId IdType="doi">10.1007/s40618-016-0561-2</ArticleId>
+<ArticleId IdType="pii">10.1007/s40618-016-0561-2</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Cardiovasc Res. 1998 Jan;37(1):34-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9539855</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Heart Fail. 2014 Sep;7(5):732-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25104043</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gerontol Geriatr. 2015 Mar-Apr;60(2):359-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25466512</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Res. 2011;60 Suppl 1:S155-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21777017</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J. 2014 Feb;35(7):455-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24164864</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2002 Jul 1;166(1):111-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12091180</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart. 2013 Jan;99(2):111-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23184010</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Heart Assoc. 2014 Dec 02;3(6):e001278</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25468653</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Endocrinol Invest. 2011 Mar;34(3):e78-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20820131</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart Fail Rev. 2013 Jul;18(4):465-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22875486</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Osteoporos Rep. 2008 Jun;6(2):77-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18778568</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2011 Jul;96(7):1911-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21646368</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Mol Med. 2010 Jan 31;42(1):61-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19887893</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ Open. 2013 Mar 09;3(3):null</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23474790</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Heart Fail. 2011 Jun;13(6):626-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21415099</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2015 Jul 7;132(1):27-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26059012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2005 Jul 5;46(1):142-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15992648</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Sci. 2008 Feb;335(2):105-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18277117</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2009 Apr 14;119(14):e391-479</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19324966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int Suppl. 2003 Jun;(85):S44-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12753264</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ J. 2014;78(11):2704-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25253620</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2008 Dec 1;102(11):1540-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19026311</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chim Acta. 2014 Jun 10;433:290-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24704306</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Endocrinol Invest. 2015 Oct;38(10):1129-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26048596</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2012 Jan 15;109(2):252-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21996143</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Drugs Ther. 2013 Apr;27(2):161-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22373564</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Cardiol. 2014 Dec;69(6):665-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25643437</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart. 2009 Mar;95(5):395-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19001003</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Echocardiogr. 2009 Mar;22(3):213-31; quiz 316-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19258174</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2009 Jul 11;374(9684):145-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19595349</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Heart J. 1992 Oct;124(4):1017-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1529875</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2005 Feb 22;111(7):871-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15710759</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2011 Sep 27;58(14):1433-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21939825</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J. 2003 Nov;24(22):2054-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14613742</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Intern Med. 2013 Dec;24(8):818-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24095654</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Res. 2012 Apr 1;94(1):10-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22334595</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Metab Cardiovasc Dis. 2010 Nov;20(9):633-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20399085</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cardiovasc Pharmacol Ther. 2011 Sep-Dec;16(3-4):354-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21304056</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Peptides. 2015 Feb;64:24-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25572303</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(3):e59225</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23555000</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

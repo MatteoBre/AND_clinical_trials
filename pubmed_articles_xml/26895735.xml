@@ -1,0 +1,315 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26895735</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>08</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>03</Month>
+<Day>28</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-1190</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>222</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American College of Surgeons</Title>
+<ISOAbbreviation>J. Am. Coll. Surg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Adjuvant Therapy in Pancreas Cancer: Does It Influence Patterns of Recurrence?</ArticleTitle>
+<Pagination>
+<MedlinePgn>448-56</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jamcollsurg.2015.12.031</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S1072-7515(16)00015-6</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Level 1 data demonstrate that adjuvant chemotherapy (ACT) improves survival after surgical resection of pancreatic ductal adenocarcinoma (PDAC), (adjuvant gemcitabine, CONKO-001 study; adjuvant 5-FU, ESPAC3 study). The role of adjuvant chemoradiation therapy (ACRT) remains controversial. What is less clear is whether adjuvant therapy influences patterns of recurrence. The purpose of this study was to perform the first multicenter study analyzing patterns of recurrence after adjuvant therapy for PDAC.</AbstractText>
+<AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">Patients undergoing resection for PDAC from 8 medical centers over a 10-year period were analyzed. Demographics, tumor characteristics, operative treatment, type of adjuvant therapy, recurrence pattern, and survival were reviewed. Using Cox-proportional hazards multivariate (MV) regression, the impact of ACT and ACRT on overall survival (OS), local recurrence (LR), and distant recurrence (DR) was investigated.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">There were 1,130 patients who were divided into those having surgery alone (n = 392), ACT (n = 291), or ACRT (n = 447). Median follow-up was 18 months. Compared with patients undergoing surgery alone, ACT, but not ACRT, demonstrated a significant OS advantage on MV analysis. Patients receiving ACT had significantly fewer recurrences (LR and DR); those receiving ACRT had significantly less LR but not DR. On subset MV analysis, ACT and ACRT resulted in less LR in patients with lymph node (LN) positive and margin negative disease. No improvements in LR, DR, or OS were seen in margin positive patients with either ACT or ACRT.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This is the first analysis demonstrating differences in recurrence patterns in PDAC patients based on type of adjuvant therapy. Adjuvant chemotherapy provided an OS advantage likely related to its effect on reducing both LR and DR. Adjuvant chemoradiation therapy appears to decrease LR, but not DR, and therefore has less impact on OS. Future investigations and treatment protocols should consider additional ACT rather than ACRT in the treatment of PDAC.</AbstractText>
+<CopyrightInformation>Copyright © 2016. Published by Elsevier Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Parikh</LastName>
+<ForeName>Alexander A</ForeName>
+<Initials>AA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Vanderbilt University, Nashville, TN. Electronic address: alexander.parikh@vanderbilt.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Maiga</LastName>
+<ForeName>Amelia</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Vanderbilt University, Nashville, TN.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bentrem</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Northwestern University, Chicago, IL.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Squires</LastName>
+<ForeName>Malcolm H</ForeName>
+<Initials>MH</Initials>
+<Suffix>3rd</Suffix>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Emory University, Atlanta, GA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kooby</LastName>
+<ForeName>David A</ForeName>
+<Initials>DA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Emory University, Atlanta, GA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Maithel</LastName>
+<ForeName>Shishir K</ForeName>
+<Initials>SK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Emory University, Atlanta, GA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weber</LastName>
+<ForeName>Sharon M</ForeName>
+<Initials>SM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Wisconsin, Madison, WI.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cho</LastName>
+<ForeName>Clifford S</ForeName>
+<Initials>CS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Wisconsin, Madison, WI.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Katz</LastName>
+<ForeName>Matthew</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgical Oncology, University of Texas MD Anderson Cancer Center, Houston, TX.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Martin</LastName>
+<ForeName>Robert C</ForeName>
+<Initials>RC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Louisville, Louisville, KY.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scoggins</LastName>
+<ForeName>Charles R</ForeName>
+<Initials>CR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Louisville, Louisville, KY.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sutton</LastName>
+<ForeName>Jeff</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Cincinnati, Cincinnati, OH.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ahmad</LastName>
+<ForeName>Syed A</ForeName>
+<Initials>SA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Cincinnati, Cincinnati, OH.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abbott</LastName>
+<ForeName>Daniel E</ForeName>
+<Initials>DE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Cincinnati, Cincinnati, OH.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carr</LastName>
+<ForeName>Jacquelyn</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of North Carolina, Chapel Hill, NC.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Hong Jin</ForeName>
+<Initials>HJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of North Carolina, Chapel Hill, NC.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yakoub</LastName>
+<ForeName>Danny</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Miami, Miami, FL.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Idrees</LastName>
+<ForeName>Kamran</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Vanderbilt University, Nashville, TN.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Merchant</LastName>
+<ForeName>Nipun</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Miami, Miami, FL.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>02</Month>
+<Day>16</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Am Coll Surg</MedlineTA>
+<NlmUniqueID>9431305</NlmUniqueID>
+<ISSNLinking>1072-7515</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>J Am Coll Surg. 2016 Apr;222(4):456-8</RefSource>
+<PMID Version="1">27016973</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D021441">Carcinoma, Pancreatic Ductal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D059186">Chemoradiotherapy, Adjuvant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017024">Chemotherapy, Adjuvant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010180">Pancreatectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010190">Pancreatic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016577">Pancreaticoduodenectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26895735</ArticleId>
+<ArticleId IdType="pii">S1072-7515(16)00015-6</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jamcollsurg.2015.12.031</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

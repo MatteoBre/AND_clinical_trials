@@ -1,0 +1,462 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23632357</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>06</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1539-2031</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>47</Volume>
+<Issue>10</Issue>
+<PubDate>
+<MedlineDate>2013 Nov-Dec</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Journal of clinical gastroenterology</Title>
+<ISOAbbreviation>J. Clin. Gastroenterol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Human leukocyte antigen genetics and clinical features of self-treated patients on a gluten-free diet.</ArticleTitle>
+<Pagination>
+<MedlinePgn>828-33</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/MCG.0b013e31828f531c</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND AND AIMS" NlmCategory="OBJECTIVE">Increasingly, people start a gluten-free diet (GFD) without a clear celiac disease (CD) diagnosis. Human leukocyte antigen (HLA) genotyping is useful in ruling out CD in patients with equivocal results of serologic testing or small-bowel biopsy (SBB), but its utility and the clinical features of patients on self-treated GFD (ST-GFD) are largely unknown.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Retrospective study of single tertiary care center cohort compared 137 patients on ST-GFD and 443 patients with well-defined CD. We compared HLA genotype, symptoms, serologic and SBB results, and response to GFD between the 2 groups. Analysis used univariate logistic regression modeling, adjusted for age and sex.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Patients with ST-GFD presented more often with diarrhea (P&lt;0.001), abdominal distention (P&lt;0.001), flatulence (P=0.002), cramping (P=0.02), itchy skin (P=0.02), oral inflammation (P=0.04), and constipation (P=0.01) and less often with anemia (P&lt;0.001) or malaise (P=0.02) than CD patients. In addition, 41% did not carry DQ2.5 and DQ8 versus 6% of CD patients (P&lt;0.001). Only 2% of ST-GFD patients had SBB clearly consistent with CD. Family history of CD showed no difference between groups (P=0.77). Although CD patients had a statistically higher rate of GFD benefit, both groups had a high responsiveness rate (98% vs. 94%; P=0.03).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">HLA genotyping is useful in evaluating patients on an ST-GFD. Although confirmed CD is rare in self-treated patients, most still report benefit from GFD regardless of DQ2 and DQ8 status. Nonceliac gluten sensitivity may play a role.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Coburn</LastName>
+<ForeName>John A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>*Mayo Medical School, College of Medicine †Department of Psychiatry and Psychology ‡Division of Biostatistics and Informatics §Division of Gastroenterology and Hepatology ∥Division of Transfusion Medicine ¶Division of Anatomic Pathology #Department of Immunology, Mayo Clinic, Rochester, MN.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vande Voort</LastName>
+<ForeName>Jennifer L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lahr</LastName>
+<ForeName>Brian D</ForeName>
+<Initials>BD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Van Dyke</LastName>
+<ForeName>Carol T</ForeName>
+<Initials>CT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kroning</LastName>
+<ForeName>Cynthia M</ForeName>
+<Initials>CM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Tsung-Teh</ForeName>
+<Initials>TT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gandhi</LastName>
+<ForeName>Manish J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Murray</LastName>
+<ForeName>Joseph A</ForeName>
+<Initials>JA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 DK057892</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>DK 57892</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Clin Gastroenterol</MedlineTA>
+<NlmUniqueID>7910017</NlmUniqueID>
+<ISSNLinking>0192-0790</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006683">HLA-DQ Antigens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C053186">HLA-DQ2 antigen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C109756">HLA-DQ8 antigen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8002-80-0</RegistryNumber>
+<NameOfSubstance UI="D005983">Glutens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001706">Biopsy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002446">Celiac Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000178">diet therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D055050">Diet, Gluten-Free</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005983">Glutens</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006683">HLA-DQ Antigens</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007421">Intestine, Small</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>5</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>5</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>6</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23632357</ArticleId>
+<ArticleId IdType="doi">10.1097/MCG.0b013e31828f531c</ArticleId>
+<ArticleId IdType="pmc">PMC3735773</ArticleId>
+<ArticleId IdType="mid">NIHMS450776</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Aliment Pharmacol Ther. 2009 May 15;29(10):1069-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19222407</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2009 Jun;104(6):1587-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19455131</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>US News World Rep. 2008 Dec 1-8;145(12):66, 68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19606737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dig Liver Dis. 2010 May;42(5):352-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19679520</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2010 May 5;303(17):1738-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20442390</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>QJM. 2010 Jul;103(7):511-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20519276</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2010 Jul;139(1):112-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20398668</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2011 Mar;106(3):508-14; quiz 515</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21224837</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Med. 2011;9:23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21392369</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Gastroenterol. 2000 Sep;35(9):942-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11063153</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dig Dis Sci. 2001 Apr;46(4):879-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11330428</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2001 Dec;121(6):1329-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11729112</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2002 Mar;97(3):695-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11922565</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Immunol. 2003 Apr;64(4):469-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12651074</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 2003 Aug;52(8):1211-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12865284</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Surg Pathol. 2003 Sep;27(9):1237-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12960808</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2003 Sep;98(9):2027-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14499783</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dig Liver Dis. 2003 Nov;35(11):768-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14674666</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tissue Antigens. 2004 Jun;63(6):562-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15140032</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 1980 Nov;79(5 Pt 1):801-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7419003</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 1991 Nov;32(11):1412-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1836446</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunogenetics. 1997;46(6):484-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9321428</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann N Y Acad Sci. 1998 Nov 17;859:280-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9928405</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2005 Apr;128(4 Suppl 1):S38-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15825125</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Gastroenterol. 2005 May;40(5):564-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16036509</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endoscopy. 2006 Jul;38(7):702-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16810593</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aliment Pharmacol Ther. 2006 Nov 1;24(9):1395-402</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17059521</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2006 Dec;131(6):1977-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17087935</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dig Dis Sci. 2007 Apr;52(4):1082-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17380406</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Gastroenterol Hepatol. 2007 Jul;5(7):844-50; quiz 769</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17553753</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2007 Sep 4;147(5):294-302</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17785484</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2007 Sep 4;147(5):339-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17785489</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Gastroenterol. 2008;43(11):1311-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18609173</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Osteoporos Int. 2008 Dec;19(12):1705-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18418638</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Can J Gastroenterol. 2008 Nov;22(11):909-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19018335</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2009 Jan;104(1):142-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19098862</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>World J Gastroenterol. 2008 Dec 28;14(48):7381-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19109873</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastroenterol Hepatol. 2011 Apr;26 Suppl 3:132-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21443726</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Intern Med. 2011 Jun;269(6):582-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21481018</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2011 Jul;106(7):1318-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21364548</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pediatr Gastroenterol Nutr. 2011 Sep;53(3):265-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21865972</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

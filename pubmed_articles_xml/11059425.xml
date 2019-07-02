@@ -1,0 +1,123 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11059425</PMID>
+<DateCompleted>
+<Year>2000</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0033-3549</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>115</Volume>
+<Issue>4</Issue>
+<PubDate>
+<MedlineDate>2000 Jul-Aug</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Public health reports (Washington, D.C. : 1974)</Title>
+<ISOAbbreviation>Public Health Rep</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Bioterrorism preparedness and local public health agencies: building response capacity.</ArticleTitle>
+<Pagination>
+<MedlinePgn>326-30</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Fraser</LastName>
+<ForeName>M R</ForeName>
+<Initials>MR</Initials>
+<AffiliationInfo>
+<Affiliation>Research and Development Division of the National Association of County and City Health Officials, Washington, DC 20036, USA. mfraser@naccho.org</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>D L</ForeName>
+<Initials>DL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Public Health Rep</MedlineTA>
+<NlmUniqueID>9716844</NlmUniqueID>
+<ISSNLinking>0033-3549</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Public Health Rep. 2000 Sep-Oct;115(5):403-6</RefSource>
+<PMID Version="1">11236011</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D023482">Bioterrorism</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004189">Disaster Planning</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000458">organization &amp; administration</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011635">Public Health Administration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2000</Year>
+<Month>11</Month>
+<Day>4</Day>
+<Hour>11</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2001</Year>
+<Month>2</Month>
+<Day>28</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2000</Year>
+<Month>11</Month>
+<Day>4</Day>
+<Hour>11</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11059425</ArticleId>
+<ArticleId IdType="pmc">PMC1308572</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Public Health Manag Pract. 2000 Jan;6(1):61-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10724694</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

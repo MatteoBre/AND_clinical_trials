@@ -1,0 +1,116 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">6934691</PMID>
+<DateCompleted>
+<Year>1981</Year>
+<Month>02</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>05</Month>
+<Day>11</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0002-9173</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>74</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1980</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>American journal of clinical pathology</Title>
+<ISOAbbreviation>Am. J. Clin. Pathol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Acute myelogenous leukemia with megakaryocytic myelosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>705-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A case of acute myelogenous leukemia terminating in megakaryocytic myelosis is reported. There was a severe, apparently neoplastic proliferation of megakaryocytes so different from that seen in acute granulocytic leukemia or myelofibrosis that a diagnosis of acute megakaryocytic myelosis was warranted. The clinical and pathologic findings of the case are presented in detail. The literature of this extremely rare hematologic disease is reviewed, and differentiation from chronic and malignant myelosclerosis is discussed.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Habib</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chan</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Am J Clin Pathol</MedlineTA>
+<NlmUniqueID>0370470</NlmUniqueID>
+<ISSNLinking>0002-9173</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015470">Leukemia, Myeloid, Acute</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013920">Thrombocythemia, Essential</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1980</Year>
+<Month>11</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1980</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1980</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6934691</ArticleId>
+<ArticleId IdType="doi">10.1093/ajcp/74.5.705</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

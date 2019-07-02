@@ -1,0 +1,208 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17507634</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>11</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1055-9965</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>16</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Cancer epidemiology, biomarkers &amp; prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology</Title>
+<ISOAbbreviation>Cancer Epidemiol. Biomarkers Prev.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Atypia in random periareolar fine-needle aspiration affects the decision of women at high risk to take tamoxifen for breast cancer chemoprevention.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1032-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Random periareolar fine-needle aspiration (RPFNA) is a research procedure designed to (a) evaluate short-term breast cancer risk in women at high risk for developing breast cancer, and (b) track response to chemoprevention. Of import, cellular atypia in breast RPFNA is prospectively associated with a 5.6-fold increase in breast cancer risk in women at high risk. Among 99 women attending a clinic for high-risk breast cancer, we explored the effects of RPFNA cytology results on decision making pertaining to the use of tamoxifen for breast cancer chemoprevention. No patient with nonproliferative or hyperplastic cytology subsequently elected to take tamoxifen. Only 7% of subjects with borderline atypia elected to take tamoxifen. In contrast, 50% with atypia elected to take tamoxifen. These results suggest that the provision of a biomarker of short-term risk can affect the motivation to take tamoxifen for chemoprevention. This conclusion is informative given that tamoxifen, due to its side effects, is often underused by women at high risk of developing breast cancer. Further research is needed to determine the mechanisms through which RPFNA results affect the decision to use tamoxifen, or any other breast cancer chemopreventive agent.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Goldenberg</LastName>
+<ForeName>Vanessa K</ForeName>
+<Initials>VK</Initials>
+<AffiliationInfo>
+<Affiliation>Duke University Medical Center, Durham, North Carolina, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seewaldt</LastName>
+<ForeName>Victoria L</ForeName>
+<Initials>VL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scott</LastName>
+<ForeName>Victoria</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bean</LastName>
+<ForeName>Gregory R</ForeName>
+<Initials>GR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Broadwater</LastName>
+<ForeName>Gloria</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fabian</LastName>
+<ForeName>Carol</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kimler</LastName>
+<ForeName>Bruce</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zalles</LastName>
+<ForeName>Carola</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lipkus</LastName>
+<ForeName>Isaac M</ForeName>
+<Initials>IM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cancer Epidemiol Biomarkers Prev</MedlineTA>
+<NlmUniqueID>9200608</NlmUniqueID>
+<ISSNLinking>1055-9965</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016588">Anticarcinogenic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D020845">Selective Estrogen Receptor Modulators</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>094ZI81Y45</RegistryNumber>
+<NameOfSubstance UI="D013629">Tamoxifen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016588">Anticarcinogenic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044963">Biopsy, Fine-Needle</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001940">Breast</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018270">Carcinoma, Ductal, Breast</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018275">Carcinoma, Lobular</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003657">Decision Making</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009558">Nipples</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020845">Selective Estrogen Receptor Modulators</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013629">Tamoxifen</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>5</Month>
+<Day>18</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>11</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>5</Month>
+<Day>18</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17507634</ArticleId>
+<ArticleId IdType="pii">16/5/1032</ArticleId>
+<ArticleId IdType="doi">10.1158/1055-9965.EPI-06-0910</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,193 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22191659</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>07</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1545-0066</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>16</Volume>
+<Issue>2</Issue>
+<PubDate>
+<MedlineDate>2012 Apr-Jun</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Prehospital emergency care : official journal of the National Association of EMS Physicians and the National Association of State EMS Directors</Title>
+<ISOAbbreviation>Prehosp Emerg Care</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Prehospital burn management in a combat zone.</ArticleTitle>
+<Pagination>
+<MedlinePgn>273-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3109/10903127.2011.640417</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The purpose of this article is to provide a descriptive study of the management of burns in the prehospital setting of a combat zone.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A retrospective chart review was performed of U.S. casualties with &gt;20% total-body-surface-area thermal burns, transported from the site of injury to Ibn Sina Combat Support Hospital (CSH) between January 1, 2006, and August 30, 2009.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Ibn Sina CSH received 225 burn casualties between January 2006 and August 2009. Of these, 48 met the inclusion criteria. The mean Injury Severity Score was 31.7 (range 4 to 75). Prehospital vascular access was obtained in 24 casualties (50%), and 20 of the casualties received fluid resuscitation. Out of the 48 casualties enrolled, 28 (58.3%) did not receive prehospital fluid resuscitation. Of the casualties who received fluid resuscitation, nearly all received volumes in excess of the guidelines established by the American Burn Association and those recommended by the Committee for Tactical Combat Casualty Care. With regard to pain management in the prehospital setting, 13 casualties (27.1%) received pain medication.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">With regard to the prehospital fluid resuscitation of primary thermal injury in the combat zone, two extremes were noted. The first group did not receive any fluid resuscitation; the second group was resuscitated with fluid volumes higher than those expected if established guidelines were utilized. Pain management was not uniformly provided to major burn casualties, even in several with vascular access. These observations support improved education of prehospital personnel serving in a combat zone.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lairet</LastName>
+<ForeName>Kimberly F</ForeName>
+<Initials>KF</Initials>
+<AffiliationInfo>
+<Affiliation>United States Army Institute of Surgical Research, Fort Sam Houston, Texas 78234, USA. kimberly.franzen@us.army.mil</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lairet</LastName>
+<ForeName>Julio R</ForeName>
+<Initials>JR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>King</LastName>
+<ForeName>Booker T</ForeName>
+<Initials>BT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Renz</LastName>
+<ForeName>Evan M</ForeName>
+<Initials>EM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blackbourne</LastName>
+<ForeName>Lorne H</ForeName>
+<Initials>LH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Prehosp Emerg Care</MedlineTA>
+<NlmUniqueID>9703530</NlmUniqueID>
+<ISSNLinking>1090-3127</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002056">Burns</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004632">Emergency Medical Services</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005440">Fluid Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006772">Hospitals, Military</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015601">Injury Severity Score</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054542">Iraq War, 2003-2011</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008887">Military Medicine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008889">Military Personnel</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020380">Needs Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059408">Pain Management</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012042">Registries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012151">Resuscitation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22191659</ArticleId>
+<ArticleId IdType="doi">10.3109/10903127.2011.640417</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

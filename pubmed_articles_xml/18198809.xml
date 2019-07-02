@@ -1,0 +1,508 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18198809</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>03</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1550-9389</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>3</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Dec</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine</Title>
+<ISOAbbreviation>J Clin Sleep Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Clinical guidelines for the use of unattended portable monitors in the diagnosis of obstructive sleep apnea in adult patients. Portable Monitoring Task Force of the American Academy of Sleep Medicine.</ArticleTitle>
+<Pagination>
+<MedlinePgn>737-47</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Based on a review of literature and consensus, the Portable Monitoring Task Force of the American Academy of Sleep Medicine (AASM) makes the following recommendations: unattended portable monitoring (PM) for the diagnosis of obstructive sleep apnea (OSA) should be performed only in conjunction with a comprehensive sleep evaluation. Clinical sleep evaluations using PM must be supervised by a practitioner with board certification in sleep medicine or an individual who fulfills the eligibility criteria for the sleep medicine certification examination. PM may be used as an alternative to polysomnography (PSG) for the diagnosis of OSA in patients with a high pretest probability of moderate to severe OSA. PM is not appropriate for the diagnosis of OSA in patients with significant comorbid medical conditions that may degrade the accuracy of PM. PM is not appropriate for the diagnostic evaluation of patients suspected of having comorbid sleep disorders. PM is not appropriate for general screening of asymptomatic populations. PM may be indicated for the diagnosis of OSA in patients for whom in-laboratory PSG is not possible by virtue of immobility, safety, or critical illness. PM may also be indicated to monitor the response to non-CPAP treatments for sleep apnea. At a minimum, PM must record airflow, respiratory effort, and blood oxygenation. The airflow, effort, and oximetric biosensors conventionally used for in-laboratory PSG should be used in PM. The Task Force recommends that PM testing be performed under the auspices of an AASM-accredited comprehensive sleep medicine program with written policies and procedures. An experienced sleep technologist/technician must apply the sensors or directly educate patients in sensor application. The PM device must allow for display of raw data with the capability of manual scoring or editing of automated scoring by a qualified sleep technician/technologist. A board certified sleep specialist, or an individual who fulfills the eligibility criteria for the sleep medicine certification examination, must review the raw data from PM using scoring criteria consistent with current published AASM standards. Under the conditions specified above, PM may be used for unattended studies in the patient's home. Afollow-up visit to review test results should be performed for all patients undergoing PM. Negative or technically inadequate PM tests in patients with a high pretest probability of moderate to severe OSA should prompt in-laboratory polysomnography.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Collop</LastName>
+<ForeName>Nancy A</ForeName>
+<Initials>NA</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Pulmonary and Critical Care Medicine, Johns Hopkins University, Baltimore, MD 21205, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>W McDowell</ForeName>
+<Initials>WM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boehlecke</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Claman</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goldberg</LastName>
+<ForeName>Rochelle</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gottlieb</LastName>
+<ForeName>Daniel J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hudgel</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sateia</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schwab</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>Portable Monitoring Task Force of the American Academy of Sleep Medicine</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D017065">Practice Guideline</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Clin Sleep Med</MedlineTA>
+<NlmUniqueID>101231977</NlmUniqueID>
+<ISSNLinking>1550-9389</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>J Clin Sleep Med. 2008 Feb 15;4(1):73</RefSource>
+<PMID Version="1">18350969</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003663">Decision Trees</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018670">Monitoring, Ambulatory</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017286">Polysomnography</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011785">Quality Assurance, Health Care</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020181">Sleep Apnea, Obstructive</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>1</Month>
+<Day>18</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>3</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>1</Month>
+<Day>18</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18198809</ArticleId>
+<ArticleId IdType="pmc">PMC2556918</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Respir Med. 2004 May;98(5):421-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15139571</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2004 Jan;14(1):23-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14980029</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Meas. 2004 Aug;25(4):1025-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15382839</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2004 Aug 1;27(5):923-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15453551</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2004 Aug 1;27(5):951-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15453554</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 1994 Jun;17(4):372-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7973322</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 1996 Dec;9(12):2597-605</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8980975</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Eng Technol. 1997 Jan-Feb;21(1):10-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9080356</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respiration. 1997;64(3):194-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9154670</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 1997 Jun;20(6):423-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9302726</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 1998 Sep;12(3):685-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9762800</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 1999 Aug 1;22(5):667-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10450601</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 1999 Oct;160(4):1101-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10508793</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2004 Sep 15;27(6):1171-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15532212</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2004 Dec;24(6):987-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15572543</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2005 Jan 15;171(2):188-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15486338</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurol Res. 2005 Jan;27(1):83-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15829165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Auris Nasus Larynx. 2005 Jun;32(2):151-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15917172</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2005 Apr;28(4):499-521</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16171294</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2005 Oct;128(4):2166-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16236870</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respiration. 2005 Nov-Dec;72(6):600-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15988172</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Otolaryngol Head Neck Surg. 2006 Feb;134(2):204-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16455365</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Meas. 2006 Apr;27(4):399-412</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16537981</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2006 Mar;29(3):367-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16553023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Sci. 2006 Jun;331(6):304-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16775436</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2007 Feb 6;146(3):157-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17283346</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Sleep Med. 2007 Mar 15;3(2):169-200</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17557426</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Sleep Med. 2006 Jul 15;2(3):274</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17561537</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Sleep Med. 2006 Apr 15;2(2):133-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17557485</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2008 Jan;31(1):141-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18220088</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2004 May 1;27(3):536-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15164911</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2000 Apr 12;283(14):1829-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10770144</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2000 May 11;342(19):1378-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10805822</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2000 Jun 15;23(4):519-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10875559</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Phys Med Rehabil. 2001 Mar;82(3):316-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11245752</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2001 May;119(5):1387-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11348943</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hypertens. 2001 Aug;14(8 Pt 1):743-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11497188</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2001 Aug;120(2):384-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11502633</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Otolaryngol Head Neck Surg. 2001 Sep;125(3):227-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11555758</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respir Med. 2001 Sep;95(9):759-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11575898</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2001 Sep;18(3):530-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11589351</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2001 Nov 15;164(10 Pt 1):1904-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11734444</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2002 Jan 1;165(1):67-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11779732</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>C R Biol. 2002 Apr;325(4):401-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12161920</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respir Med. 2002 Aug;96(8):586-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12195839</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2002 Oct;122(4):1156-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12377836</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2002 Dec;20(6):1505-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12503711</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2003 Feb;21(2):253-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12608438</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2003 Mar;123(3):695-703</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12628865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respir Med. 2003 May;97(5):537-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12735672</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2003 May 15;167(10):1427-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12738600</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2003 Oct;124(4):1543-79</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14555592</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep Med. 2003 May;4(3):213-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14592324</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2003 Nov;124(5):1694-701</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14605037</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2003 Nov 1;26(7):907-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14655928</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep Med. 2004 Jan;5(1):43-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14725826</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

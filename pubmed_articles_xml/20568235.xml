@@ -1,0 +1,187 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20568235</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>05</Month>
+<Day>31</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1613-4133</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>54</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Molecular nutrition &amp; food research</Title>
+<ISOAbbreviation>Mol Nutr Food Res</ISOAbbreviation>
+</Journal>
+<ArticleTitle>High pressure, thermal and pulsed electric-field-induced structural changes in selected food allergens.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1701-10</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/mnfr.201000006</ELocationID>
+<Abstract>
+<AbstractText Label="SCOPE" NlmCategory="METHODS">The effects of high-pressure/temperature treatment and pulsed electric field treatment on native peanut Ara h 2, 6 and apple Mal d 3 and Mal d 1b prepared by heterologous expression were examined.</AbstractText>
+<AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">Changes in secondary structure and aggregation state of the treated proteins were characterized by circular dichroism spectroscopy and gel-filtration chromatography. Pulsed electric field treatment did not induce any significant changes in the structure of any of the allergens. High-pressure/temperature at 20 °C did not change the structure of the Ara h 2, 6 or Mal d 3 and resulted in only minor changes in structure of Mal d 1b. Ara h 2, 6 was stable to HPP at 80 °C, whereas changes in circular dichroism spectra were observed for both apple allergens. However, these changes were attributable to aggregation and adiabatic heating during HPP. An ELISA assay of temperature treated Mal d 3 showed the antibody reactivity correlated well with the loss of structure.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In conclusion, novel-processing techniques had little effect on purified allergen structure. Further studies will demonstrate if these stability properties are retained in foodmatrices.</AbstractText>
+<CopyrightInformation>Copyright © 2010 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>Phil E</ForeName>
+<Initials>PE</Initials>
+<AffiliationInfo>
+<Affiliation>Structuring Food for Health Programme, Institute of Food Research, Norwich Research Park, Colney, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Van der Plancken</LastName>
+<ForeName>Iesel</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Balasa</LastName>
+<ForeName>Ana</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Husband</LastName>
+<ForeName>Fiona A</ForeName>
+<Initials>FA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grauwet</LastName>
+<ForeName>Tara</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hendrickx</LastName>
+<ForeName>Marc</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Knorr</LastName>
+<ForeName>Dietrich</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mills</LastName>
+<ForeName>E N Clare</ForeName>
+<Initials>EN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mackie</LastName>
+<ForeName>Alan R</ForeName>
+<Initials>AR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Mol Nutr Food Res</MedlineTA>
+<NlmUniqueID>101231818</NlmUniqueID>
+<ISSNLinking>1613-4125</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000485">Allergens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010940">Plant Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000485">Allergens</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010367">Arachis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002942">Circular Dichroism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004560">Electricity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005511">Food Handling</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005512">Food Hypersensitivity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006358">Hot Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D027845">Malus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010940">Plant Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011312">Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017433">Protein Structure, Secondary</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>6</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>6</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20568235</ArticleId>
+<ArticleId IdType="doi">10.1002/mnfr.201000006</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

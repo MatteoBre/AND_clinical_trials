@@ -1,0 +1,485 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25994443</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>02</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">2047-9980</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>4</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>May</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American Heart Association</Title>
+<ISOAbbreviation>J Am Heart Assoc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Increased stiffness is the major early abnormality in a pig model of severe aortic stenosis and predisposes to congestive heart failure in the absence of systolic dysfunction.</ArticleTitle>
+<ELocationID EIdType="doi" ValidYN="Y">10.1161/JAHA.115.001925</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">e001925</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">It remains unclear whether abnormal systolic function and relaxation are essential for developing heart failure in pathophysiology of severe aortic stenosis.</AbstractText>
+<AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">Yorkshire pigs underwent surgical banding of the ascending aorta. The animals were followed for up to 5 months after surgery, and cardiac function was assessed comprehensively by invasive pressure-volume measurements, 3-dimensional echocardiography, echocardiographic speckle-tracking strain, and postmortem molecular and histological analyses. Pigs with aortic banding (n=6) exhibited significant left ventricular hypertrophy with increased stiffness compared with the control pigs (n=7) (end-diastolic pressure-volume relationship β: 0.053±0.017 versus 0.028±0.009 mm Hg/mL, P=0.007); however, all other parameters corresponding to systolic function, including ejection fraction, end-systolic pressure-volume relationship, preload recruitable stroke work, echocardiographic circumferential strain, and longitudinal strain, were not impaired in pigs with aortic banding. Relaxation parameters were also similar between groups. Sarcoplasmic reticulum calcium (Ca(2+)) ATPase protein levels in the left ventricle were similar. There were significant increases in 3-dimensional echocardiographic left atrial volumes, suggesting the usefulness of these indexes to detect increased stiffness. Right atrial pacing with a heart rate of 120 beats per minute induced increased end-diastolic pressure in pigs with aortic banding in contrast to decreased end-diastolic pressure in the control pigs. Histological evaluation revealed that increased stiffness was accompanied by cardiomyocyte hypertrophy and increased perimysial and perivascular fibrosis.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Increased stiffness is the major early pathological process that predisposes to congestive heart failure without abnormalities in systolic function and relaxation in a clinically relevant animal model of aortic stenosis.</AbstractText>
+<CopyrightInformation>© 2015 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ishikawa</LastName>
+<ForeName>Kiyotake</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, New York, NY (K.I., J.A., J.G.O., N.H., L.F., L.L., B.P., C.G.S.G., K.F., R.J.H.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aguero</LastName>
+<ForeName>Jaume</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, New York, NY (K.I., J.A., J.G.O., N.H., L.F., L.L., B.P., C.G.S.G., K.F., R.J.H.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oh</LastName>
+<ForeName>Jae Gyun</ForeName>
+<Initials>JG</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, New York, NY (K.I., J.A., J.G.O., N.H., L.F., L.L., B.P., C.G.S.G., K.F., R.J.H.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hammoudi</LastName>
+<ForeName>Nadjib</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, New York, NY (K.I., J.A., J.G.O., N.H., L.F., L.L., B.P., C.G.S.G., K.F., R.J.H.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fish</LastName>
+<ForeName>Lauren A</ForeName>
+<Initials>LA</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, New York, NY (K.I., J.A., J.G.O., N.H., L.F., L.L., B.P., C.G.S.G., K.F., R.J.H.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leonardson</LastName>
+<ForeName>Lauren</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, New York, NY (K.I., J.A., J.G.O., N.H., L.F., L.L., B.P., C.G.S.G., K.F., R.J.H.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Picatoste</LastName>
+<ForeName>Belén</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, New York, NY (K.I., J.A., J.G.O., N.H., L.F., L.L., B.P., C.G.S.G., K.F., R.J.H.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Santos-Gallego</LastName>
+<ForeName>Carlos G</ForeName>
+<Initials>CG</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, New York, NY (K.I., J.A., J.G.O., N.H., L.F., L.L., B.P., C.G.S.G., K.F., R.J.H.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fish</LastName>
+<ForeName>Kenneth M</ForeName>
+<Initials>KM</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, New York, NY (K.I., J.A., J.G.O., N.H., L.F., L.L., B.P., C.G.S.G., K.F., R.J.H.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hajjar</LastName>
+<ForeName>Roger J</ForeName>
+<Initials>RJ</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, New York, NY (K.I., J.A., J.G.O., N.H., L.F., L.L., B.P., C.G.S.G., K.F., R.J.H.).</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>HHSN268201000045C</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL119046</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL117505</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL 119046</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P50HL112324</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>05</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Am Heart Assoc</MedlineTA>
+<NlmUniqueID>101580524</NlmUniqueID>
+<ISSNLinking>2047-9980</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.6.3.8</RegistryNumber>
+<NameOfSubstance UI="D000252">Calcium-Transporting ATPases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001024">Aortic Valve Stenosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000252">Calcium-Transporting ATPases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015984">Causality</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004452">Echocardiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006325">Heart Atria</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006333">Heart Failure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006339">Heart Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006352">Heart Ventricles</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006984">Hypertrophy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012519">Sarcoplasmic Reticulum</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013318">Stroke Volume</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013552">Swine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013599">Systole</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D059289">Vascular Stiffness</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016277">Ventricular Function, Left</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">diastolic dysfunction</Keyword>
+<Keyword MajorTopicYN="N">fibrosis</Keyword>
+<Keyword MajorTopicYN="N">hypertrophy</Keyword>
+<Keyword MajorTopicYN="N">stiffness</Keyword>
+<Keyword MajorTopicYN="N">systolic dysfunction</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25994443</ArticleId>
+<ArticleId IdType="pii">JAHA.115.001925</ArticleId>
+<ArticleId IdType="doi">10.1161/JAHA.115.001925</ArticleId>
+<ArticleId IdType="pmc">PMC4599422</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Mol Cell Cardiol. 2000 Jan;32(1):131-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10652197</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiol. 2007 Mar 2;116(1):27-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17112608</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Echocardiogr. 2002 Sep;15(9):935-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12221410</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 May 6;350(19):1953-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15128895</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Anim Sci. 1973 May;36(5):927-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4703721</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Res. 1983 Sep;53(3):332-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6224606</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Res. 1989 Dec;65(6):1555-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2531046</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1996 May 3;272(5262):731-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8614836</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1997 Mar 18;95(6):1601-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9118531</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1997 May 6;95(9):2262-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9142003</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol. 1998 Feb;274(2 Pt 2):H539-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9486258</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Res. 1998 Apr 20;82(7):751-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9562434</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Echocardiogr. 2007 Jul;20(7):877-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17617315</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Echocardiogr. 2009 Jan;22(1):1-23; quiz 101-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19130998</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Echocardiogr. 2009 May;10(3):414-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18996958</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2009 Aug 18;120(7):577-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19652094</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2009 Sep 8;54(11):1003-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19729117</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2010 Jul 6;56(2):89-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20620723</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2010 Jul 20;56(4):278-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20633819</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Ultrasound. 2010;8:29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20659321</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J. 2011 Jun;32(12):1542-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21447510</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Basic Res Cardiol. 2011 Sep;106(5):801-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21533831</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2012 Jan;143(1):215-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22056365</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Heart Circ Physiol. 2012 Apr 1;302(7):H1423-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22307667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiovasc Imaging. 2012 Oct;28(7):1671-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22231467</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Cardiovasc Imaging. 2012 Nov;5(6):719-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23008423</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2013 Jan 1;114(1):131-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23104696</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Heart Circ Physiol. 2013 Jul 1;305(1):H124-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23645462</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2006 Jun 20;47(12):2357-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16781359</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2001 Mar 20;103(11):1570-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11257087</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JACC Cardiovasc Imaging. 2013 Sep;6(9):955-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23582361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2014 Jun 10;129(23):2440-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24589852</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 1999 Mar;5(3):327-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10086390</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

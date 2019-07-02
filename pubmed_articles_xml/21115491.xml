@@ -1,0 +1,436 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21115491</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>03</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1083-351X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>286</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Feb</Month>
+<Day>11</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of biological chemistry</Title>
+<ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Caenorhabditis elegans galectins LEC-6 and LEC-10 interact with similar glycoconjugates in the intestine.</ArticleTitle>
+<Pagination>
+<MedlinePgn>4371-81</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1074/jbc.M110.188581</ELocationID>
+<Abstract>
+<AbstractText>Galectins are a family of metazoan proteins that show binding to various β-galactoside-containing glycans. Because of a lack of proper tools, the interaction of galectins with their specific glycan ligands in the cells and tissues are largely unknown. We have investigated the localization of galectin ligands in Caenorhabditis elegans using a novel technology that relies on the high binding specificity between galectins and their endogenous ligands. Fluorescently labeled recombinant galectin fusions are found to bind to ligands located in diverse tissues including the intestine, pharynx, and the rectal valve. Consistent with their role as galactoside-binding proteins, the interaction with their ligands is inhibited by galactose or lactose. Two of the galectins, LEC-6 and LEC-10, recognize ligands that co-localize along the intestinal lumen. The ligands for LEC-6 and LEC-10 are absent in three glycosylation mutants bre-1, fut-8, and galt-1, which have been shown to be required to synthesize the Gal-β1,4-Fuc modifications of the core N-glycans unique to C. elegans and several other invertebrates. Both galectins pull down the same set of glycoproteins in a manner dependent on the presence of these carbohydrate modifications. Endogenous LEC-6 and LEC-10 are expressed in the intestinal cells, but they are localized to different subcellular compartments that do not appear to overlap with each other or with the location of their glycan targets. An altered subcellular distribution of these ligands is found in mutants lacking both galectins. These results suggest a model where LEC-6 and LEC-10 interact with glycoproteins through specific glycans to regulate their cellular fate.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Maduzia</LastName>
+<ForeName>Lisa L</ForeName>
+<Initials>LL</Initials>
+<AffiliationInfo>
+<Affiliation>New England Biolabs, Inc, Ipswich, Massachusetts 01938, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yu</LastName>
+<ForeName>Evan</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Yinhua</ForeName>
+<Initials>Y</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>29</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Biol Chem</MedlineTA>
+<NlmUniqueID>2985121R</NlmUniqueID>
+<ISSNLinking>0021-9258</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D029742">Caenorhabditis elegans Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D037161">Galectins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006023">Glycoproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C534045">LEC-6 protein, C elegans</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011994">Recombinant Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017173">Caenorhabditis elegans</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D029742">Caenorhabditis elegans Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D037161">Galectins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006023">Glycoproteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006031">Glycosylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007413">Intestinal Mucosa</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008954">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011485">Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011994">Recombinant Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>3</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21115491</ArticleId>
+<ArticleId IdType="pii">M110.188581</ArticleId>
+<ArticleId IdType="doi">10.1074/jbc.M110.188581</ArticleId>
+<ArticleId IdType="pmc">PMC3039406</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Glycobiology. 1999 Dec;9(12):1357-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10561461</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Pathog. 2010 Jan;6(1):e1000717</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20062796</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2002 May 3;277(18):16332-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11872745</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochim Biophys Acta. 2002 Sep 19;1572(2-3):209-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12223271</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Biotechnol. 2003 Jan;21(1):86-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12469133</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Biotechnol. 2003 Jun;21(6):667-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12754521</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods. 2004 Apr;32(4):437-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15003606</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Biol. 2004 Apr 15;268(2):448-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15063180</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2004 Jul 6;101(27):9955-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15226507</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genetics. 1974 May;77(1):71-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4366476</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1975 Apr;72(4):1383-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1055413</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 1992 Aug 5;267(22):15485-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1639789</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 1996 Feb 2;271(5):2497-505</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8576213</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Development. 1996 Aug;122(8):2517-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8756296</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Glycobiology. 1998 Sep;8(9):905-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9675224</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2005 Feb 11;307(5711):922-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15705852</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fungal Genet Biol. 2005 Apr;42(4):293-305</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15749049</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Glycobiology. 2005 May;15(5):463-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15604090</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Toxicon. 2005 Jun 15;45(8):1075-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15922776</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2005 Jul 15;280(28):26063-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15899899</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS J. 2005 Dec;272(24):6179-217</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16336259</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Biol. 2006 Feb 21;16(4):408-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16488876</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Glycobiology. 2006 Sep;16(9):874-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16769777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2007 Feb 2;282(5):3302-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17135259</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2007 Feb 2;282(5):2753-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17145746</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Traffic. 2007 Apr;8(4):379-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17319896</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>WormBook. 2007;:1-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18050495</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Proteomics. 2007 Dec;6(12):2100-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17761667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Biol. 2007;8(9):R194</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17875205</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Glycobiology. 2008 Apr;18(4):290-302</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18252778</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods Mol Biol. 2007;385:193-203</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18365713</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2008 Apr 11;283(15):10109-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18216021</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunobiology. 2008;213(3-4):237-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18406370</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Biosyst. 2008 Jun;4(6):654-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18493664</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Carbohydr Res. 2008 Aug 11;343(12):2041-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18226806</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochim Biophys Acta. 2008 Oct;1780(10):1131-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18675319</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Glycobiology. 2008 Nov;18(11):882-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18697918</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2009 Jan;37(Database issue):D229-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18978020</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Traffic. 2009 Apr;10(4):438-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19192249</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Glycobiology. 2009 Dec;19(12):1503-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19690090</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Pharm Bull. 2009 Dec;32(12):1973-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19952414</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2009 Dec 25;284(52):36223-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19858195</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2001 Feb 2;276(5):3068-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11058602</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

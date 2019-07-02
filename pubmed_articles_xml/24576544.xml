@@ -1,0 +1,369 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24576544</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>05</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-1913</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>113</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Apr</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>The American journal of cardiology</Title>
+<ISOAbbreviation>Am. J. Cardiol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effect of race/ethnicity on hypertension risk subsequent to gestational diabetes mellitus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1364-70</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.amjcard.2014.01.411</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0002-9149(14)00551-7</ELocationID>
+<Abstract>
+<AbstractText>Gestational diabetes mellitus (GDM) prevalence is greater in racially/ethnically diverse groups compared with non-Hispanic white populations. Although race has been shown to modify other cardiovascular disease risk factors in postpartum women, the role of race/ethnicity on GDM and subsequent hypertension has yet to be examined. The aim of this study was to evaluate the impact of race/ethnicity in relation to GDM and subsequent hypertension in a retrospective analysis of women who delivered at Massachusetts General Hospital from 1998 to 2007. Multivariate analyses were used to determine the associations between GDM and (1) race/ethnicity, (2) hypertension, and (3) the interaction with hypertension and race/ethnicity. Women were monitored for a median of 3.8 years from the date of delivery. In our population of 4,010 women, GDM was more common in nonwhite participants (p&lt;0.0001). GDM was also associated with hypertension subsequent to delivery after adjusting for age, race, parity, first-trimester systolic blood pressure, body mass index, maternal gestational weight gain, and preeclampsia (hazard ratio [HR] 1.75, 95% confidence interval [CI] 1.28 to 2.37, p=0.0004). Moreover, Hispanic (HR 3.25, 95% CI 1.85 to 5.72, p&lt;0.0001) and white (HR 1.68, 95% CI 1.10 to 2.57, p=0.02) women with GDM had greater hypertension risk relative to their race/ethnicity-specific counterparts without GDM in race-stratified multivariable analyses. In conclusion, Hispanic women compared with white women have an increased risk of hypertension. Hispanic and white women with GDM are at a greater risk for hypertension compared with those without GDM. Because the present study may have had limited power to detect effects among black and Asian women with GDM, further research is warranted to elucidate the need for enhanced hypertension risk surveillance in these young women.</AbstractText>
+<CopyrightInformation>Copyright © 2014 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bentley-Lewis</LastName>
+<ForeName>Rhonda</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Diabetes Unit, Massachusetts General Hospital, Boston, Massachusetts. Electronic address: Bentley-Lewis.Rhonda@mgh.harvard.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Powe</LastName>
+<ForeName>Camille</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ankers</LastName>
+<ForeName>Elizabeth</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wenger</LastName>
+<ForeName>Julia</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ecker</LastName>
+<ForeName>Jeffrey</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, Massachusetts General Hospital, Boston, Massachusetts.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thadhani</LastName>
+<ForeName>Ravi</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R03 DK096152</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>1R03DK096152</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>1K23RR023333</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 DK094872</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Howard Hughes Medical Institute</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K23 RR023333</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>01</Month>
+<Day>31</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Cardiol</MedlineTA>
+<NlmUniqueID>0207277</NlmUniqueID>
+<ISSNLinking>0002-9149</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016001">Confidence Intervals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D044469">Continental Population Groups</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016640">Diabetes, Gestational</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000208">ethnology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005006">Ethnic Groups</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000208">ethnology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D008404">Massachusetts</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016017">Odds Ratio</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049590">Postpartum Period</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>03</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2014</Year>
+<Month>01</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>01</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24576544</ArticleId>
+<ArticleId IdType="pii">S0002-9149(14)00551-7</ArticleId>
+<ArticleId IdType="doi">10.1016/j.amjcard.2014.01.411</ArticleId>
+<ArticleId IdType="pmc">PMC3994994</ArticleId>
+<ArticleId IdType="mid">NIHMS570828</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>JAMA. 2000 May 3;283(17):2253-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10807384</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Cardiovasc Qual Outcomes. 2014 Jan;7(1):33-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24365671</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1998 Jul 23;339(4):229-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9673301</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 1998 Aug;21 Suppl 2:B5-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9704220</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2005 Mar;28(3):579-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15735191</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Care. 2005 May;43(5):480-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15838413</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Public Health. 2005 Sep;95(9):1536-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16051928</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Public Health. 2005 Sep;95(9):1545-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16118366</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2006 Sep;29(9):2078-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16936156</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2008 May;31(5):899-904</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18223030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2008 Aug;31(8):1668-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18487472</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2011 Jul;34(7):1582-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21593289</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Paediatr Perinat Epidemiol. 2012 Jan;26(1):45-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22150707</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Early Hum Dev. 2012 Mar;88(3):179-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21890288</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pharmacoepidemiol Drug Saf. 2012 May;21 Suppl 2:69-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22552982</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Prev Cardiol. 2012 Oct;19(5):1138-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21859777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Natl Vital Stat Rep. 2012 Jun 20;60(7):1-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22970648</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Obstet Gynecol. 2012 Oct;207(4):322.e1-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22818875</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2002 Jan 16;287(3):356-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11790215</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

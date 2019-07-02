@@ -1,0 +1,337 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">7785986</PMID>
+<DateCompleted>
+<Year>1995</Year>
+<Month>07</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>05</Month>
+<Day>08</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0066-4804</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>39</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1995</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Antimicrobial agents and chemotherapy</Title>
+<ISOAbbreviation>Antimicrob. Agents Chemother.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>In vitro activity of D0870 compared with those of other azoles against fluconazole-resistant Candida spp.</ArticleTitle>
+<Pagination>
+<MedlinePgn>868-71</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We compared the in vitro activity of a new triazole, D0870, with those of fluconazole, itraconazole, and ketoconazole against 41 clinical isolates of fluconazole-resistant Candida belonging to nine different species. The 50% inhibitory concentrations (IC50s) were determined by a microdilution method with morpholinopropanesulfonic acid (MOPS)-buffered RPMI medium and an inoculum of approximately 10(4) yeasts per ml. After incubation for 48 h at 37 degrees C the optical density at 550 nm was measured. The IC50 was the lowest drug concentration which reduced the optical density at 550 nm by &gt; or = 50% compared with that for a drug-free control. D0870 had significant activity against many of the isolates. Its activity was comparable to that of ketoconazole, slightly superior to that of itraconazole, and markedly superior to that of fluconazole against Candida albicans. Against Candida glabrata, Candida krusei, and Candida inconspicua, it had activity similar to those of itraconazole and ketoconazole but had activity superior to that of fluconazole. D0870 IC50s for some isolates were increased. This may be due to cross-resistance mechanisms because the IC50s of both itraconazole and ketoconazole for these isolates were often high. When IC50s and IC80s were compared there was a marked organism and drug variation. With C. glabrata much higher endpoints for itraconazole were observed when an IC80 endpoint was used. For C. albicans there was also a significant shift upward in endpoints for itraconazole and ketoconazole. Values were changed little when IC50 and IC80 endpoints of D0870 were compared. For 35 of 41 isolates tested the D0870 IC50 was less than the 2.5-mg/liter breakpoint threshold proposed previously. Therefore, D0870 may be a useful agent for the therapy of infections caused by fluconazole-resistant Candida spp.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wardle</LastName>
+<ForeName>H M</ForeName>
+<Initials>HM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Microbiology, Hope Hospital, Salford, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Law</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moore</LastName>
+<ForeName>C B</ForeName>
+<Initials>CB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mason</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Denning</LastName>
+<ForeName>D W</ForeName>
+<Initials>DW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Antimicrob Agents Chemother</MedlineTA>
+<NlmUniqueID>0315061</NlmUniqueID>
+<ISSNLinking>0066-4804</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000935">Antifungal Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014230">Triazoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>103961-78-0</RegistryNumber>
+<NameOfSubstance UI="C058219">ICI 195739</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>304NUG5GF4</RegistryNumber>
+<NameOfSubstance UI="D017964">Itraconazole</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8VZV102JFY</RegistryNumber>
+<NameOfSubstance UI="D015725">Fluconazole</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>R9400W927I</RegistryNumber>
+<NameOfSubstance UI="D007654">Ketoconazole</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000935">Antifungal Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002175">Candida</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004352">Drug Resistance, Microbial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015725">Fluconazole</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017964">Itraconazole</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007654">Ketoconazole</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008826">Microbial Sensitivity Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014230">Triazoles</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1995</Year>
+<Month>4</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1995</Year>
+<Month>4</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1995</Year>
+<Month>4</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7785986</ArticleId>
+<ArticleId IdType="pmc">PMC162644</ArticleId>
+<ArticleId IdType="doi">10.1128/aac.39.4.868</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Sabouraudia. 1984;22(1):53-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6322363</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Antimicrob Chemother. 1994 Nov;34(5):659-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7706161</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Microbiol. 1986 Sep;132(9):2421-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3540203</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Rev Microbiol. 1987;15(1):111-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3319418</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Vet Mycol. 1987 Oct;25(5):329-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3323450</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann N Y Acad Sci. 1988;544:1-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3063165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1989 Jun 1;110(11):916-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2719423</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect. 1991 Mar;22(2):201-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2026897</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect. 1991 Mar;22(2):204-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2026898</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect. 1991 Nov;23(3):345-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1753152</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Antimicrob Chemother. 1991 Oct;28 Suppl B:17-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1778889</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 1991 Nov;35(11):2302-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1804002</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Antimicrob Chemother. 1991 Dec;28(6):937-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1816193</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 1992 Sep;36(9):1805-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1416871</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 1992 Dec;36(12):2602-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1482129</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Antimicrob Chemother. 1992 Nov;30(5):713-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1493987</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect. 1993 Mar;26(2):117-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8473758</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Antimicrob Chemother. 1993 Apr;31(4):463-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8514644</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 1993 Sep;37(9):1962-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8239613</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 1993 Oct;37(10):2126-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8257134</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 1993 Nov;37(11):2412-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8285626</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 1993 Dec;37(12):2517-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8109912</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 1993 Dec;17(6):1018-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8110924</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem Soc Trans. 1993 Nov;21(4):1039-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8131894</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Antimicrob Chemother. 1993 Dec;32(6):831-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8144422</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 1994 Jun;8(6):787-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8086137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Microbiol. 1994 Jul;32(7):1650-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7929752</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Vet Mycol. 1986 Apr;24(2):133-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3014106</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

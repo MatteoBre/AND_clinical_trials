@@ -1,0 +1,315 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26680553</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1747-0803</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>11</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Congenital heart disease</Title>
+<ISOAbbreviation>Congenit Heart Dis</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Syncope Best Practices: A Syncope Clinical Practice Guideline to Improve Quality.</ArticleTitle>
+<Pagination>
+<MedlinePgn>230-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/chd.12324</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine whether implementation of a standardized clinical practice guideline (CPG) for the evaluation of syncope would decrease practice variability and resource utilization.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">A retrospective review of medical records of patients presenting to our practice for outpatient evaluation of syncope before and after implementation of the CPG. The guideline included elements of history, physical exam, electrocardiogram, and "red flags" for further testing.</AbstractText>
+<AbstractText Label="SETTING" NlmCategory="METHODS">Outpatient pediatric cardiology offices of a large pediatric cardiology practice.</AbstractText>
+<AbstractText Label="PATIENTS" NlmCategory="METHODS">All new patients between 3 and 21 years old, who presented to cardiology clinic with a chief complaint of syncope.</AbstractText>
+<AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">The CPG for the evaluation of pediatric syncope was presented to the providers.</AbstractText>
+<AbstractText Label="OUTCOME MEASURES" NlmCategory="METHODS">Resource utilization was determined by the tests ordered by individual physicians before and after initiation of the CPG. Patient final diagnoses were recorded and the medical records were subsequently reviewed to determine if any patients, who presented again to the system, were ultimately diagnosed with cardiac disease.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 1496 patients with an initial visit for syncope, there was no significant difference in the diagnosis of cardiac disease before or after initiation of the CPG: (0.6% vs. 0.4%, P = .55). Electrocardiography provides the highest yield in the evaluation of pediatric syncope. Despite high compliance (86.9%), there were no overall changes in costs ($346.31 vs. $348.53, P = .85) or in resource utilization. There was, however, a decrease in the variability of ordering of echocardiograms among physicians, particularly among those at the extremes of utilization.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Although the CPG did not decrease already low costs, it did decrease the wide variability in echo utilization. Evaluation beyond detailed history, physical exam, and electrocardiography provides no additional benefit in the evaluations of pediatric patients presenting with syncope.</AbstractText>
+<CopyrightInformation>© 2015 Wiley Periodicals, Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Phelps</LastName>
+<ForeName>Heather M</ForeName>
+<Initials>HM</Initials>
+<AffiliationInfo>
+<Affiliation>Sibley Heart Center Cardiology, Children's Healthcare of Atlanta, Atlanta, Ga.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Emory University School of Medicine, Atlanta, Ga, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sachdeva</LastName>
+<ForeName>Ritu</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Sibley Heart Center Cardiology, Children's Healthcare of Atlanta, Atlanta, Ga.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Emory University School of Medicine, Atlanta, Ga, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mahle</LastName>
+<ForeName>William T</ForeName>
+<Initials>WT</Initials>
+<AffiliationInfo>
+<Affiliation>Sibley Heart Center Cardiology, Children's Healthcare of Atlanta, Atlanta, Ga.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Emory University School of Medicine, Atlanta, Ga, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>McCracken</LastName>
+<ForeName>Courtney E</ForeName>
+<Initials>CE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Emory University School of Medicine, Atlanta, Ga, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kelleman</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Emory University School of Medicine, Atlanta, Ga, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>McConnell</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Sibley Heart Center Cardiology, Children's Healthcare of Atlanta, Atlanta, Ga.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Emory University School of Medicine, Atlanta, Ga, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fischbach</LastName>
+<ForeName>Peter S</ForeName>
+<Initials>PS</Initials>
+<AffiliationInfo>
+<Affiliation>Sibley Heart Center Cardiology, Children's Healthcare of Atlanta, Atlanta, Ga.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Emory University School of Medicine, Atlanta, Ga, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cardis</LastName>
+<ForeName>Brian M</ForeName>
+<Initials>BM</Initials>
+<AffiliationInfo>
+<Affiliation>Sibley Heart Center Cardiology, Children's Healthcare of Atlanta, Atlanta, Ga.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Emory University School of Medicine, Atlanta, Ga, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Campbell</LastName>
+<ForeName>Robert M</ForeName>
+<Initials>RM</Initials>
+<AffiliationInfo>
+<Affiliation>Sibley Heart Center Cardiology, Children's Healthcare of Atlanta, Atlanta, Ga.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Emory University School of Medicine, Atlanta, Ga, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oster</LastName>
+<ForeName>Matthew E</ForeName>
+<Initials>ME</Initials>
+<AffiliationInfo>
+<Affiliation>Sibley Heart Center Cardiology, Children's Healthcare of Atlanta, Atlanta, Ga.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Emory University School of Medicine, Atlanta, Ga, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D023362">Evaluation Studies</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>18</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Congenit Heart Dis</MedlineTA>
+<NlmUniqueID>101256510</NlmUniqueID>
+<ISSNLinking>1747-079X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002309">Cardiology</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004452">Echocardiography</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004562">Electrocardiography</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019983">Guideline Adherence</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017048">Health Care Costs</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006295">Health Resources</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054625">Healthcare Disparities</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008499">Medical Records</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017410">Practice Guidelines as Topic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010818">Practice Patterns, Physicians'</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017064">Process Assessment (Health Care)</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015397">Program Evaluation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058996">Quality Improvement</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019984">Quality Indicators, Health Care</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011795">Surveys and Questionnaires</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013575">Syncope</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Best Practices</Keyword>
+<Keyword MajorTopicYN="N">Practice Guidelines</Keyword>
+<Keyword MajorTopicYN="N">Quality Improvement</Keyword>
+<Keyword MajorTopicYN="N">Syncope</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>2</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26680553</ArticleId>
+<ArticleId IdType="doi">10.1111/chd.12324</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

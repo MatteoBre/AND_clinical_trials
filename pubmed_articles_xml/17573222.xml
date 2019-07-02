@@ -1,0 +1,228 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17573222</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>03</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0387-7604</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>30</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Brain &amp; development</Title>
+<ISOAbbreviation>Brain Dev.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Biopterin in the acute phase of hypoxia-ischemia in a neonatal pig model.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>To clarify the participation of inducible NOS (iNOS) in the hypoxia-ischemia, we examined iNOS and its tetrahydrobiopterin co-factor in the cerebral cortex and plasma in a newborn-piglet model. We also investigated the role of hypothermia in iNOS expression and biopterin production. Male newborn piglets were ventilated 6% oxygen for 45 min. Their common carotid arteries were clamped during hypoxia. Then they were resuscitated with 30% oxygen (HI group). Piglets of the hypothermia group were treated as the HI group and their body was cooled to 35.5 degrees C after hypoxic-ischemic insults. Sham-treated piglets were also reserved. In the HI group, iNOS was present in neurons and macrophages of the cerebral cortex 12h after the insult. The concentrations of nitrite and nitrate were elevated in the cerebral cortex 12h after hypoxic-ischemic insults but the biopterin level was unchanged. The plasma biopterin concentration after the insult (377.9+/-78.7 nM) was five times higher than before the insult (80.1+/-4.3 nM); this level peaked 4h after the insult (604.8+/-200.9 nM) and only slightly decreased after 12h (445.9+/-57.8 nM). In the hypothermia group, no iNOS expression was observed 12h after the insult. The plasma biopterin concentration after the insult (464.2+/-92.3 nM) was similar to that in the HI group, but was suppressed by 4h of hypothermia (229.3+/-106.8 nM). In this study, neuronal iNOS expression and increase of NO production were found in the acute phase of hypoxia-ischemia. Brain biopterin did not increase in hypoxia-ischemia although plasma biopterin was five-fold elevated. The discrepancy may also affect hypoxic-ischemic organ damage.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Fujioka</LastName>
+<ForeName>Hiroki</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Osaka City University Graduate School of Medicine, 1-4-3 Asahimachi Abeno-ku, Osaka 545-8585, Japan. hfujioka@msic.med.osaka-cu.ac.jp</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shintaku</LastName>
+<ForeName>Haruo</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nakanishi</LastName>
+<ForeName>Hidehiko</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Tae-Jang</ForeName>
+<Initials>TJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kusuda</LastName>
+<ForeName>Satoshi</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yamano</LastName>
+<ForeName>Tsunekazu</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>06</Month>
+<Day>15</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Brain Dev</MedlineTA>
+<NlmUniqueID>7909235</NlmUniqueID>
+<ISSNLinking>0387-7604</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>22150-76-1</RegistryNumber>
+<NameOfSubstance UI="D001708">Biopterin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>31C4KY9ESH</RegistryNumber>
+<NameOfSubstance UI="D009569">Nitric Oxide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.13.39</RegistryNumber>
+<NameOfSubstance UI="D052247">Nitric Oxide Synthase Type II</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>S88TT14065</RegistryNumber>
+<NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000208">Acute Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000831">Animals, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001708">Biopterin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020520">Brain Infarction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007036">Hypothermia, Induced</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020925">Hypoxia-Ischemia, Brain</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008264">Macrophages</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009474">Neurons</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009569">Nitric Oxide</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D052247">Nitric Oxide Synthase Type II</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010100">Oxygen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015427">Reperfusion Injury</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D034421">Sus scrofa</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015854">Up-Regulation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2007</Year>
+<Month>02</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2007</Year>
+<Month>04</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2007</Year>
+<Month>04</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>3</Month>
+<Day>18</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17573222</ArticleId>
+<ArticleId IdType="pii">S0387-7604(07)00122-2</ArticleId>
+<ArticleId IdType="doi">10.1016/j.braindev.2007.04.009</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

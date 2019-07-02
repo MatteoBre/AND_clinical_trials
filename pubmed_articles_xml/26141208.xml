@@ -1,0 +1,410 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26141208</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>06</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1569-8041</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>26</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Annals of oncology : official journal of the European Society for Medical Oncology</Title>
+<ISOAbbreviation>Ann. Oncol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Final overall survival results from a randomised, phase III study of erlotinib versus chemotherapy as first-line treatment of EGFR mutation-positive advanced non-small-cell lung cancer (OPTIMAL, CTONG-0802).</ArticleTitle>
+<Pagination>
+<MedlinePgn>1877-83</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1093/annonc/mdv276</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The OPTIMAL study was the first study to compare efficacy and tolerability of the epidermal growth factor receptor (EGFR)-tyrosine kinase inhibitor (TKI) erlotinib, versus standard chemotherapy in first-line treatment of patients with EGFR mutation-positive advanced non-small-cell lung cancer (NSCLC). Findings from final overall survival (OS) analysis and assessment of post-study treatment impact are presented.</AbstractText>
+<AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Of 165 randomised patients, 82 received erlotinib and 72 gemcitabine plus carboplatin. Final OS analyses were conducted when 70% of deaths had occurred in the intent-to-treat population. Subgroup OS was analysed by Cox proportional hazards model and included randomisation stratification factors and post-study treatments.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Median OS was similar between the erlotinib (22.8 months) and chemotherapy (27.2 months) arms with no significant between-group differences in the overall population [hazard ratio (HR), 1.19; 95% confidence interval (CI) 0.83-1.71; P = 0.2663], the exon 19 deletion subpopulation (HR, 1.52; 95% CI 0.91-2.52; P = 0.1037) or the exon 21 L858 mutation subpopulation (HR, 0.92; 95% CI 0.55-1.54; P = 0.7392). More patients in the erlotinib arm versus the chemotherapy arm did not receive any post-study treatment (36.6% versus 22.2%). Patients who received sequential combination of EGFR-TKI and chemotherapy had significantly improved OS compared with those who received EGFR-TKI or chemotherapy only (29.7 versus 20.7 or 11.2 months, respectively; P &lt; 0.0001). OS was significantly shorter in patients who did not receive post-study treatments compared with those who received subsequent treatments in both arms.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The significant OS benefit observed in patients treated with EGFR-TKI emphasises its contribution to improving survival of EGFR mutant NSCLC patients, suggesting that erlotinib should be considered standard first-line treatment of EGFR mutant patients and EGFR-TKI treatment following first-line therapy also brings significant benefits to those patients.</AbstractText>
+<AbstractText Label="CLINICALTRIALSGOV IDENTIFIER" NlmCategory="UNASSIGNED">NCT00874419.</AbstractText>
+<CopyrightInformation>© The Author 2015. Published by Oxford University Press on behalf of the European Society for Medical Oncology. All rights reserved. For permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zhou</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Oncology, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai caicunzhoudr@163.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Y L</ForeName>
+<Initials>YL</Initials>
+<AffiliationInfo>
+<Affiliation>Guangdong Lung Cancer Institute, Guangdong General Hospital, Guangdong Academy of Medical Sciences, Guangzhou.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Tumour Medicine, Cancer Hospital of Harbin Medical University, Harbin.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feng</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, Jiangsu Province Cancer Hospital, Nanjing.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>X-Q</ForeName>
+<Initials>XQ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pulmonary Oncology, 307 Hospital of the Academy of Military Medical Sciences, Cancer Center, Beijing.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, Tianjin Cancer Hospital, Tianjin.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Beijing Chest Hospital, Capital Medical University, Beijing.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Peking University School of Oncology, Beijing Cancer Hospital, Beijing.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhou</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Oncology, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ren</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Oncology, Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lu</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Shanghai Chest Hospital, Affiliated to Shanghai Jiao Tong University, Shanghai.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Sun Yat-sen University Cancer Center, Guangzhou.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hu</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Xiangya Hospital, Central South University, Changsha.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hu</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Second Xiangya Hospital, Central South University, Changsha.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Luo</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Hunan Province Cancer Hospital, Changsha.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Cancer Hospital of Shantou University Medical College, Shantou.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ye</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Renji Hospital, Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>The First Affiliated Hospital of Suzhou University, Suzhou.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhi</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Thoracic Surgery, Xuanwu Hospital of Capital Medical University, Beijing.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Zhejiang Cancer Hospital, Hangzhou.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xiu</LastName>
+<ForeName>Q</ForeName>
+<Initials>Q</Initials>
+<AffiliationInfo>
+<Affiliation>Changzheng Hospital, The Second Military Medical University, Shanghai.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ma</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Harbin Institute of Hematology and Oncology, Harbin.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Peking Union Medical College Hospital, Beijing.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>You</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Nanfang Hospital, Southern Medical University, Guangzhou, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00874419</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D017428">Clinical Trial, Phase III</PublicationType>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>07</Month>
+<Day>03</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Ann Oncol</MedlineTA>
+<NlmUniqueID>9007735</NlmUniqueID>
+<ISSNLinking>0923-7534</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D047428">Protein Kinase Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0W860991D6</RegistryNumber>
+<NameOfSubstance UI="D003841">Deoxycytidine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>B76N6SBZ8R</RegistryNumber>
+<NameOfSubstance UI="C056507">gemcitabine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>BG3F62OND5</RegistryNumber>
+<NameOfSubstance UI="D016190">Carboplatin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>DA87705X9K</RegistryNumber>
+<NameOfSubstance UI="D000069347">Erlotinib Hydrochloride</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.10.1</RegistryNumber>
+<NameOfSubstance UI="C512478">EGFR protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.10.1</RegistryNumber>
+<NameOfSubstance UI="D066246">ErbB Receptors</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016190">Carboplatin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002289">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003841">Deoxycytidine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D066246">ErbB Receptors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069347">Erlotinib Hydrochloride</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047428">Protein Kinase Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">EGFR mutations</Keyword>
+<Keyword MajorTopicYN="N">chemotherapy</Keyword>
+<Keyword MajorTopicYN="N">erlotinib</Keyword>
+<Keyword MajorTopicYN="N">non-small-cell lung cancer</Keyword>
+<Keyword MajorTopicYN="N">overall survival</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>05</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>06</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>6</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26141208</ArticleId>
+<ArticleId IdType="pii">mdv276</ArticleId>
+<ArticleId IdType="doi">10.1093/annonc/mdv276</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

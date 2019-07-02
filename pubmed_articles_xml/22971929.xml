@@ -1,0 +1,187 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22971929</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>10</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>01</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1559-0259</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>13</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Cardiovascular toxicology</Title>
+<ISOAbbreviation>Cardiovasc. Toxicol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Renin-angiotensin system modulates neurotransmitters in the paraventricular nucleus and contributes to angiotensin II-induced hypertensive response.</ArticleTitle>
+<Pagination>
+<MedlinePgn>48-54</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s12012-012-9184-9</ELocationID>
+<Abstract>
+<AbstractText>Angiotensin II (ANG II)-induced inflammatory and oxidative stress responses contribute to the pathogenesis of hypertension. In this study, we determined whether renin-angiotensin system (RAS) activation in the hypothalamic paraventricular nucleus (PVN) contributes to the ANG II-induced hypertensive response via interaction with neurotransmitters in the PVN. Rats underwent subcutaneous infusion of ANG II or saline for 4 weeks. These rats were treated for 4 weeks through bilateral PVN infusion with either vehicle or losartan (LOS), an angiotensin II type 1 receptor (AT1-R) antagonist, via osmotic minipump. ANG II infusion resulted in higher levels of glutamate, norepinephrine (NE), AT1-R and pro-inflammatory cytokines (PIC), and lower level of gamma-aminobutyric acid (GABA) in the PVN. Rats receiving ANG II also had higher levels of mean arterial pressure, plasma PIC, NE and aldosterone than control animals. PVN treatment with LOS attenuated these ANG II-induced hypertensive responses. In conclusion, these findings suggest that the RAS activation in the PVN contributes to the ANG II-induced hypertensive response via interaction with PIC and neurotransmitters (glutamate, NE and GABA) in the PVN.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Qi</LastName>
+<ForeName>Jie</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physiology and Pathophysiology, Xi'an Jiaotong University Cardiovascular Research Center, Xi'an Jiaotong University School of Medicine, Xi'an 710061, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Dong-Mei</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Suo</LastName>
+<ForeName>Yu-Ping</ForeName>
+<Initials>YP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Song</LastName>
+<ForeName>Xin-Ai</ForeName>
+<Initials>XA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yu</LastName>
+<ForeName>Xiao-Jing</ForeName>
+<Initials>XJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Elks</LastName>
+<ForeName>Carrie</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lin</LastName>
+<ForeName>Yuan-Xi</ForeName>
+<Initials>YX</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xu</LastName>
+<ForeName>Yan-Yan</ForeName>
+<Initials>YY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zang</LastName>
+<ForeName>Wei-Jin</ForeName>
+<Initials>WJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhu</LastName>
+<ForeName>Zhiming</ForeName>
+<Initials>Z</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kang</LastName>
+<ForeName>Yu-Ming</ForeName>
+<Initials>YM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cardiovasc Toxicol</MedlineTA>
+<NlmUniqueID>101135818</NlmUniqueID>
+<ISSNLinking>1530-7905</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018377">Neurotransmitter Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>11128-99-7</RegistryNumber>
+<NameOfSubstance UI="D000804">Angiotensin II</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000804">Angiotensin II</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000139">chemically induced</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018377">Neurotransmitter Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010286">Paraventricular Hypothalamic Nucleus</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012084">Renin-Angiotensin System</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22971929</ArticleId>
+<ArticleId IdType="doi">10.1007/s12012-012-9184-9</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

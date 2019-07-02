@@ -1,0 +1,226 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22986420</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>02</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>01</Month>
+<Day>26</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1471-6771</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>110</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>British journal of anaesthesia</Title>
+<ISOAbbreviation>Br J Anaesth</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effect of high-dose preoperative methylprednisolone on recovery after total hip arthroplasty: a randomized, double-blind, placebo-controlled trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>66-73</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1093/bja/aes345</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">High-dose glucocorticoid may reduce postsurgical pain and improve recovery. We hypothesized that 125 mg methylprednisolone (MP) would reduce time to meet functional discharge criteria after total hip arthroplasty (THA).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Forty-eight patients undergoing unilateral THA under spinal anaesthesia were consecutively included in this randomized, double-blind, placebo-controlled trial receiving preoperative i.v. MP or saline. All patients received a standardized, multimodal analgesic regime with paracetamol, celecoxib, and gabapentin. The primary outcome was time to meet well-defined functional discharge criteria. Secondary outcomes were handgrip strength and endurance, pain, nausea, vomiting, fatigue, sleep quality, and rescue analgesic-, antiemetic-, and hypnotic medicine requirements. The inflammatory response measured by C-reactive protein (CRP) and actual length of stay were also registered. Discharge criteria were assessed twice daily (at 09:00 and 14:00 h) until discharge. Other outcomes were assessed at 2, 4, 6, 8, and 24 h after operation, and also in a questionnaire from postoperative day (POD) 1-4.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Time to meet discharge criteria was [median (IQR) (95% CI), MP vs placebo]: 23.5 (23.3-23.7) (17.8-43.8) vs 23.5 (23.0-23.8) (20.0-46.8) h, the mean difference (95% CI) being -1.3 (-4.7 to 2.2) h, P=0.65. Overall pain for the first 24 h after surgery was significantly reduced in the MP vs the placebo group (P&lt;0.01), as was CRP at 24 h (P&lt;0.0001). No other between-group differences were observed. No drug-related complications were observed at follow-up on POD30.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">MP 125 mg i.v. before surgery added to a multimodal oral analgesic regime did not reduce time to meet functional discharge criteria after THA, but improved analgesia for the first 24 h.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lunn</LastName>
+<ForeName>T H</ForeName>
+<Initials>TH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Anaesthesiology, Hvidovre University Hospital, Kettegård Allé 30, DK-2650 Copenhagen, Denmark. lunn@dadlnet.dk</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andersen</LastName>
+<ForeName>L Ø</ForeName>
+<Initials>LØ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kristensen</LastName>
+<ForeName>B B</ForeName>
+<Initials>BB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Husted</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gaarn-Larsen</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bandholm</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ladelund</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kehlet</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>09</Month>
+<Day>17</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Br J Anaesth</MedlineTA>
+<NlmUniqueID>0372541</NlmUniqueID>
+<ISSNLinking>0007-0912</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000701">Analgesics, Opioid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000893">Anti-Inflammatory Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>AFE2YW0IIZ</RegistryNumber>
+<NameOfSubstance UI="D017409">Sufentanil</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>X4W7ZR7023</RegistryNumber>
+<NameOfSubstance UI="D008775">Methylprednisolone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000701">Analgesics, Opioid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000893">Anti-Inflammatory Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019644">Arthroplasty, Replacement, Hip</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018737">Hand Strength</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007902">Length of Stay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008775">Methylprednisolone</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053580">Muscle Strength</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010147">Pain Measurement</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010149">Pain, Postoperative</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010351">Patient Discharge</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020127">Recovery of Function</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017409">Sufentanil</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011795">Surveys and Questionnaires</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22986420</ArticleId>
+<ArticleId IdType="pii">S0007-0912(17)32851-9</ArticleId>
+<ArticleId IdType="doi">10.1093/bja/aes345</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

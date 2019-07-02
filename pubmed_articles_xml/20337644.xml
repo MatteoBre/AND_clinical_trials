@@ -1,0 +1,153 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20337644</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>12</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2010</Year>
+<Month>07</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1365-2214</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>36</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Child: care, health and development</Title>
+<ISOAbbreviation>Child Care Health Dev</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Concurrent and construct validation of the short form of the Bruininks-Oseretsky Test of Motor Proficiency and the Movement-ABC when administered under field conditions: implications for screening.</ArticleTitle>
+<Pagination>
+<MedlinePgn>499-507</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2214.2009.01066.x</ELocationID>
+<Abstract>
+<AbstractText Label="RATIONALE" NlmCategory="BACKGROUND">Among the most widely used instruments to assess developmental co-ordination disorder (DCD) in children are the Bruininks-Oseretsky Test of Motor Proficiency (BOTMP) and the Movement Assessment Battery for Children (M-ABC). However, there is little research on agreement between these tests, when administered to children in field-based settings by trained non-clinicians.</AbstractText>
+<AbstractText Label="METHOD" NlmCategory="METHODS">Ten of 75 schools participating in a larger study were randomly selected. All children in grade 4 (n= 340) in each of these schools were assessed at the same time using both the BOTMP-SF and the M-ABC in May of 2005. The order of tests was balanced, with an average gap in time between tests of 10-15 min. All tests were administered by trained research assistants.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The correlation between tests was moderate (r= 0.50, P &lt; 0.01). Kappas were low at the fifth (k= 0.19) and 15th (k= 0.29) percentile cut-points, which are generally used to identify cases of DCD. Re-analysis using the relative improvement over chance (RIOC) statistic, however, revealed slightly better agreement at both cut-points (fifth percentile, RIOC = 0.29; 15th percentile, RIOC = 0.47). Children who scored as probable for DCD on both motor tests, as well as on only the BOTMP-SF, had higher body mass index, poorer physical fitness and lower levels of teacher-reported physical ability than those positive for DCD on the M-ABC only or those who scored negatively on both tests.</AbstractText>
+<AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">In general, the agreement between tests, even after adjustment for RIOC, was poor. Children identified with poor motor competence by both tests or by the BOTMP-SF only are at particular risk for poor physical fitness, overweight/obesity and physical inactivity. It appears that each assessment measures different dimensions of motor ability but that under field-based conditions the M-ABC may be less useful when applied by non-clinicians.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Spironello</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, ON, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hay</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Missiuna</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Faught</LastName>
+<ForeName>B E</ForeName>
+<Initials>BE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cairney</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>03</Month>
+<Day>09</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Child Care Health Dev</MedlineTA>
+<NlmUniqueID>7602632</NlmUniqueID>
+<ISSNLinking>0305-1862</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004812">Epidemiologic Methods</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009048">Motor Skills</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019957">Motor Skills Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009483">Neuropsychological Tests</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050177">Overweight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010809">Physical Fitness</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>3</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>3</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20337644</ArticleId>
+<ArticleId IdType="pii">CCH1066</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1365-2214.2009.01066.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,433 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">20701797</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>07</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">2040-2384</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>2</Volume>
+<PubDate>
+<Year>2010</Year>
+<Month>Aug</Month>
+<Day>11</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of angiogenesis research</Title>
+<ISOAbbreviation>J Angiogenes Res</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Fine mapping of the hereditary haemorrhagic telangiectasia (HHT)3 locus on chromosome 5 excludes VE-Cadherin-2, Sprouty4 and other interval genes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>15</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/2040-2384-2-15</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">There is significant interest in new loci for the inherited condition hereditary haemorrhagic telangiectasia (HHT) because the known disease genes encode proteins involved in vascular transforming growth factor (TGF)-beta signalling pathways, and the disease phenotype appears to be unmasked or provoked by angiogenesis in man and animal models. In a previous study, we mapped a new locus for HHT (HHT3) to a 5.7 Mb region of chromosome 5. Some of the polymorphic markers used had been uninformative in key recombinant individuals, leaving two potentially excludable regions, one of which contained loci for attractive candidate genes encoding VE Cadherin-2, Sprouty4 and FGF1, proteins involved in angiogenesis.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Extended analyses in the interval-defining pedigree were performed using informative genomic sequence variants identified during candidate gene sequencing. These variants were amplified by polymerase chain reaction; sequenced on an ABI 3730xl, and analysed using FinchTV V1.4.0 software.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Informative genomic sequence variants were used to construct haplotypes permitting more precise citing of recombination breakpoints. These reduced the uninformative centromeric region from 141.2-144 Mb to between 141.9-142.6 Mb, and the uninformative telomeric region from 145.2-146.9 Mb to between 146.1-146.4 Mb.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The HHT3 interval on chromosome 5 was reduced to 4.5 Mb excluding 30% of the coding genes in the original HHT3 interval. Strong candidates VE-cadherin-2 and Sprouty4 cannot be HHT3.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Govani</LastName>
+<ForeName>Fatima S</ForeName>
+<Initials>FS</Initials>
+<AffiliationInfo>
+<Affiliation>NHLI Cardiovascular Sciences, Imperial College London, UK, Hammersmith Campus, Du Cane Rd, London W12 0NN, UK. c.shovlin@imperial.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shovlin</LastName>
+<ForeName>Claire L</ForeName>
+<Initials>CL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>08</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Angiogenes Res</MedlineTA>
+<NlmUniqueID>101517302</NlmUniqueID>
+<ISSNLinking>2040-2384</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>06</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>08</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>8</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>8</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>8</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20701797</ArticleId>
+<ArticleId IdType="pii">2040-2384-2-15</ArticleId>
+<ArticleId IdType="doi">10.1186/2040-2384-2-15</ArticleId>
+<ArticleId IdType="pmc">PMC2924844</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Development. 2002 Jun;129(12):3009-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12050147</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 2003 Oct;90(4):586-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14515177</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Genet A. 2006 Oct 15;140(20):2155-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16969873</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO J. 2008 Apr 9;27(7):993-1004</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18337748</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Res. 2010 Apr 30;106(8):1425-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20224041</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Hum Genet. 2009 Jul;17(7):860-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19337313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2005 Jul 29;280(30):27800-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15923183</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2002 Dec 6;298(5600):1912-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12471243</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mol Genet. 2007 Jul 1;16(13):1515-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17420163</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Genet. 2010 Jul;128(1):61-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20414677</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Mol Pathol. 2008 Aug;85(1):45-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18495117</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1999 May 28;284(5419):1534-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10348742</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Liver Transpl. 2008 Feb;14(2):210-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18236396</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Sci. 2009 Sep;100(9):1648-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19493272</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2009 Jun 5;284(23):15794-804</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19366699</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biol. 1989 Jul;109(1):309-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2526131</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Cardiovasc Med. 2006 Feb;16(2):55-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16473763</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1994 Dec;8(4):345-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7894484</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Angiogenesis. 2008;11(1):79-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18283546</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2000 Mar 14;97(6):2626-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10716993</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Dyn. 2009 Oct;238(10):2479-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19705428</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2001 Feb 9;276(6):4128-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11053436</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 Jan 15;111(2):633-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17911384</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2009 Nov;119(11):3487-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19805914</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood Rev. 2010 Nov;24(6):203-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20870325</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Genet. 2005 Jul;42(7):577-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15994879</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Protoc Immunol. 2001 May;Chapter 10:Unit 10.1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18432672</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 1999 Nov;104(10):1343-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10562296</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1996 Jun;13(2):189-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8640225</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mol Diagn. 2009 Nov;11(6):569-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19767588</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cytokine Growth Factor Rev. 2009 Jun;20(3):203-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19502096</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Genet. 2000 Mar 6;91(1):66-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10751092</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mol Genet. 2003 Mar 1;12(5):473-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12588795</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell. 2003 Oct;12(4):817-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14580334</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 1992 Apr 11;20(7):1717-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1579465</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochemistry. 1991 Apr 16;30(15):3589-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1849734</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biotechniques. 1998 Oct;25(4):716-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9793657</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2008 Nov;28(22):6889-902</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18794361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FASEB J. 1999 Dec;13(15):2105-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10593858</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2000 Nov;26(3):328-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11062473</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 2006 May 22;580(12):2811-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16678165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Genet A. 2010 Feb;152A(2):333-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20101697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mamm Genome. 2000 Nov;11(11):1030-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11063261</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2004 Mar 13;363(9412):852-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15031030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Biol. 2000 Jan 1;217(1):42-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10625534</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mutat. 2003 Jun;21(6):557-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12754700</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biotechniques. 1992 Aug;13(2):205-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1389152</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2010 Apr;16(4):420-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20364125</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Reprod Immunol. 2005 Oct;67(1-2):87-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16165218</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Protoc Hum Genet. 2001 Nov;Chapter 11:Unit 11.6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18428248</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem Biophys Res Commun. 2007 Jan 26;352(4):896-902</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17156747</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Res. 2005 Oct 1;68(1):155-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15907823</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Sci. 2007 Dec 15;120(Pt 24):4269-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18029401</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

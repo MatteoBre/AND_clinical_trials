@@ -1,0 +1,294 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">7478572</PMID>
+<DateCompleted>
+<Year>1995</Year>
+<Month>12</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0950-9232</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>11</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>1995</Year>
+<Month>Oct</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+<Title>Oncogene</Title>
+<ISOAbbreviation>Oncogene</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Isolation and characterization of a chicken homolog of the E2F-1 transcription factor.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1475-86</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In higher eukaryotes, the E2F-1 transcription factor is an essential and limiting component of cell cycle progression in late G1. E2F-1 heterodimerizes with members of the DP gene family and the resulting heterodimer regulates the expression of several proto-oncogenes and the genetic machinery of DNA replication. Cell cycle regulation of E2F activity is mediated through its association with the tumor suppressor Rb gene product. To examine the evolutionary conservation of the E2F-1 protein sequence and its developmental expression pattern we have isolated and sequenced the chick E2F-1 gene (chE2F-1) cDNA. The chicken protein is 34 amino acids (a.a) shorter than its human counterpart (403/437 a.a.) but has extremely well conserved bHLH and pRb binding domains, with respectively 94% and 83% identity. The position of the leucine zipper is also strictly conserved thereby accounting for ability of E2F-1 to form heterodimers with human and chicken DP-1. E2F-1 expression was analysed in synchronized cells as well as in embryonic or newborn chick tissues and appears to be closely correlated to the cell proliferation rate. In situ hybridization studies have shown very high expression levels in the neuroretina during the early stages of embryonic development when active neuroblast division occurs. In contrast, a sharp down-regulation is observed when cells become postmitotic. Overexpression of the chE2F-1 protein leads to oncogenic transformation only when a truncated version of the transgene lacking the pRb binding domain is used; the full length protein either has no effect or may be deleterious for cell survival.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Pasteau</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratoire de Biologie Moléculaire et Cellulaire, UMR49 CNRS-ENS, L.A INRA Ecole Normale Supérieure de Lyon, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Loiseau</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arnaud</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Trembleau</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brun</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>GENBANK</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>X89245</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Oncogene</MedlineTA>
+<NlmUniqueID>8711562</NlmUniqueID>
+<ISSNLinking>0950-9232</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017502">Adenovirus E2 Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C533431">Arid4a protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D002352">Carrier Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018797">Cell Cycle Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017931">DNA Primers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018076">DNA, Complementary</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D050684">E2F Transcription Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D050687">E2F1 Transcription Factor</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C493753">E2F1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C493754">E2f1 protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D046911">Macromolecular Substances</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D056465">Retinoblastoma-Binding Protein 1</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C493735">TFDP1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D050680">Transcription Factor DP1</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017502">Adenovirus E2 Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D002352">Carrier Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002453">Cell Cycle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D018797">Cell Cycle Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002471">Cell Transformation, Neoplastic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002642">Chick Embryo</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002645">Chickens</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003001">Cloning, Molecular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017931">DNA Primers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018076">DNA, Complementary</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004268">DNA-Binding Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050684">E2F Transcription Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050687">E2F1 Transcription Factor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005796">Genes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017403">In Situ Hybridization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D046911">Macromolecular Substances</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011401">Promoter Regions, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012160">Retina</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000196">embryology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056465">Retinoblastoma-Binding Protein 1</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016415">Sequence Alignment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017386">Sequence Homology, Amino Acid</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050680">Transcription Factor DP1</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014157">Transcription Factors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015533">Transcriptional Activation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1995</Year>
+<Month>10</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1995</Year>
+<Month>10</Month>
+<Day>19</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1995</Year>
+<Month>10</Month>
+<Day>19</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7478572</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,787 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25488778</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>05</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1532-1770</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Best practice &amp; research. Clinical rheumatology</Title>
+<ISOAbbreviation>Best Pract Res Clin Rheumatol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The role of the gut and microbes in the pathogenesis of spondyloarthritis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>687-702</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.berh.2014.10.018</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S1521-6942(14)00100-4</ELocationID>
+<Abstract>
+<AbstractText>The intestinal microbiota is firmly implicated not only in the pathogenesis of inflammatory bowel disease (IBD) but increasingly also in the development of inflammation at extraintestinal tissue sites. Significant clinical, genetic, immunological, and microbiological overlap exists between IBD and spondyloarthritis (SpA), which indicates that pathophysiological mechanisms are shared between these diseases and may center on the intestinal microbiota. Recently, culture-independent techniques have enabled the microbiota in health and disease to be described in increasing detail. Moreover, functional studies have identified myriad host effector and regulatory pathways that shape or are shaped by this microbial community. We consider the complex relationship between SpA pathogenesis and gut microbes, with a discussion of how manipulation of the gut microbiota itself may be a promising future target for SpA therapy. </AbstractText>
+<CopyrightInformation>Copyright © 2014 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Asquith</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Arthritis and Rheumatic Diseases, and Department of Ophthalmology, Oregon Health &amp; Science University, 3181 SW Sam Jackson Park Rd., L647Ad, Portland, OR 97239, USA. Electronic address: asquith@ohsu.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Elewaut</LastName>
+<ForeName>Dirk</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Rheumatology, Ghent University Hospital, De Pintelaan 185, Ghent 9000, Belgium. Electronic address: Dirk.Elewaut@UGent.be.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lin</LastName>
+<ForeName>Phoebe</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Arthritis and Rheumatic Diseases, and Department of Ophthalmology, Oregon Health &amp; Science University, 3181 SW Sam Jackson Park Rd., L647Ad, Portland, OR 97239, USA. Electronic address: linp@ohsu.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenbaum</LastName>
+<ForeName>James T</ForeName>
+<Initials>JT</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Arthritis and Rheumatic Diseases, and Department of Ophthalmology, Oregon Health &amp; Science University, 3181 SW Sam Jackson Park Rd., L647Ad, Portland, OR 97239, USA; Legacy Devers Eye Institute, 1040 NW 22nd Ave, Portland, OR 97210, USA. Electronic address: rosenbaj@ohsu.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P30 EY010572</GrantID>
+<Acronym>EY</Acronym>
+<Agency>NEI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 EY021733</GrantID>
+<Acronym>EY</Acronym>
+<Agency>NEI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>15</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Best Pract Res Clin Rheumatol</MedlineTA>
+<NlmUniqueID>101121149</NlmUniqueID>
+<ISSNLinking>1521-6942</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007249">Inflammation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015212">Inflammatory Bowel Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007422">Intestines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064307">Microbiota</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D025241">Spondylarthritis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Ankylosing spondylitis</Keyword>
+<Keyword MajorTopicYN="N">Dysbiosis</Keyword>
+<Keyword MajorTopicYN="N">Inflammatory bowel disease</Keyword>
+<Keyword MajorTopicYN="N">Microbiota</Keyword>
+<Keyword MajorTopicYN="N">Reactive arthritis</Keyword>
+<Keyword MajorTopicYN="N">Spondyloarthritis</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25488778</ArticleId>
+<ArticleId IdType="pii">S1521-6942(14)00100-4</ArticleId>
+<ArticleId IdType="doi">10.1016/j.berh.2014.10.018</ArticleId>
+<ArticleId IdType="pmc">PMC4293151</ArticleId>
+<ArticleId IdType="mid">NIHMS652690</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Mucosal Immunol. 2008 Sep;1(5):364-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19079200</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2009 Apr;60(4):955-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19333939</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 2009 Jun;58(6):859-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19136508</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Exp Med Biol. 2009;649:245-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19731634</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Nutr. 2009 Dec;102(11):1620-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19622193</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2010 Apr;62(4):988-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20131252</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2010 Apr 29;464(7293):1371-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20393462</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2010 Jul 6;107(27):12204-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20566854</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 2010 Jun 25;32(6):815-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20620945</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Immun. 2010 Sep;11(6):490-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20463747</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 2010 Oct;37(10):2118-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20716665</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2011 Jan 21;331(6015):337-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21205640</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2011 May 12;473(7346):174-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21508958</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2011 May 27;145(5):745-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21565393</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Host Microbe. 2011 Jul 21;10(1):44-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21767811</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 2012 Feb;71(2):295-301</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21979002</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(3):e34093</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22470519</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2012 May;64(5):1420-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22144400</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2012 Jun;64(6):1869-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22213179</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2012 Jun 8;336(6086):1321-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22674331</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Jun 14;486(7402):207-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22699609</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2012 Jul;18(7):1069-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22772566</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 2012 Nov;39(11):2148-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22984277</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Jan 31;368(5):407-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23323867</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 2013 Mar;72(3):414-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23139267</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mucosal Immunol. 2013 Mar;6(2):267-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22785225</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Immunopathol. 2013 May;35(3):307-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23588234</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 2013 Jun;40(6):916-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23588936</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2013 Jun 6;498(7452):113-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23698371</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Host Microbe. 2013 Jun 12;13(6):723-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23768496</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 2014 Jun 19;40(6):815-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24950201</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheumatol. 2014 Jul;66(7):1755-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24664521</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 2014 Aug;73(8):1566-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23740229</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Commun. 2014;5:4498</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25058116</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2014;9(8):e105684</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25140823</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheumatol. 2014 Sep;66(9):2412-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24909668</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2014 Sep 12;345(6202):1254009</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25214634</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 2014 Jun 19;40(6):843-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24950204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Res Ther. 2004;6(4):R335-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15225369</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2004 Aug;134(8):1964-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15284384</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 1973 Nov;32(6):493-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4202498</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br Med J. 1978 Mar 11;1(6113):605-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">630254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br Med J. 1979 Feb 10;1(6160):383</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">367506</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1980 Feb 21;283(5749):782-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7354870</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 1982 Dec;41(6):579-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6756321</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunology. 1984 Aug;52(4):607-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6378768</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 1987 Apr;28(4):394-401</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3495471</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med. 1988 Dec 23;85(6A):51-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2462350</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1990 Mar 24;335(8691):685-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1690327</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Rheumatol. 1990;19(5):350-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2218431</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 1991 Feb;50(2):87-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1998396</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 1991 Mar;18(3):394-400</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1906939</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 1993 Feb;167(2):385-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7678427</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1993 Oct 15;90(20):9330-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8415702</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Exp Med. 1995 Jan 1;181(1):137-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7528765</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Immunol. 1995 Jun;25(6):1487-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7614974</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Exp Med Biol. 1995;378:557-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8526141</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1995 Nov 17;270(5239):1203-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7502046</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 1995 Dec;22(12):2279-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8835562</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Dent Res. 2013 Jul;92(7):616-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23674263</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Dev Immunol. 2013;2013:872632</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23781254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 2013 Jun 27;38(6):1223-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23791642</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2013 Sep;145(3):591-601.e3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23732773</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Immunol. 2014 Jan;57(1):44-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23993278</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Pathog. 2013;9(10):e1003698</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24130494</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2013 Oct 25;342(6157):447-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24072822</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Elife. 2013;2:e01202</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24192039</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(12):e82588</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24340048</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 2014 Feb;73(2):437-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23921997</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2014 Jan 23;505(7484):559-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24336217</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheumatol. 2014 Feb;66(2):231-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24504793</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2014 Mar 28;343(6178):1249288</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24625929</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2014 May;146(6):1459-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24508599</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 2014 Apr 17;40(4):594-607</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24684957</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheumatol. 2014 Apr;66(4):841-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24757137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 2014 Jun;73(6):1186-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24276368</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2014 May 6;111(18):6696-701</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24753589</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Immunol. 2014 Jun;15(6):538-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24777530</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2014 May 22;509(7501):497-502</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24717441</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 2014 Jul;63(7):1069-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23896971</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 2000 Mar;59(3):211-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10700430</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2001 Sep;121(3):580-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11522742</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pathol. 2002 Mar;196(3):343-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11857499</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 2002 Nov;17(5):629-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12433369</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rheumatology (Oxford). 2002 Dec;41(12):1395-401</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12468819</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2002 Dec 27;277(52):50959-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12393915</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 2003 Mar;52(3):370-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12584218</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Dent Res. 2003 May;82(5):338-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12709498</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dig Dis Sci. 2004 Feb;49(2):339-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15104381</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rheum Dis Clin North Am. 1998 Nov;24(4):737-51, viii</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9891708</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 1999 Jan;26(1):128-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9918253</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 1999 Mar;10(3):387-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10204494</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 1999 Nov;291(2):903-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10525115</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 2005 Jun;64(6):930-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15539413</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Inflamm Bowel Dis. 2005 Nov;11(11):977-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16239843</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lett Appl Microbiol. 2006 Feb;42(2):165-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16441383</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2006 Jul;131(1):117-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16831596</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Springer Semin Immunopathol. 2006 Dec;28(4):383-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17043868</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Rheumatol. 2007 Jun;26(6):858-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17186116</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2007 Aug 21;104(34):13780-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17699621</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Musculoskelet Disord. 2008;9:4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18190710</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Infect Immun. 2008 Apr;76(4):1719-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18212080</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,3371 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21051598</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>12</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1095-9203</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>330</Volume>
+<Issue>6010</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Dec</Month>
+<Day>10</Day>
+</PubDate>
+</JournalIssue>
+<Title>Science (New York, N.Y.)</Title>
+<ISOAbbreviation>Science</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The major genetic determinants of HIV-1 control affect HLA class I peptide presentation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1551-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1126/science.1195271</ELocationID>
+<Abstract>
+<AbstractText>Infectious and inflammatory diseases have repeatedly shown strong genetic associations within the major histocompatibility complex (MHC); however, the basis for these associations remains elusive. To define host genetic effects on the outcome of a chronic viral infection, we performed genome-wide association analysis in a multiethnic cohort of HIV-1 controllers and progressors, and we analyzed the effects of individual amino acids within the classical human leukocyte antigen (HLA) proteins. We identified &gt;300 genome-wide significant single-nucleotide polymorphisms (SNPs) within the MHC and none elsewhere. Specific amino acids in the HLA-B peptide binding groove, as well as an independent HLA-C effect, explain the SNP associations and reconcile both protective and risk HLA alleles. These results implicate the nature of the HLA-viral peptide interaction as the major factor modulating durable control of HIV infection.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<CollectiveName>International HIV Controllers Study</CollectiveName>
+<AffiliationInfo>
+<Affiliation>Ragon Institute of Massachusetts General Hospital, Massachusetts Institute of Technology (MIT) and Harvard, Boston, MA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pereyra</LastName>
+<ForeName>Florencia</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jia</LastName>
+<ForeName>Xiaoming</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McLaren</LastName>
+<ForeName>Paul J</ForeName>
+<Initials>PJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Telenti</LastName>
+<ForeName>Amalio</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Bakker</LastName>
+<ForeName>Paul I W</ForeName>
+<Initials>PI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Walker</LastName>
+<ForeName>Bruce D</ForeName>
+<Initials>BD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ripke</LastName>
+<ForeName>Stephan</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brumme</LastName>
+<ForeName>Chanson J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pulit</LastName>
+<ForeName>Sara L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carrington</LastName>
+<ForeName>Mary</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kadie</LastName>
+<ForeName>Carl M</ForeName>
+<Initials>CM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carlson</LastName>
+<ForeName>Jonathan M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heckerman</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Graham</LastName>
+<ForeName>Robert R</ForeName>
+<Initials>RR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Plenge</LastName>
+<ForeName>Robert M</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deeks</LastName>
+<ForeName>Steven G</ForeName>
+<Initials>SG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gianniny</LastName>
+<ForeName>Lauren</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crawford</LastName>
+<ForeName>Gabriel</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sullivan</LastName>
+<ForeName>Jordan</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gonzalez</LastName>
+<ForeName>Elena</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davies</LastName>
+<ForeName>Leela</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Camargo</LastName>
+<ForeName>Amy</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moore</LastName>
+<ForeName>Jamie M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beattie</LastName>
+<ForeName>Nicole</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gupta</LastName>
+<ForeName>Supriya</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crenshaw</LastName>
+<ForeName>Andrew</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Burtt</LastName>
+<ForeName>Noël P</ForeName>
+<Initials>NP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guiducci</LastName>
+<ForeName>Candace</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gupta</LastName>
+<ForeName>Namrata</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gao</LastName>
+<ForeName>Xiaojiang</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Qi</LastName>
+<ForeName>Ying</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yuki</LastName>
+<ForeName>Yuko</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Piechocka-Trocha</LastName>
+<ForeName>Alicja</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cutrell</LastName>
+<ForeName>Emily</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenberg</LastName>
+<ForeName>Rachel</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moss</LastName>
+<ForeName>Kristin L</ForeName>
+<Initials>KL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lemay</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Leary</LastName>
+<ForeName>Jessica</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schaefer</LastName>
+<ForeName>Todd</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Verma</LastName>
+<ForeName>Pranshu</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Toth</LastName>
+<ForeName>Ildiko</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Block</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baker</LastName>
+<ForeName>Brett</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rothchild</LastName>
+<ForeName>Alissa</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lian</LastName>
+<ForeName>Jeffrey</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Proudfoot</LastName>
+<ForeName>Jacqueline</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alvino</LastName>
+<ForeName>Donna Marie L</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vine</LastName>
+<ForeName>Seanna</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Addo</LastName>
+<ForeName>Marylyn M</ForeName>
+<Initials>MM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Allen</LastName>
+<ForeName>Todd M</ForeName>
+<Initials>TM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Altfeld</LastName>
+<ForeName>Marcus</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Henn</LastName>
+<ForeName>Matthew R</ForeName>
+<Initials>MR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Le Gall</LastName>
+<ForeName>Sylvie</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Streeck</LastName>
+<ForeName>Hendrik</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haas</LastName>
+<ForeName>David W</ForeName>
+<Initials>DW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kuritzkes</LastName>
+<ForeName>Daniel R</ForeName>
+<Initials>DR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Robbins</LastName>
+<ForeName>Gregory K</ForeName>
+<Initials>GK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shafer</LastName>
+<ForeName>Robert W</ForeName>
+<Initials>RW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gulick</LastName>
+<ForeName>Roy M</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shikuma</LastName>
+<ForeName>Cecilia M</ForeName>
+<Initials>CM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haubrich</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Riddler</LastName>
+<ForeName>Sharon</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sax</LastName>
+<ForeName>Paul E</ForeName>
+<Initials>PE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Daar</LastName>
+<ForeName>Eric S</ForeName>
+<Initials>ES</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ribaudo</LastName>
+<ForeName>Heather J</ForeName>
+<Initials>HJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Agan</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Agarwal</LastName>
+<ForeName>Shanu</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ahern</LastName>
+<ForeName>Richard L</ForeName>
+<Initials>RL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Allen</LastName>
+<ForeName>Brady L</ForeName>
+<Initials>BL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Altidor</LastName>
+<ForeName>Sherly</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Altschuler</LastName>
+<ForeName>Eric L</ForeName>
+<Initials>EL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ambardar</LastName>
+<ForeName>Sujata</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anastos</LastName>
+<ForeName>Kathryn</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>Ben</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>Val</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andrady</LastName>
+<ForeName>Ushan</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Antoniskis</LastName>
+<ForeName>Diana</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bangsberg</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barbaro</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barrie</LastName>
+<ForeName>William</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bartczak</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barton</LastName>
+<ForeName>Simon</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Basden</LastName>
+<ForeName>Patricia</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Basgoz</LastName>
+<ForeName>Nesli</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bazner</LastName>
+<ForeName>Suzane</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bellos</LastName>
+<ForeName>Nicholaos C</ForeName>
+<Initials>NC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Benson</LastName>
+<ForeName>Anne M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Berger</LastName>
+<ForeName>Judith</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bernard</LastName>
+<ForeName>Nicole F</ForeName>
+<Initials>NF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bernard</LastName>
+<ForeName>Annette M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Birch</LastName>
+<ForeName>Christopher</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bodner</LastName>
+<ForeName>Stanley J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bolan</LastName>
+<ForeName>Robert K</ForeName>
+<Initials>RK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boudreaux</LastName>
+<ForeName>Emilie T</ForeName>
+<Initials>ET</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bradley</LastName>
+<ForeName>Meg</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Braun</LastName>
+<ForeName>James F</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brndjar</LastName>
+<ForeName>Jon E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Stephen J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Katherine</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Sheldon T</ForeName>
+<Initials>ST</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Burack</LastName>
+<ForeName>Jedidiah</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bush</LastName>
+<ForeName>Larry M</ForeName>
+<Initials>LM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cafaro</LastName>
+<ForeName>Virginia</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Campbell</LastName>
+<ForeName>Omobolaji</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Campbell</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carlson</LastName>
+<ForeName>Robert H</ForeName>
+<Initials>RH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carmichael</LastName>
+<ForeName>J Kevin</ForeName>
+<Initials>JK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Casey</LastName>
+<ForeName>Kathleen K</ForeName>
+<Initials>KK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cavacuiti</LastName>
+<ForeName>Chris</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Celestin</LastName>
+<ForeName>Gregory</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chambers</LastName>
+<ForeName>Steven T</ForeName>
+<Initials>ST</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chez</LastName>
+<ForeName>Nancy</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chirch</LastName>
+<ForeName>Lisa M</ForeName>
+<Initials>LM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cimoch</LastName>
+<ForeName>Paul J</ForeName>
+<Initials>PJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cohen</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cohn</LastName>
+<ForeName>Lillian E</ForeName>
+<Initials>LE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Conway</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cooper</LastName>
+<ForeName>David A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cornelson</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cox</LastName>
+<ForeName>David T</ForeName>
+<Initials>DT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cristofano</LastName>
+<ForeName>Michael V</ForeName>
+<Initials>MV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cuchural</LastName>
+<ForeName>George</ForeName>
+<Initials>G</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Czartoski</LastName>
+<ForeName>Julie L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dahman</LastName>
+<ForeName>Joseph M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Daly</LastName>
+<ForeName>Jennifer S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davis</LastName>
+<ForeName>Benjamin T</ForeName>
+<Initials>BT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davis</LastName>
+<ForeName>Kristine</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davod</LastName>
+<ForeName>Sheila M</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>DeJesus</LastName>
+<ForeName>Edwin</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dietz</LastName>
+<ForeName>Craig A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunham</LastName>
+<ForeName>Eleanor</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunn</LastName>
+<ForeName>Michael E</ForeName>
+<Initials>ME</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ellerin</LastName>
+<ForeName>Todd B</ForeName>
+<Initials>TB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eron</LastName>
+<ForeName>Joseph J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fangman</LastName>
+<ForeName>John J W</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Farel</LastName>
+<ForeName>Claire E</ForeName>
+<Initials>CE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ferlazzo</LastName>
+<ForeName>Helen</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fidler</LastName>
+<ForeName>Sarah</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fleenor-Ford</LastName>
+<ForeName>Anita</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Frankel</LastName>
+<ForeName>Renee</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Freedberg</LastName>
+<ForeName>Kenneth A</ForeName>
+<Initials>KA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>French</LastName>
+<ForeName>Neel K</ForeName>
+<Initials>NK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fuchs</LastName>
+<ForeName>Jonathan D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fuller</LastName>
+<ForeName>Jon D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gaberman</LastName>
+<ForeName>Jonna</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gallant</LastName>
+<ForeName>Joel E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gandhi</LastName>
+<ForeName>Rajesh T</ForeName>
+<Initials>RT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garcia</LastName>
+<ForeName>Efrain</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garmon</LastName>
+<ForeName>Donald</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gathe</LastName>
+<ForeName>Joseph C</ForeName>
+<Initials>JC</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gaultier</LastName>
+<ForeName>Cyril R</ForeName>
+<Initials>CR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gebre</LastName>
+<ForeName>Wondwoosen</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gilman</LastName>
+<ForeName>Frank D</ForeName>
+<Initials>FD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gilson</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goepfert</LastName>
+<ForeName>Paul A</ForeName>
+<Initials>PA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gottlieb</LastName>
+<ForeName>Michael S</ForeName>
+<Initials>MS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goulston</LastName>
+<ForeName>Claudia</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Groger</LastName>
+<ForeName>Richard K</ForeName>
+<Initials>RK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gurley</LastName>
+<ForeName>T Douglas</ForeName>
+<Initials>TD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haber</LastName>
+<ForeName>Stuart</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hardwicke</LastName>
+<ForeName>Robin</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hardy</LastName>
+<ForeName>W David</ForeName>
+<Initials>WD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harrigan</LastName>
+<ForeName>P Richard</ForeName>
+<Initials>PR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hawkins</LastName>
+<ForeName>Trevor N</ForeName>
+<Initials>TN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heath</LastName>
+<ForeName>Sonya</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hecht</LastName>
+<ForeName>Frederick M</ForeName>
+<Initials>FM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Henry</LastName>
+<ForeName>W Keith</ForeName>
+<Initials>WK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hladek</LastName>
+<ForeName>Melissa</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hoffman</LastName>
+<ForeName>Robert P</ForeName>
+<Initials>RP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Horton</LastName>
+<ForeName>James M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hsu</LastName>
+<ForeName>Ricky K</ForeName>
+<Initials>RK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huhn</LastName>
+<ForeName>Gregory D</ForeName>
+<Initials>GD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hunt</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hupert</LastName>
+<ForeName>Mark J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Illeman</LastName>
+<ForeName>Mark L</ForeName>
+<Initials>ML</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jaeger</LastName>
+<ForeName>Hans</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jellinger</LastName>
+<ForeName>Robert M</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>John</LastName>
+<ForeName>Mina</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>Jennifer A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>Kristin L</ForeName>
+<Initials>KL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>Heather</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>Kay</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Joly</LastName>
+<ForeName>Jennifer</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jordan</LastName>
+<ForeName>Wilbert C</ForeName>
+<Initials>WC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kauffman</LastName>
+<ForeName>Carol A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khanlou</LastName>
+<ForeName>Homayoon</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Killian</LastName>
+<ForeName>Robert K</ForeName>
+<Initials>RK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Arthur Y</ForeName>
+<Initials>AY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>David D</ForeName>
+<Initials>DD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kinder</LastName>
+<ForeName>Clifford A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kirchner</LastName>
+<ForeName>Jeffrey T</ForeName>
+<Initials>JT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kogelman</LastName>
+<ForeName>Laura</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kojic</LastName>
+<ForeName>Erna Milunka</ForeName>
+<Initials>EM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Korthuis</LastName>
+<ForeName>P Todd</ForeName>
+<Initials>PT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kurisu</LastName>
+<ForeName>Wayne</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kwon</LastName>
+<ForeName>Douglas S</ForeName>
+<Initials>DS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>LaMar</LastName>
+<ForeName>Melissa</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lampiris</LastName>
+<ForeName>Harry</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lanzafame</LastName>
+<ForeName>Massimiliano</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lederman</LastName>
+<ForeName>Michael M</ForeName>
+<Initials>MM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>David M</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Jean M L</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Marah J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Edward T Y</ForeName>
+<Initials>ET</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lemoine</LastName>
+<ForeName>Janice</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Levy</LastName>
+<ForeName>Jay A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Llibre</LastName>
+<ForeName>Josep M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liguori</LastName>
+<ForeName>Michael A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Little</LastName>
+<ForeName>Susan J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Anne Y</ForeName>
+<Initials>AY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lopez</LastName>
+<ForeName>Alvaro J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Loutfy</LastName>
+<ForeName>Mono R</ForeName>
+<Initials>MR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Loy</LastName>
+<ForeName>Dawn</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mohammed</LastName>
+<ForeName>Debbie Y</ForeName>
+<Initials>DY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Man</LastName>
+<ForeName>Alan</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mansour</LastName>
+<ForeName>Michael K</ForeName>
+<Initials>MK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marconi</LastName>
+<ForeName>Vincent C</ForeName>
+<Initials>VC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Markowitz</LastName>
+<ForeName>Martin</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marques</LastName>
+<ForeName>Rui</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Martin</LastName>
+<ForeName>Jeffrey N</ForeName>
+<Initials>JN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Martin</LastName>
+<ForeName>Harold L</ForeName>
+<Initials>HL</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mayer</LastName>
+<ForeName>Kenneth Hugh</ForeName>
+<Initials>KH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McElrath</LastName>
+<ForeName>M Juliana</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McGhee</LastName>
+<ForeName>Theresa A</ForeName>
+<Initials>TA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McGovern</LastName>
+<ForeName>Barbara H</ForeName>
+<Initials>BH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McGowan</LastName>
+<ForeName>Katherine</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McIntyre</LastName>
+<ForeName>Dawn</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mcleod</LastName>
+<ForeName>Gavin X</ForeName>
+<Initials>GX</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Menezes</LastName>
+<ForeName>Prema</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mesa</LastName>
+<ForeName>Greg</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Metroka</LastName>
+<ForeName>Craig E</ForeName>
+<Initials>CE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meyer-Olson</LastName>
+<ForeName>Dirk</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miller</LastName>
+<ForeName>Andy O</ForeName>
+<Initials>AO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Montgomery</LastName>
+<ForeName>Kate</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mounzer</LastName>
+<ForeName>Karam C</ForeName>
+<Initials>KC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nagami</LastName>
+<ForeName>Ellen H</ForeName>
+<Initials>EH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nagin</LastName>
+<ForeName>Iris</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nahass</LastName>
+<ForeName>Ronald G</ForeName>
+<Initials>RG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nelson</LastName>
+<ForeName>Margret O</ForeName>
+<Initials>MO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nielsen</LastName>
+<ForeName>Craig</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Norene</LastName>
+<ForeName>David L</ForeName>
+<Initials>DL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Connor</LastName>
+<ForeName>David H</ForeName>
+<Initials>DH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ojikutu</LastName>
+<ForeName>Bisola O</ForeName>
+<Initials>BO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Okulicz</LastName>
+<ForeName>Jason</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oladehin</LastName>
+<ForeName>Olakunle O</ForeName>
+<Initials>OO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oldfield</LastName>
+<ForeName>Edward C</ForeName>
+<Initials>EC</Initials>
+<Suffix>3rd</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olender</LastName>
+<ForeName>Susan A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ostrowski</LastName>
+<ForeName>Mario</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Owen</LastName>
+<ForeName>William F</ForeName>
+<Initials>WF</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pae</LastName>
+<ForeName>Eunice</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Parsonnet</LastName>
+<ForeName>Jeffrey</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pavlatos</LastName>
+<ForeName>Andrew M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Perlmutter</LastName>
+<ForeName>Aaron M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pierce</LastName>
+<ForeName>Michael N</ForeName>
+<Initials>MN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pincus</LastName>
+<ForeName>Jonathan M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pisani</LastName>
+<ForeName>Leandro</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Price</LastName>
+<ForeName>Lawrence Jay</ForeName>
+<Initials>LJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Proia</LastName>
+<ForeName>Laurie</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prokesch</LastName>
+<ForeName>Richard C</ForeName>
+<Initials>RC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pujet</LastName>
+<ForeName>Heather Calderon</ForeName>
+<Initials>HC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ramgopal</LastName>
+<ForeName>Moti</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rathod</LastName>
+<ForeName>Almas</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rausch</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ravishankar</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rhame</LastName>
+<ForeName>Frank S</ForeName>
+<Initials>FS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Richards</LastName>
+<ForeName>Constance Shamuyarira</ForeName>
+<Initials>CS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Richman</LastName>
+<ForeName>Douglas D</ForeName>
+<Initials>DD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rodes</LastName>
+<ForeName>Berta</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rodriguez</LastName>
+<ForeName>Milagros</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rose</LastName>
+<ForeName>Richard C</ForeName>
+<Initials>RC</Initials>
+<Suffix>3rd</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenberg</LastName>
+<ForeName>Eric S</ForeName>
+<Initials>ES</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenthal</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ross</LastName>
+<ForeName>Polly E</ForeName>
+<Initials>PE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rubin</LastName>
+<ForeName>David S</ForeName>
+<Initials>DS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rumbaugh</LastName>
+<ForeName>Elease</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saenz</LastName>
+<ForeName>Luis</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salvaggio</LastName>
+<ForeName>Michelle R</ForeName>
+<Initials>MR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sanchez</LastName>
+<ForeName>William C</ForeName>
+<Initials>WC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sanjana</LastName>
+<ForeName>Veeraf M</ForeName>
+<Initials>VM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Santiago</LastName>
+<ForeName>Steven</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmidt</LastName>
+<ForeName>Wolfgang</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schuitemaker</LastName>
+<ForeName>Hanneke</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sestak</LastName>
+<ForeName>Philip M</ForeName>
+<Initials>PM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shalit</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shay</LastName>
+<ForeName>William</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shirvani</LastName>
+<ForeName>Vivian N</ForeName>
+<Initials>VN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Silebi</LastName>
+<ForeName>Vanessa I</ForeName>
+<Initials>VI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sizemore</LastName>
+<ForeName>James M</ForeName>
+<Initials>JM</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Skolnik</LastName>
+<ForeName>Paul R</ForeName>
+<Initials>PR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sokol-Anderson</LastName>
+<ForeName>Marcia</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sosman</LastName>
+<ForeName>James M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stabile</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stapleton</LastName>
+<ForeName>Jack T</ForeName>
+<Initials>JT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Starrett</LastName>
+<ForeName>Sheree</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stein</LastName>
+<ForeName>Francine</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stellbrink</LastName>
+<ForeName>Hans-Jurgen</ForeName>
+<Initials>HJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sterman</LastName>
+<ForeName>F Lisa</ForeName>
+<Initials>FL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stone</LastName>
+<ForeName>Valerie E</ForeName>
+<Initials>VE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stone</LastName>
+<ForeName>David R</ForeName>
+<Initials>DR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tambussi</LastName>
+<ForeName>Giuseppe</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taplitz</LastName>
+<ForeName>Randy A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tedaldi</LastName>
+<ForeName>Ellen M</ForeName>
+<Initials>EM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Telenti</LastName>
+<ForeName>Amalio</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Theisen</LastName>
+<ForeName>William</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Torres</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tosiello</LastName>
+<ForeName>Lorraine</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tremblay</LastName>
+<ForeName>Cecile</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tribble</LastName>
+<ForeName>Marc A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Trinh</LastName>
+<ForeName>Phuong D</ForeName>
+<Initials>PD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tsao</LastName>
+<ForeName>Alice</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ueda</LastName>
+<ForeName>Peggy</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vaccaro</LastName>
+<ForeName>Anthony</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Valadas</LastName>
+<ForeName>Emilia</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vanig</LastName>
+<ForeName>Thanes J</ForeName>
+<Initials>TJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vecino</LastName>
+<ForeName>Isabel</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vega</LastName>
+<ForeName>Vilma M</ForeName>
+<Initials>VM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Veikley</LastName>
+<ForeName>Wenoah</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wade</LastName>
+<ForeName>Barbara H</ForeName>
+<Initials>BH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Walworth</LastName>
+<ForeName>Charles</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wanidworanun</LastName>
+<ForeName>Chingchai</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ward</LastName>
+<ForeName>Douglas J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Warner</LastName>
+<ForeName>Daniel A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weber</LastName>
+<ForeName>Robert D</ForeName>
+<Initials>RD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Webster</LastName>
+<ForeName>Duncan</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weis</LastName>
+<ForeName>Steve</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wheeler</LastName>
+<ForeName>David A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>White</LastName>
+<ForeName>David J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilkins</LastName>
+<ForeName>Ed</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Winston</LastName>
+<ForeName>Alan</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wlodaver</LastName>
+<ForeName>Clifford G</ForeName>
+<Initials>CG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>van't Wout</LastName>
+<ForeName>Angelique</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wright</LastName>
+<ForeName>David P</ForeName>
+<Initials>DP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Otto O</ForeName>
+<Initials>OO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yurdin</LastName>
+<ForeName>David L</ForeName>
+<Initials>DL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zabukovic</LastName>
+<ForeName>Brandon W</ForeName>
+<Initials>BW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zachary</LastName>
+<ForeName>Kimon C</ForeName>
+<Initials>KC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zeeman</LastName>
+<ForeName>Beth</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhao</LastName>
+<ForeName>Meng</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>U01 AI069502</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069513</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI68634</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI69467</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI032782-13</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069423</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 MH071205-04</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI034835-07S3</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069415</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069556</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069501</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069501-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069472</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069467</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069474</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069423</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069513</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>T32 AI007061</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI046370-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024975-04</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI028568-19</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069465</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069434</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069465-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 MH085520</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069450-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069419</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069511</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI034853-11</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI028568-20</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI46370</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI077505</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI027661</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069513-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069452-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069477-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069424</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI077505</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 MH054907</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069474-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069471-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069465</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R37 AI028568-15</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069472-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069434</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 AI064086</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI027661-19</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069432</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 AI060354-09</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069501</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024975-05</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069532</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069474</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24AI069994</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069434</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI030914-17</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069495</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI028568-18</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069484</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069471</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069501-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069556</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069428</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI034835-07</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R24 AI067039-07</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069513-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069465-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069513</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069502</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 AI069994</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>TL1 RR024978</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069532</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 AI051966</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069423</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069419-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI30914</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069428</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>KL2 RR024977</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069467-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024131</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069484-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069415</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024131-06</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI030914</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069511-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 AI027763-19</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI27661</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069452-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069477-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 MH085520-01</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI046370-04</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 AI069994-04</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069484</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069428</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI34853</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI068634</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>MH085520</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069501</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R24 AI067039</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P-30 AI27763</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069423-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069450-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069452</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069556-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069495</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI068634-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069556-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 AI069994-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069477</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069432</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P-30-AI060354</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI038844-04S2</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069484</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI068636</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069423-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI087145</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069450</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069419-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>RR024975</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI077505-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069511-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069424-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI046370</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI068636</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069474</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069467-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069495-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069484-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R24 AI067039-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI034853</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R37 AI028568</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI087145-01</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069434-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069452</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069428-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI087145</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069424</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069415</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Howard Hughes Medical Institute</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024131-07</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069428-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI038844-04</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN261200800001E</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069495</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069556</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 AI027763</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI038844-04S3</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069511</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069432-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K23 DA019809</GrantID>
+<Acronym>DA</Acronym>
+<Agency>NIDA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069532-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069502-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI068636-07</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069532-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI038844-04S1</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 MH071205</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069502</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI025859</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI068636-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069450</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI34835</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>MH071205</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069532</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 MH071205-05</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI087145-02</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069465</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AL32782</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024975</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069424</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 AI064086-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069450</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI034853-12</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN261200800001C</GrantID>
+<Acronym>RC</Acronym>
+<Agency>CCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069472</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069419</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI28568</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069471-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069432</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 AI027763-20</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069502-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069477</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069424-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI077505-04</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI068634-07</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI028568</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069474-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 AI060354</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069495-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069419</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI030914</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI25859</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069511</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN261200800001E</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069452</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI069467</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI027661-18</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069434-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI38844</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 AI060354-08</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069432-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AI030914-16</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069477</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069472-05</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AI069471</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069471</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI069472</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI068634</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 AI068636</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 AI050410</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R24 AI106039</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Science</MedlineTA>
+<NlmUniqueID>0404511</NlmUniqueID>
+<ISSNLinking>0036-8075</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000596">Amino Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015488">HIV Antigens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015234">HLA-A Antigens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015235">HLA-B Antigens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015236">HLA-C Antigens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Science. 2010 Dec 10;330(6010):1488-90</RefSource>
+<PMID Version="1">21148380</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001741">African Americans</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000483">Alleles</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000596">Amino Acids</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017951">Antigen Presentation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018414">CD8-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044465">European Continental Ancestry Group</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005805">Genes, MHC Class I</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055106">Genome-Wide Association Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015488">HIV Antigens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020276">HIV Long-Term Survivors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015497">HIV-1</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015234">HLA-A Antigens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015235">HLA-B Antigens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015236">HLA-C Antigens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006239">Haplotypes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006630">Hispanic Americans</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007113">Immunity, Innate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008958">Models, Molecular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011487">Protein Conformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019562">Viral Load</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21051598</ArticleId>
+<ArticleId IdType="pii">science.1195271</ArticleId>
+<ArticleId IdType="doi">10.1126/science.1195271</ArticleId>
+<ArticleId IdType="pmc">PMC3235490</ArticleId>
+<ArticleId IdType="mid">NIHMS331514</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Infect Dis. 2008 Feb 15;197(4):563-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18275276</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Genet. 2008 Jan;82(1):48-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18179884</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2009 Jan;37(Database issue):D1013-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18838392</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Obes Metab. 2009 Feb;11 Suppl 1:2-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19143809</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2009 Dec;41(12):1290-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19935663</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Immunol. 2010 Jan;10(1):11-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20010788</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2010 Mar 11;464(7286):224-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20220841</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2010 Apr 15;201(8):1141-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20205591</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2010 Sep 2;467(7311):52-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20811451</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2008;3(11):e3636</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18982067</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2000 Mar 14;97(6):2709-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10694578</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2001 Apr 24;98(9):5140-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11309482</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Annu Rev Med. 2003;54:535-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12525683</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comput Chem. 2004 Oct;25(13):1605-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15264254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 1994 Jun;169(6):1244-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8195600</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 1996 Apr;2(4):405-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8597949</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1996 Sep 27;273(5283):1856-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8791590</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1997 Aug 15;277(5328):959-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9252328</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1998 Dec 4;282(5395):1907-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9836644</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1999 Mar 12;283(5408):1748-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10073943</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 1999 Oct 1;13(14):1990-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10513667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2004 Dec 9;432(7018):769-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15592417</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2005 Aug 15;175(4):2459-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16081817</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int Immunol. 2006 Jan;18(1):211-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16361312</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mol Biol. 2006 Feb 17;356(2):521-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16368108</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2006 Oct 1;177(7):4699-708</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16982909</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2006 Oct;38(10):1166-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16998491</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2007 Aug 17;317(5840):944-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17641165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 2007 Sep;27(3):406-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17892849</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2007 Oct;39(10):1217-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17873874</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,199 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17185609</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>08</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>09</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1066-5099</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>25</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Stem cells (Dayton, Ohio)</Title>
+<ISOAbbreviation>Stem Cells</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Improved human embryonic stem cell embryoid body homogeneity and cardiomyocyte differentiation from a novel V-96 plate aggregation system highlights interline variability.</ArticleTitle>
+<Pagination>
+<MedlinePgn>929-38</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Although all human ESC (hESC) lines have similar morphology, express key pluripotency markers, and can differentiate toward primitive germ layers in vitro, the lineage-specific developmental potential may vary between individual lines. In the current study, four hESC lines were cultured in the same feeder-free conditions to provide a standardized platform for interline analysis. A high-throughput, forced-aggregation system involving centrifugation of defined numbers of hESCs in V-96 plates (V-96FA) was developed to examine formation, growth, and subsequent cardiomyocyte differentiation from &gt;22,000 EBs. Homogeneity of EBs formed by V-96FA in mouse embryo fibroblast-conditioned medium was significantly improved compared with formation in mass culture (p &lt; .02; Levene's test). V-96FA EB formation was successful in all four lines, although significant differences in EB growth were observed during the first 6 days of differentiation (p = .044 to .001; one-way analysis of variance [ANOVA]). Cardiomyocyte differentiation potential also varied; 9.5% +/- 0.9%, 6.6% +/- 2.4%, 5.2% +/- 3.1%, and 1.6% +/- 1.0% beating EBs were identified for HUES-7, NOTT2, NOTT1, and BG01, respectively (p = .008; one-way ANOVA). Formation of HUES-7 V-96FA EBs in defined medium containing activin A and basic fibroblast growth factor resulted in 23.6% +/- 3.6% beating EBs, representing a 13.1-fold increase relative to mass culture (1.8% +/- 0.7%), consistent with an observed 14.8-fold increase in MYH6 (alphaMHC) expression by real-time polymerase chain reaction. In contrast, no beating areas were derived from NOTT1-EBs and BG01-EBs formed in defined medium. Thus, the V-96FA system highlighted interline variability in EB growth and cardiomyocyte differentiation but, under the test conditions described, identified HUES-7 as a line that can respond to cardiomyogenic stimulation.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Burridge</LastName>
+<ForeName>Paul W</ForeName>
+<Initials>PW</Initials>
+<AffiliationInfo>
+<Affiliation>Wolfson Centre for Stem Cells, Tissue Engineering and Modelling, School of Human Development, University of Nottingham, Queen's Medical Centre, Nottingham, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Priddle</LastName>
+<ForeName>Helen</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barbadillo Muñoz</LastName>
+<ForeName>Maria D</ForeName>
+<Initials>MD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chamberlain</LastName>
+<ForeName>Sarah</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Allegrucci</LastName>
+<ForeName>Cinzia</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Young</LastName>
+<ForeName>Lorraine E</ForeName>
+<Initials>LE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Denning</LastName>
+<ForeName>Chris</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>BB/E006159/1</GrantID>
+<Agency>Biotechnology and Biological Sciences Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>G113/30</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>21</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Stem Cells</MedlineTA>
+<NlmUniqueID>9304532</NlmUniqueID>
+<ISSNLinking>1066-5099</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D003470">Culture Media</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002449">Cell Aggregation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018929">Cell Culture Techniques</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002454">Cell Differentiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003470">Culture Media</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053595">Embryonic Stem Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005347">Fibroblasts</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007621">Karyotyping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008285">Major Histocompatibility Complex</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D032342">Muscle Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009206">Myocardium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>2</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17185609</ArticleId>
+<ArticleId IdType="pii">2006-0598</ArticleId>
+<ArticleId IdType="doi">10.1634/stemcells.2006-0598</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

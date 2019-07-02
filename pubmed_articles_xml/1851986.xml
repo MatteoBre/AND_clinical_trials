@@ -1,0 +1,132 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">1851986</PMID>
+<DateCompleted>
+<Year>1991</Year>
+<Month>06</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0954-7762</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>87</Volume>
+<Issue>21</Issue>
+<PubDate>
+<MedlineDate>1991 May 22-28</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Nursing times</Title>
+<ISOAbbreviation>Nurs Times</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Ditiocarb useful in HIV therapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>10</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hersh</LastName>
+<ForeName>E M</ForeName>
+<Initials>EM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brewton</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abrams</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Nurs Times</MedlineTA>
+<NlmUniqueID>0423236</NlmUniqueID>
+<ISSNLinking>0954-7762</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>99Z2744345</RegistryNumber>
+<NameOfSubstance UI="D004050">Ditiocarb</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>N</CitationSubset>
+<CitationSubset>X</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004050">Ditiocarb</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015497">HIV-1</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009894">Opportunistic Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1991</Year>
+<Month>5</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1991</Year>
+<Month>5</Month>
+<Day>22</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1991</Year>
+<Month>5</Month>
+<Day>22</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1851986</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

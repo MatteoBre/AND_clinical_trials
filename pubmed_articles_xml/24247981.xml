@@ -1,0 +1,587 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24247981</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>09</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1469-7793</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>592</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Jan</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of physiology</Title>
+<ISOAbbreviation>J. Physiol. (Lond.)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Positron emission tomography detects greater blood flow and less blood flow heterogeneity in the exercising skeletal muscles of old compared with young men during fatiguing contractions.</ArticleTitle>
+<Pagination>
+<MedlinePgn>337-49</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1113/jphysiol.2013.264614</ELocationID>
+<Abstract>
+<AbstractText>The purpose of this study was to investigate blood flow and its heterogeneity within and among the knee muscles in five young (26 ± 6 years) and five old (77 ± 6 years) healthy men with similar levels of physical activity while they performed two types of submaximal fatiguing isometric contraction that required either force or position control. Positron emission tomography (PET) and [(15)O]-H2O were used to determine blood flow at 2 min (beginning) and 12 min (end) after the start of the tasks. Young and old men had similar maximal forces and endurance times for the fatiguing tasks. Although muscle volumes were lower in the older subjects, total muscle blood flow was similar in both groups (young men: 25.8 ± 12.6 ml min(-1); old men: 25.1 ± 15.4 ml min(-1); age main effect, P = 0.77) as blood flow per unit mass of muscle in the exercising knee extensors was greater in the older (12.5 ± 6.2 ml min(-1) (100 g)(-1)) than the younger (8.6 ± 3.6 ml min(-1) (100 g)(-1)) men (age main effect, P = 0.001). Further, blood flow heterogeneity in the exercising knee extensors was significantly lower in the older (56 ± 27%) than the younger (67 ± 34%) men. Together, these data show that although skeletal muscles are smaller in older subjects, based on the intact neural drive to the muscle and the greater, less heterogeneous blood flow per gram of muscle, old fit muscle achieves adequate exercise hyperaemia. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rudroff</LastName>
+<ForeName>Thorsten</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Health and Exercise Science, Colorado State University, 220 Moby B Complex, Fort Collins, CO 80523-1582, USA.  thorsten.rudroff@colostate.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weissman</LastName>
+<ForeName>Jessica A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bucci</LastName>
+<ForeName>Marco</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seppänen</LastName>
+<ForeName>Marko</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaskinoro</LastName>
+<ForeName>Kimmo</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heinonen</LastName>
+<ForeName>Ilkka</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kalliokoski</LastName>
+<ForeName>Kari K</ForeName>
+<Initials>KK</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>AG33744</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>18</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Physiol</MedlineTA>
+<NlmUniqueID>0266262</NlmUniqueID>
+<ISSNLinking>0022-3751</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>J Physiol. 2014 Apr 15;592(8):1729-30</RefSource>
+<PMID Version="1">24737898</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015444">Exercise</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009119">Muscle Contraction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D018763">Muscle Fatigue</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018482">Muscle, Skeletal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000098">blood supply</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011877">Radionuclide Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012039">Regional Blood Flow</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24247981</ArticleId>
+<ArticleId IdType="pii">jphysiol.2013.264614</ArticleId>
+<ArticleId IdType="doi">10.1113/jphysiol.2013.264614</ArticleId>
+<ArticleId IdType="pmc">PMC3922498</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>PLoS One. 2012;7(12):e52191</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23284929</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Electromyogr Kinesiol. 2011 Apr;21(2):208-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21071242</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Med Sci Sports. 2011 Dec;21(6):749-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22092924</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gerontol A Biol Sci Med Sci. 2012 Jan;67(1):28-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21444359</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Muscle Nerve. 2001 Sep;24(9):1156-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11494268</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2001 Dec;91(6):2654-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11717231</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Sci. 1973 Jan;18(1):111-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4120482</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol. 1975 Jan;38(1):91-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1110248</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Histochem J. 1975 May;7(3):259-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">123895</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Physiol Scand. 1978 Oct;104(2):129-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">152565</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gerontol. 1981 Nov;36(6):648-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7299079</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol Occup Physiol. 1982;48(3):367-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7200879</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Electromyogr Clin Neurophysiol. 1985 Mar-Apr;25(2-3):135-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3987606</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 1986 Oct;6(5):536-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3489723</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Physiol Scand. 1986 Nov;128(3):475-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3788624</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Physiol Scand. 1990 Mar;138(3):249-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2327258</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Geriatr Soc. 1991 Jun;39(6):555-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1805811</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 1994 Jan 15;474(2):353-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8006820</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Physiol Scand. 1994 Apr;150(4):353-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8036904</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gerontol A Biol Sci Med Sci. 1995 Nov;50 Spec No:130-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7493206</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Exp Med Biol. 1995;384:361-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8585465</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 1996 Oct 15;496 ( Pt 2):543-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8910236</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 1997 Feb;38(2):314-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9025761</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biomech. 1997 May;30(5):447-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9109556</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 1997 Oct;83(4):1383-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9338449</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 1998 Jul;85(1):68-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9655757</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Exp Med Biol. 1998;454:343-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9889909</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1999 Jul 13;100(2):164-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10402446</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 1955 May 27;128(2):258-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14392606</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurophysiol. 2005 Mar;93(3):1381-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15483059</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2012 Dec 1;590(Pt 23):6227-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22966164</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2013 Jan 22;80(4):409-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23339207</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Heart Circ Physiol. 2006 Jan;290(1):H272-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16183733</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exerc Sport Sci Rev. 2006 Oct;34(4):164-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17031254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Heart Circ Physiol. 2007 Feb;292(2):H1148-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17071730</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Sci Sports Exerc. 2007 Mar;39(3):443-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17473770</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2007 Sep 15;583(Pt 3):1093-105</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17673506</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Phys Ther. 2001 May;81(5):1102-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11319935</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mech Ageing Dev. 2001 May 31;122(7):735-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11322995</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Endocrinol Metab. 2001 Jun;280(6):E1015-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11350784</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Muscle Nerve. 2002 Jun;25(6):785-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12115966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2002 Nov;93(5):1813-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12381770</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurophysiol. 2002 Dec;88(6):3087-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12466432</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2003 Mar;94(3):953-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12433855</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2003 May;94(5):1859-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12547841</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Sports Med. 2003 Aug;24(6):400-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12905086</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Heart Circ Physiol. 2003 Sep;285(3):H1023-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12738622</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2003 Oct;95(4):1717-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12970377</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Rev. 2004 Apr;84(2):649-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15044685</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Lipid Res. 2004 May;45(5):941-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14967820</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2004 Nov;97(5):1723-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15208285</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Nucl Med Mol Imaging. 2009 Oct;36(10):1594-602</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19408000</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(4):e60923</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23613756</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2013 May;114(9):1211-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23412899</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Age (Dordr). 2013 Aug;35(4):1183-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22760857</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Heart Circ Physiol. 2009 Nov;297(5):H1870-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19767527</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2010 Feb;108(2):378-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19940098</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurophysiol. 2010 Feb;103(2):623-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19939955</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Brain Res. 2010 Apr;202(1):111-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20012532</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2011 Jan;110(1):125-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21030676</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2007 Dec;103(6):2042-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17885025</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cardiometab Syndr. 2008 Spring;3(2):115-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18453813</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gerontol A Biol Sci Med Sci. 2008 Aug;63(8):829-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18772470</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Aging Phys Act. 2008 Oct;16(4):484-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19033607</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exerc Sport Sci Rev. 2009 Jan;37(1):3-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19098518</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Can J Physiol Pharmacol. 2000 Oct;78(10):781-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11077978</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol. 2000 Nov;83(4 -5):395-401</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11138581</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

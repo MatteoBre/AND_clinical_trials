@@ -1,0 +1,122 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16305456</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>12</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>06</Month>
+<Day>07</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1389-4501</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>6</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Current drug targets</Title>
+<ISOAbbreviation>Curr Drug Targets</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Analgesia in PACU: nonsteroidal anti-inflammatory drugs.</ArticleTitle>
+<Pagination>
+<MedlinePgn>781-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Control and abolition of pain during and after surgical procedures is crucial point in the practice of anaesthesiology. In the last years the concept of multimodal analgesia (the use of different analgesic and techniques to relieve pain), has developed and non-steroidal anti-inflammatory drugs (NSAIDs) have a major role in it, because they have an opioid sparing effect. Moreover, they are very effective on somatic and breakthrough pain. NSAIDs can be divided functionally in four classes: salicylates, acetaminophen, non-specific inhibitors (i.e. ibuprofen, ketorolac, etc.) and cyclooxygenase2-inhibitors (coxibs). The target of action of these drugs is the different isozymes of the Prostaglandin G/H synthase, called Cyclooxygenases (COX). At least three different types of COX have been identified, which are probably organ specific. These isozymes play a crucial role in the developing of the inflammatory cascade, and in the genesis of various pain mediators released from tissue injury. Their most important side effects affect mainly gastrointestinal system, the kidney and the coagulation system. Less important are the effects on the liver and the immunologic system (asthma). The analgesic nephropathy and the coagulopathy must be taken into account in the surgical patient, for the possibility of increase perioperative morbidity. Very recently the newest class of coxibs, although they reduce g.i. bleeding and coagulopathy, have proved to increase the risk of cardiovascular accidents both in long term therapy than postoperatively in cardiac surgical patients. Many data are needed, but in patients at high risk of cardiac disease other NSAIDs should be considered.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rocca</LastName>
+<ForeName>Giorgio Della</ForeName>
+<Initials>GD</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Anesthesia and Intensive Care of the University of Udine, Italy. giorgio.dellarocca@uniud.it</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chiarandini</LastName>
+<ForeName>Paolo</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pietropaoli</LastName>
+<ForeName>Paolo</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United Arab Emirates</Country>
+<MedlineTA>Curr Drug Targets</MedlineTA>
+<NlmUniqueID>100960531</NlmUniqueID>
+<ISSNLinking>1389-4501</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010149">Pain, Postoperative</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011997">Recovery Room</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>84</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>11</Month>
+<Day>25</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>12</Month>
+<Day>16</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>11</Month>
+<Day>25</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16305456</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

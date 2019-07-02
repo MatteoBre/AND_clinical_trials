@@ -1,0 +1,114 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">21998505</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>11</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>05</Month>
+<Day>29</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1313-2970</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Issue>117</Issue>
+<PubDate>
+<Year>2011</Year>
+</PubDate>
+</JournalIssue>
+<Title>ZooKeys</Title>
+<ISOAbbreviation>Zookeys</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Taxonomic notes on the small resin bees Hypanthidioides subgenus Michanthidium (Hymenoptera, Megachilidae).</ArticleTitle>
+<Pagination>
+<MedlinePgn>51-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3897/zookeys.117.1665</ELocationID>
+<Abstract>
+<AbstractText>As part of ongoing investigations on anthidiine bees, the type of Anthidium albitarse Friese was found to be conspecific with one of the two species of the small resin bees Hypanthidioides subgenus Michanthidium. The new combination, Hypanthidioides (Michanthidium) albitarsis, is the oldest name, resulting in Gnathanthidium sakagamii Urban as a new junior synonym. The previously unknown male of the second species, Hypanthidioides ferrugineus, is described and figured, including the genitalic structure and associated sterna. Males and females of Hypanthidioides ferrugineus have been collected from flowers of Cuphea sp. (Lythraceae).</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gonzalez</LastName>
+<ForeName>Victor H</ForeName>
+<Initials>VH</Initials>
+<AffiliationInfo>
+<Affiliation>USDA-ARS. Bee Biology &amp; Systematics Laboratory, Utah State University, Logan, Utah 84322-5310, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Griswold</LastName>
+<ForeName>Terry L</ForeName>
+<Initials>TL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>06</Month>
+<Day>06</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Bulgaria</Country>
+<MedlineTA>Zookeys</MedlineTA>
+<NlmUniqueID>101497933</NlmUniqueID>
+<ISSNLinking>1313-2970</ISSNLinking>
+</MedlineJournalInfo>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Anthidiini</Keyword>
+<Keyword MajorTopicYN="N">Anthophila</Keyword>
+<Keyword MajorTopicYN="N">Apoidea</Keyword>
+<Keyword MajorTopicYN="N">South America</Keyword>
+<Keyword MajorTopicYN="N">taxonomy</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>06</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2011</Year>
+<Month>07</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>10</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>10</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>10</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21998505</ArticleId>
+<ArticleId IdType="doi">10.3897/zookeys.117.1665</ArticleId>
+<ArticleId IdType="pmc">PMC3192418</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

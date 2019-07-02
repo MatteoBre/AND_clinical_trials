@@ -1,0 +1,164 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20698739</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>02</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>06</Month>
+<Day>11</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1464-522X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>34</Volume>
+<Issue>7-8</Issue>
+<PubDate>
+<MedlineDate>2010 Oct-Nov</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Journal of medical engineering &amp; technology</Title>
+<ISOAbbreviation>J Med Eng Technol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Contactless respiratory and heart rate monitoring: validation of an innovative tool.</ArticleTitle>
+<Pagination>
+<MedlinePgn>393-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3109/03091902.2010.503308</ELocationID>
+<Abstract>
+<AbstractText Label="PRIMARY OBJECTIVE" NlmCategory="OBJECTIVE">To assess the accuracy of the EverOn™ piezoelectric sensor based contactless heart rate and respiration rate monitoring system.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Measurements of the EverOn™ and reference devices were performed in a sleep lab and an intensive care unit (ICU) setting. One minute measurements by both the reference device and the EverOn™ were averaged and compared. Accuracy was defined in accordance with industry criteria.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Respiration rate (RR) accuracy in the 41 children and 16 adults evaluated in the sleep lab was 93.1% and 90.6% respectively, and heart rate (HR) accuracy was 94.4% and 91.5% respectively. For the 42 ICU patients RR accuracy was 82.0% and 75% (versus end-tidal CO(2) and manual respectively), while accuracy of HR was 94.0%. The EverOn™ was found to be superior to the impedance technique in measuring RR.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The system described was found to be accurate in accordance with regulatory and industry criteria.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ben-Ari</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Pediatric Intensive Care Unit, Dana Children's Hospital, Tel Aviv Sourasky Medical Centre, and Sackler School of Medicine, 6 Weizman St., Tel-Aviv 64239, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zimlichman</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Adi</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sorkine</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>08</Month>
+<Day>10</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Med Eng Technol</MedlineTA>
+<NlmUniqueID>7702125</NlmUniqueID>
+<ISSNLinking>0309-1902</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006339">Heart Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007362">Intensive Care Units</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016014">Linear Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008991">Monitoring, Physiologic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017286">Polysomnography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D056152">Respiratory Rate</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>8</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>8</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>2</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20698739</ArticleId>
+<ArticleId IdType="doi">10.3109/03091902.2010.503308</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

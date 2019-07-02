@@ -1,0 +1,222 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24072721</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1477-0970</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>20</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Multiple sclerosis (Houndmills, Basingstoke, England)</Title>
+<ISOAbbreviation>Mult. Scler.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Psychiatric diagnoses and cognitive impairment in pediatric multiple sclerosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>588-93</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1177/1352458513504249</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Pediatric multiple sclerosis (MS) represents approximately 5% of the MS population; information regarding clinical features is slowly accumulating. Cognitive and psychiatric impairments frequently occur, but remain poorly understood.</AbstractText>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To describe psychiatric diagnoses among children with MS referred for psychiatric assessment and their relation to cognitive impairment.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Forty-five pediatric MS patients (aged 8 to 17 years) were referred for outpatient psychiatric evaluation including a psychiatric interview (K-SADS), a clinician-based global assessment of functioning (Children's Global Assessment Scale, CGAS), a neurologic examination including the Expanded Disability Status Scale (EDSS), and a neuropsychological test battery.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The most common categories of psychiatric diagnoses were anxiety disorders (n=15), attention deficit hyperactivity disorder (ADHD, n=12), and mood disorders (n=11). Cognitive impairment was classified in 20/25 (80%) of patients meeting criteria for a psychiatric disorder versus 11/20 (55%) of those without psychiatric disorder (p=0.08). Those diagnosed with anxiety or mood disorder had the highest frequency of cognitive impairment, with a significantly higher rate when compared with those with psychiatric diagnoses in other categories (p=0.05).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A variety of psychiatric diagnoses can occur in children with pediatric MS. Many of these children also had cognitive impairment, particularly those in the mood and anxiety groups.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Weisbrot</LastName>
+<ForeName>Deborah</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Psychiatry and Behavioral Sciences, Stony Brook University Medical Center - Division of Child and Adolescent Psychiatry, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Charvet</LastName>
+<ForeName>Leigh</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Serafin</LastName>
+<ForeName>Dana</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Milazzo</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Preston</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cleary</LastName>
+<ForeName>Rebecca</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moadel</LastName>
+<ForeName>Tiffany</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seibert</LastName>
+<ForeName>Michelle</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Belman</LastName>
+<ForeName>Anita</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krupp</LastName>
+<ForeName>Lauren</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>MO1RR10710</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>26</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Mult Scler</MedlineTA>
+<NlmUniqueID>9509185</NlmUniqueID>
+<ISSNLinking>1352-4585</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000294">Adolescent Behavior</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001007">Anxiety</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002652">Child Behavior</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003071">Cognition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003072">Cognition Disorders</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004185">Disability Evaluation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019964">Mood Disorders</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009103">Multiple Sclerosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009483">Neuropsychological Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011795">Surveys and Questionnaires</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Pediatrics</Keyword>
+<Keyword MajorTopicYN="N">cognitive impairment</Keyword>
+<Keyword MajorTopicYN="N">multiple sclerosis</Keyword>
+<Keyword MajorTopicYN="N">neuropsychological</Keyword>
+<Keyword MajorTopicYN="N">psychiatric diagnosis</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24072721</ArticleId>
+<ArticleId IdType="pii">1352458513504249</ArticleId>
+<ArticleId IdType="doi">10.1177/1352458513504249</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,110 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">16534335</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>04</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>03</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0952-7907</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>18</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Current opinion in anaesthesiology</Title>
+<ISOAbbreviation>Curr Opin Anaesthesiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Future shock: automatic external defibrillators.</ArticleTitle>
+<Pagination>
+<MedlinePgn>175-80</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="PURPOSE OF REVIEW" NlmCategory="OBJECTIVE">This review provides a practical overview of the performance capabilities of automatic external defibrillators (AEDs), and of advances in technology and dissemination programmes for these devices.</AbstractText>
+<AbstractText Label="RECENT FINDINGS" NlmCategory="RESULTS">Arrhythmia analysis by AEDs is extremely reliable in most settings (sensitivity 81-100%, specificity 99.9-97.6%). Accurate detection of arrhythmias has also been demonstrated in children, leading the US Food and Drug Administration to approve the use of several AEDs in children aged 8 years or younger. Factors that potentially may reduce the quality of arrhythmia detection are the presence of wide complex supraventricular tachycardia and location of an arrythmic event near to high-power lines. AED use by professional basic life support providers resulted in increased survival in the prehospital setting. However, provision of AEDs to nonmedical rescue services did not result in universal improvement in patient outcome. Public access defibrillation programmes have led to higher rates of survival from cardiac arrest. The role of AEDs in hospitals has yet to be elucidated, although in-hospital mortality from ventricular arrhythmias has been shown to decrease following AED deployment.</AbstractText>
+<AbstractText Label="SUMMARY" NlmCategory="CONCLUSIONS">Given the correct setting, AEDs can ensure that defibrillation is not limited by lack of medical knowledge or difficulties in decision making. However, event-related variables and operator-related factors, that are yet to be determined, can significantly affect the efficacy of automatic external defibrillation.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Einav</LastName>
+<ForeName>Sharon</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Anaesthesiology and Critical Care Medicine, School of Public Health and Community Medicine, Hadassah Hebrew University Medical Centre, Ein-Kerem, Jerusalem, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weissman</LastName>
+<ForeName>Charles</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kark</LastName>
+<ForeName>Jeremy</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lotan</LastName>
+<ForeName>Chaim</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matot</LastName>
+<ForeName>Idit</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Curr Opin Anaesthesiol</MedlineTA>
+<NlmUniqueID>8813436</NlmUniqueID>
+<ISSNLinking>0952-7907</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>9</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16534335</ArticleId>
+<ArticleId IdType="doi">10.1097/01.aco.0000162837.79215.a7</ArticleId>
+<ArticleId IdType="pii">00001503-200504000-00012</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

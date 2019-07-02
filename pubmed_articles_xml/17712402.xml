@@ -1,0 +1,501 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17712402</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>03</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1932-6203</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>2</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Aug</Month>
+<Day>22</Day>
+</PubDate>
+</JournalIssue>
+<Title>PloS one</Title>
+<ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Cellular immune responses induced with dose-sparing intradermal administration of HIV vaccine to HIV-uninfected volunteers in the ANRS VAC16 trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e725</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective was to compare the safety and cellular immunogenicity of intradermal versus intramuscular immunization with an HIV-lipopeptide candidate vaccine (LIPO-4) in healthy volunteers.</AbstractText>
+<AbstractText Label="METHODOLOGY" NlmCategory="METHODS">A randomized, open-label trial with 24 weeks of follow-up was conducted in France at six HIV-vaccine trial sites. Sixty-eight healthy 21- to 55-year-old HIV-uninfected subjects were randomized to receive the LIPO-4 vaccine (four HIV lipopeptides linked to a T-helper-stimulating epitope of tetanus-toxin protein) at weeks 0, 4 and 12, either intradermally (0.1 ml, 100 microg of each peptide) or intramuscularly (0.5 ml, 500 microg of each peptide). Comparative safety of both routes was evaluated. CD8+ T-cell immune responses to HIV epitopes (ELISpot interferon-gamma assay) and tetanus toxin-specific CD4+ T-cell responses (lymphoproliferation) were assessed at baseline, two weeks after each injection, and at week 24.</AbstractText>
+<AbstractText Label="RESULTS AND CONCLUSION" NlmCategory="CONCLUSIONS">No severe, serious or life-threatening adverse events were observed. Local pain was significantly more frequent after intramuscular injection, but local inflammatory reactions were more frequent after intradermal immunization. At weeks 2, 6, 14 and 24, the respective cumulative percentages of induced CD8+ T-cell responses to at least one HIV peptide were 9, 33, 39 and 52 (intradermal group) or 14, 20, 26 and 37 (intramuscular group), and induced tetanus toxin-specific CD4+ T-cell responses were 6, 27, 33 and 39 (intradermal), or 9, 46, 54 and 63 (intramuscular). In conclusion, intradermal LIPO-4 immunization was well tolerated, required one-fifth of the intramuscular dose, and induced similar HIV-specific CD8+ T-cell responses. Moreover, the immunization route influenced which antigen-specific T-cells (CD4+ or CD8+) were induced.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov NCT00121121.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Launay</LastName>
+<ForeName>Odile</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Université Paris Descartes, Faculté de Médecine, Paris, France. odile.launay@cch.aphp.fr</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Durier</LastName>
+<ForeName>Christine</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Desaint</LastName>
+<ForeName>Corinne</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Silbermann</LastName>
+<ForeName>Benjamin</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jackson</LastName>
+<ForeName>Angela</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pialoux</LastName>
+<ForeName>Gilles</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bonnet</LastName>
+<ForeName>Bénédicte</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Poizot-Martin</LastName>
+<ForeName>Isabelle</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gonzalez-Canali</LastName>
+<ForeName>Gustavo</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cuzin</LastName>
+<ForeName>Lise</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Figuereido</LastName>
+<ForeName>Suzanne</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Surenaud</LastName>
+<ForeName>Mathieu</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ben Hamouda</LastName>
+<ForeName>Nadine</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gahery</LastName>
+<ForeName>Hanne</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Choppin</LastName>
+<ForeName>Jeannine</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salmon</LastName>
+<ForeName>Dominique</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guérin</LastName>
+<ForeName>Corinne</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bourgault Villada</LastName>
+<ForeName>Isabelle</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guillet</LastName>
+<ForeName>Jean-Gérard</ForeName>
+<Initials>JG</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>ANRS VAC16 Study Group</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00121121</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>08</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>PLoS One</MedlineTA>
+<NlmUniqueID>101285081</NlmUniqueID>
+<ISSNLinking>1932-6203</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016915">AIDS Vaccines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010455">Peptides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014764">Viral Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016915">AIDS Vaccines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015496">CD4-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018414">CD8-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007111">Immunity, Cellular</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007271">Injections, Intradermal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007273">Injections, Intramuscular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010455">Peptides</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014764">Viral Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<GeneralNote Owner="NLM">Original DateCompleted: 20070828</GeneralNote>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2007</Year>
+<Month>06</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2007</Year>
+<Month>06</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17712402</ArticleId>
+<ArticleId IdType="doi">10.1371/journal.pone.0000725</ArticleId>
+<ArticleId IdType="pmc">PMC1942115</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Clin Invest. 1995 Jan;95(1):341-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7814635</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2005 Feb 18;19(3):279-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15718838</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 Nov 25;351(22):2295-301</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15525714</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1989 Nov 30;342(6249):561-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2586628</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Res Hum Retroviruses. 2006 Jul;22(7):684-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16831093</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2003 Oct;77(20):11220-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14512570</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Vaccine Immunol. 2014 Nov;21(11):1589-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25253665</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 1992 Mar;14(3):697-707</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1532914</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2000 Feb;31(2):521-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10655280</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 1999 May;73(5):4447-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10196344</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Vaccine. 1995 Oct;13(14):1339-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8585291</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2001 Oct 15;167(8):4729-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11591804</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1985 Dec 13;254(22):3203-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2933535</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Aug 25;353(8):753-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16120854</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunol Lett. 2001 Nov 1;79(1-2):97-100</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11595295</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bull World Health Organ. 2000;78(5):693-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10859864</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mem Inst Oswaldo Cruz. 2005 Feb;100(1):79-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15867969</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2004 Apr;10(4):406-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15034567</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 Nov 25;351(22):2286-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15525713</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2001 Jul 6;15(10):1239-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11426068</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2006 Apr 24;20(7):1039-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16603857</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Immunol. 1997 May;27(5):1242-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9174617</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1997 Aug 1;159(3):1383-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9233635</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2005 Dec;79(24):15289-301</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16306600</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Immunol. 2004 Nov;34(11):3102-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15368273</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Immunol. 2000 Nov;30(11):3256-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11093141</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEMS Immunol Med Microbiol. 2005 Mar 1;43(3):357-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15708309</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Vaccine. 1999 Sep;18(3-4):259-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10506650</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2000 Feb;74(4):1694-703</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10644339</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1992 Nov 15;149(10):3416-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1385524</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2002 Mar 10;98(2):221-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11857412</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Infect Dis. 2002 Jul;2(7):425-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12127354</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2005 Nov 1;175(9):5675-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16237057</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1994 Mar 1;152(5):2530-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8133061</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

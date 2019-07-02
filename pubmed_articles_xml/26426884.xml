@@ -1,0 +1,523 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26426884</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>12</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1530-0366</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>18</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>06</Month>
+</PubDate>
+</JournalIssue>
+<Title>Genetics in medicine : official journal of the American College of Medical Genetics</Title>
+<ISOAbbreviation>Genet. Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Cesarean delivery is not associated with decreased at-birth fracture rates in osteogenesis imperfecta.</ArticleTitle>
+<Pagination>
+<MedlinePgn>570-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/gim.2015.131</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE">Osteogenesis imperfecta (OI) predisposes to recurrent fractures. Patients with the moderate to severe forms of OI present with antenatal fractures, and the mode of delivery that would be safest for the fetus is not known.</AbstractText>
+<AbstractText Label="METHODS">We conducted systematic analyses of the largest cohort of individuals with OI (n = 540) enrolled to date in the OI Linked Clinical Research Centers. Self-reported at-birth fracture rates were compared among individuals with OI types I, III, and IV. Multivariate analyses utilizing backward-elimination logistic regression model building were performed to assess the effect of multiple covariates, including method of delivery, on fracture-related outcomes.</AbstractText>
+<AbstractText Label="RESULTS">When accounting for other covariates, at-birth fracture rates did not differ based on whether delivery was by vaginal route or by cesarean delivery (CD). Increased birth weight conferred higher risk for fractures irrespective of the delivery method. In utero fracture, maternal history of OI, and breech presentation were strong predictors for choosing CD.</AbstractText>
+<AbstractText Label="CONCLUSION">Our study, the largest to analyze the effect of various factors on at-birth fracture rates in OI, shows that CD is not associated with decreased fracture rate. With the limitation that the fracture data were self-reported in this cohort, these results suggest that CD should be performed only for other maternal or fetal indications, not for the sole purpose of fracture prevention in OI.Genet Med 18 6, 570-576.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bellur</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jain</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cuthbertson</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>College of Medicine, University of South Florida, Tampa, Florida, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krakow</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Orthopedic Surgery, University of California, Los Angeles, California, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Human Genetics, University of California, Los Angeles, California, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, University of California, Los Angeles, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shapiro</LastName>
+<ForeName>J R</ForeName>
+<Initials>JR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Bone and Osteogenesis Imperfecta, Kennedy Krieger Institute, Baltimore, Maryland, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Steiner</LastName>
+<ForeName>R D</ForeName>
+<Initials>RD</Initials>
+<Identifier Source="ORCID">0000-0003-4177-4590</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Oregon Health &amp; Science University, Portland, Oregon, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Molecular and Medical Genetics, Oregon Health &amp; Science University, Portland, Oregon, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Marshfield Clinic Research Foundation and University of Wisconsin, Marshfield and Madison, Wisconsin, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>P A</ForeName>
+<Initials>PA</Initials>
+<AffiliationInfo>
+<Affiliation>Shriners Hospitals for Children, Chicago, Illinois, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bober</LastName>
+<ForeName>M B</ForeName>
+<Initials>MB</Initials>
+<Identifier Source="ORCID">0000-0002-6178-1264</Identifier>
+<AffiliationInfo>
+<Affiliation>Division of Medical Genetics, Alfred I. DuPont Hospital for Children, Wilmington, Delaware, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hart</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Osteogenesis Imperfecta Foundation, Gaithersburg, Maryland, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krischer</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>College of Medicine, University of South Florida, Tampa, Florida, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mullins</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Byers</LastName>
+<ForeName>P H</ForeName>
+<Initials>PH</Initials>
+<Identifier Source="ORCID">0000-0001-7786-7030</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Division of Medical Genetics, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pathology, Division of Medical Genetics, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pepin</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<Identifier Source="ORCID">0000-0001-6299-2971</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Division of Medical Genetics, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pathology, Division of Medical Genetics, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Durigova</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Orthopedic Surgery, Shriners Hospital for Children and McGill University, Montreal, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Glorieux</LastName>
+<ForeName>F H</ForeName>
+<Initials>FH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Orthopedic Surgery, Shriners Hospital for Children and McGill University, Montreal, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rauch</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Orthopedic Surgery, Shriners Hospital for Children and McGill University, Montreal, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sutton</LastName>
+<ForeName>V R</ForeName>
+<Initials>VR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Texas Children's Hospital, Houston, Texas, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Texas Children's Hospital, Houston, Texas, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>Members of the BBD Consortium</CollectiveName>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nagamani</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Texas Children's Hospital, Houston, Texas, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>2013095</GrantID>
+<Acronym>DDCF</Acronym>
+<Agency>Doris Duke Charitable Foundation</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>T32 GM007526</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U54 AR068069</GrantID>
+<Acronym>AR</Acronym>
+<Agency>NIAMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U54 HD083092</GrantID>
+<Acronym>HD</Acronym>
+<Agency>NICHD NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>01</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Genet Med</MedlineTA>
+<NlmUniqueID>9815831</NlmUniqueID>
+<ISSNLinking>1098-3600</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001724">Birth Weight</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002585">Cesarean Section</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050723">Fractures, Bone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010013">Osteogenesis Imperfecta</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011296">Prenatal Diagnosis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>02</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>12</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26426884</ArticleId>
+<ArticleId IdType="pii">gim2015131</ArticleId>
+<ArticleId IdType="doi">10.1038/gim.2015.131</ArticleId>
+<ArticleId IdType="pmc">PMC4818203</ArticleId>
+<ArticleId IdType="mid">NIHMS720024</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Genet Med. 2006 Jun;8(6):383-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16778601</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Obstet Gynaecol Br Emp. 1945;52:417-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21003500</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prenat Diagn. 2006 Apr;26(4):394</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16566045</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2004 Apr 24;363(9418):1377-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15110498</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2013 Aug;98(8):3095-103</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23771926</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesth Analg. 2002 May;94(5):1315-7, table of contents</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11973211</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obstet Gynecol Surv. 2001 Sep;56(9):563-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11524621</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Genet. 2015 Apr;87(4):330-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24863959</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genet Med. 2009 Feb;11(2):127-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19265753</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Genet. 2015 Feb;87(2):133-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24754836</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bull World Health Organ. 2010 Jan;88(1):31-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20428351</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obstet Gynecol. 1975 Feb;45(2):168-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">163994</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Pediatr. 1988;35:391-426</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3055864</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Genet. 1979 Apr;16(2):101-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">458828</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chin Med J (Engl). 2012 Apr;125(7):1358-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22613617</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gynecol Obstet. 1999 Nov;263(1-2):51-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10728630</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obstet Gynecol. 2001 Jan;97(1):66-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11152910</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ultrasound Obstet Gynecol. 2009 Aug;34(2):160-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19548204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Obstet Gynaecol. 2002 May;22(3):316</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12521511</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Public Health Nations Health. 1965 May;55:708-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14287842</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obstet Gynecol. 1983 Jun;61(6):715-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6843930</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fetal Pediatr Pathol. 2015 Feb;34(1):57-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25289482</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pediatr. 1975 Mar;86(3):419-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1113232</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Genet A. 2008 Aug 1;146A(15):1917-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18627037</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prenat Diagn. 1997 Jun;17(6):559-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9203215</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Hum Genet. 2015 Aug;23(8):1042-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25944380</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obstet Gynecol. 2002 Jul;100(1):115-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12100812</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

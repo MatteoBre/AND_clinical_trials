@@ -1,0 +1,436 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17576511</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>05</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0300-9564</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>114</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2007</Year>
+</PubDate>
+</JournalIssue>
+<Title>Journal of neural transmission (Vienna, Austria : 1996)</Title>
+<ISOAbbreviation>J Neural Transm (Vienna)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Localization of D1a dopamine receptors on cell bodies and axonal endings in the substantia nigra pars reticulata of the rat.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1509-17</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In the present study, we analyzed the localization of D1a receptors within the rat substantia nigra pars reticulata (SNr) using specific D1a immunochemistry at the ultrastructural level and RT-PCR. At the electron microscopic level, D1a receptors were strongly associated with axons and axonal endings in the SNr, but also with numerous glutamic acid decarboxylase-positive dendrites and neuronal cell bodies. This neuronal expression of D1a receptors was confirmed using RT-PCR. G(alphaolf) protein-specific immunostaining displayed a similar distribution in dendrites and cell bodies to that of D1a receptors. The localization of D1a receptors in both GABAergic cell bodies and terminals is in accordance with the well known complex action of dopamine in the SNr. Moreover, the intracytoplasmic localization of D1a receptors in cell bodies and dendrites that we observed suggests that these receptors are only effective in specific conditions, or are transported to different nigral targets where they may have a presynaptic function.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Jan</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>INSERM UMR 679, Neurology and Experimental Therapeutics, Paris, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Muriel</LastName>
+<ForeName>M-P</ForeName>
+<Initials>MP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rolland</LastName>
+<ForeName>A-S</ForeName>
+<Initials>AS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hirsch</LastName>
+<ForeName>E C</ForeName>
+<Initials>EC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>François</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>06</Month>
+<Day>18</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Austria</Country>
+<MedlineTA>J Neural Transm (Vienna)</MedlineTA>
+<NlmUniqueID>9702341</NlmUniqueID>
+<ISSNLinking>0300-9564</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011954">Receptors, Dopamine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003712">Dendrites</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000648">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015151">Immunoblotting</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007150">Immunohistochemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D046529">Microscopy, Electron, Transmission</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009411">Nerve Endings</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000648">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009474">Neurons</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000648">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011954">Receptors, Dopamine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000648">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020133">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013378">Substantia Nigra</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000648">ultrastructure</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2007</Year>
+<Month>01</Month>
+<Day>07</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2007</Year>
+<Month>05</Month>
+<Day>28</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>6</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>5</Month>
+<Day>29</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>6</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17576511</ArticleId>
+<ArticleId IdType="doi">10.1007/s00702-007-0775-8</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Eur J Neurosci. 2002 Jan;15(1):133-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11860513</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comp Neurol. 2000 May 29;421(2):247-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10813785</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1991 May 15;88(10):4205-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1827915</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 1986 Jun 11;375(2):291-301</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2942221</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 1992;46(4):959-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1531866</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1993 Nov 25;366(6453):344-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8247128</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1993 Oct 1;90(19):8861-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8415621</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 1994 Jul;14(7):4494-506</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7913124</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1992 Dec 15;89(24):11988-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1281547</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 2002 Jan;159(3):229-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11862355</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 1988 Dec;27(3):851-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3150855</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2003 Jun 15;23(12):5247-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12832549</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Life Sci. 1986 Jul 28;39(4):321-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3526066</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 1995 Dec;15(12):7821-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8613722</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 1996 Aug 19;730(1-2):17-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8883884</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Neurosci. 2000 Mar;3(3):226-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10700253</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chem Neuroanat. 1989 May-Jun;2(3):119-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2528968</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 1988 Jul;26(1):101-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2901690</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuropsychopharmacology. 2001 Oct;25(4):514-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11557165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neural Transm Gen Sect. 1990;80(2):105-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2138461</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Pharmacol. 1989 Oct;36(4):566-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2682204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1991 May 1;88(9):3772-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2023928</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 1990 Apr 9;513(1):125-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2140951</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Neuropsychopharmacol Biol Psychiatry. 1995 Sep;19(5):727-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8539416</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Pharmacol. 1986 Jan 14;120(1):87-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2868905</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 2000;100(4):689-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11036203</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1990 Sep 6;347(6288):76-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2168520</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 1990 Oct 1;528(2):317-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2148707</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 1995 Apr;65(3):709-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7609871</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 1979 Oct 19;175(2):191-217</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">314832</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res Mol Brain Res. 2001 Mar 5;87(2):271-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11245931</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 1997 Oct;80(3):803-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9276495</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 1993 May;13(5):2237-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8478697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1990 Jan;87(1):230-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2296581</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 1989 Jan 30;478(2):375-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2924136</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chem Neuroanat. 2000 Feb;18(1-2):1-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10708914</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comp Neurol. 2000 Feb 28;418(1):22-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10701753</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1990 Dec 7;250(4986):1429-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2147780</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2000 Aug 15;20(16):RC91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10924528</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Pharmacol. 1995 Apr;47(4):666-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7723728</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1980 May 22;285(5762):240-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7374778</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

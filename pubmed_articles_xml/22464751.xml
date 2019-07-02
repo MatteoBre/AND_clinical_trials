@@ -1,0 +1,696 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22464751</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>09</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1872-8332</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>77</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Lung cancer (Amsterdam, Netherlands)</Title>
+<ISOAbbreviation>Lung Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>SNPs in PTGS2 and LTA predict pain and quality of life in long term lung cancer survivors.</ArticleTitle>
+<Pagination>
+<MedlinePgn>217-23</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.lungcan.2012.02.017</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Lung cancer survivors report the lowest quality of life relative to other cancer survivors. Pain is one of the most devastating, persistent, and incapacitating symptoms for lung cancer survivors. Prevalence rates vary with 80-100% of survivors experiencing cancer pain and healthcare costs are five times higher in cancer survivors with uncontrolled pain. Cancer pain often has a considerable impact on quality of life among cancer patients and cancer survivors. Therefore, early identification, and treatment is important. Although recent studies have suggested a relationship between single nucleotide polymorphisms (SNPs) in several cytokine and inflammation genes with cancer prognosis, associations with cancer pain are not clear. Therefore, the primary aim of this study was to identify SNPs related to pain in lung cancer survivors.</AbstractText>
+<AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Participants were enrolled in the Mayo Clinic Lung Cancer Cohort upon diagnosis of their lung cancer. 1149 Caucasian lung cancer survivors (440 surviving &lt;3 years; 354 surviving 3-5 years; and 355 surviving &gt;5 years) completed study questionnaires and had blood DNA samples available. Ten SNPS from PTGS2 and LTA genes were selected based on the serum-based studies in the literature. Outcomes included pain, and quality of life as measured by the SF-8.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 10 SNPs evaluated in LTA and PTGS2 genes, 3 were associated with pain severity (rs5277; rs1799964), social function (rs5277) and mental health (rs5275). These results suggested both specificity and consistency of these inflammatory gene SNPs in predicting pain severity in lung cancer survivors.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">These results provide support for genetic predisposition to pain severity and may aid in identification of lung cancer survivors at high risk for morbidity and poor QOL.</AbstractText>
+<CopyrightInformation>Copyright © 2012 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rausch</LastName>
+<ForeName>Sarah M</ForeName>
+<Initials>SM</Initials>
+<AffiliationInfo>
+<Affiliation>Moffitt Cancer Center and Research Institute, 12902 Magnolia Drive, Tampa, FL 33612, United States. sarah.rausch@moffitt.org</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gonzalez</LastName>
+<ForeName>Brian D</ForeName>
+<Initials>BD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clark</LastName>
+<ForeName>Matthew M</ForeName>
+<Initials>MM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Patten</LastName>
+<ForeName>Christi</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Felten</LastName>
+<ForeName>Sara</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Heshan</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Yafei</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sloan</LastName>
+<ForeName>Jeff</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Ping</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 CA084354</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 CA115857</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5R01CA084354</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5R01CA115857</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>03</Month>
+<Day>29</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Ireland</Country>
+<MedlineTA>Lung Cancer</MedlineTA>
+<NlmUniqueID>8800805</NlmUniqueID>
+<ISSNLinking>0169-5002</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008233">Lymphotoxin-alpha</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.99.1</RegistryNumber>
+<NameOfSubstance UI="D051546">Cyclooxygenase 2</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.99.1</RegistryNumber>
+<NameOfSubstance UI="C496540">PTGS2 protein, human</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051546">Cyclooxygenase 2</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005787">Gene Frequency</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056726">Genetic Association Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016014">Linear Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015810">Linkage Disequilibrium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008233">Lymphotoxin-alpha</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015999">Multivariate Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010146">Pain</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011788">Quality of Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017422">Sequence Analysis, DNA</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017741">Survivors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>06</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2012</Year>
+<Month>01</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>02</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>4</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>4</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22464751</ArticleId>
+<ArticleId IdType="pii">S0169-5002(12)00077-3</ArticleId>
+<ArticleId IdType="doi">10.1016/j.lungcan.2012.02.017</ArticleId>
+<ArticleId IdType="pmc">PMC4314090</ArticleId>
+<ArticleId IdType="mid">NIHMS367148</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Pain. 2001 Sep;93(3):247-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11514084</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuroinflammation. 2010;7:27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20398373</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Integr Cancer Ther. 2010 Sep;9(3):270-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20702499</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2004 Feb;125(2):439-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14769722</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mutat Res. 2007 Apr 1;617(1-2):138-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17307204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Pharmacol. 1991 Nov;104(3):765-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1797337</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 1999 Nov 1;86(9):1848-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10547560</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2005 Jul;128(1):452-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16002972</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Oncol. 2008 Jun;3(6):604-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18520798</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1999 May 15;162(10):5965-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10229834</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain Symptom Manage. 2002 Mar;23(3):190-200</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11888717</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastroenterol. 2009;44(7):774-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19455278</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2009 Oct;18(10):2726-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19755647</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cancer Surviv. 2007 Jun;1(2):167-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18648958</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Oncol. 2012 Jan;7(1):64-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22134070</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2004 May 1;103(9):3529-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14701701</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Causes Control. 2010 Oct;21(10):1731-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20559705</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2005 Jul 15;62(4):1140-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15990020</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2008 May 7;28(19):5072-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18463260</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychol Rev. 1998 Jan;105(1):83-107</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9450372</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 2010 Mar;209(1):155-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19748095</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Support Oncol. 2007 Jan;5(1):41-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17265786</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Rev Oncol Hematol. 2011 May;78(2):127-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20403706</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2007 Dec;16(12):2745-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18086782</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain Symptom Manage. 2006 Mar;31(3):199-206</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16563314</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2005 Jun;14(6):1477-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15941959</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2006 May 1;12(9):2759-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16675568</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Lett. 2003 Mar 10;191(2):125-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12618325</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychooncology. 2007 May;16(5):499-501</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17094069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Adv Hematol Oncol. 2004 Aug;2(8):533-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16163227</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mayo Clin Proc. 2004 Aug;79(8):1024-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15301330</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 1998 Jan 1;160(1):485-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9552007</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Cancer. 2008 Nov;8(11):887-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18846100</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Cancer. 2002 Mar;2(3):201-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11990856</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2005 Jul 1;11(13):4749-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16000570</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2010 Sep 1;116(17):4103-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20564140</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2006 May 27;367(9524):1747-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16731270</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2008 Apr 1;14(7):2236-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18381966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain. 2002 Feb;3(1):38-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14622852</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Support Care Cancer. 2009 May;17(5):539-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18931862</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Clin Lab Sci. 2008 Spring;38(2):113-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18469355</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Biol. 2003 Feb;79(2):137-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12569017</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain Med. 2007 Mar;8(2):189-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17305690</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Psychosoc Oncol. 2008;26(4):15-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19042270</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2006 Jun 21;295(23):2742-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16754728</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst Monogr. 2004;(32):9-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15263035</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Psychiatry. 2001 Aug;158(8):1252-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11481159</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Health Psychol. 2002 Sep;7(Part 3):331-344</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12614504</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Chemother Pharmacol. 2009 Oct;64(5):953-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19219602</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 2000 Apr;156(4):1133-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10751336</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2011 May 1;117(9):1994-2003</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21509777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med. 2004 Mar 1;116(5):318-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14984817</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Genet Cytogenet. 2007 Jul 1;176(1):54-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17574964</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Behav Med. 2007 Feb;33(1):90-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17291174</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 2001 Apr;91(3):339-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11275392</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Behav Immun. 2010 Aug;24(6):968-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20353817</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2006 Jan;7(1):27-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16389181</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2007 Jan;137(1 Suppl):194S-199S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17182825</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Spine J. 2002 Feb;11(1):62-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11931066</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Qual Life Res. 2007 Feb;16(1):53-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17091368</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 1997 Oct 15;80(8):1489-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9338474</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Head Neck. 2000 Mar;22(2):175-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10679906</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem Biophys Res Commun. 2002 Sep 27;297(3):558-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12270131</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2006 Apr;129(4):1088-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16608961</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2006 Mar 1;64(3):776-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16338099</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pancreas. 2010 Apr;39(3):371-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19820421</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Neurosci. 2006 Oct;7(10):797-809</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16988655</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Atheroscler Thromb. 2001;8(1):30-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11686313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 1995 Sep 18;692(1-2):244-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8548310</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2009 Oct;18(10):2636-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19773451</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2010 Jul;122(1):251-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20033767</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

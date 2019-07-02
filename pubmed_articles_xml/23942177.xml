@@ -1,0 +1,317 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23942177</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>04</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-5640</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>67</Volume>
+<Issue>10</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>European journal of clinical nutrition</Title>
+<ISOAbbreviation>Eur J Clin Nutr</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Nutrient intake in the GEICO multicenter trial: the effects of a multicomponent worksite intervention.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1066-71</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/ejcn.2013.149</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND/OBJECTIVES" NlmCategory="OBJECTIVE">To assess the effects on macro- and micronutrient intake of a nutrition intervention program in corporate settings across the United States.</AbstractText>
+<AbstractText Label="SUBJECTS/METHODS" NlmCategory="METHODS">Two hundred and ninety-two individuals who were overweight or had type 2 diabetes were recruited from 10 sites of a US insurance company. Two hundred and seventy-one participants completed baseline diet recalls, and 183 participants completed dietary recalls at 18 weeks. Sites were randomly assigned to an intervention group (five sites) or to a control group (five sites) for 18 weeks. At intervention sites, participants were asked to follow a low-fat vegan diet and attend weekly group meetings. At control sites, participants continued their usual diets. At baseline and 18 weeks, participants completed 2-day diet recalls. Between-group differences in changes in nutrient intake were assessed using an analysis of covariance.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Compared with those in the control group, intervention-group participants significantly reduced the reported intake of total fat (P=0.02), saturated (P=0.006) and monounsaturated fats (P=0.01), cholesterol (P=0.009), protein (P=0.03) and calcium (P=0.02), and increased the intake of carbohydrate (P=0.006), fiber (P=0.002), β-carotene (P=0.01), vitamin C (P=0.003), magnesium (P=0.04) and potassium (P=0.002).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">An 18-week intervention program in a corporate setting reduces intake of total fat, saturated fat and cholesterol and increases the intake of protective nutrients, particularly fiber, β-carotene, vitamin C, magnesium and potassium. The reduction in calcium intake indicates the need for planning for this nutrient.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mishra</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Research, Physicians Committee for Responsible Medicine, Washington, DC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barnard</LastName>
+<ForeName>N D</ForeName>
+<Initials>ND</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gonzales</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xu</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Agarwal</LastName>
+<ForeName>U</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Levin</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>14</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Eur J Clin Nutr</MedlineTA>
+<NlmUniqueID>8804070</NlmUniqueID>
+<ISSNLinking>0954-3007</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018977">Micronutrients</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015930">Diet Records</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014676">Diet, Vegetarian</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002149">Energy Intake</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005247">Feeding Behavior</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015438">Health Behavior</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006293">Health Promotion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011939">Mental Recall</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018977">Micronutrients</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009786">Occupational Health Services</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017132">Workplace</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>06</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>8</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>8</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>4</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23942177</ArticleId>
+<ArticleId IdType="pii">ejcn2013149</ArticleId>
+<ArticleId IdType="doi">10.1038/ejcn.2013.149</ArticleId>
+<ArticleId IdType="pmc">PMC3790252</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Prev Med. 2002 May;34(5):493-501</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11969348</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2002 Nov;102(11):1621-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12449285</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Can J Diet Pract Res. 2010 Winter;71(4):199-204</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21144137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Health Promot. 2010 Jul-Aug;24(6):384-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20594095</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2009 Oct 1;104(7):947-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19766762</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Clin Nutr. 2013 Jul;67(7):718-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23695207</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2012 Feb 1;307(5):491-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22253363</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2011 Aug 24;306(8):831-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21862744</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2003 Mar;133 Suppl 3:895S-920S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12612176</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutrition. 2004 Sep;20(9):738-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15325679</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1998 Dec 16;280(23):2001-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9863851</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 1999 Jan;69(1):30-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9925120</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Rev. 2005 Jan;63(1):1-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15730229</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Urol. 2005 Sep;174(3):1065-9; discussion 1069-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16094059</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocr Pract. 2006 Jan-Feb;12 Suppl 1:20-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16627375</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Rev. 2006 Apr;64(4):175-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16673753</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Rev. 2007 Sep;65(9):391-403</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17958206</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2008 Oct;108(10):1636-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18926128</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Urology. 2008 Dec;72(6):1319-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18602144</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2009 May;89(5):1588S-1596S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19339401</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

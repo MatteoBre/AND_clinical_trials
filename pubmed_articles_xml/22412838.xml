@@ -1,0 +1,368 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22412838</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>08</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1932-6203</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>7</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2012</Year>
+</PubDate>
+</JournalIssue>
+<Title>PloS one</Title>
+<ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Kinetics of proton transport into influenza virions by the viral M2 channel.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e31566</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0031566</ELocationID>
+<Abstract>
+<AbstractText>M2 protein of influenza A viruses is a tetrameric transmembrane proton channel, which has essential functions both early and late in the virus infectious cycle. Previous studies of proton transport by M2 have been limited to measurements outside the context of the virus particle. We have developed an in vitro fluorescence-based assay to monitor internal acidification of individual virions triggered to undergo membrane fusion. We show that rimantadine, an inhibitor of M2 proton conductance, blocks the acidification-dependent dissipation of fluorescence from a pH-sensitive virus-content probe. Fusion-pore formation usually follows internal acidification but does not require it. The rate of internal virion acidification increases with external proton concentration and saturates with a pK(m) of ∼4.7. The rate of proton transport through a single, fully protonated M2 channel is approximately 100 to 400 protons per second. The saturating proton-concentration dependence and the low rate of internal virion acidification derived from authentic virions support a transporter model for the mechanism of proton transfer.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ivanovic</LastName>
+<ForeName>Tijana</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, Massachusetts, United States of America.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rozendaal</LastName>
+<ForeName>Rutger</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Floyd</LastName>
+<ForeName>Daniel L</ForeName>
+<Initials>DL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Popovic</LastName>
+<ForeName>Milos</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Oijen</LastName>
+<ForeName>Antoine M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harrison</LastName>
+<ForeName>Stephen C</ForeName>
+<Initials>SC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>U54AI057159</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U54 AI057159</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R21AI72346</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R21 AI072346</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Howard Hughes Medical Institute</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>03</Month>
+<Day>06</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>PLoS One</MedlineTA>
+<NlmUniqueID>101285081</NlmUniqueID>
+<ISSNLinking>1932-6203</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000998">Antiviral Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C488937">M2 protein, Influenza A virus</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011522">Protons</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014763">Viral Matrix Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0T2EF4JQTU</RegistryNumber>
+<NameOfSubstance UI="D012299">Rimantadine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>TPY09G7XIR</RegistryNumber>
+<NameOfSubstance UI="D019793">Fluorescein</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000998">Antiviral Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019793">Fluorescein</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006863">Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009980">Influenza A virus</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017136">Ion Transport</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007700">Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011522">Protons</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012299">Rimantadine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014763">Viral Matrix Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014771">Virion</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053586">Virus Internalization</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>10</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>01</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>3</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>3</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22412838</ArticleId>
+<ArticleId IdType="doi">10.1371/journal.pone.0031566</ArticleId>
+<ArticleId IdType="pii">PONE-D-11-20189</ArticleId>
+<ArticleId IdType="pmc">PMC3295812</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Virol. 2000 Jan;74(1):156-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10590102</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Chem Soc. 2010 Dec 22;132(50):17695-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21090748</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Virology. 1971 May;44(2):396-408</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4998414</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Virol. 1975;49(4):365-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1212101</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 1988 Aug;62(8):2762-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2455818</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO J. 1990 Nov;9(11):3469-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2209554</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Virology. 1991 Feb;180(2):617-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1989386</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Virology. 1991 Jul;183(1):32-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2053285</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 1991 Oct 4;67(1):117-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1913813</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Virology. 1993 Aug;195(2):808-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8337846</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Virol. 1994 Apr;75 ( Pt 4):945-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8151308</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biophys J. 1995 Oct;69(4):1363-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8534806</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1999 Aug 3;96(16):9345-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10430945</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2006 May 2;103(18):6865-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16632600</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biophys J. 2007 Nov 15;93(10):3470-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17693473</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods Mol Biol. 2008;436:47-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18370040</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2008 Oct 7;105(40):15382-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18829437</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2009 Jan 27;106(4):1069-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19144924</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2010 Sep 17;142(6):902-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20850012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2010 Oct 22;330(6003):505-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20966251</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2010 Oct 22;330(6003):509-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20966252</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2003 Dec 9;100(25):14610-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14561897</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,126 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19226010</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>04</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1938-2367</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>31</Volume>
+<Issue>10</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Orthopedics</Title>
+<ISOAbbreviation>Orthopedics</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Use of larger femoral heads in revision total hip arthroplasty: will this solve dislocation?</ArticleTitle>
+<ELocationID EIdType="pii" ValidYN="Y">orthosupersite.com/view.asp?rID=32076</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Blumenfeld</LastName>
+<ForeName>Thomas J</ForeName>
+<Initials>TJ</Initials>
+<AffiliationInfo>
+<Affiliation>Sutter General Hospital, UC Davis, 1020 29th St, Ste 450, Sacramento, CA 95816, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bargar</LastName>
+<ForeName>William L</ForeName>
+<Initials>WL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D023362">Evaluation Studies</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Orthopedics</MedlineTA>
+<NlmUniqueID>7806107</NlmUniqueID>
+<ISSNLinking>0147-7447</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003198">Computer Simulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017076">Computer-Aided Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019544">Equipment Failure Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005270">Femur Head</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006622">Hip Prosthesis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004204">Joint Dislocations</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008954">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011474">Prosthesis Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011475">Prosthesis Failure</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>2</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>2</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>7</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19226010</ArticleId>
+<ArticleId IdType="pii">orthopedics.32076</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

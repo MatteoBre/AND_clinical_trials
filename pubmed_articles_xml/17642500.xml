@@ -1,0 +1,178 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17642500</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>08</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>04</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0971-5916</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>125</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Indian journal of medical research</Title>
+<ISOAbbreviation>Indian J. Med. Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Prices &amp; availability of common medicines at six sites in India using a standard methodology.</ArticleTitle>
+<Pagination>
+<MedlinePgn>645-54</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND &amp; OBJECTIVE" NlmCategory="OBJECTIVE">The price and availability of medicines are key components in determining access to effective treatment. Data on prices and availability of common medicines in public and private sector in different States of India are scarce. Hence, surveys were undertaken in different States of India to evaluate these metrics.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">During October 2004 to January 2005, six surveys were undertaken simultaneously in five States of India to assess medicine prices and availability of essential medicines (n = 21-28) using the World Health Organization and Health Action International methodology. Surveys were conducted at Chennai, Haryana, Karnataka, West Bengal, and at two sites in Maharashtra. For each medicine, data were collected for the Innovator Brand (IB), Most Sold Generic (MSG), and Lowest Priced Generic (LPG) at randomly selected public and private facilities in each site surveyed. Prices were compared to an international reference benchmark (expressed as median price ratio - MPR).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The procurement price of medicines in the public sector was 0.27 to 0.48 times the international reference price. However, these medicines were inadequately available and the median availability in the public sector ranged from 0 to 30 per cent. The median prices of medicines in the private sector were less than twice the IRP, although a few innovator brands were more expensive. No difference was observed between the prices of the most sold generic (MSG) and the lowest priced generic (LPG) available at the facilities. Interestingly, price variation was observed among different generic equivalents of ciprofloxacin in each region. The price of LPG diazepam in the private sector was thirty three times its procurement price in the public sector.</AbstractText>
+<AbstractText Label="INTERPRETATION &amp; CONCLUSION" NlmCategory="CONCLUSIONS">The survey revealed low procurement prices and poor availability in the public sector. Thus, the majority of the population purchased medicines from private pharmacies, where generics were usually available although prices of certain medicines were high. Various policy measures could increase the availability and accessibility of medicines for the population.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kotwani</LastName>
+<ForeName>Anita</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pharmacology, Vallabhbhai Patel Chest Institute, University of Delhi, India. anitakotwani@yahoo.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ewen</LastName>
+<ForeName>Margaret</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dey</LastName>
+<ForeName>Dalia</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Iyer</LastName>
+<ForeName>Shobha</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lakshmi</LastName>
+<ForeName>P K</ForeName>
+<Initials>PK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Patel</LastName>
+<ForeName>Archana</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Raman</LastName>
+<ForeName>Kannamma</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Singhal</LastName>
+<ForeName>G L</ForeName>
+<Initials>GL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thawani</LastName>
+<ForeName>Vijay</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tripathi</LastName>
+<ForeName>Santanu</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Laing</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>India</Country>
+<MedlineTA>Indian J Med Res</MedlineTA>
+<NlmUniqueID>0374701</NlmUniqueID>
+<ISSNLinking>0971-5916</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018954">Drugs, Essential</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Indian J Med Res. 2008 Jan;127(1):93; author reply 94</RefSource>
+<PMID Version="1">18316861</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016527">Drug Costs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018954">Drugs, Essential</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000600">supply &amp; distribution</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006297">Health Services Accessibility</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D007194">India</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017149">Private Sector</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017150">Public Sector</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>7</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>31</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>7</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17642500</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

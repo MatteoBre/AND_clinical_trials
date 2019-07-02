@@ -1,0 +1,137 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19122123</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>04</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1545-7206</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>49</Volume>
+<Issue>6</Issue>
+<PubDate>
+<MedlineDate>2008 Nov-Dec</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Psychosomatics</Title>
+<ISOAbbreviation>Psychosomatics</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Customizing treatment of chronic fatigue syndrome and fibromyalgia: the role of perpetuating factors.</ArticleTitle>
+<Pagination>
+<MedlinePgn>470-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1176/appi.psy.49.6.470</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Syndromes characterized by chronic, medically unexplained fatigue, effort- and stress-intolerance, and widespread pain are highly prevalent in medicine.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">In chronic fatigue syndrome (CFS) and fibromyalgia (FM), various perpetuating factors may impair patients' quality of life and functioning and impede recovery. Although cognitive-behavioral and graded-exercise therapy are evidence-based treatments, the effectiveness and acceptability of therapeutic interventions in CFS/FM may largely depend on a customized approach taking the heterogeneity of perpetuating factors into account.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Further research should clarify the aim and outcome of different treatment strategies in CFS/FM, as well as the underlying mechanisms of change, including those facilitating neurobiological recovery.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Van Houdenhove</LastName>
+<ForeName>Boudewijn</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Dienst Liaisonpsychiatrie, UZ Gasthuisberg, Herestraat 49, B-3000 Leuven, Belgium. boudewijn.vanhoudenhove@uz.kuleuven.ac.be</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Luyten</LastName>
+<ForeName>Patrick</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Psychosomatics</MedlineTA>
+<NlmUniqueID>0376506</NlmUniqueID>
+<ISSNLinking>0033-3182</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="ErratumIn">
+<RefSource>Psychosomatics. 2009 Mar-Apr;50(2):176</RefSource>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000223">Adaptation, Psychological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015928">Cognitive Behavioral Therapy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019468">Disease Management</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005081">Exercise Therapy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015673">Fatigue Syndrome, Chronic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005356">Fibromyalgia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016032">Randomized Controlled Trials as Topic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>86</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>1</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>1</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19122123</ArticleId>
+<ArticleId IdType="pii">49/6/470</ArticleId>
+<ArticleId IdType="doi">10.1176/appi.psy.49.6.470</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

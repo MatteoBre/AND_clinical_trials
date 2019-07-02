@@ -1,0 +1,178 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21097401</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>06</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2010</Year>
+<Month>11</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1673-4254</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>30</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Nan fang yi ke da xue xue bao = Journal of Southern Medical University</Title>
+<ISOAbbreviation>Nan Fang Yi Ke Da Xue Xue Bao</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Clinical implications of HLA-G protein expression in acute leukemia].</ArticleTitle>
+<Pagination>
+<MedlinePgn>2446-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To detect the expression of membrane-bound HLA-G (mHLA-G) and serum HLA-G (sHLA-G) in acute leukemia patients and investigate the correlation between HLA-G expression and the occurrence and development of acute leukemia.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Enzyme-linked immunosorbent assay and flow cytometry were used to detect the expression levels of sHLA-G and mHLA-G in 40 newly diagnosed leukemia cases, 10 refractory and relapsed leukemia cases, and 30 leukemia cases receiving chemotherapy. Ten normal individuals served as the normal control group.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean serum level of sHLA-G in normal individuals was 5.87±2.07 ng/ml, as compared to 10.05±6.58 ng/ml in newly diagnosed leukemia patients and 12.32±5.85 ng/ml in refractory and relapsed cases. The mean level of mHLA-G in normal individuals, newly diagnosed cases, and refractory and relapsed cases were (0.29±0.20)%, (0.60±0.44)%, and (0.77±0.41)%, respectively. The mean levels of sHLA-G and mHLA-G were significantly higher in the newly diagnosed cases than that in the normal controls (P&lt;0.05), and significantly higher in patients before chemotherapy than in those with complete remission after chemotherapy (P&lt;0.05).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">HLA-G expression levels might influence the treatment outcomes and can serve as a prognostic factor for acute leukemia.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Rui</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Hematology, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cao</LastName>
+<ForeName>Xing-hui</ForeName>
+<Initials>XH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Can</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Xiu-li</ForeName>
+<Initials>XL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ling</LastName>
+<ForeName>Yi-wen</ForeName>
+<Initials>YW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Yu</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feng</LastName>
+<ForeName>Ru</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Qi-fa</ForeName>
+<Initials>QF</Initials>
+</Author>
+</AuthorList>
+<Language>chi</Language>
+<PublicationTypeList>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>China</Country>
+<MedlineTA>Nan Fang Yi Ke Da Xue Xue Bao</MedlineTA>
+<NlmUniqueID>101266132</NlmUniqueID>
+<ISSNLinking>1673-4254</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D059951">HLA-G Antigens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000208">Acute Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059951">HLA-G Antigens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007938">Leukemia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21097401</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

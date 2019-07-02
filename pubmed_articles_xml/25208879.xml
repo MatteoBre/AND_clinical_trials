@@ -1,0 +1,459 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25208879</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>03</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1078-0432</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>21</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Apr</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Clinical cancer research : an official journal of the American Association for Cancer Research</Title>
+<ISOAbbreviation>Clin. Cancer Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Comprehensive genomic analysis identifies novel subtypes and targets of triple-negative breast cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1688-98</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1158/1078-0432.CCR-14-0432</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Genomic profiling studies suggest that triple-negative breast cancer (TNBC) is a heterogeneous disease. In this study, we sought to define TNBC subtypes and identify subtype-specific markers and targets.</AbstractText>
+<AbstractText Label="EXPERIMENTAL DESIGN" NlmCategory="METHODS">RNA and DNA profiling analyses were conducted on 198 TNBC tumors [estrogen receptor (ER) negativity defined as Allred scale value ≤ 2] with &gt;50% cellularity (discovery set: n = 84; validation set: n = 114) collected at Baylor College of Medicine (Houston, TX). An external dataset of seven publically accessible TNBC studies was used to confirm results. DNA copy number, disease-free survival (DFS), and disease-specific survival (DSS) were analyzed independently using these datasets.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">We identified and confirmed four distinct TNBC subtypes: (i) luminal androgen receptor (AR; LAR), (ii) mesenchymal (MES), (iii) basal-like immunosuppressed (BLIS), and (iv) basal-like immune-activated (BLIA). Of these, prognosis is worst for BLIS tumors and best for BLIA tumors for both DFS (log-rank test: P = 0.042 and 0.041, respectively) and DSS (log-rank test: P = 0.039 and 0.029, respectively). DNA copy number analysis produced two major groups (LAR and MES/BLIS/BLIA) and suggested that gene amplification drives gene expression in some cases [FGFR2 (BLIS)]. Putative subtype-specific targets were identified: (i) LAR: androgen receptor and the cell surface mucin MUC1, (ii) MES: growth factor receptors [platelet-derived growth factor (PDGF) receptor A; c-Kit], (iii) BLIS: an immunosuppressing molecule (VTCN1), and (iv) BLIA: Stat signal transduction molecules and cytokines.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">There are four stable TNBC subtypes characterized by the expression of distinct molecular profiles that have distinct prognoses. These studies identify novel subtype-specific targets that can be targeted in the future for the effective treatment of TNBCs.</AbstractText>
+<CopyrightInformation>©2014 American Association for Cancer Research.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Burstein</LastName>
+<ForeName>Matthew D</ForeName>
+<Initials>MD</Initials>
+<AffiliationInfo>
+<Affiliation>Structural and Computational Biology &amp; Molecular Biophysics Graduate Program and Medical Scientist Training Program, Baylor College of Medicine, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tsimelzon</LastName>
+<ForeName>Anna</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Lester and Sue Smith Breast Center and Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Poage</LastName>
+<ForeName>Graham M</ForeName>
+<Initials>GM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Cancer Prevention, MD Anderson Cancer Center, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Covington</LastName>
+<ForeName>Kyle R</ForeName>
+<Initials>KR</Initials>
+<AffiliationInfo>
+<Affiliation>Lester and Sue Smith Breast Center and Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Contreras</LastName>
+<ForeName>Alejandro</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Lester and Sue Smith Breast Center and Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, Texas. Department of Pathology, Baylor College of Medicine, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fuqua</LastName>
+<ForeName>Suzanne A W</ForeName>
+<Initials>SA</Initials>
+<AffiliationInfo>
+<Affiliation>Lester and Sue Smith Breast Center and Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Savage</LastName>
+<ForeName>Michelle I</ForeName>
+<Initials>MI</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Cancer Prevention, MD Anderson Cancer Center, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Osborne</LastName>
+<ForeName>C Kent</ForeName>
+<Initials>CK</Initials>
+<AffiliationInfo>
+<Affiliation>Lester and Sue Smith Breast Center and Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hilsenbeck</LastName>
+<ForeName>Susan G</ForeName>
+<Initials>SG</Initials>
+<AffiliationInfo>
+<Affiliation>Lester and Sue Smith Breast Center and Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chang</LastName>
+<ForeName>Jenny C</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>The Methodist Hospital Research Institute, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mills</LastName>
+<ForeName>Gordon B</ForeName>
+<Initials>GB</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Systems Biology, MD Anderson Cancer Center, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lau</LastName>
+<ForeName>Ching C</ForeName>
+<Initials>CC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Texas Children's Cancer and Hematology Centers, Baylor College of Medicine, Houston, Texas. phbrown@mdanderson.org cclau@txch.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Powel H</ForeName>
+<Initials>PH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Cancer Prevention, MD Anderson Cancer Center, Houston, Texas. phbrown@mdanderson.org cclau@txch.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P30 CA016672</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 CA125123</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>1CA16672</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>09</Month>
+<Day>10</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Clin Cancer Res</MedlineTA>
+<NlmUniqueID>9502500</NlmUniqueID>
+<ISSNLinking>1078-0432</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Clin Cancer Res. 2015 Apr 1;21(7):1511-3</RefSource>
+<PMID Version="1">25351747</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D059467">Transcriptome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064726">Triple Negative Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>02</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>08</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25208879</ArticleId>
+<ArticleId IdType="pii">1078-0432.CCR-14-0432</ArticleId>
+<ArticleId IdType="doi">10.1158/1078-0432.CCR-14-0432</ArticleId>
+<ArticleId IdType="pmc">PMC4362882</ArticleId>
+<ArticleId IdType="mid">NIHMS627768</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Curr Mol Med. 2012 Jan;12(1):96-110</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22082486</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2011 Jul;121(7):2750-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21633166</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Biol. 2007;8(5):R76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17493263</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncologist. 2011;16 Suppl 1:61-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21278442</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2009 Mar 10;27(8):1160-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19204204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2000 Aug 17;406(6797):747-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10963602</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncologist. 2013;18(2):123-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23404817</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ther Adv Med Oncol. 2013 May;5(3):169-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23634195</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Obstet Gynecol. 2013 Feb;25(1):40-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23222093</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2011;13(5):R97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21978456</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Bioinformatics. 2010;11:367</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20598126</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Biol. 2007;8(8):R157</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17683518</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Oncol. 2011 Feb;5(1):5-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21147047</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2004 Feb 12;20(3):307-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14960456</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2008 Feb 7;27(7):1019-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17700529</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Jun 21;486(7403):346-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22522925</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2004 Jan 1;20(1):93-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14693814</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2011 Jun 15;27(12):1739-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21546393</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Res. 2003 Jul;13(7):1706-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12840046</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer. 2011;10:86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21777462</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Biol. 2011;12(4):R41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21527027</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2005 Apr 1;21(7):1084-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15513985</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2007 Aug 15;110(4):876-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17620276</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2005 Oct 10;23(29):7350-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16145060</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2014 Jan;25(1):32-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24225019</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Inform. 2012;11:147-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22872785</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Oct 4;490(7418):61-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23000897</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2010;12(5):R68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20813035</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2012 Dec;136(3):795-804</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23124476</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2001 Sep 11;98(19):10869-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11553815</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2010 Sep 28;107(39):16910-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20837533</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

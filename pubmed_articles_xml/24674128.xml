@@ -1,0 +1,177 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">24674128</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>03</Month>
+<Day>31</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>05</Month>
+<Day>30</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-8519</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>2</Volume>
+<Issue>3</Issue>
+<PubDate>
+<MedlineDate>2012 Jul-Sep</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Practical radiation oncology</Title>
+<ISOAbbreviation>Pract Radiat Oncol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The impact of class III (morbid) obesity on heterotopic ossification outcomes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e1-e6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="pii" ValidYN="Y">S1879-8500(11)00320-1</ELocationID>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.prro.2011.11.003</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Obesity is associated with a chronic low inflammatory process that may act as common soil for the pathogenesis of obesity-related comorbidities including heterotopic ossification (HO). The purpose of this study is to compare the incidence of HO between patients with body mass index (BMI) &lt;40 versus ≥40 after operative treatment of displaced acetabular fractures followed by radiation therapy (RT) ± indomethacin.</AbstractText>
+<AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">This is a single institution retrospective chart review of 419 patients. All patients with well-documented BMI underwent operative treatment followed by RT ± indomethacin. All patients received 700 cGy to the soft tissues around the proximal femur and acetabulum without bone shielding. All RT were given postoperatively within 72 hours. The patients were divided into 2 groups: Group (A) BMI &lt; 40 and Group (B) BMI ≥40. HO was assessed with X-ray. BMI was used as a surrogate measure to test the risk of HO despite prophylaxis.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The incidence of HO among all patients is 21% (89 of 419), while among those in group A (BMI &lt;40), 68 of 374 patients developed HO (18%); in the morbidly obese group (BMI ≥40) 21of 45 patients developed HO (47%). The difference between the rates of HO in the 2 groups was 29%; the χ(2) test showed a significant difference between the 2 BMI groups (P &lt; .001 at α = 0.05).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">There is a higher incidence of HO among the morbidly obese patients despite RT ± indomethacin. RT doses for HO prophylaxis in morbidly obese patients need to be reassessed; also, understanding the signaling pathways in target tissues in obese patients at which adipokines control metabolism may reveal novel therapies. Higher radiation doses ± indomethacin may need to be considered and optimally evaluated in the context of a prospective, randomized clinical trial.</AbstractText>
+<CopyrightInformation>Published by Elsevier Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mourad</LastName>
+<ForeName>Waleed Fouad</ForeName>
+<Initials>WF</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, University of Mississippi Medical Center, Jackson, Mississippi; Department of Radiation Oncology, Beth Israel Medical Center, New York, New York; Department of Radiation Oncology, Albert Einstein College of Medicine of Yeshiva University, Bronx, New York. Electronic address: Waleed246@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Packianathan</LastName>
+<ForeName>Satya</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, University of Mississippi Medical Center, Jackson, Mississippi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shourbaji</LastName>
+<ForeName>Rania A</ForeName>
+<Initials>RA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology and Biostatistics, Jackson State University, Jackson, Mississippi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Zhen</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Orthopedic Surgery, University of Mississippi Medical Center, Jackson, Mississippi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khan</LastName>
+<ForeName>Majid A</ForeName>
+<Initials>MA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiology, University of Mississippi Medical Center, Jackson, Mississippi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Graves</LastName>
+<ForeName>Matthew</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Orthopedic Surgery, University of Mississippi Medical Center, Jackson, Mississippi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baird</LastName>
+<ForeName>Michael C</ForeName>
+<Initials>MC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, University of Mississippi Medical Center, Jackson, Mississippi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Russell</LastName>
+<ForeName>George</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Orthopedic Surgery, University of Mississippi Medical Center, Jackson, Mississippi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vijayakumar</LastName>
+<ForeName>Srinivasan</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, University of Mississippi Medical Center, Jackson, Mississippi.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>19</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pract Radiat Oncol</MedlineTA>
+<NlmUniqueID>101558279</NlmUniqueID>
+<ISSNLinking>1879-8500</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>10</Month>
+<Day>03</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>10</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24674128</ArticleId>
+<ArticleId IdType="pii">S1879-8500(11)00320-1</ArticleId>
+<ArticleId IdType="doi">10.1016/j.prro.2011.11.003</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

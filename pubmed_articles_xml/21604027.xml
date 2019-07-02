@@ -1,0 +1,339 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21604027</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1433-044X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>116</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Der Unfallchirurg</Title>
+<ISOAbbreviation>Unfallchirurg</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Treatment practice in patients with isolated blunt splenic injuries. A survey of Swiss traumatologists].</ArticleTitle>
+<Pagination>
+<MedlinePgn>47-52</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00113-011-2044-4</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The non-operative management (NOM) of blunt splenic injuries has gained widespread acceptance. However, there are still many controversies regarding follow-up of these patients. The purpose of this study was to survey active members of the Swiss Society of General and Trauma Surgery (SGAUC) to determine their practices regarding the NOM of isolated splenic injuries.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">A survey of active SGAUC members with a written questionnaire was carried out. The questionnaire was designed to elicit information about personal and facility demographics, diagnostic practices, in-hospital management, preferred follow-up imaging and return to activity.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Out of 165 SGAUC members 52 (31.5%) completed the survey and 62.8% of all main trauma facilities in Switzerland were covered by the sample. Of the respondents 14 (26.9%) have a protocol in place for treating patients with splenic injuries. For initial imaging in hemodynamically stable patients 82.7% of respondents preferred ultrasonography (US). In cases of suspected splenic injury 19.2% of respondents would abstain from further imaging. In cases of contrast extravasation from the spleen half of the respondents would take no specific action. For low-grade injuries 86.5% chose to admit patients for an average of 1.6 days (range 0-4 days) with a continuously monitored bed. No differences in post-discharge activity restrictions between moderate and high-grade splenic injuries were found.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The present survey showed considerable practice variation in several important aspects of the NOM of splenic injuries. Not performing further CT scans in patients with suspected splenic injuries and not intervening in cases of a contrast extravasation were the most important discrepancies to the current literature. Standardization of the NOM of splenic injuries may be of great benefit for both surgeons and patients.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Schnüriger</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Trauma and Surgical Critical Care, University of Southern California, Los Angeles, 1200 North State Street, Los Angeles, California, USA. beat.schnuriger@gmail.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Martens</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eberle</LastName>
+<ForeName>B M</ForeName>
+<Initials>BM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Renzulli</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seiler</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Candinas</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Die Behandlungspraxis bei Patienten mit isolierter stumpfer Milzverletzung. Eine Befragung der Schweizer Traumatologen.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Unfallchirurg</MedlineTA>
+<NlmUniqueID>8502736</NlmUniqueID>
+<ISSNLinking>0177-5537</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003625">Data Collection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010820">Physicians</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010818">Practice Patterns, Physicians'</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013154">Spleen</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000293">injuries</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013557">Switzerland</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014194">Traumatology</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014463">Ultrasonography</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014949">Wounds, Nonpenetrating</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>5</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>5</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21604027</ArticleId>
+<ArticleId IdType="doi">10.1007/s00113-011-2044-4</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Trauma. 2000 Aug;49(2):177-87; discussion 187-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10963527</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 1995 Sep;39(3):507-12; discussion 512-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7473916</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 1989 Dec;29(12):1664-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2593197</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2005 Mar;58(3):492-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15761342</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2001 Aug;51(2):272-7; discussion 277-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11493784</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Surg. 2007 Jan;73(1):13-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17249449</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2007 May;62(5):1143-7; discussion 1147-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17495714</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Surg. 2001 Jan;67(1):22-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11206890</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2006 Jul;61(1):192-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16832270</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2006 May;60(5):1083-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16688074</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pediatr Surg. 1999 Jan;34(1):55-8; discussion 58-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10022143</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2001 Feb;50(2):230-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11242286</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2004 Nov;57(5):1065-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15580034</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 1999 Oct;47(4):651-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10528598</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2000 Apr;48(4):606-10; discussion 610-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10780591</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Med Imaging. 2009 Mar 26;9:3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19323813</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 1988 Jun;28(6):828-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3385827</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2005 Oct;59(4):836-41; discussion 841-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16374270</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiology. 1998 Jan;206(1):137-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9423663</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Surgery. 2007 Feb;141(2):229-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17263980</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2001 Dec;51(6):1161-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11740269</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2008 Apr;64(4):1085-91; discussion 1091-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18404079</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Surg. 2005 May;200(5):648-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15848355</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Surg. 2005 Mar;71(3):244-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15869142</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 2006 Aug;61(2):243-54; discussion 254-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16917435</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Surg. 2003 Nov;69(11):1006-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14627266</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trauma. 1997 Nov;43(5):748-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9390484</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Surg. 2007 Sep;73(9):897-902</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17939422</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

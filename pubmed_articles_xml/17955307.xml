@@ -1,0 +1,271 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17955307</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>05</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1091-255X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>12</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract</Title>
+<ISOAbbreviation>J. Gastrointest. Surg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The effects of physical quality of life, time, and gender on change in symptoms of anxiety and depression after liver transplantation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>138-44</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Previous research demonstrated that physical health-related quality of life (HRQOL) improves after liver transplantation, but improvements in mental HRQOL are less dramatic. The aim of this study was to test the effects of physical HRQOL, time post-transplant, and gender on pre- to post-transplant change in anxiety and depression. Longitudinal HRQOL data were prospectively collected at specific times before and after liver transplantation using the SF-36(R) Health Survey (SF-36), Center for Epidemiologic Studies Depression Scale (CES-D), and Beck Anxiety Inventory (BAI). Within-subject change scores were computed to represent the longest follow-up interval for each patient. Multiple regression was used to test the effects of baseline score, time post-transplant, gender, and SF-36 physical component summary scores (PCS) on change in BAI and CES-D scores. About 107 patients (74% male, age=54+/-8 years) were included in the analysis. Time post-transplant ranged 1 to 39 months (mean=9+/-8). Improvement in symptoms of anxiety and depression was greatest in those patients with the most severe pre-transplant symptoms. Significant improvement in symptoms of depression occurred after liver transplant, but the magnitude of improvement was smaller with time suggesting possible relapse of symptoms. Better post-transplant physical HRQOL was associated with a greater reduction in symptoms of anxiety and depression after liver transplantation. This demonstrates clear improvements in post-transplant mental HRQOL and the significant relationships between physical and mental HRQOL.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Russell</LastName>
+<ForeName>Robert T</ForeName>
+<Initials>RT</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery and Vanderbilt Transplant Center, Vanderbilt University Medical Center, 801 Oxford House, Nashville, TN 37232-4753, USA. robert.russell@vanderbilt.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feurer</LastName>
+<ForeName>Irene D</ForeName>
+<Initials>ID</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wisawatapnimit</LastName>
+<ForeName>Panarut</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salomon</LastName>
+<ForeName>Ronald M</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pinson</LastName>
+<ForeName>C Wright</ForeName>
+<Initials>CW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>1 F32 DK077482-01</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R03 HS013036</GrantID>
+<Acronym>HS</Acronym>
+<Agency>AHRQ HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>10</Month>
+<Day>23</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Gastrointest Surg</MedlineTA>
+<NlmUniqueID>9706084</NlmUniqueID>
+<ISSNLinking>1091-255X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001007">Anxiety</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003863">Depression</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017093">Liver Failure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016031">Liver Transplantation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011788">Quality of Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012720">Severity of Illness Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012737">Sex Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011795">Surveys and Questionnaires</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2007</Year>
+<Month>05</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2007</Year>
+<Month>09</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>10</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>5</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>10</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17955307</ArticleId>
+<ArticleId IdType="doi">10.1007/s11605-007-0382-x</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Liver Transpl. 2002 Jan;8(1):63-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11799488</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Liver Transpl Surg. 1998 May;4(3):215-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9563960</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Transplant. 1998 Aug;12(4):320-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9686326</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosomatics. 1995 Mar-Apr;36(2):S2-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7724710</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Liver Transpl Surg. 1999 Jul;5(4):318-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10388505</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 2005 Jun;62(6):617-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15939839</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Psychiatry. 1993 Jul 1-15;34(1-2):18-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8373936</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Qual Life Res. 1998 Feb;7(2):115-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9523492</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg. 2000 Oct;232(4):597-607</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10998658</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Liver Transpl Surg. 1996 Mar;2(2):148-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9346641</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Liver Transpl. 2003 Jul;9(7):712-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12827558</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

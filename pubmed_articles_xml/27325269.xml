@@ -1,0 +1,490 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27325269</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>06</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>02</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0065-2598</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>899</Volume>
+<PubDate>
+<Year>2016</Year>
+</PubDate>
+</JournalIssue>
+<Title>Advances in experimental medicine and biology</Title>
+<ISOAbbreviation>Adv. Exp. Med. Biol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Isolation of Mouse and Human Tumor-Associated Macrophages.</ArticleTitle>
+<Pagination>
+<MedlinePgn>211-29</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/978-3-319-26666-4_12</ELocationID>
+<Abstract>
+<AbstractText>The tumor microenvironment is a complex network of cells that support tumor progression and malignancy. It has been demonstrated that tumor cells can educate the immune system to promote a tumor-friendly environment. Among all these immune cells, tumor-associated macrophages (TAMs) are well represented and their presence in mouse models has been shown to promote tumor progression and metastasis. These effects are through the stimulation of angiogenesis, enhancement of tumor cell invasion and intravasation, immunosuppression, and at the metastatic site tumor cell extravasation and growth. However, the precise mechanisms are not fully understood. Furthermore there is limited information on TAMs derived from human cancers. For this reason it is important to be able to extract TAMs from tumors in order to compare their phenotypes, functions, and transcriptomes with normal resident tissue macrophages. Isolation of these cells is challenging due to the lack of markers and standardized protocols. Here we show an optimized protocol for the efficient isolation and extraction of resident macrophages and TAMs from human and mouse tissues by using multicolor flow cytometry. These protocols allow for the extraction of thousands of macrophages in less than 5 h from tissues as small as half a gram. The isolated macrophages can then be used for both "omics" and in vitro studies.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Cassetta</LastName>
+<ForeName>Luca</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>MRC Centre for Reproductive Health, Queen's Medical Research Institute, The University of Edinburgh, Edinburgh, EH16 4TJ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Noy</LastName>
+<ForeName>Roy</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Developmental and Molecular Biology, New York, NY, 10461, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Swierczak</LastName>
+<ForeName>Agnieszka</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>MRC Centre for Reproductive Health, Queen's Medical Research Institute, The University of Edinburgh, Edinburgh, EH16 4TJ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sugano</LastName>
+<ForeName>Gaël</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>MRC Centre for Reproductive Health, Queen's Medical Research Institute, The University of Edinburgh, Edinburgh, EH16 4TJ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>Harriet</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology and Women's Health, New York, NY, 10461, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wiechmann</LastName>
+<ForeName>Lisa</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Albert Einstein College of Medicine, New York, NY, 10461, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pollard</LastName>
+<ForeName>Jeffrey W</ForeName>
+<Initials>JW</Initials>
+<AffiliationInfo>
+<Affiliation>MRC Centre for Reproductive Health, Queen's Medical Research Institute, The University of Edinburgh, Edinburgh, EH16 4TJ, UK. Jeff.Pollard@ed.ac.uk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Developmental and Molecular Biology, New York, NY, 10461, USA. Jeff.Pollard@ed.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P01 CA100324</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 CA172451</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>G1002033</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>P30 CA013330</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Adv Exp Med Biol</MedlineTA>
+<NlmUniqueID>0121103</NlmUniqueID>
+<ISSNLinking>0065-2598</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002469">Cell Separation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005434">Flow Cytometry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006461">Hemolysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008264">Macrophages</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Breast cancer</Keyword>
+<Keyword MajorTopicYN="Y">Flow cytometry</Keyword>
+<Keyword MajorTopicYN="Y">Human</Keyword>
+<Keyword MajorTopicYN="Y">Macrophages</Keyword>
+<Keyword MajorTopicYN="Y">Mouse</Keyword>
+<Keyword MajorTopicYN="Y">TAM</Keyword>
+<Keyword MajorTopicYN="Y">Tissue</Keyword>
+<Keyword MajorTopicYN="Y">Tumor-associated macrophages</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>6</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>6</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>6</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27325269</ArticleId>
+<ArticleId IdType="doi">10.1007/978-3-319-26666-4_12</ArticleId>
+<ArticleId IdType="pmc">PMC5024544</ArticleId>
+<ArticleId IdType="mid">NIHMS813189</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Nat Med. 2008 May;14(5):518-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18438415</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(12):e50946</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23284651</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Onco Targets Ther. 2014 Aug 21;7:1475-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25187727</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer. 2013 Nov 18;12(1):141</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24245985</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2012 Mar;122(3):787-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22378047</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Hematol. 2015 Sep;94(9):1535-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25990795</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 1995 Mar;1(3):313-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9815987</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunotherapy. 2011 Oct;3(10):1185-202</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21995571</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2005 Apr 15;174(8):4880-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15814715</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Immunopathol. 2013 Sep;35(5):585-600</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23657835</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2007 Mar 15;67(6):2649-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17363585</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 2014 Nov 20;41(5):815-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25453823</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Cell. 2014 Nov 10;26(5):638-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25446897</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2014 Jun 1;74(11):2962-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24638982</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Leukoc Biol. 2010 Apr;87(4):599-608</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20042468</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncotarget. 2015 Apr 30;6(12):10592-603</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25871392</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2011 Jun 08;475(7355):222-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21654748</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Microbiol Immunol (Bp). 2012 Jun;2(2):112-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24672679</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mammary Gland Biol Neoplasia. 2012 Jun;17(2):91-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22644112</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Oncol. 2007 Dec;1(3):288-302</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18509509</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Cancer. 2015 Feb 3;112(3):547-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25562433</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Rep. 2014 Mar 13;6(5):779-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24630040</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cytometry A. 2012 Apr;81(4):343-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22213571</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Physiol. 2013 Jul;228(7):1464-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23255209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Immunol. 2015 Feb;15(2):73-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25614318</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cytometry A. 2014 Jan;85(1):94-104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24115734</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Commun. 2015 Apr 21;6:6927</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25896888</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2006 Aug;116(8):2132-2141</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16862213</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2009 Jul 23;114(4):901-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19383967</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2004 Oct 1;64(19):7022-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15466195</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2014 May 23;344(6186):921-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24812208</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Cell. 2013 Mar 18;23(3):277-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23518347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2012 Feb 21;109(8):2796-801</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21825174</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Pathol. 2004 Nov;122(5):794-801</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15491976</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2011 Aug 15;17(16):5226-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21576085</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 2009 Mar;174(3):1048-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19218341</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 2003 Nov;163(5):2113-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14578209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods Mol Biol. 2013;945:221-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23097110</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2006 Jan 27;124(2):263-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16439202</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2009 Aug 10;4(8):e6562</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19668347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anticancer Res. 2015 Feb;35(2):865-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25667468</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Oncol. 2010 Sep;32(3):153-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21403610</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Surg Today. 2015 Jun;45(6):715-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25052379</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods Mol Biol. 2005;293:221-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16028422</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncotarget. 2015 Aug 21;6(24):20204-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26001293</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

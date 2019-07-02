@@ -1,0 +1,122 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23162923</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>12</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>11</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1934-4287</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>23</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Adolescent medicine: state of the art reviews</Title>
+<ISOAbbreviation>Adolesc Med State Art Rev</ISOAbbreviation>
+</Journal>
+<ArticleTitle>An unusual complication of rapid weight loss.</ArticleTitle>
+<Pagination>
+<MedlinePgn>215-21</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Baer</LastName>
+<ForeName>Tamara Elizabeth</ForeName>
+<Initials>TE</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Adolescent and Young Adult Medicine, Children's Hospital Boston, Harvard Medical School, Boston, Massachusetts, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>DiVasta</LastName>
+<ForeName>Amy</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Adolesc Med State Art Rev</MedlineTA>
+<NlmUniqueID>101314248</NlmUniqueID>
+<ISSNLinking>1934-4287</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003937">Diagnosis, Differential</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044342">Malnutrition</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015431">Weight Loss</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014899">Wernicke Encephalopathy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23162923</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

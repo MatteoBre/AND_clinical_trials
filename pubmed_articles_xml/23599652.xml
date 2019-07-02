@@ -1,0 +1,379 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23599652</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>12</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">2219-2840</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>19</Volume>
+<Issue>14</Issue>
+<PubDate>
+<Year>2013</Year>
+</PubDate>
+</JournalIssue>
+<Title>World journal of gastroenterology</Title>
+<ISOAbbreviation>World J. Gastroenterol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effects of Lizhong Tang on cultured mouse small intestine interstitial cells of Cajal.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2249-55</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3748/wjg.v19.i14.2249</ELocationID>
+<Abstract>
+<AbstractText Label="AIM" NlmCategory="OBJECTIVE">To investigate the effects of Lizhong Tang, an herbal product used in traditional Chinese medicine, on mouse small intestine interstitial cells of Cajal (ICCs).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Enzymatic digestions were used to dissociate ICCs from mouse small intestine tissues. The ICCs were morphologically distinct from other cell types in culture and were identified using phase contrast microscopy after verification with anti c-kit antibody. A whole-cell patch-clamp configuration was used to record potentials (current clamp) from cultured ICCs. All of the experiments were performed at 30-32 °C.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">ICCs generated pacemaker potentials, and Lizhong Tang produced membrane depolarization in current-clamp mode. The application of flufenamic acid (a nonselective cation channel blocker) abolished the generation of pacemaker potentials by Lizhong Tang. Pretreatment with thapsigargin (a Ca²⁺-ATPase inhibitor in the endoplasmic reticulum) also abolished the generation of pacemaker potentials by Lizhong Tang. However, pacemaker potentials were completely abolished in the presence of an external Ca²⁺-free solution, and under this condition, Lizhong Tang induced membrane depolarizations. Furthermore, When GDP-β-S (1 mmol/L) was in the pipette solution, Lizhong Tang still induced membrane depolarizations. In addition, membrane depolarizations were not inhibited by chelerythrine or calphostin C, which are protein kinase C inhibitors, but were inhibited by U-73122, an active phospholipase C inhibitors.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">These results suggest that Lizhong Tang might affect gastrointestinal motility by modulating pacemaker activity in interstitial cells of Cajal.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hwang</LastName>
+<ForeName>Min Woo</ForeName>
+<Initials>MW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Sasang Constitutional Medicine, College of Korean Medicine, Kyung-hee University, Seoul 130-701, South Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Jung Nam</ForeName>
+<Initials>JN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Song</LastName>
+<ForeName>Ho Jun</ForeName>
+<Initials>HJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lim</LastName>
+<ForeName>Bora</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kwon</LastName>
+<ForeName>Young Kyu</ForeName>
+<Initials>YK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Byung Joo</ForeName>
+<Initials>BJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>World J Gastroenterol</MedlineTA>
+<NlmUniqueID>100883448</NlmUniqueID>
+<ISSNLinking>1007-9327</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004365">Drugs, Chinese Herbal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004791">Enzyme Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007473">Ion Channels</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D049990">Membrane Transport Modulators</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C544920">nonselective cation channel protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C582768">yijung-tang</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.10.1</RegistryNumber>
+<NameOfSubstance UI="D019009">Proto-Oncogene Proteins c-kit</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.3.8</RegistryNumber>
+<NameOfSubstance UI="D053498">Sarcoplasmic Reticulum Calcium-Transporting ATPases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001683">Biological Clocks</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004365">Drugs, Chinese Herbal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004791">Enzyme Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005769">Gastrointestinal Motility</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056885">Interstitial Cells of Cajal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007421">Intestine, Small</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007473">Ion Channels</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008564">Membrane Potentials</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049990">Membrane Transport Modulators</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008807">Mice, Inbred BALB C</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019009">Proto-Oncogene Proteins c-kit</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053498">Sarcoplasmic Reticulum Calcium-Transporting ATPases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Gastrointestinal tract</Keyword>
+<Keyword MajorTopicYN="N">Interstitial cells of Cajal</Keyword>
+<Keyword MajorTopicYN="N">Lizhong Tang</Keyword>
+<Keyword MajorTopicYN="N">Motility</Keyword>
+<Keyword MajorTopicYN="N">Whole-cell patch clamp configuration</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>02</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>02</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23599652</ArticleId>
+<ArticleId IdType="doi">10.3748/wjg.v19.i14.2249</ArticleId>
+<ArticleId IdType="pmc">PMC3627890</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Am J Physiol. 1996 Jul;271(1 Pt 2):H109-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8760165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Physiol Biochem. 2012;30(2):359-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22739356</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 1998 Nov 15;513 ( Pt 1):203-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9782170</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurogastroenterol Motil. 1999 Oct;11(5):311-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10520164</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2005 Nov;129(5):1504-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16285951</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Sci. 2006 Mar;100(3):215-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16538027</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cells. 2009 Mar 31;27(3):307-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19326077</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2009 Oct 15;587(Pt 20):4905-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19703958</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Ethnopharmacol. 2011 Jan 27;133(2):454-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20951788</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Physiol Biochem. 2012;29(3-4):501-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22508057</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2000 Jun 1;525 Pt 2:355-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10835039</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2002 May 1;540(Pt 3):803-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11986370</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2002 Nov;123(5):1627-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12404237</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurogastroenterol Motil. 2004 Apr;16 Suppl 1:100-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15066013</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2004 Sep 1;559(Pt 2):411-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15235097</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Development. 1992 Oct;116(2):369-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1283735</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1995 Jan 26;373(6512):347-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7530333</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 1994 Oct 1;480 ( Pt 1):91-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7853230</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 1996 Aug;111(2):492-515</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8690216</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Rev. 1998 Jul;78(3):811-920</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9674696</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

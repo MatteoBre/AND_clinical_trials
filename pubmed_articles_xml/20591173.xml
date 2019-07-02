@@ -1,0 +1,258 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20591173</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>01</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1466-609X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>14</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2010</Year>
+</PubDate>
+</JournalIssue>
+<Title>Critical care (London, England)</Title>
+<ISOAbbreviation>Crit Care</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A multi-center, randomized, double-blind, parallel, placebo-controlled trial to evaluate the efficacy, safety, and pharmacokinetics of intravenous ibuprofen for the treatment of fever in critically ill and non-critically ill adults.</ArticleTitle>
+<Pagination>
+<MedlinePgn>R125</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/cc9089</ELocationID>
+<Abstract>
+<AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Hospitalized patients are often unable to ingest or tolerate oral antipyretics and recently an aqueous formulation of intravenous (IV) ibuprofen was approved by the US-FDA for the reduction of fever in adults.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We evaluated IV ibuprofen to reduce fever exceeding 101.0 degrees F, measured as the percentage of subjects achieving a temperature &lt;101.0 degrees F at four hours after a single dose of IV ibuprofen vs. placebo. Secondary evaluations included the effect on temperature at 24 hours. Nine sites randomized patients to receive either a placebo or IV ibuprofen (100, 200, or 400 mg), and patients were given four hours for six doses. Subjects were excluded for platelet count &lt;30 k and/or creatinine &gt;3.0 mg/dL.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">At entry, there were no significant baseline differences between the IV ibuprofen group and placebo, n = 120. At four hours, the number (percentage) with T&lt;101.0 degrees F was: Placebo n = 9/28 (32%); 100 mg IV ibuprofen n = 19/31 (61%), P = 0.0264; 200 mg IV ibuprofen n = 21/30 (70%) P = 0.0043; 400 mg IV ibuprofen n = 24/31 (77%) P = 0.0005. A total of 53/120 patients (44%) were prospectively defined as critically ill at baseline and similar temperature reductions were observed in this subgroup. There were no statistically significant differences between treatment groups or when compared to placebo in transfusion, bleeding, renal failure or mortality.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">All doses of IV ibuprofen tested reduced fever at four hours and throughout the first 24 hours of dosing. The 400 mg dose was effective in lowering temperature to normal and maintaining this over the first 24 hours of dosing. IV ibuprofen was effective in reducing fevers in critically ill and non-critically ill groups. Following 24 hours of administration of IV ibuprofen, no clinically significant differences in any safety parameter including renal function or bleeding occurred through the 28-day follow-up period.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATIONS" NlmCategory="BACKGROUND">Clinicaltrials.gov registration number: NCT01131000.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Morris</LastName>
+<ForeName>Peter E</ForeName>
+<Initials>PE</Initials>
+<AffiliationInfo>
+<Affiliation>Pulmonary-Critical Care, Wake Forest University School of Medicine, Winston Salem, NC 27157, USA. pemorris@wfubmc.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Promes</LastName>
+<ForeName>John T</ForeName>
+<Initials>JT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guntupalli</LastName>
+<ForeName>Kalpalatha K</ForeName>
+<Initials>KK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wright</LastName>
+<ForeName>Patrick E</ForeName>
+<Initials>PE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arons</LastName>
+<ForeName>Murray M</ForeName>
+<Initials>MM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT01131000</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>06</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Crit Care</MedlineTA>
+<NlmUniqueID>9801902</NlmUniqueID>
+<ISSNLinking>1364-8535</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>WK2XYI10QM</RegistryNumber>
+<NameOfSubstance UI="D007052">Ibuprofen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Crit Care. 2010;14(4):178</RefSource>
+<PMID Version="1">20670389</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016638">Critical Illness</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D064420">Drug-Related Side Effects and Adverse Reactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005334">Fever</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007052">Ibuprofen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007262">Infusions, Intravenous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2009</Year>
+<Month>06</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2010</Year>
+<Month>03</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>06</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>7</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>7</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>1</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20591173</ArticleId>
+<ArticleId IdType="pii">cc9089</ArticleId>
+<ArticleId IdType="doi">10.1186/cc9089</ArticleId>
+<ArticleId IdType="pmc">PMC2911773</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Chest. 2000 Mar;117(3):855-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10713016</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharm Sci. 1967 Dec;56(12):1686</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5588731</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med. 1984 Jul 13;77(1A):40-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6465162</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pharmacol Ther. 1989 Jul;46(1):9-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2663318</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1997 Mar 27;336(13):912-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9070471</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pharmacokinet. 1998 Feb;34(2):101-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9515184</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2008 May;36(5):1531-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18434882</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

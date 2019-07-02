@@ -1,0 +1,155 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21993338</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>04</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>02</Month>
+<Day>27</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1538-9774</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>30</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Computers, informatics, nursing : CIN</Title>
+<ISOAbbreviation>Comput Inform Nurs</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Nursing satisfaction with implementation of electronic medication administration record.</ArticleTitle>
+<Pagination>
+<MedlinePgn>97-103</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/NCN.0b013e318224b54e</ELocationID>
+<Abstract>
+<AbstractText>Nurses' perceptions of electronic medication administration record documentation versus medication administration record documentation over time in workload, teamwork, ease of documentation, drug information accuracy, patient safety, and overall satisfaction are not well understood. Using survey methods and a longitudinal design, nurses administering medications completed the Nursing Satisfaction with eMAR instrument anonymously after electronic medication administration record implementation and at 3 and 6 months. Data were analyzed using comparative and correlational statistics, and analysis-of-variance models used to complete multivariable regression. Participants were 719 nurses: baseline, n = 389; 3 months, n = 213; and 6 months, n = 117. Electronic medication administration record documentation was associated with perceived improvement in overall nurse satisfaction, workload, teamwork, ease of documentation, drug information accuracy, and patient safety across time periods (all P &lt; .001) and in trends across time, (all P &lt; .001). After regression, electronic medication administration record satisfaction improved across time periods (all P &lt; .02), with the greatest improvement between baseline and 6-month follow-up (P &lt; .001). An electronic medication administration record documentation system is associated with overall nurse satisfaction and perceptions of improvement in workload, teamwork, ease of documentation, drug information accuracy, and patient safety but not nurse/pharmacy communication. Since timeliness and accuracy of nurse/pharmacy communication remain key components to safe and timely medication administration and documentation, nurse and pharmacy personnel should develop alternate systems of communication.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Moreland</LastName>
+<ForeName>Patty J</ForeName>
+<Initials>PJ</Initials>
+<AffiliationInfo>
+<Affiliation>Nursing Informatics, Cleveland Clinic, OH 44195, USA. morelap@ccf.org</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gallagher</LastName>
+<ForeName>Sue</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bena</LastName>
+<ForeName>James F</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morrison</LastName>
+<ForeName>Shannon</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Albert</LastName>
+<ForeName>Nancy M</ForeName>
+<Initials>NM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Comput Inform Nurs</MedlineTA>
+<NlmUniqueID>101141667</NlmUniqueID>
+<ISSNLinking>1538-2931</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>N</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D001291">Attitude of Health Personnel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D057286">Electronic Health Records</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D033183">Interdisciplinary Communication</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007588">Job Satisfaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008510">Medication Systems, Hospital</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015403">Nursing Evaluation Research</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015404">Nursing Methodology Research</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009741">Nursing Staff, Hospital</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016526">Workload</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>10</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>10</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21993338</ArticleId>
+<ArticleId IdType="doi">10.1097/NCN.0b013e318224b54e</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

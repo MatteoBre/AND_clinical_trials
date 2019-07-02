@@ -1,0 +1,194 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19567487</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>09</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>05</Month>
+<Day>29</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1931-3543</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>136</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Chest</Title>
+<ISOAbbreviation>Chest</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effects of unsupported upper extremity exercise training in patients with COPD: a randomized clinical trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>387-395</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="pii" ValidYN="Y">S0012-3692(09)60474-8</ELocationID>
+<ELocationID EIdType="doi" ValidYN="Y">10.1378/chest.09-0165</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Current guidelines on pulmonary rehabilitation (PR) recommend upper extremity exercise training (UEET) in patients with COPD. However, the literature still questions the effectiveness of systematic UEET in this population. We studied the effects of 15 sessions of unsupported UEET on functional exercise capacity, the ability to perform activities of daily living (ADL), and symptoms perceived during activities involving arms in patients with COPD.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a randomized trial that consisted of 3 weeks of inpatient PR, comparing the short-term effects of unsupported UEET plus PR (intervention group) to those of PR alone (control group). A change in the 6-min ring test (6MRT) was the primary outcome; the ADL field test (four shuttle stations), the dyspnea score as assessed by the Medical Research Council scale, the London Chest Activity of Daily Living scale (LCADL), and the distance walked in 6 min served as secondary outcomes of the study. At the 6-month follow-up, we repeated the 6MRT and the LCADL.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Fifty patients with COPD were randomly assigned to the two groups and completed the study. At the end of the study period, patients in the intervention group improved in the 6MRT and ADL field test compared with those patients in the control group (p = 0.018 and p = 0.010, respectively) with reduced perception of fatigue (p &lt;or= 0.006). At the 6-month follow-up, 6MRT (p = 0.001) and LCADL (p = 0.039) scores were still significantly better in the intervention group compared with the control group.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our trial corroborates the effectiveness of unsupported UEET in specifically improving functional exercise capacity of patients with COPD. Moreover, it also provides evidence that this training modality may ameliorate and maintain the patients' autonomy over and above standard PR.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov Identifier: NCT00825032.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Costi</LastName>
+<ForeName>Stefania</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crisafulli</LastName>
+<ForeName>Ernesto</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Degli Antoni</LastName>
+<ForeName>Francesca</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beneventi</LastName>
+<ForeName>Claudio</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fabbri</LastName>
+<ForeName>Leonardo M</ForeName>
+<Initials>LM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clini</LastName>
+<ForeName>Enrico M</ForeName>
+<Initials>EM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00825032</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>06</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Chest</MedlineTA>
+<NlmUniqueID>0231335</NlmUniqueID>
+<ISSNLinking>0012-3692</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000203">Activities of Daily Living</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004417">Dyspnea</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005081">Exercise Therapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017079">Exercise Tolerance</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011336">Probability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D029424">Pulmonary Disease, Chronic Obstructive</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000534">rehabilitation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012129">Respiratory Function Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012720">Severity of Illness Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012737">Sex Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D034941">Upper Extremity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>7</Month>
+<Day>2</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>7</Month>
+<Day>2</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19567487</ArticleId>
+<ArticleId IdType="pii">S0012-3692(09)60474-8</ArticleId>
+<ArticleId IdType="doi">10.1378/chest.09-0165</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

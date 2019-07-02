@@ -1,0 +1,498 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25734989</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>01</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1872-6623</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>156</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pain</Title>
+<ISOAbbreviation>Pain</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Modality-specific mechanisms of protein kinase C-induced hypersensitivity of TRPV1: S800 is a polymodal sensitization site.</ArticleTitle>
+<Pagination>
+<MedlinePgn>931-41</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/j.pain.0000000000000134</ELocationID>
+<Abstract>
+<AbstractText>TRPV1 is a nociceptive ion channel activated by polymodal stimuli such as capsaicin, proton, and noxious heat. Multiple inflammatory mediators activate protein kinases, especially protein kinase C (PKC), which phosphorylates TRPV1. Emerging evidence suggests that phosphorylation of TRPV1 constitutes specific signals underpinning pathological nociception. Although the mechanisms of hypersensitivity of TRPV1 to capsaicin are well studied, the phosphorylation residues that contribute to hypersensitivity to heat or acid have not been identified. In this study, we investigated modality-specific mechanisms of PKC-induced hypersensitivity using mutagenic ablation of PKC-associated phosphorylation sites in TRPV1. In heterologous systems, TRPV1 S502 and S800, but not T704, are known to be involved in hypersensitivity to capsaicin after the application of phorbol myristate acetate (PMA), a PKC agonist. Unlike capsaicin, PMA-induced hypersensitivity to heat was attenuated in TRPV1 mutants T704A and S800A, but not in S502A. In contrast, PMA-induced hypersensitivity to acid was attenuated only in S800A. To examine the roles of these phosphorylation sites in more physiologically relevant conditions, TRPV1 and mutants were tested in sensory neurons from TRPV1-null mice. In sensory neurons expressing mutated TRPV1, we found that alanine mutation of S800 commonly attenuates PMA-induced hypersensitivity to capsaicin, heat, and acid. Moreover, bradykinin-induced hypersensitivity to capsaicin was largely attenuated by the S800A mutation. These results suggest that mechanisms of PKC-induced hypersensitivity of TRPV1 are modality specific and that S800 is a polymodal sensitization site integrating multiple inflammatory signals in nociceptors. Our data provide a rationale for a novel approach targeting TRPV1 S800 for antihyperalgesia. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Sen</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neural and Pain Sciences, the University of Maryland, Program in Neuroscience, School of Dentistry, Baltimore, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Joseph</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ro</LastName>
+<ForeName>Jin Y</ForeName>
+<Initials>JY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chung</LastName>
+<ForeName>Man-Kyo</ForeName>
+<Initials>MK</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 DE016062</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DE023846</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>DE16062</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pain</MedlineTA>
+<NlmUniqueID>7508686</NlmUniqueID>
+<ISSNLinking>0304-3959</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D050916">TRPV Cation Channels</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C493921">TRPV1 protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.11.13</RegistryNumber>
+<NameOfSubstance UI="D011493">Protein Kinase C</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>NI40JAQ945</RegistryNumber>
+<NameOfSubstance UI="D013755">Tetradecanoylphorbol Acetate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>S07O44R1ZM</RegistryNumber>
+<NameOfSubstance UI="D002211">Capsaicin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>S8TIM42R2W</RegistryNumber>
+<NameOfSubstance UI="D001920">Bradykinin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001920">Bradykinin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002211">Capsaicin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002461">Cell Line, Transformed</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057809">HEK293 Cells</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006358">Hot Temperature</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006967">Hypersensitivity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018345">Mice, Knockout</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059225">Nociception</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018408">Patch-Clamp Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011493">Protein Kinase C</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011984">Sensory Receptor Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050916">TRPV Cation Channels</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013755">Tetradecanoylphorbol Acetate</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>3</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>3</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25734989</ArticleId>
+<ArticleId IdType="doi">10.1097/j.pain.0000000000000134</ArticleId>
+<ArticleId IdType="pmc">PMC4402251</ArticleId>
+<ArticleId IdType="mid">NIHMS662994</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Science. 2003 May 23;300(5623):1284-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12764195</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Neuropharmacol. 2006 Jul;4(3):197-206</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18615146</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurophysiol. 2002 Jul;88(1):544-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12091579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Brain Res. 2009 Jun;196(1):89-100</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19139871</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2004 May 7;279(19):20283-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14996838</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochemistry. 2004 Mar 9;43(9):2501-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14992587</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 2008 Sep 15;138(3):604-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18381233</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Dent Res. 2011 Sep;90(9):1098-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21666106</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO J. 2011 Mar 16;30(6):994-1002</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21285946</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2002 Feb 8;108(3):421-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11853675</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 2006 Jul;123(1-2):106-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16564619</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2006 May 3;26(18):4835-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16672657</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2007 Nov 21;27(47):12797-807</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18032651</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 2008 Jun 26;154(3):1067-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18495351</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 2007 Oct 12;149(1):144-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17869438</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pflugers Arch. 2014 Dec;466(12):2229-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24643480</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2002 Sep 20;277(38):35752-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12095983</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochim Biophys Acta. 2007 Aug;1772(8):989-1003</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17321113</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2010 Jul 22;466(7305):451-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20651683</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 2008 May;136(1-2):202-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18337008</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem Biophys Res Commun. 2012 Jul 27;424(2):358-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22789851</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2000 Apr 14;288(5464):306-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10764638</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Exp Med Biol. 2011;704:615-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21290319</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2010 May 14;285(20):15167-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20231274</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Neurosci. 2010 Jun;13(6):708-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20414199</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2002 Apr 19;277(16):13375-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11884385</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2000 Dec 21-28;408(6815):985-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11140687</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2013 Dec 5;504(7478):113-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24305161</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FASEB J. 2008 Sep;22(9):3298-309</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18559878</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 2012 Jul;153(7):1514-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22609428</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2014 Jun 11;34(24):8246-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24920628</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pflugers Arch. 2009 Oct;458(6):1093-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19669158</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 2008 Aug 14;59(3):450-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18701070</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2013 Dec 5;504(7478):107-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24305160</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2013 Dec 13;288(50):35690-702</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24174527</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Protoc. 2009;4(8):1118-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19617884</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2003 Jun 24;100(13):8002-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12808128</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2003 Oct 14;100(21):12480-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14523239</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 1999 Jul;23(3):617-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10433272</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2010 Apr 13;107(15):7083-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20351268</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuropharmacology. 2008 Dec;55(8):1405-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18809416</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2008 May 7;28(19):4904-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18463244</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1997 Oct 23;389(6653):816-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9349813</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Pain. 2012;8:22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22458587</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2001 Aug 1;534(Pt 3):813-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11483711</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

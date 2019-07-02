@@ -1,0 +1,608 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27752939</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1573-4978</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>43</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Molecular biology reports</Title>
+<ISOAbbreviation>Mol. Biol. Rep.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Association between PNPLA3 (rs738409), LYPLAL1 (rs12137855), PPP1R3B (rs4240624), GCKR (rs780094), and elevated transaminase levels in overweight/obese Mexican adults.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1359-1369</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>There is scarce information about the link between specific single-nucleotide polymorphisms (SNPs) and risk of liver disease among Latinos, despite the disproportionate burden of disease among this population. Our aim was to investigate nine SNPs in or near the following genes: PNPLA3, LYPLAL1, PPP1R3B, GCKR, NCAN, IRS1, PPARG, and ADIPOR2 and examine their association with persistently elevated alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels in Mexican adults. Data and samples were collected from 741 participants in the Mexican Health Worker Cohort Study, in Cuernavaca, Mexico. We identified 207 cases who had persistently elevated levels of ALT or AST (≥40 U/L) and 534 controls with at least two consecutive normal ALT or AST results in a 6 month period, during 2004-2006 and 2011-2013. TaqMan assays were used to genotype the SNPs. The risk allele of PNPLA3 rs738409 was found to be associated with persistently elevated levels of ALT or AST, adjusting for age, sex, BMI, type 2 diabetes, and ancestry: (OR 2.28, 95 % CI 1.13, 4.58). A significant association was found between the LYPLAL1, PPP1R3B, and GCKR risk alleles and elevated ALT or AST levels among overweight/obese adults. These results suggest that among Mexicans, the PNPLA3 (rs738409), LYPLAL1 (rs12137855), PPP1R3B (rs4240624), and GCKR (rs780094) polymorphisms may be associated with a greater risk of chronic liver disease among overweight adults. This study is the first to examine these nine SNPs in a sample of adults in Mexico.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Flores</LastName>
+<ForeName>Yvonne N</ForeName>
+<Initials>YN</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Investigación Epidemiológica y en Servicios de Salud, Instituto Mexicano del Seguro Social (IMSS), Blvd. Benito Juárez No. 31 Col. Centro, Cuernavaca, Morelos, Mexico. ynflores@ucla.edu.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>UCLA Department of Health Policy and Management, Fielding School of Public Health and Jonsson Comprehensive Cancer Center, Los Angeles, CA, USA. ynflores@ucla.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Velázquez-Cruz</LastName>
+<ForeName>Rafael</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Instituto Nacional de Medicina Genómica, Periférico Sur No. 4809, Col. Arenal Tepepan, Mexico, DF, Mexico.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ramírez</LastName>
+<ForeName>Paula</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Investigación Epidemiológica y en Servicios de Salud, Instituto Mexicano del Seguro Social (IMSS), Blvd. Benito Juárez No. 31 Col. Centro, Cuernavaca, Morelos, Mexico.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bañuelos</LastName>
+<ForeName>Manuel</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Investigación Epidemiológica y en Servicios de Salud, Instituto Mexicano del Seguro Social (IMSS), Blvd. Benito Juárez No. 31 Col. Centro, Cuernavaca, Morelos, Mexico.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Instituto Nacional de Medicina Genómica, Periférico Sur No. 4809, Col. Arenal Tepepan, Mexico, DF, Mexico.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Zuo-Feng</ForeName>
+<Initials>ZF</Initials>
+<AffiliationInfo>
+<Affiliation>UCLA Department of Epidemiology, Fielding School of Public Health, Los Angeles, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yee</LastName>
+<ForeName>Hal F</ForeName>
+<Initials>HF</Initials>
+<Suffix>Jr</Suffix>
+<AffiliationInfo>
+<Affiliation>Los Angeles County Department of Health Services, 313 Figueroa, Los Angeles, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chang</LastName>
+<ForeName>Shen-Chih</ForeName>
+<Initials>SC</Initials>
+<AffiliationInfo>
+<Affiliation>UCLA Department of Epidemiology, Fielding School of Public Health, Los Angeles, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Canizales-Quinteros</LastName>
+<ForeName>Samuel</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Genómica de Poblaciones Aplicada a la Salud, Facultad de Química, UNAM/Instituto Nacional de Medicina Genómica (INMEGEN), Mexico City, Mexico.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Quiterio</LastName>
+<ForeName>Manuel</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Centro de Investigación en Salud Poblacional, Instituto Nacional de Salud Pública, Cuernavaca, Morelos, Mexico.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cabrera-Alvarez</LastName>
+<ForeName>Guillermo</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Clínica de Hígado, IMSS Hospital General Regional con UMF 1, Av. Plan de Ayala 1201, Flores Magon, Cuernavaca, Morelos, Mexico.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Patiño</LastName>
+<ForeName>Nelly</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Instituto Nacional de Medicina Genómica, Periférico Sur No. 4809, Col. Arenal Tepepan, Mexico, DF, Mexico.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salmerón</LastName>
+<ForeName>Jorge</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Investigación Epidemiológica y en Servicios de Salud, Instituto Mexicano del Seguro Social (IMSS), Blvd. Benito Juárez No. 31 Col. Centro, Cuernavaca, Morelos, Mexico.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Centro de Investigación en Salud Poblacional, Instituto Nacional de Salud Pública, Cuernavaca, Morelos, Mexico.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>K07 CA197179</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>17</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Mol Biol Rep</MedlineTA>
+<NlmUniqueID>0403234</NlmUniqueID>
+<ISSNLinking>0301-4851</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D048868">Adaptor Proteins, Signal Transducing</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C485100">GCKR protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.6.1.1</RegistryNumber>
+<NameOfSubstance UI="D001219">Aspartate Aminotransferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.6.1.2</RegistryNumber>
+<NameOfSubstance UI="D000410">Alanine Transaminase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.1.3</RegistryNumber>
+<NameOfSubstance UI="D008049">Lipase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.1.3</RegistryNumber>
+<NameOfSubstance UI="C533682">adiponutrin, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.1.5</RegistryNumber>
+<NameOfSubstance UI="D008245">Lysophospholipase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.2.-</RegistryNumber>
+<NameOfSubstance UI="C561408">LYPLAL1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.16</RegistryNumber>
+<NameOfSubstance UI="C586823">PPP1R3B protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.16</RegistryNumber>
+<NameOfSubstance UI="D054645">Protein Phosphatase 1</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D048868">Adaptor Proteins, Signal Transducing</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000410">Alanine Transaminase</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001219">Aspartate Aminotransferases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005787">Gene Frequency</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056726">Genetic Association Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008049">Lipase</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008245">Lysophospholipase</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008565">Membrane Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008800">Mexico</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009765">Obesity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050177">Overweight</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054645">Protein Phosphatase 1</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Alanine aminotransferase (ALT)</Keyword>
+<Keyword MajorTopicYN="N">Aspartate aminotransferase (AST)</Keyword>
+<Keyword MajorTopicYN="N">Candidate gene study</Keyword>
+<Keyword MajorTopicYN="N">Latinos</Keyword>
+<Keyword MajorTopicYN="N">Mexican adults</Keyword>
+<Keyword MajorTopicYN="N">Nonalcoholic fatty liver disease</Keyword>
+</KeywordList>
+<CoiStatement>The authors have no disclosures to report.</CoiStatement>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>08</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>2</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27752939</ArticleId>
+<ArticleId IdType="doi">10.1007/s11033-016-4058-z</ArticleId>
+<ArticleId IdType="pii">10.1007/s11033-016-4058-z</ArticleId>
+<ArticleId IdType="pmc">PMC5106313</ArticleId>
+<ArticleId IdType="mid">NIHMS823759</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Pediatrics. 2013 Sep;132(3):e718-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23940240</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2008 Sep;103(9):2231-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18671818</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2008 Apr;47(4):1363-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18366115</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Epidemiol. 2013 Jul 1;178(1):38-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23703888</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2013 Nov;45(11):1274-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24097068</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Epidemiol. 2009 Jun;62(6):597-608.e4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19217256</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Mol Pathol. 2015 Apr;98 (2):178-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25597287</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CA Cancer J Clin. 2012 Sep-Oct;62(5):283-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22987332</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Gastroenterol Hepatol. 2013 Nov;10(11):627-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23958599</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2004 Apr 24;328(7446):983</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15028636</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2003 May;98(5):960-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12809815</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mutat. 2009 Jan;30(1):69-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18683858</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Digestion. 2011;83(1-2):124-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21042023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2011 May;141(5):921-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21451126</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Hepatol. 2005 Jan-Mar;4(1):52-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15798662</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Gastroenterol Hepatol. 2013 Nov;10(11):645-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24061205</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2005 Jul;42(1):44-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15895401</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2010 Jun;51(6):1972-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20209604</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Invest Med. 2012 Aug 04;35(4):E237-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22863562</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2011 May 15;128(10):2436-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21128245</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Biol Rep. 2014 Jul;41(7):4705-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24691744</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Gastroenterol Hepatol. 2013 Sep;11(9):1183-1190.e2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23416328</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2010 May;51(5):1820-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20432259</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2011 Feb;53(2):467-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21274868</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2000 Apr 27;342(17):1266-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10781624</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2004 Dec;40(6):1387-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15565570</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr Biochem. 2009 Oct;20(10 ):765-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18926681</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2011 Oct 16;43(11):1131-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22001757</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sci Rep. 2015 Mar 20;5:9284</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25791171</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2011 Jan;140(1):124-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20858492</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2008 Dec;40(12):1461-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18820647</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Age (Dordr). 2014 Jun;36(3):9635</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24584697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cytokine. 2008 Oct;44(1):201-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18789715</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2006 Jan;101(1):76-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16405537</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Public Health Nutr. 2014 Jan;17(1):233-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23369462</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastroenterol Hepatol. 2013 Apr;28(4):664-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23286209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dig Dis. 2010;28(1):155-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20460905</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Gastroenterol. 2006 Mar;40 Suppl 1:S5-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16540768</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Protoc. 2011 Feb;6(2):121-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21293453</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Lipid Res. 2011 Apr;52(4):593-617</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21245030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Salud Publica Mex. 2014 Apr;56(2):197-205</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25014426</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Genet. 2011 Mar;7(3):e1001324</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21423719</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2003 Jan;124(1):71-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12512031</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2005 Feb;41(2):372-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15723436</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

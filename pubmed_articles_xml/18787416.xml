@@ -1,0 +1,180 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18787416</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>05</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1555-8576</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>7</Volume>
+<Issue>10</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Cancer biology &amp; therapy</Title>
+<ISOAbbreviation>Cancer Biol. Ther.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Identification of side population cells from bladder cancer cells by DyeCycle Violet staining.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1663-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Side population (SP) cells can be used to identify putative cancer stem cells (CSC), but this technique is hampered by the requirement for an ultraviolet (UV) laser source. DyeCycle Violet reagent (DCV) is a DNA-binding dye that can be used in the common violet laser diode (VLD)-equipped flow cytometer. In this paper, we analyzed SP cells from several bladder cancer cell lines using either Hoechst 33342 or DCV staining. The Hoechst 33342-stained SP cells were identified with a UV-equipped flow cytometer, while the DCV-stained SP cells were identified with a VLD-equipped flow cytometer. DCV staining was also used to sort SP and non-SP (NSP) cells from SW780 cells. Further analysis revealed that SP cells could give rise to both SP and NSP cells. The colony-forming ability of SP cells was significant greater than that of NSP cells. When injected into nude mice, as few as 1 x 10(3) SP cells could initiate tumors in eight of twelve injection sites. In contrast, the injection of NSP cells into nude mice failed to initiate tumors. RT-PCR data showed that the expression of ABCG2, MDRI, Bmi-1 and Oct-4 differed between SP and NSP cells, suggesting that SP cells possess some stem cell characteristics. We conclude that SP cells identified by DCV staining are capable of asymmetric division, self-renewal and tumor initiation. Our study also indicates that DCV is a useful reagent for the identification of SP cells.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>She</LastName>
+<ForeName>Jun Jun</ForeName>
+<Initials>JJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of General Surgery, First Affiliated Hospital of Medical College, Xi'an Jiao-Tong University, Xi'an, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Peng Ge</ForeName>
+<Initials>PG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Zi Ming</ForeName>
+<Initials>ZM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gan</LastName>
+<ForeName>Wei Min</ForeName>
+<Initials>WM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Che</LastName>
+<ForeName>Xiang Ming</ForeName>
+<Initials>XM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>17</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cancer Biol Ther</MedlineTA>
+<NlmUniqueID>101137842</NlmUniqueID>
+<ISSNLinking>1538-4047</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001562">Benzimidazoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>P976261J69</RegistryNumber>
+<NameOfSubstance UI="C017807">bisbenzimide ethoxide trihydrochloride</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001562">Benzimidazoles</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005434">Flow Cytometry</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005456">Fluorescent Dyes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008819">Mice, Nude</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009368">Neoplasm Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010641">Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020133">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014466">Ultraviolet Rays</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001749">Urinary Bladder Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>13</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>5</Month>
+<Day>2</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>13</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18787416</ArticleId>
+<ArticleId IdType="pii">6637</ArticleId>
+<ArticleId IdType="doi">10.4161/cbt.7.10.6637</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

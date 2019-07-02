@@ -1,0 +1,810 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25629549</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>02</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1523-1755</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>87</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Kidney international</Title>
+<ISOAbbreviation>Kidney Int.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A common gene signature across multiple studies relate biomarkers and functional regulation in tolerance to renal allograft.</ArticleTitle>
+<Pagination>
+<MedlinePgn>984-95</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/ki.2014.395</ELocationID>
+<Abstract>
+<AbstractText>Patients tolerant to a kidney graft display a specific blood cell transcriptional pattern but results from five different studies were inconsistent, raising the question of relevance for future clinical application. To resolve this, we sought to identify a common gene signature, specific functional and cellular components, and discriminating biomarkers for tolerance following kidney transplantation. A meta-analysis of studies identified a robust gene signature involving proliferation of B and CD4 T cells, and inhibition of CD14 monocyte related functions among 96 tolerant samples. This signature was further supported through a cross-validation approach, yielding 92.5% accuracy independent of the study of origin. Experimental validation, performed on new tolerant samples and using a selection of the top-20 biomarkers, returned 91.7% of good classification. Beyond the confirmation of B-cell involvement, our data also indicated participation of other cell subsets in tolerance. Thus, the use of the top 20 biomarkers, mostly centered on B cells, may provide a common and standardized tool towards personalized medicine for the monitoring of tolerant or low-risk patients among kidney allotransplant recipients. These data point to a global preservation of genes favoring the maintenance of a homeostatic and 'healthy' environment in tolerant patients and may contribute to a better understanding of tolerance maintenance mechanisms. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Baron</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>1] INSERM, UMR 1064, Nantes, France [2] CHU de Nantes, ITUN, Nantes, France [3] Université de Nantes, Faculté de Médecine, Nantes, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ramstein</LastName>
+<ForeName>Gérard</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>LINA COD, UMR 6241, Université de Nantes, Ecole des Mines de Nantes and CNRS, Nantes, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chesneau</LastName>
+<ForeName>Mélanie</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>1] INSERM, UMR 1064, Nantes, France [2] CHU de Nantes, ITUN, Nantes, France [3] Université de Nantes, Faculté de Médecine, Nantes, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Echasseriau</LastName>
+<ForeName>Yann</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>1] INSERM, UMR 1064, Nantes, France [2] CHU de Nantes, ITUN, Nantes, France [3] Université de Nantes, Faculté de Médecine, Nantes, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pallier</LastName>
+<ForeName>Annaick</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>1] INSERM, UMR 1064, Nantes, France [2] CHU de Nantes, ITUN, Nantes, France [3] Université de Nantes, Faculté de Médecine, Nantes, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paul</LastName>
+<ForeName>Chloé</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>1] INSERM, UMR 1064, Nantes, France [2] CHU de Nantes, ITUN, Nantes, France [3] Université de Nantes, Faculté de Médecine, Nantes, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Degauque</LastName>
+<ForeName>Nicolas</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>1] INSERM, UMR 1064, Nantes, France [2] CHU de Nantes, ITUN, Nantes, France [3] Université de Nantes, Faculté de Médecine, Nantes, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hernandez-Fuentes</LastName>
+<ForeName>Maria P</ForeName>
+<Initials>MP</Initials>
+<AffiliationInfo>
+<Affiliation>MRC Centre for Transplantation, King's College London, London, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sanchez-Fueyo</LastName>
+<ForeName>Alberto</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Liver Studies, King's College Hospital, Denmark Hill, King's College London, London, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Newell</LastName>
+<ForeName>Kenneth A</ForeName>
+<Initials>KA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Emory University, Atlanta, Georgia, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giral</LastName>
+<ForeName>Magali</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>1] INSERM, UMR 1064, Nantes, France [2] CHU de Nantes, ITUN, Nantes, France [3] Université de Nantes, Faculté de Médecine, Nantes, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Soulillou</LastName>
+<ForeName>Jean-Paul</ForeName>
+<Initials>JP</Initials>
+<AffiliationInfo>
+<Affiliation>1] INSERM, UMR 1064, Nantes, France [2] CHU de Nantes, ITUN, Nantes, France [3] Université de Nantes, Faculté de Médecine, Nantes, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Houlgatte</LastName>
+<ForeName>Rémi</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>1] Inserm, U954, Nancy, France [2] CHU de Nancy, DRCI, Nancy, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brouard</LastName>
+<ForeName>Sophie</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>1] INSERM, UMR 1064, Nantes, France [2] CHU de Nantes, ITUN, Nantes, France [3] Université de Nantes, Faculté de Médecine, Nantes, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>G0801537</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>MR/J006742/1</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>MR/L008890/1</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D017418">Meta-Analysis</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D023361">Validation Studies</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>01</Month>
+<Day>28</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Kidney Int</MedlineTA>
+<NlmUniqueID>0323470</NlmUniqueID>
+<ISSNLinking>0085-2538</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Kidney Int. 2015 May;87(5):875-7</RefSource>
+<PMID Version="1">25951065</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064591">Allografts</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007108">Immune Tolerance</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016030">Kidney Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007963">Leukocytes, Mononuclear</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059467">Transcriptome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>05</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25629549</ArticleId>
+<ArticleId IdType="pii">S0085-2538(15)30100-9</ArticleId>
+<ArticleId IdType="doi">10.1038/ki.2014.395</ArticleId>
+<ArticleId IdType="pmc">PMC4424816</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Mol Med. 2012;18:733-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22252714</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2006 Feb 28;103(9):3304-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16492737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2005 Oct 25;102(43):15545-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16199517</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 2008 Jul 18;29(1):150-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18631455</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(7):e40449</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22848380</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Genet. 2003 Oct;19(10):570-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14550631</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1998 Dec 8;95(25):14863-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9843981</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2002 Feb 21;346(8):580-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11856798</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Genet. 2010 Oct;11(10):733-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20838408</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Liver Transpl. 2004 Mar;10(3):379-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15004765</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Syst Biol. 2009;5:307</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19756046</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2006 Apr;6(4):736-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16539630</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Exp Med. 2013 Oct 21;210(11):2205-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24127489</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2001 Nov 20;98(24):13790-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11707567</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2002 Aug 1;62(15):4427-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12154050</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2003 Jan;33(1):49-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12469122</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Bioinformatics. 2010;11:408</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20678237</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 Sep 1;112(5):1570-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18725575</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Genomics. 2011;12:113</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21324190</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 1998 Sep 15;66(5):562-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9753332</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2006 Feb 15;81(3):398-407</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16477227</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Genomics. 2009;10:411</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19728865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2007 Jun;71(12):1271-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17332737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Immunol. 2003 Feb;3(2):147-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12563298</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2006 Apr 11;103(15):5923-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16585533</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Biotechnol. 2004 May;22(5):615-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15122300</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 Apr 29;350(18):1828-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15115829</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2011 Sep;11(9):1916-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21827613</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2005 Jul 1;33(Web Server issue):W592-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15980543</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biochem. 2008 Apr 15;103(6):1681-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17910029</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2010 Jun;120(6):1836-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20501946</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genomics. 2004 Jun;83(6):980-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15177552</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2008 Feb 1;24(3):374-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18204063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2002 Aug;8(8):816-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12118244</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Genomics. 2007;8:357</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17916255</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2014 Jan;14(1):144-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24354874</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2014 Jun;20(6):659-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24793238</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2004 Dec 21;110(25):3815-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15583081</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2006 Aug 10;355(6):560-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16899776</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2005 Feb 5-11;365(9458):488-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15705458</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2010 Jun;120(6):1848-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20501943</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1999 Jul;22(3):281-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10391217</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Organ Transplant. 2013 Feb;18(1):13-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23254702</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2012 Dec;12(12):3296-307</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22974211</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Genomics. 2005 Aug 11;22(3):402-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16014386</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2007 Aug 15;179(4):2046-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17675460</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2006 Jan;6(1):150-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16433769</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2009 Jun 18;360(25):2683-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19535812</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2012 Apr;23(4):597-606</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22282590</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Annu Rev Immunol. 2005;23:487-513</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15771579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2004 Sep;4(9):1475-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15307835</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2005 Mar 29;102(13):4801-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15781863</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Nephrol. 2010 Oct;6(10):584-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20736924</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transpl Int. 2011 Jun;24(6):536-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21457359</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Immunol. 2012 Feb;142(2):117-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22019771</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2000 Feb 3;403(6769):503-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10676951</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2000 Jul;106(1):145-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10880058</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pathol. 2001 Sep;195(1):41-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11568890</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Mol Med. 2010 Jun;14(6B):1443-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19793385</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2010 Sep;78(5):503-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20531452</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2003 Feb 18;100(4):1896-901</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12578971</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Res. 2002 Jan;12(1):98-111</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11779835</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2006 Jul 1;177(1):216-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16785517</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1980 Jul;18(1):110-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7012419</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2009 Dec 10;114(25):5173-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19846886</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2001 Dec 27;72(12 Suppl):S89-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11833147</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2005 Feb 5-11;365(9458):454-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15705441</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2007 May 15;178(10):6028-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17475825</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gene. 2007 Oct 15;401(1-2):12-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17651921</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2003;19 Suppl 1:i84-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12855442</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Biol. 2003;4(4):R28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12702209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2007 Dec 20;357(25):2601-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18094380</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Immunol. 2002 Oct;3(10):944-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12244307</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2011 Mar 1;27(5):725-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21216776</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Inform. 2007 Feb 14;2:87-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19458761</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg. 2010 Dec;252(6):915-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21107102</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Exp Med. 2000 Aug 21;192(4):475-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10952717</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2011;6(9):e25181</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21966449</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2007 Sep 25;104(39):15448-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17873064</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Res. 2004 Jun;14(6):1085-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15173114</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2004 Dec 15;104(13):3918-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15331438</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2011;6(11):e26952</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22096509</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1998 Feb 28;351(9103):623-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9500317</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int Immunol. 2004 Aug;16(8):1109-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15210650</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1999 Oct 15;286(5439):531-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10521349</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2012 Mar;12(3):640-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22151236</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Methods. 2005 May;2(5):345-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15846361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst. 2003 Jan 1;95(1):14-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12509396</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2004;32(15):e124</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15333675</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

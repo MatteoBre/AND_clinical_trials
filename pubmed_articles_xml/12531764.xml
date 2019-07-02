@@ -1,0 +1,169 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12531764</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>04</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0363-5465</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>31</Volume>
+<Issue>1</Issue>
+<PubDate>
+<MedlineDate>2003 Jan-Feb</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>The American journal of sports medicine</Title>
+<ISOAbbreviation>Am J Sports Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Computer simulations of patellofemoral joint surgery. Patient-specific models for tuberosity transfer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>87-98</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Variable clinical outcomes of tibial tuberosity transfer surgery have been reported.</AbstractText>
+<AbstractText Label="HYPOTHESES" NlmCategory="OBJECTIVE">The biomechanical outcome of surgery is patient-specific; no single procedure produces superior results for all patients. Use of patient-specific computer models can optimize choice of procedure.</AbstractText>
+<AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">Computer simulation study using clinical data.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We used patient-specific multibody models of the patellofemoral joints of 20 patients with a diagnosis of patellar subluxation and osteoarthritis. Four tibial tuberosity transfer procedures (two anterior and two anteromedial) were simulated for each patient and compared with their preoperative model.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">When results for all patients were averaged, all simulated operations produced a statistically significant decrease in surface-wide mean contact stress, although no significant difference was found among them.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The simulated surgical outcomes were patient-specific: no single procedure was consistently superior at decreasing peak or mean stress and each procedure produced a potentially detrimental outcome, an increase in either mean stress or peak stress, in at least one patient.</AbstractText>
+<AbstractText Label="CLINICAL RELEVANCE" NlmCategory="CONCLUSIONS">Computer simulation may serve as a valuable tool for tailoring procedures to specific patients.</AbstractText>
+<CopyrightInformation>Copyright 2003 American Orthopaedic Society for Sports Medicine</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Cohen</LastName>
+<ForeName>Zohara A</ForeName>
+<Initials>ZA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Mechanical Engineering and Biomedical Engineering, Columbia University, New York, New York, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Henry</LastName>
+<ForeName>Jack H</ForeName>
+<Initials>JH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McCarthy</LastName>
+<ForeName>Denise M</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mow</LastName>
+<ForeName>Van C</ForeName>
+<Initials>VC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ateshian</LastName>
+<ForeName>Gerard A</ForeName>
+<Initials>GA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Sports Med</MedlineTA>
+<NlmUniqueID>7609541</NlmUniqueID>
+<ISSNLinking>0363-5465</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001696">Biomechanical Phenomena</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002358">Cartilage, Articular</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003198">Computer Simulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007719">Knee Joint</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008954">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020370">Osteoarthritis, Knee</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010329">Patella</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011300">Preoperative Care</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016059">Range of Motion, Articular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012399">Rotation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013314">Stress, Mechanical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D025321">Surgery, Computer-Assisted</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013977">Tibia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>1</Month>
+<Day>18</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>4</Month>
+<Day>23</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>1</Month>
+<Day>18</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12531764</ArticleId>
+<ArticleId IdType="doi">10.1177/03635465030310012701</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

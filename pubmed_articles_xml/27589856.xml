@@ -1,0 +1,386 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27589856</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>09</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1433-3023</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>International urogynecology journal</Title>
+<ISOAbbreviation>Int Urogynecol J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>An obstetric sphincter injury risk identification system (OSIRIS): is this a clinically useful tool?</ArticleTitle>
+<Pagination>
+<MedlinePgn>367-374</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00192-016-3125-2</ELocationID>
+<Abstract>
+<AbstractText Label="INTRODUCTION AND HYPOTHESIS" NlmCategory="OBJECTIVE">To establish the contribution of maternal, fetal and intrapartum factors to the risk of incidence of obstetric anal sphincter injuries (OASIS) and assess the feasibility of an OASIS risk prediction model based on variables available to clinicians prior to birth.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">This was a population-based, retrospective cohort study using single-site data from the birth database of Aarhus University Hospital, Denmark. The participants were all women who had a singleton vaginal birth during the period 1989 to 2006. Univariate and multivariate logistic regression analyses were performed using multiple imputations for missing data and internally validated using bootstrap methods. The main outcome measures were the contributions of maternal, fetal and intrapartum events to the incidence of OASIS.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 71,469 women met the inclusion criteria, of whom 1,754 (2.45 %) sustained OASIS. In the multivariate analysis of variables known prior to birth, maternal age 20 - 30 years (OR 1.65, 95 % CI 1.44 - 1.89) and ≥30 years (OR 1.60, 95 % CI 1.39 - 1.85), occipitoposterior fetal position (OR 1.34, 95 % CI 1.06 - 1.70), induction/augmentation of labour (OR 1.46, 95 % CI 1.32 - 1.62), and suspected macrosomia (OR 2.20, 95 % CI 1.97 - 2.45) were independent significant predictors of OASIS, with increasing parity conferring a significant protective effect. The 'prebirth variable' model showed a 95 % sensitivity and a 24 % specificity in predicting OASIS with 1 % probability, and a 3 % sensitivity and a 99 % specificity in predicting OASIS with a 10 % probability.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our model identified several significant OASIS risk factors that are known prior to actual birth. The prognostic model shows potential for ruling out OASIS (high sensitivity with a low risk cut-off value), but is not useful for ruling in the event.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Webb</LastName>
+<ForeName>Sara S</ForeName>
+<Initials>SS</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Metabolism and Systems Research, College of Medical and Dental Sciences, University of Birmingham, Birmingham, UK. webbyali@blueyonder.co.uk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Delivery Suite, Birmingham Women's NHS Foundation Trust, Mindelsohn Way, Edgbaston, Birmingham, B15 2TG, UK. webbyali@blueyonder.co.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hemming</LastName>
+<ForeName>Karla</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Applied Health Research, University of Birmingham, Birmingham, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khalfaoui</LastName>
+<ForeName>Madhi Y</ForeName>
+<Initials>MY</Initials>
+<AffiliationInfo>
+<Affiliation>School of surgery, North Western Deanery, Manchester, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Henriksen</LastName>
+<ForeName>Tine Brink</ForeName>
+<Initials>TB</Initials>
+<AffiliationInfo>
+<Affiliation>Perinatal Epidemiology Research Unit, Aarhus University Hospital, Aarhus, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kindberg</LastName>
+<ForeName>Sara</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Perinatal Epidemiology Research Unit, Aarhus University Hospital, Aarhus, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stensgaard</LastName>
+<ForeName>Stine</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Perinatal Epidemiology Research Unit, Aarhus University Hospital, Aarhus, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kettle</LastName>
+<ForeName>Christine</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Staffordshire University, Stafford, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ismail</LastName>
+<ForeName>Khaled M K</ForeName>
+<Initials>KM</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Metabolism and Systems Research, College of Medical and Dental Sciences, University of Birmingham, Birmingham, UK.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Delivery Suite, Birmingham Women's NHS Foundation Trust, Mindelsohn Way, Edgbaston, Birmingham, B15 2TG, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>CDRF-2012-03-064</GrantID>
+<Agency>Department of Health</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>WMCLAHRC-2014-1</GrantID>
+<Agency>Department of Health</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D023361">Validation Studies</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>09</Month>
+<Day>02</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Int Urogynecol J</MedlineTA>
+<NlmUniqueID>101567041</NlmUniqueID>
+<ISSNLinking>0937-3462</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001003">Anal Canal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000293">injuries</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001724">Birth Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D036861">Delivery, Obstetric</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003718">Denmark</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D022125">Lacerations</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007744">Obstetric Labor Complications</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018709">Statistics, Nonparametric</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Cohort study</Keyword>
+<Keyword MajorTopicYN="N">OASIS</Keyword>
+<Keyword MajorTopicYN="N">Predictor variables</Keyword>
+<Keyword MajorTopicYN="N">Prognostic model</Keyword>
+<Keyword MajorTopicYN="N">Risk factors</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>05</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>08</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>9</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27589856</ArticleId>
+<ArticleId IdType="doi">10.1007/s00192-016-3125-2</ArticleId>
+<ArticleId IdType="pii">10.1007/s00192-016-3125-2</ArticleId>
+<ArticleId IdType="pmc">PMC5331086</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Obstet Gynecol. 2010 Oct;116(4):901-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20859154</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BJOG. 2012 Apr;119(5):522-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22304364</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Birth. 2006 Jun;33(2):117-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16732776</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aust N Z J Obstet Gynaecol. 2014 Oct;54(5):441-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24773582</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Obstet Gynecol Reprod Biol. 1988 Jan;27(1):27-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3338606</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BJOG. 2008 Jan;115(1):104-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17999693</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2000;(2):CD000081</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10796120</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 1994 Apr 2;308(6933):887-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8173367</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Obstet Gynecol Reprod Biol. 2011 Feb;154(2):223-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21055866</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obstet Gynecol. 1990 May;75(5):765-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2183106</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Obstet Gynecol Scand. 1992 Oct;71(7):520-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1332371</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2013 Feb 05;346:e5595</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23386360</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obstet Gynecol. 2010 Jul;116(1):25-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20567164</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BJOG. 2013 Nov;120(12):1516-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23834484</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BJOG. 2012 Dec;119(13):1640-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23078268</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2011 Dec 07;(12):CD006672</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22161407</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Birth. 2015 Mar;42(1):86-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25439012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BJOG. 2001 Apr;108(4):383-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11305545</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Obstet Gynaecol. 1997 May;104(5):563-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9166198</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Obstet Gynecol. 2011 Apr;204(4):347.e1-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21183150</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ Open. 2012 Oct 17;2(5):null</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23075573</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Res Notes. 2014 Jul 24;7:471</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25056485</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

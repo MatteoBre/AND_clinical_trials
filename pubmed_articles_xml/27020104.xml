@@ -1,0 +1,188 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27020104</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>06</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>09</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-355X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>95</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>06</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>International journal of radiation oncology, biology, physics</Title>
+<ISOAbbreviation>Int. J. Radiat. Oncol. Biol. Phys.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Radiation Therapy Noncompliance and Clinical Outcomes in an Urban Academic Cancer Center.</ArticleTitle>
+<Pagination>
+<MedlinePgn>563-70</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijrobp.2016.01.043</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0360-3016(16)00064-X</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE">To examine associations between radiation therapy (RT) noncompliance and clinical outcomes.</AbstractText>
+<AbstractText Label="METHODS AND MATERIALS">We reviewed all patients who completed courses of external beam RT with curative intent in our department from the years 2007 to 2012 for cancers of the head and neck, breast, lung, cervix, uterus, or rectum. Patients who missed 2 or more scheduled RT appointments (excluding planned treatment breaks) were deemed noncompliant. Univariate, multivariable, and propensity-matched analyses were performed to examine associations between RT noncompliance and clinical outcomes.</AbstractText>
+<AbstractText Label="RESULTS">Of 1227 patients, 266 (21.7%) were noncompliant. With median follow-up of 50.9 months, 108 recurrences (8.8%) and 228 deaths (18.6%) occurred. In univariate analyses, RT noncompliance was associated with increased recurrence risk (5-year cumulative incidence 16% vs 7%, P&lt;.001), inferior recurrence-free survival (5-year actuarial rate 63% vs 79%, P&lt;.001), and inferior overall survival (5-year actuarial rate 72% vs 83%, P&lt;.001). In multivariable analyses that were adjusted for disease site and stage, comorbidity score, gender, ethnicity, race, and socioeconomic status (SES), RT noncompliance was associated with inferior recurrence, recurrence-free survival, and overall survival rates. Propensity score-matched models yielded results nearly identical to those seen in univariate analyses. Low SES was associated with RT noncompliance and was associated with inferior clinical outcomes in univariate analyses, but SES was not associated with inferior outcomes in multivariable models.</AbstractText>
+<AbstractText Label="CONCLUSION">For cancer patients being treated with curative intent, RT noncompliance is associated with inferior clinical outcomes. The magnitudes of these effects demonstrate that RT noncompliance can serve as a behavioral biomarker to identify high-risk patients who require additional interventions. Treatment compliance may mediate the associations that have been observed linking SES and clinical outcomes.</AbstractText>
+<CopyrightInformation>Copyright © 2016 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ohri</LastName>
+<ForeName>Nitin</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, New York.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rapkin</LastName>
+<ForeName>Bruce D</ForeName>
+<Initials>BD</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology and Population Health, Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, New York.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guha</LastName>
+<ForeName>Chandan</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, New York.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kalnicki</LastName>
+<ForeName>Shalom</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, New York.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garg</LastName>
+<ForeName>Madhur</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, New York. Electronic address: mgarg@montefiore.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Int J Radiat Oncol Biol Phys</MedlineTA>
+<NlmUniqueID>7603616</NlmUniqueID>
+<ISSNLinking>0360-3016</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010349">Patient Compliance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057216">Propensity Score</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012923">Social Class</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>28</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>6</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27020104</ArticleId>
+<ArticleId IdType="pii">S0360-3016(16)00064-X</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ijrobp.2016.01.043</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

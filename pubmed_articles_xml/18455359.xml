@@ -1,0 +1,198 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18455359</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>10</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2010</Year>
+<Month>11</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0753-3322</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>62</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Biomedicine &amp; pharmacotherapy = Biomedecine &amp; pharmacotherapie</Title>
+<ISOAbbreviation>Biomed. Pharmacother.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Inhibition of reverse transcriptase activity of HIV by polysaccharides of brown algae.</ArticleTitle>
+<Pagination>
+<MedlinePgn>303-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.biopha.2008.03.006</ELocationID>
+<Abstract>
+<AbstractText>Brown algae have two kinds of acid polysaccharides present in the extracellular matrix: sulfated fucan and alginic acid. We have previously isolated and characterized fucans from several species of brown seaweed. The characterized fucans from Dictyotaceae are heterofucans containing mainly fucose, galactose, glucose, xylose, and/or uronic acid. The fucan from Fucus vesiculosus is a homofucan containing only sulfated fucose. We assessed the activity of these fucans as inhibitors of HIV from reverse transcriptase (RT). Using activated DNA and template primers poly(rA)-oligo(dT), we found that fucans at a concentration of 0.5-1.0 microg/mL had a pronounced inhibitory effect in vitro on the avian reverse transcriptase, with the exception of xylogalactofucan isolated from Spatoglossum schröederi, which had no inhibitory activity. The alginic acid (1.0 microg/mL) inhibited the reverse transcriptase activity by 51.1% using activated DNA. The inhibitory effect of fucans was eliminated by their desulfation. Furthermore, only xylofucoglucuronan from S. schröederi lost its activity after carboxyreduction. We suggest that fucan activity is not only dependent on the ionic changes but also on the sugar rings that act to spatially orientate the charges in a configuration that recognizes the enzyme, thus determining the specificity of the binding.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Queiroz</LastName>
+<ForeName>K C S</ForeName>
+<Initials>KC</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratório de Glicobiologia, Departamento de Bioquímica, Universidade Federal de Rio Grande do Norte-UFRN, Av. Senador Salgado Filho, 3000, Campus Universitário, Centro de Biociências, Bairro Lagoa Nova. CEP 59072-970, Natal-RN, Brazil.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Medeiros</LastName>
+<ForeName>V P</ForeName>
+<Initials>VP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Queiroz</LastName>
+<ForeName>L S</ForeName>
+<Initials>LS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abreu</LastName>
+<ForeName>L R D</ForeName>
+<Initials>LR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rocha</LastName>
+<ForeName>H A O</ForeName>
+<Initials>HA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ferreira</LastName>
+<ForeName>C V</ForeName>
+<Initials>CV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jucá</LastName>
+<ForeName>M B</ForeName>
+<Initials>MB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aoyama</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leite</LastName>
+<ForeName>E L</ForeName>
+<Initials>EL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>04</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>France</Country>
+<MedlineTA>Biomed Pharmacother</MedlineTA>
+<NlmUniqueID>8213295</NlmUniqueID>
+<ISSNLinking>0753-3322</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019380">Anti-HIV Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011134">Polysaccharides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018894">Reverse Transcriptase Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9072-19-9</RegistryNumber>
+<NameOfSubstance UI="C007789">fucoidan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.-</RegistryNumber>
+<NameOfSubstance UI="C514824">reverse transcriptase, Human immunodeficiency virus 1</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.7.49</RegistryNumber>
+<NameOfSubstance UI="D054303">HIV Reverse Transcriptase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019380">Anti-HIV Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054303">HIV Reverse Transcriptase</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000459">Phaeophyta</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011134">Polysaccharides</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018894">Reverse Transcriptase Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013329">Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2008</Year>
+<Month>02</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2008</Year>
+<Month>03</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>5</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>31</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>5</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18455359</ArticleId>
+<ArticleId IdType="pii">S0753-3322(08)00065-6</ArticleId>
+<ArticleId IdType="doi">10.1016/j.biopha.2008.03.006</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

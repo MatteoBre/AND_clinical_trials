@@ -1,0 +1,681 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26825461</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>08</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1362-4962</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>44</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Apr</Month>
+<Day>07</Day>
+</PubDate>
+</JournalIssue>
+<Title>Nucleic acids research</Title>
+<ISOAbbreviation>Nucleic Acids Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>RBM3 regulates temperature sensitive miR-142-5p and miR-143 (thermomiRs), which target immune genes and control fever.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2888-97</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1093/nar/gkw041</ELocationID>
+<Abstract>
+<AbstractText>Fever is commonly used to diagnose disease and is consistently associated with increased mortality in critically ill patients. However, the molecular controls of elevated body temperature are poorly understood. We discovered that the expression of RNA-binding motif protein 3 (RBM3), known to respond to cold stress and to modulate microRNA (miRNA) expression, was reduced in 30 patients with fever, and in THP-1-derived macrophages maintained at a fever-like temperature (40 °C). Notably, RBM3 expression is reduced during fever whether or not infection is demonstrable. Reduced RBM3 expression resulted in increased expression of RBM3-targeted temperature-sensitive miRNAs, we termed thermomiRs. ThermomiRs such as miR-142-5p and miR-143 in turn target endogenous pyrogens including IL-6, IL6ST, TLR2, PGE2 and TNF to complete a negative feedback mechanism, which may be crucial to prevent pathological hyperthermia. Using normal PBMCs that were exogenously exposed to fever-like temperature (40 °C), we further demonstrate the trend by which decreased levels of RBM3 were associated with increased levels of miR-142-5p and miR-143 and vice versa over a 24 h time course. Collectively, our results indicate the existence of a negative feedback loop that regulates fever via reduced RBM3 levels and increased expression of miR-142-5p and miR-143.</AbstractText>
+<CopyrightInformation>© The Author(s) 2016. Published by Oxford University Press on behalf of Nucleic Acids Research.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wong</LastName>
+<ForeName>Justin J-L</ForeName>
+<Initials>JJ</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Au</LastName>
+<ForeName>Amy Y M</ForeName>
+<Initials>AY</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gao</LastName>
+<ForeName>Dadi</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia Bioinformatics Laboratory, Centenary Institute, Camperdown 2050, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pinello</LastName>
+<ForeName>Natalia</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kwok</LastName>
+<ForeName>Chau-To</ForeName>
+<Initials>CT</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thoeng</LastName>
+<ForeName>Annora</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lau</LastName>
+<ForeName>Katherine A</ForeName>
+<Initials>KA</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gordon</LastName>
+<ForeName>Jane E A</ForeName>
+<Initials>JE</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmitz</LastName>
+<ForeName>Ulf</ForeName>
+<Initials>U</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feng</LastName>
+<ForeName>Yue</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nguyen</LastName>
+<ForeName>Trung V</ForeName>
+<Initials>TV</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Middleton</LastName>
+<ForeName>Robert</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia Bioinformatics Laboratory, Centenary Institute, Camperdown 2050, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bailey</LastName>
+<ForeName>Charles G</ForeName>
+<Initials>CG</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holst</LastName>
+<ForeName>Jeff</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Sydney Medical School, University of Sydney, NSW 2006, Australia Origins of Cancer Program, Centenary Institute, Camperdown 2050, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rasko</LastName>
+<ForeName>John E J</ForeName>
+<Initials>JE</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia Cell and Molecular Therapies, Royal Prince Alfred Hospital, Camperdown 2050, Australia j.rasko@centenary.usyd.edu.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ritchie</LastName>
+<ForeName>William</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Gene &amp; Stem Cell Therapy Program, Centenary Institute, Camperdown 2050, Australia Sydney Medical School, University of Sydney, NSW 2006, Australia Bioinformatics Laboratory, Centenary Institute, Camperdown 2050, Australia CNRS, UMR 5203, Montpellier 34094, France william.ritchie@igf.cnrs.fr.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>28</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Nucleic Acids Res</MedlineTA>
+<NlmUniqueID>0411011</NlmUniqueID>
+<ISSNLinking>0305-1048</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C508600">IL6 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C494199">IL6ST protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C555159">MIRN142 microRNA, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C542359">MIRN143 microRNA, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C099506">RBM3 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D034741">RNA, Small Interfering</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016601">RNA-Binding Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018078">Receptors, Prostaglandin E</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C495342">TLR2 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C439524">TNF protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051195">Toll-Like Receptor 2</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>133483-10-0</RegistryNumber>
+<NameOfSubstance UI="D050822">Cytokine Receptor gp130</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001831">Body Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001833">Body Temperature Regulation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050822">Cytokine Receptor gp130</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D025461">Feedback, Physiological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005334">Fever</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005786">Gene Expression Regulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015850">Interleukin-6</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007963">Leukocytes, Mononuclear</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008264">Macrophages</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061251">Primary Cell Culture</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D034741">RNA, Small Interfering</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016601">RNA-Binding Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018078">Receptors, Prostaglandin E</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051195">Toll-Like Receptor 2</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014409">Tumor Necrosis Factor-alpha</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>31</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>31</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26825461</ArticleId>
+<ArticleId IdType="pii">gkw041</ArticleId>
+<ArticleId IdType="doi">10.1093/nar/gkw041</ArticleId>
+<ArticleId IdType="pmc">PMC4824108</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Bioinformatics. 2012 Apr 15;28(8):1058-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22408193</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Oncol. 2014 Dec;31(12):319</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25412934</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Mol Med. 2009 Sep 30;41(9):638-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19478556</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Cell Biol. 2015 Mar;25(3):137-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25484347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem Biophys Res Commun. 2013 Sep 13;439(1):6-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23973710</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Clin Pract. 2014 Apr;68(4):520-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24548627</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2011 Apr 7;117(14):3720-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21304099</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Transl Med. 2010;8:78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20727170</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Mol Cell Biol. 2012 Apr;13(4):239-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22436747</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Res. 2009 Jul 1;83(1):131-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19377067</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 1993 Feb 12;72(3):415-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7679328</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2011;6(12):e28446</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22145045</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2013 Jul 30;110(31):12792-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23858444</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Shock. 2012 Dec;38(6):620-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23143054</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO Mol Med. 2012 Jul;4(7):617-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22367739</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2001 Apr 26;410(6832):1099-103</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11323673</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gene. 1999 Apr 29;231(1-2):59-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10231569</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2011 Jun 9;117(23):6172-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21474672</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2002 Jun;92(6):2648-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12015385</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intensive Care Med. 2012 Jan 31;:null</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22290072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol. 1976 Jul;231(1):198-203</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">961860</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Endotoxin Res. 2004;10(4):201-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15373964</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2002 Apr;30(4):363-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11896390</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1999 Jul 9;285(5425):260-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10398604</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>World J Crit Care Med. 2012 Aug 04;1(4):106-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24701408</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Res Ther. 2011;13(4):229</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21787439</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 1988 Jan;8(1):91-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3122028</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(10):e75918</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24146790</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(1):e54612</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23372743</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2013 Feb 28;121(9):1563-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23293080</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Methods. 2012 Apr;9(4):357-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22388286</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(3):e33095</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22431998</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2015 Jan;22(1):22-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25190144</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Mol Med. 2014 Apr;20(4):204-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24548661</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2005 Feb 8;102(6):1865-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15684048</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int Immunopharmacol. 2014 Nov;23(1):37-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25130606</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Protoc. 2009;4(1):44-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19131956</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>RNA. 2007 May;13(5):723-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17400817</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Public Health. 2011 Aug;4(3):108-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21843857</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sci Rep. 2013;3:2054</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23792593</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Pathog. 2013;9(6):e1003451</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23825948</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hematol Oncol. 2014;7:42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24886830</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2011 Jan 27;117(4):1205-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20956800</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer. 2013;12:77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23866094</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genomics Proteomics Bioinformatics. 2012 Oct;10(5):246-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23200134</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol Methods. 2009 May 31;344(2):109-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19345690</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 1986 Apr 25;45(2):185-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2421918</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2012 Sep;64(9):2953-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22549634</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2008 Nov;39(11):3029-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18723420</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Rep. 2014 Jun 12;7(5):1362-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24857664</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

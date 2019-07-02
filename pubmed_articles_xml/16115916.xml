@@ -1,0 +1,222 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16115916</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>12</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>11</Month>
+<Day>17</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1078-0432</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>11</Volume>
+<Issue>16</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Aug</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Clinical cancer research : an official journal of the American Association for Cancer Research</Title>
+<ISOAbbreviation>Clin. Cancer Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Expression of autocrine motility factor correlates with the angiogenic phenotype of and poor prognosis for human gastric cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>5778-83</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Autocrine motility factor (AMF) is a cytokine known to regulate tumor cell motility. Recent studies have extended its role to many other aspects of cancer biology. In the present study, we examined the level of AMF expression and its relationship with vascular endothelial growth factor (VEGF) expression and the angiogenic phenotype in human gastric cancer and their effect on survival. The AMF and VEGF expression level and tumor microvessel density (MVD) status in archived tissue specimens from 86 resected gastric cancer cases were determined. AMF expression was significantly higher in both primary tumors and lymph node metastases than in adjacent normal gastric mucosa and normal gastric mucosa from individuals without gastric cancer. In univariate survival analyses, strong AMF expression was associated with inferior survival (P = 0.028). In a Cox proportional hazards model, strong AMF expression (P = 0.019) was independently prognostic of poor survival. Strong AMF expression in the lymph node metastases was associated with poor survival (P = 0.011). Furthermore, AMF expression in the primary tumors was directly correlated with VEGF expression and MVD status. We found the first clinical evidence that AMF expression is directly correlated with VEGF expression and MVD status and predicts clinical outcome in patients with gastric cancer, supporting the hypothesis that the AMF/AMF receptor pathway plays an important role in multiple aspects of cancer biology.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gong</LastName>
+<ForeName>Weida</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurosurgery, University of Texas M.D. Anderson Cancer Center, Houston, Texas 77030, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jiang</LastName>
+<ForeName>Yixing</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Liwei</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wei</LastName>
+<ForeName>Daoyan</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yao</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Suyun</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fang</LastName>
+<ForeName>Shengyun</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xie</LastName>
+<ForeName>Keping</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>1R01-CA093829</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>1R01-GM69967-01A1</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>CA16672-23</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Clin Cancer Res</MedlineTA>
+<NlmUniqueID>9502500</NlmUniqueID>
+<ISSNLinking>1078-0432</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018952">Antigens, CD34</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 5.3.1.9</RegistryNumber>
+<NameOfSubstance UI="D005956">Glucose-6-Phosphate Isomerase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018952">Antigens, CD34</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015153">Blotting, Western</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005753">Gastric Mucosa</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005956">Glucose-6-Phosphate Isomerase</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007150">Immunohistochemistry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008207">Lymphatic Metastasis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009389">Neovascularization, Pathologic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013274">Stomach Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000098">blood supply</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D042461">Vascular Endothelial Growth Factor A</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>8</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>12</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>8</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16115916</ArticleId>
+<ArticleId IdType="pii">11/16/5778</ArticleId>
+<ArticleId IdType="doi">10.1158/1078-0432.CCR-05-0214</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

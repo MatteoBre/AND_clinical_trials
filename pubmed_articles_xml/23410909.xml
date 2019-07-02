@@ -1,0 +1,246 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23410909</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>01</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>08</Month>
+<Day>23</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1872-7727</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>82</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>European journal of radiology</Title>
+<ISOAbbreviation>Eur J Radiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Regional PET/CT after water gastric inflation for evaluating loco-regional disease of gastric cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>935-42</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejrad.2013.01.014</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0720-048X(13)00048-X</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We aimed to improve diagnostic accuracy of (18)F-fluoro-2-deoxyglucose (FDG) PET/CT for gastric cancer with water gastric inflation.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">44 gastric cancer patients (M:F=30:14, age ± std=62.1 ± 14.5 y) were enrolled before surgery. Fifty minutes after injection of FDG (0.14 mCi/kg body weight), whole body PET/CT was performed first and then regional PET/CT over gastric area was obtained 80 min post FDG injection after water gastric inflation. Diagnostic accuracies for loco-regional lesions were compared between whole body and regional PET/CT.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">48 primary tumors (23 EGC and 25 AGC) and 348 LN stations (61 metastatic and 287 benign) in 44 patients were investigated. Primary tumor sensitivity of whole body PET/CT (50%=24/48) was significantly improved by regional PET/CT (75%=36/48, p&lt;0.005). Sensitivity of whole body PET/CT (24.6%=15/61) for LN metastasis was also significantly improved by regional PET/CT (36.1%=22/61, p&lt;0.01), whereas specificity of whole body PET/CT (99.3%=285/287) was not compromised by regional PET/CT (98.3%=282/287, p&gt;0.05). Higher primary tumor FDG uptake in regional PET/CT indicated shorter progress-free survival (p=0.0003).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Diagnostic accuracy of whole body PET/CT for loco-regional disease of gastric cancer could be significantly improved by regional PET/CT after water gastric inflation and prognosis could be effectively predicted by primary tumor FDG uptake in regional PET/CT.</AbstractText>
+<CopyrightInformation>Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Soo Jin</ForeName>
+<Initials>SJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Nuclear Medicine, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Republic of Korea. suji76@hanmail.net</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Won Woo</ForeName>
+<Initials>WW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yoon</LastName>
+<ForeName>Hai-Jeon</ForeName>
+<Initials>HJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Ho-Young</ForeName>
+<Initials>HY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Kyoung Ho</ForeName>
+<Initials>KH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Young Hoon</ForeName>
+<Initials>YH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Park</LastName>
+<ForeName>Do Joong</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Hyung-Ho</ForeName>
+<Initials>HH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>So</LastName>
+<ForeName>Young</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Sang Eun</ForeName>
+<Initials>SE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>02</Month>
+<Day>12</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Ireland</Country>
+<MedlineTA>Eur J Radiol</MedlineTA>
+<NlmUniqueID>8106411</NlmUniqueID>
+<ISSNLinking>0720-048X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>059QF0KO0R</RegistryNumber>
+<NameOfSubstance UI="D014867">Water</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0Z5B2CJX4D</RegistryNumber>
+<NameOfSubstance UI="D019788">Fluorodeoxyglucose F18</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019788">Fluorodeoxyglucose F18</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064847">Multimodal Imaging</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049268">Positron-Emission Tomography</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019275">Radiopharmaceuticals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D056910">Republic of Korea</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013274">Stomach Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014867">Water</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>01</Month>
+<Day>10</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>01</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23410909</ArticleId>
+<ArticleId IdType="pii">S0720-048X(13)00048-X</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ejrad.2013.01.014</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

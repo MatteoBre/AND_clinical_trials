@@ -1,0 +1,172 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12485542</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>01</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0094-3509</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>51</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2002</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of family practice</Title>
+<ISOAbbreviation>J Fam Pract</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Beta-blockers no better than placebo in the treatment of vasovagal syncope.</ArticleTitle>
+<Pagination>
+<MedlinePgn>921</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Phillips</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Virginia Commonwealth University, Fairfax Family Practice Residency, Fairfax, VA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krist</LastName>
+<ForeName>Alex</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Fam Pract</MedlineTA>
+<NlmUniqueID>7502590</NlmUniqueID>
+<ISSNLinking>0094-3509</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000319">Adrenergic beta-Antagonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>42200-33-9</RegistryNumber>
+<NameOfSubstance UI="D009248">Nadolol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9Y8NXQ24VQ</RegistryNumber>
+<NameOfSubstance UI="D011433">Propranolol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000319">Adrenergic beta-Antagonists</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004334">Drug Administration Schedule</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009248">Nadolol</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011336">Probability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011433">Propranolol</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012016">Reference Values</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012720">Severity of Illness Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019462">Syncope, Vasovagal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>12</Month>
+<Day>18</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>1</Month>
+<Day>10</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>12</Month>
+<Day>18</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12485542</ArticleId>
+<ArticleId IdType="pii">jfp_1102_</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

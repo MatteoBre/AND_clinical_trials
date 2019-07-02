@@ -1,0 +1,488 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19411310</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>08</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1522-1504</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>297</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>American journal of physiology. Lung cellular and molecular physiology</Title>
+<ISOAbbreviation>Am. J. Physiol. Lung Cell Mol. Physiol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Lipid-soluble components in cigarette smoke induce mitochondrial production of reactive oxygen species in lung epithelial cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>L109-14</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1152/ajplung.90461.2008</ELocationID>
+<Abstract>
+<AbstractText>Reactive oxygen species (ROS) present in cigarette smoke (CS) are thought to contribute to the development of COPD. Although CS-ROS can hardly enter airway epithelial cells, and certainly not the circulation, systemic levels of ROS have been found to be elevated in COPD patients. We hypothesize that lipophilic components present in CS can enter airway epithelial cells and increase intracellular ROS production by disturbing mitochondrial function. Different airway epithelial cells were exposed to CS extract (CSE), hexane-treated CSE (CSE without lipophilic components), gaseous-phase CS, and water-filtered CS (gaseous-phase CS without ROS). Mitochondrial membrane potential (Deltapsi(m)) and ATP levels were assessed using the bronchial epithelial cell line Beas-2b. ROS generation measured directly by DCF fluorescence and indirectly by measuring free thiol groups (-SH) upon exposure to CS was assessed using lung alveolar epithelial cells devoid of functional mitochondria (A549-rho0), with normal A549 cells serving as controls. In Beas-2b cells, CSE (4 h) caused a dose-dependent decrease in Deltapsi(m) and ATP levels, whereas hexane-treated CSE did not. DCF fluorescence in A549 cells increased in response to CSE, whereas this was not the case in A549-rho0 cells. Exposure of A549 cells to CS resulted in a rapid decrease in free -SH, whereas exposure to ROS-depleted CS only resulted in a delayed decrease. This delayed decrease was less pronounced in A549-rho0 cells. Lipophilic components in CS disturb mitochondrial function, which contributes to increased intracellular generation of ROS. Our results are of importance in understanding the systemic effects of smoking observed in patients with COPD.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>van der Toorn</LastName>
+<ForeName>Marco</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pathology and Medical Biology, Laboratory of Allergology and Pulmonary Diseases, University Medical Center Groningen, University of Groningen, The Netherlands.m.van.der.toorn@med.umcg.nl</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rezayat</LastName>
+<ForeName>Delaram</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kauffman</LastName>
+<ForeName>Henk F</ForeName>
+<Initials>HF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bakker</LastName>
+<ForeName>Stephan J L</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gans</LastName>
+<ForeName>Rijk O B</ForeName>
+<Initials>RO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koëter</LastName>
+<ForeName>Gerard H</ForeName>
+<Initials>GH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Choi</LastName>
+<ForeName>Augustine M K</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Oosterhout</LastName>
+<ForeName>Antoon J M</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Slebos</LastName>
+<ForeName>Dirk-Jan</ForeName>
+<Initials>DJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01-HL-079904</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01-HL-55330</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01-HL-6234</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>05</Month>
+<Day>01</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Physiol Lung Cell Mol Physiol</MedlineTA>
+<NlmUniqueID>100901229</NlmUniqueID>
+<ISSNLinking>1040-0605</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005740">Gases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017382">Reactive Oxygen Species</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012906">Smoke</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012996">Solutions</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D013438">Sulfhydryl Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>059QF0KO0R</RegistryNumber>
+<NameOfSubstance UI="D014867">Water</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004847">Epithelial Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005374">Filtration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005740">Gases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008055">Lipids</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008168">Lung</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008928">Mitochondria</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010084">Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017382">Reactive Oxygen Species</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012906">Smoke</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012995">Solubility</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012996">Solutions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013438">Sulfhydryl Compounds</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014026">Tobacco</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014867">Water</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>5</Month>
+<Day>5</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>5</Month>
+<Day>5</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>8</Month>
+<Day>12</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19411310</ArticleId>
+<ArticleId IdType="pii">90461.2008</ArticleId>
+<ArticleId IdType="doi">10.1152/ajplung.90461.2008</ArticleId>
+<ArticleId IdType="pmc">PMC2711811</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2001 Apr;163(5):1256-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11316667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1997 Jun;51(6):1669-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9186854</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Cell Mol Biol. 2008 May;38(5):541-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18079489</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Food Chem Toxicol. 2002 Jan;40(1):93-104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11731039</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 1999 Jul 9;454(3):173-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10431801</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Free Radic Biol Med. 1996;21(5):669-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8891669</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Cell Mol Biol. 2001 Oct;25(4):515-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11694458</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Lung Cell Mol Physiol. 2007 Nov;293(5):L1156-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17720877</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J Suppl. 2003 Nov;46:5s-13s</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14621102</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thorax. 2007 Nov;62(11):944-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17526675</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Cell Mol Biol. 2007 Apr;36(4):409-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17079780</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Environ Health Perspect. 1994 Dec;102 Suppl 10:85-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7705313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Treat Respir Med. 2005;4(3):175-200</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15987234</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respir Med. 2007 Aug;101(8):1670-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17449234</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Sci. 2007 Dec 1;120(Pt 23):4155-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18032788</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Heart Circ Physiol. 2005 Dec;289(6):H2379-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15964927</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Rev Toxicol. 1991;21(4):235-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2069709</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Vasc Med. 2002 Aug;2(3):243-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16222617</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2002 Mar 12;105(10):1155-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11889006</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2007 Apr;29(4):643-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17182653</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 1992 Jul 6;305(3):233-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1338594</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2003 Oct;22(4):672-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14582923</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chest Med. 2007 Sep;28(3):537-52, vi</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17720042</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Lung Cell Mol Physiol. 2001 Aug;281(2):L509-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11435227</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Free Radic Biol Med. 2002 Apr 1;32(7):605-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11909695</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Redox Rep. 2003;8(3):135-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12935310</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2002 Feb 19;99(4):1876-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11854488</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Carcinogenesis. 1999 Jul;20(7):1331-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10383908</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thorax. 1997 May;52(5):465-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9176540</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2000 May;71(5):1033-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10799364</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Environ Health Perspect. 2003 Apr;111(4):455-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12676598</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Mol Pathol. 2007 Aug;83(1):84-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17239370</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 2001 Oct;158(2):257-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11583703</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chem Res Toxicol. 2002 May;15(5):677-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12018989</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>COPD. 2004;1(2):255-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17136992</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chem Lab Med. 2002 Oct;40(10):1028-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12476943</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Cell Physiol. 2005 Jun;288(6):C1440-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15647387</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Lung Cell Mol Physiol. 2007 May;292(5):L1211-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17209140</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2007 Apr;29(4):633-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17251228</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anal Chem. 2003 Sep 1;75(17):4441-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14632048</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

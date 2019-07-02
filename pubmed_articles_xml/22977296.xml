@@ -1,0 +1,201 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="Publisher">
+<PMID Version="1">22977296</PMID>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1051-0117</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>2010</Volume>
+<PubDate>
+<Year>2010</Year>
+<Month>Oct</Month>
+<Day>11</Day>
+</PubDate>
+</JournalIssue>
+<Title>Proceedings. IEEE Ultrasonics Symposium</Title>
+<ISOAbbreviation>Proc IEEE Ultrason Symp</ISOAbbreviation>
+</Journal>
+<ArticleTitle>3-D Deep Penetration Photoacoustic Imaging with a 2-D CMUT Array.</ArticleTitle>
+<Pagination>
+<MedlinePgn>375-377</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In this work, we demonstrate 3-D photoacoustic imaging of optically absorbing targets embedded as deep as 5 cm inside a highly scattering background medium using a 2-D capacitive micromachined ultrasonic transducer (CMUT) array with a center frequency of 5.5 MHz. 3-D volumetric images and 2-D maximum intensity projection images are presented to show the objects imaged at different depths. Due to the close proximity of the CMUT to the integrated frontend circuits, the CMUT array imaging system has a low noise floor. This makes the CMUT a promising technology for deep tissue photoacoustic imaging.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ma</LastName>
+<ForeName>Te-Jen</ForeName>
+<Initials>TJ</Initials>
+<AffiliationInfo>
+<Affiliation>Edward L. Ginzton Laboratory, Stanford University, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kothapalli</LastName>
+<ForeName>Sri Rajasekhar</ForeName>
+<Initials>SR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vaithilingam</LastName>
+<ForeName>Srikant</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oralkan</LastName>
+<ForeName>Omer</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kamaya</LastName>
+<ForeName>Aya</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wygant</LastName>
+<ForeName>Ira O</ForeName>
+<Initials>IO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhuang</LastName>
+<ForeName>Xuefeng</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gambhir</LastName>
+<ForeName>Sanjiv S</ForeName>
+<Initials>SS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jeffrey</LastName>
+<ForeName>R Brooke</ForeName>
+<Initials>RB</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khuri-Yakub</LastName>
+<ForeName>Butrus T</ForeName>
+<Initials>BT</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 CA134720</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 CA134720-02</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 CA134720-03</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Proc IEEE Ultrason Symp</MedlineTA>
+<NlmUniqueID>101525361</NlmUniqueID>
+<ISSNLinking>1051-0117</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>11</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>11</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22977296</ArticleId>
+<ArticleId IdType="doi">10.1109/ULTSYM.2010.5935647</ArticleId>
+<ArticleId IdType="pmc">PMC3438520</ArticleId>
+<ArticleId IdType="mid">NIHMS255135</ArticleId>
+</ArticleIdList>
+<?nihms ?>
+<ReferenceList>
+<Reference>
+<Citation>Opt Lett. 2004 Nov 1;29(21):2506-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15584276</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>IEEE Trans Ultrason Ferroelectr Freq Control. 2003 Feb;50(2):128-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12625586</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>IEEE Trans Ultrason Ferroelectr Freq Control. 2005 Dec;52(12):2242-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16463490</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>IEEE Trans Ultrason Ferroelectr Freq Control. 2008 Feb;55(2):327-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18334340</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>IEEE Trans Ultrason Ferroelectr Freq Control. 2009 Nov;56(11):2411-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19942528</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Biotechnol. 2003 Jul;21(7):803-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12808463</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Biotechnol. 2006 Jul;24(7):848-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16823374</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Nanotechnol. 2008 Sep;3(9):557-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18772918</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

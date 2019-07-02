@@ -1,0 +1,152 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20841799</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>04</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2010</Year>
+<Month>09</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0926-9630</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>160</Volume>
+<Issue>Pt 2</Issue>
+<PubDate>
+<Year>2010</Year>
+</PubDate>
+</JournalIssue>
+<Title>Studies in health technology and informatics</Title>
+<ISOAbbreviation>Stud Health Technol Inform</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Implementation of a clinical decision support system using a service model: results of a feasibility study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>816-20</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Numerous studies have shown that the quality of health care is inadequate, and healthcare organizations are increasingly turning to clinical decision support systems (CDSS) to address this problem. In implementing CDSS, a highly promising architectural approach is the use of decision support services. However, there are few reported examples of successful implementations of operational CDSS using this approach. Here, we describe how Hospital Italiano de Buenos Aires evaluated the feasibility of using the SEBASTIAN clinical decision support Web service to implement a CDSS integrated with its electronic medical record system. The feasibility study consisted of three stages: first, end-user acceptability testing of the proposed CDSS through focus groups; second, the design and implementation of the system through integration of SEBASTIAN and the authoring of new rules; and finally, validation of system performance and accuracy. Through this study, we found that it is feasible to implement CDSS using a service-based approach. The CDSS is now under evaluation in a randomized controlled trial. The processes and lessons learned from this initiative are discussed.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Borbolla</LastName>
+<ForeName>Damian</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Health Informatics, Hospital Italiano de Buenos Aires, Argentina. damian.borbolla@hiba.org.ar</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Otero</LastName>
+<ForeName>Carlos</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lobach</LastName>
+<ForeName>David F</ForeName>
+<Initials>DF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kawamoto</LastName>
+<ForeName>Kensaku</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gomez Saldaño</LastName>
+<ForeName>Ana M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Staccia</LastName>
+<ForeName>Gustavo</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lopez</LastName>
+<ForeName>Gastón</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Figar</LastName>
+<ForeName>Silvana</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Luna</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bernaldo de Quiros</LastName>
+<ForeName>Fernan Gonzalez</ForeName>
+<Initials>FG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D023361">Validation Studies</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Stud Health Technol Inform</MedlineTA>
+<NlmUniqueID>9214582</NlmUniqueID>
+<ISSNLinking>0926-9630</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>T</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020000">Decision Support Systems, Clinical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003695">Delivery of Health Care</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057286">Electronic Health Records</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006748">Hospital Departments</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020407">Internet</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>4</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20841799</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,291 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26722839</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">2213-2317</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>8</Volume>
+<PubDate>
+<Year>2016</Year>
+<Month>08</Month>
+</PubDate>
+</JournalIssue>
+<Title>Redox biology</Title>
+<ISOAbbreviation>Redox Biol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Detecting presence of cardiovascular disease through mitochondria respiration as depicted through biophotonic emission.</ArticleTitle>
+<Pagination>
+<MedlinePgn>11-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.redox.2015.11.014</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S2213-2317(15)30015-X</ELocationID>
+<Abstract>
+<AbstractText Label="AIMS">Increased production of reactive oxygen species (ROS) in mitochondria, play an important role in the cardiovascular system. Furthermore, oxidative metabolism of mitochondria comprised of biophoton emissions, are linked to ROS and oxidative stress. In this review we investigated the association between the ability of ClearViewTM system (ClearView) to indicate the presence or absence of cardiovascular disease through mitochondria respiration as depicted through biophotonic emission.</AbstractText>
+<AbstractText Label="METHODS AND RESULTS">One hundred and ninety-five out of the three hundred and fifty-three human subjects enrolled in this prospective, single site study had at least one cardiovascular related diagnosis. Measurements with ClearView consisted of scanning all 10 fingers twice. Images were captured through the ClearView software and analyzed to produce a scale that indicates the presence or absence of cardiovascular disease. The association of ClearView's ability to indicate the presence or absence of cardiovascular disease with a physician's diagnosis was assessed using odds ratios (OR) and area under ROC curve (AUC). Adjusting for age, OR of ClearView measurements conducted with capacitive barrier was 3.44 (95%CI: 2.13, 5.55) and the OR without the capacitive barrier was 2.15 (95%CI: 1.42, 3.23). The OR in men were 5.91 (95%CI: 2.35, 14.85) and 2.88 (95%CI: 1.38, 6.01), adjusting for age and corresponding to with and without capacitive barrier. The OR in women were 3.50 (95%CI: 1.86, 6.59) and 2.09 (95%CI: 1.20, 3.64) with and without capacitive barrier. AUCs for measurements with capacitive barrier were &gt;0.90.</AbstractText>
+<AbstractText Label="CONCLUSION">ClearView detected the presence or absence of cardiovascular disease independent of other conditions.</AbstractText>
+<CopyrightInformation>Published by Elsevier B.V.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rizzo</LastName>
+<ForeName>Nancy R</ForeName>
+<Initials>NR</Initials>
+<AffiliationInfo>
+<Affiliation>EPIC Research &amp; Diagnostics, Inc., 7659 E. Pinnacle Peak Road, Suite 115, Scottsdale, AZ 85255, USA. Electronic address: nrizzo@epicdiagnostics.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hank</LastName>
+<ForeName>Nicole C</ForeName>
+<Initials>NC</Initials>
+<AffiliationInfo>
+<Affiliation>EPIC Research &amp; Diagnostics, Inc., 7659 E. Pinnacle Peak Road, Suite 115, Scottsdale, AZ 85255, USA. Electronic address: nhank@epicdiagnostics.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Jian</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>EPIC Research &amp; Diagnostics, Inc., 7659 E. Pinnacle Peak Road, Suite 115, Scottsdale, AZ 85255, USA. Electronic address: jzhang@epicdiagnostics.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>29</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Redox Biol</MedlineTA>
+<NlmUniqueID>101605639</NlmUniqueID>
+<ISSNLinking>2213-2317</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017382">Reactive Oxygen Species</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015502">Absorptiometry, Photon</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019540">Area Under Curve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002318">Cardiovascular Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019069">Cell Respiration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015897">Comorbidity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008929">Mitochondria, Heart</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016017">Odds Ratio</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010084">Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018384">Oxidative Stress</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017785">Photons</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017382">Reactive Oxygen Species</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Biophotons</Keyword>
+<Keyword MajorTopicYN="Y">Cardiovascular disease</Keyword>
+<Keyword MajorTopicYN="Y">Clearview System</Keyword>
+<Keyword MajorTopicYN="Y">Mitochondria</Keyword>
+<Keyword MajorTopicYN="Y">Reactive oxidative stress (ROS)</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>10</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>11</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26722839</ArticleId>
+<ArticleId IdType="pii">S2213-2317(15)30015-X</ArticleId>
+<ArticleId IdType="doi">10.1016/j.redox.2015.11.014</ArticleId>
+<ArticleId IdType="pmc">PMC4710795</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Clin Laser Med Surg. 2001 Dec;19(6):305-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11776448</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2015 Jan 27;131(4):e29-322</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25520374</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Heart Circ Physiol. 2003 Dec;285(6):H2298-308</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12881207</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fed Proc. 1981 Feb;40(2):195-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7461143</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 1990 Dec 11;18(23):6927-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2263455</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acupunct Electrother Res. 2004;29(3-4):197-211</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15807101</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Free Radic Biol Med. 2005 May 15;38(10):1278-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15855047</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Res. 2008 Jan 15;77(2):334-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18006487</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Photomed Laser Surg. 2010 Feb;28(1):23-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19754267</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Photochem Photobiol Sci. 2010 Mar;9(3):315-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20221457</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acupunct Meridian Stud. 2010 Dec;3(4):221-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21185536</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mol Genet. 2013 Oct 15;22(20):4064-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23736300</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mol Cell Cardiol. 2014 Oct;75:122-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25086292</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Cardiol. 2015 Jan;12(1):6-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25421167</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2003 Feb 6;91(3A):7A-11A</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12645638</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

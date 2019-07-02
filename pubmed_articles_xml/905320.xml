@@ -1,0 +1,193 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">905320</PMID>
+<DateCompleted>
+<Year>1977</Year>
+<Month>11</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>11</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0361-7742</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>16</Volume>
+<PubDate>
+<Year>1977</Year>
+</PubDate>
+</JournalIssue>
+<Title>Progress in clinical and biological research</Title>
+<ISOAbbreviation>Prog. Clin. Biol. Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>HLA in breast cancer-prone families and the cancer family syndrome.</ArticleTitle>
+<Pagination>
+<MedlinePgn>149-62</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lynch</LastName>
+<ForeName>H T</ForeName>
+<Initials>HT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Terasaki</LastName>
+<ForeName>P I</ForeName>
+<Initials>PI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guirgis</LastName>
+<ForeName>H A</ForeName>
+<Initials>HA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sherard</LastName>
+<ForeName>B D</ForeName>
+<Initials>BD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Androsh</LastName>
+<ForeName>K L</ForeName>
+<Initials>KL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harris</LastName>
+<ForeName>R E</ForeName>
+<Initials>RE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>King</LastName>
+<ForeName>M C</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Petrakis</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lynch</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Maloney</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rankin</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lynch</LastName>
+<ForeName>P M</ForeName>
+<Initials>PM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Elston</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mulcahy</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Platt</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Prog Clin Biol Res</MedlineTA>
+<NlmUniqueID>7605701</NlmUniqueID>
+<ISSNLinking>0361-7742</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006680">HLA Antigens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006680">HLA Antigens</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006238">Haploidy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006579">Heterozygote</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006720">Homozygote</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012306">Risk</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1977</Year>
+<Month>1</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1977</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1977</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">905320</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

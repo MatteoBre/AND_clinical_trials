@@ -1,0 +1,181 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19932048</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>03</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>07</Month>
+<Day>31</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-0593</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>46</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Oral oncology</Title>
+<ISOAbbreviation>Oral Oncol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Paraneoplastic syndromes in patients with oral cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>14-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.oraloncology.2009.09.007</ELocationID>
+<Abstract>
+<AbstractText>The diagnosis of a paraneoplastic syndrome (PNS) may precede, follow or be concurrent with the diagnosis of a malignant tumor. There is increasing knowledge of association between PNS and head and neck cancers, but the relationship between oral cancer and paraneoplastic disease has not been previously investigated. PNS associated with head and neck cancer can be divided into six main groups: endocrine, cutaneous or dermatologic, hematologic, osteoarticular or rheumatologic, neurologic, and ocular syndromes. We have comprehensively reviewed the literature to evaluate the incidence of occurrence of PNS with oral cancer, and conclude that only endocrine and dermatologic PNS have been associated with oral cancer. Humoral hypercalcemia is the most frequent PNS related to oral cancer, and has a negative prognostic significance. Dermatologic PNS are less common, but when they occur, they may precede the diagnosis of the oral tumor. Awareness of these conditions is important for clinicians who deal with cancer.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Toro</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgical Sciences, Maxillofacial Surgery Clinic, University-Hospital of Udine, Udine, Italy. corradotoro@hotmail.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rinaldo</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Silver</LastName>
+<ForeName>C E</ForeName>
+<Initials>CE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Politi</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ferlito</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>11</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Oral Oncol</MedlineTA>
+<NlmUniqueID>9709118</NlmUniqueID>
+<ISSNLinking>1368-8375</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000169">Acrodermatitis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002294">Carcinoma, Squamous Cell</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003937">Diagnosis, Differential</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055088">Early Detection of Cancer</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006258">Head and Neck Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006934">Hypercalcemia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007642">Keratosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010257">Paraneoplastic Syndromes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010392">Pemphigus</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2009</Year>
+<Month>09</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2009</Year>
+<Month>09</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2009</Year>
+<Month>09</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>3</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19932048</ArticleId>
+<ArticleId IdType="pii">S1368-8375(09)00937-3</ArticleId>
+<ArticleId IdType="doi">10.1016/j.oraloncology.2009.09.007</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

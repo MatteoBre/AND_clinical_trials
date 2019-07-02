@@ -1,0 +1,379 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22282893</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>08</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1524-4628</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>43</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Stroke</Title>
+<ISOAbbreviation>Stroke</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Free Fatty acids and delayed cerebral ischemia after subarachnoid hemorrhage.</ArticleTitle>
+<Pagination>
+<MedlinePgn>691-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1161/STROKEAHA.111.636035</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">The purpose of this study was to understand factors related to increases in serum free fatty acid (FFA) levels and association with delayed cerebral ischemia (DCI) after subarachnoid hemorrhage.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We performed serial measurement of systemic oxygen consumption by indirect calorimetry and FFA levels by liquid chromatography/mass spectrometry in the first 14 days after ictus in 50 consecutive patients with subarachnoid hemorrhage. Multivariable generalized estimating equation models identified associations with FFA levels in the first 14 days after SAH and Cox proportional hazards model used to identified associations with time to DCI.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">There were 187 measurements in 50 patients with subarachnoid hemorrhage (mean age, 56±14 years old; 66% women) with a median Hunt-Hess score of 3. Adjusting for Hunt-Hess grade and daily caloric intake, n-6 and n-3 FFA levels were both associated with oxygen consumption and the modified Fisher score. Fourteen (28%) patients developed DCI on median postbleed Day 7. The modified Fisher score (P=0.01), mean n-6:n-3 FFA ratio (P=0.02), and mean oxygen consumption level (P=0.04) were higher in patients who developed DCI. In a Cox proportional hazards model, the mean n-6:n-3 FFA ratio (P&lt;0.001), younger age (P=0.05), and modified Fisher scale (P=0.004) were associated with time to DCI.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Injury severity and oxygen consumption hypermetabolism are associated with higher n-FFA levels and an increased n-6:n-3 FFA ratio is associated with DCI. This may indicate a role for interventions that modulate both oxygen consumption and FFA levels to reduce the occurrence of DCI.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Badjatia</LastName>
+<ForeName>Neeraj</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Neurological Institute of New York, 177 Fort Washington Avenue, New York, NY 10032, USA. nb2217@columbia.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seres</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carpenter</LastName>
+<ForeName>Amanda</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmidt</LastName>
+<ForeName>J Michael</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Kiwon</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mayer</LastName>
+<ForeName>Stephan A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Claassen</LastName>
+<ForeName>Jan</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Connolly</LastName>
+<ForeName>E Sander</ForeName>
+<Initials>ES</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Elkind</LastName>
+<ForeName>Mitchell S</ForeName>
+<Initials>MS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>UL1 RR024156</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>01</Month>
+<Day>26</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Stroke</MedlineTA>
+<NlmUniqueID>0235266</NlmUniqueID>
+<ISSNLinking>0039-2499</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005230">Fatty Acids, Nonesterified</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015525">Fatty Acids, Omega-3</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D043371">Fatty Acids, Omega-6</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>S88TT14065</RegistryNumber>
+<NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019540">Area Under Curve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002545">Brain Ischemia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002153">Calorimetry, Indirect</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002851">Chromatography, High Pressure Liquid</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003625">Data Collection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003627">Data Interpretation, Statistical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005230">Fatty Acids, Nonesterified</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015525">Fatty Acids, Omega-3</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D043371">Fatty Acids, Omega-6</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013058">Mass Spectrometry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009752">Nutritional Status</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010100">Oxygen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010101">Oxygen Consumption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012372">ROC Curve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013345">Subarachnoid Hemorrhage</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020301">Vasospasm, Intracranial</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>1</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>1</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22282893</ArticleId>
+<ArticleId IdType="pii">STROKEAHA.111.636035</ArticleId>
+<ArticleId IdType="doi">10.1161/STROKEAHA.111.636035</ArticleId>
+<ArticleId IdType="pmc">PMC4198386</ArticleId>
+<ArticleId IdType="mid">NIHMS348565</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Stroke. 2001 Sep;32(9):2012-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11546890</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2011 Sep;42(9):2436-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21757662</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosurg. 2002 Aug;97(2):272-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12186453</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 1999 Feb;30(2):450-5; discussion 455-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9933286</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 1957 May;226(1):497-509</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13428781</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2006 Mar;34(3):617-23; quiz 624</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16521258</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurol Res. 2006 Jun;28(4):381-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16759442</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurosurgery. 2008 Jan;62(1):80-7; discussion 87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18300894</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JPEN J Parenter Enteral Nutr. 2008 May-Jun;32(3):236-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18443134</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cerebrovasc Dis. 2008;26(1):30-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18511869</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intensive Care Med. 2008 Sep;34(9):1580-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18461305</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JPEN J Parenter Enteral Nutr. 2008 Nov-Dec;32(6):596-605</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18974237</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2008 Dec;39(12):3242-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18927450</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosurg. 2008 Dec;109(6):1052-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19035719</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurocrit Care. 2009;10(1):141-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18810661</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2009 Mar;139(3):495-501</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19158225</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2009 Mar;40(3):994-1025</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19164800</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2009 Jun;40(6):1963-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19359629</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosurg. 2009 Nov;111(5):1001-7, 1-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19374502</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Clin. 2010 Jul;26(3):515-25, ix-x</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20643304</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Cell Physiol. 2002 Jun;282(6):3 p following instructions for authors</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12035793</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,168 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">27918567</PMID>
+<DateRevised>
+<Year>2019</Year>
+<Month>04</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1476-1122</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>16</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>04</Month>
+</PubDate>
+</JournalIssue>
+<Title>Nature materials</Title>
+<ISOAbbreviation>Nat Mater</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Topologically protected bound states in photonic parity-time-symmetric crystals.</ArticleTitle>
+<Pagination>
+<MedlinePgn>433-438</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/nmat4811</ELocationID>
+<Abstract>
+<AbstractText>Parity-time (PT)-symmetric crystals are a class of non-Hermitian systems that allow, for example, the existence of modes with real propagation constants, for self-orthogonality of propagating modes, and for uni-directional invisibility at defects. Photonic PT-symmetric systems that also support topological states could be useful for shaping and routing light waves. However, it is currently debated whether topological interface states can exist at all in PT-symmetric systems. Here, we show theoretically and demonstrate experimentally the existence of such states: states that are localized at the interface between two topologically distinct PT-symmetric photonic lattices. We find analytical closed form solutions of topological PT-symmetric interface states, and observe them through fluorescence microscopy in a passive PT-symmetric dimerized photonic lattice. Our results are relevant towards approaches to localize light on the interface between non-Hermitian crystals.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Weimann</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Angewandte Physik, Abbe School of Photonics, Friedrich-Schiller-Universität Jena, Max-Wien Platz 1, 07743 Jena, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kremer</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Angewandte Physik, Abbe School of Photonics, Friedrich-Schiller-Universität Jena, Max-Wien Platz 1, 07743 Jena, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Plotnik</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Physics Department and Solid State Institute, Technion-Israel Institute of Technology, Haifa 32000, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lumer</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Physics Department and Solid State Institute, Technion-Israel Institute of Technology, Haifa 32000, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nolte</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Angewandte Physik, Abbe School of Photonics, Friedrich-Schiller-Universität Jena, Max-Wien Platz 1, 07743 Jena, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Makris</LastName>
+<ForeName>K G</ForeName>
+<Initials>KG</Initials>
+<AffiliationInfo>
+<Affiliation>Crete Center for Quantum Complexity and Nanotechnology, Department of Physics, University of Crete, PO Box 2208, 71003 Heraklion, Greece.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Institute for Theoretical Physics, Vienna University of Technology, A-1040 Vienna, Austria, EU.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Segev</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Physics Department and Solid State Institute, Technion-Israel Institute of Technology, Haifa 32000, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rechtsman</LastName>
+<ForeName>M C</ForeName>
+<Initials>MC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, The Pennsylvania State University, University Park, Pennsylvania 16801, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Szameit</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Angewandte Physik, Abbe School of Photonics, Friedrich-Schiller-Universität Jena, Max-Wien Platz 1, 07743 Jena, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>05</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Nat Mater</MedlineTA>
+<NlmUniqueID>101155473</NlmUniqueID>
+<ISSNLinking>1476-1122</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>03</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>28</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27918567</ArticleId>
+<ArticleId IdType="pii">nmat4811</ArticleId>
+<ArticleId IdType="doi">10.1038/nmat4811</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

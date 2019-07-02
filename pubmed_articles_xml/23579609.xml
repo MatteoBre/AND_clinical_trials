@@ -1,0 +1,125 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23579609</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>06</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">2168-6173</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>131</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>JAMA ophthalmology</Title>
+<ISOAbbreviation>JAMA Ophthalmol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Need for revised screening protocol for early detection of retinopathy of prematurity in infants born before 25 weeks.</ArticleTitle>
+<Pagination>
+<MedlinePgn>546-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1001/jamaophthalmol.2013.1417</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kishore</LastName>
+<ForeName>Kamal</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Macwan</LastName>
+<ForeName>Kamlesh S</ForeName>
+<Initials>KS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>JAMA Ophthalmol</MedlineTA>
+<NlmUniqueID>101589539</NlmUniqueID>
+<ISSNLinking>2168-6165</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D020533">Angiogenesis Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D061067">Antibodies, Monoclonal, Humanized</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Arch Ophthalmol. 2012 Aug;130(8):1000-6</RefSource>
+<PMID Version="1">22491394</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020533">Angiogenesis Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061067">Antibodies, Monoclonal, Humanized</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012178">Retinopathy of Prematurity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23579609</ArticleId>
+<ArticleId IdType="pii">1677785</ArticleId>
+<ArticleId IdType="doi">10.1001/jamaophthalmol.2013.1417</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

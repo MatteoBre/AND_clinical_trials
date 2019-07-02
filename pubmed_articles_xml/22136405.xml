@@ -1,0 +1,171 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22136405</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>08</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>04</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1744-4128</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>19</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2012</Year>
+</PubDate>
+</JournalIssue>
+<Title>Neuropsychology, development, and cognition. Section B, Aging, neuropsychology and cognition</Title>
+<ISOAbbreviation>Neuropsychol Dev Cogn B Aging Neuropsychol Cogn</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Neuropsychological and neurophysiological effects of strengthening exercise for early dementia: a pilot study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>380-401</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/13825585.2011.628378</ELocationID>
+<Abstract>
+<AbstractText>Research demonstrates a positive effect of aerobic exercise on cognitive functioning in older adults. Unfortunately, aerobic exercise is often contraindicated for older adults due to cardiovascular and functional limitations. Low-intensity strengthening exercise may offer a practical alternative, but the neuropsychological benefits and potential neurophysiological mechanisms are less well understood. The current study evaluated the effects of a 10-week strengthening exercise intervention on cognitive functioning and EEG in a sample of 13 older adults with early dementia, and 9 normative controls. Results revealed beneficial effects of strengthening exercise on verbal memory coupled with frontal beta and delta power asymmetries and N200 amplitude asymmetry. Results point to increased cognitive efficiency following 10 weeks of strengthening exercise. The findings suggest it is feasible to conduct a strengthening intervention with early dementia patients, and to gather neuropsychological and neurophysiological data to evaluate outcomes. Strengthening exercise may serve as a useful alternative to aerobic exercise.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Yerokhin</LastName>
+<ForeName>Vadim</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Healthy Aging &amp; Neuropsychology Laboratory, Union College, Schenectady, NY 12308, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson-Hanley</LastName>
+<ForeName>Cay</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hogan</LastName>
+<ForeName>Michael J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunnam</LastName>
+<ForeName>Mina</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huber</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Osborne</LastName>
+<ForeName>Sandra</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shulan</LastName>
+<ForeName>Mollie</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>02</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Neuropsychol Dev Cogn B Aging Neuropsychol Cogn</MedlineTA>
+<NlmUniqueID>9614434</NlmUniqueID>
+<ISSNLinking>1382-5585</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003704">Dementia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004569">Electroencephalography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005071">Evoked Potentials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009483">Neuropsychological Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010865">Pilot Projects</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055070">Resistance Training</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22136405</ArticleId>
+<ArticleId IdType="doi">10.1080/13825585.2011.628378</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

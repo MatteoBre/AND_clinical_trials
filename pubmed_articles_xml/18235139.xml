@@ -1,0 +1,245 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18235139</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>08</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>12</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0022-2275</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>49</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of lipid research</Title>
+<ISOAbbreviation>J. Lipid Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Intestinal fatty acid binding protein regulates mitochondrion beta-oxidation and cholesterol uptake.</ArticleTitle>
+<Pagination>
+<MedlinePgn>961-72</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1194/jlr.M700363-JLR200</ELocationID>
+<Abstract>
+<AbstractText>The role of intestinal fatty acid binding protein (I-FABP) in lipid metabolism remains elusive. To address this issue, normal human intestinal epithelial cells (HIEC-6) were transfected with cDNA to overexpress I-FABP and compared with cells treated with empty pQCXIP vector. I-FABP overexpression stimulated mitochondrial [U-14C]oleate oxidation to CO2 and acid-soluble metabolites via mechanisms including the upregulation of protein expression and the activity of carnitine palmitoyltransferase 1, a critical enzyme controlling the entry of fatty acid (FA) into mitochondria, and increased activity of 3-hydroxyacyl-CoA dehydrogenase, a mitochondrial beta-oxidation enzyme. On the other hand, the gene and protein expression of the key enzymes FA synthase and acetyl-coenzyme A carboxylase 2 was decreased, suggesting diminished lipogenesis. Furthermore, I-FABP overexpression caused a decline in [14C]free cholesterol (CHOL) incorporation. Accordingly, a significant lessening was observed in the gene expression of Niemann Pick C1-Like 1, a mediator of CHOL uptake, along with an increase in the transcripts and protein content of ABCA1 and ABCG5/ABCG8, acting as CHOL efflux pumps. Furthermore, I-FABP overexpression resulted in increased levels of mRNA, protein mass, and activity of HMG-CoA reductase, the rate-limiting step in CHOL synthesis. Scrutiny of the nuclear receptors revealed augmented peroxisome proliferator-activated receptor alpha,gamma and reduced liver X receptor-alpha in HIEC-6 overexpressing I-FABP. Finally, I-FABP overexpression did not influence acyl-coenzyme A oxidase 1, which catalyzes the first rate-limiting step in peroxisomal FA beta-oxidation. Overall, our data suggest that I-FABP may influence mitochondrial FA oxidation and CHOL transport by regulating gene expression and interaction with nuclear receptors.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Montoudis</LastName>
+<ForeName>Alain</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Nutrition, Centre Hospitalier Universitaire Sainte-Justine, Université de Montréal, Montreal, Quebec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seidman</LastName>
+<ForeName>Ernest</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boudreau</LastName>
+<ForeName>François</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beaulieu</LastName>
+<ForeName>Jean-François</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Menard</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Elchebly</LastName>
+<ForeName>Mounib</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mailhot</LastName>
+<ForeName>Geneviève</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sane</LastName>
+<ForeName>Alain-Theophile</ForeName>
+<Initials>AT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lambert</LastName>
+<ForeName>Marie</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Delvin</LastName>
+<ForeName>Edgard</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Levy</LastName>
+<ForeName>Emile</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>01</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Lipid Res</MedlineTA>
+<NlmUniqueID>0376606</NlmUniqueID>
+<ISSNLinking>0022-2275</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C577836">ABCA1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D064286">ATP Binding Cassette Transporter 1</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018528">ATP-Binding Cassette Transporters</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017931">DNA Primers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D050556">Fatty Acid-Binding Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>2UMI9U37CP</RegistryNumber>
+<NameOfSubstance UI="D019301">Oleic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>97C5T2UQ7J</RegistryNumber>
+<NameOfSubstance UI="D002784">Cholesterol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.1.1.-</RegistryNumber>
+<NameOfSubstance UI="D006903">Hydroxymethylglutaryl CoA Reductases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064286">ATP Binding Cassette Transporter 1</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018528">ATP-Binding Cassette Transporters</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002784">Cholesterol</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017931">DNA Primers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050556">Fatty Acid-Binding Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006706">Homeostasis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006903">Hydroxymethylglutaryl CoA Reductases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007413">Intestinal Mucosa</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008928">Mitochondria</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019301">Oleic Acid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020133">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014162">Transfection</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>2</Month>
+<Day>1</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>8</Month>
+<Day>30</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>2</Month>
+<Day>1</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18235139</ArticleId>
+<ArticleId IdType="pii">M700363-JLR200</ArticleId>
+<ArticleId IdType="doi">10.1194/jlr.M700363-JLR200</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

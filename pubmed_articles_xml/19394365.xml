@@ -1,0 +1,230 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19394365</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>08</Month>
+<Day>31</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1872-7549</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>203</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Oct</Month>
+<Day>12</Day>
+</PubDate>
+</JournalIssue>
+<Title>Behavioural brain research</Title>
+<ISOAbbreviation>Behav. Brain Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Verapamil enhances acute stress or glucocorticoid-induced deficits in retrieval of long-term memory in rats.</ArticleTitle>
+<Pagination>
+<MedlinePgn>76-80</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bbr.2009.04.018</ELocationID>
+<Abstract>
+<AbstractText>This study was designed to investigate an interaction between acute restraint stress and corticosterone with verapamil, a blocker of L-type voltage-dependent calcium (VDC) channels on retrieval of long-term memory. Young adult male rats were trained in one trial inhibitory avoidance task (0.5 mA, 3 s footshock). On retention test given 48 h after training, the latency to re-enter dark compartment of the apparatus was recorded. In Experiment 1, verapamil pretreatment (5, 10, or 20 mg/kg) enhanced the impairing effects of acute stress (which was applied for 10 min in a Plexiglass tube 30 min before the retention test) on memory retrieval. The applied stress increased circulating corticosterone levels as assessed immediately after the retention test, indicating that stress-induced impairment of memory retrieval is mediated, in part, by increased plasma levels of glucocorticoids. Verapamil did not change this response. In Experiment 2, pretreatment of an intermediate dose of verapamil also enhanced corticosterone-induced impairment of memory retrieval. In Experiments 3 and 4, acute stress or corticosterone did not change motor activity with or without prior treatment of verapamil, suggesting that stress or glucocorticoid-induced impairment of memory retrieval is not due to any gross disturbances in motor performance of animals. These findings indicate that blockade of L-type VDC channels enhances stress or glucocorticoid-induced impairment of memory retrieval, and provide evidence for the existence of an interaction between glucocorticoids and L-type VDC channels on memory retrieval.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rashidy-Pour</LastName>
+<ForeName>Ali</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Learning and Memory, Department and Research Center of Physiology, School of Medicine, Semnan University of Medical Sciences, P.O. Box 35195-163, Semnan, Iran. rashidy-pour@sem-ums.ac.ir</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vafaei</LastName>
+<ForeName>Abbas Ali</ForeName>
+<Initials>AA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taherian</LastName>
+<ForeName>Abbas Ali</ForeName>
+<Initials>AA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miladi-Gorji</LastName>
+<ForeName>Hossein</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sadeghi</LastName>
+<ForeName>Hassan</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fathollahi</LastName>
+<ForeName>Yaghoub</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bandegi</LastName>
+<ForeName>Ahmad Reza</ForeName>
+<Initials>AR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>04</Month>
+<Day>24</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Behav Brain Res</MedlineTA>
+<NlmUniqueID>8004872</NlmUniqueID>
+<ISSNLinking>0166-4328</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D002121">Calcium Channel Blockers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005938">Glucocorticoids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>CJ0O37KU29</RegistryNumber>
+<NameOfSubstance UI="D014700">Verapamil</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>W980KJ009P</RegistryNumber>
+<NameOfSubstance UI="D003345">Corticosterone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000704">Analysis of Variance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001362">Avoidance Learning</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002121">Calcium Channel Blockers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003345">Corticosterone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004597">Electroshock</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005938">Glucocorticoids</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008568">Memory</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008569">Memory Disorders</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009043">Motor Activity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011897">Random Allocation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017208">Rats, Wistar</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012149">Restraint, Physical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013315">Stress, Psychological</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014700">Verapamil</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2009</Year>
+<Month>02</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2009</Year>
+<Month>04</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2009</Year>
+<Month>04</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>9</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19394365</ArticleId>
+<ArticleId IdType="pii">S0166-4328(09)00250-2</ArticleId>
+<ArticleId IdType="doi">10.1016/j.bbr.2009.04.018</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

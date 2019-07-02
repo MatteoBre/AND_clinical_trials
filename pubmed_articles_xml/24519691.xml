@@ -1,0 +1,226 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24519691</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>10</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>10</Month>
+<Day>10</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1099-1077</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Human psychopharmacology</Title>
+<ISOAbbreviation>Hum Psychopharmacol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Prediction and structural equation model of sertraline treatment response in Japanese patients with major depressive disorder.</ArticleTitle>
+<Pagination>
+<MedlinePgn>576-85</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/hup.2347</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to extract the factors possibly associated with sertraline treatment response and elucidate their interactions and extent of influence.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Demographic state, stress state, personality, and eight genetic polymorphisms at baseline and clinical symptoms at baseline and 8 weeks were analyzed and examined by logistic regression and a structural equation model in sertraline treatment study of 96 Japanese patients with major depressive disorder.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Non-responders were associated with higher scores of harm avoidance in Temperament and Character Inventory, higher scores (≥24) of 17-item Hamilton Rating Scale for Depression at baseline, recurrence, and 12/12 genotype of the serotonin transporter variable number of tandem repeat polymorphism in intron 2 (5HTTSTin2). When we calculated the response index using four factors extracted, the mean response index value of non-responders was significantly higher than that of responders. The symptoms at baseline, personality, recurrence, and polymorphism of 5HTTSTin2 showed significantly direct and positive influences on the symptoms at 8 weeks in our final structural equation model with a good model fit.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Considering the combination of four factors extracted may be useful for predicting a worse response to sertraline treatment and selecting different treatment other than sertraline.</AbstractText>
+<CopyrightInformation>Copyright © 2013 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Nishioka</LastName>
+<ForeName>Gentaro</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Psychiatry, Tokyo Metropolitan Police Hospital, Tokyo, Japan; Department of Psychiatry, Showa University Northern Yokohama Hospital, Yokohama, Kanagawa Prefecture, Japan; Kawaguchi Hospital, Kawaguchi, Saitama Prefecture, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yashima</LastName>
+<ForeName>Hideaki</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kiuchi</LastName>
+<ForeName>Yuji</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nakamura</LastName>
+<ForeName>Sumiko</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oyamada</LastName>
+<ForeName>Hideto</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ishii</LastName>
+<ForeName>Masakazu</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kudo</LastName>
+<ForeName>Ikuo</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Hum Psychopharmacol</MedlineTA>
+<NlmUniqueID>8702539</NlmUniqueID>
+<ISSNLinking>0885-6222</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D050486">Serotonin Plasma Membrane Transport Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017367">Serotonin Uptake Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>QUC7NX6WMB</RegistryNumber>
+<NameOfSubstance UI="D020280">Sertraline</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003865">Depressive Disorder, Major</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008962">Models, Theoretical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011110">Polymorphism, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011569">Psychiatric Status Rating Scales</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050486">Serotonin Plasma Membrane Transport Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017367">Serotonin Uptake Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020280">Sertraline</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020080">Tandem Repeat Sequences</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">5HTTSTin2</Keyword>
+<Keyword MajorTopicYN="N">major depressive disorder</Keyword>
+<Keyword MajorTopicYN="N">personality</Keyword>
+<Keyword MajorTopicYN="N">recurrence</Keyword>
+<Keyword MajorTopicYN="N">sertraline treatment response</Keyword>
+<Keyword MajorTopicYN="N">structural equation model</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>01</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>2</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>2</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24519691</ArticleId>
+<ArticleId IdType="doi">10.1002/hup.2347</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

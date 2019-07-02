@@ -1,0 +1,218 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25406354</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>03</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>01</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1528-0020</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>125</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Jan</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Blood</Title>
+<ISOAbbreviation>Blood</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Plasma exchange to remove HIT antibodies: dissociation between enzyme-immunoassay and platelet activation test reactivities.</ArticleTitle>
+<Pagination>
+<MedlinePgn>195-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1182/blood-2014-07-590844</ELocationID>
+<Abstract>
+<AbstractText>Repeated therapeutic plasma exchange (TPE) has been advocated to remove heparin-induced thrombocytopenia (HIT) IgG antibodies before cardiac/vascular surgery in patients who have serologically-confirmed acute or subacute HIT; for this situation, a negative platelet activation assay (eg, platelet serotonin-release assay [SRA]) has been recommended as the target serological end point to permit safe surgery. We compared reactivities in the SRA and an anti-PF4/heparin IgG-specific enzyme immunoassay (EIA), testing serial serum samples in a patient with recent (subacute) HIT who underwent serial TPE precardiac surgery, as well as for 15 other serially-diluted HIT sera. We observed that post-TPE/diluted HIT sera-when first testing SRA-negative-continue to test strongly positive by EIA-IgG. This dissociation between the platelet activation assay and a PF4-dependent immunoassay for HIT antibodies indicates that patients with subacute HIT undergoing repeated TPE before heparin reexposure should be tested by serial platelet activation assays even when their EIAs remain strongly positive. </AbstractText>
+<CopyrightInformation>© 2015 by The American Society of Hematology.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Warkentin</LastName>
+<ForeName>Theodore E</ForeName>
+<Initials>TE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pathology and Molecular Medicine, Department of Medicine, and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sheppard</LastName>
+<ForeName>Jo-Ann I</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pathology and Molecular Medicine.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chu</LastName>
+<ForeName>F Victor</ForeName>
+<Initials>FV</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, McMaster University, Hamilton, ON, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kapoor</LastName>
+<ForeName>Anil</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, McMaster University, Hamilton, ON, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crowther</LastName>
+<ForeName>Mark A</ForeName>
+<Initials>MA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pathology and Molecular Medicine, Department of Medicine, and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gangji</LastName>
+<ForeName>Azim</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, and.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>18</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Blood</MedlineTA>
+<NlmUniqueID>7603509</NlmUniqueID>
+<ISSNLinking>0006-4971</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007074">Immunoglobulin G</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>37270-94-3</RegistryNumber>
+<NameOfSubstance UI="D010978">Platelet Factor 4</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9005-49-6</RegistryNumber>
+<NameOfSubstance UI="D006493">Heparin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001792">Blood Platelets</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002277">Carcinoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006470">Hemorrhage</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006493">Heparin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007124">Immunoenzyme Techniques</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007074">Immunoglobulin G</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007680">Kidney Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010951">Plasma Exchange</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015539">Platelet Activation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010978">Platelet Factor 4</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013921">Thrombocytopenia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000139">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013927">Thrombosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014682">Vena Cava, Inferior</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>3</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25406354</ArticleId>
+<ArticleId IdType="pii">blood-2014-07-590844</ArticleId>
+<ArticleId IdType="doi">10.1182/blood-2014-07-590844</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

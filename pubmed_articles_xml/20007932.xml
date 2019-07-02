@@ -1,0 +1,334 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20007932</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>05</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>07</Month>
+<Day>30</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1535-4970</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>181</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Apr</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>American journal of respiratory and critical care medicine</Title>
+<ISOAbbreviation>Am. J. Respir. Crit. Care Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Long-term effect of continuous positive airway pressure in hypertensive patients with sleep apnea.</ArticleTitle>
+<Pagination>
+<MedlinePgn>718-26</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1164/rccm.200901-0050OC</ELocationID>
+<Abstract>
+<AbstractText Label="RATIONALE" NlmCategory="BACKGROUND">Continuous positive airway pressure (CPAP) is the current treatment for patients with symptomatic obstructive sleep apnea (OSA). Its use for all subjects with sleep-disordered breathing, regardless of daytime symptoms, is unclear.</AbstractText>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">This multicenter controlled trial assesses the effects of 1 year of CPAP treatment on blood pressure (BP) in nonsymptomatic, hypertensive patients with OSA.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We evaluated 359 patients with OSA. Inclusion criteria consisted of an apnea-hypopnea index (AHI) greater than 19 hour(-1), an Epworth Sleepiness Scale score less than 11, and one of the following: under antihypertensive treatment or systolic blood pressure greater than 140 or diastolic blood pressure greater than 90 mm Hg. Patients were randomized to CPAP (n = 178) or to conservative treatment (n = 181). BP was evaluated at baseline and at 3, 6, and 12 months of follow-up.</AbstractText>
+<AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">Mean (SD) values were as follows: age, 56 +/- 10 years; body mass index (BMI), 32 +/- 5 kg x m(-2); AHI, 45 +/- 20 hour(-1); and Epworth Sleepiness Scale score, 7 +/- 3. After adjusting for follow-up time, baseline blood pressure values, AHI, time with arterial oxygen saturation less than 90%, and BMI, together with the change in BMI at follow-up, CPAP treatment decreased systolic blood pressure by 1.89 mm Hg (95% confidence interval: -3.90, 0.11 mm Hg; P = 0.0654), and diastolic blood pressure by 2.19 mm Hg (95% confidence interval: -3.46, -0.93 mm Hg; P = 0.0008). The most significant reduction in BP was in patients who used CPAP for more than 5.6 hours per night. CPAP compliance was related to AHI and the decrease in Epworth Sleepiness Scale score.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In nonsleepy hypertensive patients with OSA, CPAP treatment for 1 year is associated with a small decrease in BP. This effect is evident only in patients who use CPAP for more than 5.6 hours per night. Clinical trial registered with www.clinicaltrials.gov (NCT00127348).</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Barbé</LastName>
+<ForeName>Ferran</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Coordinating Center, Institut de Recerca Biomèdica Lleida, Lleida, Spain. fbarbe@arnau.scs.es</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Durán-Cantolla</LastName>
+<ForeName>Joaquín</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Capote</LastName>
+<ForeName>Francisco</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>de la Peña</LastName>
+<ForeName>Monica</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chiner</LastName>
+<ForeName>Eusebi</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Masa</LastName>
+<ForeName>Juan F</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gonzalez</LastName>
+<ForeName>Mónica</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marín</LastName>
+<ForeName>Jose M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garcia-Rio</LastName>
+<ForeName>Francisco</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Atauri</LastName>
+<ForeName>Josefa Diaz</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Terán</LastName>
+<ForeName>Joaquín</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mayos</LastName>
+<ForeName>Mercedes</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Monasterio</LastName>
+<ForeName>Carmen</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>del Campo</LastName>
+<ForeName>Felix</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gomez</LastName>
+<ForeName>Sivia</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>de la Torre</LastName>
+<ForeName>Manuel Sanchez</ForeName>
+<Initials>MS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Martinez</LastName>
+<ForeName>Montse</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Montserrat</LastName>
+<ForeName>José M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>Spanish Sleep and Breathing Group</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00127348</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>10</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Respir Crit Care Med</MedlineTA>
+<NlmUniqueID>9421642</NlmUniqueID>
+<ISSNLinking>1073-449X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Am J Respir Crit Care Med. 2010 Apr 1;181(7):650-2</RefSource>
+<PMID Version="1">20335381</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045422">Continuous Positive Airway Pressure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010349">Patient Compliance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012720">Severity of Illness Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020181">Sleep Apnea, Obstructive</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<InvestigatorList>
+<Investigator ValidYN="Y">
+<LastName>Rubio</LastName>
+<ForeName>Ramón</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Carmona</LastName>
+<ForeName>Carmen</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sanchez-Armengol</LastName>
+<ForeName>Angeles</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Somoza</LastName>
+<ForeName>María</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lumbierres</LastName>
+<ForeName>Marina</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Morante</LastName>
+<ForeName>Fátima</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Jiménez</LastName>
+<ForeName>Antonio</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Alvarez</LastName>
+<ForeName>M L Alonso</ForeName>
+<Initials>ML</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hernández</LastName>
+<ForeName>Lourdes</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Barcelo</LastName>
+<ForeName>Antonia</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Carrizo</LastName>
+<ForeName>Santiago</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Martinez-Null</LastName>
+<ForeName>Cristina</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Llombart</LastName>
+<ForeName>Monica</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mediano</LastName>
+<ForeName>Olga</ForeName>
+<Initials>O</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rubio</LastName>
+<ForeName>Manuela</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Corral</LastName>
+<ForeName>Jaime</ForeName>
+<Initials>J</Initials>
+</Investigator>
+</InvestigatorList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20007932</ArticleId>
+<ArticleId IdType="pii">200901-0050OC</ArticleId>
+<ArticleId IdType="doi">10.1164/rccm.200901-0050OC</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

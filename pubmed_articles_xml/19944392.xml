@@ -1,0 +1,240 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19944392</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>03</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1875-2128</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>102</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Archives of cardiovascular diseases</Title>
+<ISOAbbreviation>Arch Cardiovasc Dis</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Preventing acute decrease in renal function induced by coronary angiography (PRECORD): a prospective randomized trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>761-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.acvd.2009.07.001</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Infusion of saline attenuates the decrease in renal function induced by radiographic contrast agents among patients with chronic renal insufficiency.</AbstractText>
+<AbstractText Label="AIM" NlmCategory="OBJECTIVE">The Preventing Renal alteration in Coronary Disease (PRECORD) trial was a randomized trial to assess the effect on renal function of saline infusion during and after coronary angiography in 201 patients without severe chronic renal insufficiency (serum creatinine&lt;140micromol/L).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">All patients received standard oral hydration: 2000mL of tap water within the 24 hours after coronary angiography. Patients were randomized before the procedure to intravenous hydration (1000mL of 0.9% saline infusion) or no additional hydration. The infusion was started in the catheterization laboratory and continued for 24 hours. The primary endpoint was the change in calculated creatinine clearance between baseline and 24 hours after coronary angiography. The same ionic low osmolar radiographic contrast agent (ioxaglate) was used in all patients.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Both groups had similar baseline characteristics, including age, serum creatinine, volume of contrast and proportion of patients undergoing ad hoc coronary angioplasty. The overall decrease in serum creatinine clearance 24 hours after the procedure was -3.44 (0.68)mL/min. The change in serum creatinine clearance 24 hours after the procedure was -2.81 (1.07)mL/min in the infusion group vs -4.09 (0.91)mL/min in the control group (p=0.38).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Renal function is altered only slightly 24 hours after coronary angiography with standard oral hydration alone and is not affected by saline infusion started at the beginning of coronary angiography, even in patients with mild-to-moderate renal dysfunction.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Angoulvant</LastName>
+<ForeName>Denis</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Service de cardiologie D, hôpital cardiovasculaire et pneumologique Louis-Pradel, groupement hospitalier Est, université Claude-Bernard Lyon-1, avenue Doyen-Lepine, Bron cedex, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cucherat</LastName>
+<ForeName>Michel</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rioufol</LastName>
+<ForeName>Gilles</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Finet</LastName>
+<ForeName>Gérard</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beaune</LastName>
+<ForeName>Jacques</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Revel</LastName>
+<ForeName>Didier</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Laville</LastName>
+<ForeName>Maurice</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ovize</LastName>
+<ForeName>Michel</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>André-Fouët</LastName>
+<ForeName>Xavier</ForeName>
+<Initials>X</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>10</Month>
+<Day>15</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Arch Cardiovasc Dis</MedlineTA>
+<NlmUniqueID>101465655</NlmUniqueID>
+<ISSNLinking>1875-2128</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D003287">Contrast Media</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>451W47IQ8X</RegistryNumber>
+<NameOfSubstance UI="D012965">Sodium Chloride</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>AYI8EX34EU</RegistryNumber>
+<NameOfSubstance UI="D003404">Creatinine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>Z40X7EI2AF</RegistryNumber>
+<NameOfSubstance UI="D007485">Ioxaglic Acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000208">Acute Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003287">Contrast Media</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017023">Coronary Angiography</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003404">Creatinine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005440">Fluid Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007262">Infusions, Intravenous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007485">Ioxaglic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007674">Kidney Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012965">Sodium Chloride</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2009</Year>
+<Month>06</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2009</Year>
+<Month>07</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2009</Year>
+<Month>07</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>3</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19944392</ArticleId>
+<ArticleId IdType="pii">S1875-2136(09)00228-9</ArticleId>
+<ArticleId IdType="doi">10.1016/j.acvd.2009.07.001</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,234 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20533506</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>10</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0008-543X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>116</Volume>
+<Issue>17</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Sep</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Cancer</Title>
+<ISOAbbreviation>Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Phase 2 trial of preoperative irinotecan plus cisplatin and conformal radiotherapy, followed by surgery for esophageal cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>4023-32</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/cncr.25349</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Esophagectomy for locally advanced esophageal cancer (LAEC) is associated with limited survival. Trimodality therapy yields a small survival advantage, with cisplatin and 5-fluorouracil regimens most frequently studied. Newer regimens may impact these poor outcomes. This phase 2 trial assessed the feasibility and efficacy of induction chemoradiotherapy with cisplatin and irinotecan followed by esophagectomy.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Patients with LAEC of the thoracic esophagus or gastroesophageal junction underwent chemotherapy with preoperative irinotecan (65 mg/m(2)) plus cisplatin (30 mg/m(2)) on Weeks 1, 2, 4, 5, 7, and 8 with concurrent conformal radiotherapy (40 grays [Gy]/20 fractions during Weeks 4-7) and external beam boost (10 Gy/5 fractions at Week 8). Esophagectomy was performed between Weeks 12 and 16. Pathologic response was the primary endpoint with follow-up data on progression, survival, and toxicity as secondary endpoints.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Fifty-two patients were enrolled from November 2002 to October 2005. Nineteen patients had American Joint Committee on Cancer stage II, 22 had stage III, and 11 had stage IVA disease. Grade 3 to 4 toxicity (graded according to the National Cancer Institute Common Toxicity Criteria 2.0) during induction included neutropenia (36%), febrile neutropenia (8%), diarrhea (10%), and esophagitis (4%). Three patients withdrew from treatment due to toxicity. There was 1 treatment-related death. Clinical responses included complete response in 2%, partial response in 30%, stable disease in 62%, and progressive disease in 6% of patients. Dysphagia improved/resolved in 72% of patients during induction. Forty-three patients underwent esophagectomy and 7 (16%) achieved pathologic complete responses. Median and 3-year overall survival for patients receiving trimodality therapy was 36 months and 51%, respectively.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In LAEC, concurrent irinotecan/cisplatin and radiotherapy followed by esophagectomy is reported to be associated with dysphagia improvement in 72% of patients, a significant but manageable toxicity profile, and encouraging survival compared with historic controls.</AbstractText>
+<CopyrightInformation>Cancer 2010. (c) 2010 American Cancer Society.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Knox</LastName>
+<ForeName>Jennifer J</ForeName>
+<Initials>JJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, Princess Margaret and Toronto General Hospitals of the University Health Network, Toronto, Ontario, Canada. jennfer.knox@uhn.on.ca</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wong</LastName>
+<ForeName>Rebecca</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Visbal</LastName>
+<ForeName>Antonio L</ForeName>
+<Initials>AL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Horgan</LastName>
+<ForeName>Anne M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guindi</LastName>
+<ForeName>Maha</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hornby</LastName>
+<ForeName>Jennifer</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xu</LastName>
+<ForeName>Wei</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ringash</LastName>
+<ForeName>Jolie</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Keshavjee</LastName>
+<ForeName>Shaf</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>Eric</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haider</LastName>
+<ForeName>Masoom</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Darling</LastName>
+<ForeName>Gail</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D017427">Clinical Trial, Phase II</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+<ISSNLinking>0008-543X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>7673326042</RegistryNumber>
+<NameOfSubstance UI="D000077146">Irinotecan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>Q20Q21Q62J</RegistryNumber>
+<NameOfSubstance UI="D002945">Cisplatin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>XT3Z54Z28A</RegistryNumber>
+<NameOfSubstance UI="D002166">Camptothecin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000230">Adenocarcinoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002166">Camptothecin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002294">Carcinoma, Squamous Cell</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002945">Cisplatin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004938">Esophageal Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016629">Esophagectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004943">Esophagogastric Junction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077146">Irinotecan</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020360">Neoadjuvant Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020266">Radiotherapy, Conformal</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>6</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>6</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20533506</ArticleId>
+<ArticleId IdType="doi">10.1002/cncr.25349</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

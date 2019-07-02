@@ -1,0 +1,162 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19428052</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>09</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-1026</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>407</Volume>
+<Issue>15</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Jul</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Science of the total environment</Title>
+<ISOAbbreviation>Sci. Total Environ.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Testing the homogenizing effect of low copper sulfate concentrations on the size distribution of Portulaca oleracea seedlings in vitro.</ArticleTitle>
+<Pagination>
+<MedlinePgn>4461-4</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.scitotenv.2009.04.014</ELocationID>
+<Abstract>
+<AbstractText>Traditionally, toxicological bioassays rely upon the differences in mean-based statistical tests between the exposed and unexposed plants, and exceptional plant individuals are treated as statistical outliers. Recently, low toxicant concentrations have been observed to affect gene regulation in exposed plant stands and to change the frequency of the largest individuals even if mean plant size remains unchanged. In this paper, we present the results that the latter phenomenon is not restricted to a single toxicant and plant species. Our data analysis consists of two statistical methods that may be of general interest. We utilized the one-tailed Moses extreme reactions test by comparing exposed groups to control plants with and without the trimming of a certain amount of potential outliers from both treatments compared. We also propose that Mann-Whitney U or other tests at ordinal scale can be utilized to analyze if the largest plant individuals in exposed and control treatments come from a single 'survivor' population. We conclude that the results supported the hypothesis that very low toxicant concentrations may have ecological effects on fast-growing plant species. Finally, we discuss the limitations of the statistical methods currently in use.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Sinkkonen</LastName>
+<ForeName>Aki</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Ecological and Environmental Sciences, University of Helsinki, Niemenkatu 73, 15140 Lahti, Finland. aki.sinkkonen@helsinki.fi</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Penttinen</LastName>
+<ForeName>Olli-Pekka</ForeName>
+<Initials>OP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Strömmer</LastName>
+<ForeName>Rauni</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>05</Month>
+<Day>09</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Sci Total Environ</MedlineTA>
+<NlmUniqueID>0330500</NlmUniqueID>
+<ISSNLinking>0048-9697</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>LRX7AJ16DT</RegistryNumber>
+<NameOfSubstance UI="D019327">Copper Sulfate</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001681">Biological Assay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019327">Copper Sulfate</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018517">Plant Roots</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000033">anatomy &amp; histology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D031822">Portulaca</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000033">anatomy &amp; histology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D036226">Seedlings</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000033">anatomy &amp; histology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013045">Species Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018709">Statistics, Nonparametric</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2008</Year>
+<Month>12</Month>
+<Day>31</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2009</Year>
+<Month>04</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2009</Year>
+<Month>04</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>5</Month>
+<Day>12</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>5</Month>
+<Day>12</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>9</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19428052</ArticleId>
+<ArticleId IdType="pii">S0048-9697(09)00352-0</ArticleId>
+<ArticleId IdType="doi">10.1016/j.scitotenv.2009.04.014</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,238 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21883361</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>03</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1600-051X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>38</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of clinical periodontology</Title>
+<ISOAbbreviation>J. Clin. Periodontol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Cyclosporine-induced gingival overgrowth correlates with NFAT-regulated gene expression: a pilot study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>984-91</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1600-051X.2011.01773.x</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine whether incidence and severity of cyclosporine A (CsA)-induced gingival overgrowth (GO) is related to expression nuclear factor of activated T cells-regulated genes (NFAT-regulated genes).</AbstractText>
+<AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">Expression of NFAT-regulated genes was determined in 36 transplant patients medicated with CsA by real-time PCR before and 2 h after drug intake and residual NFAT activity was estimated as ratio of both measurements. Demographic, periodontal and pharmacologic parameters were recorded and GO assessed from models. Subjects were divided into two groups according to the degree of GO (responders: GO score≥10%). Groups were compared using parametric and non-parametric tests. The association of various CsA-specific and periodontal parameters on incidence and extent of GO were determined using regression analysis.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Responders had a more than twofold lower residual NFAT activity than non-responders (7.9% and 18.1%, respectively; p&lt;0.001). Multiple regression analysis revealed gingival inflammation, salivary CsA concentration, and residual NFAT activity to be significant factors influencing the expression of GO. Seventy-seven percent of the variability of GO could be explained by these parameters.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study showed that pharmacodynamic parameters such as residual NFAT activity may be promising prognostic indicators to identify patients with increased risk for GO.</AbstractText>
+<CopyrightInformation>© 2011 John Wiley &amp; Sons A/S.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Dannewitz</LastName>
+<ForeName>Bettina</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Conservative Dentistry, Clinic for Oral, Dental and Maxillofacial Diseases, University Hospital Heidelberg, Heidelberg, Germany. bettina_dannewitz@med.uni-heidelberg.de</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kruck</LastName>
+<ForeName>Eva-Maria</ForeName>
+<Initials>EM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Staehle</LastName>
+<ForeName>Hans Jörg</ForeName>
+<Initials>HJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eickholz</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giese</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meuer</LastName>
+<ForeName>Stefan</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaever</LastName>
+<ForeName>Volkhard</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zeier</LastName>
+<ForeName>Martin</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sommerer</LastName>
+<ForeName>Claudia</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>08</Month>
+<Day>24</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Clin Periodontol</MedlineTA>
+<NlmUniqueID>0425123</NlmUniqueID>
+<ISSNLinking>0303-6979</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007166">Immunosuppressive Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D050778">NFATC Transcription Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>83HN0GTJ6D</RegistryNumber>
+<NameOfSubstance UI="D016572">Cyclosporine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>D</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001682">Biological Availability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016009">Chi-Square Distribution</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003430">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016572">Cyclosporine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005786">Gene Expression Regulation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019214">Gingival Overgrowth</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005891">Gingivitis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007166">Immunosuppressive Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016030">Kidney Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050778">NFATC Transcription Factors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010865">Pilot Projects</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012044">Regression Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012463">Saliva</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018709">Statistics, Nonparametric</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>3</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21883361</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1600-051X.2011.01773.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

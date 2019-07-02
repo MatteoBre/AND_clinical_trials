@@ -1,0 +1,575 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25524060</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>10</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1532-3102</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>36</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Placenta</Title>
+<ISOAbbreviation>Placenta</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A systematic review of placental pathology in maternal diabetes mellitus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>101-14</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.placenta.2014.11.021</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0143-4004(14)00876-5</ELocationID>
+<Abstract>
+<AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">During a pregnancy complicated by diabetes, the human placenta undergoes a number of functional and structural pathologic changes, such as increased placental weight and increased incidence of placental lesions including villous maturational defects and fibrinoid necrosis. The pathologic findings reported have differed among studies, potentially reflecting differences in type of diabetes, study methodology, or glycemic control of study participants. Alternatively, these discrepancies may represent different biologic adaptations to distinct metabolic diseases.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a comprehensive review of English language citations in Pubmed and Embase using the keywords "diabetes", "placenta", AND "pathology". Abstracts were reviewed for relevance then full-text articles were reviewed in order to extract a comprehensive summary of current pathological findings associated with pregestational and gestational diabetes mellitus, as well as an understanding of the impact of glycemic control on placental pathology.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Placental abnormalities most consistently associated with maternal diabetes are an increased incidence of villous immaturity, increased measures of angiogenesis, and increased placental weight.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The literature suggests that, despite similarities in placental abnormalities, differences in placental pathology may reflect differences in pathophysiology among different types of diabetes. Consequently, standardization of terminology used to define placental lesions is warranted. Moreover, further research is needed to investigate the impact of pathophysiology, glycemic control and clinical factors, such as infant sex, weight and race, on placental structure and function.</AbstractText>
+<CopyrightInformation>Copyright © 2014 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Huynh</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine/Diabetes Unit, Massachusetts General Hospital, Boston, MA, United States.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dawson</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine/Diabetes Unit, Massachusetts General Hospital, Boston, MA, United States.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roberts</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pathology, Massachusetts General Hospital, Boston, MA, United States.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bentley-Lewis</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine/Diabetes Unit, Massachusetts General Hospital, Boston, MA, United States. Electronic address: rbentleylewis@mgh.harvard.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R03 DK096152</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>1R03DK096152</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+<PublicationType UI="D000078182">Systematic Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>05</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Placenta</MedlineTA>
+<NlmUniqueID>8006349</NlmUniqueID>
+<ISSNLinking>0143-4004</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016640">Diabetes, Gestational</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010920">Placenta</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010922">Placenta Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011254">Pregnancy in Diabetics</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Diabetes mellitus</Keyword>
+<Keyword MajorTopicYN="N">Gestational</Keyword>
+<Keyword MajorTopicYN="N">Histology</Keyword>
+<Keyword MajorTopicYN="N">Pathology</Keyword>
+<Keyword MajorTopicYN="N">Placenta</Keyword>
+<Keyword MajorTopicYN="N">Type 1</Keyword>
+<Keyword MajorTopicYN="N">Type 2</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>09</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25524060</ArticleId>
+<ArticleId IdType="pii">S0143-4004(14)00876-5</ArticleId>
+<ArticleId IdType="doi">10.1016/j.placenta.2014.11.021</ArticleId>
+<ArticleId IdType="pmc">PMC4339292</ArticleId>
+<ArticleId IdType="mid">NIHMS646967</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Diabetol Metab Syndr. 2011 Aug 10;3(1):19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21831283</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pathol Bacteriol. 1966 Jan;91(1):123-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5941387</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Pathol Microbiol Immunol Scand A. 1982 Mar;90(2):95-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7080822</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Pharmacol. 2004 Apr 19;490(1-3):159-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15094082</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 1998 Jul-Aug;19(5-6):371-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9699957</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Med Interne (Paris). 2003 Sep-Oct;154(5-6):316-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15027585</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetol Metab Syndr. 2012 Sep 11;4(1):41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22964143</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 1994 Jan;15(1):57-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8208670</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Funct Dev Morphol. 1991;1(3):9-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1802047</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2012 Dec;33(12):1026-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23110739</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2010 Nov;31(11):958-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20933281</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Coll Physicians Surg Pak. 2012 Dec;22(12):769-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23217482</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2006 Apr-May;27(4-5):468-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16009423</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocr J. 1994 Aug;41(4):355-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8528350</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gynecol Obstet. 2002 Jul;266(3):136-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12197551</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Dev Pathol. 2011 Jul-Aug;14(4):273-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21329421</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Early Hum Dev. 2012 Oct;88(10):817-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22749772</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Obstet Gynecol. 2008 Sep;199(3):237.e1-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18674752</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 1982 Oct-Dec;3(4):367-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6757913</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Obstet Gynaecol. 1986 Jan;93(1):31-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3942705</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2014 Jan;37 Suppl 1:S14-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24357209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Contrib Gynecol Obstet. 1982;9:58-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6754249</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 1983 Jan-Apr;4(1):1-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6856585</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Pathol. 2005 Oct;36(10):1074-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16226106</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Med Chem. 2006;13(18):2127-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16918343</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2008 Oct;29(10):892-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18768220</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Obstet Gynecol Scand. 2008;87(4):403-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18382864</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 1981 Jul-Sep;2(3):241-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7279877</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2002 Oct;45(10):1434-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12378385</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 1989 May-Jun;10(3):275-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2771897</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Clin North Am. 1965 Jul;49:1015-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14300321</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2012 Jul;97(7):E1160-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22492874</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vasc Res. 2002 May-Jun;39(3):268-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12097825</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2012 May;33(5):343-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22317894</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2004 Feb-Mar;25(2-3):114-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14972444</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2002 Jan;25(1):213-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11772918</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 1985 Jan-Feb;6(1):69-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3991476</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2003 Sep-Oct;24(8-9):819-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13129678</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2011 Aug;32(8):564-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21621839</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diab Vasc Dis Res. 2012 Apr;9(2):146-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22377485</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2014 Feb;57(2):285-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24292565</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Ayub Med Coll Abbottabad. 2005 Jan-Mar;17(1):44-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15929527</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Early Hum Dev. 2011 Apr;87(4):315-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21333470</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2003 Apr;24(4):343-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12657507</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Diabetol Lat. 1976 Sep-Dec;13(5-6):216-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1029353</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2002 Nov;23(10):742-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12398814</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obstet Gynecol. 1969 Dec;34(6):792-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5366022</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Obstet Gynecol. 1978 Jan 15;130(2):228-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">619663</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pathol Int. 1996 Feb;46(2):100-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10846557</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Anat. 1993 Dec;183 ( Pt 3):545-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8300431</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 2009 Nov;58(11):2634-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19690062</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2007 Jul;30 Suppl 2:S120-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17596459</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Perinat Med. 1987;15(2):193-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3656051</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bull Exp Biol Med. 2011 Sep;151(5):650-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22462069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Anat. 2000 Aug;197 ( Pt 2):263-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11005718</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gynecol Obstet Invest. 2008;65(4):227-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18196904</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Res Clin Pract. 2007 Oct;78(1):65-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17360067</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Obstet Gynecol Scand. 1984;63(1):37-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6720255</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Diabetes Res. 2013;2013:184258</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23762872</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Obstet Gynecol. 2012 Jun;206(6):489.e1-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22521456</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Pathol. 2014 Apr;141(4):587-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24619761</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 1997 Mar-Apr;18(2-3):227-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9089786</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,193 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24647500</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>05</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>05</Month>
+<Day>12</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1535-1386</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>96</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Mar</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of bone and joint surgery. American volume</Title>
+<ISOAbbreviation>J Bone Joint Surg Am</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Metal ion levels after metal-on-metal total hip arthroplasty: a five-year, prospective randomized trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>448-55</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.2106/JBJS.M.00164</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The U.S. Food and Drug Administration has requested post-market surveillance data, including data on metal ion levels, regarding metal-on-metal total hip arthroplasty. We performed a prospective, randomized study of metal ion levels in erythrocytes, serum, and whole blood at five years after 28 and 36-mm metal-on-metal and 28-mm metal-on-polyethylene total hip arthroplasty.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">One hundred and five enrolled patients were randomized equally to the three bearing surface options and were blinded with regard to their treatment group. Metal ion measurements and clinical evaluations were performed at regular intervals.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Cobalt and chromium ion levels in all blood sample types at the five-year time point were significantly lower in the metal-on-polyethylene group than in each of the two metal-on-metal groups (p &lt; 0.001) with the exception of chromium in erythrocytes (p = 0.194). Cobalt in serum (p = 0.029) and erythrocytes (p = 0.002) showed significant increases from two to five years in the 36-mm metal-on-metal group; similar increases were not seen in the 28-mm metal-on-metal group. At five years, five patients in the 36-mm metal-on-metal group and none in the 28-mm metal-on-metal group had cobalt or chromium levels of &gt;7 ppb. Correlations among levels in serum, erythrocyte, and whole blood were stronger for cobalt than for chromium. One patient in the 36-mm metal-on-metal group underwent revision because of an adverse local tissue reaction.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The 36-mm metal-on-metal bearing underperformed the 28-mm metal-on-metal bearing with respect to metal ion levels. The authors are closely following all patients treated with metal-on-metal total hip arthroplasty.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Engh</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+<AffiliationInfo>
+<Affiliation>Anderson Orthopaedic Research Institute, P.O. Box 7088, Alexandria, VA 22306. E-mail address for C.A. Engh: research@aori.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>MacDonald</LastName>
+<ForeName>S J</ForeName>
+<Initials>SJ</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Orthopaedic Surgery, London Health Sciences Centre-University Hospital, 339 Windermere Road, London, ON N6A 5A5, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sritulanondha</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Anderson Orthopaedic Research Institute, P.O. Box 7088, Alexandria, VA 22306. E-mail address for C.A. Engh: research@aori.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Korczak</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Orthopaedic Surgery, London Health Sciences Centre-University Hospital, 339 Windermere Road, London, ON N6A 5A5, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Naudie</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Orthopaedic Surgery, London Health Sciences Centre-University Hospital, 339 Windermere Road, London, ON N6A 5A5, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Engh</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Anderson Orthopaedic Research Institute, P.O. Box 7088, Alexandria, VA 22306. E-mail address for C.A. Engh: research@aori.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Bone Joint Surg Am</MedlineTA>
+<NlmUniqueID>0014030</NlmUniqueID>
+<ISSNLinking>0021-9355</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0R0008Q3JB</RegistryNumber>
+<NameOfSubstance UI="D002857">Chromium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3G0H8C9362</RegistryNumber>
+<NameOfSubstance UI="D003035">Cobalt</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019644">Arthroplasty, Replacement, Hip</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002857">Chromium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003035">Cobalt</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006622">Hip Prosthesis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011358">Product Surveillance, Postmarketing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011474">Prosthesis Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24647500</ArticleId>
+<ArticleId IdType="pii">1840106</ArticleId>
+<ArticleId IdType="doi">10.2106/JBJS.M.00164</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

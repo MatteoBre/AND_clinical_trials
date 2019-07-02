@@ -1,0 +1,151 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22873524</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>05</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>06</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1751-3766</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>6</Volume>
+<PubDate>
+<Year>2012</Year>
+</PubDate>
+</JournalIssue>
+<Title>Journal of biological dynamics</Title>
+<ISOAbbreviation>J Biol Dyn</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Boundaries of sustainability in simple and elaborate models of agricultural pest control with a pesticide and a non-toxic refuge.</ArticleTitle>
+<Pagination>
+<MedlinePgn>80-95</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/17513758.2011.578758</ELocationID>
+<Abstract>
+<AbstractText>In two models of pest control using a pesticidal crop along with a non-pesticidal refuge to prevent the development of resistance, we numerically compute the bifurcations that bound the region in parameter space where control is sustainable indefinitely. An exact formula for one of the bifurcation surfaces in one of the models is also found. One model is conceptual and as simple as possible. The other is realistic and very detailed. Despite the great differences in the models, we find the same distinctive bifurcation structure. We focus on the parameters that determine: (i) the restriction of pest exchange between the crop and the refuge, which we call 'screening' the refuge, and (ii) the recessiveness of the resistance trait. The screened refuge technique is seen to work in the models up to quite high values of fitness of resistant heterozygotes, that is, even when resistance is not strongly recessive.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mohammed-Awel</LastName>
+<ForeName>Jemal</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Mathematics and Computer Science Department, Valdosta State University, Valdosta, GA 31698, USA. jmohammedawel@valdosta.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ringland</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bantle</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Festinger</LastName>
+<ForeName>Aaron</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jo</LastName>
+<ForeName>Hee-Joon</ForeName>
+<Initials>HJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Klafehn</LastName>
+<ForeName>Ryan</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>05</Month>
+<Day>24</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Biol Dyn</MedlineTA>
+<NlmUniqueID>101299725</NlmUniqueID>
+<ISSNLinking>1751-3758</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010575">Pesticides</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000383">Agriculture</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003247">Conservation of Natural Resources</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006579">Heterozygote</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007305">Insecticide Resistance</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008954">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010571">Pest Control</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010575">Pesticides</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>5</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22873524</ArticleId>
+<ArticleId IdType="doi">10.1080/17513758.2011.578758</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

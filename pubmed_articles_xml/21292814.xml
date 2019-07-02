@@ -1,0 +1,556 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21292814</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>01</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>02</Month>
+<Day>08</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1460-2385</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>26</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association</Title>
+<ISOAbbreviation>Nephrol. Dial. Transplant.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Estimation of renal allograft half-life: fact or fiction?</ArticleTitle>
+<Pagination>
+<MedlinePgn>3013-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1093/ndt/gfq788</ELocationID>
+<Abstract>
+<AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Renal allograft half-life time (t½) is the most straightforward representation of long-term graft survival. Since some statistical models overestimate this parameter, we compare different approaches to evaluate t½.</AbstractText>
+<AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Patients with a 1-year functioning graft transplanted in Spain during 1990, 1994, 1998 and 2002 were included. Exponential, Weibull, gamma, lognormal and log-logistic models censoring the last year of follow-up were evaluated. The goodness of fit of these models was evaluated according to the Cox-Snell residuals and the Akaike's information criterion (AIC) was employed to compare these models.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">We included 4842 patients. Real t½ in 1990 was 14.2 years. Median t½ (95% confidence interval) in 1990 and 2002 was 15.8 (14.2-17.5) versus 52.6 (35.6-69.5) according to the exponential model (P &lt; 0.001). No differences between 1990 and 2002 were observed when t½ was estimated with the other models. In 1990 and 2002, t½ was 14.0 (13.1-15.0) versus 18.0 (13.7-22.4) according to Weibull, 15.5 (13.9-17.1) versus 19.1 (15.6-22.6) according to gamma, 14.4 (13.3-15.6) versus 18.3 (14.2-22.3) according to the log-logistic and 15.2 (13.8-16.6) versus 18.8 (15.3-22.3) according to the lognormal models. The AIC confirmed that the exponential model had the lowest goodness of fit, while the other models yielded a similar result.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The exponential model overestimates t½, especially in cohorts of patients with a short follow-up, while any of the other studied models allow a better estimation even in cohorts with short follow-up.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="N">
+<LastName>Azancot</LastName>
+<ForeName>M Antonieta</ForeName>
+<Initials>MA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Nephrology, Hospital Universitari Vall d'Hebron, Barcelona, Spain. [corrected]</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="N">
+<LastName>Cantarell</LastName>
+<ForeName>Carme</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="N">
+<LastName>Perelló</LastName>
+<ForeName>Manel</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="N">
+<LastName>Torres</LastName>
+<ForeName>Irina B</ForeName>
+<Initials>IB</Initials>
+</Author>
+<Author ValidYN="N">
+<LastName>Serón</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seron</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moreso</LastName>
+<ForeName>Francesc</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arias</LastName>
+<ForeName>Manuel</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Campistol</LastName>
+<ForeName>Josep M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Curto</LastName>
+<ForeName>Jordi</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hernandez</LastName>
+<ForeName>Domingo</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morales</LastName>
+<ForeName>José M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sanchez-Fructuoso</LastName>
+<ForeName>Ana</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abraira</LastName>
+<ForeName>Victor</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>Spanish Late Allograft Dysfunction Study Group</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>02</Month>
+<Day>03</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Nephrol Dial Transplant</MedlineTA>
+<NlmUniqueID>8706402</NlmUniqueID>
+<ISSNLinking>0931-0509</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="ErratumIn">
+<RefSource>Nephrol Dial Transplant. 2011 Dec;26(12):4153-4</RefSource>
+<Note>Azancot, M Antonieta [removed]; Cantarell, Carme [removed]; Perelló, Manel [removed]; Torres, Irina B [removed]; Serón, Daniel [removed]; [multiple author names added]; [multiple investigator names added]</Note>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006085">Graft Survival</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006207">Half-Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007676">Kidney Failure, Chronic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016030">Kidney Transplantation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015233">Models, Statistical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014184">Transplantation, Homologous</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<InvestigatorList>
+<Investigator ValidYN="Y">
+<LastName>Franco</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Olivares</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cubero</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Díaz</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Amenábar</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lampreabe</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Guirado</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Díaz</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Facundo</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cruzado</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Grinyó</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Esforzado</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Oppenheimer</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lloveras</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Puig</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bayés</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lauzurica</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cantarell</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Capdevila</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mazuecos</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rivero</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>del Castillo</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pérez Calderón</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Asensio</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Osuna</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Oliver</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Alonso</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Checa</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Plaza</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Fernández</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sanz</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Andrés</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Calvo-Romero</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Anaya</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rengel</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Jiménez</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sanz</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Escuin</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Marcen</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pascual</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cabello</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gonzalez-Molina</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Alarcón</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Marco</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gómez-Huertas</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ortega</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Errasti</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Palomar</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Fernández</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Romero</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sánchez-Guisande</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gentil</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pereira</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>González-Posada</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Torres</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Garcia</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Crespo</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Martinez</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pallardo</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Beneyto</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sánchez-Plumed</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bustamante</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mendiluce</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gutiérrez</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gutiérrez</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Paul</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Investigator>
+</InvestigatorList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>2</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>2</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>1</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21292814</ArticleId>
+<ArticleId IdType="pii">gfq788</ArticleId>
+<ArticleId IdType="doi">10.1093/ndt/gfq788</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,194 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23541866</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>05</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>09</Month>
+<Day>03</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1532-8406</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of arthroplasty</Title>
+<ISOAbbreviation>J Arthroplasty</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Activity, sleep and cognition after fast-track hip or knee arthroplasty.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1265-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.arth.2013.02.013</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0883-5403(13)00176-9</ELocationID>
+<Abstract>
+<AbstractText>Optimized perioperative care after total hip and knee arthroplasty (THA/TKA) has decreased length of stay (LOS) but data on activity, sleep and cognition after discharge are limited. We included 20 patients ≥ 60 years undergoing THA/TKA, monitoring them for 3 days preoperatively and 9 days postoperatively with actigraphs for sleep and activity assessment. Pain scores were recorded daily. Cognition was evaluated by 2 cognitive tests. Results showed a mean age was 70.5 years and mean LOS was 2.6 days. Actigraphs showed increased daytime sleep and decreased motor activity postoperatively. Early postoperatively cognitive decline and increased pain returned to preoperative levels by postoperative day (POD) 5-9. Despite the small sample size the study illustrated that post-discharge activity is decreased and daytime sleep is increased after fast-track THA/TKA, while cognition and pain return to preoperative levels by POD 9. Objective assessment of these recovery parameters may be valuable in future interventional studies to enhance recovery after THA/TKA.</AbstractText>
+<CopyrightInformation>Copyright © 2013 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Krenk</LastName>
+<ForeName>Lene</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Section of Surgical Pathophysiology, Rigshospitalet, University of Copenhagen, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jennum</LastName>
+<ForeName>Poul</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kehlet</LastName>
+<ForeName>Henrik</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>03</Month>
+<Day>28</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Arthroplasty</MedlineTA>
+<NlmUniqueID>8703515</NlmUniqueID>
+<ISSNLinking>0883-5403</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019644">Arthroplasty, Replacement, Hip</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019645">Arthroplasty, Replacement, Knee</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003071">Cognition</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007902">Length of Stay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009043">Motor Activity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010147">Pain Measurement</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010351">Patient Discharge</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019990">Perioperative Care</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011184">Postoperative Period</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020127">Recovery of Function</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012890">Sleep</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">activity</Keyword>
+<Keyword MajorTopicYN="N">cognition</Keyword>
+<Keyword MajorTopicYN="N">pain</Keyword>
+<Keyword MajorTopicYN="N">recovery</Keyword>
+<Keyword MajorTopicYN="N">sleep</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>10</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>01</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>02</Month>
+<Day>10</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23541866</ArticleId>
+<ArticleId IdType="pii">S0883-5403(13)00176-9</ArticleId>
+<ArticleId IdType="doi">10.1016/j.arth.2013.02.013</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

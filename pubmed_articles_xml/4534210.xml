@@ -1,0 +1,121 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">4534210</PMID>
+<DateCompleted>
+<Year>1976</Year>
+<Month>04</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<JournalIssue CitedMedium="Print">
+<Volume>1</Volume>
+<PubDate>
+<Year>1974</Year>
+</PubDate>
+</JournalIssue>
+<Title>Odontologie Conservatrice</Title>
+<ISOAbbreviation>Odontol Conserv</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Microscopic and submicroscopic localization of fluorine in human dental enamel fluorosis].</ArticleTitle>
+<Pagination>
+<MedlinePgn>219-26</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Baud</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bang</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>fre</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Localisation microscopique et submicroscopique du fluor dans l'émail dentaire humain fluorotique</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>France</Country>
+<MedlineTA>Odontol Conserv</MedlineTA>
+<NlmUniqueID>9870007</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001031">Apatites</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>284SYP0193</RegistryNumber>
+<NameOfSubstance UI="D005461">Fluorine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>D</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001031">Apatites</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003743">Dental Enamel</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004577">Electron Probe Microanalysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005461">Fluorine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009050">Fluorosis, Dental</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008853">Microscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014961">X-Ray Diffraction</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1974</Year>
+<Month>1</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1974</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1974</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4534210</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

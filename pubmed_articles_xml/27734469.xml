@@ -1,0 +1,199 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27734469</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>02</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>02</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1365-2141</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>180</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2018</Year>
+<Month>02</Month>
+</PubDate>
+</JournalIssue>
+<Title>British journal of haematology</Title>
+<ISOAbbreviation>Br. J. Haematol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Idarucizumab for dabigatran overdose in a child.</ArticleTitle>
+<Pagination>
+<MedlinePgn>457-459</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/bjh.14371</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Shapiro</LastName>
+<ForeName>Susan</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Oxford Haemophilia and Thrombosis Centre, Oxford University Hospitals NHS Foundation Trust, Oxford Comprehensive Biomedical Resource Centre*, Oxford, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bhatnagar</LastName>
+<ForeName>Neha</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Paediatric Haematology, John Radcliffe Hospital, Oxford University Hospitals NHS Foundation Trust, Oxford, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khan</LastName>
+<ForeName>Asif</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Haematology, Royal Berkshire Hospital, Reading, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beavis</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Haemostasis Laboratory, Churchill Hospital, Oxford University Hospitals NHS Foundation Trust, Oxford, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Keeling</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+<Identifier Source="ORCID">0000-0001-6779-6566</Identifier>
+<AffiliationInfo>
+<Affiliation>Oxford Haemophilia and Thrombosis Centre, Oxford University Hospitals NHS Foundation Trust, Oxford Comprehensive Biomedical Resource Centre*, Oxford, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016422">Letter</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>13</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+<ISSNLinking>0007-1048</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D061067">Antibodies, Monoclonal, Humanized</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000925">Anticoagulants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000991">Antithrombins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>97RWB5S1U6</RegistryNumber>
+<NameOfSubstance UI="C000594745">idarucizumab</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>I0VM4M70GC</RegistryNumber>
+<NameOfSubstance UI="D000069604">Dabigatran</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061067">Antibodies, Monoclonal, Humanized</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000925">Anticoagulants</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000991">Antithrombins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001777">Blood Coagulation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001780">Blood Coagulation Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069604">Dabigatran</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D062787">Drug Overdose</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">dabigatran</Keyword>
+<Keyword MajorTopicYN="Y">direct oral anticoagulant</Keyword>
+<Keyword MajorTopicYN="Y">idarucizumab</Keyword>
+<Keyword MajorTopicYN="Y">overdose</Keyword>
+<Keyword MajorTopicYN="Y">reversal</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2018</Year>
+<Month>2</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27734469</ArticleId>
+<ArticleId IdType="doi">10.1111/bjh.14371</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

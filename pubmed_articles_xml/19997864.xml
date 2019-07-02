@@ -1,0 +1,185 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19997864</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>03</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2010</Year>
+<Month>01</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1572-9699</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>97</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Antonie van Leeuwenhoek</Title>
+<ISOAbbreviation>Antonie Van Leeuwenhoek</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Transferability of a tetracycline resistance gene from probiotic Lactobacillus reuteri to bacteria in the gastrointestinal tract of humans.</ArticleTitle>
+<Pagination>
+<MedlinePgn>189-200</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s10482-009-9401-0</ELocationID>
+<Abstract>
+<AbstractText>The potential of Lactobacillus reuteri as a donor of antibiotic resistance genes in the human gut was investigated by studying the transferability of the tetracycline resistance gene tet(W) to faecal enterococci, bifidobacteria and lactobacilli. In a double-blind clinical study, seven subjects consumed L. reuteri ATCC 55730 harbouring a plasmid-encoded tet(W) gene (tet(W)-reuteri) and an equal number of subjects consumed L. reuteri DSM 17938 derived from the ATCC 55730 strain by the removal of two plasmids, one of which contained the tet(W) gene. Faecal samples were collected before, during and after ingestion of 5 x 10(8) CFU of L. reuteri per day for 14 days. Both L. reuteri strains were detectable at similar levels in faeces after 14 days of intake but neither was detected after a two-week wash-out period. After enrichment and isolation of tetracycline resistant enterococci, bifidobacteria and lactobacilli from each faecal sample, DNA was extracted and analysed for presence of tet(W)-reuteri using a real-time PCR allelic discrimination method developed in this study. No tet(W)-reuteri signal was produced from any of the DNA samples and thus gene transfer to enterococci, bifidobacteria and lactobacilli during intestinal passage of the probiotic strain was non-detectable under the conditions tested, although transfer at low frequencies or to the remaining faecal bacterial population cannot be excluded.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Egervärn</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Microbiology Division, National Food Administration, Box 622, 751 26 Uppsala, Sweden. mia.egervarn@slv.se</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lindmark</LastName>
+<ForeName>Hans</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olsson</LastName>
+<ForeName>Johan</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roos</LastName>
+<ForeName>Stefan</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>08</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Antonie Van Leeuwenhoek</MedlineTA>
+<NlmUniqueID>0372625</NlmUniqueID>
+<ISSNLinking>0003-6072</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004269">DNA, Bacterial</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001644">Bifidobacterium</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004269">DNA, Bacterial</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016983">Enterococcus</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005243">Feces</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D041981">Gastrointestinal Tract</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D022761">Gene Transfer, Horizontal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D052200">Lactobacillus reuteri</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010957">Plasmids</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016133">Polymerase Chain Reaction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019936">Probiotics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D013753">Tetracycline Resistance</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2009</Year>
+<Month>08</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2009</Year>
+<Month>11</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>3</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19997864</ArticleId>
+<ArticleId IdType="doi">10.1007/s10482-009-9401-0</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,149 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22172951</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>04</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1470-7926</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Occupational and environmental medicine</Title>
+<ISOAbbreviation>Occup Environ Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Predictors of seasonal influenza vaccination among healthcare workers in hospitals: a descriptive meta-analysis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>230-5</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1136/oemed-2011-100134</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Vaccinating healthcare workers (HCWs) against influenza is one of the most important methods of decreasing influenza transmission among at-risk patients in healthcare facilities. However, despite recommendations, the rate of uptake of influenza vaccine among HCWs remains low. The objective of this meta-analysis was to determine the most important predictors of seasonal influenza vaccine acceptance among HCWs in hospitals.</AbstractText>
+<AbstractText Label="METHOD" NlmCategory="METHODS">A literature search of PubMed and Embase resulted in 4586 hits. Screening of the titles, abstracts and full text identified 13 studies eligible for inclusion in the meta-analysis. Based on the crude data, pooled risk ratios (Mantel-Haenszel risk ratios, mhRR) and their 95% CIs were calculated using Mantel-Haenszel analysis to estimate the associations of predictors with influenza vaccination status.</AbstractText>
+<AbstractText Label="RESULTS AND CONCLUSION" NlmCategory="CONCLUSIONS">Knowing that the vaccine is effective (mhRR 2.22; 95% CI 1.93 to 2.54), being willing to prevent influenza transmission (mhRR 2.31; 95% CI 1.97 to 2.70), believing that influenza is highly contagious (RR 2.25; 95% CI 1.66 to 3.05), believing that influenza prevention is important (mhRR 3.63; 95% CI 2.87 to 4.59) and having a family that is usually vaccinated (RR 2.32; 95% CI 1.64 to 3.28) were statistically significantly associated with a twofold higher vaccine uptake. We therefore recommend targeting these predictors when developing new influenza vaccination implementation strategies for hospital HCWs.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Riphagen-Dalhuisen</LastName>
+<ForeName>Josien</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>University of Groningen, Department of Pharmacy, Division of Pharmacoepidemiology and Pharmacoeconomics, PO Box XB45, Antonius Deusinglaan 1, 9713 AV Groningen, The Netherlands. j.riphagen@umcg.nl</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gefenaite</LastName>
+<ForeName>Giedre</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hak</LastName>
+<ForeName>Eelko</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D017418">Meta-Analysis</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>15</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Occup Environ Med</MedlineTA>
+<NlmUniqueID>9422759</NlmUniqueID>
+<ISSNLinking>1351-0711</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007252">Influenza Vaccines</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D001291">Attitude of Health Personnel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007722">Health Knowledge, Attitudes, Practice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017053">Infection Control</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007252">Influenza Vaccines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007251">Influenza, Human</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016273">Occupational Exposure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010564">Personnel, Hospital</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011361">Professional Competence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014611">Vaccination</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22172951</ArticleId>
+<ArticleId IdType="pii">oemed-2011-100134</ArticleId>
+<ArticleId IdType="doi">10.1136/oemed-2011-100134</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,226 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26263033</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>07</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>10</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1541-2563</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>12</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2015</Year>
+</PubDate>
+</JournalIssue>
+<Title>COPD</Title>
+<ISOAbbreviation>COPD</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Walking with Non-Invasive Ventilation Does Not Prevent Exercise-Induced Hypoxaemia in Stable Hypercapnic COPD Patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>546-51</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Non-invasive positive pressure ventilation (NPPV) in addition to supplemental oxygen improves arterial oxygenation, walking distance and dyspnea when applied during exercise in stable hypercapnic COPD patients. The aim of the current study was to investigate whether NPPV without supplemental oxygen is capable of preventing severe exercise-induced hypoxemia in these patients when applied during walking.</AbstractText>
+<AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">15 stable hypercapnic COPD patients (FEV1 29.9 ± 15.9%) performed two 6-minute walk tests (6MWT) with a rollator in a randomized cross-over design: using either supplemental oxygen (2.4 ± 0.7 L/min) or NPPV (inspiratory/expiratory positive airway pressure of 28.2 ± 2.8 / 5.5 ± 1.5 mbar) without supplemental oxygen.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">10 patients were able to complete both 6MWT. 6MWT with supplemental oxygen resulted in no changes for PO2 (pre: 67.3 ± 11.2 mmHg vs. post: 65.6 ± 12.0 mmHg, p = 0.72) whereas PCO2 increased (pre: 50.9 ± 8.1 mmHg vs. post: 54.3 ± 10.0 mmHg (p &lt; 0.03). During 6MWT with NPPV PO2 significantly decreased from 66.8 ± 7.2 mmHg to 55.5 ± 10.6 mmHg (p &lt; 0.02) whereas no changes occurred in PCO2 (pre: 50.6 ± 7.5 mmHg vs. post: 53.0 ± 7.1 mmHg; p = 0.17). Walking distance tended to be lower in 6MWT with NPPV compared to 6MWT with supplemental oxygen alone (318 ± 160 m vs. 377 ± 108 m; p = 0.08).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The use of NPPV during walking without the application of supplemental oxygen does not prevent exercise-induced hypoxemia in patients with stable hypercapnic COPD.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Walker</LastName>
+<ForeName>David Johannes</ForeName>
+<Initials>DJ</Initials>
+<AffiliationInfo>
+<Affiliation>a Department of Pneumology, University Hospital , Freiburg , Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Walterspacher</LastName>
+<ForeName>Stephan</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>a Department of Pneumology, University Hospital , Freiburg , Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ekkernkamp</LastName>
+<ForeName>Emelie</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>a Department of Pneumology, University Hospital , Freiburg , Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Storre</LastName>
+<ForeName>Jan Hendrik</ForeName>
+<Initials>JH</Initials>
+<AffiliationInfo>
+<Affiliation>b Department of Pneumology, Cologne Merheim Hospital, Kliniken der Stadt Köln gGmbH, Witten/Herdecke University , Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Windisch</LastName>
+<ForeName>Wolfram</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>b Department of Pneumology, Cologne Merheim Hospital, Kliniken der Stadt Köln gGmbH, Witten/Herdecke University , Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dreher</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>c Department of Cardiology, Pneumology, Angiology and Intensive Care Medicine, University Hospital , Aachen , Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>COPD</MedlineTA>
+<NlmUniqueID>101211769</NlmUniqueID>
+<ISSNLinking>1541-2563</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>142M471B3J</RegistryNumber>
+<NameOfSubstance UI="D002245">Carbon Dioxide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>S88TT14065</RegistryNumber>
+<NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>COPD. 2016 Aug;13(4):534-5</RefSource>
+<PMID Version="1">26743920</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>COPD. 2016 Aug;13(4):536</RefSource>
+<PMID Version="1">27015039</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002245">Carbon Dioxide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017079">Exercise Tolerance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005541">Forced Expiratory Volume</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006935">Hypercapnia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000860">Hypoxia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D063087">Noninvasive Ventilation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010100">Oxygen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010313">Partial Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011175">Positive-Pressure Respiration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D029424">Pulmonary Disease, Chronic Obstructive</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016138">Walking</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">6-minute walk test</Keyword>
+<Keyword MajorTopicYN="N">chronic obstructive pulmonary disease</Keyword>
+<Keyword MajorTopicYN="N">exercise</Keyword>
+<Keyword MajorTopicYN="N">non-invasive ventilation</Keyword>
+<Keyword MajorTopicYN="N">respiratory muscle unloading</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26263033</ArticleId>
+<ArticleId IdType="pii">10.3109/15412555.2015.1008690</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

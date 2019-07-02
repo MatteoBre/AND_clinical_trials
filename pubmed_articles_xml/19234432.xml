@@ -1,0 +1,187 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19234432</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>08</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0026-4970</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>58</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<MedlineDate>2009 Jan-Feb</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Minerva stomatologica</Title>
+<ISOAbbreviation>Minerva Stomatol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Indirect resin composite restorations: evaluation of polymerization of luting agents by means of micro-Raman spectrophotometry.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="AIM" NlmCategory="OBJECTIVE">The degree of conversion of a luting composite cement influences its clinical performance. Aim of the study was to evaluate the degree of conversion of 4 different composite cements by means of micro Raman spectrophotometry.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Forty-four cylindrical onlays of different and defined thickness (1, 2, 3, 4 mm) were built using a custom made template. The onlays were made in composite material (Signum, Heraeus; shade A 3,5) and cemented onto a glass plate with different luting materials: dual curing (Variolink II, Calibra) and light curing (Venus flow, Tetric flow). The lamp tip was shielded in order to have the light reach the cement only through the onlay. Samples were divided into 12 groups (N.=3), differing in onlay thickness and luting material. Each sample was examined in three spots by a micro-Raman spectrophotometer (Dilor Hr-Labram). The conversion degree was evaluated by analyzing the variations in intensity of the 1638 cm(-1) aliphatic peak (C=C), characteristic of all Bis-GMA containing materials, related to the invariant 1608 cm(-1) (C-C of the aromatic ring).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">All materials show good polymerisation results below 1 mm and 2 mm onlays. Below onlays thicker than 3 mm a constant degree of conversion throughout the surface of samples could not be found: spots with satisfactory polymerisation and spots with insufficient polymerisation were found.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Onlay thickness has a key role in cement conversion. The thicker the onlay, the less predictable the conversion.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Vieno</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>School of Dentistry University of Brescia, Brescia, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Madini</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barabanti</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alessandri</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gagliani</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cerutti</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<Language>ita</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D023362">Evaluation Studies</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Italy</Country>
+<MedlineTA>Minerva Stomatol</MedlineTA>
+<NlmUniqueID>0421071</NlmUniqueID>
+<ISSNLinking>0026-4970</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C433205">Calibra</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D003188">Composite Resins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D003738">Dental Cements</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011108">Polymers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019279">Resin Cements</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C542517">Venus flow composite resin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C452226">tetric flow composite resin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>179240-22-3</RegistryNumber>
+<NameOfSubstance UI="C103502">Variolink</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>454I75YXY0</RegistryNumber>
+<NameOfSubstance UI="D017438">Bisphenol A-Glycidyl Methacrylate</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>D</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017438">Bisphenol A-Glycidyl Methacrylate</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003188">Composite Resins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003738">Dental Cements</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003793">Dental Restoration, Permanent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008422">Materials Testing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011108">Polymers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019279">Resin Cements</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013059">Spectrum Analysis, Raman</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>2</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>2</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>8</Month>
+<Day>7</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19234432</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,249 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24661652</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>05</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1879-355X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>88</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Apr</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>International journal of radiation oncology, biology, physics</Title>
+<ISOAbbreviation>Int. J. Radiat. Oncol. Biol. Phys.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Outcomes and patterns of failure for grade 2 meningioma treated with reduced-margin intensity modulated radiation therapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1004-10</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijrobp.2013.12.037</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0360-3016(13)03699-7</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The purpose of this study was to evaluate intracranial control and patterns of local recurrence (LR) for grade 2 meningiomas treated with intensity modulated radiation therapy (IMRT) with limited total margin expansions of ≤1 cm.</AbstractText>
+<AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">We reviewed records of patients with a neuropathological diagnosis of grade 2 meningioma who underwent IMRT at our institution between 2002 and 2012. Actuarial rates were determined by the Kaplan-Meier method from the end of RT. LR was defined as in-field if ≥90% of the recurrence was within the prescription isodose, out-of-field (marginal) if ≥90% was outside of the prescription isodose, and both if neither criterion was met.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Between 2002 and 2012, a total of 54 consecutive patients underwent IMRT for grade 2 meningioma. Eight of these patients had total initial margins &gt;1 cm and were excluded, leaving 46 patients for analysis. The median imaging follow-up period was 26.2 months (range, 7-107 months). The median dose for fractionated IMRT was 59.4 Gy (range, 49.2-61.2 Gy). Median clinical target volume (CTV), planning target volume (PTV), and total margin expansion were 0.5 cm, 0.3 cm, and 0.8 cm, respectively. LR occurred in 8 patients (17%), with 2-year and 3-year actuarial local control (LC) of 92% and 74%, respectively. Six of 8 patients (85%) had a known pattern of failure. Five patients (83%) had in-field LR; no patients had marginal LR; and 1 patient (17%) had both.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The use of IMRT to treat grade 2 meningiomas with total initial margins (CTV + PTV) ≤1 cm did not appear to compromise outcomes or increase marginal failures compared with other modern retrospective series. Of the 46 patients who had margins ≤1 cm, none experienced marginal failure only. These results demonstrate efficacy and low risk of marginal failure after IMRT treatment of grade 2 meningiomas with reduced margins, warranting study within a prospective clinical trial.</AbstractText>
+<CopyrightInformation>Copyright © 2014 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Press</LastName>
+<ForeName>Robert H</ForeName>
+<Initials>RH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, Emory University, Atlanta, Georgia; Winship Cancer Institute, Emory University, Atlanta, Georgia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prabhu</LastName>
+<ForeName>Roshan S</ForeName>
+<Initials>RS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, Emory University, Atlanta, Georgia; Winship Cancer Institute, Emory University, Atlanta, Georgia. Electronic address: roshansprabhu@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Appin</LastName>
+<ForeName>Christina L</ForeName>
+<Initials>CL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pathology, Emory University, Atlanta, Georgia; Winship Cancer Institute, Emory University, Atlanta, Georgia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brat</LastName>
+<ForeName>Daniel J</ForeName>
+<Initials>DJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pathology, Emory University, Atlanta, Georgia; Winship Cancer Institute, Emory University, Atlanta, Georgia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shu</LastName>
+<ForeName>Hui-Kuo G</ForeName>
+<Initials>HK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, Emory University, Atlanta, Georgia; Winship Cancer Institute, Emory University, Atlanta, Georgia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hadjipanayis</LastName>
+<ForeName>Constantinos</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurosurgery, Emory University, Atlanta, Georgia; Winship Cancer Institute, Emory University, Atlanta, Georgia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olson</LastName>
+<ForeName>Jeffrey J</ForeName>
+<Initials>JJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurosurgery, Emory University, Atlanta, Georgia; Winship Cancer Institute, Emory University, Atlanta, Georgia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oyesiku</LastName>
+<ForeName>Nelson M</ForeName>
+<Initials>NM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurosurgery, Emory University, Atlanta, Georgia; Winship Cancer Institute, Emory University, Atlanta, Georgia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Curran</LastName>
+<ForeName>Walter J</ForeName>
+<Initials>WJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, Emory University, Atlanta, Georgia; Winship Cancer Institute, Emory University, Atlanta, Georgia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crocker</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, Emory University, Atlanta, Georgia; Winship Cancer Institute, Emory University, Atlanta, Georgia.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Int J Radiat Oncol Biol Phys</MedlineTA>
+<NlmUniqueID>7603616</NlmUniqueID>
+<ISSNLinking>0360-3016</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001932">Brain Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008579">Meningioma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24661652</ArticleId>
+<ArticleId IdType="pii">S0360-3016(13)03699-7</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ijrobp.2013.12.037</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

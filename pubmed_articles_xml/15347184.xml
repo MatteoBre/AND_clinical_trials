@@ -1,0 +1,118 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15347184</PMID>
+<DateCompleted>
+<Year>2004</Year>
+<Month>09</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>03</Month>
+<Day>28</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0041-5782</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>166</Volume>
+<Issue>32</Issue>
+<PubDate>
+<Year>2004</Year>
+<Month>Aug</Month>
+<Day>02</Day>
+</PubDate>
+</JournalIssue>
+<Title>Ugeskrift for laeger</Title>
+<ISOAbbreviation>Ugeskr. Laeg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[They promise one thing and promise to keep something else].</ArticleTitle>
+<Pagination>
+<MedlinePgn>2694-5</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Jacobsen</LastName>
+<ForeName>Ib Abildgaard</ForeName>
+<Initials>IA</Initials>
+</Author>
+</AuthorList>
+<Language>dan</Language>
+<PublicationTypeList>
+<PublicationType UI="D016420">Comment</PublicationType>
+<PublicationType UI="D016422">Letter</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Man lover ét og lover at holde noget andet.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Denmark</Country>
+<MedlineTA>Ugeskr Laeger</MedlineTA>
+<NlmUniqueID>0141730</NlmUniqueID>
+<ISSNLinking>0041-5782</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000959">Antihypertensive Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Ugeskr Laeger. 2004 Jun 21;166(26-31):2589-90</RefSource>
+<PMID Version="1">15285171</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Ugeskr Laeger. 2004 Aug 9;166(33):2819</RefSource>
+<PMID Version="1">15344867</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000959">Antihypertensive Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016527">Drug Costs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004345">Drug Industry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004346">Drug Information Services</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2004</Year>
+<Month>9</Month>
+<Day>7</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2004</Year>
+<Month>9</Month>
+<Day>24</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2004</Year>
+<Month>9</Month>
+<Day>7</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15347184</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

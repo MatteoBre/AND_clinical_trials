@@ -1,0 +1,148 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18772720</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>09</Month>
+<Day>05</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1538-9235</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>85</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Optometry and vision science : official publication of the American Academy of Optometry</Title>
+<ISOAbbreviation>Optom Vis Sci</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Forward scattering properties of corneal haze.</ArticleTitle>
+<Pagination>
+<MedlinePgn>843-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/OPX.0b013e31818527b4</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Corneal haze is a well-known pathology associated with decreased corneal transparency and increased ocular scattering. Clinically, haze is typically estimated as the amount of backscattered light observed in a slit lamp examination while the small angle forward scattering cannot be directly observed. It was the purpose of this study to demonstrate a single-pass technique to objectively measure forward scattering properties of excised rabbit corneas.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Six rabbits (twelve eyes) were used in this study. All eyes underwent photorefractive keratectomy for -4 D in a 6 mm ablation zone. Seven weeks later, the rabbits were examined under general anesthesia. All eyes expressed mild to severe haze. A purposely-developed single pass optical setup was used both to estimate the angular distribution and fraction of forward light scattering in excised rabbit corneas. Moreover, subjective clinical corneal haze evaluation was performed as well as corneal confocal microscopy of all corneas. Finally, the corneas were histopathologically examined.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Light scattering in the rabbit corneas followed a narrow forward peaked distribution. A new parameter, Ballistic Ratio, was introduced to represent a parameter for absolute quantification of forward light scatter, corresponding to the power ratio of the radiation that is not scattered by each sample. A negative correlation between clinically subjective corneal haze and forward scatter (Pearson's Coefficient = -0.23) was found, which suggests the relation between increased forward and backward scatter. Activated myofibroblasts, collagen irregularities and vacuoles present in a sub-epithelial layer over the treated area of the cornea had characteristic dimensions in accordance to the measured scatter distribution.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Corneal light scatter associated with the increased amount of haze after excimer laser ablation has a narrowly forward distribution that can be attributed to the subepithelial structures observed in treated corneas.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>De Brouwere</LastName>
+<ForeName>Dirk</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Vision and Optics, University of Crete, Heraklion, Crete, Greece. debrouwere@med.uoc.gr</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ginis</LastName>
+<ForeName>Harilaos</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kymionis</LastName>
+<ForeName>George</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Naoumidi</LastName>
+<ForeName>Irini</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pallikaris</LastName>
+<ForeName>Ioannis</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Optom Vis Sci</MedlineTA>
+<NlmUniqueID>8904931</NlmUniqueID>
+<ISSNLinking>1040-5488</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003315">Cornea</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003318">Corneal Opacity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008027">Light</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018903">Photorefractive Keratectomy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011817">Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012542">Scattering, Radiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014786">Vision Disorders</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18772720</ArticleId>
+<ArticleId IdType="doi">10.1097/OPX.0b013e31818527b4</ArticleId>
+<ArticleId IdType="pii">00006324-200809000-00015</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

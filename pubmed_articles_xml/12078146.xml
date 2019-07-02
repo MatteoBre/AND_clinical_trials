@@ -1,0 +1,143 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12078146</PMID>
+<DateCompleted>
+<Year>2002</Year>
+<Month>12</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1001-5302</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>24</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1999</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica</Title>
+<ISOAbbreviation>Zhongguo Zhong Yao Za Zhi</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[RP-HPLC determination of adenosine in fermented Cordyceps].</ArticleTitle>
+<Pagination>
+<MedlinePgn>12-4, 62</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">A method for determination of adenosine in four fermented Cordyceps products by RP-HPLC is described.</AbstractText>
+<AbstractText Label="METHOD" NlmCategory="METHODS">C18 column was used with methanol-0.06 mol/L potassium phosphate monobasic-tetrahydrofuran (10:150:1.5) as mobile phase. The flow rate was 1 ml/min and detected at 260 nm.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The average recovery was 98.7% and relative standard deviation was 1.10% (n = 5).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This method is simple, rapid and sensitive. The paper introduces the feasibility of supersonic extraction method taking the place of reflux method.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Materia Medica, Chinese Academy of Medical Sciences, Peking Union Medical College, Beijing 100050.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bao</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>chi</Language>
+<PublicationTypeList>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>China</Country>
+<MedlineTA>Zhongguo Zhong Yao Za Zhi</MedlineTA>
+<NlmUniqueID>8913656</NlmUniqueID>
+<ISSNLinking>1001-5302</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004338">Drug Combinations</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004365">Drugs, Chinese Herbal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>K72T3FS567</RegistryNumber>
+<NameOfSubstance UI="D000241">Adenosine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000241">Adenosine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002851">Chromatography, High Pressure Liquid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D032661">Cordyceps</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004338">Drug Combinations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004365">Drugs, Chinese Herbal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007915">Lepidoptera</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>6</Month>
+<Day>25</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2002</Year>
+<Month>12</Month>
+<Day>18</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>6</Month>
+<Day>25</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12078146</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

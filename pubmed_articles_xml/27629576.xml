@@ -1,0 +1,320 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27629576</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>06</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1541-6100</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>146</Volume>
+<Issue>10</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of nutrition</Title>
+<ISOAbbreviation>J. Nutr.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Plasma Alkylresorcinols Reflect Gluten Intake and Distinguish between Gluten-Rich and Gluten-Poor Diets in a Population at Risk of Metabolic Syndrome.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1991-1998</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Many patients with celiac disease experience difficulties in adherence to a gluten-free diet. Methods for testing compliance to a gluten-free diet are costly and cumbersome. Thus, a simple biomarker of gluten intake is needed in a clinical setting and will be useful for epidemiologic studies investigating wider effects of gluten intake.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim was to evaluate plasma total alkylresorcinol concentrations as a measure of gluten intake.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">In this randomized, controlled, crossover intervention study in 52 Danish adults with features of the metabolic syndrome, we compared 8 wk of a gluten-rich and gluten-poor diet separated by a washout period of ≥6 wk. We measured fasting plasma concentrations of alkylresorcinols to determine if they reflected differences in gluten intake as a secondary outcome of the original study. In addition, we investigated in 118 Danish adults the cross-sectional association between self-reported gluten intake and plasma alkylresorcinols in the same and a similar study at baseline. We used mixed-model ANCOVA for examining treatment effects, a classification tree to determine compliance to the gluten-poor diet, and linear regression models for examining baseline correlation between plasma alkylresorcinol concentrations and gluten intake.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Plasma total alkylresorcinols decreased more during the gluten-poor period (geometric mean: -124.8 nmol/L; 95% CI: -156.5, -93.0 nmol/L) than in the gluten-rich period (geometric mean: -31.8 nmol/L; 95% CI: -63.1, -0.4 nmol/L) (P &lt; 0.001). On the basis of the plasma alkylresorcinol profile, we built a classification tree to objectively determine compliance and found an overall participant misclassification error of 3.9%. In the cross-sectional study we found a 5.6% (95% CI: 2.4%, 8.9%) increase in plasma total alkylresorcinols per 1-g increase in reported gluten intake (P &lt; 0.001).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We propose the use of plasma alkylresorcinols to monitor compliance to a gluten-free diet as well as to help investigations into the possible effects of gluten in the wider population. This trial was registered at www.clinicaltrials.gov as NCT017119913 and NCT01731366.</AbstractText>
+<CopyrightInformation>© 2016 American Society for Nutrition.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lind</LastName>
+<ForeName>Mads V</ForeName>
+<Initials>MV</Initials>
+<Identifier Source="ORCID">http://orcid.org/0000-0002-4999-1218</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Nutrition, Exercise, and Sports, Faculty of Science, University of Copenhagen, Frederiksberg, Denmark; Department of Biology and Biological Engineering, Chalmers University of Technology, Gothenburg, Sweden; madslind@nexs.ku.dk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Madsen</LastName>
+<ForeName>Mia L</ForeName>
+<Initials>ML</Initials>
+<AffiliationInfo>
+<Affiliation>The Novo Nordisk Foundation Center for Basic Metabolic Research, Section of Metabolic Genetics, Faculty of Health and Medical Sciences, and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rumessen</LastName>
+<ForeName>Jüri J</ForeName>
+<Initials>JJ</Initials>
+<AffiliationInfo>
+<Affiliation>QD-Research Unit and Department of Gastroenterology, Herlev and Gentofte Hospital, University of Copenhagen, Copenhagen, Denmark; and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vestergaard</LastName>
+<ForeName>Henrik</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>The Novo Nordisk Foundation Center for Basic Metabolic Research, Section of Metabolic Genetics, Faculty of Health and Medical Sciences, and Steno Diabetes Center, Gentofte, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gøbel</LastName>
+<ForeName>Rikke J</ForeName>
+<Initials>RJ</Initials>
+<AffiliationInfo>
+<Affiliation>The Novo Nordisk Foundation Center for Basic Metabolic Research, Section of Metabolic Genetics, Faculty of Health and Medical Sciences, and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hansen</LastName>
+<ForeName>Torben</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>The Novo Nordisk Foundation Center for Basic Metabolic Research, Section of Metabolic Genetics, Faculty of Health and Medical Sciences, and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lauritzen</LastName>
+<ForeName>Lotte</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Nutrition, Exercise, and Sports, Faculty of Science, University of Copenhagen, Frederiksberg, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pedersen</LastName>
+<ForeName>Oluf B</ForeName>
+<Initials>OB</Initials>
+<AffiliationInfo>
+<Affiliation>The Novo Nordisk Foundation Center for Basic Metabolic Research, Section of Metabolic Genetics, Faculty of Health and Medical Sciences, and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kristensen</LastName>
+<ForeName>Mette</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Nutrition, Exercise, and Sports, Faculty of Science, University of Copenhagen, Frederiksberg, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ross</LastName>
+<ForeName>Alastair B</ForeName>
+<Initials>AB</Initials>
+<Identifier Source="ORCID">http://orcid.org/0000-0002-9585-0141</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Biology and Biological Engineering, Chalmers University of Technology, Gothenburg, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>09</Month>
+<Day>14</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Nutr</MedlineTA>
+<NlmUniqueID>0404243</NlmUniqueID>
+<ISSNLinking>0022-3166</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008076">Cholesterol, HDL</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008078">Cholesterol, LDL</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012118">Resorcinols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014280">Triglycerides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8002-80-0</RegistryNumber>
+<NameOfSubstance UI="D005983">Glutens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001786">Blood Glucose</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002446">Celiac Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000178">diet therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008076">Cholesterol, HDL</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008078">Cholesterol, LDL</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003430">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003718">Denmark</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055050">Diet, Gluten-Free</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002149">Energy Intake</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005983">Glutens</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016014">Linear Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D024821">Metabolic Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010349">Patient Compliance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012118">Resorcinols</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057566">Self Report</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014280">Triglycerides</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055105">Waist Circumference</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">biomarkers</Keyword>
+<Keyword MajorTopicYN="Y">celiac disease</Keyword>
+<Keyword MajorTopicYN="Y">coeliac disease</Keyword>
+<Keyword MajorTopicYN="Y">gluten intolerance</Keyword>
+<Keyword MajorTopicYN="Y">gluten sensitivity</Keyword>
+<Keyword MajorTopicYN="Y">gluten-free diet</Keyword>
+<Keyword MajorTopicYN="Y">gluten-related disorders</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>05</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>08</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>6</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27629576</ArticleId>
+<ArticleId IdType="pii">jn.116.236398</ArticleId>
+<ArticleId IdType="doi">10.3945/jn.116.236398</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

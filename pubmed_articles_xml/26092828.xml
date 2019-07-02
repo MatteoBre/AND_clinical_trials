@@ -1,0 +1,617 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26092828</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>04</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1555-905X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>10</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Jul</Month>
+<Day>07</Day>
+</PubDate>
+</JournalIssue>
+<Title>Clinical journal of the American Society of Nephrology : CJASN</Title>
+<ISOAbbreviation>Clin J Am Soc Nephrol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Cardiac autonomic neuropathy and early progressive renal decline in patients with nonmacroalbuminuric type 1 diabetes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1136-44</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.2215/CJN.11441114</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND AND OBJECTIVES" NlmCategory="OBJECTIVE">Cardiac autonomic neuropathy predicts future adverse renal outcomes in the general population. This study sought to determine its relationship with early progressive renal decline in type 1 diabetes.</AbstractText>
+<AbstractText Label="DESIGN, SETTING, PARTICIPANTS, &amp; MEASUREMENTS" NlmCategory="METHODS">A subset of participants with normoalbuminuria (n=204) or microalbuminuria (n=166) from the First Joslin Kidney Study underwent assessment for cardiac autonomic neuropathy using heart rate variability during baseline visits performed from January 1991 to April 1992. Cardiac autonomic neuropathy was defined as an R-R variation (mean circular resultant) &lt;20. Participants also had baseline and follow-up measurement of eGFR. Early progressive renal decline was evaluated according to two definitions: early GFR loss (slope of eGFR estimated by cystatin C &lt;-3.3%/year) and incident advanced CKD (stage ≥3, defined by eGFR [calculated by Modification of Diet in Renal Disease method] &lt;60 ml/min per 1.73 m(2)). Association with baseline cardiac autonomic neuropathy was assessed by adjusted logistic regression and Cox proportional hazards.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Among the 370 participants, 47 (13%) had baseline cardiac autonomic neuropathy, 51 (14%) had early GFR loss, and 68 (18%) had incident advanced CKD over a median 14-year follow-up. Early GFR loss occurred in 15 (32%) of the 47 patients with baseline autonomic neuropathy and in 32 (10%) of the 323 without baseline autonomic neuropathy (P&lt;0.001). Baseline autonomic neuropathy was strongly associated with odds of early GFR loss (adjusted odds ratio, 4.09; 95% confidence interval, 1.65 to 10.12; P=0.002). Incident advanced CKD was observed in 22 (47%) of those with baseline autonomic neuropathy and 46 (14%) of those without baseline autonomic neuropathy (P&lt;0.001). Autonomic neuropathy was independently associated with incident advanced CKD (adjusted hazard ratio, 2.76; 95% confidence interval, 1.44 to 5.30; P=0.002).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Cardiac autonomic neuropathy was a strong independent predictor of the long-term risk of early progressive renal decline in type 1 diabetes. Future research should explore the mechanisms by which autonomic neuropathy may be associated with renal function loss.</AbstractText>
+<CopyrightInformation>Copyright © 2015 by the American Society of Nephrology.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Orlov</LastName>
+<ForeName>Steven</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Endocrinology and Metabolism, Department of Medicine, Mount Sinai Hospital, University of Toronto, Toronto, Ontario, Canada;</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cherney</LastName>
+<ForeName>David Z I</ForeName>
+<Initials>DZ</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Toronto General Hospital, University of Toronto, Toronto, Ontario, Canada;</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pop-Busui</LastName>
+<ForeName>Rodica</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Metabolism, Endocrinology and Diabetes, Department of Internal Medicine, University of Michigan Health System, University of Michigan, Ann Arbor, Michigan; and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lovblom</LastName>
+<ForeName>Leif E</ForeName>
+<Initials>LE</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Endocrinology and Metabolism, Department of Medicine, Mount Sinai Hospital, University of Toronto, Toronto, Ontario, Canada;</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ficociello</LastName>
+<ForeName>Linda H</ForeName>
+<Initials>LH</Initials>
+<AffiliationInfo>
+<Affiliation>Section on Genetics and Epidemiology, Research Division, Department of Medicine, Joslin Diabetes Center, Harvard Medical School, Boston, Massachusetts.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smiles</LastName>
+<ForeName>Adam M</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>Section on Genetics and Epidemiology, Research Division, Department of Medicine, Joslin Diabetes Center, Harvard Medical School, Boston, Massachusetts.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Warram</LastName>
+<ForeName>James H</ForeName>
+<Initials>JH</Initials>
+<AffiliationInfo>
+<Affiliation>Section on Genetics and Epidemiology, Research Division, Department of Medicine, Joslin Diabetes Center, Harvard Medical School, Boston, Massachusetts.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krolewski</LastName>
+<ForeName>Andrzej S</ForeName>
+<Initials>AS</Initials>
+<AffiliationInfo>
+<Affiliation>Section on Genetics and Epidemiology, Research Division, Department of Medicine, Joslin Diabetes Center, Harvard Medical School, Boston, Massachusetts.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Perkins</LastName>
+<ForeName>Bruce A</ForeName>
+<Initials>BA</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Endocrinology and Metabolism, Department of Medicine, Mount Sinai Hospital, University of Toronto, Toronto, Ontario, Canada; bperkins@mtsinai.on.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P30 DK020572</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK041526</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01-DK41526</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>06</Month>
+<Day>19</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Clin J Am Soc Nephrol</MedlineTA>
+<NlmUniqueID>101271570</NlmUniqueID>
+<ISSNLinking>1555-9041</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C525030">CST3 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D055316">Cystatin C</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Clin J Am Soc Nephrol. 2015 Jul 7;10(7):1114-6</RefSource>
+<PMID Version="1">26092829</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001341">Autonomic Nervous System</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D001900">Boston</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055316">Cystatin C</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003922">Diabetes Mellitus, Type 1</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003928">Diabetic Nephropathies</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003929">Diabetic Neuropathies</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005919">Glomerular Filtration Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006321">Heart</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000294">innervation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006339">Heart Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007668">Kidney</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015999">Multivariate Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016017">Odds Ratio</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">CKD</Keyword>
+<Keyword MajorTopicYN="N">albuminuria</Keyword>
+<Keyword MajorTopicYN="N">diabetes</Keyword>
+<Keyword MajorTopicYN="N">renal function</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>03</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>6</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>6</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26092828</ArticleId>
+<ArticleId IdType="pii">CJN.11441114</ArticleId>
+<ArticleId IdType="doi">10.2215/CJN.11441114</ArticleId>
+<ArticleId IdType="pmc">PMC4491301</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>JAMA. 2011 Jun 22;305(24):2532-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21693741</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1995 May 11;332(19):1251-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7708068</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2012 Mar;23(3):516-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22266664</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2012 Mar 1;366(9):856; author reply 857-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22375980</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2012 Mar 20;125(11):1402-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22328542</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cardiovasc Transl Res. 2012 Aug;5(4):463-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22644723</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2014;37(1):226-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23939543</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gen Physiol Biophys. 2013 Dec;32(4):569-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23846262</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2014 Apr 10;370(15):1393-401</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24678939</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2014 Apr 17;370(16):1514-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24738668</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Metab Res Rev. 2011 Oct;27(7):654-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21695761</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Metab Res Rev. 2011 Oct;27(7):639-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21695768</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Res Clin Pract. 2015 Apr;108(1):31-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25656759</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2010 Sep;21(9):1560-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20616169</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2007 Jan;30(1):77-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17192337</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2001 Jul;44(7):865-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11508271</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2007 Apr;18(4):1353-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17329575</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2007 May;2(3):461-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17699452</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2008 Mar;31(3):556-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18086873</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2009 Jul 27;169(14):1307-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19636033</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2009 Aug;20(8):1813-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19443635</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2010 Jan;77(1):57-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19847154</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2010 Jul;33(7):1578-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20215456</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Metab Cardiovasc Dis. 2011 Jan;21(1):69-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21247746</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2011 Mar;22(3):545-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21355053</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Exp Pharmacol Physiol. 2001 Nov;28(11):942-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11703402</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Muscle Nerve. 1995 Jun;18(6):574-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7753119</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Muscle Nerve. 1997 Dec;20(12):1561-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9390669</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1999 Mar 16;130(6):461-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10075613</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2004 Dec 21;44(12):2368-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15607400</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2005 May;16(5):1404-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15788478</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Regul Integr Comp Physiol. 2005 Sep;289(3):R633-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16105818</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Aug 25;353(8):842-4; author reply 842-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16124125</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2006 Jul;49(7):1686-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16752187</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2011 Dec 22;365(25):2366-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22077236</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 2001 Dec;50(12):2842-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11723069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2002 Jul;45(7):965-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12136395</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2002 Sep 12;347(11):797-805</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12226150</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Renin Angiotensin Aldosterone Syst. 2002 Dec;3(4):222-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12584666</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2003 Jun;26(6):1895-901</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12766130</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2003 Jun 5;348(23):2285-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12788992</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 2004 Feb;19(2):342-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14736957</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2004 Jun;21(6):524-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15154934</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2004 Aug;21(8):852-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15270788</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hypertension. 1981 Jan-Feb;3(1):87-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7009428</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biometrics. 1984 Sep;40(3):855-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6518250</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 1987 Jan-Feb;10(1):1-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2882967</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 1991 Dec 15;68(17):1668-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1746470</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 1993 May;16(5):773-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8495619</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

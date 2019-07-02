@@ -1,0 +1,511 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21883907</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>02</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1600-6143</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>11</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons</Title>
+<ISOAbbreviation>Am. J. Transplant.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Elevated plasma long pentraxin-3 levels and primary graft dysfunction after lung transplantation for idiopathic pulmonary fibrosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2517-22</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1600-6143.2011.03702.x</ELocationID>
+<Abstract>
+<AbstractText>Primary graft dysfunction (PGD) after lung transplantation may result from ischemia reperfusion injury (IRI). The innate immune response to IRI may be mediated by Toll-like receptor and IL-1-induced long pentraxin-3 (PTX3) release. We hypothesized that elevated PTX3 levels were associated with PGD. We performed a nested case control study of lung transplant recipients with idiopathic pulmonary fibrosis (IPF) or chronic obstructive pulmonary disease (COPD) from the Lung Transplant Outcomes Group cohort. PTX3 levels were measured pretransplant, and 6 and 24 h postreperfusion. Cases were subjects with grade 3 PGD within 72 h of transplantation and controls were those without grade 3 PGD. Generalized estimating equations and multivariable logistic regression were used for analysis. We selected 40 PGD cases and 79 non-PGD controls. Plasma PTX3 level was associated with PGD in IPF but not COPD recipients (p for interaction &lt; 0.03). Among patients with IPF, PTX3 levels at 6 and 24 h were associated with PGD (OR = 1.6, p = 0.02 at 6 h; OR = 1.4, p = 0.008 at 24 h). Elevated PTX3 levels were associated with the development of PGD after lung transplantation in IPF patients. Future studies evaluating the role of innate immune activation in IPF and PGD are warranted.</AbstractText>
+<CopyrightInformation>©2011 The Authors Journal compilation © 2011 The American Society of Transplantation and the American Society of Transplant Surgeons.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Diamond</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+<AffiliationInfo>
+<Affiliation>Pulmonary, Allergy, and Critical Care Division, Department of Anesthesia and Critical Care, University of Pennsylvania School of Medicine, Philadelphia, PA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lederer</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kawut</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ahya</LastName>
+<ForeName>V N</ForeName>
+<Initials>VN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bellamy</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palmer</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lama</LastName>
+<ForeName>V N</ForeName>
+<Initials>VN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bhorade</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crespo</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Demissie</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sonett</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wille</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Orens</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shah</LastName>
+<ForeName>P D</ForeName>
+<Initials>PD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weinacker</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weill</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kohl</LastName>
+<ForeName>B A</ForeName>
+<Initials>BA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deutschman</LastName>
+<ForeName>C C</ForeName>
+<Initials>CC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arcasoy</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shah</LastName>
+<ForeName>A S</ForeName>
+<Initials>AS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Belperio</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilkes</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Reynolds</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ware</LastName>
+<ForeName>L B</ForeName>
+<Initials>LB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Christie</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>Lung Transplant Outcomes Group</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 HL087115</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL081619</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL086919</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL086919</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL096845</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 HL103836</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL087115-01A1</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>T32 HL007891</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL 087115</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL088263</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL096845</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL088263</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL081332</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL081332</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL081619-01A2</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>08</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Transplant</MedlineTA>
+<NlmUniqueID>100968638</NlmUniqueID>
+<ISSNLinking>1600-6135</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000683">Serum Amyloid P-Component</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>148591-49-5</RegistryNumber>
+<NameOfSubstance UI="C077657">PTX3 protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-41-4</RegistryNumber>
+<NameOfSubstance UI="D002097">C-Reactive Protein</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002097">C-Reactive Protein</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054990">Idiopathic Pulmonary Fibrosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007113">Immunity, Innate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016040">Lung Transplantation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055031">Primary Graft Dysfunction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D029424">Pulmonary Disease, Chronic Obstructive</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015427">Reperfusion Injury</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000683">Serum Amyloid P-Component</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>3</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21883907</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1600-6143.2011.03702.x</ArticleId>
+<ArticleId IdType="pmc">PMC3206646</ArticleId>
+<ArticleId IdType="mid">NIHMS326686</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Am J Transplant. 2011 Mar;11(3):561-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21299834</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Arthritis Rheum. 2009 Aug;39(1):38-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18614204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2001 Jul;29(7):1404-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11445697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Heart Lung Transplant. 2002 May;21(5):555-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11983545</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2003 Oct;124(4):1232-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14555551</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2009 Nov 15;180(10):1010-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19661249</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Organ Transplant. 2009 Oct;14(5):571-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19542889</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Transplant. 2009 Nov-Dec;23(6):819-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19239481</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Organ Transplant. 2010 Oct;15(5):552-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20693898</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Heart Lung Transplant. 2010 Nov;29(11):1231-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20655249</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int Suppl. 2010 Dec;(119):S18-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21116311</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2010 Dec;139(6):2195-206</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20637206</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2000 Aug 8;102(6):636-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10931803</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplant Proc. 2007 Sep;39(7):2425-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17889209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2007 Nov;7(11):2573-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17908278</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2008 Aug;36(8):2302-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18596636</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2008 Oct 15;181(8):5738-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18832733</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplant Proc. 2008 Dec;40(10):3279-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19100373</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2009 Feb;9(2):389-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19120076</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intensive Care Med. 2011 Feb;37(2):334-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21072499</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

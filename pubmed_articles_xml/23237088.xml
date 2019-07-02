@@ -1,0 +1,172 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23237088</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>03</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>12</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0001-723X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>56</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2012</Year>
+</PubDate>
+</JournalIssue>
+<Title>Acta virologica</Title>
+<ISOAbbreviation>Acta Virol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Prokaryotic expression of the truncated duck enteritis virus UL27 gene and characteristics of UL27 gene and its truncated product.</ArticleTitle>
+<Pagination>
+<MedlinePgn>323-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Duck enteritis virus (DEV) is an acute and contagious herpesvirus infection in waterfowls, which leads to heavy economic losses in the commercial duck industry due to its high mortality rate and decreasing duck egg production. In order to understand this virus better, truncated UL27 gene (tUL27) was used to construct pET-28a-tUL27 recombinant plasmid. The tUL27 gene product, truncated gB protein (tgB), was used to prepare rabbit anti-tgB protein polyclonal antibody. The polyclonal antibody was used for characteristics of DEV glycoprotein B (gB) intracellular localization. Protein gB was firstly detected in nuclear membrane of the infected DEF, and later during the infection it appeared as the punctiform fluorescence in cytoplasm. We also proved that DEV gB is a late protein. Localization of DEV gB in nuclear membrane, suggested a possible role in virus assembly, while appearance in cytoplasm suggests its role in viral egress. All these data provide a basal and useful knowledge about the functions of DEV UL27 gene and its product gB.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Sichuan Agricultural University, Wenjiang, Sichuan, People's Republic of China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lin</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhu</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jia</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cheng</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Slovakia</Country>
+<MedlineTA>Acta Virol</MedlineTA>
+<NlmUniqueID>0370401</NlmUniqueID>
+<ISSNLinking>0001-723X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014764">Viral Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004372">Ducks</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004926">Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015870">Gene Expression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006566">Herpesviridae Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000662">veterinary</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D025922">Mardivirus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000302">isolation &amp; purification</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008970">Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011201">Poultry Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D021381">Protein Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011817">Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017384">Sequence Deletion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014764">Viral Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>3</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23237088</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

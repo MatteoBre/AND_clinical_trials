@@ -1,0 +1,205 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17335325</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>03</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1555-2101</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>68</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of clinical psychiatry</Title>
+<ISOAbbreviation>J Clin Psychiatry</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effect of bupropion extended release on negative emotion processing in major depressive disorder: a pilot functional magnetic resonance imaging study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>261-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Prior imaging studies suggest that patients with major depressive disorder have abnormalities in frontal and limbic neural circuitry including the amygdala, which is relatively more activated at rest and in response to negative emotional stimuli (sadness, fear, etc.) in depressed patients than in controls. Concurrently, patients with depression may have decreased activation of attentional executive regions in response to attentional stimuli. This study examined the effect of bupropion XL, an extended release formulation of the nonserotonergic antidepressant agent bupropion, using a paradigm that investigated both negative emotional response and attentional processing.</AbstractText>
+<AbstractText Label="METHOD" NlmCategory="METHODS">Functional magnetic resonance imaging (fMRI) scans and clinical ratings were obtained for 10 patients with DSM-IV-TR-defined major depressive disorder (mean [SD] age = 41 [+/- 7] years, mean [SD] Hamilton Rating Scale for Depression [HAM-D] score = 21 [+/- 4]) before and after 8 weeks of treatment with bupropion XL. The fMRI sessions were conducted during administration of the Emotional Oddball Task; scans were obtained while subjects viewed emotional distracters and performed an attentional executive function task. The primary outcome was fMRI activations evoked by the emotional distracters. The first baseline fMRI scan was performed in December 2004, and the last posttreatment scan was in March 2005.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Treatment with bupropion XL was associated with improvements in HAM-D and Clinical Global Impressions scale ratings (p &lt; .05). Treatment reduced fMRI activation during emotional distracters in several regions including right orbital frontal cortex, left dorsomedial prefrontal cortex, right ventromedial prefrontal cortex, right anterior cingulate cortex, right inferior frontal cortex, right amygdala/parahippocampal area, right caudate, right fusiform gyrus, and left posterior cingulate. In addition, changes in fMRI activation in the amygdala correlated with improvements on the HAM-D (p &lt; .05). Treatment increased activation to attentional targets in the following regions: right middle and inferior frontal gyri, right caudate, and bilateral precuneus.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Despite the limitations of a small sample size and the lack of a placebo control group, this study demonstrated that bupropion XL therapy for 8 weeks may attenuate emotion-induced, blood-oxygen-level-dependent (BOLD) activation responses in the amygdala and related brain regions. Such attenuation may be associated with a positive clinical response in depression. Bupropion XL also improved activation in the executive-function neural network. These fMRI surrogate markers offer promise for studying antidepressant and neurocognitive effects of existing and novel therapies.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Robertson</LastName>
+<ForeName>Brigitte</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Pharmacology and Discovery Medicine, GlaxoSmithKline, Research Triangle Park. bigsnos@aol.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Lihong</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Diaz</LastName>
+<ForeName>Michele T</ForeName>
+<Initials>MT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aiello</LastName>
+<ForeName>Marilyn</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gersing</LastName>
+<ForeName>Kenneth</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beyer</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mukundan</LastName>
+<ForeName>Srinivasan</ForeName>
+<Initials>S</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>McCarthy</LastName>
+<ForeName>Gregory</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Doraiswamy</LastName>
+<ForeName>P Murali</ForeName>
+<Initials>PM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Clin Psychiatry</MedlineTA>
+<NlmUniqueID>7801243</NlmUniqueID>
+<ISSNLinking>0160-6689</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018687">Antidepressive Agents, Second-Generation</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D003692">Delayed-Action Preparations</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>01ZG3TPX31</RegistryNumber>
+<NameOfSubstance UI="D016642">Bupropion</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018687">Antidepressive Agents, Second-Generation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001288">Attention</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016642">Bupropion</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003692">Delayed-Action Preparations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003865">Depressive Disorder, Major</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004644">Emotions</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009415">Nerve Net</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013647">Task Performance and Analysis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>3</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>3</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>3</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17335325</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

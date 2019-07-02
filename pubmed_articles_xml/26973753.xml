@@ -1,0 +1,373 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26973753</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>01</Month>
+<Day>10</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1936-9018</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>17</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>The western journal of emergency medicine</Title>
+<ISOAbbreviation>West J Emerg Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Mistakes and Pitfalls Associated with Two-Point Compression Ultrasound for Deep Vein Thrombosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>201-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.5811/westjem.2016.1.29335</ELocationID>
+<Abstract>
+<AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Two-point compression ultrasound is purportedly a simple and accurate means to diagnose proximal lower extremity deep vein thrombosis (DVT), but the pitfalls of this technique have not been fully elucidated. The objective of this study is to determine the accuracy of emergency medicine resident-performed two-point compression ultrasound, and to determine what technical errors are commonly made by novice ultrasonographers using this technique.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">This was a prospective diagnostic test assessment of a convenience sample of adult emergency department (ED) patients suspected of having a lower extremity DVT. After brief training on the technique, residents performed two-point compression ultrasounds on enrolled patients. Subsequently a radiology department ultrasound was performed and used as the gold standard. Residents were instructed to save videos of their ultrasounds for technical analysis.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, 288 two-point compression ultrasound studies were performed. There were 28 cases that were deemed to be positive for DVT by radiology ultrasound. Among these 28, 16 were identified by the residents with two-point compression. Among the 260 cases deemed to be negative for DVT by radiology ultrasound, 10 were thought to be positive by the residents using two-point compression. This led to a sensitivity of 57.1% (95% CI [38.8-75.5]) and a specificity of 96.1% (95% CI [93.8-98.5]) for resident-performed two-point compression ultrasound. This corresponds to a positive predictive value of 61.5% (95% CI [42.8-80.2]) and a negative predictive value of 95.4% (95% CI [92.9-98.0]). The positive likelihood ratio is 14.9 (95% CI [7.5-29.5]) and the negative likelihood ratio is 0.45 (95% CI [0.29-0.68]). Video analysis revealed that in four cases the resident did not identify a DVT because the thrombus was isolated to the superior femoral vein (SFV), which is not evaluated by two-point compression. Moreover, the video analysis revealed that the most common mistake made by the residents was inadequate visualization of the popliteal vein.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Two-point compression ultrasound does not identify isolated SFV thrombi, which reduces its sensitivity. Moreover, this technique may be more difficult than previously reported, in part because novice ultrasonographers have difficulty properly assessing the popliteal vein.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zitek</LastName>
+<ForeName>Tony</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>University of Nevada School of Medicine, Department of Emergency Medicine, Reno, Nevada; University Medical Center of Southern Nevada, Department of Emergency Medicine, Las Vegas, Nevada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baydoun</LastName>
+<ForeName>Jamie</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>University of Nevada School of Medicine, Department of Emergency Medicine, Reno, Nevada; University Medical Center of Southern Nevada, Department of Emergency Medicine, Las Vegas, Nevada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yepez</LastName>
+<ForeName>Salvador</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>University Medical Center of Southern Nevada, Department of Emergency Medicine, Las Vegas, Nevada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Forred</LastName>
+<ForeName>Wesley</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>University Medical Center of Southern Nevada, Department of Emergency Medicine, Las Vegas, Nevada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Slattery</LastName>
+<ForeName>David E</ForeName>
+<Initials>DE</Initials>
+<AffiliationInfo>
+<Affiliation>University of Nevada School of Medicine, Department of Emergency Medicine, Reno, Nevada; University Medical Center of Southern Nevada, Department of Emergency Medicine, Las Vegas, Nevada.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>03</Month>
+<Day>02</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>West J Emerg Med</MedlineTA>
+<NlmUniqueID>101476450</NlmUniqueID>
+<ISSNLinking>1936-900X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004636">Emergency Service, Hospital</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005268">Femoral Vein</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007396">Internship and Residency</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D035002">Lower Extremity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019095">Point-of-Care Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011152">Popliteal Vein</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D062606">Tertiary Care Centers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014463">Ultrasonography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020246">Venous Thrombosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>10</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26973753</ArticleId>
+<ArticleId IdType="doi">10.5811/westjem.2016.1.29335</ArticleId>
+<ArticleId IdType="pii">wjem-17-201</ArticleId>
+<ArticleId IdType="pmc">PMC4786247</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>JAMA. 2008 Oct 8;300(14):1653-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18840838</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Emerg Med. 2008 Oct;52(4):437-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18562044</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Emerg Med. 2010 Dec;56(6):601-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20864215</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Emerg Med. 2011 Jul;29(6):687-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21208762</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pak Med Assoc. 2012 May;62(5):461-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22755310</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 2013 Jan;109(1):137-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23138420</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Emerg Med Australas. 2013 Dec;25(6):588-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24308616</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thromb Thrombolysis. 2014 Apr;37(3):298-302</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23722715</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Emerg Med. 2015 Jun;65(6):699-701</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25085546</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Emerg Med. 2015 Sep;66(3):262-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25465473</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Emerg Med. 2001 Feb;20(2):107-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11207402</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acad Emerg Med. 2004 Mar;11(3):319-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15001419</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Emerg Med. 2004 May;22(3):197-200</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15138956</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1981 Sep;64(3):622-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7261292</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1989 Feb 9;320(6):342-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2643771</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1993 Nov 4;329(19):1365-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8413431</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 1993 Dec 27;153(24):2777-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8257253</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vasc Surg. 1995 Nov;22(5):553-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7494355</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiology. 1996 Jan;198(1):67-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8539408</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2005 Jul 19;143(2):129-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16027455</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acad Emerg Med. 2000 Feb;7(2):120-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10691069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Emerg Med. 2006 Oct;48(4):487-510</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16997700</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Emerg Med. 2007 Feb;32(2):197-200</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17307633</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acad Emerg Med. 2007 Mar;14(3):216-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17264203</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acad Emerg Med. 2008 Jun;15(6):493-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18616433</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Emerg Med. 2010 Mar;28(3):354-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20223396</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

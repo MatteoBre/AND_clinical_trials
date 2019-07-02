@@ -1,0 +1,268 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18794094</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>10</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>09</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1078-0432</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>14</Volume>
+<Issue>18</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Sep</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Clinical cancer research : an official journal of the American Association for Cancer Research</Title>
+<ISOAbbreviation>Clin. Cancer Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The effects of common genetic variants in oncogenes on ovarian cancer survival.</ArticleTitle>
+<Pagination>
+<MedlinePgn>5833-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1158/1078-0432.CCR-08-0819</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The 5-year survival rate for invasive epithelial ovarian cancer is &lt;35%. It has been suggested that common, germline genetic variation may influence survival after cancer diagnoses, which might enable the prediction of response to treatment and survival in the clinical setting. The aim of this study was to evaluate associations between common germline genetic variants in the oncogenes BRAF, ERBB2, KRAS, NMI, and PIK3CA, and survival after a diagnosis of epithelial ovarian cancer.</AbstractText>
+<AbstractText Label="EXPERIMENTAL DESIGN" NlmCategory="METHODS">We evaluated the association between 34 tagging single nucleotide polymorphisms and survival in 1,480 cases of invasive epithelial ovarian cancer cases from three different studies. Cox regression analysis, stratified by study, was used to estimate per rare allele hazard ratios (HR).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The minor allele rs6944385 in BRAF was significantly associated with poor survival [HR, 1.19; 95% confidence intervals (95% CI), 1.02-1.39; P = 0.024]. The association remained after adjusting for prognostic factors (adjusted HR, 1.20; 95 CI, 1.03-1.40; P = 0.018). A haplotype of BRAF was also associated with poor survival (HR, 1.24; 95% CI, 1.02-1.51; P = 0.029) and was more significant after adjustment (HR, 1.44; 95% CI, 1.15-1.81; P = 0.001). We also found evidence of an association between a KRAS haplotype and poor survival in serous subtype (HR, 1.69; 95% CI, 1.21-2.38; P = 0.002), but this was no longer significant after adjustment. Finally, when analyses were restricted to the serous histologic subtype, the rare allele rs10842513 in KRAS, was associated with poor survival (HR, 1.40; 95% CI, 1.10-1.78; P = 0.007).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Common genetic variants in the BRAF and KRAS oncogenes may be important in the prediction of survival in patients with invasive epithelial ovarian cancer.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Quaye</LastName>
+<ForeName>Lydia</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Gynaecological Cancer Research Laboratory, UCL EGA Institute for Women's Health, University College London, London, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gayther</LastName>
+<ForeName>Simon A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ramus</LastName>
+<ForeName>Susan J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Di Cioccio</LastName>
+<ForeName>Richard A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McGuire</LastName>
+<ForeName>Valerie</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hogdall</LastName>
+<ForeName>Estrid</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hogdall</LastName>
+<ForeName>Claus</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blaakr</LastName>
+<ForeName>Jan</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Easton</LastName>
+<ForeName>Douglas F</ForeName>
+<Initials>DF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ponder</LastName>
+<ForeName>Bruce A J</ForeName>
+<Initials>BA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jacobs</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kjaer</LastName>
+<ForeName>Susanne Kruger</ForeName>
+<Initials>SK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Whittemore</LastName>
+<ForeName>Alice S</ForeName>
+<Initials>AS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pearce</LastName>
+<ForeName>Celeste Leigh</ForeName>
+<Initials>CL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pharoah</LastName>
+<ForeName>Paul D P</ForeName>
+<Initials>PD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Song</LastName>
+<ForeName>Honglin</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>CA71766</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>CA16506</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>C8804/A7058</GrantID>
+<Agency>Cancer Research UK</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>10118</GrantID>
+<Agency>Cancer Research UK</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Clin Cancer Res</MedlineTA>
+<NlmUniqueID>9502500</NlmUniqueID>
+<ISSNLinking>1078-0432</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C117307">KRAS protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011518">Proto-Oncogene Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.11.1</RegistryNumber>
+<NameOfSubstance UI="C482119">BRAF protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.11.1</RegistryNumber>
+<NameOfSubstance UI="D048493">Proto-Oncogene Proteins B-raf</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.5.2</RegistryNumber>
+<NameOfSubstance UI="D016283">Proto-Oncogene Proteins p21(ras)</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.5.2</RegistryNumber>
+<NameOfSubstance UI="D018631">ras Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009857">Oncogenes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010051">Ovarian Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011518">Proto-Oncogene Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D048493">Proto-Oncogene Proteins B-raf</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016283">Proto-Oncogene Proteins p21(ras)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018631">ras Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18794094</ArticleId>
+<ArticleId IdType="pii">14/18/5833</ArticleId>
+<ArticleId IdType="doi">10.1158/1078-0432.CCR-08-0819</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

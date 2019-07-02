@@ -1,0 +1,155 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17663888</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>12</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>07</Month>
+<Day>31</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0300-2896</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>43</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Archivos de bronconeumologia</Title>
+<ISOAbbreviation>Arch. Bronconeumol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Analysis of energy expenditure in adults with cystic fibrosis: comparison of indirect calorimetry and prediction equations].</ArticleTitle>
+<Pagination>
+<MedlinePgn>366-72</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Undernutrition, which implies an imbalance between energy intake and energy requirements, is common in patients with cystic fibrosis. The aim of this study was to compare resting energy expenditure determined by indirect calorimetry with that obtained with commonly used predictive equations in adults with cystic fibrosis and to assess the influence of clinical variables on the values obtained.</AbstractText>
+<AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">We studied 21 patients with clinically stable cystic fibrosis, obtaining data on anthropometric variables, hand grip dynamometry, electrical bioimpedance, and resting energy expenditure by indirect calorimetry. We used the intraclass correlation coefficient (ICC) and the Bland-Altman method to assess agreement between the values obtained for resting energy expenditure measured by indirect calorimetry and those obtained with the World Health Organization (WHO) and Harris-Benedict prediction equations.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The prediction equations underestimated resting energy expenditure in more than 90% of cases. The agreement between the value obtained by indirect calorimetry and that calculated with the prediction equations was poor (ICC for comparisons with the WHO and Harris-Benedict equations, 0.47 and 0.41, respectively). Bland-Altman analysis revealed a variable bias between the results of indirect calorimetry and those obtained with prediction equations, irrespective of the resting energy expenditure. The difference between the values measured by indirect calorimetry and those obtained with the WHO equation was significantly larger in patients homozygous for the DeltaF508 mutation and in those with exocrine pancreatic insufficiency.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The WHO and Harris-Benedict prediction equations underestimate resting energy expenditure in adults with cystic fibrosis. There is poor agreement between the values for resting energy expenditure determined by indirect calorimetry and those estimated with prediction equations. Underestimation was greater in patients with exocrine pancreatic insufficiency and patients who were homozygous for DeltaF508.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Fuster</LastName>
+<ForeName>Casilda Olveira</ForeName>
+<Initials>CO</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Fibrosis Quística de Adultos, Servicio de Neumología, Hospital Universitario Carlos Haya, Málaga, España. gabrielm.olveira.sspa@juntadeandalucia.es</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fuster</LastName>
+<ForeName>Gabriel Olveira</ForeName>
+<Initials>GO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Galindo</LastName>
+<ForeName>Antonio Dorado</ForeName>
+<Initials>AD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Galo</LastName>
+<ForeName>Alicia Padilla</ForeName>
+<Initials>AP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Verdugo</LastName>
+<ForeName>Julio Merino</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lozano</LastName>
+<ForeName>Francisco Miralles</ForeName>
+<Initials>FM</Initials>
+</Author>
+</AuthorList>
+<Language>spa</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Estudio del gasto energético en adultos con fibrosis quística: concordancia entre la calorimetría indirecta y diversas fórmulas estimativas.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Spain</Country>
+<MedlineTA>Arch Bronconeumol</MedlineTA>
+<NlmUniqueID>0354720</NlmUniqueID>
+<ISSNLinking>0300-2896</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002153">Calorimetry, Indirect</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003430">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003550">Cystic Fibrosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004734">Energy Metabolism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008433">Mathematics</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>1</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>12</Month>
+<Day>7</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>1</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17663888</ArticleId>
+<ArticleId IdType="pii">13107692</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

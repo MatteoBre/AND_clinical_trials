@@ -1,0 +1,168 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20436519</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>02</Month>
+<Day>10</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-5365</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>46</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Bone marrow transplantation</Title>
+<ISOAbbreviation>Bone Marrow Transplant.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Engraftment of unrelated cord blood after reduced-intensity conditioning regimen in children with refractory neuroblastoma: a feasibility trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>232-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/bmt.2010.107</ELocationID>
+<Abstract>
+<AbstractText>Relapsed or refractory neuroblastoma is uniformly fatal. We hypothesized that allogeneic response could provide a platform for immunotherapy in neuroblastoma. We therefore undertook a pilot trial of unrelated cord blood transplantation after reduced intensity conditioning regimen (RIC) in children with relapsed neuroblastoma to assess engraftment and tolerability in this heavily pretreated population. The RIC included CY (50 mg/kg, day -6), fludarabine (40 mg/m(2), days -6 to -2), total body irradiation (200 cGy, day -1), and rabbit anti-thymocyte globulin (2.5 mg/kg, days -3 to -1). Six patients were enrolled: four were in partial responsive relapse, one with a mixed response and one in refractory relapse. All patients tolerated the regimen well and had donor engraftment with full neutrophil and plt recovery (median time 12 and 35 days, respectively). One patient never experienced neutropenia and another did not need plt transfusions. All patients progressed after transplant (median time 55 days, 26-180 days). Natural killer (NK) cell counts were normal within 2 months, whereas T-cell recovery was slower. In conclusion, unrelated cord blood engrafts after RIC in children with refractory neuroblastoma. Future research should be aimed at transplanting patients with minimal residual disease, using less intensive immunosuppression and adding NK-cell based post transplant immunotherapy.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Jubert</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Unité d'Hématologie-Oncologie Pédiatrique, Hôpital des Enfants, CHU Bordeaux, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wall</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grimley</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Champagne</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Duval</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>05</Month>
+<Day>03</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Bone Marrow Transplant</MedlineTA>
+<NlmUniqueID>8702459</NlmUniqueID>
+<ISSNLinking>0268-3369</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D036101">Cord Blood Stem Cell Transplantation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020350">Graft vs Tumor Effect</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007694">Killer Cells, Natural</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018655">Lymphocyte Count</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009447">Neuroblastoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010865">Pilot Projects</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019172">Transplantation Conditioning</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>5</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20436519</ArticleId>
+<ArticleId IdType="pii">bmt2010107</ArticleId>
+<ArticleId IdType="doi">10.1038/bmt.2010.107</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

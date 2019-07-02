@@ -1,0 +1,296 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27148802</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>03</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>03</Month>
+<Day>27</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1522-726X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>89</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>Feb</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography &amp; Interventions</Title>
+<ISOAbbreviation>Catheter Cardiovasc Interv</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The Athena trials: Autologous adipose-derived regenerative cells for refractory chronic myocardial ischemia with left ventricular dysfunction.</ArticleTitle>
+<Pagination>
+<MedlinePgn>169-177</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/ccd.26601</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess safety and feasibility of autologous adipose-derived regenerative cells (ADRCs), for treatment of chronic ischemic cardiomyopathy patients.</AbstractText>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Preclinical and early clinical trials suggest ADRCs have excellent potential for ischemic conditions.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The Athena program consisted of two parallel, prospective, randomized (2:1, active: placebo), double-blind trials assessing intramyocardial (IM) ADRC delivery [40-million, n = 28 (ATHENA) and 80-million (ATHENA II) cells, n = 3]). Patients with an EF ≥20% but ≤45%, multivessel coronary artery disease (CAD) not amenable to revascularization, inducible ischemia, and symptoms of either angina (CCS II-IV) or heart failure (NYHA Class II-III) on maximal medical therapy were enrolled. All patients underwent fat harvest procedure (≤450 mL adipose), on-site cell processing (Celution® System, Cytori Therapeutics), electromechanical mapping, and IM delivery of ADRCs or placebo.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Enrollment was terminated prematurely due to non-ADRC-related adverse events and subsequent prolonged enrollment time. Thirty-one patients (17-ADRCs, 14-placebo) mean age 65 ± 8 years, baseline LVEF(%) 31.1 ± 8.7 (ADRC), 31.8 ± 7.7 (placebo) were enrolled. Change in V0<sub>2</sub> max favored ADRCs (+45.4 ± 222 vs. -9.5 ± 137 mL/min) but there was no difference in left ventricular function or volumes. At 12-months, heart failure hospitalizations occurred in 2/17 (11.7%) [ADRC] and 3/14 (21.4%) [placebo]. Differences in NYHA and CCS classes favored ADRCs at 12-months with significant improvement in MLHFQ (-21.6 + 13.9 vs. -5.5 + 23.8, P = 0.038).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A small volume fat harvest, automated local processing, and IM delivery of autologous ADRCs is feasible with suggestion of benefit in "no option" CAD patients. Although the sample size is limited, the findings support feasibility and scalability for treatment of ischemic cardiomyopathy with ADRCs. © 2016 Wiley Periodicals, Inc.</AbstractText>
+<CopyrightInformation>© 2016 Wiley Periodicals, Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Henry</LastName>
+<ForeName>Timothy D</ForeName>
+<Initials>TD</Initials>
+<AffiliationInfo>
+<Affiliation>Cedars-Sinai Medical Center, Los Angeles, California.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pepine</LastName>
+<ForeName>Carl J</ForeName>
+<Initials>CJ</Initials>
+<AffiliationInfo>
+<Affiliation>University of Florida, Gainesville, Florida.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lambert</LastName>
+<ForeName>Charles R</ForeName>
+<Initials>CR</Initials>
+<AffiliationInfo>
+<Affiliation>Pepin Heart Institute, Tampa, Florida.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Traverse</LastName>
+<ForeName>Jay H</ForeName>
+<Initials>JH</Initials>
+<AffiliationInfo>
+<Affiliation>Minneapolis Heart Institute, Minneapolis, Minnesota.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schatz</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Scripps Green Hospital, San Diego, California.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Costa</LastName>
+<ForeName>Marco</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>University Hospital Case Western, Cleveland, Ohio.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Povsic</LastName>
+<ForeName>Thomas J</ForeName>
+<Initials>TJ</Initials>
+<AffiliationInfo>
+<Affiliation>Duke Clinical Research Institute and Duke Medicine, Durham, North Carolina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>David Anderson</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>University of Florida, Gainesville, Florida.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Willerson</LastName>
+<ForeName>James T</ForeName>
+<Initials>JT</Initials>
+<AffiliationInfo>
+<Affiliation>Texas Heart Institute, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kesten</LastName>
+<ForeName>Steven</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Cytori Therapeutics, San Diego, California.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Perin</LastName>
+<ForeName>Emerson C</ForeName>
+<Initials>EC</Initials>
+<AffiliationInfo>
+<Affiliation>Texas Heart Institute, Houston, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>09</Month>
+<Day>23</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Catheter Cardiovasc Interv</MedlineTA>
+<NlmUniqueID>100884139</NlmUniqueID>
+<ISSNLinking>1522-1946</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000273">Adipose Tissue</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002908">Chronic Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057239">Early Termination of Clinical Trials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006333">Heart Failure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017202">Myocardial Ischemia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009206">Myocardium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010359">Patient Readmission</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020127">Recovery of Function</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012038">Regeneration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D033581">Stem Cell Transplantation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013318">Stroke Volume</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014182">Transplantation, Autologous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018487">Ventricular Dysfunction, Left</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016277">Ventricular Function, Left</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">cardiomyopathy</Keyword>
+<Keyword MajorTopicYN="Y">heart failure</Keyword>
+<Keyword MajorTopicYN="Y">stem cell/regenerative therapy</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2016</Year>
+<Month>05</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>05</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>3</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27148802</ArticleId>
+<ArticleId IdType="doi">10.1002/ccd.26601</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

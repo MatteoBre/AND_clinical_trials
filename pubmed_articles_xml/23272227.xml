@@ -1,0 +1,339 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23272227</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>06</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1932-6203</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>7</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2012</Year>
+</PubDate>
+</JournalIssue>
+<Title>PloS one</Title>
+<ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Current status of artemisinin-resistant falciparum malaria in South Asia: a randomized controlled artesunate monotherapy trial in Bangladesh.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e52236</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0052236</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Recent reports indicate that first cases of genuine artemisinin resistance have already emerged along the Thai-Cambodian border. The main objective of this trial was to track the potential emergence of artemisinin resistance in Bangladesh, which in terms of drug resistance forms a gateway to the Indian subcontinent.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We conducted an open-label, randomized, controlled 42-day clinical trial in Southeastern Bangladesh to investigate the potential spread of clinical artemisinin resistance from Southeast Asia. A total of 126 uncomplicated falciparum malaria patients were randomized to one of 3 treatment arms (artesunate monotherapy with 2 or 4 mg/kg/day once daily or quinine plus doxycycline TID for 7 days). Only cases fulfilling a stringent set of criteria were considered as being artemisinin-resistant.</AbstractText>
+<AbstractText Label="FINDINGS" NlmCategory="RESULTS">The 28-day and 42-day cure rates in the artesunate monotherapy (2 and 4 mg/kg) and quinine/doxycyline arms were 97.8% (95% confidence interval, CI: 87.8-99.8%), 100% (95% CI: 91.1-100%), and 100% (95% CI: 83.4-100%), respectively. One case of re-infection was seen in the artesunate high dose arm, and a single case of recrudescence was observed in the low dose group on day 26. No differences in median parasite and fever clearance times were found between the 2 artesunate arms (29.8 h and 17.9 h vs. 29.5 h and 19.1 h). Not a single case fulfilled our criteria of artemisinin resistance. Parasite clearance times were considerably shorter and ex vivo results indicate significantly higher susceptibility (50% inhibitory concentration for dihydroartemisinin was 1.10 nM; 95% CI: 0.95-1.28 nM) to artemisinins as compared to SE-Asia.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">There is currently no indication that artemisinin resistance has reached Bangladesh. However, the fact that resistance has recently been reported from nearby Myanmar indicates an urgent need for close monitoring of artemisinin resistance in the region.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov NCT00639873.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Starzengruber</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Specific Prophylaxis and Tropical Medicine, Medical University of Vienna, Vienna, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Swoboda</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fuehrer</LastName>
+<ForeName>Hans-Peter</ForeName>
+<Initials>HP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khan</LastName>
+<ForeName>Wasif A</ForeName>
+<Initials>WA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hofecker</LastName>
+<ForeName>Verena</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Siedl</LastName>
+<ForeName>Anja</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fally</LastName>
+<ForeName>Markus</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Graf</LastName>
+<ForeName>Oliver</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Teja-Isavadharm</LastName>
+<ForeName>Paktiya</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haque</LastName>
+<ForeName>Rashidul</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ringwald</LastName>
+<ForeName>Pascal</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Noedl</LastName>
+<ForeName>Harald</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00639873</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>18</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>PLoS One</MedlineTA>
+<NlmUniqueID>101285081</NlmUniqueID>
+<ISSNLinking>1932-6203</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000962">Antimalarials</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D037621">Artemisinins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000962">Antimalarials</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D037621">Artemisinins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D001459">Bangladesh</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004351">Drug Resistance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016778">Malaria, Falciparum</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010963">Plasmodium falciparum</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>07</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23272227</ArticleId>
+<ArticleId IdType="doi">10.1371/journal.pone.0052236</ArticleId>
+<ArticleId IdType="pii">PONE-D-12-21654</ArticleId>
+<ArticleId IdType="pmc">PMC3525560</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Am J Trop Med Hyg. 2003 Feb;68(2):140-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12641401</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 2010 Dec 1;51(11):e82-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21028985</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Trop Med Hyg. 1986 Dec;89(6):277-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3543384</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Trop Med Hyg. 2004 Dec;71(6):711-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15642959</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 2005 Aug;49(8):3575-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16048989</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Parasitol. 2005 Sep;21(9):404-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16046187</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trop Med Int Health. 2006 Feb;11(2):211-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16451346</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Mol Med. 2006 May;12(5):200-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16616639</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Trop Med Hyg. 2006 Oct;75(4):645-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17038687</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Trop Med Hyg. 2007 Jan;76(1):39-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17255226</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2008 Dec 11;359(24):2619-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19064625</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parasitol Int. 2009 Sep;58(3):201-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19393762</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2009 Jul 30;361(5):455-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19641202</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2009 Jul 30;361(5):540-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19641219</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2010 Feb 15;201(4):570-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20085495</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2010 Aug 15;202(3):392-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20557237</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2004 Aug 20;305(5687):1124</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15326348</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

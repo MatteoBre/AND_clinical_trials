@@ -1,0 +1,573 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25092244</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-5578</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>20</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Molecular psychiatry</Title>
+<ISOAbbreviation>Mol. Psychiatry</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Age-related sperm DNA methylation changes are transmitted to offspring and associated with abnormal behavior and dysregulated gene expression.</ArticleTitle>
+<Pagination>
+<MedlinePgn>995-1001</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/mp.2014.84</ELocationID>
+<Abstract>
+<AbstractText>Advanced paternal age (APA) has been shown to be a significant risk factor in the offspring for neurodevelopmental psychiatric disorders, such as schizophrenia and autism spectrum disorders. During aging, de novo mutations accumulate in the male germline and are frequently transmitted to the offspring with deleterious effects. In addition, DNA methylation during spermatogenesis is an active process, which is susceptible to errors that can be propagated to subsequent generations. Here we test the hypothesis that the integrity of germline DNA methylation is compromised during the aging process. A genome-wide DNA methylation screen comparing sperm from young and old mice revealed a significant loss of methylation in the older mice in regions associated with transcriptional regulation. The offspring of older fathers had reduced exploratory and startle behaviors and exhibited similar brain DNA methylation abnormalities as observed in the paternal sperm. Offspring from old fathers also had transcriptional dysregulation of developmental genes implicated in autism and schizophrenia. Our findings demonstrate that DNA methylation abnormalities arising in the sperm of old fathers are a plausible mechanism to explain some of the risks that APA poses to resulting offspring. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Milekic</LastName>
+<ForeName>M H</ForeName>
+<Initials>MH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Psychiatry, Columbia University and The New York State Psychiatric Institute, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xin</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Psychiatry, Columbia University and The New York State Psychiatric Institute, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Donnell</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Genetics and Development, Columbia University, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kumar</LastName>
+<ForeName>K K</ForeName>
+<Initials>KK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Psychiatry, Columbia University and The New York State Psychiatric Institute, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bradley-Moore</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Psychiatry, Columbia University and The New York State Psychiatric Institute, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Malaspina</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>1] Department of Psychiatry, New York University, New York, NY, USA [2] Department of Psychiatry, New York University, and The NY OMH Creedmoor Psychiatric Center, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moore</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Psychiatry, Columbia University and The New York State Psychiatric Institute, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brunner</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>1] Department of Psychiatry, Columbia University and The New York State Psychiatric Institute, New York, NY, USA [2] PsychoGenics, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ge</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Mount Sinai School of Medicine, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Edwards</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Center for Pharmacogenomics, Department of Medicine, Washington University School of Medicine, St Louis, MO, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paul</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Helen &amp; Robert Appel Institute for Alzheimer's Research, Mind and Brain Institute, Weill Cornell Medical School, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haghighi</LastName>
+<ForeName>F G</ForeName>
+<Initials>FG</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gingrich</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Psychiatry, Columbia University and The New York State Psychiatric Institute, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R21 MH073794</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>RC1 MH088843</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5R21MH073794</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>08</Month>
+<Day>05</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Mol Psychiatry</MedlineTA>
+<NlmUniqueID>9607835</NlmUniqueID>
+<ISSNLinking>1359-4184</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000375">Aging</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019175">DNA Methylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005220">Fathers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057507">Mice, 129 Strain</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009043">Motor Activity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013216">Reflex, Startle</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D013094">Spermatozoa</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>01</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2014</Year>
+<Month>05</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>06</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25092244</ArticleId>
+<ArticleId IdType="pii">mp201484</ArticleId>
+<ArticleId IdType="doi">10.1038/mp.2014.84</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Psychopharmacology (Berl). 2008 Aug;199(3):331-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18568339</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Biol Sci. 2009 Aug 22;276(1669):2949-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19474037</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 2011 Dec 22;72(6):951-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22196331</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2010 Dec 23;143(7):1084-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21183072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Epigenetics. 2011 Nov;6(11):1308-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22048252</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2007 Apr 20;316(5823):445-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17363630</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Dev. 2008 Jun 15;22(12):1567-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18559472</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fertil Steril. 2013 Oct;100(4):945-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23809503</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 2001 Jul;156(2-3):234-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11549226</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Apr 04;485(7397):237-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22495306</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 2001 Apr;58(4):361-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11296097</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FASEB J. 2010 Aug;24(8):3036-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20375269</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Reprod. 2009 Feb;80(2):337-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18923158</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2005 Jun 3;308(5727):1466-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15933200</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA Psychiatry. 2014 Apr;71(4):432-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24577047</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Aug 23;488(7412):471-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22914163</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2009 May 1;25(9):1105-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19289445</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2009 Dec 30;4(12):e8456</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20041141</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Psychiatry. 2007 Feb 15;61(4):482-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16460695</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2001 Aug 10;293(5532):1089-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11498579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2009 Dec;41(12):1350-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19881528</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Biotechnol. 2010 May;28(5):511-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20436464</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2010 Jul 8;466(7303):253-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20613842</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transl Psychiatry. 2011 Aug 30;1:e34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22832608</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Schizophr Bull. 2007 Nov;33(6):1270-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17712030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2009 Jan;41(1):112-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19098912</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2010 Feb;31(3):556-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20105239</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Neurosci. 2014 Jan;17 (1):89-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24292232</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 2008 Sep;65(9):1034-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18762589</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genesis. 2003 Feb;35(2):88-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12533790</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2011 Aug 15;27(16):2296-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21685051</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2007 Nov;39(11):1289</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17968340</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Genet. 1987 Aug;41(2):218-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3618593</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Psychiatr Res. 2013 Apr;47(4):445-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23287742</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Psychiatry. 2013 Jun;18(6):635-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22733127</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Struct Mol Biol. 2013 Jul;20(7):868-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23770822</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Genet. 2011 Apr;7(4):e1002036</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21490963</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 2006 Sep;63(9):1026-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16953005</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 2012 Apr 26;74(2):285-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22542183</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Reprod Toxicol. 2011 Jul;32(1):98-105</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21672625</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Genet. 2012 Feb 10;90(2):175-200</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22325359</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Psychiatry. 2011 Dec;16(12):1203-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21116277</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Res. 2010 Jul;20(7):972-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20488932</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Behav Neurosci. 2011 Jun 23;5:32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21734873</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Schizophr Bull. 2001;27(3):379-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11596842</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Apr 04;485(7397):246-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22495309</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ageing Res Rev. 2003 Jul;2(3):245-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12726774</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Apr 04;485(7397):242-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22495311</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mol Genet. 2011 Dec 15;20(24):4786-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21908516</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Genomics. 2012;13 Suppl 8:S7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23281708</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

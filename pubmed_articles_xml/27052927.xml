@@ -1,0 +1,174 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">27052927</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>08</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>04</Month>
+<Day>07</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1476-5462</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>23</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Gene therapy</Title>
+<ISOAbbreviation>Gene Ther.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Safety and efficacy of plasmid DNA expressing two isoforms of hepatocyte growth factor in patients with critical limb ischemia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>399</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/gt.2016.9</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kibbe</LastName>
+<ForeName>M R</ForeName>
+<Initials>MR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hirsch</LastName>
+<ForeName>A T</ForeName>
+<Initials>AT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mendelsohn</LastName>
+<ForeName>F O</ForeName>
+<Initials>FO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davies</LastName>
+<ForeName>M G</ForeName>
+<Initials>MG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pham</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saucedo</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marston</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pyun</LastName>
+<ForeName>W-B</ForeName>
+<Initials>WB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Min</LastName>
+<ForeName>S-K</ForeName>
+<Initials>SK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peterson</LastName>
+<ForeName>B G</ForeName>
+<Initials>BG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Comerota</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Choi</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ballard</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bartow</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Losordo</LastName>
+<ForeName>D W</ForeName>
+<Initials>DW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sherman</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Driver</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Perin</LastName>
+<ForeName>E C</ForeName>
+<Initials>EC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016425">Published Erratum</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Gene Ther</MedlineTA>
+<NlmUniqueID>9421525</NlmUniqueID>
+<ISSNLinking>0969-7128</ISSNLinking>
+</MedlineJournalInfo>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="ErratumFor">
+<RefSource>Gene Ther. 2016 Mar;23(3):306-12</RefSource>
+<PMID Version="1">26649448</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27052927</ArticleId>
+<ArticleId IdType="pii">gt20169</ArticleId>
+<ArticleId IdType="doi">10.1038/gt.2016.9</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

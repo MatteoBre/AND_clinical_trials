@@ -1,0 +1,116 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18929055</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>10</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0031-3955</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>55</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pediatric clinics of North America</Title>
+<ISOAbbreviation>Pediatr. Clin. North Am.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Clinical approach to the diagnoses of inborn errors of metabolism.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1113-27, viii</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.pcl.2008.07.004</ELocationID>
+<Abstract>
+<AbstractText>Inborn errors of metabolism (IEMs) are complex relatively uncommon medical conditions resulting in significant morbidity and mortality. Early recognition and implementation of adequate therapeutic measures are of the utmost importance in minimizing morbidity and improving clinical outcome. This article aims to address the basics of IEMs for familiarizing primary care physicians with different types of metabolic disorders, basic diagnostic strategies, newborn screening programs, and appropriate treatment strategies. Advances in diagnostic and therapeutic options are resulting in increasing longevity and improvement in the clinical outcome of many of these patients.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kamboj</LastName>
+<ForeName>Manmohan</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Pediatric Endocrinology, Michigan State University, Kalamazoo Center for Medical Studies, 1000 Oakland Drive, Kalamazoo, MI 49008, USA. kamboj@kcms.msu.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pediatr Clin North Am</MedlineTA>
+<NlmUniqueID>0401126</NlmUniqueID>
+<ISSNLinking>0031-3955</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D042241">Early Diagnosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008661">Metabolism, Inborn Errors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015997">Neonatal Screening</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>17</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18929055</ArticleId>
+<ArticleId IdType="pii">S0031-3955(08)00153-3</ArticleId>
+<ArticleId IdType="doi">10.1016/j.pcl.2008.07.004</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

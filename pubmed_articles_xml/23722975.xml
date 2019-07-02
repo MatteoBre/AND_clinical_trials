@@ -1,0 +1,401 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23722975</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>04</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1573-3254</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>18 Suppl 1</Volume>
+<PubDate>
+<Year>2014</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>AIDS and behavior</Title>
+<ISOAbbreviation>AIDS Behav</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Double disclosure bind: complexities of communicating an HIV diagnosis in the context of unintended pregnancy in Durban, South Africa.</ArticleTitle>
+<Pagination>
+<MedlinePgn>S53-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s10461-013-0521-1</ELocationID>
+<Abstract>
+<AbstractText>Disclosure of HIV status is widely promoted in the prevention of mother-to-child transmission (PMTCT), but a number of context-specific factors may mediate disclosure outcomes. To better understand HIV-disclosure dynamics, we conducted in-depth interviews among 62 HIV-positive pregnant women accessing PMTCT services in Durban, South Africa. Transcripts were coded for emergent themes and categories. Thirty-nine women (63 %) had been recently diagnosed with HIV; most (n = 37; 95 %) were diagnosed following routine antenatal HIV testing. Forty-two women (68 %) reported unplanned pregnancies. Overall, 37 women (60 %) reported an unintended pregnancy and recent HIV diagnosis. For them, 2 life-changing diagnoses had resulted in a double-disclosure bind. The timing and stigma surrounding these events strongly influenced disclosure of pregnancy and/or HIV. PMTCT-related counseling must be responsive to the complex personal implications of contemporaneous, life-changing events, especially their effect on HIV-disclosure dynamics and, ultimately, on achieving better maternal mental-health outcomes. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Crankshaw</LastName>
+<ForeName>Tamaryn L</ForeName>
+<Initials>TL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Public Health Medicine, University of KwaZulu-Natal, Durban, South Africa, tlcrankshaw@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Voce</LastName>
+<ForeName>Anna</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>King</LastName>
+<ForeName>Rachel L</ForeName>
+<Initials>RL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giddy</LastName>
+<ForeName>Janet</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sheon</LastName>
+<ForeName>Nicolas M</ForeName>
+<Initials>NM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Butler</LastName>
+<ForeName>Lisa M</ForeName>
+<Initials>LM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P30 MH062246</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R24 HD043554</GrantID>
+<Acronym>HD</Acronym>
+<Agency>NICHD NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R25 MH064712</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>D43 TW000003</GrantID>
+<Acronym>TW</Acronym>
+<Agency>FIC NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>D43TW000003</GrantID>
+<Acronym>TW</Acronym>
+<Agency>FIC NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R25MH064712</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R24 HD43554</GrantID>
+<Acronym>HD</Acronym>
+<Agency>NICHD NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30MH062246</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>AIDS Behav</MedlineTA>
+<NlmUniqueID>9712133</NlmUniqueID>
+<ISSNLinking>1090-7165</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003376">Counseling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018445">Infectious Disease Transmission, Vertical</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007407">Interviews as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011251">Pregnancy Complications, Infectious</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049168">Pregnancy, Unplanned</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D036301">Qualitative Research</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057545">Social Stigma</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012944">Social Support</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D013019">South Africa</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014342">Truth Disclosure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014505">Urban Population</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>4</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23722975</ArticleId>
+<ArticleId IdType="doi">10.1007/s10461-013-0521-1</ArticleId>
+<ArticleId IdType="pmc">PMC3823675</ArticleId>
+<ArticleId IdType="mid">NIHMS487364</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Br J Psychiatry. 1999 Dec;175:554-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10789353</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Soc Sci Med. 2009 Sep;69(6):892-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19552991</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Behav. 2010 Oct;14(5):991-1000</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20354777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Patient Care STDS. 2012 Mar;26(3):181-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22256856</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Matern Child Health J. 2013 Feb;17(2):359-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22527767</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Care. 2010 May;22(5):538-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20229376</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2006 Mar 22;295(12):1376-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16551708</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2002 Apr 12;16(6):937-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11919501</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Behav Med. 2003 Aug;26(4):315-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12921006</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Soc Sci Med. 2011 May;72(10):1618-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21514708</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Care. 2009 Feb;21(2):133-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19229681</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Acad Nurse Pract. 2007 May;19(5):242-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17489957</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Care. 2002 Apr;14(2):261-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11940283</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Behav. 2012 Jan;16(1):69-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21656145</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pers Soc Psychol. 1990 Mar;58(3):528-537</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2324942</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Public Health. 2013 Feb 28;71(1):4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23448752</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Public Health. 2002 Aug;92(8):1331-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12144993</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Behav. 2008 Mar;12(2):232-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17828450</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Behav. 2013 Feb;17(2):488-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22130651</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Behav Med. 2009;16(4):367-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19306063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2001 May 1;27(1):79-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11404524</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aust N Z J Obstet Gynaecol. 2008 Aug;48(4):405-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18837847</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2004 Apr 3;328(7443):820-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15070641</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Womens Health. 2007;7:14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17850659</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Behav. 2003 Dec;7(4):373-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14707534</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2001 May 25;15(8):1045-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11399987</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Patient Care STDS. 2010 Aug;24(8):485-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20632886</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Care. 2008 Oct;20(9):1138-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18825520</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2001 Dec 15;28(5):458-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11744835</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

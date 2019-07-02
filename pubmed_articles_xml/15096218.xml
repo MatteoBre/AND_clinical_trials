@@ -1,0 +1,153 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15096218</PMID>
+<DateCompleted>
+<Year>2004</Year>
+<Month>05</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>10</Month>
+<Day>17</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0014-2956</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>271</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2004</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>European journal of biochemistry</Title>
+<ISOAbbreviation>Eur. J. Biochem.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Multiple-probe analysis of folding and unfolding pathways of human serum albumin. Evidence for a framework mechanism of folding.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1789-97</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The changes in the far-UV CD signal, intrinsic tryptophan fluorescence and bilirubin absorbance showed that the guanidine hydrochloride (GdnHCl)-induced unfolding of a multidomain protein, human serum albumin (HSA), followed a two-state process. However, using environment sensitive Nile red fluorescence, the unfolding and folding pathways of HSA were found to follow a three-state process and an intermediate was detected in the range 0.25-1.5 m GdnHCl. The intermediate state displayed 45% higher fluorescence intensity than that of the native state. The increase in the Nile red fluorescence was found to be due to an increase in the quantum yield of the HSA-bound Nile red. Low concentrations of GdnHCl neither altered the binding affinity of Nile red to HSA nor induced the aggregation of HSA. In addition, the secondary structure of HSA was not perturbed during the first unfolding transition (&lt;1.5 m GdnHCl); however, the secondary structure was completely lost during the second transition. The data together showed that the half maximal loss of the tertiary structure occurred at a lower GdnHCl concentration than the loss of the secondary structure. Further kinetic studies of the refolding process of HSA using multiple spectroscopic techniques showed that the folding occurred in two phases, a burst phase followed by a slow phase. An intermediate with native-like secondary structure but only a partial tertiary structure was found to form in the burst phase of refolding. Then, the intermediate slowly folded into the native state. An analysis of the refolding data suggested that the folding of HSA could be best explained by the framework model.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Santra</LastName>
+<ForeName>Manas Kumar</ForeName>
+<Initials>MK</Initials>
+<AffiliationInfo>
+<Affiliation>School of Biosciences and Bioengineering, Indian Institute of Technology, Bombay, Mumbai, India.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Banerjee</LastName>
+<ForeName>Abhijit</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krishnakumar</LastName>
+<ForeName>Shyam Sundar</ForeName>
+<Initials>SS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rahaman</LastName>
+<ForeName>Obaidur</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Panda</LastName>
+<ForeName>Dulal</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Eur J Biochem</MedlineTA>
+<NlmUniqueID>0107600</NlmUniqueID>
+<ISSNLinking>0014-2956</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012709">Serum Albumin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>JU58VJ6Y3B</RegistryNumber>
+<NameOfSubstance UI="D019791">Guanidine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>RFM9X3LJ49</RegistryNumber>
+<NameOfSubstance UI="D001663">Bilirubin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001663">Bilirubin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005453">Fluorescence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019791">Guanidine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017510">Protein Folding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017433">Protein Structure, Secondary</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017434">Protein Structure, Tertiary</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012709">Serum Albumin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2004</Year>
+<Month>4</Month>
+<Day>21</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2004</Year>
+<Month>5</Month>
+<Day>28</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2004</Year>
+<Month>4</Month>
+<Day>21</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15096218</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1432-1033.2004.04096.x</ArticleId>
+<ArticleId IdType="pii">EJB4096</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

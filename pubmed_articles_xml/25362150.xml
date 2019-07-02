@@ -1,0 +1,533 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25362150</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>08</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1469-7793</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>592</Volume>
+<Issue>24</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Dec</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of physiology</Title>
+<ISOAbbreviation>J. Physiol. (Lond.)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Influence of high altitude on cerebral blood flow and fuel utilization during exercise and recovery.</ArticleTitle>
+<Pagination>
+<MedlinePgn>5507-27</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1113/jphysiol.2014.281212</ELocationID>
+<Abstract>
+<AbstractText>We examined the hypotheses that: (1) during incremental exercise and recovery following 4-6 days at high altitude (HA) global cerebral blood flow (gCBF) increases to preserve cerebral oxygen delivery (CDO2) in excess of that required by an increasing cerebral metabolic rate of oxygen ( CM RO2); (2) the trans-cerebral exchange of oxygen vs. carbohydrates (OCI; carbohydrates = glucose + ½lactate) would be similar during exercise and recovery at HA and sea level (SL). Global CBF, intra-cranial arterial blood velocities, extra-cranial blood flows, and arterial-jugular venous substrate differences were measured during progressive steady-state exercise (20, 40, 60, 80, 100% maximum workload (Wmax)) and through 30 min of recovery. Measurements (n = 8) were made at SL and following partial acclimatization to 5050 m. At HA, absolute Wmax was reduced by ∼50%. During submaximal exercise workloads (20-60% Wmax), despite an elevated absolute gCBF (∼20%, P &lt; 0.05) the relative increases in gCBF were not different at HA and SL. In contrast, gCBF was elevated at HA compared with SL during 80 and 100% Wmax and recovery. Notwithstanding a maintained CDO2 and elevated absolute CM RO2 at HA compared with SL, the relative increase in CM RO2 was similar during 20-80% Wmax but half that of the SL response (i.e. 17 vs. 27%; P &lt; 0.05 vs. SL) at 100% Wmax. The OCI was reduced at HA compared with SL during 20, 40, and 60% Wmax but comparable at 80 and 100% Wmax. At HA, OCI returned almost immediately to baseline values during recovery, whereas at SL it remained below baseline. In conclusion, the elevations in gCBF during exercise and recovery at HA serve to maintain CDO2. Despite adequate CDO2 at HA the brain appears to increase non-oxidative metabolism during exercise and recovery.</AbstractText>
+<CopyrightInformation>© 2014 The Authors. The Journal of Physiology © 2014 The Physiological Society.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>K J</ForeName>
+<Initials>KJ</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Heart Lung and Vascular Health, School of Health and Exercise Sciences, University of British Columbia, Kelowna, BC, Canada kurt.smith@ubc.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>MacLeod</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Anesthesiology, Duke University Medical Center, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Willie</LastName>
+<ForeName>C K</ForeName>
+<Initials>CK</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Heart Lung and Vascular Health, School of Health and Exercise Sciences, University of British Columbia, Kelowna, BC, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lewis</LastName>
+<ForeName>N C S</ForeName>
+<Initials>NC</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Heart Lung and Vascular Health, School of Health and Exercise Sciences, University of British Columbia, Kelowna, BC, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hoiland</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Heart Lung and Vascular Health, School of Health and Exercise Sciences, University of British Columbia, Kelowna, BC, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ikeda</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Anesthesiology, Duke University Medical Center, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tymko</LastName>
+<ForeName>M M</ForeName>
+<Initials>MM</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Heart Lung and Vascular Health, School of Health and Exercise Sciences, University of British Columbia, Kelowna, BC, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Donnelly</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>University of Otago, Dunedin, New Zealand University Division of Neurosurgery, Department of Clinical Neurosciences, University of Cambridge, Cambridge, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Day</LastName>
+<ForeName>T A</ForeName>
+<Initials>TA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biology, Mount Royal Univeristy, Calgary, AB, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>MacLeod</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Carolina Friends School, Durham, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lucas</LastName>
+<ForeName>S J E</ForeName>
+<Initials>SJ</Initials>
+<AffiliationInfo>
+<Affiliation>University of Otago, Dunedin, New Zealand University of Birmingham, Birmingham, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ainslie</LastName>
+<ForeName>P N</ForeName>
+<Initials>PN</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Heart Lung and Vascular Health, School of Health and Exercise Sciences, University of British Columbia, Kelowna, BC, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>31</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Physiol</MedlineTA>
+<NlmUniqueID>0266262</NlmUniqueID>
+<ISSNLinking>0022-3751</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000531">Altitude</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000098">blood supply</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D050260">Carbohydrate Metabolism</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D002560">Cerebrovascular Circulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015444">Exercise</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010101">Oxygen Consumption</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25362150</ArticleId>
+<ArticleId IdType="pii">jphysiol.2014.281212</ArticleId>
+<ArticleId IdType="doi">10.1113/jphysiol.2014.281212</ArticleId>
+<ArticleId IdType="pmc">PMC4270509</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Scand J Clin Lab Invest. 1968 Dec;22(4):247-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5741789</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2014 Jul 15;592(14):3143-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24835170</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1985 Mar;108 ( Pt 1):81-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3978400</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1985 Apr 27;1(8435):989-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2859453</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ultrasound Med Biol. 1985 Sep-Oct;11(5):735-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2932831</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1986 Feb;83(4):1140-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3485282</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fed Proc. 1986 Dec;45(13):2953-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3536595</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol. 1987 Jan;234(1):9-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3102697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1988 Jul 22;241(4864):462-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3260686</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 1989 Jan;66(1):142-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2917917</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 1991 Oct;71(4):1469-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1757372</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Physiol. 2014 May 1;99(5):772-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24243839</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cerebrovasc Brain Metab Rev. 1992 Fall;4(3):261-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1389958</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol. 1993 May;264(5 Pt 2):H1740-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8498587</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol Occup Physiol. 1993;67(1):35-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8375362</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 1994 Jan;25(1):17-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8266366</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol. 1994 Nov;267(5 Pt 2):H2025-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7977834</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 1997 Jan;17(1):64-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8978388</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Sci. 1999 Jan 15;162(2):127-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10202978</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 1999 Sep;30(9):1942-7; discussion 1947-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10471448</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2005 Aug;99(2):699-706</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15920097</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2005 Dec 1;172(11):1427-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16126936</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>High Alt Med Biol. 2006 Spring;7(1):17-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16544963</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2008 Jan 1;586(1):107-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17932151</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2009 Jan 15;587(Pt 1):285-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19015195</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Physiol. 2010 Feb;95(2):251-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19617269</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2011 Jan 15;589(Pt 2):423-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21098003</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2011 Feb 1;589(Pt 3):741-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21041534</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci Methods. 2011 Mar 30;196(2):221-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21276818</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2011 Jun 1;589(Pt 11):2847-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21486813</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2001 Jun 5;98(12):6859-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11381119</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2001 Aug;91(2):929-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11457812</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 2002 Jan;22(1):118-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11807401</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2002 Dec 1;545(Pt 2):715-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12456846</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2004 Jan 15;554(Pt 2):571-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14608005</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2004 May 15;557(Pt 1):331-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15004212</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Res. 1966 Aug;19(2):274-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5914844</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 2011 Aug;31(8):1668-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21654698</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 2011 Oct;31(10):2019-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21654697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Neurobiol. 2011 Nov;95(3):406-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21963551</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2011 Dec;111(6):1727-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21921244</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FASEB J. 2012 Jul;26(7):3012-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22441982</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2012 Jul 15;590(Pt 14):3261-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22495584</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respir Physiol Neurobiol. 2012 Oct 15;184(1):97-105</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22926137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respir Physiol Neurobiol. 2013 Jan 15;185(2):461-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22922610</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2013 Apr 1;591(Pt 7):1859-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23230234</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2014 Mar 1;592(5):841-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24396059</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2014 Apr 1;116(7):905-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23813533</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2014 Apr 1;116(7):927-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23823148</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2014 May 1;116(9):1189-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24610534</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>High Alt Med Biol. 2014 Jun;15(2):133-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24971767</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol. 1973 Jul;35(1):111-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4716144</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

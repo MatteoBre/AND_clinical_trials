@@ -1,0 +1,159 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19339985</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>09</Month>
+<Day>29</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>06</Month>
+<Day>26</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-5543</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>29</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of perinatology : official journal of the California Perinatal Association</Title>
+<ISOAbbreviation>J Perinatol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The utility of tracheal aspirate cultures in the immediate neonatal period.</ArticleTitle>
+<Pagination>
+<MedlinePgn>493-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/jp.2009.33</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Determine the contemporary incidence of pathogenic tracheal aspirate (TA) cultures when obtained within 12 h of birth, and to associate TA culture results with specific clinical conditions that increase the risk of infection.</AbstractText>
+<AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">A retrospective study over a 6-month period of admissions to a single outborn neonatal intensive care unit when a TA sample was collected within 12 h of birth (n=139).</AbstractText>
+<AbstractText Label="RESULT" NlmCategory="RESULTS">In total, 9 of 139 (6.5%) TA cultures were positive for pathogenic bacterial growth. Maternal fever (relative risk (RR)=7.7, P&lt;0.04) and clinical chorioamnionitis (RR=6.4, P&lt;0.02) were significantly associated with pathogenic TA culture results. Infants with a pathogenic TA culture had lower white blood cell counts (7,500 vs 13,900 mm(-3), P&lt;0.05) when compared with infants with a negative culture. In eight of the nine patients with pathogenic cultures, either the mother or the infant received antibiotics before TA sample collection.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Early TA culture is a helpful tool in diagnosing pneumonia, especially in certain clinical scenarios, including maternal fever, clinical chorioamnionitis and leukopenia. Administration of antibiotics before sample collection does not seem to preclude culture growth.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Booth</LastName>
+<ForeName>G R</ForeName>
+<Initials>GR</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Neonatal-Perinatal Medicine, Department of Pediatrics, Saint Louis University School of Medicine, St. Louis, MO 63104, USA. boothgr@slu.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Al-Hosni</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ali</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Keenan</LastName>
+<ForeName>W J</ForeName>
+<Initials>WJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>04</Month>
+<Day>02</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Perinatol</MedlineTA>
+<NlmUniqueID>8501884</NlmUniqueID>
+<ISSNLinking>0743-8346</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002821">Chorioamnionitis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005322">Fetal Membranes, Premature Rupture</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007363">Intensive Care Units, Neonatal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007442">Intubation, Intratracheal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018410">Pneumonia, Bacterial</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018805">Sepsis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014132">Trachea</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>9</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19339985</ArticleId>
+<ArticleId IdType="pii">jp200933</ArticleId>
+<ArticleId IdType="doi">10.1038/jp.2009.33</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,243 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16856208</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>09</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>08</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0014-2980</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>36</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>European journal of immunology</Title>
+<ISOAbbreviation>Eur. J. Immunol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Alternating vector immunizations encoding pre-erythrocytic malaria antigens enhance memory responses in a malaria endemic area.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2264-72</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A heterologous prime-boost strategy has been developed to potently induce T cell responses to pre-erythrocytic malaria antigens. Efficacy in the field is likely to depend on both peak immunogenicity and the durability of responses. To improve both immunogenicity and durability of responses, 54 adult males from a malaria endemic area were immunized with different vaccination regimens, systematically varying antigenic insert and the number and sequence of component vaccinations. The component vaccinations were recombinant attenuated viruses, either fowlpox (FP) 9 or modified vaccinia virus Ankara (MVA). These were recombinant for either of two pre-erythrocytic malaria antigens (multiple epitope-thrombospondin-related adhesion protein, ME-TRAP, or circumsporozoite antigen (CS). ELISPOT assays were used to measure the effector and resting memory T cell responses. Sequence, antigen insert and number of vaccinations influenced immunogenicity, but the novel alternating vector immunizations generated the largest resting memory T cell populations. Effector responses were maintained at 84% of the peak response after 270 days. This durability of response is unprecedented. Classical prime-boost vaccination responses were at 5% of the peak after 270 days. Vaccines administered by heterologous prime-boost regimes are being developed for diverse pathogens and cancer. These data suggest these vaccines should also be administered by alternating vector regimens in clinical development.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bejon</LastName>
+<ForeName>Philip</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Kenya Medical Research Institute, Centre for Geographical Medical Research (Coast), Kilifi, Kenya. pbejon@kilifi.mimcom.net</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kai</LastName>
+<ForeName>Oscar K</ForeName>
+<Initials>OK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mwacharo</LastName>
+<ForeName>Jedidah</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Keating</LastName>
+<ForeName>Sheila</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lang</LastName>
+<ForeName>Trudie</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gilbert</LastName>
+<ForeName>Sarah C</ForeName>
+<Initials>SC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peshu</LastName>
+<ForeName>Norbert</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marsh</LastName>
+<ForeName>Kevin</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hill</LastName>
+<ForeName>Adrian V S</ForeName>
+<Initials>AV</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>061702</GrantID>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>073597</GrantID>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Eur J Immunol</MedlineTA>
+<NlmUniqueID>1273201</NlmUniqueID>
+<ISSNLinking>0014-2980</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000953">Antigens, Protozoan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000939">Epitopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017780">Malaria Vaccines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015800">Protozoan Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C041595">circumsporozoite protein, Protozoan</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>120300-02-9</RegistryNumber>
+<NameOfSubstance UI="C069428">thrombospondin-related adhesive protein, protozoan</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000953">Antigens, Protozoan</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003429">Cross Reactions</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000939">Epitopes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004912">Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000469">parasitology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005822">Genetic Vectors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007125">Immunogenetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007156">Immunologic Memory</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D007630">Kenya</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008288">Malaria</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017780">Malaria Vaccines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010961">Plasmodium</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015800">Protozoan Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>9</Month>
+<Day>14</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16856208</ArticleId>
+<ArticleId IdType="doi">10.1002/eji.200636187</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,157 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11500343</PMID>
+<DateCompleted>
+<Year>2001</Year>
+<Month>10</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1073-449X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>164</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2001</Year>
+<Month>Aug</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>American journal of respiratory and critical care medicine</Title>
+<ISOAbbreviation>Am. J. Respir. Crit. Care Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Electrical activity of the diaphragm during pressure support ventilation in acute respiratory failure.</ArticleTitle>
+<Pagination>
+<MedlinePgn>419-24</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We compared crural diaphragm electrical activity (EAdi) with transdiaphragmatic pressure (Pdi) during varying levels of pressure support ventilation (PS) in 13 intubated patients. With changing PS, we found no evidence for changes in neuromechanical coupling of the diaphragm. From lowest to highest PS (2 cm H(2)O +/- 4 to 20 cm H(2)O +/- 7), tidal volume increased from 430 ml +/- 180 to 527 ml +/- 180 (p &lt; 0.001). The inspiratory volume calculated during the period when EAdi increased to its peak did not change from 276 +/- 147 to 277 +/- 162 ml, p = 0.976. Respiratory rate decreased from 23.9 (+/- 7) to 21.3 (+/- 7) breaths/min (p = 0.015). EAdi and Pdi decreased proportionally by adding PS (r = 0.84 and r = 0.90, for mean and peak values, respectively). Mean and peak EAdi decreased (p &lt; 0.001) by 33 +/- 21% (mean +/- SD) and 37 +/- 23% with the addition of 10 cm H(2)O of PS, similar to the decrease in the mean and peak Pdi (p &lt; 0.001) observed (34 +/- 36 and 35 +/- 23%). We also found that ventilator assist continued during the diaphragm deactivation period, a phenomenon that was further exaggerated at higher PS levels. We conclude that EAdi is a valid measurement of neural drive to the diaphragm in acute respiratory failure.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Beck</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Hôpital Ste-Justine, Department of Pediatrics, Montreal, Quebec, Canada. jencbeck@hotmail.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gottfried</LastName>
+<ForeName>S B</ForeName>
+<Initials>SB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Navalesi</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Skrobik</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Comtois</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rossini</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sinderby</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Respir Crit Care Med</MedlineTA>
+<NlmUniqueID>9421642</NlmUniqueID>
+<ISSNLinking>1073-449X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000208">Acute Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001696">Biomechanical Phenomena</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003964">Diaphragm</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004576">Electromyography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004594">Electrophysiology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007385">Intermittent Positive-Pressure Ventilation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012131">Respiratory Insufficiency</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2001</Year>
+<Month>8</Month>
+<Day>14</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2001</Year>
+<Month>10</Month>
+<Day>5</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2001</Year>
+<Month>8</Month>
+<Day>14</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11500343</ArticleId>
+<ArticleId IdType="doi">10.1164/ajrccm.164.3.2009018</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

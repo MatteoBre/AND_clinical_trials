@@ -1,0 +1,537 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27872957</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>03</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1619-7089</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>44</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>European journal of nuclear medicine and molecular imaging</Title>
+<ISOAbbreviation>Eur. J. Nucl. Med. Mol. Imaging</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Utility of <sup>18</sup>F-fluoroestradiol (<sup>18</sup>F-FES) PET/CT imaging as a pharmacodynamic marker in patients with refractory estrogen receptor-positive solid tumors receiving Z-endoxifen therapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>500-508</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00259-016-3561-8</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Z-endoxifen is the most potent of the metabolites of tamoxifen, and has the potential to be more effective than tamoxifen because it bypasses potential drug resistance mechanisms attributable to patient variability in the expression of the hepatic microsomal enzyme CYP2D6. <sup>18</sup>F-FES is a positron emission tomography (PET) imaging agent which selectively binds to estrogen receptor alpha (ER-α) and has been used for non-invasive in vivo assessment of ER activity in tumors. This study utilizes <sup>18</sup>F-FES PET imaging as a pharmacodynamic biomarker in patients with ER+ tumors treated with Z-endoxifen.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Fifteen patients were recruited from a parent therapeutic trial of Z-endoxifen and underwent imaging with <sup>18</sup>F-FES PET at baseline. Eight had positive lesions on the baseline scan and underwent follow-up imaging with <sup>18</sup>F-FES 1-5 days post administration of Z-endoxifen.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Statistically significant changes (p = 0.0078) in standard uptake value (SUV)-Max were observed between the baseline and follow-up scans as early as 1 day post drug administration.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">F-FES PET imaging could serve as a pharmacodynamic biomarker for patients treated with ER-directed therapy.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lin</LastName>
+<ForeName>Frank I</ForeName>
+<Initials>FI</Initials>
+<AffiliationInfo>
+<Affiliation>Cancer Imaging Program, National Cancer Institute, NIH, Bethesda, MD, USA. frank.lin2@nih.gov.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Molecular Imaging Program, National Cancer Institute, Bethesda, MD, USA. frank.lin2@nih.gov.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gonzalez</LastName>
+<ForeName>E M</ForeName>
+<Initials>EM</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Imaging Program, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kummar</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Treatment and Diagnosis and Center for Cancer Research, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Do</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Treatment and Diagnosis and Center for Cancer Research, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shih</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Biometric Research Program, National Cancer Institute, NIH, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Adler</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Research Directorate/Clinical Monitoring Research Program, Leidos Biomedical Research, Inc., NCI Campus at Frederick, Frederick, MD, 21702, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kurdziel</LastName>
+<ForeName>K A</ForeName>
+<Initials>KA</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Imaging Program, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ton</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Imaging Program, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Turkbey</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Imaging Program, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jacobs</LastName>
+<ForeName>P M</ForeName>
+<Initials>PM</Initials>
+<AffiliationInfo>
+<Affiliation>Cancer Imaging Program, National Cancer Institute, NIH, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bhattacharyya</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Frederick National Laboratory for Cancer Research, Leidos Biomedical Research, Frederick, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>A P</ForeName>
+<Initials>AP</Initials>
+<AffiliationInfo>
+<Affiliation>Early Clinical Trials Development Program, DCTD, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Collins</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Treatment and Diagnosis and Center for Cancer Research, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Doroshow</LastName>
+<ForeName>J H</ForeName>
+<Initials>JH</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Treatment and Diagnosis and Center for Cancer Research, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Choyke</LastName>
+<ForeName>P L</ForeName>
+<Initials>PL</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Imaging Program, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lindenberg</LastName>
+<ForeName>M L</ForeName>
+<Initials>ML</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Imaging Program, National Cancer Institute, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>21</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Eur J Nucl Med Mol Imaging</MedlineTA>
+<NlmUniqueID>101140988</NlmUniqueID>
+<ISSNLinking>1619-7070</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004965">Estrogen Antagonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011960">Receptors, Estrogen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>094ZI81Y45</RegistryNumber>
+<NameOfSubstance UI="D013629">Tamoxifen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>46AF8680RC</RegistryNumber>
+<NameOfSubstance UI="C055492">4-hydroxy-N-desmethyltamoxifen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>4TI98Z838E</RegistryNumber>
+<NameOfSubstance UI="D004958">Estradiol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>84693-92-5</RegistryNumber>
+<NameOfSubstance UI="C043436">16-fluoroestradiol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018567">Breast Neoplasms, Male</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004958">Estradiol</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004965">Estrogen Antagonists</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005833">Genital Neoplasms, Female</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000072078">Positron Emission Tomography Computed Tomography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019275">Radiopharmaceuticals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011960">Receptors, Estrogen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013629">Tamoxifen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000031">analogs &amp; derivatives</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">18F-FES</Keyword>
+<Keyword MajorTopicYN="Y">Fluoroestradiol</Keyword>
+<Keyword MajorTopicYN="Y">Pharmacodynamic marker</Keyword>
+<Keyword MajorTopicYN="Y">Positron emission tomography (PET)</Keyword>
+<Keyword MajorTopicYN="Y">Z-endoxifen</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>06</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>3</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27872957</ArticleId>
+<ArticleId IdType="doi">10.1007/s00259-016-3561-8</ArticleId>
+<ArticleId IdType="pii">10.1007/s00259-016-3561-8</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Labelled Comp Radiopharm. 2014 Dec;57(14 ):730-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25476421</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2015 Jan;56(1):50-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25476534</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 1996 Aug 19;392(1):49-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8769313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Cancer. 2013 Dec;49(18):3850-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24007820</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2008 Mar;49(3):367-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18287268</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Nucl Med. 2015 Oct;29(8):721-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26108700</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Mol Imaging. 2013;2013:278607</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23762549</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2008 Aug 1;26(22):3727-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18669459</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2011 Jul 15;17 (14 ):4799-805</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21750198</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2015 Mar 15;21(6):1340-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25609068</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2013 Oct;54(10 ):1697-702</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23970364</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2014 Jun;55(6):884-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24752671</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2011 Aug 27;378(9793):771-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21802721</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Discov. 2015 Jan;5(1):72-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25380844</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2006 Jun 20;24(18):2793-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16682724</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Chem. 2005 Oct 6;48(20):6366-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16190762</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2013 Apr;54(4):499-506</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23471314</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Rev. 2007 Jul;87(3):905-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17615392</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Pharm. 2016 Feb 1;13(2):683-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26725682</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2001 Jun 1;19(11):2797-803</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11387350</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Imaging Biol. 2014 Jun;16(3):431-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24170452</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Nucl Med Mol Imaging. 2015 Oct;42(11):1674-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26091705</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucl Med Biol. 2011 Oct;38(7):969-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21982568</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2012 Mar;23(3):562-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21859899</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sichuan Da Xue Xue Bao Yi Xue Ban. 2010 Jan;41(1):101-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20369480</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Nucl Med Mol Imaging. 2011 Oct;38(10 ):1824-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21656049</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tohoku J Exp Med. 2006 Nov;210(3):189-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17077595</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Nucl Med. 2007 Nov;37(6):470-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17920354</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Pathol Lab Med. 2011 Jan;135(1):63-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21204712</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Nucl Med Mol Imaging. 2010 Oct;37(10 ):1861-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20512572</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 1991 Aug;32(8):1526-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1869973</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2013 Oct;14(11):e465-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24079874</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Breast Cancer. 2013 Oct;13(5):359-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23787040</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2016 Feb;57 Suppl 1:75S-80S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26834106</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

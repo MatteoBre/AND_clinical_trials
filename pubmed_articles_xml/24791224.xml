@@ -1,0 +1,489 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="Publisher">
+<PMID Version="1">24791224</PMID>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">2211-3398</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>4</Volume>
+<PubDate>
+<Year>2014</Year>
+<Month>May</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Current opinion in chemical engineering</Title>
+<ISOAbbreviation>Curr Opin Chem Eng</ISOAbbreviation>
+</Journal>
+<ArticleTitle>DNA Aptamer Technology for Personalized Medicine.</ArticleTitle>
+<Pagination>
+<MedlinePgn>79-87</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>This review highlights recent progress in developing DNA aptamers for personalized medicine, with more focus on <i>in vivo</i> studies for potential clinical applications. Examples include design of aptamers in combination with DNA nanostructures, nanomaterials, or microfluidic devices as diagnostic probes or therapeutic agents for cancers and other diseases. The use of aptamers as targeting agents in drug delivery is also covered. The advantages and future directions of such DNA aptamer-based technology for the continued development of personalized medicine are discussed.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Xing</LastName>
+<ForeName>Hang</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801 ; Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hwang</LastName>
+<ForeName>Kevin</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Ji</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801 ; Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Torabi</LastName>
+<ForeName>Seyed-Fakhreddin</ForeName>
+<Initials>SF</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biochemistry, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lu</LastName>
+<ForeName>Yi</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801 ; Department of Biochemistry, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801 ; Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, Urbana, Illinois 61801.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 ES016865</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Curr Opin Chem Eng</MedlineTA>
+<NlmUniqueID>101590557</NlmUniqueID>
+<ISSNLinking>2211-3398</ISSNLinking>
+</MedlineJournalInfo>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">DNA aptamer</Keyword>
+<Keyword MajorTopicYN="N">cancer</Keyword>
+<Keyword MajorTopicYN="N">diagnosis</Keyword>
+<Keyword MajorTopicYN="N">personalized medicine</Keyword>
+<Keyword MajorTopicYN="N">targeted delivery</Keyword>
+<Keyword MajorTopicYN="N">therapy</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24791224</ArticleId>
+<ArticleId IdType="doi">10.1016/j.coche.2014.01.007</ArticleId>
+<ArticleId IdType="pmc">PMC4001932</ArticleId>
+<ArticleId IdType="mid">NIHMS562200</ArticleId>
+</ArticleIdList>
+<?nihms ?>
+<ReferenceList>
+<Reference>
+<Citation>Nature. 2009 Feb 12;457(7231):910-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19212411</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2008 Apr 1;68(7):2358-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18381443</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Angew Chem Int Ed Engl. 2012 Dec 14;51(51):12721-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23136130</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2009 Dec 03;4(12):e8142</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19997645</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Chem. 2011 Jul 24;3(9):697-703</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21860458</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Chem Biol. 2012 Aug;16(3-4):429-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22541663</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biomaterials. 2011 Nov;32(31):8010-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21788069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>ACS Nano. 2013 Aug 27;7(8):7067-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23837646</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1992 Jul 31;257(5070):635-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1496376</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Future Oncol. 2013 Mar;9(3):369-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23469972</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2012 Nov 27;109(48):19626-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23150586</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chem Rev. 2009 May;109(5):1948-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19301873</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acc Chem Res. 2010 Jan 19;43(1):48-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19751057</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1990 Aug 3;249(4968):505-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2200121</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2010 Nov 1;70(21):8617-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20861190</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anal Chem. 2013 Jun 18;85(12 ):5843-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23682757</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Angew Chem Int Ed Engl. 2006 Dec 4;45(47):7955-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17094149</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Chem Soc. 2012 Aug 22;134(33):13823-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22835075</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Angew Chem Int Ed Engl. 2013 May 17;52(21):5490-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23606645</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biosens Bioelectron. 2012 Jan 15;31(1):226-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22154169</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2013 May 14;110(20):8170-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23630281</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Drug Discov. 2010 Jul;9(7):537-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20592747</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Langmuir. 2011 Jun 7;27(11):6971-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21553884</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Proteomics. 2007 Dec;6(12):2230-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17875608</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2003 Dec 23;100(26):15416-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14676325</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2007 Aug 1;67(15):7358-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17671206</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol Methods. 2013 May;189(2):362-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23523887</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Angew Chem Int Ed Engl. 2007;46(34):6408-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17600802</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Med. 2006 Nov;3(11):e442</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17132052</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2013 May 14;110(20):7998-8003</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23630258</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biophys Chem. 2005 Aug 1;116(3):199-205</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15893412</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2009 Aug;37(14):4621-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19498077</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Angew Chem Int Ed Engl. 2013 Jun 3;52(23):6055-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23610069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2010 Jan 5;107(1):5-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20080797</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biomaterials. 2012 Nov;33(31):7810-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22835645</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Pharm Res. 2012 Oct;35(10):1693-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23139119</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Med Chem. 2011;18(27):4169-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21848510</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer Ther. 2006 Dec;5(12):2957-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17172400</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acc Chem Res. 2010 May 18;43(5):631-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20222738</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sci Rep. 2013;3:1863</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23689505</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chem Rev. 2013 Apr 10;113(4):2842-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23509854</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biomaterials. 2013 Dec;34(37):9728-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24044994</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Chem Soc. 2013 Feb 20;135(7):2411-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23356394</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biomaterials. 2013 Nov;34(35):8909-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23968853</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2012 Feb 17;335(6070):831-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22344439</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mater Chem B Mater Biol Med. 2013 Oct 21;1(39):5288-5297</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24159374</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Oncol. 2013 Aug;7(4):799-811</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23656757</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nanomedicine. 2012 Apr;8(3):275-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21930108</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2011 Mar 8;108(10):3900-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21368158</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013 Aug 12;8(8):e70476</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23950940</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2056-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17284609</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 2012 Aug;108(2):284-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22740102</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2010 Jan;51(1):98-105</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20008986</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Urol. 2013 Apr;10(4):219-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23478540</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2013 Aug 1;73(15):4923-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23796560</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biomaterials. 2012 Feb;33(6):1939-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22142768</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 2013 Oct;57(10):4937-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23877701</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Angew Chem Int Ed Engl. 2009;48(35):6494-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19623590</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1990 Aug 30;346(6287):818-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1697402</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

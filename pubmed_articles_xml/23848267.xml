@@ -1,0 +1,687 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23848267</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1535-4970</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>188</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Sep</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>American journal of respiratory and critical care medicine</Title>
+<ISOAbbreviation>Am. J. Respir. Crit. Care Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Bidirectional relationship between cognitive function and pneumonia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>586-92</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1164/rccm.201212-2154OC</ELocationID>
+<Abstract>
+<AbstractText Label="RATIONALE" NlmCategory="BACKGROUND">Relationships between chronic health conditions and acute infections remain poorly understood. Preclinical studies suggest crosstalk between nervous and immune systems.</AbstractText>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To determine bidirectional relationships between cognition and pneumonia.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We conducted longitudinal analyses of a population-based cohort over 10 years. We determined whether changes in cognition increase risk of pneumonia hospitalization by trajectory analyses and joint modeling. We then determined whether pneumonia hospitalization increased risk of subsequent dementia using a Cox model with pneumonia as a time-varying covariate.</AbstractText>
+<AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">Of the 5,888 participants, 639 (10.9%) were hospitalized with pneumonia at least once. Most participants had normal cognition before pneumonia. Three cognition trajectories were identified: no, minimal, and severe rapid decline. A greater proportion of participants hospitalized with pneumonia were on trajectories of minimal or severe decline before occurrence of pneumonia compared with those never hospitalized with pneumonia (proportion with no, minimal, and severe decline were 67.1%, 22.8%, and 10.0% vs. 76.0%, 19.3%, and 4.6% for participants with and without pneumonia, respectively; P &lt; 0.001). Small subclinical changes in cognition increased risk of pneumonia, even in those with normal cognition and physical function before pneumonia (β = -0.02; P &lt; 0.001). Participants with pneumonia were subsequently at an increased risk of dementia (hazard ratio, 2.24 [95% confidence interval, 1.62-3.11]; P = 0.01). Associations were independent of demographics, health behaviors, other chronic conditions, and physical function. Bidirectional relationship did not vary based on severity of disease, and similar associations were noted for those with severe sepsis and other infections.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A bidirectional relationship exists between pneumonia and cognition and may explain how a single episode of infection in well-appearing older individuals accelerates decline in chronic health conditions and loss of functional independence.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Shah</LastName>
+<ForeName>Faraaz Ali</ForeName>
+<Initials>FA</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Pulmonary, Allergy, and Critical Care Medicine, University of Pittsburgh Medical Center, PA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pike</LastName>
+<ForeName>Francis</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alvarez</LastName>
+<ForeName>Karina</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Angus</LastName>
+<ForeName>Derek</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Newman</LastName>
+<ForeName>Anne B</ForeName>
+<Initials>AB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lopez</LastName>
+<ForeName>Oscar</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tate</LastName>
+<ForeName>Judith</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kapur</LastName>
+<ForeName>Vishesh</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilsdon</LastName>
+<ForeName>Anthony</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krishnan</LastName>
+<ForeName>Jerry A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hansel</LastName>
+<ForeName>Nadia</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Au</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Avdalovic</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fan</LastName>
+<ForeName>Vincent S</ForeName>
+<Initials>VS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barr</LastName>
+<ForeName>R Graham</ForeName>
+<Initials>RG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yende</LastName>
+<ForeName>Sachin</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01GM097471</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85085</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AG015928</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL080295</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85081</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268200800007C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 HC015103</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R56 AG020098</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K23 GM083215</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AG-20098</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC55222</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85086</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC85086</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AG-027058</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85082</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201200036C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 GM097471</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-55222</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85083</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-75150</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85080</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL080295</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AG020098</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC75150</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85079</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL080295</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>AG-023629</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC85079</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AG023629</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AG027058</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 HC045133</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 HC035129</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R56 AG023629</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85084</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Respir Crit Care Med</MedlineTA>
+<NlmUniqueID>9421642</NlmUniqueID>
+<ISSNLinking>1073-449X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Am J Respir Crit Care Med. 2013 Sep 1;188(5):525-7</RefSource>
+<PMID Version="1">23992586</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Am J Respir Crit Care Med. 2014 Mar 15;189(6):755-6</RefSource>
+<PMID Version="1">24628321</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003072">Cognition Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003704">Dementia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006760">Hospitalization</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008137">Longitudinal Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009483">Neuropsychological Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011014">Pneumonia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>7</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>7</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23848267</ArticleId>
+<ArticleId IdType="doi">10.1164/rccm.201212-2154OC</ArticleId>
+<ArticleId IdType="pmc">PMC3827700</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Med Care. 2014 Jun;52(6):e39-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23001437</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurobiol Aging. 2012 Mar;33(3):603-616.e3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20471138</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2010 Oct 16;376(9749):1339-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20934212</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Clin Neuropsychol. 2005 Jun;20(4):485-503</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15896562</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1997 May 24;349(9064):1498-504</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9167458</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Neurosci. 2006 Sep;29(9):518-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16879881</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2003 Feb 20;348(8):683-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12594312</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med. 2013 Jul;126(7):615-24.e5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23499326</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Geriatr Soc. 2007 Apr;55(4):518-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17397429</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Jan 10;368(2):107-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23150908</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Natl Vital Stat Rep. 2012 Oct 26;61(7):1-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24964584</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2003 Sep;31(9):2316-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14501962</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2010 Oct 27;304(16):1787-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20978258</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Epidemiol. 1999 Feb 1;149(3):282-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9927225</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2005 Dec 1;172(11):1440-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16166617</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Geriatr Soc. 2005 Jul;53(7):1108-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16108926</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biometrics. 2011 Sep;67(3):819-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21306352</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2011 Apr 7;364(14):1293-304</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21470008</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Clin. 2011 Jul;27(3):685-704</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21742223</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2002 Dec 19-26;420(6917):853-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12490958</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2010 Feb 24;303(8):763-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20179286</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2004 Nov 10;292(18):2237-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15536110</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Epidemiol. 1995 Jul;5(4):278-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8520709</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurobiol Dis. 2010 Jan;37(1):26-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19664708</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biometrics. 1997 Mar;53(1):330-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9147598</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med. 1994 Apr;96(4):313-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8166149</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2002 Sep 25;288(12):1475-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12243634</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuroimmunol. 2004 Feb;147(1-2):43-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14741426</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Psychiatry. 1987 Aug;48(8):314-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3611032</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2005 Dec 7;294(21):2712-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16333006</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2007 Aug 13-27;167(15):1655-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17698689</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 1999 Jul;160(1):50-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10390379</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Public Health Rep. 1989 Jul-Aug;104(4):350-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2502806</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2008 Jun 1;177(11):1242-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18369199</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2012 Apr 4;307(13):1405-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22474204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2000 Nov 13;160(20):3082-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11074737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2003 May 14;289(18):2387-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12746362</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2002 Jun;121(6):1963-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12065364</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2012 Mar 21;32(12):3958-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22442063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2012 Jun 15;185(12):1307-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22492988</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Epidemiol. 1993 May 1;137(9):977-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8317455</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2008 Nov 12;300(18):2172-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19001628</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,339 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17671248</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>09</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>08</Month>
+<Day>23</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1533-4406</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>357</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Aug</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+<Title>The New England journal of medicine</Title>
+<ISOAbbreviation>N. Engl. J. Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Whole-genome analysis of sporadic amyotrophic lateral sclerosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>775-88</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Approximately 90% of persons with amyotrophic lateral sclerosis (ALS) have the sporadic form, which may be caused by the interaction of multiple environmental factors and previously unknown genes.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We performed a genomewide association analysis using 766,955 single-nucleotide polymorphisms (SNPs) found in 386 white patients with sporadic ALS and 542 neurologically normal white controls (the discovery series). Associations of SNPs with sporadic ALS were confirmed in two independent replication populations: replication series 1, with 766 case patients with the disease and 750 neurologically normal controls, and replication series 2, with 135 case patients and 275 controls.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">We identified 10 genetic loci that are significantly associated (P&lt;0.05) with sporadic ALS in three independent series of case patients and controls and an additional 41 loci that had significant associations in two of the three series. The most significant association with disease in white case patients as compared with controls was found for a SNP near an uncharacterized gene known as FLJ10986 (P=3.0x10(-4); odds ratio for having the genotype in patients vs. controls, 1.35; 95% confidence interval, 1.13 to 1.62). The FLJ10986 protein was found to be expressed in the spinal cord and cerebrospinal fluid of patients and of controls. Specific SNPs seem to be associated with sex, age at onset, and site of onset of sporadic ALS.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Variants of FLJ10986 may confer susceptibility to sporadic ALS. FLJ10986 and 50 other candidate loci warrant further investigation for their potential role in conferring susceptibility to the disease.</AbstractText>
+<CopyrightInformation>Copyright 2007 Massachusetts Medical Society.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Dunckley</LastName>
+<ForeName>Travis</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Translational Genomics Research Inst., Phoenix, AZ 85004, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huentelman</LastName>
+<ForeName>Matthew J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Craig</LastName>
+<ForeName>David W</ForeName>
+<Initials>DW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pearson</LastName>
+<ForeName>John V</ForeName>
+<Initials>JV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Szelinger</LastName>
+<ForeName>Szabolcs</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Joshipura</LastName>
+<ForeName>Keta</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Halperin</LastName>
+<ForeName>Rebecca F</ForeName>
+<Initials>RF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stamper</LastName>
+<ForeName>Chelsea</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jensen</LastName>
+<ForeName>Kendall R</ForeName>
+<Initials>KR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Letizia</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hesterlee</LastName>
+<ForeName>Sharon E</ForeName>
+<Initials>SE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pestronk</LastName>
+<ForeName>Alan</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Levine</LastName>
+<ForeName>Todd</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bertorini</LastName>
+<ForeName>Tulio</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Graves</LastName>
+<ForeName>Michael C</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mozaffar</LastName>
+<ForeName>Tahseen</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jackson</LastName>
+<ForeName>Carlayne E</ForeName>
+<Initials>CE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bosch</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McVey</LastName>
+<ForeName>April</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dick</LastName>
+<ForeName>Arthur</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barohn</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lomen-Hoerth</LastName>
+<ForeName>Catherine</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenfeld</LastName>
+<ForeName>Jeffrey</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'connor</LastName>
+<ForeName>Daniel T</ForeName>
+<Initials>DT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Kuixing</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crook</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ryberg</LastName>
+<ForeName>Henrik</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hutton</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Katz</LastName>
+<ForeName>Jonathan</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Simpson</LastName>
+<ForeName>Ericka P</ForeName>
+<Initials>EP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mitsumoto</LastName>
+<ForeName>Hiroshi</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bowser</LastName>
+<ForeName>Robert</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miller</LastName>
+<ForeName>Robert G</ForeName>
+<Initials>RG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Appel</LastName>
+<ForeName>Stanley H</ForeName>
+<Initials>SH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stephan</LastName>
+<ForeName>Dietrich A</ForeName>
+<Initials>DA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>08</Month>
+<Day>01</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>N Engl J Med</MedlineTA>
+<NlmUniqueID>0255562</NlmUniqueID>
+<ISSNLinking>0028-4793</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D002556">Cerebrospinal Fluid Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C522407">FL10986 protein, human</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>N Engl J Med. 2007 Aug 23;357(8):822-3</RefSource>
+<PMID Version="1">17671249</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017668">Age of Onset</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000690">Amyotrophic Lateral Sclerosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002556">Cerebrospinal Fluid Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015894">Genome, Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015151">Immunoblotting</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016017">Odds Ratio</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017422">Sequence Analysis, DNA</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>9</Month>
+<Day>5</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17671248</ArticleId>
+<ArticleId IdType="pii">NEJMoa070174</ArticleId>
+<ArticleId IdType="doi">10.1056/NEJMoa070174</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

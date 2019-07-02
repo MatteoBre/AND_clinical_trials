@@ -1,0 +1,247 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21851764</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>12</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">2046-4924</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>15</Volume>
+<Issue>29</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Health technology assessment (Winchester, England)</Title>
+<ISOAbbreviation>Health Technol Assess</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Development and evaluation by a cluster randomised trial of a psychosocial intervention in children and teenagers experiencing diabetes: the DEPICTED study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-202</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3310/hta15290</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To develop and evaluate a health-care communication training programme to help diabetes health-care professionals (HCPs) counsel their patients more skilfully, particularly in relation to behaviour change.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">The HCP training was assessed using a pragmatic, cluster randomised controlled trial. The primary and secondary analyses were intention-to-treat comparisons of outcomes using multilevel modelling to allow for cluster (service) and individual effects, and involved two-level linear models.</AbstractText>
+<AbstractText Label="SETTING" NlmCategory="METHODS">Twenty-six UK paediatric diabetes services.</AbstractText>
+<AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">The training was delivered to HCPs (doctors, nurses, dietitians and psychologists) working in paediatric diabetes services and the effectiveness of this training was measured in 693 children aged 4-15 years and families after 1 year (95.3% follow-up).</AbstractText>
+<AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">A blended learning programme was informed by a systematic review of the literature, telephone and questionnaire surveys of professional practice, focus groups with children and parents, experimental consultations and three developmental workshops involving a stakeholder group. The programme focused on agenda-setting, flexible styles of communication (particularly guiding) and a menu of strategies using web-based training and practical workshops.</AbstractText>
+<AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">The primary trial outcome was a change in glycosylated haemoglobin (HbA1c) levels between the start and finish of a 12-month study period. Secondary trial outcomes included change in quality of life, other clinical [including body mass index (BMI)] and psychosocial measures (assessed at participant level as listed above) and cost (assessed at service level). In addition, patient details (HbA1c levels, height, weight, BMI, insulin regimen), health service contacts and patient-borne costs were recorded at each clinic visit, along with details of who patients consulted with, for how long, and whether or not patients consulted on their own at each visit. Patients and carers were also asked to complete an interim questionnaire assessing patient enablement (or feelings towards clinic visit for younger patients aged 7-10 years) at their first clinic visit following the start of the trial. The cost of the intervention included the cost of training intervention teams.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Trained staff showed better skills than control subjects in agenda-setting and consultation strategies, which waned from 4 to 12 months. There was no effect on HbA1c levels (p = 0.5). Patients in intervention clinics experienced a loss of confidence in their ability to manage diabetes, whereas controls showed surprisingly reduced barriers (p = 0.03) and improved adherence (p = 0.05). Patients in intervention clinics reported short-term increased ability (p = 0.04) to cope with diabetes. Parents in the intervention arm experienced greater excitement (p = 0.03) about clinic visits and improved continuity of care (p = 0.01) without the adverse effects seen in their offspring. The mean cost of training was £13,145 per site or £2163 per trainee. There was no significant difference in total NHS costs (including training) between groups (p = 0.1).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Diabetes HCPs can be trained to improve consultation skills, but these skills need reinforcing. Over 1 year, no benefits were seen in children, unlike parents, who may be better placed to support their offspring. Further modification of this training is required to improve outcomes that may need to be measured over a longer time to see effects.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">Current Controlled Trials ISRCTN61568050.</AbstractText>
+<AbstractText Label="FUNDING" NlmCategory="BACKGROUND">This project was funded by the NIHR Health Technology Assessment programme and will be published in full in Health Technology Assessment; Vol. 15, No. 29. See the HTA programme website for further project information.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gregory</LastName>
+<ForeName>Jw</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Child Health, School of Medicine, Cardiff University, Cardiff, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Robling</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bennert</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Channon</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cohen</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crowne</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hambly</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hawthorne</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hood</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Longo</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lowes</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McNamara</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pickles</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Playle</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rollnick</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thomas-Jones</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ISRCTN</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>ISRCTN61568050</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Health Technol Assess</MedlineTA>
+<NlmUniqueID>9706284</NlmUniqueID>
+<ISSNLinking>1366-5278</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001291">Attitude of Health Personnel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003142">Communication</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003362">Cost-Benefit Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003376">Counseling</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003922">Diabetes Mellitus, Type 1</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006282">Health Personnel</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000193">education</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011368">Professional-Family Relations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011369">Professional-Patient Relations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015397">Program Evaluation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012648">Self Care</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006113">United Kingdom</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>8</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>8</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21851764</ArticleId>
+<ArticleId IdType="doi">10.3310/hta15290</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,149 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16950008</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>09</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>09</Month>
+<Day>04</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0264-410X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>24 Suppl 3</Volume>
+<PubDate>
+<Year>2006</Year>
+<Month>Aug</Month>
+<Day>31</Day>
+</PubDate>
+</JournalIssue>
+<Title>Vaccine</Title>
+<ISOAbbreviation>Vaccine</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Chapter 24: Psychosocial aspects of vaccine acceptability.</ArticleTitle>
+<Pagination>
+<MedlinePgn>S3/201-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In this chapter we identify psychosocial issues that have been raised with respect to human papillomavirus (HPV) vaccination and review the research literature on HPV vaccine acceptability. Many women and physicians have relatively poor knowledge about HPV, but despite this, most healthcare providers are willing to recommend HPV vaccination and parents are interested in having their children vaccinated. Concerns about post-vaccination sexual behavior change do not appear to be justified, but can certainly be addressed through anticipatory guidance. Most research studies have come out of the United States and other English-speaking industrialized countries. More psychosocial research regarding HPV vaccination is therefore needed from developing countries.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zimet</LastName>
+<ForeName>Gregory D</ForeName>
+<Initials>GD</Initials>
+<AffiliationInfo>
+<Affiliation>Section of Adolescent Medicine, Indiana University School of Medicine, 575 N. West Drive, Indianapolis, IN 46202, USA. gzimet@iupui.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liddon</LastName>
+<ForeName>Nicole</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenthal</LastName>
+<ForeName>Susan L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lazcano-Ponce</LastName>
+<ForeName>Eduardo</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Allen</LastName>
+<ForeName>Betania</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Vaccine</MedlineTA>
+<NlmUniqueID>8406899</NlmUniqueID>
+<ISSNLinking>0264-410X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D053918">Papillomavirus Vaccines</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019049">Developed Countries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003906">Developing Countries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D053918">Papillomavirus Vaccines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010342">Patient Acceptance of Health Care</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014611">Vaccination</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>47</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2006</Year>
+<Month>03</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2006</Year>
+<Month>06</Month>
+<Day>01</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>9</Month>
+<Day>5</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>9</Month>
+<Day>5</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16950008</ArticleId>
+<ArticleId IdType="pii">S0264-410X(06)00730-4</ArticleId>
+<ArticleId IdType="doi">10.1016/j.vaccine.2006.06.017</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

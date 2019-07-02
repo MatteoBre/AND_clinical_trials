@@ -1,0 +1,472 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25885634</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>03</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1471-2407</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>15</Volume>
+<PubDate>
+<Year>2015</Year>
+<Month>Mar</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+<Title>BMC cancer</Title>
+<ISOAbbreviation>BMC Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Factors influencing participation in a randomized controlled resistance exercise intervention study in breast cancer patients during radiotherapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>186</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/s12885-015-1213-1</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Over the past years knowledge about benefits of physical activity after cancer is evolving from randomized exercise intervention trials. However, it has been argued that results may be biased by selective participation. Therefore, we investigated factors influencing participation in a randomized exercise intervention trial for breast cancer patients.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Non-metastatic breast cancer patients were systematically screened for a randomized exercise intervention trial on cancer-related fatigue. Participants and nonparticipants were compared concerning sociodemographic characteristics (age, marital status, living status, travel time to the training facility), clinical data (body-mass-index, tumor stage, tumor size and lymph node status, comorbidities, chemotherapy), fatigue, and physical activity. Reasons for participation or declination were recorded.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">117 patients (52 participants, 65 nonparticipants) were evaluable for analysis. Multiple regression analyses revealed significantly higher odds to decline participation among patients with longer travel time (p=0.0012), living alone (p=0.039), with more comorbidities (0.031), previous chemotherapy (p=0.0066), of age≥70 years (p=0.025), or being free of fatigue (p=0.0007). No associations were found with BMI or physical activity. By far the most frequently reported reason for declination of participation was too long commuting time to the training facility.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Willingness of breast cancer patients to participate in a randomized exercise intervention study differed by sociodemographic factors and health status. Neither current physical activity level nor BMI appeared to be selective for participation. Reduction of personal inconveniences and time effort, e.g. by decentralized training facilities or flexible training schedules, seem most promising for enhancing participation in exercise intervention trials.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">Registered at ClinicalTrials.gov: NCT01468766 (October 2011).</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gollhofer</LastName>
+<ForeName>Sandra M</ForeName>
+<Initials>SM</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Physical Activity and Cancer, Department of Preventive Oncology, German Cancer Research Center and National Center for Tumor Diseases, Im Neuenheimer Feld 460, 69120, Heidelberg, Germany. sandragollhofer@yahoo.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wiskemann</LastName>
+<ForeName>Joachim</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Physical Activity and Cancer, Department of Preventive Oncology, German Cancer Research Center and National Center for Tumor Diseases, Im Neuenheimer Feld 460, 69120, Heidelberg, Germany. joachim.wiskemann@nct-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, National Center for Tumor Diseases, Im Neuenheimer Feld 460, 69120, Heidelberg, Germany. joachim.wiskemann@nct-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>National Center for Tumor Diseases (NCT), Divisions of Medical Oncology and Preventive Oncology, Im Neuenheimer Feld 460, 69120, Heidelberg, Germany. joachim.wiskemann@nct-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmidt</LastName>
+<ForeName>Martina E</ForeName>
+<Initials>ME</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Physical Activity and Cancer, Department of Preventive Oncology, German Cancer Research Center and National Center for Tumor Diseases, Im Neuenheimer Feld 460, 69120, Heidelberg, Germany. m.schmidt@dkfz-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Unit of Environmental Epidemiology, German Cancer Research Center, Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. m.schmidt@dkfz-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Klassen</LastName>
+<ForeName>Oliver</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Physical Activity and Cancer, Department of Preventive Oncology, German Cancer Research Center and National Center for Tumor Diseases, Im Neuenheimer Feld 460, 69120, Heidelberg, Germany. oliver.klassen@nct-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ulrich</LastName>
+<ForeName>Cornelia M</ForeName>
+<Initials>CM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Preventive Oncology, National Center for Tumor Diseases, Im Neuenheimer Feld 460, 69120, Heidelberg, Germany. neli.ulrich@hci.utah.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oelmann</LastName>
+<ForeName>Jan</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, University of Heidelberg Medical Center, Im Neuenheimer Feld 400, 69120, Heidelberg, Germany. jan.oelmann@med.uni-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hof</LastName>
+<ForeName>Holger</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, University of Heidelberg Medical Center, Im Neuenheimer Feld 400, 69120, Heidelberg, Germany. hof@strahlentherapie-neustadt.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Potthoff</LastName>
+<ForeName>Karin</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, National Center for Tumor Diseases, Im Neuenheimer Feld 460, 69120, Heidelberg, Germany. karin.potthoff@med.uni-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, University of Heidelberg Medical Center, Im Neuenheimer Feld 400, 69120, Heidelberg, Germany. karin.potthoff@med.uni-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Steindorf</LastName>
+<ForeName>Karen</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Physical Activity and Cancer, Department of Preventive Oncology, German Cancer Research Center and National Center for Tumor Diseases, Im Neuenheimer Feld 460, 69120, Heidelberg, Germany. k.steindorf@dkfz-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Unit of Environmental Epidemiology, German Cancer Research Center, Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. k.steindorf@dkfz-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT01468766</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>03</Month>
+<Day>27</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>BMC Cancer</MedlineTA>
+<NlmUniqueID>100967800</NlmUniqueID>
+<ISSNLinking>1471-2407</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015897">Comorbidity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005081">Exercise Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005221">Fatigue</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006304">Health Status</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010342">Patient Acceptance of Health Care</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012111">Residence Characteristics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014186">Transportation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>03</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>4</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>4</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25885634</ArticleId>
+<ArticleId IdType="doi">10.1186/s12885-015-1213-1</ArticleId>
+<ArticleId IdType="pii">10.1186/s12885-015-1213-1</ArticleId>
+<ArticleId IdType="pmc">PMC4466838</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Surgery. 2007 Jul;142(1):94-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17630005</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2003 Jun 15;21(12):2268-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12805325</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2004 Jun 9;291(22):2720-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15187053</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2006 Jun 1;106(11):2452-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16639738</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 1999 Jul;10(7):809-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10470428</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Contemp Clin Trials. 2007 Nov;28(6):684-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17434812</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Clin Oncol. 2012 May;9(5):288-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22392097</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Oncol. 2013 Feb;52(2):195-215</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23244677</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2004 Jun 1;22(11):2046-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15082724</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Soz Praventivmed. 1999;44(2):55-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10407953</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Epidemiol. 1999 Dec;52(12):1143-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10580777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pflege. 2001 Jun;14(3):161-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12385268</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2001 Mar 15;19(6):1728-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11251003</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2002 Jul 2;137(1):10-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12093240</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Cancer. 2011 Jul;47(10):1490-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21454072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychooncology. 2015 Apr;24(4):465-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25285989</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncology (Williston Park). 2007 Mar;21(3):351-8; discussion 363-4, 367</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17447438</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2014 Nov;25(11):2237-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25096607</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2007 Oct 1;25(28):4396-404</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17785708</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trials. 2008 Nov 25;9:66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19032743</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Oncol (R Coll Radiol). 2010 Apr;22(3):208-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20110159</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Trials. 2011 Oct;8(5):616-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21813584</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Trials. 2011 Feb;8(1):85-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21163854</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2004 Aug 15;51(4):593-600</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15334432</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2003 Mar 1;21(5):830-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12610181</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncology. 2006;70(5):351-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17179729</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg. 2011 Sep;254(3):438-42; discussion 442-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21775882</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2015 Jan 1;121(1):77-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25155573</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Cancer. 2000 Jun;82(11):1783-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10839291</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Support Care Cancer. 2010 Nov;18(11):1367-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20502922</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Oncol. 2011 Jan;6(1):98-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21150469</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Pract. 1997 Nov-Dec;5(6):361-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9397704</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gynecol Oncol. 2007 Mar;104(3):551-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17064758</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Cancer. 2013;13:162</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23537231</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2012 Apr 15;118(8 Suppl):2261-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22488700</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

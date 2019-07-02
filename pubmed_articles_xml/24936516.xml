@@ -1,0 +1,636 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">24936516</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>06</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">2324-9269</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>2</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Molecular genetics &amp; genomic medicine</Title>
+<ISOAbbreviation>Mol Genet Genomic Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A rare sequence variant in intron 1 of THAP1 is associated with primary dystonia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>261-72</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/mgg3.67</ELocationID>
+<Abstract>
+<AbstractText>Although coding variants in THAP1 have been causally associated with primary dystonia, the contribution of noncoding variants remains uncertain. Herein, we examine a previously identified Intron 1 variant (c.71+9C&gt;A, rs200209986). Among 1672 subjects with mainly adult-onset primary dystonia, 12 harbored the variant in contrast to 1/1574 controls (P &lt; 0.01). Dystonia classification included cervical dystonia (N = 3), laryngeal dystonia (adductor subtype, N = 3), jaw-opening oromandibular dystonia (N = 1), blepharospasm (N = 2), and unclassified (N = 3). Age of dystonia onset ranged from 25 to 69 years (mean = 54 years). In comparison to controls with no identified THAP1 sequence variants, the c.71+9C&gt;A variant was associated with an elevated ratio of Isoform 1 (NM_018105) to Isoform 2 (NM_199003) in leukocytes. In silico and minigene analyses indicated that c.71+9C&gt;A alters THAP1 splicing. Lymphoblastoid cells harboring the c.71+9C&gt;A variant showed extensive apoptosis with relatively fewer cells in the G2 phase of the cell cycle. Differentially expressed genes from lymphoblastoid cells revealed that the c.71+9C&gt;A variant exerts effects on DNA synthesis, cell growth and proliferation, cell survival, and cytotoxicity. In aggregate, these data indicate that THAP1 c.71+9C&gt;A is a risk factor for adult-onset primary dystonia. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Vemula</LastName>
+<ForeName>Satya R</ForeName>
+<Initials>SR</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Neurology and Anatomy &amp; Neurobiology, University of Tennessee Health Science Center Memphis, Tennessee, 38163.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xiao</LastName>
+<ForeName>Jianfeng</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Neurology and Anatomy &amp; Neurobiology, University of Tennessee Health Science Center Memphis, Tennessee, 38163.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhao</LastName>
+<ForeName>Yu</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Neurology and Anatomy &amp; Neurobiology, University of Tennessee Health Science Center Memphis, Tennessee, 38163.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bastian</LastName>
+<ForeName>Robert W</ForeName>
+<Initials>RW</Initials>
+<AffiliationInfo>
+<Affiliation>Bastian Voice Institute Downers Grove, Illinois.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Perlmutter</LastName>
+<ForeName>Joel S</ForeName>
+<Initials>JS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Washington University School of Medicine St. Louis, Missouri.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Racette</LastName>
+<ForeName>Brad A</ForeName>
+<Initials>BA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Washington University School of Medicine St. Louis, Missouri.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paniello</LastName>
+<ForeName>Randal C</ForeName>
+<Initials>RC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Otolaryngology-Head and Neck Surgery, Washington University School of Medicine St. Louis, Missouri.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wszolek</LastName>
+<ForeName>Zbigniew K</ForeName>
+<Initials>ZK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Mayo Clinic Jacksonville, Florida, 32224.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Uitti</LastName>
+<ForeName>Ryan J</ForeName>
+<Initials>RJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Mayo Clinic Jacksonville, Florida, 32224.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Van Gerpen</LastName>
+<ForeName>Jay A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Mayo Clinic Jacksonville, Florida, 32224.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hedera</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Vanderbilt University Nashville, Tennessee.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Truong</LastName>
+<ForeName>Daniel D</ForeName>
+<Initials>DD</Initials>
+<AffiliationInfo>
+<Affiliation>Parkinson's &amp; Movement Disorder Institute Fountain Valley, California, 92708.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blitzer</LastName>
+<ForeName>Andrew</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>New York Center for Voice and Swallowing Disorders New York, New York.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rudzińska</LastName>
+<ForeName>Monika</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Jagiellonian University Medical College in Krakow Kraków, Poland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Momčilović</LastName>
+<ForeName>Dragana</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Clinic for Child Neurology and Psychiatry, Medical Faculty University of Belgrade Belgrade, Serbia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jinnah</LastName>
+<ForeName>Hyder A</ForeName>
+<Initials>HA</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Neurology, Human Genetics, and Pediatrics, School of Medicine, Emory University Atlanta, Georgia, 30322.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Frei</LastName>
+<ForeName>Karen</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Loma Linda University Health System Loma Linda, California, 92354.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pfeiffer</LastName>
+<ForeName>Ronald F</ForeName>
+<Initials>RF</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Neurology and Anatomy &amp; Neurobiology, University of Tennessee Health Science Center Memphis, Tennessee, 38163.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>LeDoux</LastName>
+<ForeName>Mark S</ForeName>
+<Initials>MS</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Neurology and Anatomy &amp; Neurobiology, University of Tennessee Health Science Center Memphis, Tennessee, 38163.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 NS082296</GrantID>
+<Acronym>NS</Acronym>
+<Agency>NINDS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 NS075321</GrantID>
+<Acronym>NS</Acronym>
+<Agency>NINDS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U54 TR001456</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 NS069936</GrantID>
+<Acronym>NS</Acronym>
+<Agency>NINDS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P50 NS072187</GrantID>
+<Acronym>NS</Acronym>
+<Agency>NINDS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>02</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Mol Genet Genomic Med</MedlineTA>
+<NlmUniqueID>101603758</NlmUniqueID>
+<ISSNLinking>2324-9269</ISSNLinking>
+</MedlineJournalInfo>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">DYT6</Keyword>
+<Keyword MajorTopicYN="N">Dystonia</Keyword>
+<Keyword MajorTopicYN="N">THAP1</Keyword>
+<Keyword MajorTopicYN="N">intronic variant</Keyword>
+<Keyword MajorTopicYN="N">minigene assay</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>31</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>01</Month>
+<Day>03</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>6</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>6</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>6</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24936516</ArticleId>
+<ArticleId IdType="doi">10.1002/mgg3.67</ArticleId>
+<ArticleId IdType="pmc">PMC4049367</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Nucleic Acids Res. 2010 Jun;38(10):3466-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20144952</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2000 Jan 1;28(1):27-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10592173</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comput Biol. 2004;11(2-3):377-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15285897</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurobiol Dis. 2011 May;42(2):152-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21081162</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2003 Apr 24;22(16):2432-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12717420</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2010 Jan 19;74(3):229-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20083799</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JIMD Rep. 2012;5:83-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23430921</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Res. 2002 Mar;12(1):9-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11942415</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Neurol. 2013 Mar;241:95-104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23195594</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mutat. 1998;12(3):153-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9711873</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Biol. 1993 Aug;158(2):330-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8344454</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Sci. 2010 Apr 1;123(Pt 7):1108-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20215406</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2002 Aug 9;297(5583):1007-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12114529</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comput Biol. 1997 Fall;4(3):311-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9278062</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2010 Oct 30;25(14):2420-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20687191</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parkinsonism Relat Disord. 2012 Jun;18(5):414-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22377579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Development. 2012 Jul;139(13):2308-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22669821</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 2012 Oct 19;586(20):3698-704</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22974659</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 2013 Feb 12;231:282-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23219941</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2011 Sep;26(11):2136-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21638323</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res Dev Brain Res. 2004 Aug 18;152(1):47-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15283994</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2013 Jun 15;28(7):968-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23893453</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1997 Sep;17(1):40-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9288096</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2007 Jan 15;109(2):584-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17003378</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aging Cell. 2012 Dec;11(6):996-1004</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22882466</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Dermatol. 2011 May;20(5):447-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21426410</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2009 Mar;41(3):286-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19182804</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Med Genet. 2013 Jul 13;14:70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23849371</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2000 Aug 24;19(36):4184-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10962581</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2010 Mar;95(3):1450-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20097709</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mol Genet. 2013 Jun 15;22(12):2510-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23449625</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2010 Oct;68(4):549-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20865765</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2003 Jul 1;31(13):3568-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12824367</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurochem. 2011 Sep;118(6):1087-100</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21752024</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Biol Cell. 1994 Nov;5(11):1225-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7865886</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2009 May;37(9):e67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19339519</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2007 Feb 27;104(9):3585-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17360686</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Genet Metab. 2010 Aug;100(4):339-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20488739</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parkinsonism Relat Disord. 2012 Jan;18 Suppl 1:S162-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22166421</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Neurol. 2013 Jun;244:22-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22015915</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2013 Jun 15;28(7):863-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23649720</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Biol. 2008 Dec 23;6(12):e1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19222302</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2012 Oct;72(4):628-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23109160</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Dev. 2004 Jun 1;18(11):1241-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15145827</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Struct Mol Biol. 2010 Jan;17(1):117-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20010837</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 2011 Mar 17;177:183-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21241782</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2005 Jul 1;33(Web Server issue):W741-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15980575</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Hum Genet. 2012 Feb;20(2):171-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21847143</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2005 May 10;102(19):6907-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15863623</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2013 Jan;45(1):88-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23222958</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2000 May;25(1):25-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10802651</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Genet. 2012;79:35-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22989765</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mol Biol. 1991 Jul 5;220(1):49-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2067018</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2011 Aug 15;26(10):1952-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21538522</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2010 Oct;68(4):554-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20976771</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2012 Apr;71(4):458-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22447717</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Neurol. 1998;78:1-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9750897</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

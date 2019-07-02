@@ -1,0 +1,147 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24026235</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>01</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>01</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1556-3308</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>43</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>The journal of behavioral health services &amp; research</Title>
+<ISOAbbreviation>J Behav Health Serv Res</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Barriers and Enablers to Integrating Mental Health into Primary Care: A Policy Analysis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>127-39</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s11414-013-9359-6</ELocationID>
+<Abstract>
+<AbstractText>Integrating care for physical health and behavioural health (mental health and addictions) has been a longstanding challenge, although research supports the clinical and cost effectiveness of integrated care for many clients. In one such model, primary care (PC) physicians work with specialist physicians and non-physician providers (NPPs) to provide mental health and addictions care in PC settings. This Ontario, Canada-focused policy analysis draws on research evidence to examine potential barriers and enablers to this model of integrated care, focusing on mental health. Funding challenges pertain to incentivizing PC physicians to select patients with mental illness, include NPPs on the treatment team, and collaborate with specialist providers. Legal/regulatory challenges pertain to NPP scopes of practice for prescribing and counselling. Integrated care also requires revising the role of the physician and distribution of functions among the team. Policy support to integrate addictions treatment in PC may face similar challenges but requires further exploration. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Durbin</LastName>
+<ForeName>Anna</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Health Policy, Management and Evaluation, University of Toronto, 155 College Street, Suite 425, Toronto, Ontario, M5T 3M6, Canada. Anna.durbin@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Durbin</LastName>
+<ForeName>Janet</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Provincial System Support Program, Center for Addiction and Mental Health, 33 Russell Street, Toronto, Ontario, M5S 2S1, Canada. Janet.Durbin@camh.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hensel</LastName>
+<ForeName>Jennifer M</ForeName>
+<Initials>JM</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Health Policy, Management and Evaluation, University of Toronto, 155 College Street, Suite 425, Toronto, Ontario, M5T 3M6, Canada. jennifer.hensel@mail.utoronto.ca.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Center for Addiction and Mental Health, 33 Russell Street, Toronto, Ontario, M5S 2S1, Canada. jennifer.hensel@mail.utoronto.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deber</LastName>
+<ForeName>Raisa</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Health Policy, Management and Evaluation, University of Toronto, 155 College Street, Suite 425, Toronto, Ontario, M5T 3M6, Canada. raisa.deber@utoronto.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Behav Health Serv Res</MedlineTA>
+<NlmUniqueID>9803531</NlmUniqueID>
+<ISSNLinking>1094-3412</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002170">Canada</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006291">Health Policy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001523">Mental Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008603">Mental Health</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008605">Mental Health Services</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010348">Patient Care Team</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011050">Policy Making</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011320">Primary Health Care</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>1</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24026235</ArticleId>
+<ArticleId IdType="doi">10.1007/s11414-013-9359-6</ArticleId>
+<ArticleId IdType="pii">10.1007/s11414-013-9359-6</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

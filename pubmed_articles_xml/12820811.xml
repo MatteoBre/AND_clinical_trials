@@ -1,0 +1,211 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12820811</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>10</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0277-0008</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>23</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2003</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pharmacotherapy</Title>
+<ISOAbbreviation>Pharmacotherapy</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Fracture risks for women in long-term care: high prevalence of calcaneal osteoporosis and hypovitaminosis D.</ArticleTitle>
+<Pagination>
+<MedlinePgn>702-10</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="STUDY OBJECTIVES" NlmCategory="OBJECTIVE">To determine the prevalence of osteoporosis as assessed by peripheral bone mineral density (BMD) in women living in a nursing home, to determine how many women with low BMD had received a diagnosis of osteoporosis, to assess the prevalence of vitamin D deficiency, and to seek reasons for vitamin D deficiency.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">Measurement of calcaneal BMD and serum 25-hydroxyvitamin D.</AbstractText>
+<AbstractText Label="SETTING" NlmCategory="METHODS">Skilled nursing facility.</AbstractText>
+<AbstractText Label="PATIENTS" NlmCategory="METHODS">Forty-nine women aged 68-100 years.</AbstractText>
+<AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">Bilateral calcaneal BMD was measured by dual-energy x-ray absorptiometry and serum 25-hydroxyvitamin D by radioimmunoassay. Medical records were reviewed to assess osteoporosis risk factors, previous documentation of osteoporosis or malabsorption, and supplemental vitamin D intake. Fifty-nine percent of the 39 women with calcaneal BMD measurements (95% confidence interval [CI] 44-74%) exhibited calcaneal osteoporosis (T score &lt; -2.5). Sixty percent (95% CI 46-74%) had 25-hydroxyvitamin D levels of 20 ng/ml or less, which is associated with secondary hyperparathyroidism; only 4% of women had levels above 30 ng/ml, recently recommended as optimal. Vitamin D status was suboptimal even in most women taking multivitamins. Osteoporosis was documented in the records of 17% of 23 women with calcaneal osteoporosis.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Osteoporosis was prevalent but poorly documented in women living in the nursing home. Peripheral BMD measurements have the potential to improve the recognition and management of osteoporosis in women in long-term care facilities. The high prevalence of vitamin D deficiency, even in those taking multivitamins, indicates that practical new approaches for vitamin D repletion in this population are urgently needed.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Elliott</LastName>
+<ForeName>Mary E</ForeName>
+<Initials>ME</Initials>
+<AffiliationInfo>
+<Affiliation>School of Pharmacy, University of Wisconsin, Madison 53705, USA. meelliott@pharmacy.wisc.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Binkley</LastName>
+<ForeName>Neil C</ForeName>
+<Initials>NC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carnes</LastName>
+<ForeName>Molly</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zimmerman</LastName>
+<ForeName>David R</ForeName>
+<Initials>DR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Petersen</LastName>
+<ForeName>Kim</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Knapp</LastName>
+<ForeName>Kathy</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Behlke</LastName>
+<ForeName>Jessica M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ahmann</LastName>
+<ForeName>Nancy</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kieser</LastName>
+<ForeName>Mara A</ForeName>
+<Initials>MA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pharmacotherapy</MedlineTA>
+<NlmUniqueID>8111305</NlmUniqueID>
+<ISSNLinking>0277-0008</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006887">Hydroxycholecalciferols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1406-16-2</RegistryNumber>
+<NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>SY7Q814VUP</RegistryNumber>
+<NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015519">Bone Density</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002118">Calcium</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050723">Fractures, Bone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006707">Homes for the Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006887">Hydroxycholecalciferols</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009735">Nursing Homes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015663">Osteoporosis, Postmenopausal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012306">Risk</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014807">Vitamin D</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014808">Vitamin D Deficiency</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014922">Wisconsin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>6</Month>
+<Day>25</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>10</Month>
+<Day>8</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>6</Month>
+<Day>25</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12820811</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

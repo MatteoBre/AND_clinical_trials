@@ -1,0 +1,133 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">9776789</PMID>
+<DateCompleted>
+<Year>1998</Year>
+<Month>12</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0090-4341</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>35</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1998</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Archives of environmental contamination and toxicology</Title>
+<ISOAbbreviation>Arch. Environ. Contam. Toxicol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Efficiency of safety measures applied to a manual knapsack sprayer for paraquat application to maize (Zea mays L.).</ArticleTitle>
+<Pagination>
+<MedlinePgn>698-701</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The objectives of the present study were to evaluate the safety of mixer/loaders and applicators of paraquat to maize crop by knapsack sprayers and to determine the efficacy of safety measures applied to the sprayers. Potential dermal exposure (PDE) was evaluated in 22 worker body parts. The Cu2+ cation of a copper-based fungicide was used as tracer in the spray solution. Sanitary pads and cotton gloves were used to collect the pesticide solution on the sampled body parts. It was observed that paraquat application in front of the applicator's body (0.5 and 1.0 m lance) is unsafe because PDE was 1,979.8 ml/day (for 0.5 m lance) and 1,290.4 ml/day (for 1.0 m lance) and needs 50-80% and 37-69% control of PDE respectively. Control can be achieved by the use of protective garment on the legs and feet only, which received 92-93% of the PDE. Switching the spray nozzle to the back of the operator reduced the PDE by 98% and was sufficient to make working conditions safe, while maintaining the efficiency of application and making the work lighter and more comfortable. Mixer/loaders received 86% of the PDE to the hands and the work condition was safe (MOS &gt; 1), however impermeable gloves could be used as a further safety measure.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Machado-Neto</LastName>
+<ForeName>J G</ForeName>
+<Initials>JG</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Crop Protection, School of Agricultural and Veterinary Sciences of Jaboticabal, São Paulo State University, Jaboticabal, São Paulo, Brazil.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matuo</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matuo</LastName>
+<ForeName>Y K</ForeName>
+<Initials>YK</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Arch Environ Contam Toxicol</MedlineTA>
+<NlmUniqueID>0357245</NlmUniqueID>
+<ISSNLinking>0090-4341</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006540">Herbicides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>PLG39H7695</RegistryNumber>
+<NameOfSubstance UI="D010269">Paraquat</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000383">Agriculture</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004867">Equipment Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006540">Herbicides</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016273">Occupational Exposure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010269">Paraquat</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011481">Protective Clothing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012449">Safety</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1998</Year>
+<Month>10</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1998</Year>
+<Month>10</Month>
+<Day>20</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1998</Year>
+<Month>10</Month>
+<Day>20</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9776789</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

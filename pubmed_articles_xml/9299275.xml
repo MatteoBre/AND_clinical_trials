@@ -1,0 +1,152 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">9299275</PMID>
+<DateCompleted>
+<Year>1997</Year>
+<Month>10</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0090-8258</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>66</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1997</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Gynecologic oncology</Title>
+<ISOAbbreviation>Gynecol. Oncol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Leuprolide in the treatment of endometrial cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>542</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Markman</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kennedy</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Webster</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peterson</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kulp</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Belinson</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Gynecol Oncol</MedlineTA>
+<NlmUniqueID>0365304</NlmUniqueID>
+<ISSNLinking>0090-8258</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018931">Antineoplastic Agents, Hormonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EFY6W0M8TG</RegistryNumber>
+<NameOfSubstance UI="D016729">Leuprolide</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018931">Antineoplastic Agents, Hormonal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016889">Endometrial Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016729">Leuprolide</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011643">Publishing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017211">Treatment Failure</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1997</Year>
+<Month>9</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1997</Year>
+<Month>9</Month>
+<Day>23</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1997</Year>
+<Month>9</Month>
+<Day>23</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9299275</ArticleId>
+<ArticleId IdType="pii">S0090-8258(97)94767-3</ArticleId>
+<ArticleId IdType="doi">10.1006/gyno.1997.4767</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

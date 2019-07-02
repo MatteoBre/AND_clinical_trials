@@ -1,0 +1,204 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22494666</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>10</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>06</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1532-3080</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>21</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Breast (Edinburgh, Scotland)</Title>
+<ISOAbbreviation>Breast</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Secretory carcinoma of the breast: results from the survival, epidemiology and end results database.</ArticleTitle>
+<Pagination>
+<MedlinePgn>350-3</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.breast.2012.02.013</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Secretory carcinoma of the breast is a rare breast cancer that is associated with incidence at a young age and an indolent course. The role for breast conservation and adjuvant radiation is unknown.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The SEER database was reviewed and 83 patients were identified with secretory carcinoma of the breast between the years 1983 and 2007. Baseline characteristics were compared with χ(2) or Fisher's exact test. Overall survival (OS) and cause-specific survival (CSS) were estimated using the Kaplan-Meier method. Analyses were performed using PASW Statistics, version 18.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Median follow-up was 70 months. Median patient age was 53 years (range 11-86 years). 29 patients (34.9%) had involved regional lymph nodes. 39 patients (47.0%) underwent lumpectomy and 44 patients (53.0%) underwent mastectomy. 35 patients (42.2%) received radiation. Patients receiving radiation were more likely to have undergone lumpectomy, and the use of radiation increased over time. 5-year OS was 87.2%; 10-year OS was 76.5%. 5-year CSS was 94.4%; 10-year CSS was 91.4%. Among the lumpectomy patients, 25 patients (64.1%) received radiation. For lumpectomy patients, those who did not receive radiation had a 5-year OS of 92.9% and 10-year OS of 72.2% while patients who did receive radiation had a 5-year OS of 95.5% and 10-year OS of 85.9%. Only 1 patient treated with lumpectomy only died of cancer (92.9% CSS) and no patients treated with lumpectomy and radiation died of cancer (100% CSS).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Secretory carcinoma of the breast commonly occurs at a later age than previously recognized, and is associated with good long-term survival.</AbstractText>
+<CopyrightInformation>Copyright © 2012 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Horowitz</LastName>
+<ForeName>David P</ForeName>
+<Initials>DP</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, New York Presbyterian Hospital-Columbia University Medical Center, 622 West 168th Street, NY 10032, USA. dph2119@columbia.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sharma</LastName>
+<ForeName>Charu S</ForeName>
+<Initials>CS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Connolly</LastName>
+<ForeName>Eileen</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gidea-Addeo</LastName>
+<ForeName>Daniela</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deutsch</LastName>
+<ForeName>Israel</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>04</Month>
+<Day>10</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Breast</MedlineTA>
+<NlmUniqueID>9213011</NlmUniqueID>
+<ISSNLinking>0960-9776</ISSNLinking>
+</MedlineJournalInfo>
+<SupplMeshList>
+<SupplMeshName Type="Disease" UI="C537535">Secretory breast carcinoma</SupplMeshName>
+</SupplMeshList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001940">Breast</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002277">Carcinoma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018426">SEER Program</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016387">Women's Health</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>10</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2012</Year>
+<Month>02</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>02</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>4</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>4</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>10</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22494666</ArticleId>
+<ArticleId IdType="pii">S0960-9776(12)00040-9</ArticleId>
+<ArticleId IdType="doi">10.1016/j.breast.2012.02.013</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

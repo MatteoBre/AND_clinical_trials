@@ -1,0 +1,706 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23775979</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>29</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1460-2156</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>136</Volume>
+<Issue>Pt 7</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Brain : a journal of neurology</Title>
+<ISOAbbreviation>Brain</ISOAbbreviation>
+</Journal>
+<ArticleTitle>In vivo radioligand binding to translocator protein correlates with severity of Alzheimer's disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2228-38</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1093/brain/awt145</ELocationID>
+<Abstract>
+<AbstractText>Neuroinflammation is a pathological hallmark of Alzheimer's disease, but its role in cognitive impairment and its course of development during the disease are largely unknown. To address these unknowns, we used positron emission tomography with (11)C-PBR28 to measure translocator protein 18 kDa (TSPO), a putative biomarker for inflammation. Patients with Alzheimer's disease, patients with mild cognitive impairment and older control subjects were also scanned with (11)C-Pittsburgh Compound B to measure amyloid burden. Twenty-nine amyloid-positive patients (19 Alzheimer's, 10 mild cognitive impairment) and 13 amyloid-negative control subjects were studied. The primary goal of this study was to determine whether TSPO binding is elevated in patients with Alzheimer's disease, and the secondary goal was to determine whether TSPO binding correlates with neuropsychological measures, grey matter volume, (11)C-Pittsburgh Compound B binding, or age of onset. Patients with Alzheimer's disease, but not those with mild cognitive impairment, had greater (11)C-PBR28 binding in cortical brain regions than controls. The largest differences were seen in the parietal and temporal cortices, with no difference in subcortical regions or cerebellum. (11)C-PBR28 binding inversely correlated with performance on Folstein Mini-Mental State Examination, Clinical Dementia Rating Scale Sum of Boxes, Logical Memory Immediate (Wechsler Memory Scale Third Edition), Trail Making part B and Block Design (Wechsler Adult Intelligence Scale Third Edition) tasks, with the largest correlations observed in the inferior parietal lobule. (11)C-PBR28 binding also inversely correlated with grey matter volume. Early-onset (&lt;65 years) patients had greater (11)C-PBR28 binding than late-onset patients, and in parietal cortex and striatum (11)C-PBR28 binding correlated with lower age of onset. Partial volume corrected and uncorrected results were generally in agreement; however, the correlation between (11)C-PBR28 and (11)C-Pittsburgh Compound B binding was seen only after partial volume correction. The results suggest that neuroinflammation, indicated by increased (11)C-PBR28 binding to TSPO, occurs after conversion of mild cognitive impairment to Alzheimer's disease and worsens with disease progression. Greater inflammation may contribute to the precipitous disease course typically seen in early-onset patients. (11)C-PBR28 may be useful in longitudinal studies to mark the conversion from mild cognitive impairment or to assess response to experimental treatments of Alzheimer's disease. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kreisl</LastName>
+<ForeName>William C</ForeName>
+<Initials>WC</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Imaging Branch, National Institute of Mental Health, Bethesda, MD, USA. kreislw@mail.nih.gov</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lyoo</LastName>
+<ForeName>Chul Hyoung</ForeName>
+<Initials>CH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McGwier</LastName>
+<ForeName>Meghan</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Snow</LastName>
+<ForeName>Joseph</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jenko</LastName>
+<ForeName>Kimberly J</ForeName>
+<Initials>KJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kimura</LastName>
+<ForeName>Nobuyo</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Corona</LastName>
+<ForeName>Winston</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morse</LastName>
+<ForeName>Cheryl L</ForeName>
+<Initials>CL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zoghbi</LastName>
+<ForeName>Sami S</ForeName>
+<Initials>SS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pike</LastName>
+<ForeName>Victor W</ForeName>
+<Initials>VW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McMahon</LastName>
+<ForeName>Francis J</ForeName>
+<Initials>FJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Turner</LastName>
+<ForeName>R Scott</ForeName>
+<Initials>RS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Innis</LastName>
+<ForeName>Robert B</ForeName>
+<Initials>RB</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>Biomarkers Consortium PET Radioligand Project Team</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 AG026478</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>06</Month>
+<Day>17</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Brain</MedlineTA>
+<NlmUniqueID>0372537</NlmUniqueID>
+<ISSNLinking>0006-8950</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C526315">(methyl-(11)C)N-acetyl-N-(2-methoxybenzyl)-2-phenoxy-5-pyridinamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C475519">2-(4'-(methylamino)phenyl)-6-hydroxybenzothiazole</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016229">Amyloid beta-Peptides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000814">Aniline Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011743">Pyrimidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018079">Receptors, GABA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C499229">TSPO protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D013844">Thiazoles</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017668">Age of Onset</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000544">Alzheimer Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016229">Amyloid beta-Peptides</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000704">Analysis of Variance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000814">Aniline Compounds</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001931">Brain Mapping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003072">Cognition Disorders</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009483">Neuropsychological Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049268">Positron-Emission Tomography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011569">Psychiatric Status Rating Scales</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011743">Pyrimidines</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018079">Receptors, GABA</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013223">Statistics as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013844">Thiazoles</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Alzheimer’s disease</Keyword>
+<Keyword MajorTopicYN="N">mild cognitive impairment</Keyword>
+<Keyword MajorTopicYN="N">neuroinflammation</Keyword>
+<Keyword MajorTopicYN="N">positron emission tomography</Keyword>
+</KeywordList>
+<InvestigatorList>
+<Investigator ValidYN="Y">
+<LastName>Borroni</LastName>
+<ForeName>Edilio</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Brady</LastName>
+<ForeName>Linda</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Finn</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hargreaves</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Innis</LastName>
+<ForeName>Robert</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Koroshetz</LastName>
+<ForeName>Walter</ForeName>
+<Initials>W</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kreisl</LastName>
+<ForeName>William</ForeName>
+<Initials>W</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>McCarthy</LastName>
+<ForeName>Timothy</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mozley</LastName>
+<ForeName>P  David</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ostrowitzki</LastName>
+<ForeName>Susanne</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pike</LastName>
+<ForeName>Victor</ForeName>
+<Initials>V</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rabiner</LastName>
+<ForeName>Eugenni</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Shearman</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Siuciak</LastName>
+<ForeName>Judith</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sur</LastName>
+<ForeName>Cyrille</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Tauscher</LastName>
+<ForeName>Johannes</ForeName>
+<Initials>J</Initials>
+</Investigator>
+</InvestigatorList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>8</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23775979</ArticleId>
+<ArticleId IdType="pii">awt145</ArticleId>
+<ArticleId IdType="doi">10.1093/brain/awt145</ArticleId>
+<ArticleId IdType="pmc">PMC3692038</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Neurology. 2012 Sep 11;79(11):1161-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22933741</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2012 Jul;72(1):82-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22829270</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 2013 Jan;33(1):53-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22968319</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2013 Jan;54(1):70-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23166389</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 2002 Jan 31;33(3):341-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11832223</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Neuropsychopharmacol Biol Psychiatry. 2003 Aug;27(5):741-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12921904</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cereb Cortex. 2004 Jan;14(1):11-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14654453</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2004 Mar;55(3):306-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14991808</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Intern Med. 2004 Sep;256(3):183-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15324362</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1984 Jul;34(7):939-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6610841</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2005 Jan;76(1):112-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15608008</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Geriatr Psychiatry. 2004 Dec;19(12):1140-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15526308</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 1995 Feb;36(2):167-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7830108</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2005 Aug;128(Pt 8):1790-801</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15888536</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 2005 Nov;25(11):1528-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15944649</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dis Markers. 2006;22(1-2):95-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16410654</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2001 Aug 11;358(9280):461-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11513911</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Glia. 2006 Apr 1;53(5):484-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16369931</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2006 Mar;47(3):520-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16513622</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2006 Jul 1;31(3):968-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16530430</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Pharmacol Sci. 2006 Aug;27(8):402-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16822554</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2006 Oct 15;33(1):17-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16904912</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 2007 Jan;27(1):173-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16685259</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2007 Mar;130(Pt 3):720-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17293358</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2007 Apr;13(4):432-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17351623</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Synapse. 2007 Aug;61(8):595-605</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17455247</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Alzheimers Dis Other Demen. 2007 Jun-Jul;22(3):218-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17606531</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 2007 Sep;27(9):1533-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17519979</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroradiology. 2007 Dec;49(12):967-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17955233</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2008 Mar 1;40(1):43-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18093844</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2008 Mar;131(Pt 3):665-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18263627</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuropathol Exp Neurol. 2008 Oct;67(10):1001-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18800007</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Psychiatry. 2008 Nov 15;64(10):835-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18514164</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurobiol Dis. 2008 Dec;32(3):412-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18786637</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Nucl Med Mol Imaging. 2008 Dec;35(12):2304-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18828015</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2009 Jan 6;72(1):56-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19122031</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 2009 Jan;66(1):60-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19139300</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurochem Int. 2009 Jan;54(1):28-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18984021</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alzheimer Dis Assoc Disord. 2009 Apr-Jun;23(2):91-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19474567</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2009 May;65(5):557-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19475670</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Neuropathol. 2009 Oct;118(4):475-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19513731</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2009 Sep 8;73(10):754-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19587325</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2009 Oct 13;73(15):1186-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19726751</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2010 Feb 15;49(4):2924-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19948230</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2010 Feb;133(Pt 2):512-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20080878</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurodegener Dis. 2010;7(1-3):38-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20160456</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2011 Jan;52(1):24-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21149489</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2011 Jan;69(1):181-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21280088</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Nucl Med Mol Imaging. 2011 Jun;38(6):1104-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21336694</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alzheimers Dement. 2011 May;7(3):270-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21514249</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alzheimers Dement. 2011 May;7(3):263-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21514250</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 2012 Jan;32(1):1-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22008728</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2012 Jul;135(Pt 7):2126-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22628162</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurobiol Aging. 2013 Jan;34(1):128-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22840559</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,654 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22289909</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>07</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1469-7793</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>590</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Mar</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of physiology</Title>
+<ISOAbbreviation>J. Physiol. (Lond.)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Ascorbate prevents placental oxidative stress and enhances birth weight in hypoxic pregnancy in rats.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1377-87</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1113/jphysiol.2011.226340</ELocationID>
+<Abstract>
+<AbstractText>This study isolated the effects of maternal hypoxia independent of changes in maternal nutrition on maternal circulatory and placental molecular indices of oxidative stress and determined whether maternal antioxidant treatment conferred protection. Pregnant rats were subjected to normoxic pregnancy or 13% O2 chronic hypoxia for most of gestation with and without maternal treatment with vitamin C in the drinking water. Maternal hypoxia with and without vitamin C did not affect maternal food or water intake and led to a significant increase in maternal and fetal haematocrit. At gestational day 20, maternal plasma urate and L-cysteine concentrations, and placental levels of 4-hydroxynonenal and heat shock protein 70 were increased while placental heat shock protein 90 levels were decreased in hypoxic pregnancy. The induction of maternal circulatory and placental molecular indices of oxidative stress in hypoxic pregnancies was prevented by maternal treatment with vitamin C. Maternal hypoxia during pregnancy with or without vitamin C increased placental weight, but not total or compartmental volumes. Maternal treatment with vitamin C increased birth weight in both hypoxic and normoxic pregnancies. The data show that maternal hypoxia independent of maternal undernutrition promotes maternal and placental indices of oxidative stress, effects that can be prevented by maternal treatment with vitamin C in hypoxic pregnancy. While vitamin C may not be the ideal candidate of choice for therapy in pregnant women, and taking into consideration differences in ascorbic acid metabolism between rats and humans, the data do underlie that antioxidant treatment may provide a useful intervention to improve placental function and protect fetal growth in pregnancy complicated by fetal hypoxia.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Richter</LastName>
+<ForeName>H G</ForeName>
+<Initials>HG</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physiology, Development and Neuroscience, University of Cambridge, Cambridge CB2 3EG, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Camm</LastName>
+<ForeName>E J</ForeName>
+<Initials>EJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Modi</LastName>
+<ForeName>B N</ForeName>
+<Initials>BN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Naeem</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cross</LastName>
+<ForeName>C M</ForeName>
+<Initials>CM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cindrova-Davies</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spasic-Boskovic</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunster</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mudway</LastName>
+<ForeName>I S</ForeName>
+<Initials>IS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kelly</LastName>
+<ForeName>F J</ForeName>
+<Initials>FJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Burton</LastName>
+<ForeName>G J</ForeName>
+<Initials>GJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Poston</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giussani</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>G1000758</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<Agency>Biotechnology and Biological Sciences Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<Agency>British Heart Foundation</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>01</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Physiol</MedlineTA>
+<NlmUniqueID>0266262</NlmUniqueID>
+<ISSNLinking>0022-3751</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000975">Antioxidants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>268B43MJ25</RegistryNumber>
+<NameOfSubstance UI="D014527">Uric Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.11.1.6</RegistryNumber>
+<NameOfSubstance UI="D002374">Catalase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.15.1.1</RegistryNumber>
+<NameOfSubstance UI="D013482">Superoxide Dismutase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>K848JZ4886</RegistryNumber>
+<NameOfSubstance UI="D003545">Cysteine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>PQ6CK8PD0R</RegistryNumber>
+<NameOfSubstance UI="D001205">Ascorbic Acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000831">Animals, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000975">Antioxidants</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001205">Ascorbic Acid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001724">Birth Weight</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002374">Catalase</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003545">Cysteine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006400">Hematocrit</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000860">Hypoxia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018384">Oxidative Stress</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010920">Placenta</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011248">Pregnancy Complications</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017208">Rats, Wistar</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013482">Superoxide Dismutase</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014527">Uric Acid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22289909</ArticleId>
+<ArticleId IdType="pii">jphysiol.2011.226340</ArticleId>
+<ArticleId IdType="doi">10.1113/jphysiol.2011.226340</ArticleId>
+<ArticleId IdType="pmc">PMC3382329</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Nutr. 2007 Oct;137(10):2171-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17884994</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Res. 2000 Mar 17;86(5):494-501</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10720409</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2008;(1):CD004227</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18254042</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Exp Med Biol. 2007;618:113-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18269192</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr Biochem. 2008 Apr;19(4):207-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17707628</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Reprod Fertil Dev. 2011;23(2):285-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21211461</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respir Physiol Neurobiol. 2011 Aug 31;178(1):181-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21536153</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dtsch Tierarztl Wochenschr. 1991 Nov;98(11):424-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1764986</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Obstet Gynecol. 1994 Dec;171(6):1560-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7802068</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Soc Gynecol Investig. 1996 Jul-Aug;3(4):179-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8796828</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 1996 Nov;17(8):677-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8916218</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vasc Res. 2012;49(1):50-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21985843</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Obstet Gynecol. 2010 Nov;203(5):495.e24-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20708165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Res. 2001 Apr;49(4):490-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11264431</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2001 Aug 14;98(17):9842-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11504949</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 2001 Sep;159(3):1031-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11549595</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Rev. 2002 Jan;82(1):47-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11773609</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Med Res. 2002 May-Jun;33(3):276-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12031634</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Reprod. 2002 Sep;67(3):1025-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12193417</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2003 Jan;24(1):1-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12555746</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2003 Feb-Mar;24(2-3):191-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12566246</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Res. 2003 Jul;54(1):20-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12700368</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biofactors. 2003;17(1-4):249-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12897446</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Heart Circ Physiol. 2003 Sep;285(3):H983-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12750058</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aviat Space Environ Med. 2003 Sep;74(9):922-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14503669</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endothelium. 2004 Mar-Apr;11(2):109-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15370070</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Carcinogenesis. 2004 Oct;25(10):1899-909</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15192013</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Microsc. 1981 Jan;121(Pt 1):65-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7014910</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 1981 Nov 10;256(21):10986-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7287745</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Dev Physiol. 1982 Aug;4(4):237-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7175121</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anal Biochem. 1984 Aug 15;141(1):238-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6496931</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Neonate. 1986;49(2):85-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3697431</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Anat. 1987 Feb;150:247-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3654338</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 1988 May-Jun;9(3):327-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3050973</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2010 Nov 1;588(Pt 21):4235-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20807788</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Free Radic Biol Med. 1997;23(5):793-803</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9296457</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chem Res Toxicol. 1997 Nov;10(11):1285-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9403183</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Regul Integr Comp Physiol. 2005 Feb;288(2):R360-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15528396</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2005 Nov;26(10):773-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16226128</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hypertension. 2005 Dec;46(6):1263-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16246973</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Expert Rev Mol Med. 2006;8(3):1-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16438753</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2006 Apr 8;367(9517):1145-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16616557</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Mol Med. 2006 May;12(5):223-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16616640</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FASEB J. 2006 Jun;20(8):1251-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16632594</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 2006 Aug;169(2):400-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16877342</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hypertens Pregnancy. 2006;25(3):169-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17065038</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 2007 May;170(5):1511-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17456758</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Biosci. 2007;12:2967-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17485273</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 2007 Jun;170(6):2171-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17525282</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Res. 2007 Jul 15;75(2):247-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17466957</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2007 Aug-Sep;28(8-9):846-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17292468</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2008 Mar;29 Suppl A:S67-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18093648</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Res Rev. 2008 Jul;28(4):569-631</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18058921</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Perinat Med. 2008;36(4):282-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18598116</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Res. 2009 Mar 1;81(4):713-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19088083</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BJOG. 2009 May;116(6):780-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19432566</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pineal Res. 2009 May;46(4):357-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19552758</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Placenta. 2010 Mar;31 Suppl:S66-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20110125</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2010 Apr;120(4):1069-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20200446</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Biochem Cell Biol. 2010 Oct;42(10):1634-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20601089</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Res. 2010 Nov;68(5):374-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20613682</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pineal Res. 2010 Nov;49(4):399-406</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20958954</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obstet Gynecol. 2007 Dec;110(6):1311-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18055726</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

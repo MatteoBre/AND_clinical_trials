@@ -1,0 +1,363 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26181553</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>10</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1536-5964</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>94</Volume>
+<Issue>28</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Medicine</Title>
+<ISOAbbreviation>Medicine (Baltimore)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The Clinical Characteristics of Primary Sjogren's Syndrome With Neuromyelitis Optica Spectrum Disorder in China: A STROBE-Compliant Article.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e1145</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/MD.0000000000001145</ELocationID>
+<Abstract>
+<AbstractText>The aim of the present study was to analyze the clinical characteristics of primary Sjogren's syndrome (pSS) with neuromyelitis optica spectrum disorder (NMOSD). We retrospectively reviewed the medical records of 616 patients who were admitted to the Peking Union Medical College Hospital from 1985 to 2013. Of these patients, 43 developed NMOSD. The median duration of symptoms was 60 months and 72% of the patients experienced neurological complications onset in the pSS with NMOSD group. Twenty-one out of 43 patients had neuromyelitis optica (NMO), and 22 exhibited a limited form of NMO. Serum anti-aquaporin-4 (AQP4) antibody positivity was detected in 89.3% of the patients. A total of 60.5% of the patients (26 patients) complained of dry mouth, 72.1% were positive for objective xerostomia, 53.5% complained of dry eyes, and 74.4% had a positive ocular test. Biopsy of the minor salivary glands was performed in 33 patients, 28 of whom (84.8%) had a lymphocytic focus score of ≥1. Anti-Ro/SSA or anti-La/SSB antibodies were detected in 41 patients (95.3%). Compared with the pSS patients without NMOSD, the incidences of xerophthalmia, xerostomia, arthritis, interstitial lung disease, and renal tubular acidosis were significantly lower in the patients with NMOSD. NMOSD is a neurologic complication of pSS. The presence of anti-AQP4 antibody may be a predictor for pSS patients with NMOSD. Neurological manifestations are prominent in these patients. In clinical scenarios involving pSS or NMOSD, rheumatologists and neurologists should be aware of this association and perform the appropriate tests.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Qiao</LastName>
+<ForeName>Lin</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>From the Department of Rheumatology and Clinical Immunology(LQ,WQ,YF,WZ,Yan Zhao,XZ,FZ); and Department of Neurology(YX,Yao Zhang), Peking Union Medical College Hospital, Chinese Academy of Medical Sciences &amp; Peking Union Medical College, Beijing, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Qian</ForeName>
+<Initials>Q</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fei</LastName>
+<ForeName>Yunyun</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Wen</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xu</LastName>
+<ForeName>Yan</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Yao</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhao</LastName>
+<ForeName>Yan</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zeng</LastName>
+<ForeName>Xiaofeng</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Fengchun</ForeName>
+<Initials>F</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D064888">Observational Study</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Medicine (Baltimore)</MedlineTA>
+<NlmUniqueID>2985248R</NlmUniqueID>
+<ISSNLinking>0025-7974</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D002681">China</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009471">Neuromyelitis Optica</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012859">Sjogren's Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26181553</ArticleId>
+<ArticleId IdType="doi">10.1097/MD.0000000000001145</ArticleId>
+<ArticleId IdType="pii">00005792-201507030-00022</ArticleId>
+<ArticleId IdType="pmc">PMC4617097</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Ann Neurol. 2006 Mar;59(3):566-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16453327</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2010 Feb;81(2):213-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20145030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Exp Med. 2005 Aug 15;202(4):473-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16087714</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Medicine (Baltimore). 2004 Sep;83(5):280-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15342972</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 2006 Jul;63(7):964-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16831965</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Saudi Med J. 2009 Aug;30(8):1067-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19668890</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1971 Jun 28;216(13):2109-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4932139</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 2002 Jun;61(6):554-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12006334</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Arthritis Rheum. 2011 Feb;40(4):343-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20655576</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2006 May 23;66(10):1485-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16717206</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochim Biophys Acta. 2006 Aug;1758(8):1061-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16537077</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Treat Options Neurol. 2008 Jan;10(1):55-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18325300</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2006 Sep;77(9):1073-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16505005</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1999 Sep 22;53(5):1107-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10496275</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler. 2008 Jul;14(6):809-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18573828</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Zh Nevrol Psikhiatr Im S S Korsakova. 2012;112(2 Pt 2):69-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22677682</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Immunol Immunopathol. 1994 Aug;72(2):162-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8050187</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA Neurol. 2013 Sep 1;70(9):1110-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23897062</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Exp Rheumatol. 1990 Jul-Aug;8 Suppl 5:3-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2245523</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Neurol. 2007 Sep;6(9):805-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17706564</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Sci. 2000 Jun 15;176(2):158-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10930601</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 1994 Jun;37(6):869-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8003059</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Sci. 2015 Jan 15;348(1-2):132-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25500159</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler. 2009 Sep;15(9):1069-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19625331</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arq Neuropsiquiatr. 2014 Aug;72(8):619-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25098478</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2004 Dec 11-17;364(9451):2106-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15589308</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA Neurol. 2013 Mar 1;70(3):390-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23599943</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler. 2012 Jun;18(6):807-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22291033</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 1997 Sep 1;25(17):3389-402</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9254694</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Rheumatol. 2006 Feb;25(1):113-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15980937</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Case Rep Neurol Med. 2014;2014:590292</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25161786</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,319 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17164314</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>05</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0021-972X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>92</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of clinical endocrinology and metabolism</Title>
+<ISOAbbreviation>J. Clin. Endocrinol. Metab.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Elevations in serum and urinary calcium with parathyroid hormone (1-84) with and without alendronate for osteoporosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>942-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">The effect of PTH therapy on serum and urinary calcium levels and the risk of hypercalcemia or hypercalciuria has not been formally evaluated.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective was to examine changes in serum and urinary calcium associated with PTH(1-84) therapy in the PaTH trial and the extent to which a defined algorithm resolved the elevated values.</AbstractText>
+<AbstractText Label="DESIGN, SETTING, PARTICIPANTS, AND INTERVENTION" NlmCategory="METHODS">A total of 178 postmenopausal women were randomized to PTH(1-84) either alone or in combination with alendronate during the first year of the PaTH study.</AbstractText>
+<AbstractText Label="MAIN OUTCOME MEASURE(S)" NlmCategory="METHODS">The main outcome measures were fasting serum calcium at baseline and 1, 3, and 12 months and 24-h urinary calcium at baseline and 3 months.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">In 14% of participants, serum calcium more than 10.5 mg/dl (&gt;2.6 mmol/liter) developed. Following the defined algorithm, 58% of elevated measurements were normal on repeat testing; 38% required discontinuation of calcium and vitamin D supplementation, and one necessitated a decrease in PTH injection frequency to normalize serum calcium. One participant developed transient hypercalcemia between study visits and required hospitalization; the episode resolved with iv hydration and PTH discontinuation. Baseline characteristics associated with the development of hypercalcemia were serum calcium [relative hazards = 1.9 per 0.5 mg/dl (0.12 mmol/liter); 95% confidence interval = 1.1-3.2] and serum 1,25-dihydroxyvitamin D [relative hazard = 1.9 per 10 pg/ml (26 pmol/liter); 95% confidence interval = 1.2-3.1]. Fifteen women (8%) developed hypercalciuria [urinary calcium &gt; 400 mg (100 mmol)/24 h or calcium/creatinine ratio &gt; 0.4]; 80% of cases resolved after discontinuing calcium and vitamin D, 13% without intervention, and one after PTH injection frequency was decreased. Higher baseline urinary calcium excretion was associated with development of hypercalciuria [relative hazard = 1.5 per 50 mg/d (12.5 mmol/d); 95% confidence interval = 1.2-4.0]. Proportions of patients with elevated serum and urinary calcium were similar on single and combination therapy.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The frequency of episodic hypercalcemia or hypercalciuria in the PaTH trial was 21%. Episodes were generally mild, and nearly all cases resolved spontaneously or with discontinuation of calcium and vitamin D. The algorithms used to address hypercalcemia and hypercalciuria in the PaTH trial proved effective in safely resolving clinical episodes of increased urinary or serum calcium and might therefore be helpful to clinicians caring for patients on PTH.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Antoniucci</LastName>
+<ForeName>Diana M</ForeName>
+<Initials>DM</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Endocrinology, Department of Medicine, University of California, San Francisco, California 94107, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sellmeyer</LastName>
+<ForeName>Deborah E</ForeName>
+<Initials>DE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bilezikian</LastName>
+<ForeName>John P</ForeName>
+<Initials>JP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palermo</LastName>
+<ForeName>Lisa</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ensrud</LastName>
+<ForeName>Kristine E</ForeName>
+<Initials>KE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Greenspan</LastName>
+<ForeName>Susan L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Black</LastName>
+<ForeName>Dennis M</ForeName>
+<Initials>DM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>N01 AR002245</GrantID>
+<Acronym>AR</Acronym>
+<Agency>NIAMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 AG024827</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 TR000005</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-AR-9-2245</GrantID>
+<Acronym>AR</Acronym>
+<Agency>NIAMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>12</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Clin Endocrinol Metab</MedlineTA>
+<NlmUniqueID>0375362</NlmUniqueID>
+<ISSNLinking>0021-972X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D050071">Bone Density Conservation Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010919">Placebos</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>SY7Q814VUP</RegistryNumber>
+<NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>X1J18R4W8P</RegistryNumber>
+<NameOfSubstance UI="D019386">Alendronate</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019386">Alendronate</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050071">Bone Density Conservation Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002118">Calcium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004359">Drug Therapy, Combination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006934">Hypercalcemia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053565">Hypercalciuria</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015663">Osteoporosis, Postmenopausal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010281">Parathyroid Hormone</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010919">Placebos</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>14</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>5</Month>
+<Day>11</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>14</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17164314</ArticleId>
+<ArticleId IdType="pii">jc.2006-1788</ArticleId>
+<ArticleId IdType="doi">10.1210/jc.2006-1788</ArticleId>
+<ArticleId IdType="pmc">PMC3746103</ArticleId>
+<ArticleId IdType="mid">NIHMS50170</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>N Engl J Med. 2003 Sep 25;349(13):1207-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14500804</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2000 Sep;85(9):3069-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10999788</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1997 Aug 23;350(9077):550-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9284777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr Biochem. 1990 Jun;1(6):320-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15539222</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Miner Res. 2003 Jan;18(1):9-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12510800</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2003 Nov;88(11):5212-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14602752</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2003 Sep 25;349(13):1216-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14500805</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bone. 2000 Aug;27(2):311-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10913928</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2001 May 10;344(19):1434-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11346808</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br Med J. 1973 Dec 15;4(5893):643-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4758544</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2002 Oct 16;288(15):1889-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12377088</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Osteoporos Int. 1999;9(4):296-306</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10550446</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

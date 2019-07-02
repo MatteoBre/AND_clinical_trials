@@ -1,0 +1,252 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15548719</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>02</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>11</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0008-5472</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>64</Volume>
+<Issue>22</Issue>
+<PubDate>
+<Year>2004</Year>
+<Month>Nov</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Cancer research</Title>
+<ISOAbbreviation>Cancer Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>CYP3A4, CYP3A5, and CYP3A43 genotypes and haplotypes in the etiology and severity of prostate cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>8461-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The CYP3A genes reside on chromosome 7q21 in a multigene cluster. The enzyme products of CYP3A4 and CYP3A43 are involved in testosterone metabolism. CYP3A4 and CYP3A5 have been associated previously with prostate cancer occurrence and severity. To comprehensively examine the effects of these genes on prostate cancer occurrence and severity, we studied 622 incident prostate cancer cases and 396 controls. Substantial and race-specific linkage disequilibrium was observed between CYP3A4 and CYP3A5 in both races but not between other pairs of loci. We found no association of CYP3A5 genotypes with prostate cancer or disease severity. CYP3A43*3 was associated with family history-positive prostate cancer (age- and race-adjusted odds ratio = 5.86, 95% confidence interval, 1.10-31.16). CYP3A4*1B was associated inversely with the probability of having prostate cancer in Caucasians (age-adjusted odds ratio = 0.54, 95% confidence interval, 0.32-0.94). We also observed significant interactions among these loci associated with prostate cancer occurrence and severity. There were statistically significant differences in haplotype frequencies involving these three genes in high-stage cases (P &lt; 0.05) compared with controls. The observation that CYP3A4 and CYP3A43 were associated with prostate cancer, are not in linkage equilibrium, and are both involved in testosterone metabolism, suggest that both CYP3A4*1B and CYP3A43*3 may influence the probability of having prostate cancer and disease severity.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zeigler-Johnson</LastName>
+<ForeName>Charnita</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biostatistics and Epidemiology, University of Pennsylvania School of Medicine, Philadelphia, Pennsylvania 19104-6021, USA. czeigler@cceb.med.upenn.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Friebel</LastName>
+<ForeName>Tara</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Walker</LastName>
+<ForeName>Amy H</ForeName>
+<Initials>AH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Yiting</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spangler</LastName>
+<ForeName>Elaine</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Panossian</LastName>
+<ForeName>Saarene</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Patacsil</LastName>
+<ForeName>Margerie</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aplenc</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wein</LastName>
+<ForeName>Alan J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Malkowicz</LastName>
+<ForeName>S Bruce</ForeName>
+<Initials>SB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rebbeck</LastName>
+<ForeName>Timothy R</ForeName>
+<Initials>TR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P50-CA105641</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01-CA85074</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R29-ES08031</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+<ISSNLinking>0008-5472</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017931">DNA Primers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9035-51-2</RegistryNumber>
+<NameOfSubstance UI="D003577">Cytochrome P-450 Enzyme System</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.14.1</RegistryNumber>
+<NameOfSubstance UI="D001189">Aryl Hydrocarbon Hydroxylases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.14.1</RegistryNumber>
+<NameOfSubstance UI="C104464">CYP3A protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.14.1</RegistryNumber>
+<NameOfSubstance UI="C422408">CYP3A43 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.14.1</RegistryNumber>
+<NameOfSubstance UI="C510164">CYP3A5 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.14.1</RegistryNumber>
+<NameOfSubstance UI="D051544">Cytochrome P-450 CYP3A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.14.55</RegistryNumber>
+<NameOfSubstance UI="C510163">CYP3A4 protein, human</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001189">Aryl Hydrocarbon Hydroxylases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051544">Cytochrome P-450 CYP3A</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003577">Cytochrome P-450 Enzyme System</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017931">DNA Primers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006239">Haplotypes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012720">Severity of Illness Index</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2004</Year>
+<Month>11</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>2</Month>
+<Day>25</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2004</Year>
+<Month>11</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15548719</ArticleId>
+<ArticleId IdType="pii">64/22/8461</ArticleId>
+<ArticleId IdType="doi">10.1158/0008-5472.CAN-04-1651</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

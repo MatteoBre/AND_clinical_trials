@@ -1,0 +1,131 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">3130559</PMID>
+<DateCompleted>
+<Year>1988</Year>
+<Month>06</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2004</Year>
+<Month>11</Month>
+<Day>17</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0026-6620</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>85</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1988</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Missouri medicine</Title>
+<ISOAbbreviation>Mo Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Penicillinase-producing Neisseria gonorrhoeae, Kansas City.</ArticleTitle>
+<Pagination>
+<MedlinePgn>145-7</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Aubin</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weaver</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hoff</LastName>
+<ForeName>G L</ForeName>
+<Initials>GL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Biery</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Mo Med</MedlineTA>
+<NlmUniqueID>0400744</NlmUniqueID>
+<ISSNLinking>0026-6620</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.5.2.-</RegistryNumber>
+<NameOfSubstance UI="D010405">Penicillinase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D008923">Missouri</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009344">Neisseria gonorrhoeae</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000201">enzymology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010403">Penicillin Resistance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010405">Penicillinase</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013587">Syphilis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1988</Year>
+<Month>3</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1988</Year>
+<Month>3</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1988</Year>
+<Month>3</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3130559</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

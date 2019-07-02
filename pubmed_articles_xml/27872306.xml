@@ -1,0 +1,621 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">27872306</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>04</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>01</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1091-6490</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>113</Volume>
+<Issue>49</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>06</Day>
+</PubDate>
+</JournalIssue>
+<Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+<ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Paired quantitative and qualitative assessment of the replication-competent HIV-1 reservoir and comparison with integrated proviral DNA.</ArticleTitle>
+<Pagination>
+<MedlinePgn>E7908-E7916</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>HIV-1-infected individuals harbor a latent reservoir of infected CD4<sup>+</sup> T cells that is not eradicated by antiretroviral therapy (ART). This reservoir presents the greatest barrier to an HIV-1 cure and has remained difficult to characterize, in part, because the vast majority of integrated sequences are defective and incapable of reactivation. To characterize the replication-competent reservoir, we have combined two techniques, quantitative viral outgrowth and qualitative sequence analysis of clonal outgrowth viruses. Leukapheresis samples from four fully ART-suppressed, chronically infected individuals were assayed at two time points separated by a 4- to 6-mo interval. Overall, 54% of the viruses emerging from the latent reservoir showed gp160 env sequences that were identical to at least one other virus. Moreover, 43% of the env sequences from viruses emerging from the reservoir were part of identical groups at the two time points. Groups of identical expanded sequences made up 54% of proviral DNA, and, as might be expected, the sequences of replication-competent viruses in the active reservoir showed limited overlap with integrated proviral DNA, most of which is known to represent defective viruses. Finally, there was an inverse correlation between proviral DNA clone size and the probability of reactivation, suggesting that replication-competent viruses are less likely to be found among highly expanded provirus-containing cell clones.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lorenzi</LastName>
+<ForeName>Julio C C</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Molecular Immunology, The Rockefeller University, New York, NY 10065.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cohen</LastName>
+<ForeName>Yehuda Z</ForeName>
+<Initials>YZ</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Molecular Immunology, The Rockefeller University, New York, NY 10065.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cohn</LastName>
+<ForeName>Lillian B</ForeName>
+<Initials>LB</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Molecular Immunology, The Rockefeller University, New York, NY 10065.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kreider</LastName>
+<ForeName>Edward F</ForeName>
+<Initials>EF</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barton</LastName>
+<ForeName>John P</ForeName>
+<Initials>JP</Initials>
+<Identifier Source="ORCID">0000-0003-1467-421X</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Chemical Engineering, Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Biological Engineering, Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Learn</LastName>
+<ForeName>Gerald H</ForeName>
+<Initials>GH</Initials>
+<Identifier Source="ORCID">0000-0003-0434-7733</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oliveira</LastName>
+<ForeName>Thiago</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Molecular Immunology, The Rockefeller University, New York, NY 10065.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lavine</LastName>
+<ForeName>Christy L</ForeName>
+<Initials>CL</Initials>
+<AffiliationInfo>
+<Affiliation>Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA 02215.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Horwitz</LastName>
+<ForeName>Joshua A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Molecular Immunology, The Rockefeller University, New York, NY 10065.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Settler</LastName>
+<ForeName>Allison</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Molecular Immunology, The Rockefeller University, New York, NY 10065.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jankovic</LastName>
+<ForeName>Mila</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Molecular Immunology, The Rockefeller University, New York, NY 10065.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seaman</LastName>
+<ForeName>Michael S</ForeName>
+<Initials>MS</Initials>
+<AffiliationInfo>
+<Affiliation>Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA 02215.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chakraborty</LastName>
+<ForeName>Arup K</ForeName>
+<Initials>AK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Chemical Engineering, Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Biological Engineering, Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hahn</LastName>
+<ForeName>Beatrice H</ForeName>
+<Initials>BH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA 19104.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Caskey</LastName>
+<ForeName>Marina</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Molecular Immunology, The Rockefeller University, New York, NY 10065.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nussenzweig</LastName>
+<ForeName>Michel C</ForeName>
+<Initials>MC</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Molecular Immunology, The Rockefeller University, New York, NY 10065; nussen@rockefeller.edu.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Howard Hughes Medical Institute, The Rockefeller University, New York, NY 10065.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>UM1 AI126620</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 TR000043</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>T32 AI070084</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 TR001866</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI118536</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>KL2 TR001865</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>21</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+<NlmUniqueID>7505876</NlmUniqueID>
+<ISSNLinking>0027-8424</ISSNLinking>
+</MedlineJournalInfo>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="ErratumIn">
+<RefSource>Proc Natl Acad Sci U S A. 2017 Jan 17;:</RefSource>
+<PMID Version="1">28096398</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">HIV</Keyword>
+<Keyword MajorTopicYN="Y">culture</Keyword>
+<Keyword MajorTopicYN="Y">method</Keyword>
+<Keyword MajorTopicYN="Y">replication-competent</Keyword>
+<Keyword MajorTopicYN="Y">reservoir</Keyword>
+</KeywordList>
+<CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27872306</ArticleId>
+<ArticleId IdType="pii">1617789113</ArticleId>
+<ArticleId IdType="doi">10.1073/pnas.1617789113</ArticleId>
+<ArticleId IdType="pmc">PMC5150408</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Intern Med. 2011 Dec;270(6):550-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21929712</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2006 Nov 1;22(21):2688-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16928733</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Host Microbe. 2016 May 11;19(5):588-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27173927</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Res Hum Retroviruses. 2007 Mar;23(3):381-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17411371</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1997 Nov 25;94(24):13193-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9371822</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2016 Feb;126(2):415-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26752643</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2003 Jun;9(6):727-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12754504</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2008 Oct 28;105(43):16725-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18936487</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Protoc Immunol. 2005 Jan;Chapter 12:Unit 12.11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18432938</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2015 Nov 1;212(9):1345-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25877551</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2015 Nov 11;90(3):1673-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26559835</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Pathog. 2016 Aug 05;12(8):e1005689</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27494508</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1998 Jul 21;95(15):8869-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9671771</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 1999 May;5(5):512-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10229227</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2012 Sep 24;26(15):1885-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22992577</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2015 Jun 25;522(7557):487-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25855300</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2015 Nov 1;212(9):1361-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25877550</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2011 May;85(10):5220-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21367910</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Protoc. 2008;3(3):363-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18323807</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods Mol Biol. 2016;1354:239-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26714716</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Commun. 2016 Sep 08;7:12731</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27605062</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 1999 Nov;73(11):9404-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10516049</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2013 Oct 24;155(3):540-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24243014</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1997 May 8;387(6629):183-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9144289</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Immunol. 2015 Jun;16(6):584-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25990814</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2015 Aug 15;212(4):596-607</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25712966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Microbiol. 2016 May;24(5):345-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26875617</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Evolution. 2008 Sep;62(9):2411-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18564377</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2016 Jul 28;535(7613):556-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27338952</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 1995 Dec;1(12):1284-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7489410</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2012 Nov 20;109(47):E3268-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23115339</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2013 Dec 17;110(51):E4987-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24277811</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2013 Feb;87(3):1770-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23175380</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2015 Jan 29;160(3):420-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25635456</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2017 Feb 1;74(2):221-228</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27683060</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2016 May 20;352(6288):1001-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27199430</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2014 Aug 1;345(6196):570-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25011556</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2016 Sep;22(9):1043-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27500724</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cold Spring Harb Perspect Med. 2011 Sep;1(1):a007096</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22229121</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Commun. 2016 Mar 03;7:10844</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26936020</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2011 Sep 30;147(1):95-106</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21962510</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Microbiol. 2016 Jan;14 (1):55-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26616417</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2016 Feb 16;113(7):1883-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26858442</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Pathog. 2012 Feb;8(2):e1002506</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22319447</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2014 Jun 27;344(6191):1519-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24970088</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2014 Aug 28;158(5):989-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25131989</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2009 Jun 9;106(23):9403-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19470482</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2004 Jan 22;20(2):289-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14734327</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2014 Jul 11;345(6193):179-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24968937</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Syst Biol. 2010 May;59(3):307-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20525638</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Pathog. 2013 Feb;9(2):e1003174</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23459007</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2005 Aug;79(16):10108-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16051804</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

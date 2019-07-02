@@ -1,0 +1,130 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24931689</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>07</Month>
+<Day>29</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1474-547X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>383</Volume>
+<Issue>9934</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Jun</Month>
+<Day>14</Day>
+</PubDate>
+</JournalIssue>
+<Title>Lancet (London, England)</Title>
+<ISOAbbreviation>Lancet</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Tobacco in China.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2045-2046</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="pii" ValidYN="Y">S0140-6736(14)60995-8</ELocationID>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/S0140-6736(14)60995-8</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Dan</LastName>
+<ForeName>Xiao</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Beijing Chao-Yang Hospital, Capital Medical University, Beijing 100020, China; Beijing Institute of Respiratory Medicine, Beijing, China. Electronic address: danxiao@263.net.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yuankai</LastName>
+<ForeName>Shi</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, Cancer Institute Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, National Center for Anti-cancer Drugs Clinical Study, Beijing Key Laboratory of Clinical Study on Anticancer Molecular Targeted Drugs, Beijing, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>Wang</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Beijing Institute of Respiratory Medicine, Beijing, China; National Clinical Research Centre for repiratory disease, Beijing Hospital, Beijing, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Lancet</MedlineTA>
+<NlmUniqueID>2985213R</NlmUniqueID>
+<ISSNLinking>0140-6736</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Lancet. 2014 Apr 19;383(9926):1360</RefSource>
+<PMID Version="1">24759237</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011356">Product Labeling</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000331">legislation &amp; jurisprudence</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012907">Smoking</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D062789">Tobacco Products</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>6</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>6</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>7</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24931689</ArticleId>
+<ArticleId IdType="pii">S0140-6736(14)60995-8</ArticleId>
+<ArticleId IdType="doi">10.1016/S0140-6736(14)60995-8</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

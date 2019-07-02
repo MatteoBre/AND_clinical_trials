@@ -1,0 +1,683 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27488495</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>01</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1471-2466</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>16</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Aug</Month>
+<Day>04</Day>
+</PubDate>
+</JournalIssue>
+<Title>BMC pulmonary medicine</Title>
+<ISOAbbreviation>BMC Pulm Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Adiposity influences airway wall thickness and the asthma phenotype of HIV-associated obstructive lung disease: a cross-sectional study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>111</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/s12890-016-0274-5</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Airflow obstruction, which encompasses several phenotypes, is common among HIV-infected individuals. Obesity and adipose-related inflammation are associated with both COPD (fixed airflow obstruction) and asthma (reversible airflow obstruction) in HIV-uninfected persons, but the relationship to airway inflammation and airflow obstruction in HIV-infected persons is unknown. The objective of this study was to determine if adiposity and adipose-associated inflammation are associated with airway obstruction phenotypes in HIV-infected persons.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We performed a cross-sectional analysis of 121 HIV-infected individuals assessed with pulmonary function testing, chest CT scans for measures of airway wall thickness (wall area percent [WA%]) and adipose tissue volumes (mediastinal and subcutaneous), as well as HIV- and adipose-related inflammatory markers. Participants were defined as COPD phenotype (post-bronchodilator FEV1/FVC &lt; lower limit of normal) or asthma phenotype (doctor-diagnosed asthma or bronchodilator response). Pearson correlation coefficients were calculated between adipose measurements, WA%, and pulmonary function. Multivariable logistic and linear regression models were used to determine associations of airflow obstruction and airway remodeling (WA%) with adipose measurements and participant characteristics.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Twenty-three (19 %) participants were classified as the COPD phenotype and 33 (27 %) were classified as the asthma phenotype. Body mass index (BMI) was similar between those with and without COPD, but higher in those with asthma compared to those without (mean [SD] 30.7 kg/m(2) [8.1] vs. 26.5 kg/m(2) [5.3], p = 0.008). WA% correlated with greater BMI (r = 0.55, p &lt; 0.001) and volume of adipose tissue (subcutaneous, r = 0.40; p &lt; 0.001; mediastinal, r = 0.25; p = 0.005). Multivariable regression found the COPD phenotype associated with greater age and pack-years smoking; the asthma phenotype with younger age, female gender, smoking history, and lower adiponectin levels; and greater WA% with greater BMI, younger age, higher soluble CD163, and higher CD4 counts.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Adiposity and adipose-related inflammation are associated with an asthma phenotype, but not a COPD phenotype, of obstructive lung disease in HIV-infected persons. Airway wall thickness is associated with adiposity and inflammation. Adipose-related inflammation may play a role in HIV-associated asthma.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Barton</LastName>
+<ForeName>Julia H</ForeName>
+<Initials>JH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ireland</LastName>
+<ForeName>Alex</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fitzpatrick</LastName>
+<ForeName>Meghan</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kessinger</LastName>
+<ForeName>Cathy</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Camp</LastName>
+<ForeName>Danielle</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weinman</LastName>
+<ForeName>Renee</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>McMahon</LastName>
+<ForeName>Deborah</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leader</LastName>
+<ForeName>Joseph K</ForeName>
+<Initials>JK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holguin</LastName>
+<ForeName>Fernando</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wenzel</LastName>
+<ForeName>Sally E</ForeName>
+<Initials>SE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morris</LastName>
+<ForeName>Alison</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Immunology, University of Pittsburgh, Pittsburgh, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gingo</LastName>
+<ForeName>Matthew R</ForeName>
+<Initials>MR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Pittsburgh, Pittsburgh, USA. gingomr@upmc.edu.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Division of Pulmonary, Allergy, and Critical Care Medicine, Department of Medicine, University of Pittsburgh, 3459 Fifth Avenue, 628 NW, Pittsburgh, PA, 15213, USA. gingomr@upmc.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>K24 HL123342</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL083461S</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024153</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 1233342</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL083461</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K23 HL108697</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>08</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>BMC Pulm Med</MedlineTA>
+<NlmUniqueID>100968563</NlmUniqueID>
+<ISSNLinking>1471-2466</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D056151">Airway Remodeling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001249">Asthma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003430">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005541">Forced Expiratory Volume</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016014">Linear Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008168">Lung</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015999">Multivariate Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009765">Obesity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010414">Pennsylvania</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010641">Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D029424">Pulmonary Disease, Chronic Obstructive</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012907">Smoking</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Adiponectin</Keyword>
+<Keyword MajorTopicYN="N">Asthma</Keyword>
+<Keyword MajorTopicYN="N">COPD</Keyword>
+<Keyword MajorTopicYN="N">HIV</Keyword>
+<Keyword MajorTopicYN="N">Lipodystrophy</Keyword>
+<Keyword MajorTopicYN="N">Obesity</Keyword>
+<Keyword MajorTopicYN="N">Obstructive lung disease</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>1</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27488495</ArticleId>
+<ArticleId IdType="doi">10.1186/s12890-016-0274-5</ArticleId>
+<ArticleId IdType="pii">10.1186/s12890-016-0274-5</ArticleId>
+<ArticleId IdType="pmc">PMC4973076</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>CMAJ. 2006 Apr 25;174(9):1293-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16636330</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiology. 2005 Feb;234(2):604-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15671010</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2009 Jul 21;4(7):e6328</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19621086</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2011;6(5):e19968</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21625498</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antivir Ther. 2015 ;20(2):235-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25810377</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 1999 Jan;159(1):179-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9872837</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Physiol Funct Imaging. 2012 Jul;32(4):288-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22681606</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Public Health. 2014 Feb 13;14:161</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24524286</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2011 Jul 1;204(1):154-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21628670</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2005 May;115(5):897-909; quiz 910</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15867841</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Allergy Asthma Immunol. 2009 Aug;103(2):101-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19739421</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stat Med. 1997 May 15;16(9):965-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9160492</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respir Med. 2011 Nov;105(11):1655-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21703841</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2003 Oct 15;168(8):983-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12829452</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thorax. 2002 Mar;57(3):247-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11867830</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2011 Jun;127(6):1486-93.e2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21624618</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2013 Sep 1;188(5):561-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23777323</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2012 Mar;129(3):708-714.e8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22177327</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2005 Oct;26(4):720-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16204605</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2003 May;88(5):1961-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12727939</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst. 2014 Oct 01;106(11):null</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25274579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2013 May 15;27(8):1303-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23299176</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obesity (Silver Spring). 2013 Dec;21(12):2437-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23512476</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 1996 Feb;153(2):656-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8564114</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2005 Nov;26(5):948-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16264058</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2005 Aug;26(2):319-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16055882</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2011 Jan 1;56(1):36-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20930640</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2010 Mar;108(3):744-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19926824</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2001 May;163(6):1470-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11371420</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Infect Dis. 2014 Jun 23;14:347</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24958357</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2014 Jan;43(1):195-203</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23429919</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thorax. 2008 Dec;63(12 ):1110-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19020276</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2006 Nov;130(5):1326-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17099007</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2014 Jul 17;28(11):1635-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24809732</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2006 Dec;118(6):1284-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17157658</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 1997 Jan;111(1):121-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8996005</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2015 Mar 3;162(5):335-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25732274</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Clin Invest. 2009 Aug;39(8):671-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19490068</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2011 Dec;140(6):1524-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21799027</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Res Hum Retroviruses. 2013 Jul;29(7):1019-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23469772</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2014 Oct 15;190(8):951-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25317466</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2008 Dec;134(6):1183-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18641116</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2010 Sep 15;182(6):790-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20522793</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Behav Immun. 2015 Mar;45:1-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25449672</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin HIV AIDS. 2010 Nov;5(6):498-503</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20978393</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obesity (Silver Spring). 2007 Feb;15(2):370-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17299110</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Pulm Med. 2014 Dec 22;14:208</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25532602</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2011 Sep;128(3):508-15.e1-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21782230</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Phys. 2007 Jul;34(7):2844-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17821992</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Diabetes Res. 2012;2012:103063</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22203832</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Med. 2008 Oct 21;5(10):e203</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18942885</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antiviral Res. 2001 Sep;51(3):151-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11448728</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Rev Respir Dis. 1979 Jan;119(1):45-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">420437</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2009 Jun;123(6):1328-34.e1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19501235</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Asthma. 2011 Apr;48(3):217-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21332421</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2010 Jun 15;201(12):1788-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20446848</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thorax. 2012 Apr;67(4):309-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22090038</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2000 Sep;162(3 Pt 1):1102-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10988137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2000 Oct;162(4 Pt 1):1518-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11029371</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

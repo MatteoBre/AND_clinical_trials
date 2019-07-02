@@ -1,0 +1,564 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27810919</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>05</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1468-330X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>87</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of neurology, neurosurgery, and psychiatry</Title>
+<ISOAbbreviation>J. Neurol. Neurosurg. Psychiatry</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Higher latitude is significantly associated with an earlier age of disease onset in multiple sclerosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1343-1349</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1136/jnnp-2016-314013</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Age at onset (AAO) in multiple sclerosis (MS) is an important marker of disease severity and may have prognostic significance. Understanding what factors can influence AAO may shed light on the aetiology of this complex disease, and have applications in the diagnostic process.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The study cohort of 22 162 eligible patients from 21 countries was extracted from the MSBase registry. Only patients with MS aged ≥16 years were included. To reduce heterogeneity, only centres of largely European descent were included for analysis. AAO was defined as the year of the first symptom suggestive of inflammatory central nervous system demyelination. Predictors of AAO were evaluated by linear regression.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Compared with those living in lower latitudes (19.0-39.9°), onset of symptoms was 1.9 years earlier for those at higher latitudes (50.0-56.0°) (p=3.83×10<sup>-23</sup>). A reciprocal relationship was seen for ambient ultraviolet radiation (UVR), with a significantly increasing AAO for patients with MS per each quartile increment of ambient UVR (p=1.56×10<sup>-17</sup>). We found that the AAO of female patients was ∼5 months earlier than male patients (p=0.002). AAO of progressive-onset patients with MS were ∼9 years later than relapsing-onset patients (p=1.40×10<sup>-265</sup>).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">An earlier AAO in higher latitude regions was found in this worldwide European-descent cohort and correlated inversely with variation in latitudinal UVR. These results suggest that environmental factors which act at the population level may significantly influence disease severity characteristics in genetically susceptible populations.</AbstractText>
+<CopyrightInformation>Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to http://www.bmj.com/company/products-services/rights-and-licensing/.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Tao</LastName>
+<ForeName>Chunrong</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Menzies Institute for Medical Research, University of Tasmania, Hobart, Tasmania, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Simpson</LastName>
+<ForeName>Steve</ForeName>
+<Initials>S</Initials>
+<Suffix>Jr</Suffix>
+<Identifier Source="ORCID">http://orcid.org/0000-0001-6521-3056</Identifier>
+<AffiliationInfo>
+<Affiliation>Menzies Institute for Medical Research, University of Tasmania, Hobart, Tasmania, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>van der Mei</LastName>
+<ForeName>Ingrid</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Menzies Institute for Medical Research, University of Tasmania, Hobart, Tasmania, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blizzard</LastName>
+<ForeName>Leigh</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Menzies Institute for Medical Research, University of Tasmania, Hobart, Tasmania, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Havrdova</LastName>
+<ForeName>Eva</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Faculty of Medicine, Center of Clinical Neuroscience, 1st General University Hospital and Charles University in Prague, Prague, Czech Republic.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Horakova</LastName>
+<ForeName>Dana</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology and Center of Clinical Neuroscience, First Faculty of Medicine, Charles University in Prague, General University Hospital, Prague, Czech Republic.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shaygannejad</LastName>
+<ForeName>Vahid</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Al-Zahra Hospital, Isfahan University of Medical Sciences, Isfahan, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lugaresi</LastName>
+<ForeName>Alessandra</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biomedical and NeuroMotor Sciences (DIBINEM), Alma Mater Studiorum-Università di Bologna, Bologna, Italy.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>IRCCS Istituto delle Scienze Neurologiche-"UOSI Riabilitazione Sclerosi Multipla", Bologna, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Izquierdo</LastName>
+<ForeName>Guillermo</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital Universitario Virgen Macarena, Sevilla, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Trojano</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Basic Medical Sciences, Neuroscience and Sense Organs, University of Bari, Bari, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Duquette</LastName>
+<ForeName>Pierre</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>CHUM-Hôpital Notre Dame, Montreal, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Girard</LastName>
+<ForeName>Marc</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>CHUM-Hôpital Notre Dame, Montreal, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grand'Maison</LastName>
+<ForeName>Franois</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Neuro Rive-Sud, Hôpital Charles LeMoyne, Quebec, Quebec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grammond</LastName>
+<ForeName>Pierre</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>CISSS Chaudiere-Appalaches, Levis, Quebec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alroughani</LastName>
+<ForeName>Raed</ForeName>
+<Initials>R</Initials>
+<Identifier Source="ORCID">http://orcid.org/0000-0001-5436-5804</Identifier>
+<AffiliationInfo>
+<Affiliation>Amiri Hospital, Kuwait City, Kuwait.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Terzi</LastName>
+<ForeName>Murat</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Mayis University, Samsun, Turkey.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oreja-Guevara</LastName>
+<ForeName>Celia</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>University Hospital San Carlos, IdISSC, Madrid, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sajedi</LastName>
+<ForeName>Seyed Aidin</ForeName>
+<Initials>SA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Golestan University of Medical Sciences, Gorgan, Iran.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Iuliano</LastName>
+<ForeName>Gerardo</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Ospedali Riuniti di Salerno, Salerno, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sola</LastName>
+<ForeName>Patrizia</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neuroscience, Universitu of Modena e Reggio Emilia, Nuovo Ospedale Civile S. Agostino/Estense, Modena, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lechner-Scott</LastName>
+<ForeName>Jeannette</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>John Hunter Hospital, University of Newcastle, Hunter Medical Research Institute, Newcastle, New South Wales, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pesch</LastName>
+<ForeName>Vincent Van</ForeName>
+<Initials>VV</Initials>
+<AffiliationInfo>
+<Affiliation>Cliniques Universitaires Saint-Luc, Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pucci</LastName>
+<ForeName>Eugenio</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Neurology Unit, ASUR Marche-AV 3, Macerata, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bergamaschi</LastName>
+<ForeName>Roberto</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>C. Mondino National Neurological Institute, Pavia, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barnett</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Brain and Mind Research Institute, Sydney, New South Wales, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ramo</LastName>
+<ForeName>Cristina</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital Germans Trias I Pujol, Badalona, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Singhal</LastName>
+<ForeName>Bhim</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Bombay Hospital Institute of Medical Sciences, Mumbai, India.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>LA Spitaleri</LastName>
+<ForeName>Daniele</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>AORN San Giuseppe Moscati Avellino, Avellino, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Slee</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Flinders University and Medical Centre, Adelaide, South Australia, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Verheul</LastName>
+<ForeName>Freek</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Groene Hart Ziekenhuis, Gouda, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fernández Bolaños</LastName>
+<ForeName>Ricardo</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital Universitario Virgen de Valme, Sevilla, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Amato</LastName>
+<ForeName>Maria Pia</ForeName>
+<Initials>MP</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurofarba, Section of Neurosciences, University of Florence, Florence, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cristiano</LastName>
+<ForeName>Edgardo</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital Italiano, Buenos Aries, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Granella</LastName>
+<ForeName>Franco</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neuroscience, University of Parma, Parma, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hodgkinson</LastName>
+<ForeName>Suzanne</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Liverpool Hospital, Liverpool, New South Wales, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fiol</LastName>
+<ForeName>Marcela</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>FLENI, Buenos Aries, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gray</LastName>
+<ForeName>Orla</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Ulster Hospital, Dundonald, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>McCombe</LastName>
+<ForeName>Pamela</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>St Andrew's Place, Brisbane, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saladino</LastName>
+<ForeName>Maria Laura</ForeName>
+<Initials>ML</Initials>
+<AffiliationInfo>
+<Affiliation>INEBA, Buenos Aries, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sánchez Menoyo</LastName>
+<ForeName>José Luis</ForeName>
+<Initials>JL</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital de Galdakao-Usansolo, Galdakao, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shuey</LastName>
+<ForeName>Neil</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>St Vincent's Hospital, Melbourne, Victoria, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vucic</LastName>
+<ForeName>Steve</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Westmead Hospital, Sydney, New South Wales, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shaw</LastName>
+<ForeName>Cameron</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Geelong Hospital, Geelong, Victoria, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deri</LastName>
+<ForeName>Norma</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital Fernandez, Capital Federal, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arruda</LastName>
+<ForeName>Walter Oleschko</ForeName>
+<Initials>WO</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital Ecoville, Curitiba, Brazil.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Butzkueven</LastName>
+<ForeName>Helmut</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Royal Melbourne Hospital, University of Melbourne, Melbourne, Victoria, Australia.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Eastern Health, Monash University, Box Hill, Victoria, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spelman</LastName>
+<ForeName>Tim</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Royal Melbourne Hospital, University of Melbourne, Melbourne, Victoria, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taylor</LastName>
+<ForeName>Bruce V</ForeName>
+<Initials>BV</Initials>
+<AffiliationInfo>
+<Affiliation>Menzies Institute for Medical Research, University of Tasmania, Hobart, Tasmania, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>MSBase Study Group</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>03</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Neurol Neurosurg Psychiatry</MedlineTA>
+<NlmUniqueID>2985191R</NlmUniqueID>
+<ISSNLinking>0022-3050</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017668">Age of Onset</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001315">Australia</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005060">Europe</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005823">Genetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D062306">Geography, Medical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009103">Multiple Sclerosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020529">Multiple Sclerosis, Relapsing-Remitting</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014466">Ultraviolet Rays</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>05</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2016</Year>
+<Month>08</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>09</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>5</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27810919</ArticleId>
+<ArticleId IdType="pii">jnnp-2016-314013</ArticleId>
+<ArticleId IdType="doi">10.1136/jnnp-2016-314013</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

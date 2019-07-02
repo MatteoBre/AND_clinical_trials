@@ -1,0 +1,139 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26067263</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>06</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-4954</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>29</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2016</Year>
+</PubDate>
+</JournalIssue>
+<Title>The journal of maternal-fetal &amp; neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians</Title>
+<ISOAbbreviation>J. Matern. Fetal. Neonatal. Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Optimal timing for delivery in case of placenta previa: late-preterm or early-term?</ArticleTitle>
+<Pagination>
+<MedlinePgn>1498</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3109/14767058.2015.1051958</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bouet</LastName>
+<ForeName>Pierre-Emmanuel</ForeName>
+<Initials>PE</Initials>
+<AffiliationInfo>
+<Affiliation>a Department of Obstetrics and Gynecology , Angers University , Angers , France and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>El Hachem</LastName>
+<ForeName>Hady</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>b Department of Obstetrics and Gynecology , Saint Joseph University , Beirut , Lebanon.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>06</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Matern Fetal Neonatal Med</MedlineTA>
+<NlmUniqueID>101136916</NlmUniqueID>
+<ISSNLinking>1476-4954</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>J Matern Fetal Neonatal Med. 2015;28(15):1756-61</RefSource>
+<PMID Version="1">25283850</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>J Matern Fetal Neonatal Med. 2016;29(14):2280-1</RefSource>
+<PMID Version="1">26365039</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D036861">Delivery, Obstetric</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005865">Gestational Age</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010923">Placenta Previa</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011256">Pregnancy Outcome</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047928">Premature Birth</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>6</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>6</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26067263</ArticleId>
+<ArticleId IdType="doi">10.3109/14767058.2015.1051958</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

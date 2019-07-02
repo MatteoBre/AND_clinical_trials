@@ -1,0 +1,439 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26340153</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1982-4335</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>27</Volume>
+<Issue>2</Issue>
+<PubDate>
+<MedlineDate>2015 Apr-Jun</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Revista Brasileira de terapia intensiva</Title>
+<ISOAbbreviation>Rev Bras Ter Intensiva</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Implementation and results of a new ECMO program for lung transplantation and acute respiratory distress.</ArticleTitle>
+<Pagination>
+<MedlinePgn>134-40</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.5935/0103-507X.20150024</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0103-507X2015000200134</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The development of the extracorporeal membrane oxygenation in Latin America represents a challenge in this specialty field. The objective of this article was to describe the results of a new extracorporeal membrane oxygenation program in an intensive care unit.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">This retrospective cohort study included 22 patients who required extracorporeal membrane oxygenation and were treated from January 2011 to June 2014. The baseline characteristics, indications, duration of the condition, days on mechanical ventilation, days in the intensive care unit, complications, and hospital mortality were evaluated.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Fifteen patients required extracorporeal membrane oxygenation after lung transplantation, and seven patients required oxygenation due to acute respiratory distress. All transplanted patients were weaned from extracorporeal membrane oxygenation with a median duration of 3 days (Interquartile range - IQR: 2 - 5), were on mechanical ventilation for a median of 15.5 days (IQR: 3 - 25), and had an intensive care unit stay of 31.5 days (IQR: 19 - 53) and a median hospital stay of 60 days (IQR: 36 - 89) with 20% mortality. Patients with acute respiratory distress had a median oxygenation membrane duration of 9 days (IQR: 3 - 14), median mechanical ventilation time of 25 days (IQR: 13 - 37), a 31 day stay in therapy (IQR: 11 - 38), a 32 day stay in the hospital (IQR: 11 - 41), and 57% mortality. The main complications were infections (80%), acute kidney failure (43%), bleeding at the surgical site and at the site of cannula placement (22%), plateletopenia (60%), and coagulopathy (30%).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In spite of the steep learning curve, we considered this experience to be satisfactory, with results and complications comparable to those reported in the literature.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>San Roman</LastName>
+<ForeName>Eduardo</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Terapia Intensiva de Adultos, Hospital Italiano de Buenos Aires, Buenos Aires, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Venuti</LastName>
+<ForeName>María Sofía</ForeName>
+<Initials>MS</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Terapia Intensiva de Adultos, Hospital Italiano de Buenos Aires, Buenos Aires, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ciarrocchi</LastName>
+<ForeName>Nicolás Marcelo</ForeName>
+<Initials>NM</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Terapia Intensiva de Adultos, Hospital Italiano de Buenos Aires, Buenos Aires, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fernández Ceballos</LastName>
+<ForeName>Ignacio</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Terapia Intensiva de Adultos, Hospital Italiano de Buenos Aires, Buenos Aires, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gogniat</LastName>
+<ForeName>Emiliano</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Terapia Intensiva de Adultos, Hospital Italiano de Buenos Aires, Buenos Aires, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Villarroel</LastName>
+<ForeName>Sonia</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Terapia Intensiva de Adultos, Hospital Italiano de Buenos Aires, Buenos Aires, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carini</LastName>
+<ForeName>Federico Carlos</ForeName>
+<Initials>FC</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Terapia Intensiva de Adultos, Hospital Italiano de Buenos Aires, Buenos Aires, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giannasi</LastName>
+<ForeName>Sergio Eduardo</ForeName>
+<Initials>SE</Initials>
+<AffiliationInfo>
+<Affiliation>Unidad de Terapia Intensiva de Adultos, Hospital Italiano de Buenos Aires, Buenos Aires, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<Language>spa</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Brazil</Country>
+<MedlineTA>Rev Bras Ter Intensiva</MedlineTA>
+<NlmUniqueID>9506692</NlmUniqueID>
+<ISSNLinking>0103-507X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015199">Extracorporeal Membrane Oxygenation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017052">Hospital Mortality</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007362">Intensive Care Units</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007902">Length of Stay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016040">Lung Transplantation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012121">Respiration, Artificial</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012128">Respiratory Distress Syndrome, Adult</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>04</Month>
+<Day>03</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26340153</ArticleId>
+<ArticleId IdType="pii">S0103-507X2015000200134</ArticleId>
+<ArticleId IdType="doi">10.5935/0103-507X.20150024</ArticleId>
+<ArticleId IdType="pmc">PMC4489781</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Heart Lung Transplant. 2000 Mar;19(3):313-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10713257</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Clin Pract. 2014 Apr;29(2):201-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24549012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2003 Jun 1;167(11):1483-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12770854</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2003 Jun 11;289(22):2983-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12799407</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2004 Oct;78(4):1230-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15464477</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1970 Dec 31;283(27):1478-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4921729</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Rev Respir Dis. 1987 Feb;135(2):312-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3544984</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chronic Dis. 1987;40(5):373-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3558716</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 1989 May;66(5):2364-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2745302</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 1993 Jan;21(1):131-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8420720</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 1994 Mar;149(3 Pt 1):818-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7509706</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transfusion. 1996 Jan;36(1):61-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8607156</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2005 Nov 15;172(10):1241-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16081547</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Nutr. 2006 Apr;25(2):210-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16697087</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2007 Jan;35(1):214-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17110872</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Heart Lung Transplant. 2007 Apr;26(4):331-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17403473</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Heart Lung Transplant. 2007 May;26(5):472-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17449416</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart Lung Circ. 2008;17 Suppl 4:S41-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18964254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Vox Sang. 2009 Jan;96(1):34-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19121196</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JPEN J Parenter Enteral Nutr. 2009 Mar-Apr;33(2):122-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19171692</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Cardiothorac Vasc Anesth. 2009 Sep;13(3):154-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19767408</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2009 Oct 17;374(9698):1351-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19762075</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2010 Sep 16;363(12):1107-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20843245</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Clin. 2011 Jul;27(3):439-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21742210</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2011 Oct 19;306(15):1659-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21976615</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2011 Nov 17;365(20):1905-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22087681</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Transplant. 2012 Jan-Feb;26(1):E71-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22151107</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intensive Care Med. 2012 Mar;38(3):395-403</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22323077</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2012 Jul;94(1):e1-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22579889</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2012 Jun 20;307(23):2526-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22797452</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2012 Sep;94(3):942-9; author reply 949-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22748640</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Heart Lung Transplant. 2012 Nov;31(11):1182-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22885156</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>ASAIO J. 2013 May-Jun;59(3):202-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23644605</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intensive Care Med. 2013 Nov;39(11):1989-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23949702</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Nov 28;369(22):2126-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24283226</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Crit Care. 2014 Feb;20(1):86-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24322337</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2000 May 4;342(18):1301-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10793162</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,138 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25095866</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>12</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>12</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1603-6824</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>176</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Feb</Month>
+<Day>17</Day>
+</PubDate>
+</JournalIssue>
+<Title>Ugeskrift for laeger</Title>
+<ISOAbbreviation>Ugeskr. Laeg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Recurrent Clostridium difficile infection treated with faecal microbiota transplantation].</ArticleTitle>
+<ELocationID EIdType="pii" ValidYN="Y">V04130223</ELocationID>
+<Abstract>
+<AbstractText>Treatment of severe Clostridium difficile infection (CDI) poses a clinical challenge. Emerging evidence supports the use of faecal microbiota transplantation (FMT). An 81-year-old man was admitted with a third recurrent episode of CDI within two months. Because of clinical deterioration with development of pancolitis in spite of two weeks of metronidazole and vanco-mycin treatment, FMT was performed using a duodenal tube. The patient recovered completely without further relapse during follow-up. FMT was shown to be an efficient adjuvant treatment of complicated CDI. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Fløe</LastName>
+<ForeName>Andreas</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Lungemedicinsk Afdeling LUB, Aarhus Universitetshospital, Nørrebrogade 44, 8000 Aarhus C. andrniel@rm.dk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leutscher</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>dan</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Denmark</Country>
+<MedlineTA>Ugeskr Laeger</MedlineTA>
+<NlmUniqueID>0141730</NlmUniqueID>
+<ISSNLinking>0041-5782</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000900">Anti-Bacterial Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003015">Clostridium Infections</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016360">Clostridium difficile</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069467">Fecal Microbiota Transplantation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005243">Feces</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064307">Microbiota</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012008">Recurrence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25095866</ArticleId>
+<ArticleId IdType="pii">V04130223</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

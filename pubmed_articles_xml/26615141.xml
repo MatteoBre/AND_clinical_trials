@@ -1,0 +1,176 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26615141</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>04</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>29</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1532-8708</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>42</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Seminars in oncology</Title>
+<ISOAbbreviation>Semin. Oncol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Adjuvant Chemotherapy for Stage II Rectal Cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e99-107</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1053/j.seminoncol.2015.09.033</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0093-7754(15)00203-1</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Deming</LastName>
+<ForeName>Dustin</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>University of Wisconsin Carbone Cancer Center, Madison, WI.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Uboha</LastName>
+<ForeName>Nataliya</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Smilow Cancer Center at Yale-New Haven, New Haven, CT.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zafar</LastName>
+<ForeName>S Yousuf</ForeName>
+<Initials>SY</Initials>
+<AffiliationInfo>
+<Affiliation>Duke University Cancer Center, Durham, NC.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenberg</LastName>
+<ForeName>Stephen</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>University of Wisconsin Carbone Cancer Center, Madison, WI.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bassetti</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>University of Wisconsin Carbone Cancer Center, Madison, WI.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Glasgow</LastName>
+<ForeName>Sean</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Washington University Siteman Cancer Center, St. Louis, MO.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Borden</LastName>
+<ForeName>Ernest C</ForeName>
+<Initials>EC</Initials>
+<AffiliationInfo>
+<Affiliation>Cleveland Clinic, Cleveland, OH.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lubner</LastName>
+<ForeName>Sam</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>University of Wisconsin Carbone Cancer Center, Madison, WI. Electronic address: sjlubner@medicine.wisc.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>09</Month>
+<Day>21</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Semin Oncol</MedlineTA>
+<NlmUniqueID>0420432</NlmUniqueID>
+<ISSNLinking>0093-7754</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017024">Chemotherapy, Adjuvant</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011184">Postoperative Period</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012004">Rectal Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26615141</ArticleId>
+<ArticleId IdType="pii">S0093-7754(15)00203-1</ArticleId>
+<ArticleId IdType="doi">10.1053/j.seminoncol.2015.09.033</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

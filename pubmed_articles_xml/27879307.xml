@@ -1,0 +1,204 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27879307</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>03</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>07</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1757-790X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>2016</Volume>
+<PubDate>
+<Year>2016</Year>
+<Month>Nov</Month>
+<Day>22</Day>
+</PubDate>
+</JournalIssue>
+<Title>BMJ case reports</Title>
+<ISOAbbreviation>BMJ Case Rep</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Unusual cause of profound weight loss in a young woman.</ArticleTitle>
+<ELocationID EIdType="pii" ValidYN="Y">bcr2016218013</ELocationID>
+<ELocationID EIdType="doi" ValidYN="Y">10.1136/bcr-2016-218013</ELocationID>
+<Abstract>
+<AbstractText>A 27-year-old woman presented with anorexia, weight loss and psychiatric symptoms for the past 4 years. She did not have history of headache, visual disturbances or symptoms of raised intracranial pressure. She was sarcopenic with body mass index of 10.16 kg/m<sup>2</sup>Her systemic examination was normal except for temporal hemianopia suggesting a sellar/suprasellar lesion. Hormonal evaluation revealed pan-hypopituitarism with central diabetes insipidus. Subsequent neuroimaging revealed sellar-suprasellar mass lesion with intense contrast enhancement and leptomeningeal metastases. Cerebrospinal fluid analysis showed elevated β human chorionic gonadotropin and the presence of syncytiotrophoblast germ cells. Histopathology from the mass lesion confirmed the diagnosis of germinoma. Immunohistochemistry of the tumour tissue was positive for c-kit and placental alkaline phosphatise. She received a combination of chemotherapy with craniospinal irradiation. Significant weight loss in a young woman may not always be an eating disorder like anorexia nervosa albeit more common than germ cell tumour.</AbstractText>
+<CopyrightInformation>2016 BMJ Publishing Group Ltd.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rastogi</LastName>
+<ForeName>Ashu</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Endocrinology, Post Graduate Institute of Medical Education and Research, Chandigarh, India.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Uppula</LastName>
+<ForeName>Pavan</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Endocrinology, Post Graduate Institute of Medical Education and Research, Chandigarh, India.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mukherjee</LastName>
+<ForeName>Kanchan Kumar</ForeName>
+<Initials>KK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurosurgery, Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh, Chandigarh UT, India.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bhansali</LastName>
+<ForeName>Anil</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Endocrinology, Post Graduate Institute of Medical Education and Research, Chandigarh, India.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Post Graduate Institute of Medical Education and Research, Chandigarh, India.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>BMJ Case Rep</MedlineTA>
+<NlmUniqueID>101526291</NlmUniqueID>
+<ISSNLinking>1757-790X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018997">Chorionic Gonadotropin, beta Subunit, Human</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000855">Anorexia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016543">Central Nervous System Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018997">Chorionic Gonadotropin, beta Subunit, Human</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018237">Germinoma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055948">Sarcopenia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015431">Weight Loss</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<CoiStatement>Conflicts of Interest: None declared.</CoiStatement>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>3</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27879307</ArticleId>
+<ArticleId IdType="pii">bcr-2016-218013</ArticleId>
+<ArticleId IdType="doi">10.1136/bcr-2016-218013</ArticleId>
+<ArticleId IdType="pmc">PMC5129103</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Neurosurg. 1985 Aug;63(2):155-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2991485</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pediatr. 2013 Nov;163(5):1448-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23896184</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncologist. 2008 Jun;13(6):690-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18586924</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2015 Sep;16(9):e470-e477</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26370356</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Acad Child Adolesc Psychiatry. 2000 Jan;39(1):116-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10638075</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Radiol. 2004 Mar;49(3):204-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14962649</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

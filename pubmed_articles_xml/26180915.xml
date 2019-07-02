@@ -1,0 +1,124 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26180915</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>10</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>07</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1538-8662</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>40</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Aug</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Nurse practitioner</Title>
+<ISOAbbreviation>Nurse Pract</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Probiotics: A review for NPs.</ArticleTitle>
+<Pagination>
+<MedlinePgn>50-4</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/01.NPR.0000469256.36238.7f</ELocationID>
+<Abstract>
+<AbstractText>While use of probiotics has increased, understanding when and how to use them can be confusing for patients. Nurse practitioners need to know the basics about the products, including which are evidence-based and most likely to provide a beneficial effect for a specific condition. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Avadhani</LastName>
+<ForeName>Amita</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Amita Avadhani is director, Post Masters DNP-Practice (Executive and online) assistant professor/coordinator-Adult Gerontology Acute/Critical Care Nurse Practitioner Program (MSN) Rutgers University (formerly UMDNJ), Newark, NJ and a critical care nurse practitioner at Saint Peters University Hospital, New Brunswick, N.J. Lorraine Steefel is the nurse educator/clinical coordinator at Rutgers University Behavioral Health Care/University Correctional Health Care, Trenton, N.J.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Steefel</LastName>
+<ForeName>Lorraine</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Nurse Pract</MedlineTA>
+<NlmUniqueID>7603663</NlmUniqueID>
+<ISSNLinking>0361-1817</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>N</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003967">Diarrhea</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000451">nursing</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D055318">Evidence-Based Nursing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009722">Nurse Practitioners</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010353">Patient Education as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019936">Probiotics</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26180915</ArticleId>
+<ArticleId IdType="doi">10.1097/01.NPR.0000469256.36238.7f</ArticleId>
+<ArticleId IdType="pii">00006205-201508000-00012</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

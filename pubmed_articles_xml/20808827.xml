@@ -1,0 +1,464 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20808827</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>11</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1932-6203</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>5</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Aug</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+<Title>PloS one</Title>
+<ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Expression of human frataxin is regulated by transcription factors SRF and TFAP2.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e12286</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0012286</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Friedreich ataxia is an autosomal recessive neurodegenerative disease caused by reduced expression levels of the frataxin gene (FXN) due to expansion of triplet nucleotide GAA repeats in the first intron of FXN. Augmentation of frataxin expression levels in affected Friedreich ataxia patient tissues might substantially slow disease progression.</AbstractText>
+<AbstractText Label="METHODOLOGY/PRINCIPAL FINDINGS" NlmCategory="RESULTS">We utilized bioinformatic tools in conjunction with chromatin immunoprecipitation and electrophoretic mobility shift assays to identify transcription factors that influence transcription of the FXN gene. We found that the transcription factors SRF and TFAP2 bind directly to FXN promoter sequences. SRF and TFAP2 binding sequences in the FXN promoter enhanced transcription from luciferase constructs, while mutagenesis of the predicted SRF or TFAP2 binding sites significantly decreased FXN promoter activity. Further analysis demonstrated that robust SRF- and TFAP2-mediated transcriptional activity was dependent on a regulatory element, located immediately downstream of the first FXN exon. Finally, over-expression of either SRF or TFAP2 significantly increased frataxin mRNA and protein levels in HEK293 cells, and frataxin mRNA levels were also elevated in SH-SY5Y cells and in Friedreich ataxia patient lymphoblasts transfected with SRF or TFAP2.</AbstractText>
+<AbstractText Label="CONCLUSIONS/SIGNIFICANCE" NlmCategory="CONCLUSIONS">We identified two transcription factors, SRF and TFAP2, as well as an intronic element encompassing EGR3-like sequence, that work together to regulate expression of the FXN gene. By providing new mechanistic insights into the molecular factors influencing frataxin expression, our results should aid in the discovery of new therapeutic targets for the treatment of Friedreich ataxia.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Kuanyu</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Jiangsu Key Laboratory for Molecular Medicine, Medical School of Nanjing University, Nanjing, China. likuanyu@nju.edu.cn</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Singh</LastName>
+<ForeName>Anamika</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crooks</LastName>
+<ForeName>Daniel R</ForeName>
+<Initials>DR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dai</LastName>
+<ForeName>Xiaoman</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cong</LastName>
+<ForeName>Zhuangzhuang</ForeName>
+<Initials>Z</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pan</LastName>
+<ForeName>Liang</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ha</LastName>
+<ForeName>Dung</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rouault</LastName>
+<ForeName>Tracey A</ForeName>
+<Initials>TA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>08</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>PLoS One</MedlineTA>
+<NlmUniqueID>101285081</NlmUniqueID>
+<ISSNLinking>1932-6203</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D033862">Iron-Binding Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C476858">SRF protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D026362">Serum Response Factor</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D050656">Transcription Factor AP-2</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C098527">frataxin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>E1UOL152H7</RegistryNumber>
+<NameOfSubstance UI="D007501">Iron</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019295">Computational Biology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005621">Friedreich Ataxia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005786">Gene Expression Regulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007501">Iron</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D033862">Iron-Binding Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011401">Promoter Regions, Genetic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D026362">Serum Response Factor</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050656">Transcription Factor AP-2</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015854">Up-Regulation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>03</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>07</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20808827</ArticleId>
+<ArticleId IdType="doi">10.1371/journal.pone.0012286</ArticleId>
+<ArticleId IdType="pmc">PMC2924884</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Nucleic Acids Res. 2000 Dec 15;28(24):4930-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11121484</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2000 Jul 15;28(14):2815-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10908340</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochim Biophys Acta. 2001 May 31;1536(2-3):133-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11406348</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochemistry. 2002 May 28;41(21):6798-804</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12022884</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Expert Opin Investig Drugs. 2003 Apr;12(4):569-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12665413</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mol Genet. 2003 Apr 15;12(8):879-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12668611</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Chem Soc. 2003 May 21;125(20):6078-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12785837</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 2004 Jan 16;557(1-3):215-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14741370</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Can J Neurol Sci. 1976 Nov;3(4):349-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">187309</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1990 Jun;87(11):4299-303</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2349238</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1996 Mar 8;271(5254):1423-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8596916</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 1996 Apr 26;271(17):9947-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8626632</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 1997 May;41(5):675-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9153531</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1997 Jun 13;276(5319):1709-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9180083</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1997 Oct;17(2):215-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9326946</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mol Genet. 1997 Oct;6(11):1771-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9302253</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1998 Sep;20(1):87-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9731539</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem J. 1998 Dec 1;336 ( Pt 2):327-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9820808</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genomics. 2005 Feb;85(2):221-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15676280</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 2005 Apr;62(4):621-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15824263</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2005 Nov 8;102(45):16345-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16258061</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Biol. 2005;6(13):246</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16420676</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2007;35(4):1075-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17264130</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2007 Jun 1;178(11):6796-805</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17513727</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2007;35(10):3383-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17478498</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mol Genet. 2008 Mar 1;17(5):735-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18045775</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2008;3(4):e1958</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18463734</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Genet. 2008 Jul;83(1):77-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18597733</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mol Genet. 2008 Aug 1;17(15):2265-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18424449</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2008 Nov;36(19):6056-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18820300</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 Dec 15;112(13):5219-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18796625</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Neurol. 2009 Apr;5(4):222-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19347027</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuroinflammation. 2009;6:16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19450264</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Neurosci. 2009 Aug;32(8):432-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19643506</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>DNA Cell Biol. 2009 Sep;28(9):425-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19558215</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2000 Apr 15;28(8):1808-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10734201</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2001 Jun 1;29(11):2338-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11376152</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

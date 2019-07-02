@@ -1,0 +1,166 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18534951</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>10</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>06</Month>
+<Day>06</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1357-633X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>14</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2008</Year>
+</PubDate>
+</JournalIssue>
+<Title>Journal of telemedicine and telecare</Title>
+<ISOAbbreviation>J Telemed Telecare</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A feasibility study of home telemedicine for patients with cystic fibrosis awaiting transplantation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>182-5</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1258/jtt.2008.070107</ELocationID>
+<Abstract>
+<AbstractText>Sixteen patients with cystic fibrosis were randomized to either telemedicine or standard care alone. All patients were terminally ill. Patients in the telemedicine group had an ISDN line installed in their home and were given a videoconferencing unit connected to their home television set. Eleven subjects completed the baseline assessment and seven patients completed the study (4 on telemedicine and 3 in the control arm). Telemedicine patients had weekly videoconferences from home for a clinical assessment, psychological support and the opportunity for discussion with any member of the multidisciplinary team. A total of 71 home videoconferences were conducted during the study. Anxiety levels were measured before and after the conferences. After six months there were no significant differences in quality of life, anxiety levels, depression levels, admissions to hospital or clinic attendances, general practitioner calls or intravenous antibiotic use between the two groups. However, there was a significant improvement in perception of body image for those in the telemedicine group and the patients liked and valued the service. The use of telemedicine can enhance the support that a specialist unit can provide for the patient and their family, and may reduce outpatient clinic attendances.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wilkinson</LastName>
+<ForeName>Olive M</ForeName>
+<Initials>OM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cystic Fibrosis, Royal Brompton Hospital, London SW3 6NP, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Duncan-Skingle</LastName>
+<ForeName>Frances</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pryor</LastName>
+<ForeName>Jennifer A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hodson</LastName>
+<ForeName>Margaret E</ForeName>
+<Initials>ME</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Telemed Telecare</MedlineTA>
+<NlmUniqueID>9506702</NlmUniqueID>
+<ISSNLinking>1357-633X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017028">Caregivers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002908">Chronic Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003550">Cystic Fibrosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018575">Home Care Services, Hospital-Based</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016040">Lung Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017060">Patient Satisfaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010865">Pilot Projects</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015397">Program Evaluation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011788">Quality of Life</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017216">Telemedicine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019452">Terminally Ill</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>6</Month>
+<Day>7</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>15</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>6</Month>
+<Day>7</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18534951</ArticleId>
+<ArticleId IdType="pii">14/4/182</ArticleId>
+<ArticleId IdType="doi">10.1258/jtt.2008.070107</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

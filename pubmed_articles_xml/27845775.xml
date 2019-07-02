@@ -1,0 +1,613 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27845775</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>12</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">2158-3188</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>6</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Translational psychiatry</Title>
+<ISOAbbreviation>Transl Psychiatry</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Defining the role of corticotropin releasing factor binding protein in alcohol consumption.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e953</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/tp.2016.208</ELocationID>
+<Abstract>
+<AbstractText>The corticotropin releasing factor (CRF) exerts its effects by acting on its receptors and on the binding protein (CRFBP), and has been implicated in alcohol use disorder (AUD). Therefore, identification of the exact contribution of each protein that mediates CRF effects is necessary to design effective therapeutic strategies for AUD. A series of in vitro/in vivo experiments across different species were performed to define the biological discrete role of CRFBP in AUD. First, to establish the CRFBP role in receptor signaling, we developed a novel chimeric cell-based assay and showed that CFRBP full length can stably be expressed on the plasma membrane. We discovered that only CRFBP(10 kD) fragment is able to potentiate CRF-intracellular Ca<sup>2+</sup> release. We provide evidence that CRHBP gene loss increased ethanol consumption in mice. Then, we demonstrate that selective reduction of CRHBP expression in the center nucleus of the amygdala (CeA) decreases ethanol consumption in ethanol-dependent rats. CRFBP amygdalar downregulation, however, does not attenuate yohimbine-induced ethanol self-administration. This effect was associated with decreased hemodynamic brain activity in the CRFBP-downregulated CeA and increased hemodynamic activity in the caudate putamen during yohimbine administration. Finally, in alcohol-dependent patients, genetic variants related to the CRFBP(10 kD) fragment were associated with greater risk for alcoholism and anxiety, while other genetic variants were associated with reduced risk for anxiety. Taken together, our data provide evidence that CRFBP may possess both inhibitory and excitatory roles and may represent a novel pharmacological target for the treatment of AUD.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Haass-Koffler</LastName>
+<ForeName>C L</ForeName>
+<Initials>CL</Initials>
+<AffiliationInfo>
+<Affiliation>Section on Clinical Psychoneuroendocrinology and Neuropsychopharmacology, NIAAA DICBR and NIDA IRP, NIH, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Center for Alcohol and Addiction Studies, Department of Psychiatry and Human Behavior, Brown University, Providence, RI, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Center for Alcohol and Addiction Studies, Department of Behavioral and Social Sciences, Brown University, Providence, RI, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Henry</LastName>
+<ForeName>A T</ForeName>
+<Initials>AT</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Psychology, University of Chicago, Chicago, IL, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Melkus</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiology, University of Ottawa, Ottawa, ON, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Simms</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, University of California, San Francisco, San Francisco, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Naemmuddin</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, University of California, San Francisco, San Francisco, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nielsen</LastName>
+<ForeName>C K</ForeName>
+<Initials>CK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, University of California, San Francisco, San Francisco, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lasek</LastName>
+<ForeName>A W</ForeName>
+<Initials>AW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Psychiatry, University of Illinois, Chicago, IL, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Magill</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Center for Alcohol and Addiction Studies, Department of Behavioral and Social Sciences, Brown University, Providence, RI, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schwandt</LastName>
+<ForeName>M L</ForeName>
+<Initials>ML</Initials>
+<AffiliationInfo>
+<Affiliation>Office of the Clinical Director, NIAAA, NIH, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Momenan</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Neuroimaging Research Core, NIAAA, NIH, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hodgkinson</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Neurogenetics, NIAAA, NIH, Rockville, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bartlett</LastName>
+<ForeName>S E</ForeName>
+<Initials>SE</Initials>
+<AffiliationInfo>
+<Affiliation>Queensland University of Technology, Brisbane, QLD, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Swift</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+<AffiliationInfo>
+<Affiliation>Center for Alcohol and Addiction Studies, Department of Psychiatry and Human Behavior, Brown University, Providence, RI, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bonci</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>NIDA Intramural Research Program and Departments of Neuroscience and Psychiatry, Johns Hopkins University, Baltimore, MD, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leggio</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Section on Clinical Psychoneuroendocrinology and Neuropsychopharmacology, NIAAA DICBR and NIDA IRP, NIH, Bethesda, MD, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Center for Alcohol and Addiction Studies, Department of Behavioral and Social Sciences, Brown University, Providence, RI, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>K01 AA023867</GrantID>
+<Acronym>AA</Acronym>
+<Agency>NIAAA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>T32 AA007459</GrantID>
+<Acronym>AA</Acronym>
+<Agency>NIAAA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AA016654</GrantID>
+<Acronym>AA</Acronym>
+<Agency>NIAAA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>15</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Transl Psychiatry</MedlineTA>
+<NlmUniqueID>101562664</NlmUniqueID>
+<ISSNLinking>2158-3188</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D002352">Carrier Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>134773-81-2</RegistryNumber>
+<NameOfSubstance UI="C067133">corticotropin releasing factor-binding protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>SY7Q814VUP</RegistryNumber>
+<NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000428">Alcohol Drinking</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000437">Alcoholism</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000679">Amygdala</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002118">Calcium</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002352">Carrier Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002462">Cell Membrane</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015536">Down-Regulation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007030">Hypothalamo-Hypophyseal System</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008815">Mice, Inbred Strains</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018345">Mice, Knockout</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010913">Pituitary-Adrenal System</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012039">Regional Blood Flow</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013045">Species Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>12</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27845775</ArticleId>
+<ArticleId IdType="pii">tp2016208</ArticleId>
+<ArticleId IdType="doi">10.1038/tp.2016.208</ArticleId>
+<ArticleId IdType="pmc">PMC5314120</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Alcohol Clin Exp Res. 2012 Feb;36(2):369-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21895713</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Psychiatry. 2010 May 1;67(9):831-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20060104</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Mol Neurosci. 2012 Sep 06;5:91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22973190</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Biosci. 2006 May 01;11:1878-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16368564</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2012 Mar 7;32(10):3405-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22399763</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alcohol Clin Exp Res. 2015 Dec;39(12 ):2296-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26509254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Endocrinol. 2002 Oct;175(1):89-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12379493</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2008;3(10):e3620</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18974851</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 2003 Jul 31;39(3):401-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12895416</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1999 Sep 28;96(20):11595-600</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10500222</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alcohol. 2012 Jun;46(4):349-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22444954</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1995 Jan 31;92(3):836-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7846062</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Psychiatr Res. 2012 Jan;46(1):72-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21978546</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2003 Mar;33(3):401-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12590264</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Neuroendocrinol. 2007 Apr;28(1):1-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17083971</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pharmacol Rev. 2001 Jun;53(2):209-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11356984</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Neurol. 2013 Jan;239:120-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23063907</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alcohol Clin Exp Res. 2016 Aug;40(8):1641-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27374820</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alcohol Clin Exp Res. 2008 Feb;32(2):259-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18162072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Endocrinol. 1997 Jun;11(7):980-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9178757</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 2007 Aug;193(2):283-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17437087</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 2007 Dec;323(3):846-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17855476</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2016 Jan;43(2):220-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26503565</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res Brain Res Rev. 2000 Aug;33(1):13-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10967352</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2016 Apr 12;113(15):4075-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27035969</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurochem. 1997 May;68(5):2053-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9109532</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Neurosci. 2007 Aug;30(8):399-406</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17629579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Behav. 2005 Jan 31;84(1):53-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15642607</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuropsychopharmacology. 2010 May;35(6):1241-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20130533</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Neurosci. 2015 Apr;18(4):545-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25751534</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 2008 Dec 2;157(3):502-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18929624</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Peptides. 2001 May;22(5):743-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11337087</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Neurosci. 2003 Oct;6(10):1100-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12973355</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Endocrinol (Lausanne). 2013 Mar 12;4:28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23487366</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alcohol Clin Exp Res. 2015 Sep;39(9):1609-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26247973</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alcohol Clin Exp Res. 2013 Oct;37(10):1680-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23763790</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Neuroendocrinol. 1995 Oct;16(4):362-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8557170</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Genet. 2007 Sep;81(3):559-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17701901</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Neurosci. 2010 May;13(5):622-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20383137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1992 May 1;89(9):4192-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1315056</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Brain Behav. 2007 Nov;6(8):728-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17428267</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 1999 Aug;84(8):2788-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10443681</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res Bull. 1989 Sep;23(3):215-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2555031</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuropsychopharmacology. 2012 Mar;37(4):906-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22048462</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alcohol Clin Exp Res. 2011 Jan;35(1):166-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21039637</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

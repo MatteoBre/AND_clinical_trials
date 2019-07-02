@@ -1,0 +1,160 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15808819</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>07</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2005</Year>
+<Month>04</Month>
+<Day>05</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1359-6446</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>10</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Mar</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Drug discovery today</Title>
+<ISOAbbreviation>Drug Discov. Today</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Keynote review: epithelial and endothelial barriers in human disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>395-408</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>There is a spectrum of distinct disease states that have in common their effect of breaking down epithelial and/or endothelial barrier function. Fluid compartmentalization goes awry, with profound implications for epithelial and stromal homeostasis, fluid and/or electrolyte balance, generation of inflammatory states, and even tumor microenvironment. Specific effects on the tight junction are found to be integral to bacterial invasion and tumor progression.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mullin</LastName>
+<ForeName>James M</ForeName>
+<Initials>JM</Initials>
+<AffiliationInfo>
+<Affiliation>Lankenau Institute for Medical Research, 100 Lancaster Avenue, Wynnewood, PA 19096, USA. mullinj@mlhs.org</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Agostino</LastName>
+<ForeName>Nicole</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rendon-Huerta</LastName>
+<ForeName>Erika</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thornton</LastName>
+<ForeName>James J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Drug Discov Today</MedlineTA>
+<NlmUniqueID>9604391</NlmUniqueID>
+<ISSNLinking>1359-6446</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001424">Bacterial Infections</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003920">Diabetes Mellitus</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004727">Endothelium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000648">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004848">Epithelium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000648">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D030342">Genetic Diseases, Inborn</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006706">Homeostasis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007249">Inflammation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019108">Tight Junctions</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014777">Virus Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>211</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>4</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>7</Month>
+<Day>13</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>4</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15808819</ArticleId>
+<ArticleId IdType="pii">S1359644605033799</ArticleId>
+<ArticleId IdType="doi">10.1016/S1359-6446(05)03379-9</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

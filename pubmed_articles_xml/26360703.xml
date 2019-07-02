@@ -1,0 +1,485 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26360703</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic-eCollection">
+<Journal>
+<ISSN IssnType="Electronic">1932-6203</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>10</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2015</Year>
+</PubDate>
+</JournalIssue>
+<Title>PloS one</Title>
+<ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Cholelithiasis and Nephrolithiasis in HIV-Positive Patients in the Era of Combination Antiretroviral Therapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e0137660</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0137660</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">This study aimed to describe the epidemiology and risk factors of cholelithiasis and nephrolithiasis among HIV-positive patients in the era of combination antiretroviral therapy.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We retrospectively reviewed the medical records of HIV-positive patients who underwent routine abdominal sonography for chronic viral hepatitis, fatty liver, or elevated aminotransferases between January 2004 and January 2015. Therapeutic drug monitoring of plasma concentrations of atazanavir was performed and genetic polymorphisms, including UDP-glucuronosyltransferase (UGT) 1A1*28 and multidrug resistance gene 1 (MDR1) G2677T/A, were determined in a subgroup of patients who received ritonavir-boosted or unboosted atazanavir-containing combination antiretroviral therapy. Information on demographics, clinical characteristics, and laboratory testing were collected and analyzed.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">During the 11-year study period, 910 patients who underwent routine abdominal sonography were included for analysis. The patients were mostly male (96.9%) with a mean age of 42.2 years and mean body-mass index of 22.9 kg/m2 and 85.8% being on antiretroviral therapy. The anchor antiretroviral agents included non-nucleoside reverse-transcriptase inhibitors (49.3%), unboosted atazanavir (34.4%), ritonavir-boosted lopinavir (20.4%), and ritonavir-boosted atazanavir (5.5%). The overall prevalence of cholelithiasis and nephrolithiasis was 12.5% and 8.2%, respectively. Among 680 antiretroviral-experienced patients with both baseline and follow-up sonography, the crude incidence of cholelithiasis and nephrolithiasis was 4.3% and 3.7%, respectively. In multivariate analysis, the independent factors associated with incident cholelithiasis were exposure to ritonavir-boosted atazanavir for &gt;2 years (adjusted odds ratio [AOR], 6.29; 95% confidence interval [CI], 1.12-35.16) and older age (AOR, 1.04; 95% CI, 1.00-1.09). The positive association between duration of exposure to ritonavir-boosted atazanavir and incident cholelithiasis was also found (AOR, per 1-year exposure, 1.49; 95% CI, 1.05-2.10). The associated factors with incident nephrolithiasis were hyperlipidemia (AOR, 3.97; 95% CI, 1.32-11.93), hepatitis B or C coinfection (AOR, 3.41; 95% CI, 1.09-10.62), and exposure to abacavir (AOR, 12.01; 95% CI, 1.54-93.54). Of 180 patients who underwent therapeutic drug monitoring of plasma atazanavir concentrations and pharmacogenetic investigations, we found that the atazanavir concentrations and UGT 1A1*28 and MDR1 G2677T/A polymorphisms were not statistically significantly associated with incident cholelithiasis and nephrolithiasis.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In HIV-positive patients in the era of combination antiretroviral therapy, a high prevalence of cholelithiasis and nephrolithiasis was observed, and exposure to ritonavir-boosted atazanavir for &gt;2 years was associated with incident cholelithiasis.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lin</LastName>
+<ForeName>Kuan-Yin</ForeName>
+<Initials>KY</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Infectious Diseases, Department of Internal Medicine, Taipei City Hospital, Kun-Ming Branch, Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liao</LastName>
+<ForeName>Sih-Han</ForeName>
+<Initials>SH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, National Taiwan University Hospital Hsin-Chu Branch, Hsin-Chu, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Wen-Chun</ForeName>
+<Initials>WC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, National Taiwan University Hospital and National Taiwan University College of Medicine, Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cheng</LastName>
+<ForeName>Aristine</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, National Taiwan University Hospital Hsin-Chu Branch, Hsin-Chu, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lin</LastName>
+<ForeName>Shu-Wen</ForeName>
+<Initials>SW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pharmacy, National Taiwan University Hospital, Taipei, Taiwan; Graduate Institute of Clinical Pharmacy, National Taiwan University, Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chang</LastName>
+<ForeName>Sui-Yuan</ForeName>
+<Initials>SY</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Laboratory Medicine, National Taiwan University Hospital, Taipei, Taiwan; Department of Clinical Laboratory Sciences and Medical Biotechnology, National Taiwan University College of Medicine, Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tsai</LastName>
+<ForeName>Mao-Song</ForeName>
+<Initials>MS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, Far Eastern Memorial Hospital, New Taipei City, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kuo</LastName>
+<ForeName>Ching-Hua</ForeName>
+<Initials>CH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pharmacy, National Taiwan University Hospital, Taipei, Taiwan; School of Pharmacy, National Taiwan University, Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Mon-Ro</ForeName>
+<Initials>MR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, National Taiwan University Hospital and National Taiwan University College of Medicine, Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Hsiu-Po</ForeName>
+<Initials>HP</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, National Taiwan University Hospital and National Taiwan University College of Medicine, Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hung</LastName>
+<ForeName>Chien-Ching</ForeName>
+<Initials>CC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, National Taiwan University Hospital and National Taiwan University College of Medicine, Taipei, Taiwan; Department of Medical Research, China Medical University Hospital, Taichung, Taiwan; China Medical University, Taichung, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chang</LastName>
+<ForeName>Shan-Chwen</ForeName>
+<Initials>SC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, National Taiwan University Hospital and National Taiwan University College of Medicine, Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>09</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>PLoS One</MedlineTA>
+<NlmUniqueID>101285081</NlmUniqueID>
+<ISSNLinking>1932-6203</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019380">Anti-HIV Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000483">Alleles</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019380">Anti-HIV Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D023241">Antiretroviral Therapy, Highly Active</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018791">CD4 Lymphocyte Count</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002769">Cholelithiasis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005787">Gene Frequency</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006679">HIV Seropositivity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053040">Nephrolithiasis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011110">Polymorphism, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013624">Taiwan</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014463">Ultrasonography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019562">Viral Load</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>03</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26360703</ArticleId>
+<ArticleId IdType="doi">10.1371/journal.pone.0137660</ArticleId>
+<ArticleId IdType="pii">PONE-D-15-10258</ArticleId>
+<ArticleId IdType="pmc">PMC4567270</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>PLoS One. 2014;9(11):e112836</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25409506</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 2010 Jul 1;51(1):101-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20504240</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 2012 Nov;55(9):1270-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22820540</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Urology. 2008 Feb;71(2):209-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18308085</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2006 Jan 28;367(9507):333-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16443041</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2014 Sep 18;371(12):1100-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25229916</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Metab Dispos. 2005 Nov;33(11):1729-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16118329</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 2006 Nov;50(11):3801-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16940065</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(10):e77268</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24130871</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut Liver. 2012 Apr;6(2):172-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22570746</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Endourol. 2012 Aug;26(8):1095-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22429050</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rev Urol. 2010 Spring;12(2-3):e86-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20811557</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Antimicrob Chemother. 2014 Dec;69(12):3320-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25151207</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Viral Hepat. 2009 Dec;16(12):860-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19486279</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 2012 Nov;55(9):1262-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22820542</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drugs. 2012 Jun 18;72(9):1161-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22646049</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1995 Apr 15;345(8955):958-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7715297</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Best Pract Res Clin Gastroenterol. 2006;20(6):981-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17127183</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pharmacol Ther. 2001 Mar;69(3):169-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11240981</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ren Fail. 2014 Jul;36(6):957-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24678942</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 1994 Nov 28;154(22):2573-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7979854</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Antimicrob Chemother. 2006 Jun;57(6):1161-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16595641</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2014;9(2):e88497</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24551111</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Gastroenterol. 2014;14:83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24775330</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2007 May 31;21(9):1215-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17502736</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(7):e69845</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23875004</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ther Drug Monit. 2007 Apr;29(2):164-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17417069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Urol. 2013 Jun;189(6):2158-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23313204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Antimicrob Chemother. 2014 May;69(5):1385-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24379301</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Int AIDS Soc. 2014 Nov 02;17(4 Suppl 3):19560</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25394067</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antivir Ther. 2000 Mar;5(1):3-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10846585</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chromatogr B Analyt Technol Biomed Life Sci. 2006 May 1;835(1-2):131-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16574512</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

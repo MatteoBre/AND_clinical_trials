@@ -1,0 +1,137 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21400326</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>08</Month>
+<Day>29</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1532-7027</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>26</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Health communication</Title>
+<ISOAbbreviation>Health Commun</ISOAbbreviation>
+</Journal>
+<ArticleTitle>What do doctors say when prescribing medications?: an examination of medical recommendations from a communication perspective.</ArticleTitle>
+<Pagination>
+<MedlinePgn>286-96</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/10410236.2010.550020</ELocationID>
+<Abstract>
+<AbstractText>We described physician usage of persuasive strategies pertaining to four dimensions of medical recommendations given during naturally occurring clinical visits-problem seriousness, treatment effectiveness, patient's self-efficacy, and potential limitations with the recommended treatment. We then examined the impact of these strategies on patient satisfaction and intention to follow physicians' medical advice. An analysis was conducted of 187 transcripts of audio-recorded outpatient visits during which a new medication was prescribed, augmented with patient and physician surveys. Two-hundred forty-two cases of new medication prescription were identified, and each case was coded into categories describing physicians' prescription-giving behaviors. In most cases, physicians addressed only one or two of the four dimensions of medical recommendations when they were prescribing new medications to their patients. In about one-third of visits, none of the four dimensions was addressed. However, physician use of persuasive strategies pertaining to the four dimensions did not appear to have any significant impact on patients' satisfaction with the visit or intention to follow their doctor's advice. The implications of the findings are discussed in light of the study's limitations and directions for future research.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Feng</LastName>
+<ForeName>Bo</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Communication and Center for Healthcare Policy and Research, University of California-Davis, Davis, CA 95616, USA. bfeng@ucdavis.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bell</LastName>
+<ForeName>Robert A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jerant</LastName>
+<ForeName>Anthony F</ForeName>
+<Initials>AF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kravitz</LastName>
+<ForeName>Richard L</ForeName>
+<Initials>RL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>UL1 RR024146</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Health Commun</MedlineTA>
+<NlmUniqueID>8908762</NlmUniqueID>
+<ISSNLinking>1041-0236</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D002140">California</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059019">Clinical Coding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003142">Communication</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008485">Medical Audit</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010817">Physician-Patient Relations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010818">Practice Patterns, Physicians'</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>8</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21400326</ArticleId>
+<ArticleId IdType="pii">934768584</ArticleId>
+<ArticleId IdType="doi">10.1080/10410236.2010.550020</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

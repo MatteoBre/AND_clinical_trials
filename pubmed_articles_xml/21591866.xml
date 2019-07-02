@@ -1,0 +1,197 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21591866</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>09</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1460-2202</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>36</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Current eye research</Title>
+<ISOAbbreviation>Curr. Eye Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Metabolomics of rabbit aqueous humor after administration of glucocorticosteroid.</ArticleTitle>
+<Pagination>
+<MedlinePgn>563-70</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3109/02713683.2011.566410</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The purpose of this study was to evaluate metabolic changes in the aqueous humor of rabbits after the administration of glucocorticosteroids.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Twenty-four New Zealand white rabbits were divided into the following three groups: control (intravitreal injection of sterile saline solution), TA (intravitreal injection of triamcinolone acetonide), and DEX (subconjunctival injection of dexamethasone). Intraocular pressure (IOP), flash electroretinogram (FERG), and flash visual evoked potential (FVEP) were tested. The aqueous humor was acquired pre-injection and at 1 and 30 days post-injection. The samples were detected by (1)H NMR, and then the spectrum was analyzed by principal component analysis (PCA).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">A significant elevation of IOP was observed in the TA group (1, 7, 14, 21, and 30 days post-injection) and the DEX group (14, 21, and 30 days post-injection) compared to the controls (P &lt; 0.01). In FERG, the amplitudes were decreased, and the implicit time was prolonged in the TA group at 7, 14, and 30 days post-injection compared to the controls (P &lt; 0.05). In FVEP, the amplitudes were decreased, and the implicit time was prolonged in the TA group at 30 days post-injection (P &lt; 0.05). The concentrations of 12 metabolites (including lipid, protein, sugar, antioxidant, and acute phase reaction protein) were significantly changed after intravitreal TA, while 11 metabolites were changed after subconjunctival DEX, compared to the controls. PCA showed that alanine and acetate were the highest value contributions, while sugar metabolism was the major metabolic difference between TA and DEX.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The main metabolic change in the aqueous humor of rabbits after the administration of glucocorticosteroids is sugar metabolism, and the function of the retina and the optic nerve was impaired after intravitreal TA.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Song</LastName>
+<ForeName>Zhengyu</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Ophthalmology, Shanghai Jiaotong University Affiliated First People's Hospital, Shanghai, PR China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gao</LastName>
+<ForeName>Hongchang</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Haiyun</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sun</LastName>
+<ForeName>Xiaodong</ForeName>
+<Initials>X</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Curr Eye Res</MedlineTA>
+<NlmUniqueID>8104312</NlmUniqueID>
+<ISSNLinking>0271-3683</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005938">Glucocorticoids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1ZK20VI6TY</RegistryNumber>
+<NameOfSubstance UI="D014221">Triamcinolone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7S5I7G3JQL</RegistryNumber>
+<NameOfSubstance UI="D003907">Dexamethasone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>IY9XDZ35W2</RegistryNumber>
+<NameOfSubstance UI="D005947">Glucose</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001082">Aqueous Humor</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003907">Dexamethasone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004596">Electroretinography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005074">Evoked Potentials, Visual</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005128">Eye Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005938">Glucocorticoids</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005947">Glucose</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007429">Intraocular Pressure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058449">Intravitreal Injections</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008055">Lipids</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009682">Magnetic Resonance Spectroscopy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055432">Metabolomics</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011817">Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014221">Triamcinolone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>9</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21591866</ArticleId>
+<ArticleId IdType="doi">10.3109/02713683.2011.566410</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,240 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17069106</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>11</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>12</Month>
+<Day>03</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1081-1206</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>97</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Annals of allergy, asthma &amp; immunology : official publication of the American College of Allergy, Asthma, &amp; Immunology</Title>
+<ISOAbbreviation>Ann. Allergy Asthma Immunol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Determinants of cockroach and mouse exposure and associations with asthma in families and elderly individuals living in New York City public housing.</ArticleTitle>
+<Pagination>
+<MedlinePgn>502-13</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Asthma prevalence is high in the inner city, and morbidity has been associated with cockroach and mouse allergens.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To characterize the relationships among pests, allergens, pesticides, and asthma in New York City public housing.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">In 324 apartments, dust samples collected from beds and kitchens were analyzed for cockroach (Bla g 2) and mouse (mouse urinary protein [MUP]) allergens, pest populations were monitored, and residents were interviewed about home characteristics and asthma symptoms.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Cockroaches were found in 77% of the apartments, and evidence of mice was found in 13%. Allergens and pesticide use were associated with pest infestation, and 15% of residents reported using illegal pesticides. The percentage of apartments with high allergen levels varied significantly by building (Bla g 2: P = .002; MUP: P = .03), as did the percentage of apartments with cockroaches (P = .002) and daily mouse sightings (P = .02). Thirty-seven percent of the apartments had at least 1 resident with physician-diagnosed asthma. In family buildings, apartments with high Bla g 2 levels had 1.7 times greater odds of having an asthmatic resident (95% confidence interval, 1.2-2.3). In senior citizen buildings, apartments with high MUP levels had 6.6 times greater odds of having an asthmatic resident (95% confidence interval, 1.4-31.7), controlling for smoking and other potential confounders.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Previous studies have identified home characteristics associated with the presence of cockroaches and mice, but the present findings suggest that building-level characteristics can affect high pest exposure. Furthermore, the high asthma prevalence in residents and the use of illegal pesticides highlight the need for safe and effective building-wide pest control strategies.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Chew</LastName>
+<ForeName>Ginger L</ForeName>
+<Initials>GL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York, New York 10032, USA. cg288@columbia.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carlton</LastName>
+<ForeName>Elizabeth J</ForeName>
+<Initials>EJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kass</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hernandez</LastName>
+<ForeName>Marta</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clarke</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tiven</LastName>
+<ForeName>Julius</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garfinkel</LastName>
+<ForeName>Robin</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nagle</LastName>
+<ForeName>Sean</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Evans</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>5 P30 ES 09089</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5 R01 ES008977</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5 R01 ES012468</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5 R01 ES10165</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5 R01ES11158</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P01 ES009600</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>RR00645</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Ann Allergy Asthma Immunol</MedlineTA>
+<NlmUniqueID>9503580</NlmUniqueID>
+<ISSNLinking>1081-1206</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000485">Allergens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000485">Allergens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001249">Asthma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003058">Cockroaches</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004781">Environmental Exposure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005190">Family</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D009519">New York City</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010571">Pest Control</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011638">Public Housing</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>10</Month>
+<Day>31</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>10</Month>
+<Day>31</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17069106</ArticleId>
+<ArticleId IdType="pii">S1081-1206(10)60942-8</ArticleId>
+<ArticleId IdType="doi">10.1016/S1081-1206(10)60942-8</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

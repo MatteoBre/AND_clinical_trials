@@ -1,0 +1,225 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27592180</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>09</Month>
+<Day>27</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1538-9375</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>17</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American Medical Directors Association</Title>
+<ISOAbbreviation>J Am Med Dir Assoc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Clinical Efficacy of Acupuncture Treatment in Combination With RehaCom Cognitive Training for Improving Cognitive Function in Stroke: A 2 × 2 Factorial Design Randomized Controlled Trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1114-1122</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="pii" ValidYN="Y">S1525-8610(16)30299-7</ELocationID>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jamda.2016.07.021</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE">The aim of this study was to identify the clinical efficacy of acupuncture in combination with RehaCom cognitive training in poststroke patients with cognitive dysfunction.</AbstractText>
+<AbstractText Label="METHODS/DESIGN">This study was a 2 × 2 factorial design randomized controlled trial comparing acupuncture, computer-assisted cognitive rehabilitation, and the usual treatment by per-protocol analysis. The trial was completed by 204 stroke patients, including 49 patients in a control group, 52 patients in an acupuncture treatment group, 51 patients in a RehaCom training group, and 52 patients in an acupuncture combined with RehaCom group. All of the patients accepted basic treatment and health education. The interventions continued for 12 weeks (30 minutes per day, 5 days per week). The relative cognitive and functional outcomes were measured at baseline and 12 weeks (at the end of intervention) using the Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MoCA), and Functional Independence Measure (FIM) scales.</AbstractText>
+<AbstractText Label="RESULTS">After 12 weeks of treatment, the functional statuses of the patients in each of the 4 groups showed varying degrees of improvement. Multiple comparisons of the changes in the MMSE, MoCA, and FIM scores indicated that acupuncture combined with RehaCom cognitive training (ACR) had enhanced therapeutic effects on the functional statuses of the stroke patients (P &lt; .05). In addition, ACR had similar therapeutic effects on the functional statuses of the stroke patients according to each of the assessment scales applied (P△<sub>change value</sub> MMSE = 0.399, P△MoCA = 0.794, P△FIM = 0.862). The interaction effect values between acupuncture and RehaCom training (acceptance or nonacceptance) were as follows: △MMSE: F = 6.251, P = .013; △MoCA: F = 4.991, P = .027; and △FIM: F = 6.317, P = .013. Further, the main effect values for acupuncture and RehaCom training were both significant (P &lt; .05).</AbstractText>
+<AbstractText Label="CONCLUSIONS">There is an interaction effect in the treatment of stroke patients using ACR. The use of acupuncture in combination with RehaCom training has better therapeutic effects on the functional statuses of poststroke patients than the use of either treatment alone, demonstrating the clinical significance of this combination therapy.</AbstractText>
+<CopyrightInformation>Copyright Â© 2016 AMDA – The Society for Post-Acute and Long-Term Care Medicine. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Jiang</LastName>
+<ForeName>Cai</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Fujian University of Traditional Chinese Medicine, Fujian, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Shanli</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Rehabilitation Medicine, Rehabilitation Hospital, Fujian University of Traditional Chinese Medicine, Fujian, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tao</LastName>
+<ForeName>Jing</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Rehabilitation Medicine, Rehabilitation Hospital, Fujian University of Traditional Chinese Medicine, Fujian, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Jia</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Fujian University of Traditional Chinese Medicine, Fujian, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Yinyan</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Rehabilitation Medicine, Rehabilitation Hospital, Fujian University of Traditional Chinese Medicine, Fujian, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ye</LastName>
+<ForeName>Haicheng</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Rehabilitation Medicine, First Hospital of Quanzhou Affiliated to Fujian Medical University, Quanzhou, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>Shanjia</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Fujian University of Traditional Chinese Medicine, Fujian, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hong</LastName>
+<ForeName>Wenjun</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Fujian University of Traditional Chinese Medicine, Fujian, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>Lidian</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Fujian University of Traditional Chinese Medicine, Fujian, China. Electronic address: lidianchen1987@126.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>08</Month>
+<Day>31</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Am Med Dir Assoc</MedlineTA>
+<NlmUniqueID>100893243</NlmUniqueID>
+<ISSNLinking>1525-8610</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015670">Acupuncture Therapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003071">Cognition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017063">Outcome Assessment (Health Care)</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000071939">Stroke Rehabilitation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013813">Therapy, Computer-Assisted</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Acupuncture</Keyword>
+<Keyword MajorTopicYN="Y">RehaCom training</Keyword>
+<Keyword MajorTopicYN="Y">cognitive dysfunction</Keyword>
+<Keyword MajorTopicYN="Y">stroke</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>11</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27592180</ArticleId>
+<ArticleId IdType="pii">S1525-8610(16)30299-7</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jamda.2016.07.021</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

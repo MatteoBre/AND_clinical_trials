@@ -1,0 +1,1645 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27587472</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>08</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1468-6244</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>53</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>12</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of medical genetics</Title>
+<ISOAbbreviation>J. Med. Genet.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Meta-analysis of genome-wide association studies of HDL cholesterol response to statins.</ArticleTitle>
+<Pagination>
+<MedlinePgn>835-845</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1136/jmedgenet-2016-103966</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND">In addition to lowering low density lipoprotein cholesterol (LDL-C), statin therapy also raises high density lipoprotein cholesterol (HDL-C) levels. Inter-individual variation in HDL-C response to statins may be partially explained by genetic variation.</AbstractText>
+<AbstractText Label="METHODS AND RESULTS">We performed a meta-analysis of genome-wide association studies (GWAS) to identify variants with an effect on statin-induced high density lipoprotein cholesterol (HDL-C) changes. The 123 most promising signals with p&lt;1×10<sup>-4</sup> from the 16 769 statin-treated participants in the first analysis stage were followed up in an independent group of 10 951 statin-treated individuals, providing a total sample size of 27 720 individuals. The only associations of genome-wide significance (p&lt;5×10<sup>-8</sup>) were between minor alleles at the CETP locus and greater HDL-C response to statin treatment.</AbstractText>
+<AbstractText Label="CONCLUSIONS">Based on results from this study that included a relatively large sample size, we suggest that CETP may be the only detectable locus with common genetic variants that influence HDL-C response to statins substantially in individuals of European descent. Although CETP is known to be associated with HDL-C, we provide evidence that this pharmacogenetic effect is independent of its association with baseline HDL-C levels.</AbstractText>
+<CopyrightInformation>Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to http://www.bmj.com/company/products-services/rights-and-licensing/.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Postmus</LastName>
+<ForeName>Iris</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gerontology and Geriatrics, Leiden University Medical Center, Leiden, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Warren</LastName>
+<ForeName>Helen R</ForeName>
+<Initials>HR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Pharmacology, William Harvey Research Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, EC1M 6BQ, UK.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Barts NIHR Cardiovascular Biomedical Research Unit, Queen Mary University of London, London, EC1M 6BQ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Trompet</LastName>
+<ForeName>Stella</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gerontology and Geriatrics, Leiden University Medical Center, Leiden, The Netherlands.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Cardiology, Leiden University Medical Center, Leiden, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arsenault</LastName>
+<ForeName>Benoit J</ForeName>
+<Initials>BJ</Initials>
+<AffiliationInfo>
+<Affiliation>Montreal Heart Institute, Université de Montréal, Montreal, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Avery</LastName>
+<ForeName>Christy L</ForeName>
+<Initials>CL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, University of North Carolina, Chapel Hill, North Carolina, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bis</LastName>
+<ForeName>Joshua C</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chasman</LastName>
+<ForeName>Daniel I</ForeName>
+<Initials>DI</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Preventive Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Harvard School of Public Health, Boston, Massachusetts, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Keyser</LastName>
+<ForeName>Catherine E</ForeName>
+<Initials>CE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Erasmus Medical Center, Rotterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deshmukh</LastName>
+<ForeName>Harshal A</ForeName>
+<Initials>HA</Initials>
+<AffiliationInfo>
+<Affiliation>Medical Research Institute, University of Dundee, Ninewells Hospital and Medical School, Dundee, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Evans</LastName>
+<ForeName>Daniel S</ForeName>
+<Initials>DS</Initials>
+<AffiliationInfo>
+<Affiliation>California Pacific Medical Center Research Institute, San Francisco, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feng</LastName>
+<ForeName>QiPing</ForeName>
+<Initials>Q</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Pharmacology, Vanderbilt University, Nashville, Tennessee, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Xiaohui</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Institute for Translational Genomics and Population Sciences, Los Angeles Biomedical Research Institute and Departments of Pediatrics and Medicine at Harbor-UCLA Medical Center, Torrance, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smit</LastName>
+<ForeName>Roelof A J</ForeName>
+<Initials>RA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiology, Leiden University Medical Center, Leiden, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>Albert V</ForeName>
+<Initials>AV</Initials>
+<AffiliationInfo>
+<Affiliation>Icelandic Heart Association, Kopavogur, Iceland.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Iceland, Reykjavik, Iceland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sun</LastName>
+<ForeName>Fangui</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biostatistics, Boston University School of Public Health, Boston, Massachusetts, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taylor</LastName>
+<ForeName>Kent D</ForeName>
+<Initials>KD</Initials>
+<AffiliationInfo>
+<Affiliation>Institute for Translational Genomics and Population Sciences, Los Angeles Biomedical Research Institute and Departments of Pediatrics and Medicine at Harbor-UCLA Medical Center, Torrance, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arnold</LastName>
+<ForeName>Alice M</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biostatistics, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barnes</LastName>
+<ForeName>Michael R</ForeName>
+<Initials>MR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Pharmacology, William Harvey Research Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, EC1M 6BQ, UK.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Barts NIHR Cardiovascular Biomedical Research Unit, Queen Mary University of London, London, EC1M 6BQ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barratt</LastName>
+<ForeName>Bryan J</ForeName>
+<Initials>BJ</Initials>
+<AffiliationInfo>
+<Affiliation>Personalised Healthcare and Biomarkers AstraZeneca Research and Development, Alderley Park, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Betteridge</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>University College London Hospital, London, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boekholdt</LastName>
+<ForeName>S Matthijs</ForeName>
+<Initials>SM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiology, Academic Medical Center, Amsterdam, North Holland, Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boerwinkle</LastName>
+<ForeName>Eric</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Human Genetics Center, School of Public Health, University of Texas Health Science Center at Houston, Houston, Texas, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Buckley</LastName>
+<ForeName>Brendan M</ForeName>
+<Initials>BM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pharmacology and Therapeutics, University College Cork, Western Road, Cork, Ireland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>Y-D Ida</ForeName>
+<Initials>YI</Initials>
+<AffiliationInfo>
+<Affiliation>Institute for Translational Genomics and Population Sciences, Los Angeles Biomedical Research Institute and Departments of Pediatrics and Medicine at Harbor-UCLA Medical Center, Torrance, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Craen</LastName>
+<ForeName>Anton J M</ForeName>
+<Initials>AJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gerontology and Geriatrics, Leiden University Medical Center, Leiden, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cummings</LastName>
+<ForeName>Steven R</ForeName>
+<Initials>SR</Initials>
+<AffiliationInfo>
+<Affiliation>California Pacific Medical Center Research Institute, San Francisco, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Denny</LastName>
+<ForeName>Joshua C</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biomedical Informatics, Vanderbilt University, Nashville, Tennessee, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Vanderbilt University, Nashville, Tennessee, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dubé</LastName>
+<ForeName>Marie Pierre</ForeName>
+<Initials>MP</Initials>
+<AffiliationInfo>
+<Affiliation>Montreal Heart Institute, Université de Montréal, Montreal, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Durrington</LastName>
+<ForeName>Paul N</ForeName>
+<Initials>PN</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Group, School of Biosciences, University of Manchester, Manchester, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eiriksdottir</LastName>
+<ForeName>Gudny</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Icelandic Heart Association, Kopavogur, Iceland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ford</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Robertson Center for Biostatistics, University of Glasgow, Glasgow, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guo</LastName>
+<ForeName>Xiuqing</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Institute for Translational Genomics and Population Sciences, Los Angeles Biomedical Research Institute and Departments of Pediatrics and Medicine at Harbor-UCLA Medical Center, Torrance, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harris</LastName>
+<ForeName>Tamara B</ForeName>
+<Initials>TB</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Epidemiology, Demography, Biometry, National Institute on Aging, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heckbert</LastName>
+<ForeName>Susan R</ForeName>
+<Initials>SR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Health Research Unit, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Group Health Research Institute, Group Health Cooperative, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hofman</LastName>
+<ForeName>Albert</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Erasmus Medical Center, Rotterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>The Netherlands Consortium for Healthy Ageing, Leiden, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hovingh</LastName>
+<ForeName>G Kees</ForeName>
+<Initials>GK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Vascular Medicine, Academic Medical Center, Amsterdam, North Holland, Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kastelein</LastName>
+<ForeName>John J P</ForeName>
+<Initials>JJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Vascular Medicine, Academic Medical Center, Amsterdam, North Holland, Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Launer</LastName>
+<ForeName>Leonore J</ForeName>
+<Initials>LJ</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Epidemiology, Demography, Biometry, National Institute on Aging, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Ching-Ti</ForeName>
+<Initials>CT</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biostatistics, Boston University School of Public Health, Boston, Massachusetts, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Yongmei</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology and Prevention, Division of Public Health Sciences, Wake Forest School of Medicine, Winston-Salem, North Carolina, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lumley</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Statistic, University of Auckland, Auckland, New Zealand.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>McKeigue</LastName>
+<ForeName>Paul M</ForeName>
+<Initials>PM</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Population Health Sciences, University of Edinburgh, Edinburgh, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Munroe</LastName>
+<ForeName>Patricia B</ForeName>
+<Initials>PB</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Pharmacology, William Harvey Research Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, EC1M 6BQ, UK.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Barts NIHR Cardiovascular Biomedical Research Unit, Queen Mary University of London, London, EC1M 6BQ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Neil</LastName>
+<ForeName>Andrew</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Oxford Centre for Diabetes, Endocrinology and Metabolism, University of Oxford, Churchill Hospital, Oxford, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nickerson</LastName>
+<ForeName>Deborah A</ForeName>
+<Initials>DA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Genome Sciences, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nyberg</LastName>
+<ForeName>Fredrik</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Medical Evidence and Observational Research, AstraZeneca Gothenburg, Mölndal, Sweden.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Unit of Occupational and Environmental Medicine, University of Gothenburg, Gothenburg, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Brien</LastName>
+<ForeName>Eoin</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>The Conway Institute, University College Dublin, Dublin 4, Ireland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Donnell</LastName>
+<ForeName>Christopher J</ForeName>
+<Initials>CJ</Initials>
+<AffiliationInfo>
+<Affiliation>Framingham Heart Study, National Heart, Lung, and Blood Institute, Framingham, Massachusetts, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cardiology Division, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>NHLBI Division of Intramural Research, Bethesda, Maryland, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Post</LastName>
+<ForeName>Wendy</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiology, Johns Hopkins University, Baltimore, Maryland, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Poulter</LastName>
+<ForeName>Neil</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>International Centre for Circulatory Health, Imperial College London, London, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vasan</LastName>
+<ForeName>Ramachandran S</ForeName>
+<Initials>RS</Initials>
+<AffiliationInfo>
+<Affiliation>Section of Preventive Medicine and Epidemiology, Department of Medicine, Boston University School of Medicine, and the Framingham Heart Study, Framingham, Massachusetts, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rice</LastName>
+<ForeName>Kenneth</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biostatistics, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rich</LastName>
+<ForeName>Stephen S</ForeName>
+<Initials>SS</Initials>
+<AffiliationInfo>
+<Affiliation>Center for Public Health Genomics, University of Virginia, Charlottesville, Virginia, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rivadeneira</LastName>
+<ForeName>Fernando</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, Erasmus Medical Center, Rotterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sattar</LastName>
+<ForeName>Naveed</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Cardiovascular and Medical Science, University of Glasgow, Glasgow, Scotland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sever</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>International Centre for Circulatory Health, Imperial College London, London, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shaw-Hawkins</LastName>
+<ForeName>Sue</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Pharmacology, William Harvey Research Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, EC1M 6BQ, UK.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Barts NIHR Cardiovascular Biomedical Research Unit, Queen Mary University of London, London, EC1M 6BQ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shields</LastName>
+<ForeName>Denis C</ForeName>
+<Initials>DC</Initials>
+<AffiliationInfo>
+<Affiliation>The Conway Institute, University College Dublin, Dublin 4, Ireland.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>School of Medicine and Medical Sciences, University College Dublin, Dublin, Ireland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Slagboom</LastName>
+<ForeName>P Eline</ForeName>
+<Initials>PE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Molecular Epidemiology, Leiden University Medical Center, Leiden, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>Nicholas L</ForeName>
+<Initials>NL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Group Health Research Institute, Group Health Cooperative, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Veterans Affairs Office of Research and Development, Seattle Epidemiologic Research and Information Center, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>Joshua D</ForeName>
+<Initials>JD</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Genome Sciences, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sotoodehnia</LastName>
+<ForeName>Nona</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Division of Cardiology, Harborview Medical Center, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stanton</LastName>
+<ForeName>Alice</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular and Cellular Therapeutics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Beaumont Hospital, Dublin, Ireland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stott</LastName>
+<ForeName>David J</ForeName>
+<Initials>DJ</Initials>
+<AffiliationInfo>
+<Affiliation>Faculty of Medicine, Institute of Cardiovascular and Medical Sciences, University of Glasgow, Glasgow, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stricker</LastName>
+<ForeName>Bruno H</ForeName>
+<Initials>BH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Erasmus Medical Center, Rotterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, Erasmus Medical Center, Rotterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Inspectorate of Health Care, the Hague, the Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stürmer</LastName>
+<ForeName>Til</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, University of North Carolina, Chapel Hill, North Carolina, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Uitterlinden</LastName>
+<ForeName>André G</ForeName>
+<Initials>AG</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Erasmus Medical Center, Rotterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>The Netherlands Consortium for Healthy Ageing, Leiden, The Netherlands.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, Erasmus Medical Center, Rotterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wei</LastName>
+<ForeName>Wei-Qi</ForeName>
+<Initials>WQ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biomedical Informatics, Vanderbilt University, Nashville, Tennessee, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Westendorp</LastName>
+<ForeName>Rudi G J</ForeName>
+<Initials>RG</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Public Health, Center for Healthy Ageing, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Whitsel</LastName>
+<ForeName>Eric A</ForeName>
+<Initials>EA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, University of North Carolina, Chapel Hill, North Carolina, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of North Carolina, Chapel Hill, North Carolina, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wiggins</LastName>
+<ForeName>Kerri L</ForeName>
+<Initials>KL</Initials>
+<Identifier Source="ORCID">0000-0003-2749-1279</Identifier>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilke</LastName>
+<ForeName>Russell A</ForeName>
+<Initials>RA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, Sanford Healthcare, Sioux Falls, South Dakota, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of South Dakota, Sioux Falls, South Dakota, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ballantyne</LastName>
+<ForeName>Christie M</ForeName>
+<Initials>CM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Baylor College of Medicine, Houston, Texas, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Colhoun</LastName>
+<ForeName>Helen M</ForeName>
+<Initials>HM</Initials>
+<AffiliationInfo>
+<Affiliation>Medical Research Institute, University of Dundee, Ninewells Hospital and Medical School, Dundee, UK.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Public Health, University of Dundee, Dundee, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cupples</LastName>
+<ForeName>L Adrienne</ForeName>
+<Initials>LA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biostatistics, Boston University School of Public Health, Boston, Massachusetts, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Framingham Heart Study, National Heart, Lung, and Blood Institute, Framingham, Massachusetts, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Franco</LastName>
+<ForeName>Oscar H</ForeName>
+<Initials>OH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Erasmus Medical Center, Rotterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gudnason</LastName>
+<ForeName>Vilmundur</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Icelandic Heart Association, Kopavogur, Iceland.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Iceland, Reykjavik, Iceland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hitman</LastName>
+<ForeName>Graham</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Barts and the London School of Medicine and Dentistry, Queen Mary University of London, London, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palmer</LastName>
+<ForeName>Colin N A</ForeName>
+<Initials>CN</Initials>
+<AffiliationInfo>
+<Affiliation>Medical Research Institute, University of Dundee, Ninewells Hospital and Medical School, Dundee, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Psaty</LastName>
+<ForeName>Bruce M</ForeName>
+<Initials>BM</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Group Health Research Institute, Group Health Cooperative, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Health Services, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ridker</LastName>
+<ForeName>Paul M</ForeName>
+<Initials>PM</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Preventive Medicine, Brigham and Women's Hospital, Boston, Massachusetts, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stafford</LastName>
+<ForeName>Jeanette M</ForeName>
+<Initials>JM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biostatistical Sciences, Division of Public Health Sciences, Wake Forest School of Medicine, Winston-Salem, North Carolina, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stein</LastName>
+<ForeName>Charles M</ForeName>
+<Initials>CM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Vanderbilt University, Nashville, Tennessee, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pharmacology, Vanderbilt University, Nashville, Tennessee, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tardif</LastName>
+<ForeName>Jean-Claude</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>Montreal Heart Institute, Université de Montréal, Montreal, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Caulfield</LastName>
+<ForeName>Mark J</ForeName>
+<Initials>MJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Pharmacology, William Harvey Research Institute, Barts and The London School of Medicine and Dentistry, Queen Mary University of London, London, EC1M 6BQ, UK.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Barts NIHR Cardiovascular Biomedical Research Unit, Queen Mary University of London, London, EC1M 6BQ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jukema</LastName>
+<ForeName>J Wouter</ForeName>
+<Initials>JW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiology, Leiden University Medical Center, Leiden, The Netherlands.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Durrer Center for Cardiogenetic Research, Amsterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Interuniversity Cardiology Institute of the Netherlands, Utrecht, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rotter</LastName>
+<ForeName>Jerome I</ForeName>
+<Initials>JI</Initials>
+<AffiliationInfo>
+<Affiliation>Institute for Translational Genomics and Population Sciences, Los Angeles Biomedical Research Institute and Departments of Pediatrics and Medicine at Harbor-UCLA Medical Center, Torrance, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krauss</LastName>
+<ForeName>Ronald M</ForeName>
+<Initials>RM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Atherosclerosis Research, Children's Hospital Oakland Research Institute, Oakland, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>HHSN268201100012C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR033176</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL103612</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100009I</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 TR000445</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>084727/Z/08/Z</GrantID>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC95160</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL120393</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100010C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR025005</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 AG062101</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC95163</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100008C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL080295</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100005G</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100008I</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL068986</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL059367</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100007C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268200800007C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL085251</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC95169</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100011I</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100011C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL086694</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004603</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024156</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Department of Health</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL087652</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004402</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC95164</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 TR000124</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 AG062106</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC55222</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC95162</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC85086</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL105756</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC95168</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AG032098</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 DK063491</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268200782096C</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100006C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>Z01 AG007380-02</GrantID>
+<Acronym>NULL</Acronym>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201200036C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100005I</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 AG062103</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC95165</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC95161</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>085475/B/08/Z</GrantID>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>P50 GM115305</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC85082</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC95167</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL043201</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U19 HL069757</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>MR/K006584/1</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100009C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC85083</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100005C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC25195</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100007I</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024975</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC85079</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC95166</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AG023629</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL087641</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL073410</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P2C HD050924</GrantID>
+<Acronym>HD</Acronym>
+<Agency>NICHD NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>G0600237</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC85080</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 HC095159</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC85081</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID> 085475/Z/08/Z</GrantID>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D017418">Meta-Analysis</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>09</Month>
+<Day>01</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Med Genet</MedlineTA>
+<NlmUniqueID>2985087R</NlmUniqueID>
+<ISSNLinking>0022-2593</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C506642">CETP protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D053480">Cholesterol Ester Transfer Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008076">Cholesterol, HDL</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019161">Hydroxymethylglutaryl-CoA Reductase Inhibitors</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053480">Cholesterol Ester Transfer Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008076">Cholesterol, HDL</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044465">European Continental Ancestry Group</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055106">Genome-Wide Association Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019161">Hydroxymethylglutaryl-CoA Reductase Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000071184">Pharmacogenomic Variants</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Genome-wide association study</Keyword>
+<Keyword MajorTopicYN="Y">HDL-cholesterol</Keyword>
+<Keyword MajorTopicYN="Y">Statins</Keyword>
+<Keyword MajorTopicYN="Y">pharmacogenetics</Keyword>
+</KeywordList>
+<CoiStatement>Competing financial interests: BMP serves on the Data and Safety Monitoring Board of a clinical trial funded by the device manufacturer (Zoll LifeCor) and serves on the Steering Committee of the Yale Open Data Access Project funded by Johnson &amp; Johnson. NP and AS received funding from Pfizer for the extended follow-up of the ASCOT UK participants. DIC and PMR received research support for independent genetic analysis in JUPITER from AstraZeneca. FN and BJB have employment, stock and stock options in AstraZeneca, a for-profit company engaged in the discovery, development, manufacture and marketing of proprietary therapeutics such as rosuvastatin, but do not consider that this creates any conflict of interest with the subject-matter of this publication. RMK serves on the Merck Global Atherosclerosis Advisory Board. The remaining authors declare no competing financial interests.</CoiStatement>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>03</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>8</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27587472</ArticleId>
+<ArticleId IdType="pii">jmedgenet-2016-103966</ArticleId>
+<ArticleId IdType="doi">10.1136/jmedgenet-2016-103966</ArticleId>
+<ArticleId IdType="pmc">PMC5309131</ArticleId>
+<ArticleId IdType="mid">NIHMS835509</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Arterioscler Thromb Vasc Biol. 2006 Apr;26(4):681-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16556861</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2013 Nov;45(11):1274-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24097068</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2013 Oct 1;128(14):1504-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23965489</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Cardiovasc Dis. 2004 Sep-Oct;47(2):73-104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15586350</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2011 Dec 15;365(24):2255-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22085343</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Nov 1;491(7422):56-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23128226</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2004 Aug 21-27;364(9435):685-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15325833</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genet Mol Res. 2014 Mar 24;13(1):2140-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24737438</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Drugs Ther. 2008 Aug;22(4):321-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18553127</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 2002 Aug;163(2):287-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12052475</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2010 Nov 13;376(9753):1670-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21067804</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Expert Opin Pharmacother. 2007 Oct;8(15):2459-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17931083</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pharmacogenet Genomics. 2013 Oct;23(10):518-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23903772</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2007 Feb 7;297(5):499-508</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17284700</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Commun. 2014 Oct 28;5:5068</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25350695</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2007 Jul;39(7):906-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17572673</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Lipid Res. 2007 Sep;48(9):2072-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17563401</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2010 Aug 5;466(7307):707-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20686565</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Genet. 2007 Jul;3(7):e114</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17676998</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1998 Jan 8;338(2):86-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9420339</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2010 Sep 1;26(17):2190-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20616382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2005 Jan 25;111(3):278-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15655129</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2010 Mar 22;5(3):e9763</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20339536</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 2008 Mar;197(1):57-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17868678</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2012 Aug 11;380(9841):572-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22607825</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genet Epidemiol. 2010 Dec;34(8):816-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21058334</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(3):e31930</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22403620</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2014 Jul 17;371(3):203-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25014686</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2009 Nov 11;302(18):1993-2000</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19903920</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2010 Sep 15;26(18):2336-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20634204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 1993 Mar;99(2):219-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8503950</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 2006 Mar;185(1):97-107</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16002074</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Cardiovasc Genet. 2012 Apr 1;5(2):257-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22331829</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2012 Mar 18;44(4):369-75, S1-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22426310</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Genet. 2012;8(3):e1002607</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22479202</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2003 Dec 18;426(6968):789-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14685227</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pharmacol Ther. 2014 Mar;95(3):314-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24080640</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,234 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19149519</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>03</Month>
+<Day>31</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1574-8863</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>4</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Current drug safety</Title>
+<ISOAbbreviation>Curr Drug Saf</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A multiple-dose, open-label, safety, compliance, and usage evaluation study of epicutaneously applied Diractin (ketoprofen in Transfersome) in joint/musculoskeletal pain or soft tissue inflammation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>5-10</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The risk of oral NSAID including Cox-2 inhibitors to cause gastrointestinal, renal or cardiovascular adverse events related to systemic drug exposure could be reduced by local application. But only few long-term studies have been published to show safety and efficacy for long-term use of topical NSAID s. Diractin (formerly IDEA-033) is a viscous, aqueous formulation for epicutaneous application of ketoprofen based on ultra-deformable, self-regulating carrier (Transfersome). This multiple-dose, open label study with treatment periods up to 18 months included 402 patients with joint pain, musculoskeletal pain, stiffness or soft tissue inflammation (age of 61.4+/-11.5 years). Most of the patients suffered from osteoarthritis (OA) of the knee (68.9%). Diractin was applied epicutaneously up to twice daily with a maximum dose of 220 mg ketoprofen per a maximum of 2 application sites. The mean pain score at baseline was 5.4+/-.4 on a 10 point categorical scale. During the study the pain score progressively improved up to week 36 (3.5+/-1.9) without a substantial further change during the rest of observation period of up to 18 months. The reduction of pain scores between week 0 (baseline) and at all later visits was statistically significant (P&lt;0.0001). Patients also reported an improvement of quality of life on the EUROQoL. The majority of treatment related adverse events were skin and subcutaneous tissue disorders with the highest frequency reported for erythema (16.7%) and pruritus (2.0%). Systemic ketoprofen exposure remained low throughout the study period with plasma concentrations of less than 1% of what was reported for a single, standard oral dose of 200 mg ketoprofen. There were no occurrences of treatment related serious adverse events and no remarkable changes in laboratory values or vital signs. In summary, Diractin provided adequate pain relief with a good safety and tolerability profile when used for up to 18 months (72 weeks).</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kneer</LastName>
+<ForeName>Werner</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Orthopaedic Outpatient Centre, Stockach, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rother</LastName>
+<ForeName>Ilka</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rother</LastName>
+<ForeName>Matthias</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seidel</LastName>
+<ForeName>Egbert</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>IDEA-033-III-01 Study Group</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United Arab Emirates</Country>
+<MedlineTA>Curr Drug Saf</MedlineTA>
+<NlmUniqueID>101270895</NlmUniqueID>
+<ISSNLinking>1574-8863</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004337">Drug Carriers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>90Y4QC304K</RegistryNumber>
+<NameOfSubstance UI="D007660">Ketoprofen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000279">Administration, Cutaneous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018771">Arthralgia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004337">Drug Carriers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007249">Inflammation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007660">Ketoprofen</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008137">Longitudinal Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055118">Medication Adherence</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009140">Musculoskeletal Diseases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010146">Pain</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010147">Pain Measurement</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011788">Quality of Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017695">Soft Tissue Injuries</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<InvestigatorList>
+<Investigator ValidYN="Y">
+<LastName>Ludwig</LastName>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lehnhardt</LastName>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Boronczyk</LastName>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Dorow</LastName>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Baumann</LastName>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Veith</LastName>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bolze</LastName>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Boy</LastName>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Radinger</LastName>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Scheider</LastName>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kneer</LastName>
+<ForeName>Werner</ForeName>
+<Initials>W</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Seidel</LastName>
+<ForeName>Egbert</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rother</LastName>
+<ForeName>Matthias</ForeName>
+<Initials>M</Initials>
+</Investigator>
+</InvestigatorList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>1</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>1</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>1</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19149519</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

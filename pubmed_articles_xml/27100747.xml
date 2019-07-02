@@ -1,0 +1,143 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27100747</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>06</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>03</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1537-2995</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>56 Suppl 2</Volume>
+<PubDate>
+<Year>2016</Year>
+<Month>04</Month>
+</PubDate>
+</JournalIssue>
+<Title>Transfusion</Title>
+<ISOAbbreviation>Transfusion</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Fibrinolytic shutdown: fascinating theory but randomized controlled trial data are needed.</ArticleTitle>
+<Pagination>
+<MedlinePgn>S115-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/trf.13490</ELocationID>
+<Abstract>
+<AbstractText>Administration of tranexamic acid (TXA) to bleeding trauma patients who are within 3 hours of injury has been shown to safely reduce mortality in bleeding trauma patients. However, some believe that thromboelastography (TEG or ROTEM) can be used to subdivide these patients into those that will benefit from TXA and those that will be harmed by it. If thromboelastography can be used in this way there could be important patient benefits. However, if the approach is misguided, patients could be denied a lifesaving treatment. I believe that rather than debate the theoretical basis of this hypothesis, it should be tested by conducting a randomized controlled trial. Bleeding trauma patients who are within 3 hours of injury should be randomly allocated to receive TXA treatment or thromboelastometry-guided TXA treatment with the risk of death and complications compared between the groups. An adequately powered clinical trial would better serve patient interest than ongoing debate.</AbstractText>
+<CopyrightInformation>© 2016 AABB.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Roberts</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Trials Unit, London School of Hygiene &amp; Tropical Medicine, London, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Transfusion</MedlineTA>
+<NlmUniqueID>0417360</NlmUniqueID>
+<ISSNLinking>0041-1132</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000933">Antifibrinolytic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6T84R30KC1</RegistryNumber>
+<NameOfSubstance UI="D014148">Tranexamic Acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Transfusion. 2016 Apr;56 Suppl 2:S110-4</RefSource>
+<PMID Version="1">27100746</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000933">Antifibrinolytic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006470">Hemorrhage</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015601">Injury Severity Score</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016032">Randomized Controlled Trials as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014148">Tranexamic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>09</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>6</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27100747</ArticleId>
+<ArticleId IdType="doi">10.1111/trf.13490</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

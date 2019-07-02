@@ -1,0 +1,145 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27789492</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>07</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1478-5242</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>66</Volume>
+<Issue>652</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>The British journal of general practice : the journal of the Royal College of General Practitioners</Title>
+<ISOAbbreviation>Br J Gen Pract</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Antibiotic eye drops for conjunctivitis in infants at nursery.</ArticleTitle>
+<Pagination>
+<MedlinePgn>558-559</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>MacBride-Stewart</LastName>
+<ForeName>Sean</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Prescribing and Pharmacy Support Unit. E-mail: Sean.MacBride-Stewart@ggc.scot.nhs.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Br J Gen Pract</MedlineTA>
+<NlmUniqueID>9005323</NlmUniqueID>
+<ISSNLinking>0960-1643</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D009883">Ophthalmic Solutions</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000900">Anti-Bacterial Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001291">Attitude of Health Personnel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003231">Conjunctivitis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D058006">General Practice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019983">Guideline Adherence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009724">Nurseries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009883">Ophthalmic Solutions</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010818">Practice Patterns, Physicians'</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012606">Scotland</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>7</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27789492</ArticleId>
+<ArticleId IdType="pii">66/652/558-b</ArticleId>
+<ArticleId IdType="doi">10.3399/bjgp16X687697</ArticleId>
+<ArticleId IdType="pmc">PMC5072897</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Br J Gen Pract. 2016 Sep;66(650):e674-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27381485</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

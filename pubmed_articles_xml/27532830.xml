@@ -1,0 +1,260 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27532830</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>08</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>09</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1533-4406</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>375</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Aug</Month>
+<Day>18</Day>
+</PubDate>
+</JournalIssue>
+<Title>The New England journal of medicine</Title>
+<ISOAbbreviation>N. Engl. J. Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Closed-Loop Insulin Delivery during Pregnancy in Women with Type 1 Diabetes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>644-54</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1056/NEJMoa1602494</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In patients with type 1 diabetes who are not pregnant, closed-loop (automated) insulin delivery can provide better glycemic control than sensor-augmented pump therapy, but data are lacking on the efficacy, safety, and feasibility of closed-loop therapy during pregnancy.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We performed an open-label, randomized, crossover study comparing overnight closed-loop therapy with sensor-augmented pump therapy, followed by a continuation phase in which the closed-loop system was used day and night. Sixteen pregnant women with type 1 diabetes completed 4 weeks of closed-loop pump therapy (intervention) and sensor-augmented pump therapy (control) in random order. During the continuation phase, 14 of the participants used the closed-loop system day and night until delivery. The primary outcome was the percentage of time that overnight glucose levels were within the target range (63 to 140 mg per deciliter [3.5 to 7.8 mmol per liter]).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The percentage of time that overnight glucose levels were in the target range was higher during closed-loop therapy than during control therapy (74.7% vs. 59.5%; absolute difference, 15.2 percentage points; 95% confidence interval, 6.1 to 24.2; P=0.002). The overnight mean glucose level was lower during closed-loop therapy than during control therapy (119 vs. 133 mg per deciliter [6.6 vs. 7.4 mmol per liter], P=0.009). There were no significant differences between closed-loop and control therapy in the percentage of time in which glucose levels were below the target range (1.3% and 1.9%, respectively; P=0.28), in insulin doses, or in adverse-event rates. During the continuation phase (up to 14.6 additional weeks, including antenatal hospitalizations, labor, and delivery), glucose levels were in the target range 68.7% of the time; the mean glucose level was 126 mg per deciliter (7.0 mmol per liter). No episodes of severe hypoglycemia requiring third-party assistance occurred during either phase.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Overnight closed-loop therapy resulted in better glucose control than sensor-augmented pump therapy in pregnant women with type 1 diabetes. Women receiving day-and-night closed-loop therapy maintained glycemic control during a high proportion of the time in a period that encompassed antenatal hospital admission, labor, and delivery. (Funded by the National Institute for Health Research and others; Current Controlled Trials number, ISRCTN71510001.).</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Stewart</LastName>
+<ForeName>Zoe A</ForeName>
+<Initials>ZA</Initials>
+<AffiliationInfo>
+<Affiliation>From the Wellcome Trust-Medical Research Council Institute of Metabolic Science, University of Cambridge (Z.A.S., M.E.W., R.H., H.R.M.), and Wolfson Diabetes and Endocrine Clinic, Cambridge University Hospitals NHS Foundation Trust (S.H., D.S., H.R.M.), Cambridge, the Elsie Bertram Diabetes Centre (R.C.T., H.R.M.) and the Department of Obstetrics and Gynaecology (K.P.S.), Norfolk and Norwich University Hospitals NHS Foundation Trust, and the Norwich Medical School, University of East Anglia (H.R.M.), Norwich, the Ipswich Diabetes Centre, Ipswich Hospital NHS Trust, Ipswich (G.R.), and the Division of Epidemiology and Biostatistics, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds (G.R.L., E.M.S.) - all in the United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilinska</LastName>
+<ForeName>Malgorzata E</ForeName>
+<Initials>ME</Initials>
+<AffiliationInfo>
+<Affiliation>From the Wellcome Trust-Medical Research Council Institute of Metabolic Science, University of Cambridge (Z.A.S., M.E.W., R.H., H.R.M.), and Wolfson Diabetes and Endocrine Clinic, Cambridge University Hospitals NHS Foundation Trust (S.H., D.S., H.R.M.), Cambridge, the Elsie Bertram Diabetes Centre (R.C.T., H.R.M.) and the Department of Obstetrics and Gynaecology (K.P.S.), Norfolk and Norwich University Hospitals NHS Foundation Trust, and the Norwich Medical School, University of East Anglia (H.R.M.), Norwich, the Ipswich Diabetes Centre, Ipswich Hospital NHS Trust, Ipswich (G.R.), and the Division of Epidemiology and Biostatistics, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds (G.R.L., E.M.S.) - all in the United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hartnell</LastName>
+<ForeName>Sara</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>From the Wellcome Trust-Medical Research Council Institute of Metabolic Science, University of Cambridge (Z.A.S., M.E.W., R.H., H.R.M.), and Wolfson Diabetes and Endocrine Clinic, Cambridge University Hospitals NHS Foundation Trust (S.H., D.S., H.R.M.), Cambridge, the Elsie Bertram Diabetes Centre (R.C.T., H.R.M.) and the Department of Obstetrics and Gynaecology (K.P.S.), Norfolk and Norwich University Hospitals NHS Foundation Trust, and the Norwich Medical School, University of East Anglia (H.R.M.), Norwich, the Ipswich Diabetes Centre, Ipswich Hospital NHS Trust, Ipswich (G.R.), and the Division of Epidemiology and Biostatistics, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds (G.R.L., E.M.S.) - all in the United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Temple</LastName>
+<ForeName>Rosemary C</ForeName>
+<Initials>RC</Initials>
+<AffiliationInfo>
+<Affiliation>From the Wellcome Trust-Medical Research Council Institute of Metabolic Science, University of Cambridge (Z.A.S., M.E.W., R.H., H.R.M.), and Wolfson Diabetes and Endocrine Clinic, Cambridge University Hospitals NHS Foundation Trust (S.H., D.S., H.R.M.), Cambridge, the Elsie Bertram Diabetes Centre (R.C.T., H.R.M.) and the Department of Obstetrics and Gynaecology (K.P.S.), Norfolk and Norwich University Hospitals NHS Foundation Trust, and the Norwich Medical School, University of East Anglia (H.R.M.), Norwich, the Ipswich Diabetes Centre, Ipswich Hospital NHS Trust, Ipswich (G.R.), and the Division of Epidemiology and Biostatistics, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds (G.R.L., E.M.S.) - all in the United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rayman</LastName>
+<ForeName>Gerry</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>From the Wellcome Trust-Medical Research Council Institute of Metabolic Science, University of Cambridge (Z.A.S., M.E.W., R.H., H.R.M.), and Wolfson Diabetes and Endocrine Clinic, Cambridge University Hospitals NHS Foundation Trust (S.H., D.S., H.R.M.), Cambridge, the Elsie Bertram Diabetes Centre (R.C.T., H.R.M.) and the Department of Obstetrics and Gynaecology (K.P.S.), Norfolk and Norwich University Hospitals NHS Foundation Trust, and the Norwich Medical School, University of East Anglia (H.R.M.), Norwich, the Ipswich Diabetes Centre, Ipswich Hospital NHS Trust, Ipswich (G.R.), and the Division of Epidemiology and Biostatistics, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds (G.R.L., E.M.S.) - all in the United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stanley</LastName>
+<ForeName>Katharine P</ForeName>
+<Initials>KP</Initials>
+<AffiliationInfo>
+<Affiliation>From the Wellcome Trust-Medical Research Council Institute of Metabolic Science, University of Cambridge (Z.A.S., M.E.W., R.H., H.R.M.), and Wolfson Diabetes and Endocrine Clinic, Cambridge University Hospitals NHS Foundation Trust (S.H., D.S., H.R.M.), Cambridge, the Elsie Bertram Diabetes Centre (R.C.T., H.R.M.) and the Department of Obstetrics and Gynaecology (K.P.S.), Norfolk and Norwich University Hospitals NHS Foundation Trust, and the Norwich Medical School, University of East Anglia (H.R.M.), Norwich, the Ipswich Diabetes Centre, Ipswich Hospital NHS Trust, Ipswich (G.R.), and the Division of Epidemiology and Biostatistics, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds (G.R.L., E.M.S.) - all in the United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Simmons</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>From the Wellcome Trust-Medical Research Council Institute of Metabolic Science, University of Cambridge (Z.A.S., M.E.W., R.H., H.R.M.), and Wolfson Diabetes and Endocrine Clinic, Cambridge University Hospitals NHS Foundation Trust (S.H., D.S., H.R.M.), Cambridge, the Elsie Bertram Diabetes Centre (R.C.T., H.R.M.) and the Department of Obstetrics and Gynaecology (K.P.S.), Norfolk and Norwich University Hospitals NHS Foundation Trust, and the Norwich Medical School, University of East Anglia (H.R.M.), Norwich, the Ipswich Diabetes Centre, Ipswich Hospital NHS Trust, Ipswich (G.R.), and the Division of Epidemiology and Biostatistics, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds (G.R.L., E.M.S.) - all in the United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Law</LastName>
+<ForeName>Graham R</ForeName>
+<Initials>GR</Initials>
+<AffiliationInfo>
+<Affiliation>From the Wellcome Trust-Medical Research Council Institute of Metabolic Science, University of Cambridge (Z.A.S., M.E.W., R.H., H.R.M.), and Wolfson Diabetes and Endocrine Clinic, Cambridge University Hospitals NHS Foundation Trust (S.H., D.S., H.R.M.), Cambridge, the Elsie Bertram Diabetes Centre (R.C.T., H.R.M.) and the Department of Obstetrics and Gynaecology (K.P.S.), Norfolk and Norwich University Hospitals NHS Foundation Trust, and the Norwich Medical School, University of East Anglia (H.R.M.), Norwich, the Ipswich Diabetes Centre, Ipswich Hospital NHS Trust, Ipswich (G.R.), and the Division of Epidemiology and Biostatistics, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds (G.R.L., E.M.S.) - all in the United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scott</LastName>
+<ForeName>Eleanor M</ForeName>
+<Initials>EM</Initials>
+<AffiliationInfo>
+<Affiliation>From the Wellcome Trust-Medical Research Council Institute of Metabolic Science, University of Cambridge (Z.A.S., M.E.W., R.H., H.R.M.), and Wolfson Diabetes and Endocrine Clinic, Cambridge University Hospitals NHS Foundation Trust (S.H., D.S., H.R.M.), Cambridge, the Elsie Bertram Diabetes Centre (R.C.T., H.R.M.) and the Department of Obstetrics and Gynaecology (K.P.S.), Norfolk and Norwich University Hospitals NHS Foundation Trust, and the Norwich Medical School, University of East Anglia (H.R.M.), Norwich, the Ipswich Diabetes Centre, Ipswich Hospital NHS Trust, Ipswich (G.R.), and the Division of Epidemiology and Biostatistics, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds (G.R.L., E.M.S.) - all in the United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hovorka</LastName>
+<ForeName>Roman</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>From the Wellcome Trust-Medical Research Council Institute of Metabolic Science, University of Cambridge (Z.A.S., M.E.W., R.H., H.R.M.), and Wolfson Diabetes and Endocrine Clinic, Cambridge University Hospitals NHS Foundation Trust (S.H., D.S., H.R.M.), Cambridge, the Elsie Bertram Diabetes Centre (R.C.T., H.R.M.) and the Department of Obstetrics and Gynaecology (K.P.S.), Norfolk and Norwich University Hospitals NHS Foundation Trust, and the Norwich Medical School, University of East Anglia (H.R.M.), Norwich, the Ipswich Diabetes Centre, Ipswich Hospital NHS Trust, Ipswich (G.R.), and the Division of Epidemiology and Biostatistics, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds (G.R.L., E.M.S.) - all in the United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Murphy</LastName>
+<ForeName>Helen R</ForeName>
+<Initials>HR</Initials>
+<AffiliationInfo>
+<Affiliation>From the Wellcome Trust-Medical Research Council Institute of Metabolic Science, University of Cambridge (Z.A.S., M.E.W., R.H., H.R.M.), and Wolfson Diabetes and Endocrine Clinic, Cambridge University Hospitals NHS Foundation Trust (S.H., D.S., H.R.M.), Cambridge, the Elsie Bertram Diabetes Centre (R.C.T., H.R.M.) and the Department of Obstetrics and Gynaecology (K.P.S.), Norfolk and Norwich University Hospitals NHS Foundation Trust, and the Norwich Medical School, University of East Anglia (H.R.M.), Norwich, the Ipswich Diabetes Centre, Ipswich Hospital NHS Trust, Ipswich (G.R.), and the Division of Epidemiology and Biostatistics, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds (G.R.L., E.M.S.) - all in the United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ISRCTN</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>ISRCTN71510001</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>CDF-2013-06-035</GrantID>
+<Agency>Department of Health</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>PDF/01/036</GrantID>
+<Agency>Department of Health</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>100574/Z/12/Z</GrantID>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>N Engl J Med</MedlineTA>
+<NlmUniqueID>0255562</NlmUniqueID>
+<ISSNLinking>0028-4793</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007004">Hypoglycemic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001786">Blood Glucose</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003922">Diabetes Mellitus, Type 1</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007004">Hypoglycemic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007328">Insulin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007332">Insulin Infusion Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011254">Pregnancy in Diabetics</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27532830</ArticleId>
+<ArticleId IdType="doi">10.1056/NEJMoa1602494</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

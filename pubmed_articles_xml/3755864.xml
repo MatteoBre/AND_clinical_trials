@@ -1,0 +1,150 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">3755864</PMID>
+<DateCompleted>
+<Year>1986</Year>
+<Month>10</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0361-8609</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>23</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>1986</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>American journal of hematology</Title>
+<ISOAbbreviation>Am. J. Hematol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Treatment of myelodysplastic syndrome with 1.25-dihydroxy-vitamin D3.</ArticleTitle>
+<Pagination>
+<MedlinePgn>175-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>1.25-dihydroxy-vitamin D3 (1.25 (OH)2D3) was tested in seven patients with myelodysplastic syndrome. The study was undertaken because 1.25 (OH)2D3 promotes differentiating myeloid cells in vitro and because of a prior report of potential benefit in a clinical study. The drug was given orally at a dose of 2.5 micrograms/day for a minimum of 8 weeks (range 8-28). After therapy, there were no significant changes in any of the parameters observed in peripheral blood or bone marrow. We did not observe any feature of granulocytic-monocytic differentiation. Treatment was well tolerated. One patient died because of bone marrow failure. Survivors have persisting myelodysplastic syndrome and continue to be transfusion dependent. 1.25 (OH)2D3 has no beneficial effect in patients with myelodysplastic syndrome with this dose regimen.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Richard</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mazo</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cuadrado</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Iriondo</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bello</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gandarillas</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zubizarreta</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Hematol</MedlineTA>
+<NlmUniqueID>7610369</NlmUniqueID>
+<ISSNLinking>0361-8609</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>FXC9231JVH</RegistryNumber>
+<NameOfSubstance UI="D002117">Calcitriol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002117">Calcitriol</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007958">Leukocyte Count</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009190">Myelodysplastic Syndromes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010976">Platelet Count</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1986</Year>
+<Month>10</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1986</Year>
+<Month>10</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1986</Year>
+<Month>10</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3755864</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

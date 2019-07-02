@@ -1,0 +1,329 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24126021</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>09</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1873-5126</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>20</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Parkinsonism &amp; related disorders</Title>
+<ISOAbbreviation>Parkinsonism Relat. Disord.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Continuous in-home monitoring of essential tremor.</ArticleTitle>
+<Pagination>
+<MedlinePgn>37-40</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.parkreldis.2013.09.009</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S1353-8020(13)00339-8</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Essential tremor (ET) is typically measured in the clinic with subjective tremor rating scales which require the presence of a clinician for scoring and are not appropriate for measuring severity throughout the day. Motion sensors can accurately rate tremor severity during a set of predefined tasks in a laboratory.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We evaluated the ability of motion sensors to quantify tremor during unconstrained activities at home. 20 ET subjects wore a wireless sensor continuously for up to 10 h daily on two days and completed hourly standardized tremor assessments involving pre-defined tasks. Mathematical models were used to predict tremor rating scores from the sensor data.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">At home tremor scores from hourly standardized assessments correlated with at home tremor scores estimated during unconstrained activities immediately following the standardized assessments. The hourly standardized assessments did not significantly fluctuate throughout the day, while fluctuations in the continuous assessments tended to follow changes in voluntary activity level. Both types of tremor ratings (standardized and continuous) showed high day-to-day test-retest reliability with intraclass correlation coefficients ranging from 0.67 to 0.90 for continuous ratings and 0.77 to 0.95 for standardized ratings.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Results demonstrate the feasibility of continuous monitoring of tremor severity at home, which should provide clinicians with a measure of the temporal pattern of tremor in the context of daily life and serve as a useful tool for the evaluation of novel anti-tremor medications in clinical trials.</AbstractText>
+<CopyrightInformation>Copyright © 2013 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Pulliam</LastName>
+<ForeName>C L</ForeName>
+<Initials>CL</Initials>
+<AffiliationInfo>
+<Affiliation>Great Lakes NeuroTechnologies, Cleveland, OH, USA. Electronic address: cpulliam@glneurotech.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eichenseer</LastName>
+<ForeName>S R</ForeName>
+<Initials>SR</Initials>
+<AffiliationInfo>
+<Affiliation>Rush University Medical Center, Chicago, IL, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goetz</LastName>
+<ForeName>C G</ForeName>
+<Initials>CG</Initials>
+<AffiliationInfo>
+<Affiliation>Rush University Medical Center, Chicago, IL, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Waln</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hunter</LastName>
+<ForeName>C B</ForeName>
+<Initials>CB</Initials>
+<AffiliationInfo>
+<Affiliation>Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jankovic</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Baylor College of Medicine, Houston, TX, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vaillancourt</LastName>
+<ForeName>D E</ForeName>
+<Initials>DE</Initials>
+<AffiliationInfo>
+<Affiliation>University of Florida, Gainesville, FL, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giuffrida</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+<AffiliationInfo>
+<Affiliation>Great Lakes NeuroTechnologies, Cleveland, OH, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heldman</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+<AffiliationInfo>
+<Affiliation>Great Lakes NeuroTechnologies, Cleveland, OH, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R44 AG034708</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>2R44AG034708</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>19</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Parkinsonism Relat Disord</MedlineTA>
+<NlmUniqueID>9513583</NlmUniqueID>
+<ISSNLinking>1353-8020</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061725">Accelerometry</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001696">Biomechanical Phenomena</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020329">Essential Tremor</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018670">Monitoring, Ambulatory</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Accelerometer</Keyword>
+<Keyword MajorTopicYN="N">Ambulatory monitoring</Keyword>
+<Keyword MajorTopicYN="N">Essential tremor</Keyword>
+<Keyword MajorTopicYN="N">Gyroscope</Keyword>
+<Keyword MajorTopicYN="N">Kinesia</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24126021</ArticleId>
+<ArticleId IdType="pii">S1353-8020(13)00339-8</ArticleId>
+<ArticleId IdType="doi">10.1016/j.parkreldis.2013.09.009</ArticleId>
+<ArticleId IdType="pmc">PMC3946846</ArticleId>
+<ArticleId IdType="mid">NIHMS526046</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Neurosci Methods. 1999 Oct 15;92(1-2):41-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10595702</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2003 Oct 14;61(7):919-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14557560</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2004 Sep;127(Pt 9):2131-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15240437</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroepidemiology. 1997;16(3):124-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9159767</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2006 Aug;21(8):1114-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16622851</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2006 Aug;21(8):1136-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16639727</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2012 Oct;27(12):1567-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23032792</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Neurol Scand. 2008 Dec;118(6):387-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18616684</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2009 Apr 15;24(5):723-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19133661</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2010 Sep 15;25(12):1938-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20623687</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parkinsonism Relat Disord. 2011 Aug;17(7):537-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21570891</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci Methods. 2012 Jan 15;203(1):152-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21978487</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parkinsonism Relat Disord. 2012 Aug;18(7):859-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22591578</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rev Neurol Dis. 2006 Summer;3(3):101-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17047575</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

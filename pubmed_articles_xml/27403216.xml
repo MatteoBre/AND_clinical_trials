@@ -1,0 +1,261 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">27403216</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>07</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1941-5893</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>9</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of vascular and interventional neurology</Title>
+<ISOAbbreviation>J Vasc Interv Neurol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Primary Angioplasty Versus Stenting for Endovascular Management of Intracranial Atherosclerotic Disease Following Acute Ischemic Stroke.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The future of neuroendovascular treatment for intracranial atherosclerotic disease (ICAD) has been debated since the results of SAMMPRIS reflected poor outcomes following endovascular therapy. There is currently a large spectrum of current management strategies. We compared historical outcomes of patients with ICAD and stroke that were treated with angioplasty-alone versus stent placement.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We extracted a population from the Nationwide Inpatient Sample (NIS) (2005-2011) and the National Inpatient Sample (NIS) (2012) composed of patients with ICAD and infarction that were admitted nonelectively and received endovascular revascularization. Patients treated with thrombectomy or thrombolysis were excluded. Categorical variables were compared with Chi-squared tests. Binary logistic regression was performed to evaluate mortality while controlling for age, sex, severity, and comorbidities.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">About 2059 admissions met our criteria. A majority were treated via stent placement (71%). Angioplasty-alone had significantly higher mortality (17.6% vs. 8.4%, P&lt;0.001), but no difference in iatrogenic stroke rate (3.4% vs. 3.6%, P=0.826), compared to stent placement. The adjusted odds ratio of mortality for stented patients was 0.536 (95% CI: 0.381-0.753, P&lt;0.001) in comparison to patients treated with angioplasty alone.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study found the risk of mortality to be elevated following angioplasty alone in comparison to revascularization with stent placement, without a corresponding significant difference in iatrogenic stroke rate. This may represent selection bias due to patient characteristics not defined in the database, but it also may indicate that patients with ICAD and acute stroke have increased odds of stenosis that is refractory to angioplasty alone and have a high risk of mortality without revascularization.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Villwock</LastName>
+<ForeName>Mark R</ForeName>
+<Initials>MR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Padalino</LastName>
+<ForeName>David J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ramaswamy</LastName>
+<ForeName>Raghu</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deshaies</LastName>
+<ForeName>Eric M</ForeName>
+<Initials>EM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Vasc Interv Neurol</MedlineTA>
+<NlmUniqueID>101511381</NlmUniqueID>
+<ISSNLinking>1941-5893</ISSNLinking>
+</MedlineJournalInfo>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Acute ischemic stroke</Keyword>
+<Keyword MajorTopicYN="N">angioplasty</Keyword>
+<Keyword MajorTopicYN="N">endovascular</Keyword>
+<Keyword MajorTopicYN="N">intracranial stenosis</Keyword>
+<Keyword MajorTopicYN="N">stent</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27403216</ArticleId>
+<ArticleId IdType="pmc">PMC4925754</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Vasc Surg. 2011 Feb;53(2):307-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21093200</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurointerv Surg. 2014 Apr 1;6(3):225-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23563478</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2008 Aug;39(8):2396-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18535283</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2007 Mar;38(3):881-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17290030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Vasc Surg. 2012 Mar;25(1):13-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22595476</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Epidemiol. 1994 Nov;47(11):1245-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7722560</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2014 Sep;45(9):2629-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25061080</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2013 Dec;44(12):3571-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24135930</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurosurg Focus. 2011 Jun;30(6):E15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21631216</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Med Circ Respirat Pulm Med. 2008 Apr 18;2:19-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21157518</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Care. 2005 Nov;43(11):1130-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16224307</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2011 Sep 15;365(11):993-1003</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21899409</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2001 Apr 14;357(9263):1154-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11323042</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vasc Surg. 2012 Jan;55(1):263-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22035762</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Stroke Cerebrovasc Dis. 2013 Jul;22(5):694-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22155117</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Epidemiol. 1996 Mar;49(3):273-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8676173</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vasc Surg. 2009 Mar;49(3):623-8; discussion 628-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19268766</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vasc Surg. 2009 Jan;49(1):71-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19028045</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vasc Interv Radiol. 2005 Oct;16(10 ):1281-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16223717</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2007 May;38(5):1531-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17395864</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Care. 2003 Jun;41(6 Suppl):II103-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12773832</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2012 Jun;43(6):1687-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22535276</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Epidemiol. 1997 Aug;50(8):903-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9291875</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2003 Dec 23;61(12 ):1729-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14694038</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vasc Surg. 2008 Dec;48(6):1442-50, 1450.e1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18829236</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

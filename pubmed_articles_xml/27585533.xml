@@ -1,0 +1,141 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27585533</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">2245-1919</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>63</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Danish medical journal</Title>
+<ISOAbbreviation>Dan Med J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effect of perioperative colloid and crystalloid fluid therapy on coagulation competence, haemorrhage and outcome.</ArticleTitle>
+<ELocationID EIdType="pii" ValidYN="Y">B5281</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Haemorrhage follows surgical intervention, but also fluid substitution may affect the blood loss. Here influence of colloids and lactated Ringer's solution (LR) on coagulation competence and haemorrhage is evaluated during cystectomy.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A meta-analysis, a prospective observational study and three randomized controlled trials were conducted - 17 patients received HES 130/0.4, 19 patients Dextran 70, 19 patients human albumin, and 54 patients LR - with blinded evaluation of blood loss and outcome while coagulation competence was evaluated by thromboelastography (TEG) and plasma coagulation analyses.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Administration of HES reduced TEG determined "maximal amplitude" (TEG-MA) from 64±6 to 52±7 mm associated with a 2181±1190 mL blood loss. For Dextran values were 65±7 to 49±9 mm and 2339±1471 mL, respectively, for albumin 62±6 to 59±6 mm and 1658±684 mL compared to 65±6 to 64±6 mm and 1559±976 mL with the use of LR. Furthermore, reduced TEG-MA was independently associated with the perioperative blood loss.  A straight postoperative course was seen less often after infusion of synthetic colloids versus albumin/LR (7/36 vs. 31/73), P=0.02.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Perioperative bleeding is related to administration of Dextran 70 followed by HES 130/0.4 whereas albumin and LR result in a similar low level of haemorrhage. Furthermore, evaluation of coagulation competence by TEG-MA appears superior to plasma coagulation analyses for predicting the perioperative blood loss and supports that haemorrhage depends not only on the surgical intervention but also on the perioperative fluid therapy of apparent consequence for outcome.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rasmussen</LastName>
+<ForeName>Kirsten Cleemann</ForeName>
+<Initials>KC</Initials>
+<AffiliationInfo>
+<Affiliation>dockcr@yahoo.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Denmark</Country>
+<MedlineTA>Dan Med J</MedlineTA>
+<NlmUniqueID>101576205</NlmUniqueID>
+<ISSNLinking>2245-1919</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000077324">Crystalloid Solutions</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007552">Isotonic Solutions</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010952">Plasma Substitutes</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001777">Blood Coagulation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016063">Blood Loss, Surgical</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077324">Crystalloid Solutions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005440">Fluid Therapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007552">Isotonic Solutions</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019990">Perioperative Care</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010952">Plasma Substitutes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019106">Postoperative Hemorrhage</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>2</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27585533</ArticleId>
+<ArticleId IdType="pii">B5281</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,447 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24260184</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>07</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic-eCollection">
+<Journal>
+<ISSN IssnType="Electronic">1932-6203</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>8</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2013</Year>
+</PubDate>
+</JournalIssue>
+<Title>PloS one</Title>
+<ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effect of antioxidant supplementation on exercise-induced cardiac troponin release in cyclists: a randomized trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e79280</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0079280</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Cardiac troponin is the biochemical gold standard to diagnose acute myocardial infarction. Interestingly however, elevated cardiac troponin concentrations are also frequently observed during and after endurance-type exercise. Oxidative stress associated with prolonged exercise has been proposed to contribute to cardiac troponin release. Therefore, the aim of this study was to assess the effect of 4 week astaxanthin supplementation (a potent cartenoid antioxidant) on antioxidant capacity and exercise-induced cardiac troponin release in cyclists.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Thirty-two well-trained male cyclists (age 25±5, weight 73±7 kg, maximum O2 uptake 60±5 mL·kg(-1)·min(-1), Wmax 5.4±0.5 W·kg(-1); mean ± SD) were repeatedly subjected to a laboratory based standardized exercise protocol before and after 4 weeks of astaxanthin (20 mg/day), or placebo supplementation in a double-blind randomized manner. Blood samples were obtained at baseline, at 60 min of cycling and immediately post-exercise (≈ 120 min).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The pre-supplementation cycling trial induced a significant rise of median cardiac troponin T concentrations from 3.2 (IQR 3.0-4.2) to 4.7 ng/L (IQR 3.7-6.7), immediately post-exercise (p&lt;0.001). Four weeks of astaxanthin supplementation significantly increased mean basal plasma astaxanthin concentrations from non-detectable values to 175±86 µg·kg(-1). However, daily astaxanthin supplementation had no effect on exercise-induced cardiac troponin T release (p = 0.24), as measured by the incremental area under the curve. Furthermore, the elevation in basal plasma astaxanthin concentrations was not reflected in changes in antioxidant capacity markers (trolox equivalent antioxidant capacity, uric acid, and malondialdehyde). Markers of inflammation (high-sensitivity C-reactive protein) and exercise-induced skeletal muscle damage (creatine kinase) were equally unaffected by astaxanthin supplementation.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Despite substantial increases in plasma astaxanthin concentrations, astaxanthin supplementation did not improve antioxidant capacity in well-trained cyclists. Accordingly, exercise-induced cardiac troponin T concentrations were not affected by astaxanthin supplementation.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov NCT01241877.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Klinkenberg</LastName>
+<ForeName>Lieke J J</ForeName>
+<Initials>LJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Chemistry, Cardiovascular Research Institute Maastricht (CARIM), Maastricht University Medical Center (MUMC), Maastricht, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Res</LastName>
+<ForeName>Peter T</ForeName>
+<Initials>PT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haenen</LastName>
+<ForeName>Guido R</ForeName>
+<Initials>GR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bast</LastName>
+<ForeName>Aalt</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Loon</LastName>
+<ForeName>Luc J C</ForeName>
+<Initials>LJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Dieijen-Visser</LastName>
+<ForeName>Marja P</ForeName>
+<Initials>MP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meex</LastName>
+<ForeName>Steven J R</ForeName>
+<Initials>SJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT01241877</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>19</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>PLoS One</MedlineTA>
+<NlmUniqueID>101285081</NlmUniqueID>
+<ISSNLinking>1932-6203</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000975">Antioxidants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D020107">Troponin T</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D024341">Xanthophylls</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8XPW32PR7I</RegistryNumber>
+<NameOfSubstance UI="C005948">astaxanthine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000975">Antioxidants</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001642">Bicycling</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019587">Dietary Supplements</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020107">Troponin T</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D024341">Xanthophylls</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>01</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>7</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24260184</ArticleId>
+<ArticleId IdType="doi">10.1371/journal.pone.0079280</ArticleId>
+<ArticleId IdType="pii">PONE-D-13-32052</ArticleId>
+<ArticleId IdType="pmc">PMC3834092</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Scand J Med Sci Sports. 2010 Dec;20(6):843-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19883392</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiol. 2012 Jun 28;158(1):129-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22560936</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Int Soc Sports Nutr. 2006 Dec 13;3:37-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18500971</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2002 Feb 15;89(4):484-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11835940</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2010 Jul 13;56(3):169-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20620736</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2013 Mar 26;61(12):1240-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23414791</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol. 2010 Dec;110(6):1299-303</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20711602</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chim Acta. 2010 Mar;411(5-6):318-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20036224</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2005 Sep 1;96(5):732-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16125505</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Plant Foods Hum Nutr. 2011 Nov;66(4):363-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21964877</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2011 Apr 5;123(13):1367-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21422391</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 1991 Jun 15;67(16):1360-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1904190</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2009 Apr 3;324(5923):98-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19342590</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2011 Jun;110(6):1622-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21330616</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Sci Sports Exerc. 2013 Jun;45(6):1158-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23274592</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J. 2012 Apr;33(8):998-1006</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22160404</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2008 Nov 25;52(22):1813-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19022162</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Free Radic Biol Med. 2008 Jan 15;44(2):126-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18191748</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chem. 2009 Dec;55(12):2098-112</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19815610</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Sci Sports Exerc. 1996 Feb;28(2):266-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8775164</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Atheroscler Thromb. 2000;7(4):216-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11521685</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chem. 2012 Jan;58(1):284-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22100806</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2013 May 7;61(18):1906-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23500239</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Sports Med. 2012 Nov;46 Suppl 1:i44-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23097479</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Sci (Lond). 2005 Jan;108(1):73-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15377277</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Vitam Nutr Res. 2007 Jan;77(1):3-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17685090</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2010 Jan 15;105(2):267-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20102930</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 1999 Nov;68(5):1905-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10585102</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Sci Sports Exerc. 2011 Oct;43(10):1819-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21448080</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Sports Med. 2012 May;33(5):333-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22377942</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J. 2011 Feb;32(4):404-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21169615</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Sci Sports Exerc. 2007 Dec;39(12):2099-106</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18046180</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Free Radic Biol Med. 2008 Jan 15;44(2):153-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18191751</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chem. 2009 Jan;55(1):101-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18988757</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J. 2003 Aug;24(16):1473-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12919770</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chem. 2010 Feb;56(2):254-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19959623</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J. 2012 Oct;33(20):2551-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22922414</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Sport Nutr Exerc Metab. 2007 Feb;17(1):109-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17460336</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiol. 2011 Oct 6;152(1):101-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21813194</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antioxid Redox Signal. 2003 Feb;5(1):139-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12626126</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

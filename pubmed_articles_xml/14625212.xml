@@ -1,0 +1,115 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">14625212</PMID>
+<DateCompleted>
+<Year>2004</Year>
+<Month>01</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>02</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0195-6108</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>24</Volume>
+<Issue>10</Issue>
+<PubDate>
+<MedlineDate>2003 Nov-Dec</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>AJNR. American journal of neuroradiology</Title>
+<ISOAbbreviation>AJNR Am J Neuroradiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>New prospects and ethical challenges for neuroimaging within and outside the health care system.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1932-4</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Illes</LastName>
+<ForeName>Judy</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kirschen</LastName>
+<ForeName>Matthew</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016420">Comment</PublicationType>
+<PublicationType UI="D016421">Editorial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>AJNR Am J Neuroradiol</MedlineTA>
+<NlmUniqueID>8003708</NlmUniqueID>
+<ISSNLinking>0195-6108</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>E</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>AJNR Am J Neuroradiol. 2003 Oct;24(9):1739-41</RefSource>
+<PMID Version="1">14561594</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003695">Delivery of Health Care</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003952">Diagnostic Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009422">Nervous System Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<OtherID Source="KIE">119767</OtherID>
+<OtherID Source="NRCBL">VF 5.2</OtherID>
+<KeywordList Owner="KIE">
+<Keyword MajorTopicYN="N">Health Care and Public Health</Keyword>
+</KeywordList>
+<GeneralNote Owner="KIE">4 refs.</GeneralNote>
+<GeneralNote Owner="KIE">KIE Bib: biomedical technologies</GeneralNote>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>11</Month>
+<Day>20</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2004</Year>
+<Month>1</Month>
+<Day>6</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>11</Month>
+<Day>20</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14625212</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

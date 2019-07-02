@@ -1,0 +1,195 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">1496226</PMID>
+<DateCompleted>
+<Year>1992</Year>
+<Month>09</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">8756-0437</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>8</Volume>
+<Issue>3</Issue>
+<PubDate>
+<MedlineDate>1992 May-Jun</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Seminars in surgical oncology</Title>
+<ISOAbbreviation>Semin Surg Oncol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Breast tumor recurrence following lumpectomy with and without breast irradiation: an overview of recent NSABP findings.</ArticleTitle>
+<Pagination>
+<MedlinePgn>153-60</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The latest findings from the NSABP B-06 trial on ipsilateral breast tumor recurrence (IBTR) continue to demonstrate that through 9 years of follow-up more patients treated with radiation remained IBTR free as compared to those receiving no radiation (P less than 0.001), regardless of age, nodal status, or tumor size. There is no significant difference in distant disease-free survival (DDFS) or survival between the two lumpectomy groups despite the highly significant difference in their probability of remaining IBTR free. A recent analysis shows that when a patient is diagnosed with an IBTR, the risk of distant metastatic disease increases, indicating that an IBTR is a marker for, not a cause of, distant metastatic disease. An IBTR indicates a greater risk for distant disease when the primary tumor was removed. Mastectomy or breast irradiation following lumpectomy eliminates or reduces the opportunity for identifying a marker of risk for distant disease, thus emphasizing the importance of an IBTR beyond the need for its removal. Since an IBTR is associated with a relative risk of 3.41 for the development of distant metastatic disease, systemic therapy subsequent to an IBTR should be considered. Evidence presented from recent NSABP studies indicates the value of systemic therapy for lowering the incidence of IBTR following lumpectomy and breast irradiation.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Fisher</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>NSABP Headquarters, Pittsburgh, PA 15261.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wickerham</LastName>
+<ForeName>D L</ForeName>
+<Initials>DL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deutsch</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Redmond</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fisher</LastName>
+<ForeName>E R</ForeName>
+<Initials>ER</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>U10-CA-12027</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U10-CA-37377</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U10-CA-39086</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Semin Surg Oncol</MedlineTA>
+<NlmUniqueID>8503713</NlmUniqueID>
+<ISSNLinking>1098-2388</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011960">Receptors, Estrogen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008197">Lymph Node Excision</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015409">Mastectomy, Radical</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015412">Mastectomy, Segmental</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011878">Radiotherapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011960">Receptors, Estrogen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>13</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1992</Year>
+<Month>5</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1992</Year>
+<Month>5</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1992</Year>
+<Month>5</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1496226</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

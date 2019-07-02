@@ -1,0 +1,119 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20170030</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>05</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2010</Year>
+<Month>02</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1660-9379</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>6</Volume>
+<Issue>232</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Jan</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+<Title>Revue medicale suisse</Title>
+<ISOAbbreviation>Rev Med Suisse</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Emergency medicine: update 2009].</ArticleTitle>
+<Pagination>
+<MedlinePgn>123-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Emergency medicine is a cross-discipline characterized by its ability to identify critical threats, as well as its ability to prioritize investigations and identify appropriate treatments. Recent publications have been published on upper gastrointestinal haemorrhage, elbow fracture or brain haemorrhage, to optimize and standardize the investigations. In parallel, conditions such as cardiopulmonary arrest, spontaneous pneumothorax or stroke, benefit from recent therapeutic advances. However, emergency physicians and primary care physicians must remain critical of the numerous medical publications, as evidenced by the contradictory results concerning the interaction between proton pump inhibitors and clopidogrel.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Marti</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Service des urgences, Département de médecine interne générale, HUG, 1211 Genève 14. christophe.marti@hcuge.ch</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grosgurin</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Praz</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rutschmann</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carron</LastName>
+<ForeName>P-N</ForeName>
+<Initials>PN</Initials>
+</Author>
+</AuthorList>
+<Language>fre</Language>
+<PublicationTypeList>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Médecine d'urgence.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Switzerland</Country>
+<MedlineTA>Rev Med Suisse</MedlineTA>
+<NlmUniqueID>101219148</NlmUniqueID>
+<ISSNLinking>1660-9379</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004635">Emergency Medicine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20170030</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

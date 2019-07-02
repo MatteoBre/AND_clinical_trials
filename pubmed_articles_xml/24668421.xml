@@ -1,0 +1,488 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24668421</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>01</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1439-6327</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>114</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>European journal of applied physiology</Title>
+<ISOAbbreviation>Eur. J. Appl. Physiol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>"Live High-Train High" increases hemoglobin mass in Olympic swimmers.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1439-49</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00421-014-2863-4</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">This study tested whether 3-4 weeks of classical "Live High-Train High" (LHTH) altitude training increases swim-specific VO2max through increased hemoglobin mass (Hbmass).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Ten swimmers lived and trained for more than 3 weeks between 2,130 and 3,094 m of altitude, and a control group of ten swimmers followed the same training at sea-level (SL). Body composition was examined using dual X-ray absorptiometry. Hbmass was determined by carbon monoxide rebreathing. Swimming VO2peak was determined and swimming trials of 4 × 50, 200 and 3,000 m were performed before and after the intervention.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Hbmass (n = 10) was increased (P &lt; 0.05)after altitude training by 6.2 ± 3.9 % in the LHTH group, whereas no changes were apparent in the SL group (n = 10). Swimming VO2peak was similar before and after training camps in both groups (LHTH: n = 7, SL: n = 6). Performance of 4 × 50 m at race pace was improved to a similar degree in both groups (LHTH: n = 10, SL: n = 10). Maximal speed reached in an incremental swimming step test (P = 0.051), and time to complete 3,000 m tended (P = 0.09) to be more improved after LHTH (n = 10) than SL training (n = 10).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In conclusion, 3-4 weeks of classical LHTH is sufficient to increase Hbmass but exerts no effect on swimming-specific VO2peak. LHTH may improve performance more than SL training.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bonne</LastName>
+<ForeName>Thomas Christian</ForeName>
+<Initials>TC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Nutrition, Exercise and Sport Sciences, Faculty of Science, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lundby</LastName>
+<ForeName>Carsten</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jørgensen</LastName>
+<ForeName>Susanne</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johansen</LastName>
+<ForeName>Lars</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mrgan</LastName>
+<ForeName>Monija</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bech</LastName>
+<ForeName>Signe Refsgaard</ForeName>
+<Initials>SR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sander</LastName>
+<ForeName>Mikael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Papoti</LastName>
+<ForeName>Marcelo</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nordsborg</LastName>
+<ForeName>Nikolai Baastrup</ForeName>
+<Initials>NB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>03</Month>
+<Day>27</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Eur J Appl Physiol</MedlineTA>
+<NlmUniqueID>100954790</NlmUniqueID>
+<ISSNLinking>1439-6319</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006454">Hemoglobins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015502">Absorptiometry, Photon</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000064">Acclimatization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000531">Altitude</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054874">Athletic Performance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001823">Body Composition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001944">Breath Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006454">Hemoglobins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010101">Oxygen Consumption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064797">Physical Conditioning, Human</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D013550">Swimming</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013647">Task Performance and Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>02</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24668421</ArticleId>
+<ArticleId IdType="doi">10.1007/s00421-014-2863-4</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Strength Cond Res. 2010 Feb;24(2):487-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20072049</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol Occup Physiol. 1981;47(4):385-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7199441</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2011 Sep 1;118(9):2395-404</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21652677</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Sci Sports Exerc. 2000 Feb;32(2):332-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10694114</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exerc Sport Sci Rev. 2010 Apr;38(2):68-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20335738</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Sports Med. 2012 Sep;46(11):792-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22797528</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sports Med. 2001;31(4):249-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11310547</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 2000 Sep 1;527 Pt 2:387-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10970439</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stat Med. 1997 Oct 30;16(20):2349-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9351170</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2008 Feb;104(2):328-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18048583</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 1998 Oct;85(4):1448-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9760340</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 1997 Jul;83(1):102-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9216951</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Sports Med. 2005 Mar;39(3):148-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15728692</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2014 Apr 1;116(7):837-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24336885</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol Respir Environ Exerc Physiol. 1977 Jun;42(6):833-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">881383</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol. 2012 Sep;112(9):3275-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22234397</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sports Med. 2000 Jul;30(1):1-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10907753</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Sports Med. 1999 Jul;18(3):607-21, viii</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10410844</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol. 2007 Nov;101(4):481-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17668232</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sports Med. 2001;31(7):533-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11428690</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Sports Med. 2008 May;29(5):372-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17614021</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol. 2006 Mar;96(4):423-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16328191</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Sports Med. 2006 Feb;40(2):e4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16431991</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>High Alt Med Biol. 2009 Summer;10(2):135-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19519223</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol. 2009 Jun;106(3):399-406</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19294411</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2001 Sep;91(3):1113-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11509506</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol. 1972 Oct;33(4):502-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5075849</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2014 Mar 15;116(6):595-603</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24157530</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Sci Sports Exerc. 2013 Sep;45(9):1767-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23502972</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol Occup Physiol. 1994;69(3):258-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8001539</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sports Med. 2010 Jan 1;40(1):1-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20020784</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol. 1966 Jul;21(4):1191-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5916649</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Sci Sports Exerc. 2000 Jan;32(1):70-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10647532</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Endocrinol Metab. 2001 Sep;281(3):E537-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11500309</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Med Sci Sports. 2012 Jun;22(3):303-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22612361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Sports Med. 1985 Oct;6(5):266-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4055188</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sports Med. 2009;39(2):107-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19203133</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol. 2013 May;113(5):1199-211</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23138148</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Sci Sports Exerc. 1995 Sep;27(9):1292-301</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8531628</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Sports Med Phys Fitness. 2000 Jun;40(2):87-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11034427</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chin J Physiol. 2013 Feb 28;56(1):18-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23347012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Metabolism. 1994 Oct;43(10):1226-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7934973</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Sci Sports Exerc. 1980 Spring;12(1):24-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7392898</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Appl Physiol. 2005 Dec;95(5-6):486-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16222540</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Physiol (1985). 2005 Nov;99(5):2053-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16227463</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,459 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26538077</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1435-5922</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>51</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of gastroenterology</Title>
+<ISOAbbreviation>J. Gastroenterol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Detection of palisade vessels as a landmark for Barrett's esophagus in a Western population.</ArticleTitle>
+<Pagination>
+<MedlinePgn>682-90</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00535-015-1136-2</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In Japan, palisade vessels (PV) are used to distinguish the esophagogastric junction (EGJ). Elsewhere, the EGJ is defined by the upper end of the gastric folds (GF) and PV are considered difficult to detect. This study evaluated the detection rate of PV in Western patients with Barrett's esophagus (BE) using white light imaging (WLI) and narrow band imaging (NBI), and quantified any discordance between Western and Japanese criteria for the EGJ.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">In 25 BE patients, the presence and location of PV and GF were determined and biopsies were obtained. High-quality images of the EGJ were collected under different conditions (insufflations-desufflation, WLI-NBI, forward-retroflex approach), resulting in eight different images per patient. The presence of PV on each still image was assessed by a panel of six Western and Japanese endoscopists with expertise in BE.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">PV were observed in ≥ 1 images by a majority of the panel (≥ 4 raters) in 100 % of patients during insufflation versus 60 % during desufflation (p &lt; 0.001). WLI and NBI detected PV in 100 and 92 %, respectively (p = 0.50). Interobserver agreement of the panel was 'moderate' (κ = 0.51). During endoscopy PV were located a median of 1 cm distal of the GF in 15 patients (63 %), with intestinal metaplasia (IM) in this discordant zone, in 27 % of patients.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">PV are visible in most Western BE patients and are best inspected during insufflation. The location of the GF and PV differed in a substantial group of patients, partially with IM in this discordant zone.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Schölvinck</LastName>
+<ForeName>Dirk W</ForeName>
+<Initials>DW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gastroenterology and Hepatology, St Antonius Hospital, Koekoekslaan 1, 3430 EM, Nieuwegein, The Netherlands. d.scholvink@antoniusziekenhuis.nl.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Gastroenterology, Academic Medical Center, Amsterdam, The Netherlands. d.scholvink@antoniusziekenhuis.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goto</LastName>
+<ForeName>Osamu</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Research and Development for Minimally Invasive Treatment, Cancer Center, Keio University, School of Medicine, Tokyo, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seldenrijk</LastName>
+<ForeName>Cornelis A</ForeName>
+<Initials>CA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pathology, St Antonius Hospital, Nieuwegein, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bisschops</LastName>
+<ForeName>Raf</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gastroenterology, University Hospital Leuven, Louvain, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Horii</LastName>
+<ForeName>Joichiro</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Research and Development for Minimally Invasive Treatment, Cancer Center, Keio University, School of Medicine, Tokyo, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ochiai</LastName>
+<ForeName>Yasutoshi</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Research and Development for Minimally Invasive Treatment, Cancer Center, Keio University, School of Medicine, Tokyo, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schoon</LastName>
+<ForeName>Erik J</ForeName>
+<Initials>EJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gastroenterology, Catharina Hospital, Eindhoven, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schenk</LastName>
+<ForeName>Boudewijn E</ForeName>
+<Initials>BE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gastroenterology, Isala Klinieken, Zwolle, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Uraoka</LastName>
+<ForeName>Toshio</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Research and Development for Minimally Invasive Treatment, Cancer Center, Keio University, School of Medicine, Tokyo, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Oijen</LastName>
+<ForeName>Martijn G H</ForeName>
+<Initials>MG</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, Academic Medical Center, Amsterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bergman</LastName>
+<ForeName>Jacques J G H M</ForeName>
+<Initials>JJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gastroenterology, Academic Medical Center, Amsterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yahagi</LastName>
+<ForeName>Naohisa</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Research and Development for Minimally Invasive Treatment, Cancer Center, Keio University, School of Medicine, Tokyo, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weusten</LastName>
+<ForeName>Bas L A M</ForeName>
+<Initials>BL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gastroenterology and Hepatology, St Antonius Hospital, Koekoekslaan 1, 3430 EM, Nieuwegein, The Netherlands.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Gastroenterology, Academic Medical Center, Amsterdam, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D064888">Observational Study</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Japan</Country>
+<MedlineTA>J Gastroenterol</MedlineTA>
+<NlmUniqueID>9430794</NlmUniqueID>
+<ISSNLinking>0944-1174</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044466">Asian Continental Ancestry Group</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001471">Barrett Esophagus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000208">ethnology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004724">Endoscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004943">Esophagogastric Junction</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000098">blood supply</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D044465">European Continental Ancestry Group</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007564">Japan</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008679">Metaplasia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D062048">Narrow Band Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009426">Netherlands</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Barrett’s esophagus</Keyword>
+<Keyword MajorTopicYN="Y">Esophagogastric junction</Keyword>
+<Keyword MajorTopicYN="Y">Gastric folds</Keyword>
+<Keyword MajorTopicYN="Y">Palisade vessels</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>3</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26538077</ArticleId>
+<ArticleId IdType="doi">10.1007/s00535-015-1136-2</ArticleId>
+<ArticleId IdType="pii">10.1007/s00535-015-1136-2</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Dis Esophagus. 2012 Aug;25(6):484-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22098187</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 1997 Mar;92(3):414-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9068460</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 2014 Jan;63(1):7-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24165758</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastrointest Endosc. 2012 Dec;76(6):1087-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23164510</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2006 Nov;131(5):1392-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17101315</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2011 Mar;140(3):1084-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21376940</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dis Esophagus. 2015 Oct;28(7):660-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24943293</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aliment Pharmacol Ther. 2007 Dec;26(11-12):1465-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17900269</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2013 Mar 15;119(6):1149-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23303625</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastroenterol. 2004 Jan;39(1):14-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14767729</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2009 Mar 7;373(9666):850-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19269522</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastroenterol. 2003;38(6):533-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12825128</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastroenterol. 2009;44(8):842-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19504354</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 2012 Jul;61(7):970-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21997553</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Jpn J Clin Oncol. 2008 Jul;38(7):464-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18664481</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Gastroenterol Hepatol. 2013 Nov;11(11):1430-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23707463</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 1993 Jul;105(1):40-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8514061</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 2008 Oct;57(10):1354-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18424568</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastroenterol. 2001 Jul;36(7):445-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11480788</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Gastroenterol. 2006 Aug;41(8):873-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16803684</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastroenterol. 2010 Oct;45(10):1039-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20549252</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastroenterol Hepatol. 2015 May;30(5):804-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25612140</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2005 Dec;129(6):1825-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16344051</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 1998 Apr;114(4):633-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9516382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dis Esophagus. 2010 Aug;23(6):451-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20353441</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 2005 Aug;54(8):1062-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15857935</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastroenterol. 2008;43(12):928-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19107336</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biometrics. 1977 Mar;33(1):159-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">843571</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dig Dis Sci. 2009 Mar;54(3):572-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18654849</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Epidemiol. 1990;43(6):543-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2348207</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dis Esophagus. 2008;21(7):645-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18459993</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

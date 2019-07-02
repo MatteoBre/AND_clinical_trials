@@ -1,0 +1,466 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18350339</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>07</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1525-1497</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>23</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of general internal medicine</Title>
+<ISOAbbreviation>J Gen Intern Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Barriers to screening colonoscopy for low-income Latino and white patients in an urban community health center.</ArticleTitle>
+<Pagination>
+<MedlinePgn>834-40</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s11606-008-0572-6</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Colonoscopy is a screening modality for the early detection of colonic polyps and cancers but is underutilized, particularly among minorities.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To identify potential barriers to screening colonoscopy among low income Latino and white non-Latino patients in an urban community health center. DESIGN, PARTICIPANTS, AND APPROACH: We conducted semistructured interviews with a convenience sample of patients 53 to 70 years old, eligible for colorectal cancer screening that spoke English or Spanish. Open-ended questions explored knowledge, beliefs, and experience with or reasons for not having screening colonoscopy. We performed content analysis of transcripts using established qualitative techniques.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 40 participants recruited, 57% were women, 55% Latino, 20% had private health insurance, and 40% had a prior colonoscopy. Participants described a wide range of barriers categorized into 5 major themes: (1) System barriers including scheduling, financial, transportation, and language difficulties; (2) Fear of pain or complications of colonoscopy and fear of diagnosis (cancer); (3) Lack of desire or motivation, including "laziness" and "procrastination"; (4) Dissuasion by others influencing participants' decision regarding colonoscopy; and (5) Lack of provider recommendation including not hearing about colonoscopy or not understanding the preparation instructions.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Understanding of the range of barriers to colorectal cancer screening can help develop multimodal interventions to increase colonoscopy rates for all patients including low-income Latinos. Interventions including systems improvements and navigator programs could address barriers by assisting patients with scheduling, insurance issues, and transportation and providing interpretation, education, emotional support, and motivational interviewing.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Green</LastName>
+<ForeName>Alexander R</ForeName>
+<Initials>AR</Initials>
+<AffiliationInfo>
+<Affiliation>The Disparities Solutions Center at the Institute for Health Policy, Massachusetts General Hospital, Boston, MA 02114, USA. argreen@partners.org</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peters-Lewis</LastName>
+<ForeName>Angelleen</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Percac-Lima</LastName>
+<ForeName>Sanja</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Betancourt</LastName>
+<ForeName>Joseph R</ForeName>
+<Initials>JR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Richter</LastName>
+<ForeName>James M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Janairo</LastName>
+<ForeName>Maria-Pamela R</ForeName>
+<Initials>MP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gamba</LastName>
+<ForeName>Gloria B</ForeName>
+<Initials>GB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Atlas</LastName>
+<ForeName>Steven J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>03</Month>
+<Day>19</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Gen Intern Med</MedlineTA>
+<NlmUniqueID>8605834</NlmUniqueID>
+<ISSNLinking>0884-8734</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003110">Colonic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003113">Colonoscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054521">Cultural Competency</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D044465">European Continental Ancestry Group</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007722">Health Knowledge, Attitudes, Practice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054625">Healthcare Disparities</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006630">Hispanic Americans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007407">Interviews as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008403">Mass Screening</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010342">Patient Acceptance of Health Care</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000208">ethnology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011204">Poverty Areas</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014505">Urban Population</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2007</Year>
+<Month>07</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2008</Year>
+<Month>02</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2008</Year>
+<Month>02</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>3</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>7</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>3</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18350339</ArticleId>
+<ArticleId IdType="doi">10.1007/s11606-008-0572-6</ArticleId>
+<ArticleId IdType="pmc">PMC2517890</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Cancer Nurs. 2004 May-Jun;27(3):206-15; quiz 216-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15238806</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2004 Jul 1;101(1):3-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15221985</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Community Health. 1993 Dec;18(6):347-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8120177</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Pract. 1995 Jan-Feb;3(1):19-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7704057</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst Monogr. 1995;(18):57-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8562223</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Community Health. 1996 Dec;21(6):409-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8912118</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Black Nurses Assoc. 1994 Fall-Winter;7(2):41-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9128532</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 1998 May 1;82(9):1769-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9576301</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ethn Dis. 1998 Winter;8(1):43-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9595247</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Public Health. 2004 Dec 15;4:62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15601463</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2005 Mar;100(3):515-23; discussion 514</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15743345</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Gen Pract. 2005 Apr;55(513):305-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15826439</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fam Med. 2005 May;37(5):341-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15883900</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prev Med. 2005 Aug;41(2):676-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15917068</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Urban Health. 2005 Jun;82(2):216-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15888638</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2005 Jun 15;103(12):2491-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15880744</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Care. 2005 Sep;43(9):939-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16116360</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cancer Educ. 2000 Spring;15(1):41-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10730803</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Community Health. 2000 Jun;25(3):263-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10868818</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2001 Aug 23;345(8):555-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11529208</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fam Community Health. 2001 Oct;24(3):34-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11563943</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med. 2001 Dec 1;111(8):593-601</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11755501</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2002 Jun;11(6):529-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12050093</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Pract. 2002 Sep-Oct;10(5):240-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12236837</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Control. 2003 Sep-Oct;10(5 Suppl):22-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14581901</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Intern Med. 2004 Feb;19(2):156-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15009795</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Nurs. 2003 Dec;26(6):454-65; quiz 466-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15022977</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prev Med. 2004 Jul;39(1):56-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15207986</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Intern Med. 2005 Nov;20(11):977-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16307620</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Intern Med. 2005 Nov;20(11):989-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16307622</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Prev Med. 2006 Mar;30(3):204-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16476635</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Prev Med. 2006 Apr;30(4):313-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16530618</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterol Nurs. 2006 Jan-Feb;29(1):42-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16552299</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>ABNF J. 2006 Jan-Feb;17(1):38-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16596899</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ethn Dis. 2006 Winter;16(1):255-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16599380</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2006 May 10;24(14):2179-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16682737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Urban Health. 2006 Mar;83(2):231-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16736372</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2006 Dec 1;107(11):2669-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17078056</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Psychosoc Oncol. 2006;24(4):1-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17182474</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2007 Jan 15;109(2 Suppl):359-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17123275</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Urban Health. 2007 Jan;84(1):32-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17186375</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Genet Couns. 2007 Apr;16(2):171-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17277995</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cancer Educ. 2004 Fall;19(3):170-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15458873</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

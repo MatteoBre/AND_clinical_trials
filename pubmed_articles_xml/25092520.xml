@@ -1,0 +1,455 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25092520</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>05</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1534-6277</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>15</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Current treatment options in oncology</Title>
+<ISOAbbreviation>Curr Treat Options Oncol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Targeting the mTOR signaling pathway in neuroendocrine tumors.</ArticleTitle>
+<Pagination>
+<MedlinePgn>365-79</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s11864-014-0294-4</ELocationID>
+<Abstract>
+<AbstractText Label="OPINION STATEMENT" NlmCategory="UNASSIGNED">Neuroendocrine tumors (NETs) are a heterogeneous group of malignancies characterized by variable but most often indolent biologic behavior. Well-differentiated NETs can be broadly classified as either carcinoid or pancreatic NET. Although they have similar characteristics on routine histologic evaluation, the 2 tumor subtypes have different biology and respond differently to treatment, with most therapeutic agents demonstrating higher response rates in pancreatic NETs compared with carcinoid. Until recently, systemic treatment options for patients with advanced NETs were limited. However, improvements in our understanding of signaling pathways involved in the pathogenesis, growth, and spread of NETs have translated into an expansion of treatment options. Aberrant signaling through the mechanistic pathway of rapamycin (mTOR) pathway has been implicated in neuroendocrine tumorigenesis. Additionally, altered expression of mTOR pathway components has been observed in NETs and has been associated with clinical outcomes. Targeting the mTOR pathway has emerged as an effective treatment strategy in the management of advanced NETs. In a randomized, placebo-controlled study of patients with advanced pancreatic NET, treatment with the mTOR inhibitor everolimus was associated with improved progression-free survival (PFS). Largely based upon these data, everolimus has been approved in the United States and Europe for the treatment of patients with advanced pancreatic NET. The activity of everolimus remains under investigation in patients with carcinoid tumors. In a randomized study of patients with advanced carcinoid tumors associated with carcinoid syndrome, the addition of everolimus to octreotide was associated with improved PFS compared with octreotide. However, the results did not meet the prespecified level of statistical significance based on central review of radiographic imaging. Results from a randomized study examining the efficacy of everolimus in patients with nonfunctional gastrointestinal and lung NETs are awaited. In addition, further investigation is needed to determine whether primary tumor site or other clinical and molecular factors can impact response to mTOR inhibition. Although everolimus can slow tumor progression, significant tumor reduction is rarely obtained. Targeting multiple signaling pathways is a treatment strategy that may provide better tumor control and overcome resistance mechanisms involved with targeting a single pathway. Results of ongoing and future studies will provide important information regarding the added benefit of combining mTOR inhibitors with other targeted agents, such as VEGF pathway inhibitors, and cytotoxic chemotherapy in the treatment of advanced NETs.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Chan</LastName>
+<ForeName>Jennifer</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, Dana-Farber Cancer Institute, 450 Brookline Avenue, Boston, MA, 02215, USA, jang@partners.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kulke</LastName>
+<ForeName>Matthew</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Curr Treat Options Oncol</MedlineTA>
+<NlmUniqueID>100900946</NlmUniqueID>
+<ISSNLinking>1534-6277</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D047428">Protein Kinase Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.1</RegistryNumber>
+<NameOfSubstance UI="D058570">TOR Serine-Threonine Kinases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058990">Molecular Targeted Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018358">Neuroendocrine Tumors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047428">Protein Kinase Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058570">TOR Serine-Threonine Kinases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25092520</ArticleId>
+<ArticleId IdType="doi">10.1007/s11864-014-0294-4</ArticleId>
+<ArticleId IdType="pmc">PMC4147239</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>N Engl J Med. 1992 Feb 20;326(8):519-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1310159</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mod Pathol. 2003 Jul;16(7):652-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12861060</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 1998 Aug 15;58(16):3706-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9721882</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1999 Mar 18;340(11):858-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10080850</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2004 Nov;6(11):1122-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15467718</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2004 Dec 1;22(23):4762-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15570077</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2005 Feb 18;307(5712):1098-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15718470</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2005 Jun 14;102(24):8573-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15937108</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer Ther. 2005 Oct;4(10):1533-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16227402</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2006 Feb 1;66(3):1500-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16452206</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2006 Feb 10;124(3):471-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16469695</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Cancer. 2006 Nov 6;95(9):1148-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17031397</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2007 Apr 15;109(8):1478-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17340592</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Oncol. 2007;46(6):741-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17653895</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocr Relat Cancer. 2008 Mar;15(1):257-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18310292</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2008 Mar 10;26(8):1316-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18323556</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Endocrinol. 2008 May 14;286(1-2):69-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17977644</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2008 Sep 10;26(26):4311-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18779618</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2009 Jan 1;15(1):338-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19118063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Oncol. 2009 Jan;21(1):29-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19125015</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2009 Jan 8;360(2):195-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19129539</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2009 May 1;27(13):2278-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19332717</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2009 Oct 1;27(28):4656-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19704057</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastrointest Surg. 2009 Oct;13(10):1773-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19582519</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2010 Jan 1;28(1):69-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19933912</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pancreas. 2010 Aug;39(6):707-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20664470</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Mol Cell Biol. 2011 Jan;12(1):21-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21157483</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2011 Mar 1;128(5):1045-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20473929</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2011 Jan 15;117(2):268-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20824724</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocr Relat Cancer. 2011 Feb;18(1):181-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21159731</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Cell. 2011 Jan 18;19(1):58-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21215704</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2011 Feb 10;364(6):501-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21306237</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2011 Mar 1;29(7):934-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21263089</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2011 May 12;364(19):1873; author reply 1873-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21561355</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncologist. 2011;16(6):783-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21482586</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2012 Mar;97(3):727-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22170729</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2012 Apr 13;149(2):274-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22500797</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2013 Jan;24(1):152-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22967994</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncologist. 2013;18(1):46-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23263288</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Oncol. 2013 Feb;40(1):37-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23391111</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2013 Mar 1;73(5):1449-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23436795</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Sci. 2013 Apr 15;126(Pt 8):1713-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23641065</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2013 Sep 1;119(17):3212-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23733618</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2007 May 15;13(10):2986-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17505000</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2002 Sep;4(9):648-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12172553</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2002 Sep;4(9):658-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12172554</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 2000 Oct;157(4):1097-103</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11021813</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell. 2002 Jul;10(1):151-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12150915</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell. 2002 Sep;10(3):457-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12408816</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2003 Apr;9(4):1469-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12684421</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Histopathology. 1998 Feb;32(2):133-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9543669</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

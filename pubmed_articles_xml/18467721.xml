@@ -1,0 +1,266 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18467721</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>05</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1527-7755</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>26</Volume>
+<Issue>14</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>May</Month>
+<Day>10</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of clinical oncology : official journal of the American Society of Clinical Oncology</Title>
+<ISOAbbreviation>J. Clin. Oncol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Phase II study of extended-dose temozolomide in patients with melanoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2299-304</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1200/JCO.2007.14.5292</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">We conducted a phase II trial of extended-dose temozolomide (TMZ) in patients with melanoma to test the hypothesis that the approximately 30% response rate observed in patients treated with extended-dose TMZ with antiangiogenic agents was caused by TMZ alone. We hypothesized that expression of methylguanine methyltransferase (MGMT) in the tumor would correlate with drug resistance to TMZ.</AbstractText>
+<AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Patients with stage IV or unresectable stage III melanoma were treated with TMZ 75 mg/m(2)/d for 6 weeks followed by a 2-week rest period. Cycles were repeated until progression. Patients were stratified by M1c disease or not. The primary end point was objective response proportion. MGMT expression was assessed by methylation-specific pyrosequencing of the promoter and by immunohistochemistry.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Forty-nine patients (25 with M1c disease) were assessable. Three patients (12.5%) in each cohort experienced partial responses; there were no complete responses. Ten patients (21%) had stable disease lasting more than 24 weeks. Median time to progression was 3.3 months. Median survival was 10.1 months; survival was similar in the two cohorts. The estimated 18-month survival was 27%. There was no correlation between response and either immunohistochemistry staining for MGMT or for MGMT promoter methylation. Seventy-five percent of patients developed CD4(+) lymphopenia after three cycles.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Extended-dose TMZ therapy did not result in a 30% responses rate, which has been observed using extended-dose TMZ with antiangiogenic agents. Response did not correlate with MGMT expression or promoter methylation as a continuous variable, suggesting that other resistance mechanisms are important.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rietschel</LastName>
+<ForeName>Petra</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Memorial Sloan-Kettering Cancer Center, New York, NY 10065, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wolchok</LastName>
+<ForeName>Jedd D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krown</LastName>
+<ForeName>Susan</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gerst</LastName>
+<ForeName>Scott</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jungbluth</LastName>
+<ForeName>Achim A</ForeName>
+<Initials>AA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Busam</LastName>
+<ForeName>Klaus</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>Katherine</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Orlow</LastName>
+<ForeName>Irene</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Panageas</LastName>
+<ForeName>Katherine</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chapman</LastName>
+<ForeName>Paul B</ForeName>
+<Initials>PB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D017427">Clinical Trial, Phase II</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Clin Oncol</MedlineTA>
+<NlmUniqueID>8309333</NlmUniqueID>
+<ISSNLinking>0732-183X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018906">Antineoplastic Agents, Alkylating</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017252">CD3 Complex</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D025521">Tumor Suppressor Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7GR28W0FJI</RegistryNumber>
+<NameOfSubstance UI="D003606">Dacarbazine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.1.1.-</RegistryNumber>
+<NameOfSubstance UI="D015254">DNA Modification Methylases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.1.1.63</RegistryNumber>
+<NameOfSubstance UI="C515491">MGMT protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 6.5.1.-</RegistryNumber>
+<NameOfSubstance UI="D045643">DNA Repair Enzymes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>YF1K15M17Y</RegistryNumber>
+<NameOfSubstance UI="D000077204">Temozolomide</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018906">Antineoplastic Agents, Alkylating</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017252">CD3 Complex</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015496">CD4-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018414">CD8-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019175">DNA Methylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015254">DNA Modification Methylases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045643">DNA Repair Enzymes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003606">Dacarbazine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004334">Drug Administration Schedule</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008545">Melanoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011401">Promoter Regions, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077204">Temozolomide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D025521">Tumor Suppressor Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>5</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>5</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>5</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18467721</ArticleId>
+<ArticleId IdType="pii">26/14/2299</ArticleId>
+<ArticleId IdType="doi">10.1200/JCO.2007.14.5292</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

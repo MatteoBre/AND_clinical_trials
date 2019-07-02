@@ -1,0 +1,200 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21106133</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>03</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1475-2697</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>85</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of helminthology</Title>
+<ISOAbbreviation>J. Helminthol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Uptake and utilization of arachidonic acid in infective larvae of Angiostrongylus cantonensis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>395-400</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1017/S0022149X10000714</ELocationID>
+<Abstract>
+<AbstractText>Infective larvae of Angiostrongylus cantonensis may take up and incorporate exogenous arachidonic acid into their lipid pool. By scintillation counting, uptake and incorporation were determined to be time dependent. Arachidonic acid was mainly incorporated into phospholipid (56.8%) and neutral lipid (22.4%) pools. In the neutral lipids, 64.0% was diglyceride and 36.0% triglyceride. Phosphatidylcholine was the predominant fatty acid in the phospholipid pool. In addition to the release of leukotriene B4, the parasite was found to generate radiolabelled CO2 after incubation with [U-14C]arachidonate. Moreover, enzymatic analysis of crude extracts revealed the presence of acyl-CoA dehydrogenase (short and long chain), thiolase, enoyl-CoA hydratase and 3-hydroxyacyl-CoA dehydrogenase. These findings suggest that infective larvae of A. cantonensis not only take up and incorporate exogenous arachidonic acid into their lipid pool, but may also utilize the fatty acid through a functional β-oxidation pathway.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Tang</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Parasitology, College of Medicine, Chang Gung University, Tao-Yuan 33332, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>L-C</ForeName>
+<Initials>LC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>25</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Helminthol</MedlineTA>
+<NlmUniqueID>2985115R</NlmUniqueID>
+<ISSNLinking>0022-149X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004075">Diglycerides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005227">Fatty Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010743">Phospholipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014280">Triglycerides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>27YG812J1I</RegistryNumber>
+<NameOfSubstance UI="D016718">Arachidonic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.1.1.-</RegistryNumber>
+<NameOfSubstance UI="D015094">3-Hydroxyacyl CoA Dehydrogenases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.3.-</RegistryNumber>
+<NameOfSubstance UI="D044944">Acyl-CoA Dehydrogenases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 4.2.1.17</RegistryNumber>
+<NameOfSubstance UI="D004746">Enoyl-CoA Hydratase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015094">3-Hydroxyacyl CoA Dehydrogenases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044944">Acyl-CoA Dehydrogenases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017185">Angiostrongylus cantonensis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp; development</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000472">pathogenicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016718">Arachidonic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001700">Biomphalaria</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000469">parasitology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004075">Diglycerides</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004746">Enoyl-CoA Hydratase</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005227">Fatty Acids</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007814">Larva</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010084">Oxidation-Reduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010743">Phospholipids</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017206">Strongylida Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000469">parasitology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014280">Triglycerides</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>3</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21106133</ArticleId>
+<ArticleId IdType="pii">S0022149X10000714</ArticleId>
+<ArticleId IdType="doi">10.1017/S0022149X10000714</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,574 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19879883</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>03</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0027-5107</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>683</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Jan</Month>
+<Day>05</Day>
+</PubDate>
+</JournalIssue>
+<Title>Mutation research</Title>
+<ISOAbbreviation>Mutat. Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Nucleotide excision repair genes are expressed at low levels and are not detectably inducible in Caenorhabditis elegans somatic tissues, but their function is required for normal adult life after UVC exposure.</ArticleTitle>
+<Pagination>
+<MedlinePgn>57-67</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.mrfmmm.2009.10.008</ELocationID>
+<Abstract>
+<AbstractText>We performed experiments to characterize the inducibility of nucleotide excision repair (NER) in Caenorhabditis elegans, and to examine global gene expression in NER-deficient and -proficient strains as well as germline vs. somatic tissues, with and without genotoxic stress. We also carried out experiments to elucidate the importance of NER in the adult life of C. elegans under genotoxin-stressed and control conditions. Adult lifespan was not detectably different between wild-type and NER-deficient xpa-1 nematodes under control conditions. However, exposure to 6J/m(2)/day of ultraviolet C radiation (UVC) decreased lifespan in xpa-1 nematodes more than a dose of 100 J/m(2)/day in wild-type. Similar differential sensitivities were observed for adult size and feeding. Remarkably, global gene expression was nearly identical in young adult wild-type and xpa-1 nematodes, both in control conditions and 3h after exposure to 50 J/m(2) UVC. Neither NER genes nor repair activity were detectably inducible in young adults that lacked germ cells and developing embryos (glp-1 strain). However, expression levels of dozens of NER and other DNA damage response genes were much (5-30-fold) lower in adults lacking germ cells and developing embryos, suggesting that somatic and post-mitotic cells have a much lower DNA repair ability. Finally, we describe a refinement of our DNA damage assay that allows damage measurement in single nematodes.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Boyd</LastName>
+<ForeName>Windy A</ForeName>
+<Initials>WA</Initials>
+<AffiliationInfo>
+<Affiliation>Biomolecular Screening Branch, National Toxicology Program, National Institute of Environmental Health Sciences, NIH, Research Triangle Park, NC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crocker</LastName>
+<ForeName>Tracey L</ForeName>
+<Initials>TL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rodriguez</LastName>
+<ForeName>Ana M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leung</LastName>
+<ForeName>Maxwell C K</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lehmann</LastName>
+<ForeName>D Wade</ForeName>
+<Initials>DW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Freedman</LastName>
+<ForeName>Jonathan H</ForeName>
+<Initials>JH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Van Houten</LastName>
+<ForeName>Ben</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meyer</LastName>
+<ForeName>Joel N</ForeName>
+<Initials>JN</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P42 ES010356</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P42 ES010356-08</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P42 ES10356</GrantID>
+<Acronym>ES</Acronym>
+<Agency>NIEHS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Mutat Res</MedlineTA>
+<NlmUniqueID>0400763</NlmUniqueID>
+<ISSNLinking>0027-5107</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D029742">Caenorhabditis elegans Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051760">Xeroderma Pigmentosum Group A Protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>89750-14-1</RegistryNumber>
+<NameOfSubstance UI="D052216">Glucagon-Like Peptide 1</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 6.5.1.-</RegistryNumber>
+<NameOfSubstance UI="D045643">DNA Repair Enzymes</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017173">Caenorhabditis elegans</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D029742">Caenorhabditis elegans Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004260">DNA Repair</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045643">DNA Repair Enzymes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005786">Gene Expression Regulation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005854">Germ Cells</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D052216">Glucagon-Like Peptide 1</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006358">Hot Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020411">Oligonucleotide Array Sequence Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016133">Polymerase Chain Reaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012098">Reproduction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014466">Ultraviolet Rays</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051760">Xeroderma Pigmentosum Group A Protein</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2009</Year>
+<Month>07</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2009</Year>
+<Month>10</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2009</Year>
+<Month>10</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>11</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>11</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>3</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19879883</ArticleId>
+<ArticleId IdType="pii">S0027-5107(09)00337-6</ArticleId>
+<ArticleId IdType="doi">10.1016/j.mrfmmm.2009.10.008</ArticleId>
+<ArticleId IdType="pmc">PMC2799044</ArticleId>
+<ArticleId IdType="mid">NIHMS156587</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>BMC Genomics. 2008;9:334</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18627611</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Toxicol Sci. 2008 Nov;106(1):5-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18566021</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Mol Life Sci. 2009 Mar;66(6):994-1009</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19153657</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2009;4(9):e7024</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19753116</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2009;4(9):e7018</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19753303</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genetics. 2006 Jul;173(3):1301-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16702421</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genetics. 2006 Sep;174(1):57-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16783005</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods Mol Biol. 2006;351:275-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16988441</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biochem. 2006 Oct;290(1-2):103-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16607478</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Comp Biochem Physiol C Toxicol Pharmacol. 2006 Nov;144(3):279-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17112787</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2007 Apr;14(4):662-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17186023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2007 Jun;14(6):1129-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17347667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Biol. 2007;8(5):R70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17472752</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Protoc. 2007;2(10):2366-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17947979</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2007;2(12):e1259</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18060055</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>DNA Repair (Amst). 2008 Feb 1;7(2):267-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18053776</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2008 Mar;36(4):1380-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18203746</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gene. 2000 May 30;250(1-2):15-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10854775</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell. 2000 Mar;5(3):435-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10882129</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mutat Res. 2000 Jul 25;460(2):81-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10882849</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mutat Res. 2000 Sep 15;461(1):31-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10980410</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Genet. 2001;43:71-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11037299</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2002 Jan 4;295(5552):127-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11778048</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2002;18 Suppl 1:S233-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12169552</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cells. 2002 Aug 31;14(1):50-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12243352</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2002 Dec 16;21(58):8949-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12483511</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Biol. 2003;4(4):R28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12702209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2003 Jul 17;424(6946):277-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12845331</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>DNA Repair (Amst). 2003 Nov 21;2(11):1185-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14599741</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mutat Res. 2003 Nov;544(2-3):107-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14644313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochimie. 2003 Nov;85(11):1083-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14726015</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genetics. 1982 Oct;102(2):159-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7152245</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Photochem Photobiol. 1984 Feb;39(2):169-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6709723</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1986 Mar;83(6):1842-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3081903</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gerontol. 1988 Sep;43(5):B137-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3418030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Toxicol Ind Health. 1988 Dec;4(4):469-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3188044</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mutat Res. 1988 Nov-Dec;209(3-4):99-106</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3193983</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genetics. 1989 Jun;122(2):379-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2767423</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Microbiol Rev. 1990 Mar;54(1):18-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2181258</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Biol Cell. 1992 Nov;3(11):1199-213</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1457827</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Gen Genet. 1997 Mar 18;254(1):43-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9108289</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bacteriol. 1998 Jul;180(13):3345-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9642186</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 1998 Nov 27;273(48):31962-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9822667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1999 Feb 16;96(4):1486-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9990050</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Methods. 2005 May;2(5):351-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15846362</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Nucleic Acid Res Mol Biol. 2005;79:183-235</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16096029</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chem Rev. 2006 Feb;106(2):233-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16464004</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Biol. 2006 Mar 7;16(5):493-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16527744</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biol. 2006 Mar 27;172(7):999-1008</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16549501</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods Mol Biol. 2006;314:183-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16673882</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2006 Jun 2;312(5778):1381-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16741121</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2006 Jun 27;103(26):9946-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16788064</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

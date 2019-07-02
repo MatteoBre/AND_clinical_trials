@@ -1,0 +1,268 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21130003</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>01</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1873-460X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>25</Volume>
+<Issue>5</Issue>
+<PubDate>
+<MedlineDate>2011 Sep-Oct</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Journal of diabetes and its complications</Title>
+<ISOAbbreviation>J. Diabetes Complicat.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Serum uric acid level is associated with metabolic syndrome and microalbuminuria in Korean patients with type 2 diabetes mellitus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>309-13</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jdiacomp.2010.09.004</ELocationID>
+<Abstract>
+<AbstractText Label="AIMS" NlmCategory="OBJECTIVE">To determine the relationship between serum uric acid, metabolic syndrome (MetS), and albuminuria in type 2 diabetic patients.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A total of 504 Korean patients with type 2 diabetes aged 57.3 years were retrospectively evaluated for clinical histories, anthropometric measurements, and biochemical studies. Urinary albumin excretion (UAE) was measured by a 24-h urine collection.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Prevalence of MetS increased according to the quartiles of uric acid levels (≤3.7, 3.8 to 4.5, 4.6 to 5.5, and &gt;5.5 mg/dl; 52.1%, 52.1%, 57.5%, and 71.6%, respectively, P&lt;.001). Individual components of MetS (abdominal obesity, hypertriglyceridemia, low HDL-cholesterol, high blood pressure) were also significantly associated with the highest quintile of uric acid levels. Serum uric acid levels had significantly increased risk of albuminuria [odds ratio (OR) 1.425, 95% confidence interval (CI) 1.085-1.873] after adjusting for age, gender, and conventional risk factors. Uric acid level remains a significant predictor for abnormal albuminuria after adjusting for MetS presence as well as the use of angiotensin-converting enzyme inhibitor (ACEI) or angiotensin II receptor blocker (ARB) (OR 1.414, 95% CI 1.071-1.868).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">An elevated uric acid level was significantly associated with MetS and was an independent predictor of albuminuria after adjusting for conventional risk factors and MetS. Regular measurements of uric acid level could give information for predicting the presence of MetS and albuminuria in Korean type 2 diabetic patients.</AbstractText>
+<CopyrightInformation>Copyright © 2011 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Eun Sook</ForeName>
+<Initials>ES</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, Yonsei University College of Medicine, Seoul, South Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kwon</LastName>
+<ForeName>Hyuk Sang</ForeName>
+<Initials>HS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ahn</LastName>
+<ForeName>Chul Woo</ForeName>
+<Initials>CW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lim</LastName>
+<ForeName>Dong Jun</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shin</LastName>
+<ForeName>Jeong Ah</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Seung Hwan</ForeName>
+<Initials>SH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cho</LastName>
+<ForeName>Jae Hyoung</ForeName>
+<Initials>JH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yoon</LastName>
+<ForeName>Kun Ho</ForeName>
+<Initials>KH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kang</LastName>
+<ForeName>Moo Il</ForeName>
+<Initials>MI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cha</LastName>
+<ForeName>Bong Yun</ForeName>
+<Initials>BY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Son</LastName>
+<ForeName>Ho Young</ForeName>
+<Initials>HY</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>03</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Diabetes Complications</MedlineTA>
+<NlmUniqueID>9204583</NlmUniqueID>
+<ISSNLinking>1056-8727</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D057911">Angiotensin Receptor Antagonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000806">Angiotensin-Converting Enzyme Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000959">Antihypertensive Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>268B43MJ25</RegistryNumber>
+<NameOfSubstance UI="D014527">Uric Acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000419">Albuminuria</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057911">Angiotensin Receptor Antagonists</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000806">Angiotensin-Converting Enzyme Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000959">Antihypertensive Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003924">Diabetes Mellitus, Type 2</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D024821">Metabolic Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008954">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051436">Renal Insufficiency, Chronic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056910">Republic of Korea</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012720">Severity of Illness Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014527">Uric Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>06</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2010</Year>
+<Month>08</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>09</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>1</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21130003</ArticleId>
+<ArticleId IdType="pii">S1056-8727(10)00100-5</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jdiacomp.2010.09.004</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

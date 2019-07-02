@@ -1,0 +1,300 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26994684</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>12</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1523-6838</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>68</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>08</Month>
+</PubDate>
+</JournalIssue>
+<Title>American journal of kidney diseases : the official journal of the National Kidney Foundation</Title>
+<ISOAbbreviation>Am. J. Kidney Dis.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Differential Expression of microRNAs in Urinary Extracellular Vesicles Obtained From Hypertensive Patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>331-332</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="pii" ValidYN="Y">S0272-6386(16)00208-0</ELocationID>
+<ELocationID EIdType="doi" ValidYN="Y">10.1053/j.ajkd.2016.01.027</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kwon</LastName>
+<ForeName>Soon Hyo</ForeName>
+<Initials>SH</Initials>
+<AffiliationInfo>
+<Affiliation>Mayo Clinic, Rochester, Minnesota; Soonchunhyang University Hospital, Seoul, Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tang</LastName>
+<ForeName>Hui</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Mayo Clinic, Rochester, Minnesota.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saad</LastName>
+<ForeName>Ahmed</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Mayo Clinic, Rochester, Minnesota.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Woollard</LastName>
+<ForeName>John R</ForeName>
+<Initials>JR</Initials>
+<AffiliationInfo>
+<Affiliation>Mayo Clinic, Rochester, Minnesota.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lerman</LastName>
+<ForeName>Amir</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Mayo Clinic, Rochester, Minnesota.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Textor</LastName>
+<ForeName>Stephen C</ForeName>
+<Initials>SC</Initials>
+<AffiliationInfo>
+<Affiliation>Mayo Clinic, Rochester, Minnesota.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lerman</LastName>
+<ForeName>Lilach O</ForeName>
+<Initials>LO</Initials>
+<AffiliationInfo>
+<Affiliation>Mayo Clinic, Rochester, Minnesota. Electronic address: lerman.lilach@mayo.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 HL123160</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK100081</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P01 HL085307</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK073608</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK102325</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>03</Month>
+<Day>16</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Kidney Dis</MedlineTA>
+<NlmUniqueID>8110075</NlmUniqueID>
+<ISSNLinking>0272-6386</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000075222">Essential Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000067128">Extracellular Vesicles</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064368">Healthy Volunteers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006978">Hypertension, Renovascular</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<CoiStatement>Financial Disclosure: The authors declare that they have no other relevant financial interests.</CoiStatement>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>09</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>31</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>12</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26994684</ArticleId>
+<ArticleId IdType="pii">S0272-6386(16)00208-0</ArticleId>
+<ArticleId IdType="doi">10.1053/j.ajkd.2016.01.027</ArticleId>
+<ArticleId IdType="pmc">PMC5124492</ArticleId>
+<ArticleId IdType="mid">NIHMS829952</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Am J Hypertens. 2010 Jan;23 (1):78-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19910931</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lab Invest. 2010 Jan;90(1):98-103</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19901913</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Ther. 2013 Feb;21(2):388-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23207693</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2005 Feb;16(2):408-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15625073</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FASEB J. 2008 Dec;22(12 ):4126-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18716028</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biomed Res. 2011 May;25(3):170-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23554686</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Clin Invest. 2015 Apr;45(4):394-404</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25682967</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2012 Mar;23 (3):458-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22223877</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Biochem. 2013 Aug;46(12):1131-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23726803</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2013 Dec;84(6):1129-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23868013</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

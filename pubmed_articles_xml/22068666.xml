@@ -1,0 +1,157 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22068666</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>02</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1572-0241</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>107</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>The American journal of gastroenterology</Title>
+<ISOAbbreviation>Am. J. Gastroenterol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The spectrum of sclerosing cholangitis and the relevance of IgG4 elevations in routine practice.</ArticleTitle>
+<Pagination>
+<MedlinePgn>56-63</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/ajg.2011.375</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">American Association for the Study of Liver Diseases (AASLD) guidance recommends measurement of IgG4 in patients with sclerosing cholangitis (SC). The objective of this study was to evaluate this by analyzing our SC practice.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Characteristics were collected on 168 patients with radiological or biopsy proven SC; IgG4 was measured and magnetic resonance cholangiopancreatography studies were reviewed.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">In all, 49% of patients were females and 55% had inflammatory bowel disease. Large duct disease was present in 63%, small duct disease in 8%, overlap with AIH in 11%, and secondary SC in 18%. Secondary etiologies included autoimmune pancreatitis (AIP) (8%), intra-hepatic cholelithiasis (3%), portal vein thrombosis (2%), and neonatal Kasai (2%). In all, 101 patients had sufficient radiology and serology for re-evaluation. IgG4 was elevated (&gt;104 mg/dl) in 22% of patients. This was associated with male gender (73%; P=0.016), a past history of pancreatitis (27% vs. 5%; P=0.007), a higher alkaline phosphatase (ALP) value, median 338.5 U/l vs. 160 (P=0.005), and a higher primary sclerosing cholangitis (PSC) Mayo risk score, mean 0.6 vs. -0.2 (P=0.0008). Prior biliary intervention was more likely (36 vs. 13%; P=0.023), while abnormal pancreatic imaging was noted in 15%, more frequently if IgG4 was elevated (40 vs. 8%; P=0.0007). After excluding those with pancreatic disease on magnetic resonance imaging, 14 patients had elevated IgG4. This group had higher ALP 379 U/l vs. 155.5 (P=0.0006), aspartate aminotransferase (AST) 72.5 U/l vs. 34 (P=0.0005), alanine aminotransferase (ALT) 90.5 U/l vs. 36 (P=0.004), and PSC Mayo risk score values 0.4 vs. -0.2 (P=0.017).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">SC is a heterogeneous liver injury. IgG4 testing may be clinically important in all patients, since it appears to identify a distinct patient population, more so than just those with AIP.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Alswat</LastName>
+<ForeName>Khalid</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Liver Centre, Toronto Western Hospital, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Al-Harthy</LastName>
+<ForeName>Nadya</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mazrani</LastName>
+<ForeName>Waseem</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alshumrani</LastName>
+<ForeName>Ghazi</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jhaveri</LastName>
+<ForeName>Kartik</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hirschfield</LastName>
+<ForeName>Gideon M</ForeName>
+<Initials>GM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>08</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Gastroenterol</MedlineTA>
+<NlmUniqueID>0421030</NlmUniqueID>
+<ISSNLinking>0002-9270</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007074">Immunoglobulin G</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015209">Cholangitis, Sclerosing</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007074">Immunoglobulin G</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010818">Practice Patterns, Physicians'</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22068666</ArticleId>
+<ArticleId IdType="pii">ajg2011375</ArticleId>
+<ArticleId IdType="doi">10.1038/ajg.2011.375</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

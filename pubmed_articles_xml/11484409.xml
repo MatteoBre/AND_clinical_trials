@@ -1,0 +1,142 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11484409</PMID>
+<DateCompleted>
+<Year>2001</Year>
+<Month>08</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>09</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0755-4982</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>30</Volume>
+<Issue>22</Issue>
+<PubDate>
+<Year>2001</Year>
+<Month>Jun</Month>
+<Day>30</Day>
+</PubDate>
+</JournalIssue>
+<Title>Presse medicale (Paris, France : 1983)</Title>
+<ISOAbbreviation>Presse Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Treatment of vasculitis without antineutrophil cytoplasmic autoantibodies].</ArticleTitle>
+<Pagination>
+<MedlinePgn>1126-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="UNLABELLED">RENAL INVOLVEMENT: Several types of vascularides without antineutrophil cytoplasmic autoantibodies (ANCA) can affect the kidney. The most frequently encountered are small-vessel vascularides leading to glomerulonephritis: Goodpasture's disease, lupus, and, most importantly, rheumatoid purpura and type II mixed cryoglobulinemia secondary to hepatitis C. Medium-sized vessel vascularitis, such as occurs in polyarthritis nodosa, is exceptional and leads to renal ischemia. Renal involvement in large-vessel vascularities is also exceptional, e.g. temporal artery arteritis and Takayasu's syndrome.</AbstractText>
+<AbstractText Label="THERAPY" NlmCategory="METHODS">Treatment must be adapted to the type of vascularides and also its class (small, medium, or large-vessel disease) and depends on the gravity of each individual patient's situation. A large range of treatments have been proposed, but there is little solid evidence concerning efficacy.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Esnault</LastName>
+<ForeName>V L</ForeName>
+<Initials>VL</Initials>
+<AffiliationInfo>
+<Affiliation>Service de Néphrologie-Immunologie clinique, Hôtel-Dieu, 30, bd Jean Monnet, F44093 Nantes. vesnault@nantes.inserm.fr</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>fre</Language>
+<PublicationTypeList>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Vascularites sans anticorps anti-cytoplasme des polynucléaires neutrophiles.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>France</Country>
+<MedlineTA>Presse Med</MedlineTA>
+<NlmUniqueID>8302490</NlmUniqueID>
+<ISSNLinking>0755-4982</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019268">Antibodies, Antineutrophil Cytoplasmic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005938">Glucocorticoids</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019268">Antibodies, Antineutrophil Cytoplasmic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005938">Glucocorticoids</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007511">Ischemia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007674">Kidney Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016030">Kidney Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012079">Renal Circulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014657">Vasculitis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>59</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2001</Year>
+<Month>8</Month>
+<Day>4</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2001</Year>
+<Month>8</Month>
+<Day>24</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2001</Year>
+<Month>8</Month>
+<Day>4</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11484409</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

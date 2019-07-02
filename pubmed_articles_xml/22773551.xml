@@ -1,0 +1,330 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22773551</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>06</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>01</Month>
+<Day>08</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1468-3288</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>62</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Gut</Title>
+<ISOAbbreviation>Gut</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Gemcitabine plus erlotinib followed by capecitabine versus capecitabine plus erlotinib followed by gemcitabine in advanced pancreatic cancer: final results of a randomised phase 3 trial of the 'Arbeitsgemeinschaft Internistische Onkologie' (AIO-PK0104).</ArticleTitle>
+<Pagination>
+<MedlinePgn>751-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1136/gutjnl-2012-302759</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">AIO-PK0104 investigated two treatment strategies in advanced pancreatic cancer (PC): a reference sequence of gemcitabine/erlotinib followed by 2nd-line capecitabine was compared with a reverse experimental sequence of capecitabine/erlotinib followed by gemcitabine.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">281 patients with PC were randomly assigned to 1st-line treatment with either gemcitabine plus erlotinib or capecitabine plus erlotinib. In case of treatment failure (eg, disease progression or toxicity), patients were allocated to 2nd-line treatment with the comparator cytostatic drug without erlotinib. The primary study endpoint was time to treatment failure (TTF) after 1st- and 2nd-line therapy (TTF2; non-inferiority design). KRAS exon 2 mutations were analysed in archival tumour tissue from 173 of the randomised patients.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 274 eligible patients, 43 had locally advanced and 231 had metastatic disease; 140 (51%) received 2nd-line chemotherapy. Median TTF2 was estimated with 4.2 months in both arms; median overall survival was 6.2 months with gemcitabine/erlotinib followed by capecitabine and 6.9 months with capecitabine/erlotinib followed by gemcitabine, respectively (HR 1.02, p=0.90). TTF for 1st-line therapy (TTF1) was significantly prolonged with gemcitabine/erlotinib compared to capecitabine/erlotinib (3.2 vs 2.2 months; HR 0.69, p=0.0034). Skin rash was associated with both TTF2 (rash grade 0/1/2-4:2.9/4.3/6.7 months, p&lt;0.0001) and survival (3.4/7.0/9.6 months, p&lt;0.0001). Each arm showed a safe and manageable toxicity profile during 1st- and 2nd-line therapy. A KRAS wild-type status (52/173 patients, 30%) was associated with an improved overall survival (HR 1.68, p=0.005).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Both treatment strategies are feasible and demonstrated comparable efficacy; KRAS may serve as biomarker in patients with advanced PC treated with erlotinib.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Heinemann</LastName>
+<ForeName>Volker</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine III and Comprehensive Cancer Center, Klinikum Grosshadern, Ludwig-Maximilians University of Munich, Marchioninistr. 15, D-81377 Munich, Germany. volker.heinemann@med.uni-muenchen.de</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vehling-Kaiser</LastName>
+<ForeName>Ursula</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Waldschmidt</LastName>
+<ForeName>Dirk</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kettner</LastName>
+<ForeName>Erika</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Märten</LastName>
+<ForeName>Angela</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Winkelmann</LastName>
+<ForeName>Cornelia</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Klein</LastName>
+<ForeName>Stefan</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kojouharoff</LastName>
+<ForeName>Georgi</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gauler</LastName>
+<ForeName>Thomas C</ForeName>
+<Initials>TC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>von Weikersthal</LastName>
+<ForeName>Ludwig Fischer</ForeName>
+<Initials>LF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clemens</LastName>
+<ForeName>Michael R</ForeName>
+<Initials>MR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Geissler</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Greten</LastName>
+<ForeName>Tim F</ForeName>
+<Initials>TF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hegewisch-Becker</LastName>
+<ForeName>Susanna</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rubanov</LastName>
+<ForeName>Oleg</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baake</LastName>
+<ForeName>Gerold</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Höhler</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ko</LastName>
+<ForeName>Yon D</ForeName>
+<Initials>YD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jung</LastName>
+<ForeName>Andreas</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Neugebauer</LastName>
+<ForeName>Sascha</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boeck</LastName>
+<ForeName>Stefan</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00440167</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>Z99 CA999999</GrantID>
+<Acronym>NULL</Acronym>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D017428">Clinical Trial, Phase III</PublicationType>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>07</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Gut</MedlineTA>
+<NlmUniqueID>2985108R</NlmUniqueID>
+<ISSNLinking>0017-5749</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011799">Quinazolines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0W860991D6</RegistryNumber>
+<NameOfSubstance UI="D003841">Deoxycytidine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6804DJ8Z9U</RegistryNumber>
+<NameOfSubstance UI="D000069287">Capecitabine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>B76N6SBZ8R</RegistryNumber>
+<NameOfSubstance UI="C056507">gemcitabine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>DA87705X9K</RegistryNumber>
+<NameOfSubstance UI="D000069347">Erlotinib Hydrochloride</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>U3P01618RT</RegistryNumber>
+<NameOfSubstance UI="D005472">Fluorouracil</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Gut. 2013 May;62(5):660-1</RefSource>
+<PMID Version="1">22952212</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069287">Capecitabine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003841">Deoxycytidine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000031">analogs &amp; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069347">Erlotinib Hydrochloride</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005472">Fluorouracil</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000031">analogs &amp; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D005858">Germany</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010190">Pancreatic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011799">Quinazolines</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22773551</ArticleId>
+<ArticleId IdType="pii">gutjnl-2012-302759</ArticleId>
+<ArticleId IdType="doi">10.1136/gutjnl-2012-302759</ArticleId>
+<ArticleId IdType="pmc">PMC6309814</ArticleId>
+<ArticleId IdType="mid">NIHMS999939</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

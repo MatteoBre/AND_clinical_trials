@@ -1,0 +1,190 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12642152</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>10</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0890-6238</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>17</Volume>
+<Issue>2</Issue>
+<PubDate>
+<MedlineDate>2003 Mar-Apr</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Reproductive toxicology (Elmsford, N.Y.)</Title>
+<ISOAbbreviation>Reprod. Toxicol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Pyridines in cigarette smoke inhibit hamster oviductal functioning in picomolar doses.</ArticleTitle>
+<Pagination>
+<MedlinePgn>191-202</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Past studies showed that chemicals in cigarette smoke inhibit oviductal functioning in vivo and in vitro. The purposes of this study were to identify individual toxicants in cigarette smoke solutions that inhibit various aspects of oviductal functioning and to determine their effective doses using in vitro bioassays. Solid phase extraction and gas chromatography-mass spectrometry (GC-MS) were used to identify individual chemicals in mainstream (MS) and sidestream (SS) cigarette smoke solutions. Pyridines, which were the most abundant class of compounds identified, were purchased, assayed for purity, and tested in dose-response studies on hamster oviducts. The lowest observable adverse effect level was determined for each pyridine derivative using the oocyte pick-up rate, ciliary beat frequency, and infundibular muscle contraction assays. 2-Methylpyridine, 4-methylpyridine, 2-ethylpyridine, 3-ethylpyridine, and 4-vinylpyridine were inhibitory at picomolar concentrations in all assays. This work shows picomolar doses of pyridines with single methyl or ethyl substitutions significantly inhibit oviductal functioning raising questions regarding the safety of these compounds.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Riveles</LastName>
+<ForeName>Karen</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cell Biology and Neuroscience, University of California Riverside, 92521, Riverside, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Iv</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arey</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Talbot</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Reprod Toxicol</MedlineTA>
+<NlmUniqueID>8803591</NlmUniqueID>
+<ISSNLinking>0890-6238</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010847">Picolines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011725">Pyridines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014028">Tobacco Smoke Pollution</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>06X1W46PYX</RegistryNumber>
+<NameOfSubstance UI="C051672">2-ethylpyridine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>A25I3EZ88V</RegistryNumber>
+<NameOfSubstance UI="C039675">3-ethylpyridine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>B083J4KF7F</RegistryNumber>
+<NameOfSubstance UI="C053603">3-methylpyridine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002923">Cilia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006224">Cricetinae</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005187">Fallopian Tubes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008401">Gas Chromatography-Mass Spectrometry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008647">Mesocricetus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009119">Muscle Contraction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009130">Muscle, Smooth</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019055">No-Observed-Adverse-Effect Level</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009865">Oocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010847">Picolines</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000633">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011725">Pyridines</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014028">Tobacco Smoke Pollution</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>3</Month>
+<Day>19</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>10</Month>
+<Day>28</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>3</Month>
+<Day>19</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12642152</ArticleId>
+<ArticleId IdType="pii">S0890623802001508</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

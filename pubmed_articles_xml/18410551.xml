@@ -1,0 +1,172 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18410551</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>08</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>11</Month>
+<Day>05</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1365-2265</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>69</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Clinical endocrinology</Title>
+<ISOAbbreviation>Clin. Endocrinol. (Oxf)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Changes in endothelial function and its association with plasma osteoprotegerin in hypothyroidism with exercise-induced silent myocardial ischaemia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>799-803</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2265.2008.03263.x</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Hypothyroidism is associated with an increased risk for cardiovascular disease. Exercise-induced silent myocardial ischaemia (SI) is an early stage of coronary artery disease. Recently, many studies have shown that endothelial dysfunction is an early physiological event in atherosclerosis, and osteoprotegerin (OPG) acts as an important regulatory molecule in the vasculature. The aim of this study was to investigate the alteration of endothelial function and its association with plasma OPG in hypothyroidism with SI.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Forty-eight female postmenopausal hypothyroid patients with normal rest electrocardiography (ECG) were selected. Of these, 19 cases had SI. Twenty healthy females without SI were selected as controls. High-resolution ultrasound was used to measure brachial artery diameter at rest, after reactive hyperaemia and after sublingual glyceryltrinitrate (GTN). Plasma OPG concentration was measured in duplicate by a sandwich enzyme-linked immunosorbent assay (ELISA).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Flow-mediated arterial dilation (FMD) in the total hypothyroid group, the hypothyroidism with SI group and the hypothyroidism without SI group was 3.51 +/- 0.62%, 3.20 +/- 0.54% and 3.72 +/- 0.60%, respectively, significantly lower than that in the controls (5.08 +/- 0.61%) (P &lt; 0.01). Compared with the hypothyroidism without SI group, FMD in the hypothyroidism with SI group was significantly lower (P &lt; 0.05). Plasma OPG levels in the total hypothyroid group, patients with SI and patients without SI were significantly higher than in the control group (P &lt; 0.05). Compared with patients without SI, OPG levels were significantly higher in patients with SI (P &lt; 0.05). On multiple regression analysis, low density lipoprotein cholesterol (LDL-C), lipoprotein (a) [Lp(a)], C-reactive protein (CRP), OPG, TSH, free T3 (FT3) and thyroid peroxidase antibody (TPO-Ab) were found to be significant factors that were associated with FMD. Logistic analysis also showed that LDL-C, TSH, OPG, CRP and FMD were independently and significantly associated with SI in hypothyroidism.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Impaired endothelial function and increased levels of OPG exist in hypothyroid patients, especially those with SI. These findings support the growing concept that endothelial dysfunction may be associated with vascular disease, and subsequently elevated plasma OPG may have a role in the development of vascular dysfunction in hypothyroid patients.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Guang-da</LastName>
+<ForeName>Xiang</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Endocrinology, Wuhan General Hospital of Guangzhou Command, Wuhan, Hubei Province, PR China. Guangda64@hotmail.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hui-ling</LastName>
+<ForeName>Sun</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jie</LastName>
+<ForeName>Hou</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>04</Month>
+<Day>10</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Clin Endocrinol (Oxf)</MedlineTA>
+<NlmUniqueID>0346653</NlmUniqueID>
+<ISSNLinking>0300-0664</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D053244">Osteoprotegerin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C506030">TNFRSF11B protein, human</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004730">Endothelium, Vascular</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015444">Exercise</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007037">Hypothyroidism</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008055">Lipids</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017202">Myocardial Ischemia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053244">Osteoprotegerin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>4</Month>
+<Day>16</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>8</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>4</Month>
+<Day>16</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18410551</ArticleId>
+<ArticleId IdType="pii">CEN3263</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1365-2265.2008.03263.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

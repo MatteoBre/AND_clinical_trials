@@ -1,0 +1,174 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">9260438</PMID>
+<DateCompleted>
+<Year>1997</Year>
+<Month>09</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0015-4148</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>84</Volume>
+<Issue>5</Issue>
+<PubDate>
+<MedlineDate>1997 Jun-Jul</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of the Florida Medical Association</Title>
+<ISOAbbreviation>J Fla Med Assoc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Paternal exposures and the question of birth defects.</ArticleTitle>
+<Pagination>
+<MedlinePgn>323-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Compared to maternal exposures, little attention has been paid to the possibility of paternally induced adverse effects on fetal development. There is increasing concern, however, about the potential for male-mediated developmental toxicity brought about by exposure to teratogenic agents. This is evidenced by the number of calls regarding paternal exposures that are received by teratogen information services. In this paper, we report the experience of the state of Florida's Teratogen Information Services regarding questions asked about paternal exposures, and briefly review what is known about the risk of paternal exposure to the 10 agents which are most frequently queried.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Poynor</LastName>
+<ForeName>D H</ForeName>
+<Initials>DH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, University of Florida, Gainesville, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lupkiewicz</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sage</LastName>
+<ForeName>S R</ForeName>
+<Initials>SR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carver</LastName>
+<ForeName>V H</ForeName>
+<Initials>VH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kousseff</LastName>
+<ForeName>B G</ForeName>
+<Initials>BG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lubs</LastName>
+<ForeName>H A</ForeName>
+<Initials>HA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Williams</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Fla Med Assoc</MedlineTA>
+<NlmUniqueID>7505604</NlmUniqueID>
+<ISSNLinking>0015-4148</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004785">Environmental Pollutants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010575">Pesticides</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000014">Abnormalities, Drug-Induced</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064420">Drug-Related Side Effects and Adverse Reactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004785">Environmental Pollutants</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D005431">Florida</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007253">Information Centers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018812">Paternal Exposure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010575">Pesticides</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>38</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1997</Year>
+<Month>6</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1997</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1997</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9260438</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

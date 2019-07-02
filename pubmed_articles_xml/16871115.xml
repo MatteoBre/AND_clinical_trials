@@ -1,0 +1,123 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16871115</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>11</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1535-1815</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>22</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pediatric emergency care</Title>
+<ISOAbbreviation>Pediatr Emerg Care</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Heatstroke in the super-sized athlete.</ArticleTitle>
+<Pagination>
+<MedlinePgn>510-3</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We present a 16-year-old male athlete with hyperthermia, altered mental status, and respiratory distress during summer football practice. Multisystem organ failure ensued, which he survived. Malignant hyperthermia was suspected in this patient who had a history of rhabdomyolysis. Specific muscle contracture testing later eliminated this diagnosis. This case discusses the importance of rapid hydration with isonatremic fluid, aggressive cooling, and full support measures, including plasmapheresis, further diagnostic efforts to evaluate potential causes of rhabdomyolysis, and planning for physical and emotional rehabilitation.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Fink</LastName>
+<ForeName>Ericka</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Children's Hospital of Pittsburgh, Pittsburgh, PA 15213, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brandom</LastName>
+<ForeName>Barbara W</ForeName>
+<Initials>BW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Torp</LastName>
+<ForeName>Klaus D</ForeName>
+<Initials>KD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pediatr Emerg Care</MedlineTA>
+<NlmUniqueID>8507560</NlmUniqueID>
+<ISSNLinking>0749-5161</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005538">Football</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018883">Heat Stroke</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009102">Multiple Organ Failure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>11</Month>
+<Day>15</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16871115</ArticleId>
+<ArticleId IdType="doi">10.1097/01.pec.0000227388.91885.4b</ArticleId>
+<ArticleId IdType="pii">00006565-200607000-00013</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

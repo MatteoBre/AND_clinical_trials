@@ -1,0 +1,291 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17804043</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>10</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>04</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0049-3848</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>121</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2008</Year>
+</PubDate>
+</JournalIssue>
+<Title>Thrombosis research</Title>
+<ISOAbbreviation>Thromb. Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Are patients with thrombophilia and previous venous thromboembolism at higher risk to arterial thrombosis?</ArticleTitle>
+<Pagination>
+<MedlinePgn>743-50</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Whether thrombophilic disorders, which are established risk factors for venous thromboembolism (VTE), also increase the risk of arterial thrombosis is still unknown.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">We analyzed data from 1081 consecutive patients (649 F/432 M, 16-93 years of age) with previous VTE registered in the MAISTHRO (MAin-ISar-THROmbosis) database with regard to arterial thrombotic events and contributing risk factors. Screening for thrombophilia included testing for factor V Leiden and prothrombin G20210A mutation, antiphospholipid antibodies and activities of factor VIII, protein C, protein S and antithrombin.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the entire study cohort, 40 patients (3.7%) had a prior myocardial infarction (MI), and 41 (3.8%) suffered a stroke. Other arterial thrombotic events were rare. Elevated factor VIII levels were more prevalent in MI patients than in controls (44.4 vs. 25.9%, p=0.044), but after adjusting for the traditional cardiovascular risk factors, this relationship was no longer significant. We observed a higher rate of lupus anticoagulant in MI patients with an adjusted odds ratio of 3.3 (95%CI 0.84-12.8, p=0.090). No difference in any other tested thrombophilia was observed in patients with MI or stroke relative to those without.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The cumulative incidence of arterial thrombotic events in VTE patients is low, and the inherited thrombophilias do not seem to substantially increase the risk of arterial thrombosis.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Linnemann</LastName>
+<ForeName>Birgit</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Vascular Medicine, Department of Internal Medicine, Johann Wolfgang Goethe University Hospital, Theodor-Stern-Kai 7 D-60590 Frankfurt/Main, Germany. Birgit.Linnemann@kgu.de</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schindewolf</LastName>
+<ForeName>Marc</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zgouras</LastName>
+<ForeName>Dimitrios</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Erbe</LastName>
+<ForeName>Matthias</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jarosch-Preusche</LastName>
+<ForeName>Marie</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lindhoff-Last</LastName>
+<ForeName>Edelgard</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>09</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Thromb Res</MedlineTA>
+<NlmUniqueID>0326377</NlmUniqueID>
+<ISSNLinking>0049-3848</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017152">Antibodies, Antiphospholipid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000991">Antithrombins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016682">Lupus Coagulation Inhibitor</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011486">Protein C</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017293">Protein S</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C095381">factor V Leiden</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9001-24-5</RegistryNumber>
+<NameOfSubstance UI="D005165">Factor V</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9001-26-7</RegistryNumber>
+<NameOfSubstance UI="D011516">Prothrombin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9001-27-8</RegistryNumber>
+<NameOfSubstance UI="D005169">Factor VIII</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017152">Antibodies, Antiphospholipid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000991">Antithrombins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001158">Arteries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002545">Brain Ischemia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016208">Databases, Factual</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005165">Factor V</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005169">Factor VIII</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D005858">Germany</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016682">Lupus Coagulation Inhibitor</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009203">Myocardial Infarction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016133">Polymerase Chain Reaction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011486">Protein C</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017293">Protein S</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011516">Prothrombin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012042">Registries</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019851">Thrombophilia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013927">Thrombosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054556">Venous Thromboembolism</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2007</Year>
+<Month>06</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2007</Year>
+<Month>07</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2007</Year>
+<Month>07</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>9</Month>
+<Day>7</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>25</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>9</Month>
+<Day>7</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17804043</ArticleId>
+<ArticleId IdType="pii">S0049-3848(07)00313-1</ArticleId>
+<ArticleId IdType="doi">10.1016/j.thromres.2007.07.014</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,136 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18807587</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>09</Month>
+<Day>23</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0001-5458</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>108</Volume>
+<Issue>4</Issue>
+<PubDate>
+<MedlineDate>2008 Jul-Aug</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Acta chirurgica Belgica</Title>
+<ISOAbbreviation>Acta Chir. Belg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Atherosclerotic aneurysms. Comparisons between thoracic stentgrafts--how do we know which stent graft to select?</ArticleTitle>
+<Pagination>
+<MedlinePgn>386-92</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Surgical intervention for thoracic aortic aneurysms (TAA) greater than six centimetres is warranted in most patients deemed fit enough to withstand surgery as the annual risk of death, rupture or dissection is estimated to be 16%. Traditional surgical repair of thoracic aortic aneurysms however carries an attendant risk of significant morbidity and mortality. Endovascular repair (TEVAR) has emerged as a feasible alternative which is associated with significantly improved patient outcomes even in the highest risk patients. Improvement in stent-graft design has increased the rates of technical success of aneurysm exclusion and promises to offer further mid-term reductions in the need for re-intervention and the risk of aneurysm related death. This review article highlights the advances made in thoracic stent-graft design and discusses patient outcomes for each of the most widely used endografts in clinical practice to date.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ali</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>St George's Regional Vascular Institute, 4th Floor, St Jame's Wing, St Georges Hospital NHS Trust, London.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Biasi</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hinchliffe</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morgan</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thompson</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Loftus</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Acta Chir Belg</MedlineTA>
+<NlmUniqueID>0370571</NlmUniqueID>
+<ISSNLinking>0001-5458</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017545">Aortic Aneurysm, Thoracic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050197">Atherosclerosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D001807">Blood Vessel Prosthesis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011474">Prosthesis Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015607">Stents</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>26</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18807587</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

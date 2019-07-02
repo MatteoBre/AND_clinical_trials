@@ -1,0 +1,399 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24567235</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>10</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1432-1084</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>24</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>European radiology</Title>
+<ISOAbbreviation>Eur Radiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Impact of sirolimus-eluting stent fractures without early cardiac events on long-term clinical outcomes: a multislice computed tomography study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1006-12</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00330-014-3118-9</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">This study sought to evaluate the impact of sirolimus-eluting stent (SES) fractures on long-term clinical outcomes using multislice computed tomography (MSCT).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">In this study, 528 patients undergoing 6- to 18-month follow-up 64-slice MSCT after SES implantation without early clinical events were followed clinically (the median follow-up interval was 4.6 years). A CT-detected stent fracture was defined as a complete gap with Hounsfield units (HU) &lt;300 at the site of separation. The major adverse cardiac events (MACEs), including cardiac death, stent thrombosis, and target lesion revascularisation, were compared according to the presence of stent fracture.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Stent fractures were observed in 39 patients (7.4 %). MACEs were more common in patients with CT-detected stent fractures than in those without (46 % vs. 7 %, p &lt; 0.01). Univariate Cox regression analysis indicated a significant relationship between MACE and stent fracture [hazard ratio (HR) 7.65; p &lt; 0.01], age (HR 1.03; p = 0.04), stent length (HR 1.03; p &lt; 0.01), diabetes mellitus (HR 1.77; p = 0.04), and chronic total occlusion (HR 2.54; p = 0.01). In the multivariate model, stent fracture (HR 5.36; p &lt; 0.01) and age (HR 1.03; p = 0.04) remained significant predictors of MACE.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">An SES fracture detected by MSCT without early clinical events was associated with long-term clinical adverse events.</AbstractText>
+<AbstractText Label="KEY POINTS" NlmCategory="CONCLUSIONS">• Long-term outcomes of sirolimus-eluting stent fracture have not been fully clarified. • MSCT could detect stent fracture with high accuracy. • Sirolimus-eluting stent fracture detected by MSCT was associated with long-term adverse events.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ito</LastName>
+<ForeName>Tsuyoshi</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Toyohashi Heart Center, 21-1, Gobudori, Oyama-cho, Toyohashi, Japan, 4418530, tuyosiito@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kimura</LastName>
+<ForeName>Masashi</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ehara</LastName>
+<ForeName>Mariko</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Terashima</LastName>
+<ForeName>Mitsuyasu</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nasu</LastName>
+<ForeName>Kenya</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kinoshita</LastName>
+<ForeName>Yoshihisa</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Habara</LastName>
+<ForeName>Maoto</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tsuchikane</LastName>
+<ForeName>Etsuo</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Suzuki</LastName>
+<ForeName>Takahiko</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>02</Month>
+<Day>25</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Eur Radiol</MedlineTA>
+<NlmUniqueID>9114774</NlmUniqueID>
+<ISSNLinking>0938-7994</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000903">Antibiotics, Antineoplastic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>W36ZG6FT64</RegistryNumber>
+<NameOfSubstance UI="D020123">Sirolimus</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000903">Antibiotics, Antineoplastic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003324">Coronary Artery Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054855">Drug-Eluting Stents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D061330">Multidetector Computed Tomography</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064887">Observational Studies as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011475">Prosthesis Failure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020123">Sirolimus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>02</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2014</Year>
+<Month>01</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>2</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>2</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24567235</ArticleId>
+<ArticleId IdType="doi">10.1007/s00330-014-3118-9</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Int J Cardiol. 2009 Apr 17;133(3):321-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18342960</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2012 Jan 31;125(4):584-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22203694</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2011 Mar 8;57(10 ):1237-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21145688</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2009 Apr 1;103(7):923-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19327417</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2009 Nov 17;54(21):1924-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19909872</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2011 May 1;107(9):1270-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21349480</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiol. 2012 Jun 28;158(1):83-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21482439</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart. 2008 Jul;94(7):848-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17881474</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2010 Nov 23;56(22):1864-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21087721</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2009 Mar 15;103(6):818-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19268738</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2002 Jun 6;346(23 ):1773-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12050336</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2004 Apr 7;43(7):1241-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15063437</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2007 Mar 8;356(10):998-1008</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17296824</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Heart J. 2010 Oct;160(4):775.e1-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20934574</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2009 Jun 30;54(1):49-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19555840</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiol. 2008 Nov 12;130(2):255-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18096257</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ J. 2013;77(4):988-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23291964</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiology. 2008 Dec;249(3):810-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19011182</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Invest Radiol. 2010 Jun;45(6):331-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20404736</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J Cardiovasc Imaging. 2012 Jul;13(7):631</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22371523</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JACC Cardiovasc Imaging. 2012 Feb;5(2):232-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22340834</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2007 Mar 8;356(10):1020-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17296821</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2005 Aug 2;46(3):552-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16053973</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Catheter Cardiovasc Interv. 2007 Feb 15;69(3):380-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17195199</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ J. 2011;75(11):2716-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21799268</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiol. 2008 Apr 25;125(3):325-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17434616</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2012 Feb 28;59(9):793-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22361397</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2009 Nov 17;54(21):1949-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19909876</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Cardiovasc Interv. 2011 Aug;4(4):349-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21813403</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acad Radiol. 2009 Apr;16(4):412-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19268852</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

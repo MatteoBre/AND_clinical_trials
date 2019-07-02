@@ -1,0 +1,125 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24762665</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>08</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>06</Month>
+<Day>08</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1560-7917</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>19</Volume>
+<Issue>15</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Apr</Month>
+<Day>17</Day>
+</PubDate>
+</JournalIssue>
+<Title>Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin</Title>
+<ISOAbbreviation>Euro Surveill.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Measles on a cruise ship: links with the outbreak in the Philippines.</ArticleTitle>
+<ELocationID EIdType="pii" ValidYN="Y">20774</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mandal</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Immunisation, Hepatitis and Blood Safety Department, Centre for Infectious Disease Surveillance and Control, Public Health England, London, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ramsay</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>04</Month>
+<Day>17</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Sweden</Country>
+<MedlineTA>Euro Surveill</MedlineTA>
+<NlmUniqueID>100887452</NlmUniqueID>
+<ISSNLinking>1025-496X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Euro Surveill. 2014;19(10). pii: 20735</RefSource>
+<PMID Version="1">24650863</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Euro Surveill. 2014;19(15). pii: 20773</RefSource>
+<PMID Version="1">24762666</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004196">Disease Outbreaks</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008457">Measles</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012767">Ships</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>4</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>4</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24762665</ArticleId>
+<ArticleId IdType="doi">10.2807/1560-7917.es2014.19.15.20774</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

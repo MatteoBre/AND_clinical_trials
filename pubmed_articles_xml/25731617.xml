@@ -1,0 +1,382 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25731617</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>03</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1559-131X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>32</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Medical oncology (Northwood, London, England)</Title>
+<ISOAbbreviation>Med. Oncol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Wnt signaling regulates the stemness of lung cancer stem cells and its inhibitors exert anticancer effect on lung cancer SPC-A1 cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>95</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s12032-014-0462-1</ELocationID>
+<Abstract>
+<AbstractText>Wnt signaling plays an important role in regulating the activity of cancer stem cells (CSCs) in a variety of cancers. In this study, we explored the role of Wnt signaling in the lung cancer stem cells (LCSCs). LCSCs were obtained by sphere culture, for which human lung adenocarcinoma cell line SPC-A1 was treated with IGF, EGF and FGF-10. The stemness of LCSCs was confirmed by immunofluorescence, and pathway analysis was performed by functional genome screening and RT-PCR. The relationship between the identified signaling pathway and the expression of the stemness genes was explored by agonist/antagonist assay. Moreover, the effects of different signaling molecule inhibitors on sphere formation, cell viability and colony formation were also analyzed. The results showed that LCSCs were successfully generated as they expressed pluripotent stem cell markers Nanog and Oct 4, and lung distal epithelial markers CCSP and SP-C, by which the phenotype characterization of stem cells can be confirmed. The involvement of Wnt pathway in LCSCs was identified by functional genome screening and verified by RT-PCR. The expression of Wnt signaling components was closely related to the expression of the Nanog and Oct 4. Furthermore, targeting Wnt signaling pathway by using different signaling molecule inhibitors can exert anticancer effects. In conclusion, Wnt signaling pathway is involved in the stemness regulation of LCSCs and might be considered as a potential therapeutic target in lung adenocarcinoma. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Xueyan</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pulmonary Medicine, Shanghai Chest Hospital, Shanghai Jiao Tong University, 241 West Huaihai Road, Shanghai, 200000, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lou</LastName>
+<ForeName>Yuqing</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Huimin</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zheng</LastName>
+<ForeName>Xiaoxuan</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dong</LastName>
+<ForeName>Qianggang</ForeName>
+<Initials>Q</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sun</LastName>
+<ForeName>Jiayuan</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Han</LastName>
+<ForeName>Baohui</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>03</Month>
+<Day>03</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Med Oncol</MedlineTA>
+<NlmUniqueID>9435512</NlmUniqueID>
+<ISSNLinking>1357-0560</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051153">Wnt Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000230">Adenocarcinoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015153">Blotting, Western</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058750">Epithelial-Mesenchymal Transition</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005455">Fluorescent Antibody Technique</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014411">Neoplastic Stem Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060888">Real-Time Polymerase Chain Reaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020133">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014407">Tumor Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051153">Wnt Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000819">agonists</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>3</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>3</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25731617</ArticleId>
+<ArticleId IdType="doi">10.1007/s12032-014-0462-1</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Neoplasma. 2012;59(6):685-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22862169</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2010 Nov 19;5(11):e14062</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21124918</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>ANZ J Surg. 2007 Jun;77(6):464-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17501888</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2006 Oct 1;66(19):9339-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16990346</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2003 Oct 16;22(46):7218-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14562050</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2009 Sep 22;106(38):16281-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19805294</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1994 Feb 17;367(6464):645-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7509044</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CA Cancer J Clin. 2010 Sep-Oct;60(5):277-300</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20610543</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2009 Jan 27;106(4):1193-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19144919</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2008 Mar;15(3):504-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18049477</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS J. 2014 Nov;281(21):4779-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25158828</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Sci. 2008 Oct;99(10):1871-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19016744</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2011 May;121(5):1935-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21490395</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Mol Sci. 2012;13(9):11471-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23109866</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2008 Apr 3;452(7187):650-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18385740</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CA Cancer J Clin. 2013 Jan;63(1):11-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23335087</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2010 Feb 1;116(3):544-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19998273</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2004 Aug 12;23(36):6170-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15208662</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2008 Aug 27;3(8):e3077</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18728788</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anticancer Res. 2008 Sep-Oct;28(5A):2701-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19035298</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Biol. 2014 Mar 24;12:21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24661562</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2010 Jun 15;16(12):3106-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20530695</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2010 Dec 1;70(23 ):9937-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21118965</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cloning Stem Cells. 2008 Mar;10(1):49-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18241124</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2008 Jul 09;3(7):e2637</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18612434</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2011 Oct 09;17(11):1504-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21983857</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2011 Jan 05;6(1):e15844</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21246056</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2008 Jun 1;68(11):4287-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18519688</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,226 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21261621</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>06</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1600-0765</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>46</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of periodontal research</Title>
+<ISOAbbreviation>J. Periodont. Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The efficacy of host response modulation therapy (omega-3 plus low-dose aspirin) as an adjunctive treatment of chronic periodontitis (clinical and biochemical study).</ArticleTitle>
+<Pagination>
+<MedlinePgn>261-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1600-0765.2010.01336.x</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND AND OBJECTIVE" NlmCategory="OBJECTIVE">Regeneration of lost periodontal tissues is considered to be one of the most challenging aspects of periodontal therapy. Our current understanding of the role of the host immuno-inflammatory response in periodontal diseases forms the basis of new therapeutic approaches. The aim of this study was to evaluate the efficacy of systemic administration of omega-3 polyunsaturated fatty acids plus low-dose aspirin as an adjunctive treatment to regenerative therapy of furcation defects.</AbstractText>
+<AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">Forty patients displaying at least a single grade II furcation defect were enrolled in the study. They were randomly allocated into two groups: an experimental group receiving decalcified freeze-dried bone allograft (DFDBA) + omega-3 polyunsaturated fatty acids combined with low-dose aspirin; and a control group receiving DFDBA + placebo. Clinical parameters were monitored at baseline, and at 3 and 6 mo following therapy, and included plaque index, gingival index, gingival bleeding index, probing pocket depth and clinical attachment level. The biochemical markers assessed in gingival crevicular fluid samples were interleukin-1β and interleukin-10.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The experimental intervention resulted in a greater mean probing pocket depth reduction (P &lt; 0.001) and gain in clinical attachment (P &lt; 0.05) compared with the control at 6 mo. Furthermore, the experimental protocol was able to achieve a significant modulatory effect on the levels of interleukin-1β and interleukin-10 compared with control therapy.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The findings suggest that the combination therapy demonstrated successful reduction of gingival inflammation, reduction of pocket depth and attachment level gain, accompanied by a trend for modulation of the cytokines profile in gingival crevicular fluid.</AbstractText>
+<CopyrightInformation>© 2011 John Wiley &amp; Sons A/S.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Elkhouli</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>Oral Medicine and Periodontology Department, Faculty of Dentistry, October 6 University, Cairo, Egypt. amrelkhouli@hotmail.com</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>01</Month>
+<Day>25</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Periodontal Res</MedlineTA>
+<NlmUniqueID>0055107</NlmUniqueID>
+<ISSNLinking>0022-3484</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015525">Fatty Acids, Omega-3</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D053583">Interleukin-1beta</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010919">Placebos</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>130068-27-8</RegistryNumber>
+<NameOfSubstance UI="D016753">Interleukin-10</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>R16CO5Y76E</RegistryNumber>
+<NameOfSubstance UI="D001241">Aspirin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>D</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000284">Administration, Oral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001241">Aspirin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016025">Bone Transplantation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055113">Chronic Periodontitis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003774">Dental Plaque Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015525">Fatty Acids, Omega-3</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017823">Furcation Defects</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005883">Gingival Crevicular Fluid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005884">Gingival Hemorrhage</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016557">Guided Tissue Regeneration, Periodontal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056747">Immunomodulation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016753">Interleukin-10</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053583">Interleukin-1beta</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017622">Periodontal Attachment Loss</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010512">Periodontal Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010514">Periodontal Pocket</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010919">Placebos</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>1</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>1</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>6</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21261621</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1600-0765.2010.01336.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

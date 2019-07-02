@@ -1,0 +1,296 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25190350</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>06</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">2095-0225</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>8</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Frontiers of medicine</Title>
+<ISOAbbreviation>Front Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>An 84-month observational study of the changes in CD4 T-lymphocyte cell count of 110 HIV/AIDS patients treated with traditional Chinese medicine.</ArticleTitle>
+<Pagination>
+<MedlinePgn>362-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s11684-014-0363-x</ELocationID>
+<Abstract>
+<AbstractText>This study aimed to evaluate the therapeutic effect of traditional Chinese medicine (TCM) by observing the changes in CD4 T-lymphocyte cell count of 110 cases with human immunodeficiency virus (HIV)/acquired immunodeficiency syndrome (AIDS) treated continuously with TCM for 84 months. Information of 110 HIV/AIDS patients from 19 provinces and cities treated with TCM from 2004 to 2013 was collected. Changes in the indexes of CD4 counts ( ≤ 200, 201-350, 351-500 and &gt; 500 cells/mm(3)) at five time points (0, 12, 36, 60 and 84 months) and different treatments [TCM and TCM plus antiretroviral therapy (ART)] were compared. Repeated measures test indicated no interaction between group and time (P &gt; 0.05). Degrees of increasing and decreasing CD4 count of the two groups at four different frames were statistically significant compared with the baseline. The CD4 count between the two groups was not statistically significant. For CD4 count of ≤ 200 cells/mm(3), the mean CD4 count changes were 21 and 28 cells/mm(3) per year for the TCM group and TCM plus ART group, respectively. For CD4 count of 201-350 cells/mm(3), the mean CD4 count changes were 6 and 25 cells/mm(3) per year for the TCM group and TCM plus ART group, respectively. For CD4 count of 351-500 cells/mm(3), the mean CD4 count changes were -13 and -7 cells/mm(3) per year for the TCM group and TCM plus ART group, respectively. For CD4 count of &gt; 500 cells/mm(3), the mean CD4 count changes were -34 and -17 cells/mm(3) per year for the TCM group and TCM plus ART group, respectively. Long-term use of TCM could maintain or slow the pace of declining CD4 counts in patients with HIV/AIDS, and may achieve lasting effectiveness.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Jian</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>TCM Center for AIDS Prevention and Treatment, China Academy of Chinese Medical Sciences, Beijing, 100700, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liang</LastName>
+<ForeName>Biyan</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Xiaoping</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xu</LastName>
+<ForeName>Liran</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deng</LastName>
+<ForeName>Xin</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Xiuhui</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fang</LastName>
+<ForeName>Lu</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tan</LastName>
+<ForeName>Xinghua</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mao</LastName>
+<ForeName>Yuxiang</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Guoliang</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Yuguang</ForeName>
+<Initials>Y</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D064888">Observational Study</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>09</Month>
+<Day>03</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>China</Country>
+<MedlineTA>Front Med</MedlineTA>
+<NlmUniqueID>101549428</NlmUniqueID>
+<ISSNLinking>2095-0217</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019380">Anti-HIV Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004365">Drugs, Chinese Herbal</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000704">Analysis of Variance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019380">Anti-HIV Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018791">CD4 Lymphocyte Count</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015496">CD4-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004365">Drugs, Chinese Herbal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008516">Medicine, Chinese Traditional</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008517">Phytotherapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>04</Month>
+<Day>28</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>08</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>6</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25190350</ArticleId>
+<ArticleId IdType="doi">10.1007/s11684-014-0363-x</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Zhong Xi Yi Jie He Xue Bao. 2007 Jan;5(1):101-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17214947</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1998 Nov 28;352(9142):1725-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9848347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Patient Care STDS. 2006 Jan;20(1):6-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16426151</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Zhong Xi Yi Jie He Xue Bao. 2012 Sep;10(9):983-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22979929</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Complement Altern Med. 2009 Aug 05;9:29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19656383</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1998 Feb 11;279(6):450-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9466638</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2001 Jun 15;15(9):1143-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11416716</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1998 Mar 26;338(13):853-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9516219</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Expert Opin Investig Drugs. 2007 Sep;16(9):1355-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17714022</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stat Med. 1990 Jun;9(6):639-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2218167</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2000 Sep 16;321(7262):683-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10987776</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2000 Mar 31;14(5):499-507</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10780712</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2005 Jul 5;143(1):55-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15998755</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

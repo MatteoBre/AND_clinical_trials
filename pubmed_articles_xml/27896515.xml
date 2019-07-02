@@ -1,0 +1,427 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27896515</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>02</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>02</Month>
+<Day>27</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1534-4681</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>24</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Annals of surgical oncology</Title>
+<ISOAbbreviation>Ann. Surg. Oncol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Outcome After Sentinel Lymph Node Dissection in Vulvar Cancer: A Subgroup Analysis of the AGO-CaRE-1 Study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1314-1321</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1245/s10434-016-5687-0</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Analyzing the large patient cohort of the multicenter AGO-CaRE-1 study, we compared isolated sentinel lymph node dissection (SLND) with radical lymph node dissection (LND) of the groin in relation to recurrence rates and survival.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The AGO-CaRE-1 study retrospectively collected data on treatment patterns and follow-up of vulvar cancer patients [International Federation of Gynecology and Obstetrics (FIGO) stage ≥1B] treated at 29 gynecologic cancer centers between 1998 and 2008. This subgroup analysis evaluated the influence of SLND alone on progression-free survival (PFS) and overall survival (OS).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">In 487 (63.1%) of 772 included patients with tumors smaller than 4 cm, an LND was performed and no metastatic lymph nodes were detected (LN0). Another 69/772 (8.9%) women underwent SLND alone, showing a negative SLN (SLN0). Tumors in the LN0 group were larger and showed a deeper invasion (LN0 vs. SLN0 tumor diameter: 20.0 vs. 13.0 mm, p &lt; 0.001; depth of invasion: 4.0 vs. 3.0 mm, p = 0.002). After a median follow-up of 33 months (0-156), no significant differences in relation to isolated groin recurrence rates (SLN0 3.0% vs. LN0 3.4%, p = 0.845) were detected. Similarly, univariate 3-year PFS analysis showed no significant differences between both groups (SLN0 82.7% vs. LN0 77.6%, p = 0.230). A multivariate Cox regression analysis, including tumor diameter, depth of invasion, age, grading, and lymphovascular space invasion was performed: PFS [hazard ratio (HR) 0.970, 95% confidence interval (CI) 0.517-1.821] and OS (HR 0.695, 95% CI 0.261-1.849) did not differ significantly between both cohorts.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This subgroup analysis of the large AGO-CaRE-1 study showed similar results for groin LND and SLND alone with regard to recurrence rates and survival in node-negative patients with tumors &lt;4 cm.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Klapdor</LastName>
+<ForeName>Rüdiger</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, Hannover Medical School, Hannover, Germany. klapdor.ruediger@mh-hannover.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hillemanns</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, Hannover Medical School, Hannover, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wölber</LastName>
+<ForeName>Linn</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jückstock</LastName>
+<ForeName>Julia</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology and Obstetrics, University of Munich, Munich, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hilpert</LastName>
+<ForeName>Felix</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Jerusalem Hospital, Hamburg, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Gregorio</LastName>
+<ForeName>Nikolaus</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, University of Ulm, Ulm, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Iborra</LastName>
+<ForeName>Severine</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, University Medical Center - RWTH, Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sehouli</LastName>
+<ForeName>Jalid</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, Charité - University Medicine Berlin, Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Habermann</LastName>
+<ForeName>Anika</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, University of Magdeburg, Magdeburg, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fürst</LastName>
+<ForeName>Sophie Teresa</ForeName>
+<Initials>ST</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, University of Munich-Grosshadern, Munich, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Strauß</LastName>
+<ForeName>Hans Georg</ForeName>
+<Initials>HG</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, University of Halle, Halle, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baumann</LastName>
+<ForeName>Klaus</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, Klinikum Ludwigshafen, Ludwigshafen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thiel</LastName>
+<ForeName>Falk</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, Alb Fils Kliniken, Klinik am Eichert, Goeppingen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mustea</LastName>
+<ForeName>Alexander</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, University Medicine of Greifswald, Greifswald, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meier</LastName>
+<ForeName>Werner</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, Evangelisches Krankenhaus Duesseldorf, Duesseldorf, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harter</LastName>
+<ForeName>Philipp</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, Kliniken Essen Mitte, Essen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wimberger</LastName>
+<ForeName>Pauline</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology and Obstetrics, Carl-Gustav-Carus University Dresden, Dresden, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hanker</LastName>
+<ForeName>Lars</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, UKSH Campus Lübeck, Lübeck, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmalfeldt</LastName>
+<ForeName>Barbara</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology and Obstetrics, University of Munich, Munich, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Canzler</LastName>
+<ForeName>Ulrich</ForeName>
+<Initials>U</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology and Obstetrics, Carl-Gustav-Carus University Dresden, Dresden, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fehm</LastName>
+<ForeName>Tanja</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, Düsseldorf University Hospital, Düsseldorf, Germany.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology and Obstetrics, University of Tübingen, Tübingen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Luyten</LastName>
+<ForeName>Alexander</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, Wolfsburg Hospital, Wolfsburg, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hellriegel</LastName>
+<ForeName>Martin</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, Georg-August-University Goettingen, Goettingen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kosse</LastName>
+<ForeName>Jens</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, SANA Hospital Offenbach, Offenbach, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heiss</LastName>
+<ForeName>Christoph</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, Alb Fils Kliniken, Klinik am Eichert, Goeppingen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hantschmann</LastName>
+<ForeName>Peer</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, Hospital Altoettingen, Altoettignen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mallmann</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology, University Hospital Cologne, Cologne, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tanner</LastName>
+<ForeName>Berno</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Oberhavel Hospital, Oranienburg, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pfisterer</LastName>
+<ForeName>Jacobus</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Gynecologic Oncology Center, Kiel, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Richter</LastName>
+<ForeName>Barbara</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Elbland Hospital Meißen-Radebeul, Radebeul, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jäger</LastName>
+<ForeName>Martin</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Institute for Biometrics, Hannover Medical School, Hannover, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mahner</LastName>
+<ForeName>Sven</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology and Obstetrics, University of Munich, Munich, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>28</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Ann Surg Oncol</MedlineTA>
+<NlmUniqueID>9420840</NlmUniqueID>
+<ISSNLinking>1068-9265</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018572">Disease-Free Survival</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007264">Inguinal Canal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008197">Lymph Node Excision</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008207">Lymphatic Metastasis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060787">Neoplasm Grading</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009361">Neoplasm Invasiveness</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000071036">Sentinel Lymph Node</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047368">Tumor Burden</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014846">Vulvar Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>09</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2018</Year>
+<Month>2</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27896515</ArticleId>
+<ArticleId IdType="doi">10.1245/s10434-016-5687-0</ArticleId>
+<ArticleId IdType="pii">10.1245/s10434-016-5687-0</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

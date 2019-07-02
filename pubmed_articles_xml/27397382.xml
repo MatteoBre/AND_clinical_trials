@@ -1,0 +1,86 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">27397382</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>07</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>07</Month>
+<Day>11</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0924-2708</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>18</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Acta neuropsychiatrica</Title>
+<ISOAbbreviation>Acta Neuropsychiatr</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Brain Stimulation Approaches in the Treatment of Depression.</ArticleTitle>
+<Pagination>
+<MedlinePgn>329</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1017/S0924270800032233</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Loo</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>School of Psychiatry,University of New South Wales, Sydney, New South Wales,Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Acta Neuropsychiatr</MedlineTA>
+<NlmUniqueID>9612501</NlmUniqueID>
+<ISSNLinking>0924-2708</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27397382</ArticleId>
+<ArticleId IdType="pii">S0924270800032233</ArticleId>
+<ArticleId IdType="doi">10.1017/S0924270800032233</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

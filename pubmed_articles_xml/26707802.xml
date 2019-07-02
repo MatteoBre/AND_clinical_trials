@@ -1,0 +1,963 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26707802</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>07</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1466-609X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>19</Volume>
+<PubDate>
+<Year>2015</Year>
+<Month>Dec</Month>
+<Day>28</Day>
+</PubDate>
+</JournalIssue>
+<Title>Critical care (London, England)</Title>
+<ISOAbbreviation>Crit Care</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Long-term remote organ consequences following acute kidney injury.</ArticleTitle>
+<Pagination>
+<MedlinePgn>438</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/s13054-015-1149-5</ELocationID>
+<Abstract>
+<AbstractText>Acute kidney injury (AKI) has been a global health epidemic problem with soaring incidence, increased long-term risks for multiple comorbidities and mortality, as well as elevated medical costs. Despite the improvement of patient outcomes following the advancements in preventive and therapeutic strategies, the mortality rates among critically ill patients with AKI remain as high as 40-60 %. The distant organ injury, a direct consequence of deleterious systemic effects, following AKI is an important explanation for this phenomenon. To date, most evidence of remote organ injury in AKI is obtained from animal models. Whereas the observations in humans are from a limited number of participants in a relatively short follow-up period, or just focusing on the cytokine levels rather than clinical solid outcomes. The remote organ injury is caused with four underlying mechanisms: (1) "classical" pattern of acute uremic state; (2) inflammatory nature of the injured kidneys; (3) modulating effect of AKI of the underlying disease process; and (4) healthcare dilemma. While cytokines/chemokines, leukocyte extravasation, oxidative stress, and certain channel dysregulation are the pathways involving in the remote organ damage. In the current review, we summarized the data from experimental studies to clinical outcome studies in the field of organ crosstalk following AKI. Further, the long-term consequences of distant organ-system, including liver, heart, brain, lung, gut, bone, immune system, and malignancy following AKI with temporary dialysis were reviewed and discussed. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Shiao</LastName>
+<ForeName>Chih-Chung</ForeName>
+<Initials>CC</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Internal Medicine, Saint Mary's Hospital Luodong, 160 Chong-Cheng South Road, Luodong, Yilan, 265, Taiwan.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Saint Mary's Medicine, Nursing and Management College, 160 Chong-Cheng South Road, Luodong, Yilan, 265, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Pei-Chen</ForeName>
+<Initials>PC</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Internal Medicine, MacKay Memorial Hospital, 92, Sec. 2, Zhongshan N. Road, Taipei, 10449, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Tao-Min</ForeName>
+<Initials>TM</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Internal Medicine, National Taiwan University Hospital Yun-Lin Branch, 579, Sec. 2, Yunlin Road, Douliu City, Yunlin County, 640, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lai</LastName>
+<ForeName>Tai-Shuan</ForeName>
+<Initials>TS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, National Taiwan University Hospital, Bei-Hu Branch, 87 Neijiang Street, Taipei, 108, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Wei-Shun</ForeName>
+<Initials>WS</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Internal Medicine, National Taiwan University Hospital, Hisn-Chu Branch, No.25, Lane 442, Sec. 1, Jingguo Road, Hsin-Chu City, 300, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Che-Hsiung</ForeName>
+<Initials>CH</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation, Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>School of Medicine, Tzu Chi University, Hualien, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lai</LastName>
+<ForeName>Chun-Fu</ForeName>
+<Initials>CF</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Internal Medicine, National Taiwan University Hospital, 7 Chung-Shan South Road, Zhong-Zheng District, Taipei, 100, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Vin-Cent</ForeName>
+<Initials>VC</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Internal Medicine, National Taiwan University Hospital, 7 Chung-Shan South Road, Zhong-Zheng District, Taipei, 100, Taiwan. q91421028@ntu.edu.tw.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chu</LastName>
+<ForeName>Tzong-Shinn</ForeName>
+<Initials>TS</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Internal Medicine, National Taiwan University Hospital, 7 Chung-Shan South Road, Zhong-Zheng District, Taipei, 100, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Kwan-Dun</ForeName>
+<Initials>KD</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, Department of Internal Medicine, National Taiwan University Hospital, 7 Chung-Shan South Road, Zhong-Zheng District, Taipei, 100, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>National Taiwan University Hospital Study Group on Acute Renal Failure (NSARF) and the Taiwan Consortium for Acute Kidney Injury and Renal Diseases (CAKs)</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>28</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Crit Care</MedlineTA>
+<NlmUniqueID>9801902</NlmUniqueID>
+<ISSNLinking>1364-8535</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058186">Acute Kidney Injury</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016638">Critical Illness</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006321">Heart</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007511">Ischemia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069451">Long Term Adverse Effects</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008168">Lung</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009102">Multiple Organ Failure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006435">Renal Dialysis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26707802</ArticleId>
+<ArticleId IdType="doi">10.1186/s13054-015-1149-5</ArticleId>
+<ArticleId IdType="pii">10.1186/s13054-015-1149-5</ArticleId>
+<ArticleId IdType="pmc">PMC4699348</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Nephrol. 2011 Sep-Oct;24(5):631-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21240877</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2013 Mar;61(3):359-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23414727</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2013 May;24(6):995-1005</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23539756</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2012;16(6):R233</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23245397</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Renal Physiol. 2014 Oct 1;307(7):F856-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25080526</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurotherapeutics. 2010 Oct;7(4):354-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20880500</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2004 Apr;65(4):1357-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15086475</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intensive Care Med. 2013 Sep;39(9):1535-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23740278</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Heart Fail. 2013 Jun;15(6):637-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23475780</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2009 Nov;4(11):1705-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19729431</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Toxicol. 2016 May;90(5):1151-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26055553</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2015 Nov;26(11):2800-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25788528</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2001 Dec;60(6):2118-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11737586</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 1995 Feb 11;310(6976):358-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7677827</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2008 May;3(3):881-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18216347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 2013 Apr;227(2):408-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23375682</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1970 Oct;73(4):515-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5506002</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Contrib Nephrol. 2013;182:5-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23689652</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int Urol Nephrol. 2014 Dec;46(12):2337-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24966098</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2002 Jun;30(6):1250-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12072677</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2015;19:146</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25887923</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Indian J Crit Care Med. 2013 May;17(3):162-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24082613</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2015 Aug 1;116(3):463-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26026862</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1988 May 7;1(8593):1033-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2896877</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 2014 Jul;29(7):1301-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24385545</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Contrib Nephrol. 2010;165:9-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20427950</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2012 Jun;23(6):979-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22460531</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 2010 Apr;25(4):1335-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20037176</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2007 Apr;18(4):1292-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17314324</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2013;17(5):R231</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24119576</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2013 Feb;8(2):194-202</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23124779</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2014;18(1):201</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24393300</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2008 Oct;74(7):901-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18596724</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2007 Dec;35(12):2755-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18074478</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Regul Integr Comp Physiol. 2010 Jun;298(6):R1682-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20335375</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2008 Mar;19(3):547-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18235097</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Renal Physiol. 2007 Jul;293(1):F30-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17327501</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Artif Organs. 2007 Dec;30(12):1031-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18203064</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2008 Jul;19(7):1360-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18385426</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Heart Assoc. 2014 Aug;3(4). pii: e000933. doi: 10.1161/JAHA.114.000933</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25027018</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2008 Nov 4;52(19):1527-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19007588</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2011 Dec;80(11):1222-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21832983</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Clin Pract. 2014 Feb;29(1):56-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24344254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2003 Jun;14(6):1549-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12761255</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med J Malaysia. 2012 Feb;67(1):133-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22582570</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Renal Physiol. 2012 Sep 15;303(6):F864-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22791336</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2009 Apr;75(8):783-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19177157</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2011 Nov;39(11):2464-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21705884</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2009 Mar;75(5):526-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19092796</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2010 Nov;78(9):926-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20686452</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2005;9(6):R700-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16280066</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intensive Care Med. 2004 Oct;30(10):1886-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15480546</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2008;12(4):222</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18768091</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biomed Res Int. 2014;2014:904730</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25147823</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2015 Aug;43(8):e269-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25962084</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2006 Jun;17(6):1688-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16641149</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1999 Sep;56(3):922-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10469360</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2012 Apr;81(7):611-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22419041</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2013 Mar;8(3):476-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23471414</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Nephrol. 2006 Mar;26(2):105-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16530603</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2007;11(3):R68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17588270</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Renal Physiol. 2006 Sep;291(3):F546-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16638912</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2015 Mar 6;10(3):353-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25527706</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2012 May;81(10):942-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21814177</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Heart J. 1999 Aug;138(2 Pt 1):285-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10426840</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cancer Res Clin Oncol. 2014 Apr;140(4):613-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24519490</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Emerg Med. 2015 Sep;66(3):267-274.e4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26004770</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephron Clin Pract. 2013;123(1-2):67-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23796916</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2006 Apr;17(4):1135-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16495381</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biomed Res Int. 2014;2014:365186</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25187902</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2010 Oct;90(4):1142-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20868804</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2014 Nov 7;9(11):1912-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25183660</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drugs. 1990;39 Suppl 4:10-21; discussion 22-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2354670</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Gastrointest Liver Physiol. 2010 Feb;298(2):G304-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19910525</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2013 Mar 23;381(9871):997-1020</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23668584</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Contrib Nephrol. 2001;(132):41-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11395909</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Miner Res. 2014 Mar;29(3):676-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23929760</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2004 Oct;66(4):1613-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15458458</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Case Rep Nephrol Urol. 2012 Jan;2(1):33-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23197953</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 2013 Jan;28(1):70-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22610984</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2011 Sep;80(5):504-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21633411</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2013 May;8(5):781-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23335040</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2006;10(3):R73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16696865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Nephrol. 2012;2012:505197</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21826270</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2012 Sep;82(5):516-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22673882</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2011 May;11(5):1064-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21449948</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Exp Immunol. 2013 Aug;173(2):242-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23607333</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2012;16(5):R197</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23075459</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1996 May 15;275(19):1489-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8622223</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesthesiology. 2012 May;116(5):1139-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22415388</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephron Clin Pract. 2009;113(3):c148-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19672112</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Minerva Anestesiol. 2014 May;80(5):595-609</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24292260</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2010;14(6):R221</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21122146</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2011;15(1):202</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21345279</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2002 Sep;30(9):2051-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12352040</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Oct 3;369(14):1306-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24088092</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 1999 Dec;27(12):2812-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10628631</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intensive Care Med. 2011 Feb;37(2):241-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21152901</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 2013 Jul;28(7):1634-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23685679</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2007 Jan;18(1):155-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17167117</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hepatol. 2010 Apr;52(4):605-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20185192</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2007 Apr;30(4):939-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17392554</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Renal Physiol. 2011 Oct;301(4):F907-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21677145</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2015 Jul;88(1):95-108</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25874599</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2006 Apr;17(4):1143-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16495376</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Gastroenterol Hepatol. 2015 Feb;12(2):98-107</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25560847</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Heart J. 2015 Mar;169(3):363-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25728726</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2005 Aug 17;294(7):813-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16106006</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Physiol Biochem. 2013;31(2-3):179-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23407058</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Clin Invest. 2004 Nov;34(11):774-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15530151</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2012 Aug 25;380(9843):756-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22617274</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(7):e69556</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23936044</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2007;11(2):R47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17448226</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intensive Care Med. 2000 Jul;26(7):915-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10990106</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Crit Care. 2014 Dec;20(6):613-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25259720</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Angiogenesis. 2013 Jul;16(3):609-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23408148</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2014 Mar;25(3):595-605</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24503241</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 2012 Dec;27(12):4339-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22778179</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chromatogr B Analyt Technol Biomed Life Sci. 2012 Apr 15;893-894:107-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22429878</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2005 Mar;67(3):1002-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15698438</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JPEN J Parenter Enteral Nutr. 2012 Nov;36(6):721-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22412182</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Immunol. 2012 Oct;52(3-4):249-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22750071</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2009 Jan;20(1):223-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19020007</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,297 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25586788</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>06</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1097-0142</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>121</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>May</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Cancer</Title>
+<ISOAbbreviation>Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>EZH2 expression is a prognostic factor in childhood intracranial ependymoma: a Canadian Pediatric Brain Tumor Consortium study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1499-507</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/cncr.29198</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The cure rate for childhood intracranial ependymoma is approximately 70% in the setting of a gross total resection followed by radiation, but management remains challenging in patients with residual disease. Therefore, robust biomarkers are needed to guide the development of new targeted therapy. The authors evaluated the expression of several biomarkers in pediatric intracranial ependymoma and observed that the expression of enhancer of zeste homolog 2 (EZH2), a polycomb complex protein involved in epigenetic regulation of gene expression, was independently associated with poor survival.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Tissue microarray immunostaining was performed on 180 ependymoma samples from 12 of 16 Canadian pediatric centers. Expression levels of EZH2, Ki-67, B lymphoma Moloney-murine leukemia virus insertion region 1 homolog, tumor protein 16 (P16), Y-box binding protein 1, phosphorylated protein kinase B (pAKT), and epidermal growth factor receptor were evaluated. Cox regression analyses were performed, and the Kaplan-Meier method was used to construct survival curves.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">EZH2 expressed in 16% of tumors was associated with inferior 5-year overall survival. Ki-67 and pAKT levels were associated with a poor outcome in patients with posterior fossa ependymoma, and the absence of P16 was associated with a poor outcome in patients with supratentorial ependymoma. Multivariate analysis revealed that younger age and EZH2 expression (95% confidence interval, 1.1-36.0) were independent markers of a poor prognosis.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">EZH2 is a novel, independent marker of a poor prognosis in patients with ependymoma, especially in those who have tumors located in the posterior fossa. EZH2, pAKT, and P16 are potential therapeutic targets, particularly for patients who have tumors in which standard gross total resection plus fractionated radiotherapy is not feasible.</AbstractText>
+<CopyrightInformation>© 2015 American Cancer Society.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Amanda M</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>Pediatric Hematology/Oncology, University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunham</LastName>
+<ForeName>Christopher</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tabori</LastName>
+<ForeName>Uri</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carret</LastName>
+<ForeName>Anne-Sophie</ForeName>
+<Initials>AS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McNeely</LastName>
+<ForeName>P Daniel</ForeName>
+<Initials>PD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnston</LastName>
+<ForeName>Donna</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lafay-Cousin</LastName>
+<ForeName>Lucie</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilson</LastName>
+<ForeName>Beverly</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eisenstat</LastName>
+<ForeName>David D</ForeName>
+<Initials>DD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jabado</LastName>
+<ForeName>Nada</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zelcer</LastName>
+<ForeName>Shayna</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Silva</LastName>
+<ForeName>Mariana</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scheinemann</LastName>
+<ForeName>Katrin</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fryer</LastName>
+<ForeName>Christopher</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hendson</LastName>
+<ForeName>Glenda</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fotovati</LastName>
+<ForeName>Abbas</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hawkins</LastName>
+<ForeName>Cynthia</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yip</LastName>
+<ForeName>Stephen</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunn</LastName>
+<ForeName>Sandra E</ForeName>
+<Initials>SE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hukin</LastName>
+<ForeName>Juliette</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>01</Month>
+<Day>13</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+<ISSNLinking>0008-543X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.1.1.43</RegistryNumber>
+<NameOfSubstance UI="C498409">EZH2 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.1.1.43</RegistryNumber>
+<NameOfSubstance UI="D000071221">Enhancer of Zeste Homolog 2 Protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.1.1.43</RegistryNumber>
+<NameOfSubstance UI="D063151">Polycomb Repressive Complex 2</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014408">Biomarkers, Tumor</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001932">Brain Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000071221">Enhancer of Zeste Homolog 2 Protein</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004806">Ependymoma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015999">Multivariate Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D063151">Polycomb Repressive Complex 2</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">AKT</Keyword>
+<Keyword MajorTopicYN="N">EZH2</Keyword>
+<Keyword MajorTopicYN="N">brain</Keyword>
+<Keyword MajorTopicYN="N">childhood</Keyword>
+<Keyword MajorTopicYN="N">enhancer of zeste homolog 2</Keyword>
+<Keyword MajorTopicYN="N">ependymoma</Keyword>
+<Keyword MajorTopicYN="N">protein kinase B</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>08</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>6</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25586788</ArticleId>
+<ArticleId IdType="doi">10.1002/cncr.29198</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

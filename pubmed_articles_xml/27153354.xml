@@ -1,0 +1,158 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27153354</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>07</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>06</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1531-703X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>07</Month>
+</PubDate>
+</JournalIssue>
+<Title>Current opinion in oncology</Title>
+<ISOAbbreviation>Curr Opin Oncol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Rare side-effects of checkpoint inhibitors.</ArticleTitle>
+<Pagination>
+<MedlinePgn>295-305</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/CCO.0000000000000294</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE OF REVIEW">The aim of this review is to draw the attention of the physicians and oncologists on the rare side-effects of checkpoint inhibitors not usually reported in clinical trials to treat them quickly and render their prognosis better.</AbstractText>
+<AbstractText Label="RECENT FINDINGS">Rare side-effects of checkpoint inhibitors are mainly neurologic, haematologic, rheumatologic, renal, and cardiac. The majority of reported side-effects are consequent of the treatment by ipilimumab in patients diagnosed with melanomas. Neurologic side-effects have poorer prognosis compared with other rare side-effects. There is no relationship between developing rare side-effects and the outcome of the disease.</AbstractText>
+<AbstractText Label="SUMMARY">It is important to be aware, when treating patients with checkpoint inhibitors, to detect as early as possible the unpredictable and uncontrollable rare side-effects of these agents. The large spectrum of these rare side-effects should be well documented and reported to assure to the physicians a road map for the diagnosis and the management of these toxicities.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kourie</LastName>
+<ForeName>Hampig R</ForeName>
+<Initials>HR</Initials>
+<AffiliationInfo>
+<Affiliation>aMedical Oncology Clinic, Jules Bordet Institute, Université Libre de Bruxelles bInternal Medicine, Vrije Universiteit, Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Awada</LastName>
+<ForeName>Gil</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Awada</LastName>
+<ForeName>Ahmad H</ForeName>
+<Initials>AH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Curr Opin Oncol</MedlineTA>
+<NlmUniqueID>9007265</NlmUniqueID>
+<ISSNLinking>1040-8746</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D060908">CTLA-4 Antigen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C556706">CTLA4 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C105992">PDCD1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D061026">Programmed Cell Death 1 Receptor</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000911">Antibodies, Monoclonal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060908">CTLA-4 Antigen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061026">Programmed Cell Death 1 Receptor</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>7</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27153354</ArticleId>
+<ArticleId IdType="doi">10.1097/CCO.0000000000000294</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,181 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21223297</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>02</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>01</Month>
+<Day>12</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1537-2995</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>51 Suppl 1</Volume>
+<PubDate>
+<Year>2011</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Transfusion</Title>
+<ISOAbbreviation>Transfusion</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The implementation of rapid cooling and overnight hold of whole blood at ambient temperature before processing into components in Israel.</ArticleTitle>
+<Pagination>
+<MedlinePgn>58S-64S</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1537-2995.2010.02964.x</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The quality of blood components prepared from whole blood (WB) units rapidly cooled to 20 to 24°C and stored for prolonged periods using butane-1,4-diol "cooling plates," and the factors that determine the functional activity of these cooling systems under various temperature conditions were investigated.</AbstractText>
+<AbstractText Label="STUDY DESIGN AND METHODS" NlmCategory="METHODS">Validation of the cooling systems functions, performed in different environmental temperature-time schemes using WB-mock units, were recorded and analyzed in 106 temperature curves, simulating environmental conditions of blood storage at the blood drives and transport to the blood services component laboratory. The quality of red blood cells, fresh-frozen plasma, platelet concentrates, and cryoprecipitate units was studied on components routinely prepared in 2007 to 2009 from WB units collected in citrate-phosphate-dextrose-adenine or citrate-phosphate-dextrose (CPD), rapidly cooled, and stored in ambient temperature for up to 22 hours postdonation using the cooling systems.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Quality variables of blood components prepared from WB units rapidly cooled and held overnight for up to 22 hours postcollection, using both cooling systems, met the allowed ranges of American, European, and Israeli standards. Temperature validation of the cooling systems resulted in national standard operating procedures for the proper use in different ambient temperature ranges.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The rapid cooling of WB and prolonged storage under different environmental conditions using cooling plate systems enabled standardization of blood storage at and transportation from all collection sites. It provided an efficient, reproducible, and cost-effective way to ensure good quality blood components, while utilizing more efficient logistic and administrative means.</AbstractText>
+<CopyrightInformation>© 2010 American Association of Blood Banks.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Shinar</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Magen David Adom National Blood Services, Tel-Hashomer, Israel. Eilats@mdais.org.il</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Etlin</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Frenkel</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yahalom</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D023362">Evaluation Studies</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Transfusion</MedlineTA>
+<NlmUniqueID>0417360</NlmUniqueID>
+<ISSNLinking>0041-1132</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001779">Blood Coagulation Factors</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001771">Blood Banks</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001774">Blood Chemical Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001779">Blood Coagulation Factors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000302">isolation &amp; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001781">Blood Component Removal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001793">Blood Preservation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003362">Cost-Benefit Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006461">Hemolysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D007557">Israel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047589">Leukocyte Reduction Procedures</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008952">Mobile Health Units</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011786">Quality Control</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012034">Refrigeration</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013696">Temperature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014186">Transportation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>1</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>1</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>2</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21223297</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1537-2995.2010.02964.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

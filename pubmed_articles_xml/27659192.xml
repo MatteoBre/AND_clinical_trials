@@ -1,0 +1,240 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27659192</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>03</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1936-959X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>37</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>AJNR. American journal of neuroradiology</Title>
+<ISOAbbreviation>AJNR Am J Neuroradiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Comparison of High-Resolution MR Imaging and Digital Subtraction Angiography for the Characterization and Diagnosis of Intracranial Artery Disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2245-2250</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND AND PURPOSE">High-resolution MR imaging has recently been introduced as a promising diagnostic modality in intracranial artery disease. Our aim was to compare high-resolution MR imaging with digital subtraction angiography for the characterization and diagnosis of various intracranial artery diseases.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS">Thirty-seven patients who had undergone both high-resolution MR imaging and DSA for intracranial artery disease were enrolled in our study (August 2011 to April 2014). The time interval between the high-resolution MR imaging and DSA was within 1 month. The degree of stenosis and the minimal luminal diameter were independently measured by 2 observers in both DSA and high-resolution MR imaging, and the results were compared. Two observers independently diagnosed intracranial artery diseases on DSA and high-resolution MR imaging. The time interval between the diagnoses on DSA and high-resolution MR imaging was 2 weeks. Interobserver diagnostic agreement for each technique and intermodality diagnostic agreement for each observer were acquired.</AbstractText>
+<AbstractText Label="RESULTS">High-resolution MR imaging showed moderate-to-excellent agreement (interclass correlation coefficient = 0.892-0.949; κ = 0.548-0.614) and significant correlations (R = 0.766-892) with DSA on the degree of stenosis and minimal luminal diameter. The interobserver diagnostic agreement was good for DSA (κ = 0.643) and excellent for high-resolution MR imaging (κ = 0.818). The intermodality diagnostic agreement was good (κ = 0.704) for observer 1 and moderate (κ = 0.579) for observer 2, respectively.</AbstractText>
+<AbstractText Label="CONCLUSIONS">High-resolution MR imaging may be an imaging method comparable with DSA for the characterization and diagnosis of various intracranial artery diseases.</AbstractText>
+<CopyrightInformation>© 2016 by American Journal of Neuroradiology.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>N J</ForeName>
+<Initials>NJ</Initials>
+<Identifier Source="ORCID">0000-0001-8751-129X</Identifier>
+<AffiliationInfo>
+<Affiliation>From the Department of Radiology and Research Institute of Radiology (N.J.L., M.S.C., S.C.J., H.S.K., C.-G.C., S.J.K., D.H.L., D.C.S.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chung</LastName>
+<ForeName>M S</ForeName>
+<Initials>MS</Initials>
+<Identifier Source="ORCID">0000-0003-1141-9555</Identifier>
+<AffiliationInfo>
+<Affiliation>From the Department of Radiology and Research Institute of Radiology (N.J.L., M.S.C., S.C.J., H.S.K., C.-G.C., S.J.K., D.H.L., D.C.S.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jung</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+<Identifier Source="ORCID">0000-0001-5559-7973</Identifier>
+<AffiliationInfo>
+<Affiliation>From the Department of Radiology and Research Institute of Radiology (N.J.L., M.S.C., S.C.J., H.S.K., C.-G.C., S.J.K., D.H.L., D.C.S.) dynamics79@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>H S</ForeName>
+<Initials>HS</Initials>
+<Identifier Source="ORCID">0000-0002-9477-7421</Identifier>
+<AffiliationInfo>
+<Affiliation>From the Department of Radiology and Research Institute of Radiology (N.J.L., M.S.C., S.C.J., H.S.K., C.-G.C., S.J.K., D.H.L., D.C.S.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Choi</LastName>
+<ForeName>C-G</ForeName>
+<Initials>CG</Initials>
+<Identifier Source="ORCID">0000-0002-2251-1915</Identifier>
+<AffiliationInfo>
+<Affiliation>From the Department of Radiology and Research Institute of Radiology (N.J.L., M.S.C., S.C.J., H.S.K., C.-G.C., S.J.K., D.H.L., D.C.S.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>S J</ForeName>
+<Initials>SJ</Initials>
+<Identifier Source="ORCID">0000-0001-7070-7333</Identifier>
+<AffiliationInfo>
+<Affiliation>From the Department of Radiology and Research Institute of Radiology (N.J.L., M.S.C., S.C.J., H.S.K., C.-G.C., S.J.K., D.H.L., D.C.S.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>D H</ForeName>
+<Initials>DH</Initials>
+<Identifier Source="ORCID">0000-0003-0355-0449</Identifier>
+<AffiliationInfo>
+<Affiliation>From the Department of Radiology and Research Institute of Radiology (N.J.L., M.S.C., S.C.J., H.S.K., C.-G.C., S.J.K., D.H.L., D.C.S.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Suh</LastName>
+<ForeName>D C</ForeName>
+<Initials>DC</Initials>
+<Identifier Source="ORCID">0000-0003-1561-5596</Identifier>
+<AffiliationInfo>
+<Affiliation>From the Department of Radiology and Research Institute of Radiology (N.J.L., M.S.C., S.C.J., H.S.K., C.-G.C., S.J.K., D.H.L., D.C.S.).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kwon</LastName>
+<ForeName>S U</ForeName>
+<Initials>SU</Initials>
+<Identifier Source="ORCID">0000-0001-8302-331X</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Neurology (S.U.K., D.-W.K., J.S.K.), University of Ulsan College of Medicine, Asan Medical Center, Seoul, Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kang</LastName>
+<ForeName>D-W</ForeName>
+<Initials>DW</Initials>
+<Identifier Source="ORCID">0000-0002-2999-485X</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Neurology (S.U.K., D.-W.K., J.S.K.), University of Ulsan College of Medicine, Asan Medical Center, Seoul, Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+<Identifier Source="ORCID">0000-0002-3999-4992</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Neurology (S.U.K., D.-W.K., J.S.K.), University of Ulsan College of Medicine, Asan Medical Center, Seoul, Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>09</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>AJNR Am J Neuroradiol</MedlineTA>
+<NlmUniqueID>8003708</NlmUniqueID>
+<ISSNLinking>0195-6108</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015901">Angiography, Digital Subtraction</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D021621">Imaging, Three-Dimensional</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020765">Intracranial Arterial Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018810">Magnetic Resonance Angiography</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059906">Neuroimaging</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>07</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>11</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27659192</ArticleId>
+<ArticleId IdType="pii">ajnr.A4950</ArticleId>
+<ArticleId IdType="doi">10.3174/ajnr.A4950</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

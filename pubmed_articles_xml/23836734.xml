@@ -1,0 +1,193 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23836734</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>05</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>07</Month>
+<Day>09</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1544-5208</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>32</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Health affairs (Project Hope)</Title>
+<ISOAbbreviation>Health Aff (Millwood)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Understanding why patients of low socioeconomic status prefer hospitals over ambulatory care.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1196-203</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1377/hlthaff.2012.0825</ELocationID>
+<Abstract>
+<AbstractText>Patients with low socioeconomic status (SES) use more acute hospital care and less primary care than patients with high socioeconomic status. This low-value pattern of care use is harmful to these patients' health and costly to the health care system. Many current policy initiatives, such as the creation of accountable care organizations, aim to improve both health outcomes and the cost-effectiveness of health services. Achieving those goals requires understanding what drives low-value health care use. We conducted qualitative interviews with forty urban low-SES patients to explore why they prefer to use hospital care. They perceive it as less expensive, more accessible, and of higher quality than ambulatory care. Efforts that focus solely on improving the quality of hospital care to reduce readmissions could, paradoxically, increase hospital use. Two different profile types emerged from our research. Patients in Profile A (five or more acute care episodes in six months) reported social dysfunction and disability. Those in Profile B (fewer than five acute care episodes in six months) reported social stability but found accessing ambulatory care to be difficult. Interventions to improve outcomes and values need to take these differences into account. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kangovi</LastName>
+<ForeName>Shreya</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Philadelphia Veterans Affairs Medical Center, PA, USA. kangovi@upenn.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barg</LastName>
+<ForeName>Frances K</ForeName>
+<Initials>FK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carter</LastName>
+<ForeName>Tamala</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Long</LastName>
+<ForeName>Judith A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shannon</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grande</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Health Aff (Millwood)</MedlineTA>
+<NlmUniqueID>8303128</NlmUniqueID>
+<ISSNLinking>0278-2715</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000553">Ambulatory Care</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003363">Cost Control</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004185">Disability Evaluation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006297">Health Services Accessibility</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006300">Health Services Misuse</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006760">Hospitalization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008484">Medicaid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017057">Medically Uninsured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017063">Outcome Assessment (Health Care)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D057240">Patient Preference</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010359">Patient Readmission</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011203">Poverty</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D036301">Qualitative Research</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011787">Quality of Health Care</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012917">Social Adjustment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Access To Care</Keyword>
+<Keyword MajorTopicYN="N">Cost Of Health Care</Keyword>
+<Keyword MajorTopicYN="N">Disparities</Keyword>
+<Keyword MajorTopicYN="N">Organization And Delivery Of Care</Keyword>
+<Keyword MajorTopicYN="N">Quality Of Care</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>7</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>7</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23836734</ArticleId>
+<ArticleId IdType="pii">32/7/1196</ArticleId>
+<ArticleId IdType="doi">10.1377/hlthaff.2012.0825</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

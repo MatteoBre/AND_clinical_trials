@@ -1,0 +1,419 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25144214</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>09</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1536-0229</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>39</Volume>
+<Issue>10</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Clinical nuclear medicine</Title>
+<ISOAbbreviation>Clin Nucl Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A pilot study of the value of 18F-fluoro-deoxy-thymidine PET/CT in predicting viable lymphoma in residual 18F-FDG avid masses after completion of therapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>874-81</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/RLU.0000000000000539</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Despite its success in diagnosing and staging lymphoma, F-FDG PET/CT can be falsely positive in areas of posttreatment inflammation. 3'-F-fluoro-3'-deoxy-l-thymidine (F-FLT) is a structural analog of the DNA constituent thymidine; its uptake correlates with cellular proliferation. This pilot study evaluates the ability of F-FLT PET/CT to distinguish viable lymphoma from posttreatment inflammatory changes in F-FDG avid residual masses.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Twenty-one patients with lymphoma with at least 1 F-FDG avid residual mass after therapy underwent F-FLT PET/CT imaging. F-FDG and F-FLT uptake values were compared, including quantitative pharmacokinetic parameters extracted from the F-FLT time activity curves generated from dynamic data using graphical and nonlinear compartmental modeling.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The true nature of the residual mass was confirmed by biopsy in 12 patients (8 positive and 4 negative for viable lymphoma and by follow-up CT and/or repeat F-FDG PET/CT imaging over 1 year); among the remaining 9 patients, 7 lesions resolved or decreased and 2 showed growth indicative of lymphoma. F-FLT PET SUVest.max was significantly higher in tumors than in benign lesions (5.5 [2.2] vs 1.7 [0.6]; P &lt; 0.0001), whereas the difference in F-FDG SUVs was not significant (malignant, 7.8 [3.8] vs benign, 5.4 [2.4]; P = 0.11). All of the benign lesions had an F-FLT SUVest.max of less than 3.0.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">F-FLT shows improved specificity over F-FDG in distinguishing residual lymphoma from posttreatment inflammation and may be useful in the evaluation of patients with residual F-FDG-positive masses after completing therapy.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mena</LastName>
+<ForeName>Esther</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>From the *Molecular Imaging Program, and †Biometric Research Branch, Division of Cancer Treatment and Diagnosis, National Cancer Institute, National Institutes of Health, Bethesda, MD; ‡Brookhaven National Laboratories, Upton, NY; and §SAIC Contractor to NCI, Fort Detrick Frederick, MD; and ¶Lymphoma Therapeutics Section, Center for Cancer Research, National Cancer Institute, Bethesda, MD.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lindenberg</LastName>
+<ForeName>Maria Liza</ForeName>
+<Initials>ML</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Turkbey</LastName>
+<ForeName>Baris I</ForeName>
+<Initials>BI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shih</LastName>
+<ForeName>Joanna</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Logan</LastName>
+<ForeName>Jean</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Adler</LastName>
+<ForeName>Stephen</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wong</LastName>
+<ForeName>Karen</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilson</LastName>
+<ForeName>Wyndham</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Choyke</LastName>
+<ForeName>Peter L</ForeName>
+<Initials>PL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kurdziel</LastName>
+<ForeName>Karen A</ForeName>
+<Initials>KA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>Z99 CA999999</GrantID>
+<Acronym>NULL</Acronym>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D023362">Evaluation Studies</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Clin Nucl Med</MedlineTA>
+<NlmUniqueID>7611109</NlmUniqueID>
+<ISSNLinking>0363-9762</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015224">Dideoxynucleosides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0Z5B2CJX4D</RegistryNumber>
+<NameOfSubstance UI="D019788">Fluorodeoxyglucose F18</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>PG53R0DWDQ</RegistryNumber>
+<NameOfSubstance UI="C002854">alovudine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015224">Dideoxynucleosides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019788">Fluorodeoxyglucose F18</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008223">Lymphoma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064847">Multimodal Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010865">Pilot Projects</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049268">Positron-Emission Tomography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019275">Radiopharmaceuticals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25144214</ArticleId>
+<ArticleId IdType="doi">10.1097/RLU.0000000000000539</ArticleId>
+<ArticleId IdType="pmc">PMC4838032</ArticleId>
+<ArticleId IdType="mid">NIHMS618396</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Br J Haematol. 2001 Dec;115(4):793-800</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11843811</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2002 Sep;43(9):1210-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12215561</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2002 Nov;8(11):3315-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12429617</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2003 May 15;63(10):2681-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12750297</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2003 Dec;44(12):2027-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14660729</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2004 Apr;45(4):695-700</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15073267</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Nucl Med Mol Imaging. 2004 Feb;31(2):169-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15129698</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 1985 Dec;5(4):584-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4055928</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 1992 Nov;33(11):1972-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1432158</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 1994 Sep 30;30(2):391-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7928466</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucl Med Biol. 1996 Jan;23(1):17-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9004909</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2005 Jun;46(6):945-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15937304</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2005 Sep 10;23(26):6387-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16155024</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2005 Sep 10;23(26):6400-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16155026</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Imaging Biol. 2006 Jan-Feb;8(1):36-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16362149</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Haematologica. 2006 Apr;91(4):522-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16585017</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2006 Nov 15;66(22):11055-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17108145</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2007 Feb 10;25(5):571-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17242397</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Nucl Med. 2007 May;37(3):206-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17418153</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Leuk Lymphoma. 2007 Apr;48(4):746-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17454633</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2009 Mar;50(3):490-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19223420</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2009 Apr 10;27(11):1906-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19273713</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer J. 2009 Mar-Apr;15(2):161-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19390313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2009 Sep;50(9):1441-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19690030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuropsychopharmacology. 2010 Feb;35(3):623-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19890267</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Pathol Lab Med. 2011 Jan;135(1):19-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21204709</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2011 Apr 21;117(16):4208-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21263152</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2011 May;52(5):690-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21498532</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2012 Mar;53(3):506; author reply 506-507</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22294484</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Haematologica. 2012 Jun;97(6):931-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22207683</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Leuk Lymphoma. 2012 Nov;53(11):2143-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22421007</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Nucl Med Mol Imaging. 2013 Jan;40(1):34-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23053327</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CA Cancer J Clin. 2013 Jan;63(1):11-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23335087</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

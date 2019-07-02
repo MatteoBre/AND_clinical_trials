@@ -1,0 +1,155 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24035041</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>11</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>02</Month>
+<Day>10</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-1409</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>40</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Burns : journal of the International Society for Burn Injuries</Title>
+<ISOAbbreviation>Burns</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Why aren't we doing more to safeguard vulnerable adults from thermal injuries?</ArticleTitle>
+<Pagination>
+<MedlinePgn>360-1</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.burns.2013.08.018</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0305-4179(13)00257-X</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Barrett</LastName>
+<ForeName>M P</ForeName>
+<Initials>MP</Initials>
+<AffiliationInfo>
+<Affiliation>The Burns Centre, Queen Victoria Hospital, East Grinstead, United Kingdom. Electronic address: m.barrett1@nhs.net.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nikkhah</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>The Burns Centre, Queen Victoria Hospital, East Grinstead, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gilbert</LastName>
+<ForeName>Philip</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>The Burns Centre, Queen Victoria Hospital, East Grinstead, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dheansa</LastName>
+<ForeName>Baljit</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>The Burns Centre, Queen Victoria Hospital, East Grinstead, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>12</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Burns</MedlineTA>
+<NlmUniqueID>8913178</NlmUniqueID>
+<ISSNLinking>0305-4179</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D002028">Building Codes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002056">Burns</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004867">Equipment Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012111">Residence Characteristics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012498">Sanitary Engineering</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D035862">Vulnerable Populations</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24035041</ArticleId>
+<ArticleId IdType="pii">S0305-4179(13)00257-X</ArticleId>
+<ArticleId IdType="doi">10.1016/j.burns.2013.08.018</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

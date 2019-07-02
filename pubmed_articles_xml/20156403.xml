@@ -1,0 +1,127 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20156403</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>04</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1603-6824</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>172</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Feb</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Ugeskrift for laeger</Title>
+<ISOAbbreviation>Ugeskr. Laeg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Obesity is not associated with an increased mortality in critical disease and intensive care].</ArticleTitle>
+<Pagination>
+<MedlinePgn>537-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The prevalence of obesity is increasing. The mortality and morbidity among obese intensive care unit (ICU) patients has been a matter of concern. Most of the retrospective studies performed have yielded contradictory results. Recently, two large prospective studies showed that respiratory failure, length of mechanical ventilation and ICU acquired infections were increased in obese patients. Obesity was, however, not associated with increased mortality. The results were confirmed by a meta-analysis which showed that obesity was associated with increased morbidity but not with increased mortality.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Toft</LastName>
+<ForeName>Palle</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Anaestesiologisk-intensiv Afdeling V, Odense Universitetshospital, DK-5000 Odense C, Denmark. palle.toft@ouh.regionsyddanmark.dk</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lange</LastName>
+<ForeName>Britt</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>dan</Language>
+<PublicationTypeList>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Adipositas ikke associeret med øget mortalitet ved kritisk sygdom og intensiv terapi.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Denmark</Country>
+<MedlineTA>Ugeskr Laeger</MedlineTA>
+<NlmUniqueID>0141730</NlmUniqueID>
+<ISSNLinking>0041-5782</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003422">Critical Care</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016638">Critical Illness</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007902">Length of Stay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009765">Obesity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>4</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20156403</ArticleId>
+<ArticleId IdType="pii">VP56696</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,237 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27336397</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>08</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>02</Month>
+<Day>07</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1534-6080</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>101</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>06</Month>
+</PubDate>
+</JournalIssue>
+<Title>Transplantation</Title>
+<ISOAbbreviation>Transplantation</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Long-term Metabolic Outcomes of Functioning Pancreas Transplants in Type 2 Diabetic Recipients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1254-1260</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/TP.0000000000001269</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND">Limited data are available regarding the long-term metabolic outcomes of functioning pancreas transplants in patients with type 2 diabetes mellitus (T2DM).</AbstractText>
+<AbstractText Label="METHODS">To compare the long-term effects of pancreas transplantation in terms of insulin resistance and β cell function, comparison of metabolic variables was performed between type 1 diabetes mellitus (T1DM) and T2DM patients from 1-month posttransplant to 5 years using generalized, linear-mixed models for repeated measures.</AbstractText>
+<AbstractText Label="RESULTS">Among 217 consecutive patients who underwent pancreas transplantation at our center between August 2004 and January 2015, 193 patients (151 T1DM and 42 T2DM) were included in this study. Throughout the follow-up period, postoperative hemoglobin A1c did not differ significantly between T1DM and T2DM patients, and the levels were constantly below 6% (42 mmol/mol) until 5 years posttransplant, whereas C-peptide was significantly higher in T2DM (P = 0.014). There was no difference in fasting insulin, homeostasis model assessment (HOMA) of insulin resistance, HOMA β cell, or the insulinogenic index between the groups. Furthermore, fasting insulin and HOMA-insulin resistance steadily decreased in both groups during the follow-up period.</AbstractText>
+<AbstractText Label="CONCLUSIONS">There was no significant difference in the insulin resistance or β-cell function after pancreas transplantation between T1DM and T2DM patients. We demonstrated that pancreas transplantation is capable of sustaining favorable endocrine functions for more than 5 years in T2DM recipients.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Shin</LastName>
+<ForeName>Sung</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Surgery, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea 2 Asan Diabetes Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jung</LastName>
+<ForeName>Chang Hee</ForeName>
+<Initials>CH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Choi</LastName>
+<ForeName>Ji Yoon</ForeName>
+<Initials>JY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kwon</LastName>
+<ForeName>Hyun Wook</ForeName>
+<Initials>HW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jung</LastName>
+<ForeName>Joo Hee</ForeName>
+<Initials>JH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Young Hoon</ForeName>
+<Initials>YH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Han</LastName>
+<ForeName>Duck Jong</ForeName>
+<Initials>DJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Transplantation</MedlineTA>
+<NlmUniqueID>0132144</NlmUniqueID>
+<ISSNLinking>0041-1337</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D002096">C-Peptide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006442">Glycated Hemoglobin A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C517652">hemoglobin A1c protein, human</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001786">Blood Glucose</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002096">C-Peptide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016009">Chi-Square Distribution</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003922">Diabetes Mellitus, Type 1</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003924">Diabetes Mellitus, Type 2</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006442">Glycated Hemoglobin A</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006085">Graft Survival</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007328">Insulin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007333">Insulin Resistance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050417">Insulin-Secreting Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000637">transplantation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016014">Linear Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016035">Pancreas Transplantation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>6</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>8</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>6</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27336397</ArticleId>
+<ArticleId IdType="doi">10.1097/TP.0000000000001269</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

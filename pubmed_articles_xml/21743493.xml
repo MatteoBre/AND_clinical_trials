@@ -1,0 +1,226 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21743493</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>04</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>02</Month>
+<Day>23</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-5594</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>31</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Feb</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+<Title>Oncogene</Title>
+<ISOAbbreviation>Oncogene</ISOAbbreviation>
+</Journal>
+<ArticleTitle>FOXP3 and FOXP3-regulated microRNAs suppress SATB1 in breast cancer cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1045-54</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/onc.2011.293</ELocationID>
+<Abstract>
+<AbstractText>The transcription factor FOXP3 has been identified as a tumour suppressor in the breast and prostate epithelia, but little is known about its specific mechanism of action. We have identified a feed-forward regulatory loop in which FOXP3 suppresses the expression of the oncogene SATB1. In particular, we demonstrate that SATB1 is not only a direct target of FOXP3 repression, but that FOXP3 also induces two miRs, miR-7 and miR-155, which specifically target the 3'-UTR of SATB1 to further regulate its expression. We conclude that FOXP3-regulated miRs form part of the mechanism by which FOXP3 prevents the transformation of the healthy breast epithelium to a cancerous phenotype. Approaches aimed at restoring FOXP3 function and the miRs it regulates could help provide new approaches to target breast cancer.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>McInnes</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Women's and Children's Health Research Institute, Molecular Immunology Laboratory, Women's and Children's Hospital, 72 King William Road, North Adelaide, SA 5006, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sadlon</LastName>
+<ForeName>T J</ForeName>
+<Initials>TJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>C Y</ForeName>
+<Initials>CY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pederson</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beyer</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schultze</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McColl</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goodall</LastName>
+<ForeName>G J</ForeName>
+<Initials>GJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barry</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>07</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Oncogene</MedlineTA>
+<NlmUniqueID>8711562</NlmUniqueID>
+<ISSNLinking>0950-9232</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C418974">FOXP3 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051858">Forkhead Transcription Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C524942">MIRN155 microRNA, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C549242">MIRN7 microRNA, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D036961">Matrix Attachment Region Binding Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C076189">SATB1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.13.12.7</RegistryNumber>
+<NameOfSubstance UI="D049409">Luciferases, Firefly</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015536">Down-Regulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051858">Forkhead Transcription Factors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017930">Genes, Reporter</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049409">Luciferases, Firefly</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D036961">Matrix Attachment Region Binding Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011401">Promoter Regions, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D034622">RNA Interference</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>4</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21743493</ArticleId>
+<ArticleId IdType="pii">onc2011293</ArticleId>
+<ArticleId IdType="doi">10.1038/onc.2011.293</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

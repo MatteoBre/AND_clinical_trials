@@ -1,0 +1,496 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27778171</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>02</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1432-2218</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>31</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>07</Month>
+</PubDate>
+</JournalIssue>
+<Title>Surgical endoscopy</Title>
+<ISOAbbreviation>Surg Endosc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Multi-port versus single-port cholecystectomy: results of a multi-centre, randomised controlled trial (MUSIC trial).</ArticleTitle>
+<Pagination>
+<MedlinePgn>2872-2880</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00464-016-5298-7</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND">Single-port laparoscopic surgery as an alternative to conventional laparoscopic cholecystectomy for benign disease has not yet been accepted as a standard procedure. The aim of the multi-port versus single-port cholecystectomy trial was to compare morbidity rates after single-access (SPC) and standard laparoscopy (MPC).</AbstractText>
+<AbstractText Label="METHODS">This non-inferiority phase 3 trial was conducted at 20 hospital surgical departments in six countries. At each centre, patients were randomly assigned to undergo either SPC or MPC. The primary outcome was overall morbidity within 60 days after surgery. Analysis was by intention to treat. The study was registered with ClinicalTrials.gov (NCT01104727).</AbstractText>
+<AbstractText Label="RESULTS">The study was conducted between April 2011 and May 2015. A total of 600 patients were randomly assigned to receive either SPC (n = 297) or MPC (n = 303) and were eligible for data analysis. Postsurgical complications within 60 days were recorded in 13 patients (4.7 %) in the SPC group and in 16 (6.1 %) in the MPC group (P = 0.468); however, single-access procedures took longer [70 min (range 25-265) vs. 55 min (range 22-185); P &lt; 0.001]. There were no significant differences in hospital length of stay or pain VAS scores between the two groups. An incisional hernia developed within 1 year in six patients in the SPC group and in three in the MPC group (P = 0.331). Patients were more satisfied with aesthetic results after SPC, whereas surgeons rated the aesthetic results higher after MPC. No difference in quality of life scores, as measured by the gastrointestinal quality of life index at 60 days after surgery, was observed between the two groups.</AbstractText>
+<AbstractText Label="CONCLUSIONS">In selected patients undergoing cholecystectomy for benign gallbladder disease, SPC is non-inferior to MPC in terms of safety but it entails a longer operative time. Possible concerns about a higher risk of incisional hernia following SPC do not appear to be justified. Patient satisfaction with aesthetic results was greater after SPC than after MPC.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Arezzo</LastName>
+<ForeName>Alberto</ForeName>
+<Initials>A</Initials>
+<Identifier Source="ORCID">0000-0002-2110-4082</Identifier>
+<AffiliationInfo>
+<Affiliation>Department of Surgical Sciences, University of Torino, Corso Dogliotti 14, 10126, Turin, Italy. alberto.arezzo@unito.it.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Passera</LastName>
+<ForeName>Roberto</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nuclear Medicine, University of Torino, Corso Dogliotti 14, 10126, Turin, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bullano</LastName>
+<ForeName>Alberto</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgical Sciences, University of Torino, Corso Dogliotti 14, 10126, Turin, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mintz</LastName>
+<ForeName>Yoav</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Hadassah Hebrew University Medical Centre - General Surgery, Jerusalem, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kedar</LastName>
+<ForeName>Asaf</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Hadassah Hebrew University Medical Centre - General Surgery, Jerusalem, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boni</LastName>
+<ForeName>Luigi</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Minimally Invasive Surgery Research Center, Department of Surgical and Morphological Sciences, University of Insubria, Varese, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cassinotti</LastName>
+<ForeName>Elisa</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Minimally Invasive Surgery Research Center, Department of Surgical and Morphological Sciences, University of Insubria, Varese, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosati</LastName>
+<ForeName>Riccardo</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gastrointestinal Surgery, Università Vita e Salute San Raffaele, Milan, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fumagalli Romario</LastName>
+<ForeName>Uberto</ForeName>
+<Initials>U</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Istituto Clinico Humanitas, Rozzano, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sorrentino</LastName>
+<ForeName>Mario</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Latisana/Palmanova Hospital, AAS2 Bassa-Friulana-Isontina, Latisana, UD, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brizzolari</LastName>
+<ForeName>Marco</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Latisana/Palmanova Hospital, AAS2 Bassa-Friulana-Isontina, Latisana, UD, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Di Lorenzo</LastName>
+<ForeName>Nicola</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Experimental Medicine and Surgery, Università di Roma Tor Vergata, Rome, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gaspari</LastName>
+<ForeName>Achille Lucio</ForeName>
+<Initials>AL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Experimental Medicine and Surgery, Università di Roma Tor Vergata, Rome, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andreone</LastName>
+<ForeName>Dario</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Ospedale San Luigi Gonzaga, Orbassano, TO, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>De Stefani</LastName>
+<ForeName>Elena</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Ospedale San Luigi Gonzaga, Orbassano, TO, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Navarra</LastName>
+<ForeName>Giuseppe</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University Hospital G. Martino, Messina, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lazzara</LastName>
+<ForeName>Salvatore</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University Hospital G. Martino, Messina, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Degiuli</LastName>
+<ForeName>Maurizio</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgical Sciences, University of Torino, Corso Dogliotti 14, 10126, Turin, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shishin</LastName>
+<ForeName>Kirill</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Endoscopic Surgery, A.V. Vishnevsky Institute of Surgery, Moscow, Russia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khatkov</LastName>
+<ForeName>Igor</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Moscow Clinical Scientific Centre, Central Scientific Research Institute of Gastroenterology, Moscow, Russia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kazakov</LastName>
+<ForeName>Ivan</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Moscow Clinical Scientific Centre, Central Scientific Research Institute of Gastroenterology, Moscow, Russia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schrittwieser</LastName>
+<ForeName>Rudolf</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, LKH Hochsteiermark/Standort Bruck an der Mur, Bruck an der Mur, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carus</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Klinik für Allgemein, Visceral und Unfallchirurgie, Klinikum Bremen-Ost, Bremen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Corradi</LastName>
+<ForeName>Alessio</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Klinik für Allgemein, Visceral und Unfallchirurgie, Klinikum Bremen-Ost, Bremen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sitzman</LastName>
+<ForeName>Guenther</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Ospedale di Brunico, Brunico, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lacy</LastName>
+<ForeName>Antonio</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gastrointestinal Surgery, Hospital Clinic, University of Barcelona, Barcelona, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Uranues</LastName>
+<ForeName>Selman</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Medical University of Graz, Graz, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Szold</LastName>
+<ForeName>Amir</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Assia Medical Group, Assuta Medical Center, Tel Aviv, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morino</LastName>
+<ForeName>Mario</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgical Sciences, University of Torino, Corso Dogliotti 14, 10126, Turin, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT01104727</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D017428">Clinical Trial, Phase III</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>24</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Surg Endosc</MedlineTA>
+<NlmUniqueID>8806653</NlmUniqueID>
+<ISSNLinking>0930-2794</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017081">Cholecystectomy, Laparoscopic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005705">Gallbladder Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061646">Operative Time</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017060">Patient Satisfaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011183">Postoperative Complications</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Cholecystectomy</Keyword>
+<Keyword MajorTopicYN="Y">Randomized controlled trial</Keyword>
+<Keyword MajorTopicYN="Y">Single port surgery</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2018</Year>
+<Month>2</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27778171</ArticleId>
+<ArticleId IdType="doi">10.1007/s00464-016-5298-7</ArticleId>
+<ArticleId IdType="pii">10.1007/s00464-016-5298-7</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Ann Surg. 2011 Jul;254(1):22-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21494123</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Surg. 2011 Jul;202(1):45-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21600559</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Surg. 2010 Oct;97(10):1476-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20641051</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Surg. 2011 Jul;98(7):991-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21538340</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Reprod Med. 1992 Jul;37(7):588-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1387906</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Surg. 1997 May;84(5):695</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9171771</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Minim Invasive Ther Allied Technol. 2006;15(6):323-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17190655</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Surg Endosc. 2010 Sep;24(9):2241-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20198490</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Surg. 2013 Jun;216(6):1037-47; discussion 1047-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23619321</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg. 2012 Jul;256(1):1-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22664556</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Surg Endosc. 2010 Feb;24(2):490-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19572176</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Surg. 2010 Jul;97(7):1007-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20632264</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2010 Mar 23;340:c869</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20332511</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg. 2004 Aug;240(2):205-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15273542</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Surg Endosc. 2012 Dec;26(12):3605-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22678178</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

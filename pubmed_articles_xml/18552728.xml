@@ -1,0 +1,896 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18552728</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>07</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>01</Month>
+<Day>08</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1930-4307</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>2</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2004</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Science &amp; practice perspectives</Title>
+<ISOAbbreviation>Sci Pract Perspect</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Practical considerations for the clinical use of buprenorphine.</ArticleTitle>
+<Pagination>
+<MedlinePgn>4-20</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Buprenorphine is a new and attractive medication option for many opioid-addicted adults and their physicians. Before initiating buprenorphine treatment, providers must be aware of such critical factors as how the medication works, its efficacy and safety profile, how it is used in opioid withdrawal as well as maintenance treatment, and how patients can best be selected, educated about buprenorphine, and monitored throughout treatment. This article reviews these important issues as well as requirements for physician and staff training and needs for additional research on this unique medication.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Jones</LastName>
+<ForeName>Hendree E</ForeName>
+<Initials>HE</Initials>
+<AffiliationInfo>
+<Affiliation>Johns Hopkins University School of Medicine, Baltimore, Maryland 21224, USA. Hejones@jhmi.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01-DA-1-2220</GrantID>
+<Acronym>DA</Acronym>
+<Agency>NIDA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Sci Pract Perspect</MedlineTA>
+<NlmUniqueID>101275423</NlmUniqueID>
+<ISSNLinking>1930-4307</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D009292">Narcotic Antagonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D009294">Narcotics</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>36B82AMQ7N</RegistryNumber>
+<NameOfSubstance UI="D009270">Naloxone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>40D3SCR4GZ</RegistryNumber>
+<NameOfSubstance UI="D002047">Buprenorphine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>UC6VBE7V1Z</RegistryNumber>
+<NameOfSubstance UI="D008691">Methadone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Sci Pract Perspect. 2004 Aug;2(2):20-3</RefSource>
+<PMID Version="1">18552730</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002047">Buprenorphine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002986">Clinical Trials as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004347">Drug Interactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004496">Education, Continuing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006297">Health Services Accessibility</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008691">Methadone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009270">Naloxone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009292">Narcotic Antagonists</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009294">Narcotics</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009293">Opioid-Related Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010353">Patient Education as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018579">Patient Selection</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>149</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>6</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>7</Month>
+<Day>25</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>6</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18552728</ArticleId>
+<ArticleId IdType="pmc">PMC2851017</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Addiction. 1999 Jul;94(7):961-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10707430</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 1992 Jun;261(3):985-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1376362</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2003 May 21;70(2 Suppl):S87-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12738353</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2003 Aug 13;290(6):731-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12915410</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2003 May 21;70(2 Suppl):S29-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12738348</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 2002 Apr 15;34(8):1143-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11915005</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1992 May 27;267(20):2750-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1578593</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Psychiatry. 2000 Jun 15;47(12):1080-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10862808</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann N Y Acad Sci. 1981;362:36-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6942711</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 1990 Feb;25(1):73-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2323312</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pharmacol Ther. 1996 Jul;60(1):105-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8689806</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2003 May 21;70(2 Suppl):S59-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12738351</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 1998 Mar 1;50(1):1-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9589267</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 1995 Jun;119(3):268-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7675960</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Addiction. 2000 Jul;95(7):1069-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10962771</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Addiction. 1998 Sep;93(9):1385-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9926544</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann N Y Acad Sci. 1978;311:232-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">369432</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2000 Feb 1;58(1-2):143-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10669065</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 1978 Apr;35(4):501-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">215096</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2000 Dec 22;61(1):85-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11064186</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2002 Apr 1;66(2):173-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11906804</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Addict Res. 1998;4 Suppl 1:13-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9767201</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Psychiatry. 1997 Jun 1;41(11):1095-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9146820</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 1976 Jun;197(3):517-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">945347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Psychiatry. 2000 Jul;157(7):1164-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10873929</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nerv Ment Dis. 1998 Jan;186(1):35-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9457145</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 1995 Nov;40(1):27-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8746921</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Addiction. 2001 Jun;96(6):823-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11399214</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Subst Abuse Treat. 2000 Apr;18(3):277-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10742642</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2000 Nov 2;343(18):1290-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11058673</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Addiction. 2003 Apr;98(4):441-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12653814</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2001 Sep 1;64(1):111-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11470347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Addiction. 1998 Apr;93(4):549-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9684393</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 1998 Apr;136(3):217-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9566806</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Psychiatr Scand. 1992 Jul;86(1):46-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1414399</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pharmacol Ther. 1990 Apr;47(4):525-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2328561</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Addiction. 1998 Apr;93(4):475-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9684386</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Addict. 2002 Fall;11(4):271-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12584870</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1998 Dec 9;280(22):1936-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9851480</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Body Posit. 1999 May;12(5):13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11366305</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Pharmacol. 1977 Aug;60(4):537-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">409448</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Addict. 2000 Summer;9(3):265-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11000922</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 1993 Nov;267(2):624-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7504098</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2001 Mar 1;62(1):97-104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11173173</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 2003 Aug 15;37(4):476-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12905130</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 2002 Apr;160(4):344-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11919661</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Addiction. 1999 Sep;94(9):1337-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10615719</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Metab Dispos. 1998 Mar;26(3):257-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9492389</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rev Clin Esp. 2003 Aug;203(8):407-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12855129</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Pharm. 2001 Apr 17;217(1-2):121-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11292548</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 1999 Jan;141(1):37-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9952063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2001 Jan 1;61(2):173-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11137282</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pharmacol Ther. 1993 May;53(5):570-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8491067</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Subst Abuse Treat. 2002 Sep;23(2):87-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12220606</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hepatol. 2001 Feb;34(2):346-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11281569</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Pharmacol. 1997 Jan;37(1):31-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9048270</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Psychiatry. 1994 Jul;151(7):1025-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8010359</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2000 Jul 1;60(1):51-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10821989</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pharmacotherapy. 1999 Apr;19(4):471-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10212021</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2000 Jul 1;60(1):39-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10821988</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2003 May 21;70(2 Suppl):S39-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12738349</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2003 Aug 15;33(5):650-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12902812</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr Hum Retrovirol. 1998 Aug 15;18(5):435-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9715839</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2003 May 21;70(2 Suppl):S103-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12738354</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nerv Ment Dis. 1993 Jun;181(6):358-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8501457</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obstet Gynecol Clin North Am. 1998 Mar;25(1):139-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9547764</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 1982 Oct;223(1):30-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7120124</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Life Sci. 1994;54(17):1215-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8164503</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Pharmacol. 1980 Aug-Sep;20(8-9):506-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7430415</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Subst Abuse Treat. 1995 Nov-Dec;12(6):423-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8749726</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 1996 May;53(5):401-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8624183</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Addict Dis. 1999;18(4):5-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10631960</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Obstet Gynecol Neonatal Nurs. 1999 Nov-Dec;28(6):615-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10584915</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1980 Feb 8;207(4431):657-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7352279</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Perinatol. 1999 Mar;26(1):173-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10214548</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2002 Apr 1;66(2):111-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11906798</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 1997 Aug;54(8):713-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9283506</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pharmacol Ther. 1994 May;55(5):569-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8181201</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Med Interne (Paris). 2001 Apr;152 Suppl 3:IS26-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11435992</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2003 Feb 22;361(9358):662-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12606177</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2000 Nov 2;343(18):1332-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11058680</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 1996 Feb;276(2):449-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8632309</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2000 Jun 1;59(3):223-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10812283</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Addiction. 2002 May;97(5):533-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12033654</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2003 Sep 4;349(10):949-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12954743</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 2002 Nov;303(2):695-703</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12388653</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ther Drug Monit. 1996 Oct;18(5):570-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8885121</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 1995 Nov;40(1):17-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8746920</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 1997 Feb;129(4):329-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9085402</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2002;(2):CD002025</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12076434</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Addiction. 2001 Sep;96(9):1267-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11672491</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pharmacol Ther. 1989 Sep;46(3):335-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2776393</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 1992 Nov;49(11):894-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1444728</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Addict. 2002 Winter;11(1):66-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11876585</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pharmacokinet. 2002;41(14):1153-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12405865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hepatol. 2001 Feb;34(2):261-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11281555</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Psychiatry. 1989 Dec;146(12):1611-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2486749</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nervenarzt. 2000 Sep;71(9):722-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11042867</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Encephale. 2002 Sep-Oct;28(5 Pt 1):397-402</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12386540</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Addict. 1988 Sep;83(9):1085-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3265643</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Psychiatry. 2000 Jun 15;47(12):1072-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10862807</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 1988;94(4):484-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2453895</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 1990 Feb;25(1):27-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2323306</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Life Sci. 2000 Feb 25;66(14):1293-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10755464</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 1995 Feb;272(2):628-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7853176</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Postgrad Med. 2001 Jun;109(6):15-6, 25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11424343</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2001 Aug 1;63(3):253-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11418229</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 1990 Aug;26(1):19-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2209411</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 2000 Mar;148(4):374-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10928310</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Addict. 1997 Spring;6(2):105-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9134072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Addict Res. 1998;4 Suppl 1:8-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9767200</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biopharm Drug Dispos. 1996 Oct;17(7):551-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8894114</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 1999 Sep;146(2):111-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10525745</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Presse Med. 1999 Sep 4;28(25):1381-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10506872</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aust N Z J Public Health. 2002 Aug;26(4):364-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12233959</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacology (Berl). 2001 Mar;154(3):230-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11351930</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Subst Abus. 2002 Dec;23(4):245-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12438837</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Alcohol Depend. 2003 Jun 5;70(3):287-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12757966</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

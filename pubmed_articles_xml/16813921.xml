@@ -1,0 +1,153 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16813921</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>08</Month>
+<Day>29</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0022-5347</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>176</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of urology</Title>
+<ISOAbbreviation>J. Urol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Informed versus uninformed consent for prostate surgery: the value of electronic consents.</ArticleTitle>
+<Pagination>
+<MedlinePgn>694-9; discussion 699</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">We evaluated the documentation of informed consent for 2 common prostate operations using current, conventional, paper based consent forms. Based on the results of the review the conventional paper based consent system was replaced with a new, standardized electronic consent system.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">We retrospectively reviewed the consent forms obtained for transurethral resection of the prostate and radical prostatectomy procedures during the 6-year period 1995 to 2000 at Atlanta Veterans Affairs Medical Center. Analysis focused on the basic elements of informed consent, including a description of the proposed treatment, and the purpose, benefits, risks and alternatives. Based on these findings we standardized the procedure specific information contained in consent forms and stored it electronically in a central network accessible to all urology providers throughout the medical center.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 222 total procedures 204 consent forms were available for review. Senior residents, junior residents and physician assistants obtained consent for 42.2%, 30.9% and 25.5% of procedures, respectively. Information on the purpose and benefits of treatment was missing in 4.4% of cases and deficient in 22.6%. General or procedure specific risks were documented inconsistently in 0% to 96% of cases. Alternative treatment options were missing in 49% of the consent forms and they were significantly deficient in the remaining 51%. Prognosis and surgical risks were documented variably for each procedure. For example, in the radical prostatectomy group 79 patients (88.8%) had appropriate documentation regarding the potential for significant blood loss and yet only 23 (25.8%) had documented consent for blood transfusion. Following the implementation of a new standardized electronic consent program 96.1% of the patients surveyed preferred the new system.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Conventional nonstandardized consent forms have significant deficiencies and errors. The new system of electronic informed consent is standardized, legible and understandable, and it assists providers in fully informing patients about the treatment, risks, benefits and alternative therapies, thereby supporting ethical and legal standards, and improving the quality of care. In our opinion standardized electronic informed consent should be the new standard of care.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Issa</LastName>
+<ForeName>Muta M</ForeName>
+<Initials>MM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Urology, Atlanta Veterans Affairs Medical Center, Georgia 30033, USA. issa@emory.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Setzer</LastName>
+<ForeName>Erin</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Charaf</LastName>
+<ForeName>Christine</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Webb</LastName>
+<ForeName>Alexandra L B</ForeName>
+<Initials>AL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Derico</LastName>
+<ForeName>Rachel</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kimberl</LastName>
+<ForeName>I Jane</ForeName>
+<Initials>IJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fink</LastName>
+<ForeName>Aaron S</ForeName>
+<Initials>AS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Urol</MedlineTA>
+<NlmUniqueID>0376374</NlmUniqueID>
+<ISSNLinking>0022-5347</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007258">Informed Consent</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016347">Medical Records Systems, Computerized</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011468">Prostatectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011996">Records</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2005</Year>
+<Month>09</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>4</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>8</Month>
+<Day>30</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>4</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16813921</ArticleId>
+<ArticleId IdType="pii">S0022-5347(06)00764-6</ArticleId>
+<ArticleId IdType="doi">10.1016/j.juro.2006.03.037</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

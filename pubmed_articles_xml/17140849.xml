@@ -1,0 +1,190 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17140849</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>03</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>09</Month>
+<Day>10</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1388-2457</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>118</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology</Title>
+<ISOAbbreviation>Clin Neurophysiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Heart rate and spectral EEG changes accompanying periodic and non-periodic leg movements during sleep.</ArticleTitle>
+<Pagination>
+<MedlinePgn>438-48</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate the changes in heart rate (HR) and EEG spectra accompanying periodic (PLM) and non-periodic leg movements (NPLM) during sleep in patients with restless legs syndrome (RLS).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Sixteen patients with RLS underwent one polysomnographic night recording; leg movements (LMs) during sleep were detected and classified as PLM or NPLM; up to 10 PLM and NPLM were chosen from NREM and REM sleep, for each patient and for each type (mono- or bilateral). EEG spectral analysis and HR were evaluated for 20s preceding and 30s following the onset of each LM.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">EEG activation preceded LMs, particularly in the delta band which increased before the other frequency bands, in NREM sleep but not in REM sleep for PLM, and in both stages for NPLM. A similar difference was seen between mono- and bilateral LMs.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Sleep EEG, HR, and leg motor activity seems to be modulated by a complex dynamically interacting system of cortical and subcortical mechanisms, which influence each other.</AbstractText>
+<AbstractText Label="SIGNIFICANCE" NlmCategory="CONCLUSIONS">Future studies on the clinical significance of leg motor events during sleep need to take into account events classifiable as "isolated" and to integrate the autonomic and EEG changes accompanying them.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ferri</LastName>
+<ForeName>Raffaele</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Sleep Research Centre, Department of Neurology I.C., Oasi Institute (IRCCS), 94018 Troina, Italy. rferri@oasi.en.it</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zucconi</LastName>
+<ForeName>Marco</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rundo</LastName>
+<ForeName>Francesco</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spruyt</LastName>
+<ForeName>Karen</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Manconi</LastName>
+<ForeName>Mauro</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ferini-Strambi</LastName>
+<ForeName>Luigi</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2006</Year>
+<Month>11</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Clin Neurophysiol</MedlineTA>
+<NlmUniqueID>100883319</NlmUniqueID>
+<ISSNLinking>1388-2457</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001341">Autonomic Nervous System</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004569">Electroencephalography</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005071">Evoked Potentials</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006339">Heart Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007866">Leg</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000294">innervation</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018482">Muscle, Skeletal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000294">innervation</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010507">Periodicity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017286">Polysomnography</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012148">Restless Legs Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012890">Sleep</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2006</Year>
+<Month>07</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2006</Year>
+<Month>09</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2006</Year>
+<Month>10</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>5</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>3</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>5</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17140849</ArticleId>
+<ArticleId IdType="pii">S1388-2457(06)01483-0</ArticleId>
+<ArticleId IdType="doi">10.1016/j.clinph.2006.10.007</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

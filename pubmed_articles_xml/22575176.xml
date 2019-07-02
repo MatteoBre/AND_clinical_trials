@@ -1,0 +1,190 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22575176</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>08</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1873-3336</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>221-222</Volume>
+<PubDate>
+<Year>2012</Year>
+<Month>Jun</Month>
+<Day>30</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of hazardous materials</Title>
+<ISOAbbreviation>J. Hazard. Mater.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A human health risk assessment of mercury species in soil and food around compact fluorescent lamp factories in Zhejiang Province, PR China.</ArticleTitle>
+<Pagination>
+<MedlinePgn>28-34</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jhazmat.2012.03.061</ELocationID>
+<Abstract>
+<AbstractText>This study investigated total mercury (THg) and methylmercury (MeHg) contamination in a major production center of compact fluorescent lamps (CFLs) located in Gaohong, Zhejiang Province, China. This was a result of the growing concern associated with the release of mercury into the environment from such components. The results of the study included the following mean concentrations for THg and MeHg of 157±11 (61-518)ng/gdw and 0.28±0.07 (0.07-0.67)ng/gdw in agricultural soil, respectively, and 18.6±6.5 (3.2-47.8)ng/gww and 0.11±0.03 (0.02-0.37)ng/gww in vegetable samples, respectively. A significant correlation was observed between THg in vegetables and corresponding soil samples (r=0.64, p&lt;0.01). THg and MeHg in sediment samples had respective concentrations ranging from 28 to 1019ng/gdw and 0.11 to 3.15ng/gdw. Mud skipper bought from the local market contained the highest Hg (THg: 170±45ng/gww, MeHg: 143±37ng/gww) amongst all fish species (THg: 14-170; MeHg: 11-143ng/gww) of the study. The risk assessment indicated that fish consumption should not result in a MeHg EDI exceeding the RfD (0.1μg/kgbw/d) for both adults and children, when MeHg bioaccessibility is taken into account.</AbstractText>
+<CopyrightInformation>Copyright © 2012 Elsevier B.V. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Shao</LastName>
+<ForeName>D D</ForeName>
+<Initials>DD</Initials>
+<AffiliationInfo>
+<Affiliation>School of Environmental and Resource Sciences, Zhejiang Agriculture and Forestry University, Linan, PR China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liang</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kang</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fu</LastName>
+<ForeName>W J</ForeName>
+<Initials>WJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhao</LastName>
+<ForeName>K L</ForeName>
+<Initials>KL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cao</LastName>
+<ForeName>Z H</ForeName>
+<Initials>ZH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wong</LastName>
+<ForeName>M H</ForeName>
+<Initials>MH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>04</Month>
+<Day>01</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>J Hazard Mater</MedlineTA>
+<NlmUniqueID>9422688</NlmUniqueID>
+<ISSNLinking>0304-3894</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012989">Soil Pollutants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>FXS1BY2PGL</RegistryNumber>
+<NameOfSubstance UI="D008628">Mercury</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001682">Biological Availability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D002681">China</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005506">Food Contamination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008029">Lighting</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008628">Mercury</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011786">Quality Control</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012989">Soil Pollutants</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2012</Year>
+<Month>02</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>03</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22575176</ArticleId>
+<ArticleId IdType="pii">S0304-3894(12)00355-X</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jhazmat.2012.03.061</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

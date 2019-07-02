@@ -1,0 +1,176 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24148305</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>02</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>11</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1872-7972</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>556</Volume>
+<PubDate>
+<Year>2013</Year>
+<Month>Nov</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+<Title>Neuroscience letters</Title>
+<ISOAbbreviation>Neurosci. Lett.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The potential role of CAMSAP1L1 in symptomatic epilepsy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>146-51</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neulet.2013.10.020</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0304-3940(13)00924-5</ELocationID>
+<Abstract>
+<AbstractText>In a recent genome-wide association study (GWAS) of symptomatic epilepsy in the Chinese population, the most significant single nucleotide polymorphism (SNP) allele was rs2292096 [G] (P=1.0×10(-8), odds ratio [OR]=0.63), in the CAMSAP1L1 gene (also known as CAMSAP2). Here, we report that rs2292096 genotypes tended to associate with expression of CAMSAP1L1 RNA in the temporal lobe (p=0.054) and hippocampus (p=0.20) of epilepsy surgery patients, with expression tending to increase with the G allele. CAMSAP1L1 and β-tubulin double immunofluorescence exhibited partial overlap. CAMSAP1L1 siRNA transfection of human SH-SY5Y neuroblastoma cells treated with or without retinoic acid reduced the CAMSAP1L1 protein level nearly 60% and stimulated neurite outgrowth, as measured by total length, number of processes and number of branches. Therefore, the rs2292096 G allele of CAMSAP1L1, which was associated with reduced risk of symptomatic epilepsy, tended to associate with increased expression of CAMSAP1L1, which represses neurite outgrowth. Greater neurite growth in response to brain insults might increase formation of ectopic neural circuits and thus the risk of epileptogenesis. </AbstractText>
+<CopyrightInformation>Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Shuai</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>School of Pharmacy, The Chinese University of Hong Kong, Shatin, Hong Kong, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kwan</LastName>
+<ForeName>Patrick</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baum</LastName>
+<ForeName>Larry</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Ireland</Country>
+<MedlineTA>Neurosci Lett</MedlineTA>
+<NlmUniqueID>7600130</NlmUniqueID>
+<ISSNLinking>0304-3940</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C573192">CAMSAP2 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D003598">Cytoskeletal Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003598">Cytoskeletal Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004827">Epilepsy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055785">Gene Knockdown Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016501">Neurites</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009474">Neurons</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">CAMSAP1L1</Keyword>
+<Keyword MajorTopicYN="N">CAMSAP2</Keyword>
+<Keyword MajorTopicYN="N">Epileptogenesis</Keyword>
+<Keyword MajorTopicYN="N">Neurites</Keyword>
+<Keyword MajorTopicYN="N">Symptomatic epilepsy</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>10</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>2</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24148305</ArticleId>
+<ArticleId IdType="pii">S0304-3940(13)00924-5</ArticleId>
+<ArticleId IdType="doi">10.1016/j.neulet.2013.10.020</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

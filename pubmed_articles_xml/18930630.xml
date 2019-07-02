@@ -1,0 +1,198 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18930630</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>02</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1097-6795</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>21</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American Society of Echocardiography : official publication of the American Society of Echocardiography</Title>
+<ISOAbbreviation>J Am Soc Echocardiogr</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Left atrial volume and function in patients with obstructive sleep apnea assessed by real-time three-dimensional echocardiography.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1355-61</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.echo.2008.09.007</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Studies have suggested that obstructive sleep apnea (OSA) contributes to the deterioration of left ventricular diastolic function. This may lead to atrial myocardial overstretching and enlargement, which could be associated with increased cardiovascular risk. The aim of this study was to evaluate left atrial (LA) volume and function in patients with OSA compared with controls without OSA and their associations with any left ventricular diastolic abnormalities using real-time 3-dimensional echocardiography (RT3DE).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Fifty-six patients with mild to severe OSA and 50 controls of similar age and with similar body mass indexes, blood pressure, and frequency of hypertension were analyzed. All subjects underwent polysomnography and RT3DE.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">A larger 3-dimensional maximum LA volume indexed for body surface area, larger volume before atrial contraction, and higher active atrial ejection fraction were found in patients with OSA (P &lt; .01 for all). Mitral annular early diastolic velocity (E') was reduced in patients with OSA (P = .03), whereas late diastolic velocity (A') and the ratio of mitral valve early diastolic velocity to mitral annular early diastolic velocity (E/E') were increased in the same group (P &lt; .05 for both). In addition, a lower E'/A' ratio was also found in the OSA group (P = .02). An increase in 3-dimensional maximum LA volume indexed for body surface area was observed, depending on OSA severity. The apnea-hypopnea index and E/E' ratio were independent predictors of an increase in 3-dimensional maximum LA volume in a multiple regression model.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Using RT3DE, this study demonstrates that OSA induces a functional burden on the left atrium, resulting in remodeling. These functional and structural changes are related to the impairment of diastolic function in this population.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Oliveira</LastName>
+<ForeName>Wercules</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Discipline of Sleep Biology and Medicine, Department of Psychobiology, Federal University of São Paulo, Sao Paulo, Brazil.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Campos</LastName>
+<ForeName>Orlando</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bezerra Lira-Filho</LastName>
+<ForeName>Edgar</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cintra</LastName>
+<ForeName>Fatima Dumas</ForeName>
+<Initials>FD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vieira</LastName>
+<ForeName>Marcelo</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ponchirolli</LastName>
+<ForeName>Andrea</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Paola</LastName>
+<ForeName>Angelo</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tufik</LastName>
+<ForeName>Sergio</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Poyares</LastName>
+<ForeName>Dalva</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>18</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Am Soc Echocardiogr</MedlineTA>
+<NlmUniqueID>8801388</NlmUniqueID>
+<ISSNLinking>0894-7317</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016275">Atrial Function</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003199">Computer Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019560">Echocardiography, Three-Dimensional</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006325">Heart Atria</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009929">Organ Size</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020181">Sleep Apnea, Obstructive</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018487">Ventricular Dysfunction, Left</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2008</Year>
+<Month>04</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>2</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18930630</ArticleId>
+<ArticleId IdType="pii">S0894-7317(08)00541-5</ArticleId>
+<ArticleId IdType="doi">10.1016/j.echo.2008.09.007</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

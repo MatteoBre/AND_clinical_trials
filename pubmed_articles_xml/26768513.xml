@@ -1,0 +1,155 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26768513</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>05</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1096-9098</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>112</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of surgical oncology</Title>
+<ISOAbbreviation>J Surg Oncol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Comment on: Surgical resection versus transarterial chemoembolization for BCLC stage C hepatocellular carcinoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>907-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/jso.24066</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Yan-Yan</ForeName>
+<Initials>YY</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Hepatobiliary Surgery, Affiliated Tumor Hospital of Guangxi Medical University, Nanning, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhong</LastName>
+<ForeName>Jian-Hong</ForeName>
+<Initials>JH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Hepatobiliary Surgery, Affiliated Tumor Hospital of Guangxi Medical University, Nanning, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Qin</LastName>
+<ForeName>Hong-Gui</ForeName>
+<Initials>HG</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Hepatobiliary Surgery, Affiliated Tumor Hospital of Guangxi Medical University, Nanning, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Le-Qun</ForeName>
+<Initials>LQ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Hepatobiliary Surgery, Affiliated Tumor Hospital of Guangxi Medical University, Nanning, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Surg Oncol</MedlineTA>
+<NlmUniqueID>0222643</NlmUniqueID>
+<ISSNLinking>0022-4790</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>J Surg Oncol. 2015 Mar 15;111(4):404-9</RefSource>
+<PMID Version="1">25643842</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>J Surg Oncol. 2015 Dec;112(8):909</RefSource>
+<PMID Version="1">26768514</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006528">Carcinoma, Hepatocellular</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016461">Chemoembolization, Therapeutic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008113">Liver Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>09</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>09</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26768513</ArticleId>
+<ArticleId IdType="doi">10.1002/jso.24066</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

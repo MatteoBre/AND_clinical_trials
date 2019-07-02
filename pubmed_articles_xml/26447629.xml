@@ -1,0 +1,207 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26447629</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>04</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1365-2168</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>102</Volume>
+<Issue>13</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>The British journal of surgery</Title>
+<ISOAbbreviation>Br J Surg</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Interventional ductoscopy in patients with pathological nipple discharge.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1639-48</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/bjs.9950</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Surgery is the intervention of choice for definitive diagnosis and treatment in women with pathological nipple discharge (PND). Ductoscopy has been reported to improve diagnosis, but as an interventional procedure it may also reduce the need for surgery. This study evaluated interventional ductoscopy in patients with PND.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A prospective study on ductoscopy was conducted in consecutive patients with PND, but without a suspected malignancy on routine diagnostic evaluation. Intraductal lesions were removed by ductoscopic extraction. Surgery was undertaken if there were suspicious ductoscopic findings or at the patient's request. Therapeutic efficacy was determined by cannulation success, detection and removal rates, symptom resolution and avoided surgery.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Ductoscope introduction was successful in 71 (87 per cent) of 82 patients, with abnormalities visualized in 53 (65 per cent); these were mostly polypoid lesions (29 patients). The lesion was removed in 27 of 34 attempted ductoscopic extractions. Twenty-six (32 per cent) of the 82 patients underwent surgery, whereas surgery was avoided in 56 (68 per cent). After a median follow-up of 17 (range 3-45) months, 40 patients (49 per cent) no longer experienced symptoms of PND, 13 of 34 patients experienced an insufficient therapeutic effect after attempted ductoscopic extraction, and the outcome was unknown in two (2 per cent). Malignancy was diagnosed in four patients (5 per cent); two had been missed at ductoscopy and two at initial surgery after ductoscopy.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Interventional ductoscopy is technically feasible and may help to avoid surgery in the majority of patients. As endoscopic removal of intraductal lesions is not always possible and malignancy can be the underlying cause of PND, ductoscopic instruments should be further optimized to allow definitive histological diagnosis.</AbstractText>
+<CopyrightInformation>© 2015 BJS Society Ltd Published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Waaijer</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Surgery, University Medical Centre Utrecht, Utrecht, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Diest</LastName>
+<ForeName>P J</ForeName>
+<Initials>PJ</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Pathology, University Medical Centre Utrecht, Utrecht, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Verkooijen</LastName>
+<ForeName>H M</ForeName>
+<Initials>HM</Initials>
+<AffiliationInfo>
+<Affiliation>Imaging Division, University Medical Centre Utrecht, Utrecht, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dijkstra</LastName>
+<ForeName>N-E</ForeName>
+<Initials>NE</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Pathology, University Medical Centre Utrecht, Utrecht, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>van der Pol</LastName>
+<ForeName>C C</ForeName>
+<Initials>CC</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Surgery, University Medical Centre Utrecht, Utrecht, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Borel Rinkes</LastName>
+<ForeName>I H M</ForeName>
+<Initials>IH</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Surgery, University Medical Centre Utrecht, Utrecht, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Witkamp</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Surgery, University Medical Centre Utrecht, Utrecht, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>08</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Br J Surg</MedlineTA>
+<NlmUniqueID>0372553</NlmUniqueID>
+<ISSNLinking>0007-1323</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003937">Diagnosis, Differential</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004724">Endoscopy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005122">Exudates and Transudates</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009558">Nipples</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>02</Month>
+<Day>28</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>06</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26447629</ArticleId>
+<ArticleId IdType="doi">10.1002/bjs.9950</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,189 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12892517</PMID>
+<DateCompleted>
+<Year>2004</Year>
+<Month>04</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1533-0346</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>2</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2003</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Technology in cancer research &amp; treatment</Title>
+<ISOAbbreviation>Technol. Cancer Res. Treat.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Salvage reimplantation in patient with local recurrent prostate carcinoma after brachytherapy with three dimensional computed tomography-guided permanent pararectal implant.</ArticleTitle>
+<Pagination>
+<MedlinePgn>339-44</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Thirty-one [31] patients with local recurrent or residual adenocarcinoma of the prostate, with no evidence of distant metastases, were treated with second permanent implant using a stereotactic three dimensional system and posterior pararectal CT-guided method. All patients had extensive under local anesthesia or IV sedation pararectal CT-guided biopsy of the prostate and seminal vesicles. All patients except one had 3 month neoadjuvant androgen ablation prior to salvage reimplantation. Twenty [20] of these patients had local recurrence in the prostate and eleven [11] patients had seminal vesicle invasion which was not diagnosed nor treated with the initial brachytherapy. In addition, the patients had PSA failure or local palpable disease, "cold spots" with CT imaging or areas of dosage less than 80% of the prescribed dose with DVH (dose volume histogram). Initial prescribed dose was 120 Gy with (103)Pd loose seeds in 26 patients and 144 Gy with (125)I loose seeds in 5 patients. For the reimplant the dosage in the recurrent site was 100-144 Gy with (125)I seeds in strand in 24 patients (77%) and 100-120 Gy with (103)Pd loose seeds in 7 patients (23%). The preference of (125)I seeds in the second treatment was because only (125)I in strand was available at the time of the reimplant. Eleven [11] patients had second implant twelve to twenty-four months after the initial implant and 20 patients had after twenty-five to eighty-seven months and median follow-up was thirty months. A high level of biochemical control (87%) was achieved in all of these patients who are recognized as high risk due to local recurrence. Four [4] patients experienced grade 2 or 3 GI or GU complications and two [2] patients experienced grade 4 GI complications. Patients with local recurrent prostate cancer following initial brachytherapy including those with seminal vesicle invasion can be successfully treated with pararectal stereotactic CT-guided reimplantation. Assessment of seminal vesicle status is an essential part of staging for local recurrence.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Koutrouvelis</LastName>
+<ForeName>Panos</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Uro-Radiology Prostate Institute, 8320 Old Courthouse Road, Suite 150, Vienna, VA 22182, USA. pgkurpi@aol.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hendricks</LastName>
+<ForeName>Fred</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lailas</LastName>
+<ForeName>Niko</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gil-Montero</LastName>
+<ForeName>Guillermo</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sehn</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khawand</LastName>
+<ForeName>Nabil</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bondy</LastName>
+<ForeName>Harold</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Katz</LastName>
+<ForeName>Stuart</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Technol Cancer Res Treat</MedlineTA>
+<NlmUniqueID>101140941</NlmUniqueID>
+<ISSNLinking>1533-0338</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007457">Iodine Radioisotopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011868">Radioisotopes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>5TWQ1V240M</RegistryNumber>
+<NameOfSubstance UI="D010165">Palladium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001918">Brachytherapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D021621">Imaging, Three-Dimensional</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007457">Iodine Radioisotopes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010165">Palladium</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011868">Radioisotopes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012008">Recurrence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016879">Salvage Therapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>8</Month>
+<Day>2</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2004</Year>
+<Month>5</Month>
+<Day>1</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>8</Month>
+<Day>2</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12892517</ArticleId>
+<ArticleId IdType="pii">d=3015&amp;c=4115&amp;p=11786&amp;do=detail</ArticleId>
+<ArticleId IdType="doi">10.1177/153303460300200409</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

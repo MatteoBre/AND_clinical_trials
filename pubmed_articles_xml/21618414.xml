@@ -1,0 +1,181 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21618414</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1545-5017</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>58</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pediatric blood &amp; cancer</Title>
+<ISOAbbreviation>Pediatr Blood Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Ofatumumab for a rituximab-allergic child with chronic-relapsing paraneoplastic opsoclonus-myoclonus.</ArticleTitle>
+<Pagination>
+<MedlinePgn>988-91</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/pbc.23187</ELocationID>
+<Abstract>
+<AbstractText>Ofatumumab is a fully human anti-CD20 monoclonal antibody in phase II-III trials for various autoimmune and lymphoreticular diseases. We used it to treat a rituximab-allergic child with severe, chronic-relapsing, opsoclonus-myoclonus syndrome (OMS), characterized by persistent cerebrospinal fluid (CSF) B-cell expansion and T-cell dysregulation. He had relapsed despite chemotherapy, plasma exchange with immunoadsorption, and resection of ganglioneuroblastoma, detected 3 years after OMS onset. The four ofatumumab infusions (1,195 mg/m(2) total dose) were well tolerated, and CSF B-cell expansion was eliminated. No further relapses have occurred in 3 years, but he remains on low-dose ACTH with neuropsychiatric residuals of OMS.</AbstractText>
+<CopyrightInformation>Copyright © 2011 Wiley Periodicals, Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Pranzatelli</LastName>
+<ForeName>Michael R</ForeName>
+<Initials>MR</Initials>
+<AffiliationInfo>
+<Affiliation>Southern Illinois University School of Medicine, Springfield, IL, USA. mpranzatelli@siumed.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tate</LastName>
+<ForeName>Elizabeth D</ForeName>
+<Initials>ED</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shenoy</LastName>
+<ForeName>Shalini</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Travelstead</LastName>
+<ForeName>Anna L</ForeName>
+<Initials>AL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>05</Month>
+<Day>25</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pediatr Blood Cancer</MedlineTA>
+<NlmUniqueID>101186624</NlmUniqueID>
+<ISSNLinking>1545-5009</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D058846">Antibodies, Monoclonal, Murine-Derived</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>4F4X42SYQ6</RegistryNumber>
+<NameOfSubstance UI="D000069283">Rituximab</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>M95KG522R0</RegistryNumber>
+<NameOfSubstance UI="C527517">ofatumumab</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000911">Antibodies, Monoclonal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058846">Antibodies, Monoclonal, Murine-Derived</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004342">Drug Hypersensitivity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018305">Ganglioneuroblastoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053578">Opsoclonus-Myoclonus Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069283">Rituximab</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013120">Spinal Cord Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>03</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2011</Year>
+<Month>04</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>5</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>5</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21618414</ArticleId>
+<ArticleId IdType="doi">10.1002/pbc.23187</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

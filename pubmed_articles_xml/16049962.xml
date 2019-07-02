@@ -1,0 +1,166 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16049962</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>01</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>03</Month>
+<Day>03</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0020-7136</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>118</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Jan</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>International journal of cancer</Title>
+<ISOAbbreviation>Int. J. Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Nuclear factor kappaB is downregulated and correlates with p53 in the Min mouse mucosa during an accelerated tumor growth.</ArticleTitle>
+<Pagination>
+<MedlinePgn>279-83</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The nuclear factor kappaB signaling pathway has gained attention for its role in the carcinogenic process. We have measured the protein levels of the p65 subunit during a growth of adenomas in the Min mouse model for colon cancer. To study how an accelerated growth of adenomas affect cell signalling, adenoma growth was increased by an inulin diet (10%) that we have shown previously to be a promotor of adenoma formation. In our study, the association between NF-kappaB, p53, beta-catenin, Fas and COX-2 were evaluated by measuring their protein levels in 9- and 15-week old Min mouse adenomas and surrounding mucosa. The amount of p65 rouse between 9- and 15-weeks in the mucosa of the control-fed mice (p = 0.032). The inulin-fed mice had less p65 in the nucleus of the mucosa at 15 weeks of age compared to the control (p = 0.064), although the adenomas were significantly larger (1.46 mm +/- 0.12 for inulin, 0.97 mm +/- 0.12 for control, p &lt; 0.001). Nuclear p65 correlated positively with nuclear p53 in the mucosa (p &lt; 0.001) and adenoma (p &lt; 0.001) tissues. Also, p65 correlated positively with nuclear beta-catenin in the mucosa (p = 0.012) and the adenoma (p = 0.001). Fas expression increased in the inulin group between 9-15 weeks (p = 0.034) and correlated negatively with p65 (p = 0.03). The amount of COX-2 in the adenoma tissue increased between 9-15 weeks and did not correlate with p65. The results suggest that p65 is involved in a p53-dependent apoptotic response in the Min mouse.</AbstractText>
+<CopyrightInformation>Copyright 2005 Wiley-Liss, Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rajakangas</LastName>
+<ForeName>Johanna</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Applied Chemistry and Microbiology, Division of Nutrition, University of Helsinki, Helsinki, Finland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pajari</LastName>
+<ForeName>Anne-Maria</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Misikangas</LastName>
+<ForeName>Marjo</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mutanen</LastName>
+<ForeName>Marja</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Int J Cancer</MedlineTA>
+<NlmUniqueID>0042124</NlmUniqueID>
+<ISSNLinking>0020-7136</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C498144">Rela protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051996">Transcription Factor RelA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051176">beta Catenin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.99.1</RegistryNumber>
+<NameOfSubstance UI="D051546">Cyclooxygenase 2</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000236">Adenoma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002471">Cell Transformation, Neoplastic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003110">Colonic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051546">Cyclooxygenase 2</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015536">Down-Regulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016158">Genes, p53</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051996">Transcription Factor RelA</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051176">beta Catenin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>7</Month>
+<Day>29</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>1</Month>
+<Day>13</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>7</Month>
+<Day>29</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16049962</ArticleId>
+<ArticleId IdType="doi">10.1002/ijc.21333</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,152 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15677891</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>06</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0959-8278</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>14</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP)</Title>
+<ISOAbbreviation>Eur. J. Cancer Prev.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Milk/dairy products consumption, galactose metabolism and ovarian cancer: meta-analysis of epidemiological studies.</ArticleTitle>
+<Pagination>
+<MedlinePgn>13-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Ovarian cancer is the fifth most common cause of cancer death among women and the leading cause of gynaecological cancer death in the United States. Milk/dairy products consumption was considered to be a risk factor for ovarian cancer mainly because milk carbohydrate-lactose and galactose metabolism is toxic to oocytes. However, recent evidence does not support this hypothesis completely. We collected epidemiological studies related to the association between milk/dairy products consumption or galactose metabolism (lactose, galactose, galactose-1-phosphate uridyltransferase, lactose/transferase) and ovarian cancer published between January 1966 and August 2003 and found 27 items from 22 independent studies. Twenty studies were case-control studies and the other two were cohort studies. A meta-analysis method was conducted to estimate relative risk combining all relative data. In general, we did not find any association between milk/dairy products or galactose metabolism and ovarian cancer risk in this meta-analysis. The consumption of whole milk and butter, which contain relatively high amounts of fat, was positively (relative risk &gt; 1.2), but not significantly, associated with an increased risk.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Qin</LastName>
+<ForeName>L-Q</ForeName>
+<Initials>LQ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, School of Medicine, University of Yamanashi, Tamaho, Shimokato 1110, Yamanashi 409-3898, Japan. shinr@res.yamanashi-med.ac.jp</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xu</LastName>
+<ForeName>J-Y</ForeName>
+<Initials>JY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>P-Y</ForeName>
+<Initials>PY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hashi</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hoshi</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sato</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D017418">Meta-Analysis</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Eur J Cancer Prev</MedlineTA>
+<NlmUniqueID>9300837</NlmUniqueID>
+<ISSNLinking>0959-8278</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>X2RN3Q8DNE</RegistryNumber>
+<NameOfSubstance UI="D005690">Galactose</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003611">Dairy Products</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004032">Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016021">Epidemiologic Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005690">Galactose</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010051">Ovarian Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>1</Month>
+<Day>29</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>6</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>1</Month>
+<Day>29</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15677891</ArticleId>
+<ArticleId IdType="pii">00008469-200502000-00003</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

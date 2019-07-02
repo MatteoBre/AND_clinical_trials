@@ -1,0 +1,201 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22562080</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>09</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>08</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-5365</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>47</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Bone marrow transplantation</Title>
+<ISOAbbreviation>Bone Marrow Transplant.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Clinical experience with a simple algorithm for plerixafor utilization in autologous stem cell mobilization.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1526-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/bmt.2012.74</ELocationID>
+<Abstract>
+<AbstractText>Plerixafor augments PBSC collection, but the optimal approach for incorporating it into mobilization is uncertain. Forty-nine consecutive patients mobilized with G-CSF alone were analyzed, and a day 4 peripheral blood CD34(+) cell count of 0.015/ml was found to predict for a day 5 apheresis yield of 2 × 10(6) CD34(+) progenitors/kg, our institutional minimum necessary for a single autologous transplant. On the basis of this relationship, a clinical guideline was developed which recommended pre-emptive use of plerixafor if the day 4 peripheral blood CD34(+) cell count was between 0.005 and 0.015/ml. A total of 166 consecutive subjects with lymphoma or plasma cell dyscrasias underwent G-CSF mobilization after adoption of this care pathway, and the mobilization failure rate was only 7% in patients managed per guideline. The median PBSC yield was 6.3 × 10(6) CD34(+) progenitors/kg with G-CSF (day 4 peripheral blood CD34(+) cell &gt; 0.015/ml) and 4.9 × 10(6) CD34(+) progenitors/kg with G-CSF+plerixafor (day 4 peripheral blood CD34(+) cell 0.005-0.015/ml). The median number of days of apheresis was 2 in both groups. This clinical guideline is an effective mobilization algorithm that minimizes mobilization failures, reduces poor apheresis yields, does not require risk factor identification and is simple to implement.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>A I</ForeName>
+<Initials>AI</Initials>
+<AffiliationInfo>
+<Affiliation>Center for Hematologic Malignancies, Knight Cancer Institute, Oregon Health &amp; Science University, Portland, OR, USA. chenan@ohsu.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bains</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Murray</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Knight</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shoop</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bubalo</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fowler</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Slater</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Maziarz</LastName>
+<ForeName>R T</ForeName>
+<Initials>RT</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>05</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Bone Marrow Transplant</MedlineTA>
+<NlmUniqueID>8702459</NlmUniqueID>
+<ISSNLinking>0268-3369</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006571">Heterocyclic Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>143011-72-7</RegistryNumber>
+<NameOfSubstance UI="D016179">Granulocyte Colony-Stimulating Factor</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>OD49913540</RegistryNumber>
+<NameOfSubstance UI="C088327">plerixafor octahydrochloride</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016179">Granulocyte Colony-Stimulating Factor</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019650">Hematopoietic Stem Cell Mobilization</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006571">Heterocyclic Compounds</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008223">Lymphoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010265">Paraproteinemias</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014182">Transplantation, Autologous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22562080</ArticleId>
+<ArticleId IdType="pii">bmt201274</ArticleId>
+<ArticleId IdType="doi">10.1038/bmt.2012.74</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

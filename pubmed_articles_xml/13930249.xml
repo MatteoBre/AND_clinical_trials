@@ -1,0 +1,107 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">13930249</PMID>
+<DateCompleted>
+<Year>1998</Year>
+<Month>11</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<JournalIssue CitedMedium="Print">
+<Volume>3</Volume>
+<PubDate>
+<Year>1963</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Hemostase</Title>
+<ISOAbbreviation>Hemostase</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Modifications of the thromboelastogram in the irradiated rabbit (analogies to occupational exposure in man)].</ArticleTitle>
+<Pagination>
+<MedlinePgn>59-65</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>LEVY</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>fre</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>France</Country>
+<MedlineTA>Hemostase</MedlineTA>
+<NlmUniqueID>0156010</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>OM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009784">Occupational Diseases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016273">Occupational Exposure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011817">Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011830">Radiation Effects</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D013916">Thrombelastography</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NLM">
+<Keyword MajorTopicYN="Y">OCCUPATIONAL DISEASES</Keyword>
+<Keyword MajorTopicYN="Y">RADIATION EFFECTS</Keyword>
+<Keyword MajorTopicYN="Y">THROMBELASTOGRAPHY</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1963</Year>
+<Month>3</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1963</Year>
+<Month>3</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1963</Year>
+<Month>3</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13930249</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

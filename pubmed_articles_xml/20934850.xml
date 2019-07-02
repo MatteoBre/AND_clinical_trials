@@ -1,0 +1,131 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20934850</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>04</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>01</Month>
+<Day>10</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1873-1244</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>27</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Nutrition (Burbank, Los Angeles County, Calif.)</Title>
+<ISOAbbreviation>Nutrition</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Immunonutrition in cancer patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>144-5</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.nut.2010.07.015</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Klek</LastName>
+<ForeName>Stanislaw</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016420">Comment</PublicationType>
+<PublicationType UI="D016421">Editorial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>08</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Nutrition</MedlineTA>
+<NlmUniqueID>8802712</NlmUniqueID>
+<ISSNLinking>0899-9007</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Nutrition. 2011 Feb;27(2):146-52</RefSource>
+<PMID Version="1">21215924</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000920">Antibody-Dependent Cell Cytotoxicity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007107">Immune System</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044623">Nutrition Therapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010288">Parenteral Nutrition</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>07</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>07</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>4</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20934850</ArticleId>
+<ArticleId IdType="pii">S0899-9007(10)00240-6</ArticleId>
+<ArticleId IdType="doi">10.1016/j.nut.2010.07.015</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

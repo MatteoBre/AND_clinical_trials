@@ -1,0 +1,245 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">8702727</PMID>
+<DateCompleted>
+<Year>1996</Year>
+<Month>10</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>05</Month>
+<Day>08</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0021-9258</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>271</Volume>
+<Issue>33</Issue>
+<PubDate>
+<Year>1996</Year>
+<Month>Aug</Month>
+<Day>16</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of biological chemistry</Title>
+<ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Phosphatidylinositol-3' kinase is not required for mitogenesis or internalization of the Flt3/Flk2 receptor tyrosine kinase.</ArticleTitle>
+<Pagination>
+<MedlinePgn>20075-81</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Flt3/Flk2 is a receptor tyrosine kinase that is expressed on early hematopoietic progenitor cells. Flt3/Flk2 belongs to a family of receptors, including Kit and colony-stimulating factor-1R, which support growth and differentiation within the hematopoietic system. The Flt3/Flk2 ligand, in combination with other growth factors, stimulates the proliferation of hematopoietic progenitors of both lymphoid and myeloid lineages in vitro. We report that phosphatidylinositol 3'-kinase (PI3K) binds to a unique site in the carboxy tail of murine Flt3/Flk2. In distinction to Kit and colony-stimulating factor-1R, mutant receptors unable to couple to PI3K and expressed in rodent fibroblasts or in the interleukin 3-dependent cell line Ba/F3 provide a mitogenic signal comparable to wild-type receptors. Flt3/Flk2 receptors that do not bind to PI3K also normally down-regulate, a function ascribed to PI3K in the context of other receptor systems. These data point to the existence of other unidentified pathways that, alone or in combination with PI3K, transduce these cellular responses following the activation of Flt3/Flk2.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Beslu</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Hematology Laboratory, Unite 119, Institut National de la Santé et de la Recherche Mèdicale, 27 Bd Lei Roure, 13009 Marseille, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>LaRose</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Casteran</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Birnbaum</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lecocq</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dubreuil</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rottapel</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Biol Chem</MedlineTA>
+<NlmUniqueID>2985121R</NlmUniqueID>
+<ISSNLinking>0021-9258</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D048868">Adaptor Proteins, Signal Transducing</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D033942">Adaptor Proteins, Vesicular Transport</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011518">Proto-Oncogene Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D055765">Shc Signaling Adaptor Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C528035">Shc1 protein, rat</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000071425">Src Homology 2 Domain-Containing, Transforming Protein 1</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>21820-51-9</RegistryNumber>
+<NameOfSubstance UI="D019000">Phosphotyrosine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.-</RegistryNumber>
+<NameOfSubstance UI="D019869">Phosphatidylinositol 3-Kinases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.-</RegistryNumber>
+<NameOfSubstance UI="D017853">Phosphotransferases (Alcohol Group Acceptor)</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.10.1</RegistryNumber>
+<NameOfSubstance UI="D020794">Receptor Protein-Tyrosine Kinases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.10.1</RegistryNumber>
+<NameOfSubstance UI="D051941">fms-Like Tyrosine Kinase 3</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D048868">Adaptor Proteins, Signal Transducing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D033942">Adaptor Proteins, Vesicular Transport</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001665">Binding Sites</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003593">Cytoplasm</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004789">Enzyme Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008938">Mitosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019869">Phosphatidylinositol 3-Kinases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017853">Phosphotransferases (Alcohol Group Acceptor)</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019000">Phosphotyrosine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017354">Point Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011485">Protein Binding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011506">Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011518">Proto-Oncogene Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020794">Receptor Protein-Tyrosine Kinases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055765">Shc Signaling Adaptor Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000071425">Src Homology 2 Domain-Containing, Transforming Protein 1</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013329">Structure-Activity Relationship</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051941">fms-Like Tyrosine Kinase 3</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1996</Year>
+<Month>8</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1996</Year>
+<Month>8</Month>
+<Day>16</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1996</Year>
+<Month>8</Month>
+<Day>16</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8702727</ArticleId>
+<ArticleId IdType="doi">10.1074/jbc.271.33.20075</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

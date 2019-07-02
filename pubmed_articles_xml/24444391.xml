@@ -1,0 +1,436 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24444391</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>12</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1607-842X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>47</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Autoimmunity</Title>
+<ISOAbbreviation>Autoimmunity</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Epigallocatechin-3-gallate modulates anti-oxidant defense enzyme expression in murine submandibular and pancreatic exocrine gland cells and human HSG cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>177-84</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3109/08916934.2013.879470</ELocationID>
+<Abstract>
+<AbstractText>Sjogren's syndrome (SS) and type-1 diabetes are prevalent autoimmune diseases in the USA. We reported previously that epigallocatechin-3-gallate (EGCG) prevented and delayed the onset of autoimmune disease in non-obese diabetic (NOD) mice, a model for both SS and type-1 diabetes. EGCG also normalized the levels of proteins related to DNA repair and anti-oxidant activity in NOD.B10.Sn-H2 mice, a model for primary SS, prior to disease onset. The current study examined the effect of EGCG on the expression of anti-oxidant enzymes in the submandibular salivary gland and the pancreas of NOD mice and cultured human salivary gland acinar cells. NOD mice consuming 0.2% EGCG daily dissolved in water showed higher protein levels of peroxiredoxin 6 (PRDX6), a major anti-oxidant defense protein, and catalase, while the untreated NOD mice exhibited significantly lowered levels of PRDX6. Similarly, pancreas samples from water-fed NOD mice were depleted in PRDX6 and superoxide dismutase, while EGCG-fed mice showed high levels of these anti-oxidant enzymes. In cultured HSG cells EGCG increased PRDX6 levels significantly, and this was inhibited by p38 and JNK inhibitors, suggesting that the EGCG-mediated increase in protective anti-oxidant capacity is regulated in part through mitogen-activated protein kinase pathway signaling. This mechanism may explain the higher levels of PRDX6 found in EGCG-fed NOD mice. These preclinical observations warrant future preclinical and clinical studies to determine whether EGCG or green tea polyphenols could be used in novel preventive and therapeutic approaches against autoimmune diseases and salivary dysfunction involving oxidative stress.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Dickinson</LastName>
+<ForeName>Douglas</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Dental Activity, US Army , Fort Gordon, GA , USA .</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>DeRossi</LastName>
+<ForeName>Scott</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yu</LastName>
+<ForeName>Hongfang</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thomas</LastName>
+<ForeName>Cristina</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kragor</LastName>
+<ForeName>Chris</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paquin</LastName>
+<ForeName>Becky</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hahn</LastName>
+<ForeName>Emily</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ohno</LastName>
+<ForeName>Seiji</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yamamoto</LastName>
+<ForeName>Tetsuya</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hsu</LastName>
+<ForeName>Stephen</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R15 DE019836</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R15 DE019836-01</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>01</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Autoimmunity</MedlineTA>
+<NlmUniqueID>8900070</NlmUniqueID>
+<ISSNLinking>0891-6934</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000975">Antioxidants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D047428">Protein Kinase Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8R1V1STN48</RegistryNumber>
+<NameOfSubstance UI="D002392">Catechin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>BBX060AN9V</RegistryNumber>
+<NameOfSubstance UI="D006861">Hydrogen Peroxide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>BQM438CTEL</RegistryNumber>
+<NameOfSubstance UI="C045651">epigallocatechin gallate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.11.1.15</RegistryNumber>
+<NameOfSubstance UI="D054465">Peroxiredoxin VI</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.11.24</RegistryNumber>
+<NameOfSubstance UI="D020928">Mitogen-Activated Protein Kinases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000975">Antioxidants</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002392">Catechin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005786">Gene Expression Regulation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006861">Hydrogen Peroxide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016688">Mice, Inbred NOD</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020928">Mitogen-Activated Protein Kinases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D046790">Pancreas, Exocrine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054465">Peroxiredoxin VI</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047428">Protein Kinase Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013363">Submandibular Gland</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24444391</ArticleId>
+<ArticleId IdType="doi">10.3109/08916934.2013.879470</ArticleId>
+<ArticleId IdType="pmc">PMC4301570</ArticleId>
+<ArticleId IdType="mid">NIHMS654555</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Diabet Med. 2000 Mar;17(3):171-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10784220</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Life Sci. 2008 Oct 24;83(17-18):581-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18809413</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Carcinogenesis. 2009 Sep;30(9):1544-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19578043</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Des Devel Ther. 2012;6:245-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23055694</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antioxid Redox Signal. 2010 Apr;12(4):537-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19650713</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Rheumatol Suppl. 1986;61:253-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3296153</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2003 Oct;133(10):3275S-84S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14519826</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2013 Jan 15;119(2):363-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22760587</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Res Ther. 2004;6(6):265-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15535839</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 2006 Oct;169(4):1194-205</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17003478</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 2008 Oct 3;1233:63-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18694738</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Toxicol Appl Pharmacol. 2007 Nov 1;224(3):318-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17196232</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biochem. 2008 Jul 1;104(4):1274-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18260127</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 2007 Oct;34(10):2035-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17896802</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Diabetes Res. 2012;2012:683680</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23093953</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Emerg Infect Dis. 2004 Nov;10(11):2005-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15550215</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Biol Int. 2007 Jan;31(1):1-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17046291</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Ayurveda Integr Med. 2012 Oct;3(4):188-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23326089</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Histol Histopathol. 2009 Oct;24(10):1357-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19688700</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anticancer Res. 2009 Oct;29(10):3811-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19846913</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Autoimmunity. 2012 Nov;45(7):540-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22849293</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Nutr. 2011 Apr;105(8):1218-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21144096</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biochem. 1998 Dec 15;71(4):479-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9827694</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antioxid Redox Signal. 2007 Mar;9(3):385-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17184176</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biol. 2007 Nov 19;179(4):747-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18025307</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Cell Physiol. 2008 Mar;294(3):C842-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18184874</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prostaglandins Leukot Med. 1982 Apr;8(4):403-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6955809</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Neuropathol. 2008 Jun;115(6):611-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18386021</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 1998 Nov;141(1):17-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9863535</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Dermatol. 2007 Aug;16(8):678-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17620095</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr Biochem. 2012 Sep;23(9):1134-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22137262</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

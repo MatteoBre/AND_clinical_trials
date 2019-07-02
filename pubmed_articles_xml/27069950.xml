@@ -1,0 +1,510 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">27069950</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>04</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic-eCollection">
+<Journal>
+<ISSN IssnType="Print">2329-0501</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>5</Volume>
+<PubDate>
+<Year>2016</Year>
+</PubDate>
+</JournalIssue>
+<Title>Molecular therapy. Methods &amp; clinical development</Title>
+<ISOAbbreviation>Mol Ther Methods Clin Dev</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Preclinical safety, pharmacokinetics, pharmacodynamics, and biodistribution studies with Ad35K++ protein: a novel rituximab cotherapeutic.</ArticleTitle>
+<Pagination>
+<MedlinePgn>16013</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/mtm.2016.13</ELocationID>
+<Abstract>
+<AbstractText>Rituximab is a mouse/human chimeric monoclonal antibody targeted toward CD20. It is efficient as first-line therapy of CD20-positive B-cell malignancies. However, a large fraction of treated patients relapse with rituximab-resistant disease. So far, only modest progress has been made in treatment options for rituximab refractory patients. One of the mechanisms for rituximab resistance involves the upregulation of CD46, which is a key cell surface protein that blocks the activation of complement. We have recently developed a technology that depletes CD46 from the cell surface and thereby sensitizes tumor cells to complement-dependent cytotoxicity. This technology is based on a small recombinant protein, Ad35K++ that binds with high affinity to CD46. In preliminary studies using a 6 × histidinyl tagged protein, we had demonstrated that intravenous Ad35K++ injection in combination with rituximab was safe and increased rituximab-mediated killing of CD20-positive target cells in mice and nonhuman primates (NHPs). The presence of the tag, while allowing for easy purification by Ni-NTA chromatography, has the potential to increase the immunogenicity of the recombinant protein. For clinical application, we therefore developed an Ad35K++ protein without His-tag. In the present study, we performed preclinical studies in two animal species (mice and NHPs) with this protein demonstrating its safety and efficacy. These studies estimated the Ad35K++ dose range and treatment regimen to be used in patients. Furthermore, we showed that intravenous Ad35K++ injection triggers the shedding of the CD46 extracellular domain in xenograft mouse tumor models and in macaques. Shed serum CD46 can be measured in the serum and can potentially be used as a pharmacodynamic marker for monitoring Ad35K++ activity in patient undergoing treatment with this agent. These studies create the basis for an investigational new drug application for the use of Ad35K++ in combination with rituximab in the treatment of patients with B-cell malignancies. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Richter</LastName>
+<ForeName>Maximilian</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Medical Genetics, University of Washington , Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yumul</LastName>
+<ForeName>Roma</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Medical Genetics, University of Washington , Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saydaminova</LastName>
+<ForeName>Kamola</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Medical Genetics, University of Washington , Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Hongjie</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Medical Genetics, University of Washington , Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gough</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Washington National Primate Research Center , Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baldessari</LastName>
+<ForeName>Audrey</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Washington National Primate Research Center , Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cattaneo</LastName>
+<ForeName>Roberto</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Mayo Clinic , Rochester, Minnesota, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Frank</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>BRIM Biotechnology, Inc , Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Chung-Huei Katherine</ForeName>
+<Initials>CH</Initials>
+<AffiliationInfo>
+<Affiliation>BRIM Biotechnology, Inc , Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jang</LastName>
+<ForeName>Haishan</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>BRIM Biotechnology, Inc , Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Astier</LastName>
+<ForeName>Anne</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>University of Edinburgh , Edinburgh, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gopal</LastName>
+<ForeName>Ajay</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Medical Oncology and Fred Hutchinson Cancer Research Center, University of Washington , Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carter</LastName>
+<ForeName>Darrick</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Compliment Corp., Seattle, Washington, USA; PAI Life Sciences Inc., Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lieber</LastName>
+<ForeName>André</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Medical Genetics, University of Washington, Seattle, Washington, USA; Compliment Corp., Seattle, Washington, USA; Department of Pathology, University of Washington, Seattle, Washington, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P51 OD010425</GrantID>
+<Acronym>OD</Acronym>
+<Agency>NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P51 RR000166</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R44 CA162582</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>03</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Mol Ther Methods Clin Dev</MedlineTA>
+<NlmUniqueID>101624857</NlmUniqueID>
+<ISSNLinking>2329-0501</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>10</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27069950</ArticleId>
+<ArticleId IdType="doi">10.1038/mtm.2016.13</ArticleId>
+<ArticleId IdType="pmc">PMC4813608</ArticleId>
+<ArticleId IdType="pii">S2329-0501(16)30154-1</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Clin Oncol. 2010 Sep 20;28(27):4184-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20660832</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Haematologica. 2008 Dec;93(12):1829-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18945747</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Infect Dis. 2013 Jul 12;13:317</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23849292</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Haematologica. 2006 Feb;91(2):176-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16461301</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 1994 Jan 15;83(2):435-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7506951</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2014 Mar 13;370(11):1008-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24450858</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunobiology. 2012 Feb;217(2):169-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21742405</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Hematol. 2006 Jun;34(6):713-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16728275</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 2014 Jan 21;588(2):334-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24239543</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int Immunol. 1995 May;7(5):727-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7547700</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Gene Ther. 2006 Dec;13(12):1072-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16874361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cytometry A. 2003 Apr;52(2):101-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12655653</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Pharmacol Sci. 2012 Aug;33(8):442-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22621975</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2013 Aug 10;31(23):2912-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23835718</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2011 Dec 22;365(25):2357-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22149959</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Exp Immunol. 2001 May;124(2):180-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11422193</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2010 Jan 21;115(3):592-600</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19965652</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2008 Nov;82(21):10567-79</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18753195</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rev Med Virol. 2013 Nov;23(6):399-413</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24023004</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2001 Dec;115(4):807-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11843813</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2009 Oct;83(20):10347-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19656874</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2005 Dec 1;106(12):3725-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16123223</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunology. 2014 Sep 22;:null</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25251258</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Top Microbiol Immunol. 2009;330:213-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19203112</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sci Transl Med. 2013 Oct 23;5(208):208ra147</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24154601</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Lett. 2012 Dec;4(6):1301-1304</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23205127</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 1997 Aug;71(8):6144-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9223509</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2003 Aug 1;171(3):1581-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12874252</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2013 Nov;163(3):334-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24032456</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013 Nov 12;8(11):e80533</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24265828</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CA Cancer J Clin. 2015 Jan-Feb;65(1):5-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25559415</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2001 Nov 1;98(9):2771-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11675350</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Ther. 2013 Feb;21(2):291-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23089733</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2010 Jan 15;184(2):694-701</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20018629</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2014 Jun 1;74(11):2907-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24824231</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2003 Nov;9(11):1408-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14566335</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2002 Jan 24;346(4):235-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11807147</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2003 Nov 21;278(47):46927-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12958316</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Manag Res. 2013 Aug 23;5:251-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24049458</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2000 Sep;18(17):3135-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10963642</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Organ Transplant. 2011 Aug;16(4):416-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21666479</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Infect Immun. 2008 Sep;76(9):3951-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18573902</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2011 Jan 19;6(1):e16287</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21283821</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int Immunol. 2011 Mar;23(3):215-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21393637</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2011 Jan;17(1):96-104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21151137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Exp Immunol. 2007 Dec;150(3):576-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17903221</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,513 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26892399</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-511X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>15</Volume>
+<PubDate>
+<Year>2016</Year>
+<Month>Feb</Month>
+<Day>18</Day>
+</PubDate>
+</JournalIssue>
+<Title>Lipids in health and disease</Title>
+<ISOAbbreviation>Lipids Health Dis</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Consumption of echium oil increases EPA and DPA in blood fractions more efficiently compared to linseed oil in humans.</ArticleTitle>
+<Pagination>
+<MedlinePgn>32</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/s12944-016-0199-2</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">A plant-based strategy to improve long-chain (LC) omega (n)-3 PUFA supply in humans involves dietary supplementation with oils containing α-linolenic acid (ALA) alone or in combination with stearidonic acid (SDA). The study aimed to compare the effects of echium oil (EO) and linseed oil (LO) on LC n-3 PUFA accumulation in blood and on clinical markers.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">In two double-blind, parallel-arm, randomized controlled studies, all volunteers started with 17 g/d run-in oil (2 weeks). Thereafter, subjects received diets enriched in study 1 with EO (5 g ALA + 2 g SDA; n = 59) or in study 2 with LO (5 g ALA; n =  9) daily for 8 weeks. The smaller control groups received fish oil (FO; n = 19) or olive oil (OO; n = 18). Participants were instructed to restrict their dietary n-3 PUFA intake throughout the studies (e.g., no fish). To investigate the influence of age and BMI on the conversion of ALA and SDA as well as clinical markers, the subjects recruited for EO and LO treatment were divided into three subgroups (two age groups 20-35 y; 49-69 y with BMI 18-25 kg/m(2) and one group with older, overweight subjects (age 49-69 y; BMI &gt;25 kg/m(2)).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">In plasma, red blood cells (RBC), and peripheral blood mononuclear cells (PBMC), EPA and docosapentaenoic acid (DPA) were ~25 % higher following EO compared to LO. Comparing all treatments, the effectiveness of increasing EPA and DPA in plasma, RBC, and PBMC was on average 100:25:10:0 and 100:50:25:0 for FO:EO:LO:OO, respectively. EO led to a lower arachidonic acid/EPA-ratio compared to LO in plasma, RBC, and PBMC. Following EO, final DHA was not greater compared to LO. Higher BMI correlated negatively with increases in plasma EPA and DPA after EO supplementation, but not after LO supplementation. Decreasing effect on plasma LDL-C and serum insulin was greater with EO than with LO.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Daily intake of SDA-containing EO is a better supplement than LO for increasing EPA and DPA in blood. However, neither EO nor LO maintained blood DHA status in the absence of fish/seafood consumption.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov Reg No. NCT01856179; ClinicalTrials.gov Reg No. NCT01317290.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kuhnt</LastName>
+<ForeName>Katrin</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Nutritional Physiology, Institute of Nutrition, Friedrich Schiller University, Dornburger Straße 24, 07743, Jena, Germany. b6jage@uni-jena.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weiß</LastName>
+<ForeName>Stefanie</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Nutritional Physiology, Institute of Nutrition, Friedrich Schiller University, Dornburger Straße 24, 07743, Jena, Germany. stefanie.weiss@uni-jena.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kiehntopf</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Clinical Chemistry and Laboratory Medicine, Jena University Hospital, Friedrich Schiller University, Erlanger Allee 101, 07747, Jena, Germany. michael.kiehntopf@med.uni-jena.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jahreis</LastName>
+<ForeName>Gerhard</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Nutritional Physiology, Institute of Nutrition, Friedrich Schiller University, Dornburger Straße 24, 07743, Jena, Germany. gerhard.jahreis@uni-jena.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT01317290</AccessionNumber>
+<AccessionNumber>NCT01856179</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>02</Month>
+<Day>18</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Lipids Health Dis</MedlineTA>
+<NlmUniqueID>101147696</NlmUniqueID>
+<ISSNLinking>1476-511X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015525">Fatty Acids, Omega-3</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005231">Fatty Acids, Unsaturated</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010938">Plant Oils</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8001-26-1</RegistryNumber>
+<NameOfSubstance UI="D008043">Linseed Oil</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>AAN7QOV9EA</RegistryNumber>
+<NameOfSubstance UI="D015118">Eicosapentaenoic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>NS3OZT14QT</RegistryNumber>
+<NameOfSubstance UI="C026219">docosapentaenoic acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>P4CEK3495O</RegistryNumber>
+<NameOfSubstance UI="C062895">stearidonic acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019587">Dietary Supplements</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D036661">Echium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015118">Eicosapentaenoic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004912">Erythrocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015525">Fatty Acids, Omega-3</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005231">Fatty Acids, Unsaturated</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007963">Leukocytes, Mononuclear</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008043">Linseed Oil</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010938">Plant Oils</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>02</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26892399</ArticleId>
+<ArticleId IdType="doi">10.1186/s12944-016-0199-2</ArticleId>
+<ArticleId IdType="pii">10.1186/s12944-016-0199-2</ArticleId>
+<ArticleId IdType="pmc">PMC4757976</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Am Coll Cardiol. 2011 Nov 8;58(20):2047-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22051327</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lipids. 2008 Sep;43(9):805-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18683001</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Nutr. 2012 Jul 14;108(1):71-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22011528</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr Biochem. 2008 Oct;19(10):655-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18155507</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2012 Mar;142(3):635S-640S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22279133</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prostaglandins Leukot Essent Fatty Acids. 2012 Jan-Feb;86(1-2):51-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22064208</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Atheroscler Rep. 2009 Nov;11(6):411-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19852881</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chem Biodivers. 2012 Mar;9(3):567-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22422524</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2011 May;93(5):950-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21367944</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2003 Mar;133 Suppl 3:925S-932S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12612178</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Lipid Sci Technol. 2012 Feb;114(2):153-160</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22745569</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lipids. 2005 Apr;40(4):343-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16028715</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lipids. 2000 Feb;35(2):137-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10757543</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2011 Dec;141(12):2166-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22031659</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Nutr. 2008 Feb;27(1):51-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18460481</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2003 Apr;77(4):783-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12663273</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Nutr Soc. 2008 Feb;67(1):19-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18234128</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2014 Apr;144(4):447-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24553695</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2006 Jul;84(1):44-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16825680</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Clin Nutr Metab Care. 2004 Mar;7(2):137-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15075703</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lipids. 2009 Jul;44(7):603-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19452183</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prostaglandins Leukot Essent Fatty Acids. 2009 Feb-Mar;80(2-3):85-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19269799</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Nutr. 2006 Apr;95(4):752-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16571155</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Clin Nutr. 2009 Sep;63(9):1123-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19584895</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2002 Nov 19;106(21):2747-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12438303</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2006 Jul;84(1):5-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16825676</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2004 Jun;134(6):1406-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15173404</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2013 Jan;97(1):195-207</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23221573</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Nutr. 2007 Dec;98(6):1305-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18039412</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Reprod Nutr Dev. 2005 Sep-Oct;45(5):581-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16188209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Lipid Res. 2010 Apr;49(2):108-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19857520</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2008 Sep;88(3):801-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18779299</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2003 May;77(5):1140-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12716664</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Lipid Res. 2007 Jul;48(7):1592-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17409318</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Biol Med (Maywood). 2008 Jun;233(6):674-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18408140</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Plant Biotechnol J. 2009 Sep;7(7):704-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19702757</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Nutr Food Res. 2013 May;57(5):748-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23417895</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2010 Oct;92(4):766-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20739419</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochim Biophys Acta. 1994 Aug 4;1213(3):277-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7914092</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Lipid Res. 2011 Oct;50(4):372-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21762726</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Nutr. 2008 Feb;27(1):65-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18460483</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lipids Health Dis. 2013;12:147</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24139088</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lipids Health Dis. 2013;12:173</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24229084</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Lipid Res. 2009 Nov;48(6):355-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19619583</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2012 Mar;142(3):600S-604S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22279144</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

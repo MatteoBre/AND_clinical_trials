@@ -1,0 +1,274 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16086943</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1097-6744</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>150</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>American heart journal</Title>
+<ISOAbbreviation>Am. Heart J.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Impact of smoking status on outcomes of primary coronary intervention for acute myocardial infarction--the smoker's paradox revisited.</ArticleTitle>
+<Pagination>
+<MedlinePgn>358-64</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">We sought to determine the relationship between cigarette smoking and outcomes after mechanical reperfusion therapy in acute myocardial infarction (AMI).</AbstractText>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Prior studies have found that smokers with AMI have lower mortality rates and a more favorable response to fibrinolytic therapy than nonsmokers. The impact of cigarette smoking in patients undergoing primary percutaneous coronary intervention has not been examined.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">In the CADILLAC trial, 2082 patients with AMI were randomized to percutaneous transluminal coronary angioplasty +/- abciximab versus stenting +/- abciximab. Data on smoking status were prospectively collected and follow-up continued for 1 year.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">At the time of presentation, 638 (31%) patients had never smoked, 546 (26%) were former smokers, and 898 (45%) were currently smoking. In comparison to nonsmokers, current smokers were younger, more often men, and less frequently had diabetes, hypertension, prior AMI, and triple-vessel coronary disease. Procedural success rates were unrelated to smoking status. Mortality was lowest in current smokers, intermediate in former smokers, and highest in nonsmokers at 30 days (1.3% vs 1.7% vs 3.5%, respectively, P = .02) and 1 year (2.9% vs 3.7% vs 6.6%, P = .0008). After multivariate correction for differences in baseline variables, however, current smoking status was no longer protective from late mortality (hazard ratio 0.96, 95% CI 0.52-1.76, P = .89).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The "smoker's paradox" extends to patients undergoing primary PCI for AMI, with increased survival seen in current smokers, an effect entirely explained by differences in baseline risk and not smoking status per se. The deleterious effects of smoking are expressed in the occurrence of AMI nearly a decade earlier than in nonsmokers, with similar age-adjusted risk, mandating intensive primary and secondary cigarette-cessation efforts.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Weisz</LastName>
+<ForeName>Giora</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Research Foundation and Center for Interventional Therapy, New York, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cox</LastName>
+<ForeName>David A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garcia</LastName>
+<ForeName>Eulogio</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tcheng</LastName>
+<ForeName>James E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Griffin</LastName>
+<ForeName>John J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guagliumi</LastName>
+<ForeName>Giulio</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stuckey</LastName>
+<ForeName>Thomas D</ForeName>
+<Initials>TD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rutherford</LastName>
+<ForeName>Barry D</ForeName>
+<Initials>BD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mehran</LastName>
+<ForeName>Roxana</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aymong</LastName>
+<ForeName>Eve</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lansky</LastName>
+<ForeName>Alexandra</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grines</LastName>
+<ForeName>Cindy L</ForeName>
+<Initials>CL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stone</LastName>
+<ForeName>Gregg W</ForeName>
+<Initials>GW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am Heart J</MedlineTA>
+<NlmUniqueID>0370465</NlmUniqueID>
+<ISSNLinking>0002-8703</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000925">Anticoagulants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007140">Immunoglobulin Fab Fragments</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010975">Platelet Aggregation Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>X85G7936GV</RegistryNumber>
+<NameOfSubstance UI="D000077284">Abciximab</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077284">Abciximab</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015906">Angioplasty, Balloon, Coronary</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000911">Antibodies, Monoclonal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000925">Anticoagulants</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015897">Comorbidity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017023">Coronary Angiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007140">Immunoglobulin Fab Fragments</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009026">Mortality</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009203">Myocardial Infarction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010975">Platelet Aggregation Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012008">Recurrence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012306">Risk</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012907">Smoking</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016540">Smoking Cessation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015607">Stents</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020521">Stroke</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2003</Year>
+<Month>10</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2004</Year>
+<Month>01</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>8</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>12</Month>
+<Day>13</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>8</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16086943</ArticleId>
+<ArticleId IdType="pii">S0002-8703(04)00623-4</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ahj.2004.01.032</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,370 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20046519</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>04</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1976-2437</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>51</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Yonsei medical journal</Title>
+<ISOAbbreviation>Yonsei Med. J.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Comparison of azasetron and ondansetron for preventing postoperative nausea and vomiting in patients undergoing gynecological laparoscopic surgery.</ArticleTitle>
+<Pagination>
+<MedlinePgn>88-92</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3349/ymj.2010.51.1.88</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">We compared the prophylactic effects of intravenously administered azasetron (10 mg) and ondansetron (8 mg) on postoperative nausea and vomiting (PONV) in patients undergoing gynecological laparoscopic surgery under general anesthesia.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">We studied 98 ASA physical status I or II 20-65 years old, female patients, in this prospective, randomized, double blind study. Patients were randomly divided into two groups and received ondansetron 8 mg (group O) or azasetron 10 mg (group A) 5 min before the end of surgery. The incidence of PONV, Visual Analogue Scale (VAS) for pain, need for rescue antiemetic and analgesics, and adverse effects were checked at 1, 6, 12, 24, and 48 h postoperatively.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The overall incidence of PONV was 65% in group O and 49% in group A. The incidence of PONV was significantly higher in group O than in group A at 12-24 h postoperatively (nausea; 24% vs. 45%, p = 0.035, vomiting; 2% vs. 18%, p = 0.008), but there were no significant differences at 0-1, 1-6, 6-12 or 24-48 h.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In conclusion, azasetron (10 mg) produced same incidence of PONV as ondansetron (8 mg) in patients undergoing general anesthesia for gynecological laparoscopic surgery. Azasetron was more effective, in the intermediate post-operative period, between 12 and 24 h.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Yun</LastName>
+<ForeName>Mi Ja</ForeName>
+<Initials>MJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Anesthesiology and Pain Medicine, Seoul National University Bundang Hospital, Seongnam, Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Yoon Hee</ForeName>
+<Initials>YH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>A Rm</ForeName>
+<Initials>AR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>29</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Korea (South)</Country>
+<MedlineTA>Yonsei Med J</MedlineTA>
+<NlmUniqueID>0414003</NlmUniqueID>
+<ISSNLinking>0513-5796</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019086">Bridged Bicyclo Compounds, Heterocyclic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010078">Oxazines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012702">Serotonin Antagonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>4AF302ESOS</RegistryNumber>
+<NameOfSubstance UI="D017294">Ondansetron</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>77HC7URR9Z</RegistryNumber>
+<NameOfSubstance UI="C070671">azasetron</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019086">Bridged Bicyclo Compounds, Heterocyclic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013509">Gynecologic Surgical Procedures</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017294">Ondansetron</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010078">Oxazines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020250">Postoperative Nausea and Vomiting</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012702">Serotonin Antagonists</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Azasetron</Keyword>
+<Keyword MajorTopicYN="N">gynecologic surgical procedures</Keyword>
+<Keyword MajorTopicYN="N">ondansetron</Keyword>
+<Keyword MajorTopicYN="N">postoperative nausea and vomiting</Keyword>
+<Keyword MajorTopicYN="N">prophylaxis</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2008</Year>
+<Month>11</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2009</Year>
+<Month>03</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2009</Year>
+<Month>03</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>1</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>1</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>4</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20046519</ArticleId>
+<ArticleId IdType="doi">10.3349/ymj.2010.51.1.88</ArticleId>
+<ArticleId IdType="pmc">PMC2799968</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Anesth Analg. 1999 Dec;89(6):1337-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10589604</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Assoc Thai. 2008 May;91(5):669-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18672630</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesth Analg. 2001 Jan;92(1):112-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11133611</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Anaesthesiol Scand. 2001 Aug;45(7):795-804</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11472277</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2002 Mar 13;287(10):1233-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11886298</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesth Analg. 2003 Jul;97(1):62-71, table of contents</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12818945</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Can J Anaesth. 2004 Apr;51(4):326-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15064261</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesth Analg. 1991 Sep;73(3):246-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1831015</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Pharmacol. 1991 Apr 24;196(3):299-305</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1654255</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nihon Yakurigaku Zasshi. 1992 Aug;100(2):137-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1330854</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nihon Yakurigaku Zasshi. 1993 Jan;101(1):17-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8444378</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Jpn J Pharmacol. 1993 Nov;63(3):377-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8107329</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gan To Kagaku Ryoho. 1997 May;24(7):855-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9170525</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesthesiology. 1997 Dec;87(6):1277-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9416710</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Anaesthesiol Sin. 1998 Jun;36(2):65-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9816714</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gan To Kagaku Ryoho. 1999 Jun;26(7):1001-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10396331</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gen Pharmacol. 1999 Sep;33(3):283-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10480662</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesthesiology. 1999 Sep;91(3):693-700</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10485781</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CNS Drugs. 2005;19(3):225-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15740177</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gan To Kagaku Ryoho. 2006 May;33(5):633-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16685162</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Anesth. 2006 Jun;18(4):304-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16797435</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Can J Anaesth. 2007 May;54(5):349-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17470885</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Anaesth. 2007 Aug;99(2):202-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17540667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Anesth. 2007 Nov;19(7):512-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18063205</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Laparoendosc Adv Surg Tech A. 2007 Dec;17(6):803-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18158814</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Asian J Surg. 2008 Apr;31(2):50-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18490214</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pak Med Assoc. 2008 Apr;58(4):203-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18655431</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Can J Anaesth. 2000 Jun;47(6):529-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10875716</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

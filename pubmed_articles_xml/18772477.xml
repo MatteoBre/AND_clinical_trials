@@ -1,0 +1,181 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18772477</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>10</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>05</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1079-5006</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>63</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>The journals of gerontology. Series A, Biological sciences and medical sciences</Title>
+<ISOAbbreviation>J. Gerontol. A Biol. Sci. Med. Sci.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A population-based study of hemoglobin, race, and mortality in elderly persons.</ArticleTitle>
+<Pagination>
+<MedlinePgn>873-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Anemia is associated with increased mortality risk. The impact of mildly low hemoglobin concentration (Hb) on risk for mortality remains unclear, especially among blacks. We examined the racial differences between Hb and mortality.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">This was a population-based study conducted from 1993 through 2006, in a geographically defined community of Chicago, Illinois. A stratified, random sample of 1806 participants 65 years old or older and 50% black, who were participating in the Chicago Health Aging Project and underwent clinical evaluation. Mortality was ascertained using the National Death Index. Cox proportional hazard models were used to assess the independent relation of Hb to mortality risk.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The proportion of participants with anemia by World Health Organization (WHO) criteria (Hb &lt; 13.0 g/dL for men and &lt; 12.0 g/dL for women) was 39% among blacks, and 17% among whites. Blacks had lower mean Hb (12.6 +/- 1.5 g/dL) than did whites (13.5 +/- 1.5 g/dL). In multivariable analysis, anemia was associated with increased mortality risk in blacks (hazard ratio [HR], 1.90; 95% confidence interval [CI], 1.43-2.53) and in whites (HR, 1.85; 95% CI, 1.32-2.59). Among blacks, Hb 0-0.9 g/dL below the anemia threshold is associated with increased mortality risk compared to Hb 0-0.9 g/dL above the anemia cutoff (HR, 1.84; 95% CI, 1.21-2.79), Hb 1.1-2.0 g/dL above the anemia cutoff (HR, 1.35; 95% CI, 0.88-2.05) and Hb 2.1-3.0 g/dL above the anemia cutoff (HR, 2.24; 95% CI, 1.12-4.47). The terms for interaction between black ethnicity/race and anemia suggested that blacks did not have a statistically significant difference in mortality risk compared to whites. Subgroup analyses of interaction terms suggested that Hb 0.1-1.0 g/dL above anemia cutoff group, blacks may have lower mortality risk compared to whites in the mildly low normal ranges of Hb (p =.02).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Both anemia by WHO criteria and mild reductions in Hb were related to increased risk of mortality in older blacks and whites.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Dong</LastName>
+<ForeName>XinQi</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Rush University Medical Center, 710 South Paulina Street, Chicago, IL 60612, USA. xinqi_dong@rush.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mendes de Leon</LastName>
+<ForeName>Carlos</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Artz</LastName>
+<ForeName>Andrew</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tang</LastName>
+<ForeName>YuXiao</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shah</LastName>
+<ForeName>Raj</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Evans</LastName>
+<ForeName>Denis</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>AG 11101</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Gerontol A Biol Sci Med Sci</MedlineTA>
+<NlmUniqueID>9502837</NlmUniqueID>
+<ISSNLinking>1079-5006</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006454">Hemoglobins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001741">African Americans</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000740">Anemia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015897">Comorbidity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003324">Coronary Artery Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003920">Diabetes Mellitus</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006454">Hemoglobins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>29</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18772477</ArticleId>
+<ArticleId IdType="pii">63/8/873</ArticleId>
+<ArticleId IdType="doi">10.1093/gerona/63.8.873</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

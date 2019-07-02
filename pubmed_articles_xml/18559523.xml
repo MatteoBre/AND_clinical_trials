@@ -1,0 +1,272 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18559523</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>08</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1538-7445</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>68</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Jun</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Cancer research</Title>
+<ISOAbbreviation>Cancer Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Novel steroid receptor phyto-modulator compound a inhibits growth and survival of prostate cancer cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>4763-73</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1158/0008-5472.CAN-07-6104</ELocationID>
+<Abstract>
+<AbstractText>Androgen receptor (AR)- and glucocorticoid receptor (GR)- mediated signaling play opposite roles in prostate tumorigenesis: AR promotes prostate carcinoma (PC) development, whereas GR acts as a tumor suppressor. Compound A (CpdA) is a stable analogue of an aziridine precursor from the African shrub Salsola tuberculatiformis Botschantzev. It was shown recently that, in model cells, CpdA inhibits AR function and strongly enhances anti-inflammatory function of GR. We determined the effects of CpdA in prostate cells with different AR/GR status: (a) RWPE-1 cells (AR(low)/GR(low)), (b) PC3 and DU145 cells (GR(+)/AR(-)), (c) LNCaP cells (GR(-)/AR(+)), and (d) LNCaP-GR cells expressing both receptors. Similar to steroid hormones, CpdA induces nuclear translocation of both receptors in prostate cells. Despite this, CpdA inhibits DNA-binding and transactivation potential of AR. In addition, CpdA inhibits GR-mediated transactivation but induces GR transrepression via inhibition of several transcription factors, including nuclear factor-kappaB, AP-1, Ets-1, Elk-1, SRF, CRE/ATF, and NFATc. CpdA strongly decreases growth and induces caspase-dependent apoptosis in highly malignant PC3 and DU145 cells and in other AR/GR-expressing PC cells. The cytostatic effect of CpdA is receptor dependent: down-regulation of GR or AR expression drastically attenuates CpdA-induced PC cell growth inhibition. Finally, virtual docking analysis indicates that CpdA shares binding cavities in AR and GR ligand-binding domains with corresponding hormones and forms hydrogen bonds (H-bond) with the same amino acids that are involved in H-bond formation during steroid binding. Overall, our data suggest that CpdA is a unique dual-target steroid receptor modulator that has a high potential for PC therapy.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Yemelyanov</LastName>
+<ForeName>Alexander</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Dermatology, Northwestern University, Chicago, Illinois, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Czwornog</LastName>
+<ForeName>Jennifer</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gera</LastName>
+<ForeName>Lajos</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Joshi</LastName>
+<ForeName>Sonali</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chatterton</LastName>
+<ForeName>Robert T</ForeName>
+<Initials>RT</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Budunova</LastName>
+<ForeName>Irina</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+<ISSNLinking>0008-5472</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C104564">2-(4-acetoxyphenyl)-2-chloro-N-methylethylamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C410798">AR protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000085">Acetates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000726">Androgen Antagonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000728">Androgens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005021">Ethylamines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D034741">RNA, Small Interfering</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011944">Receptors, Androgen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011965">Receptors, Glucocorticoid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.13.12.-</RegistryNumber>
+<NameOfSubstance UI="D008156">Luciferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.77</RegistryNumber>
+<NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>X8ZC7V0OX3</RegistryNumber>
+<NameOfSubstance UI="D014439">Tyramine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000085">Acetates</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000138">chemical synthesis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000726">Androgen Antagonists</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000728">Androgens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015153">Blotting, Western</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003114">Colony-Forming Units Assay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D024202">Electrophoretic Mobility Shift Assay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005021">Ethylamines</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000138">chemical synthesis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006860">Hydrogen Bonding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008156">Luciferases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D034741">RNA, Small Interfering</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011869">Radioligand Assay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011944">Receptors, Androgen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011965">Receptors, Glucocorticoid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000819">agonists</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014157">Transcription Factors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014158">Transcription, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015533">Transcriptional Activation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014162">Transfection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014407">Tumor Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014439">Tyramine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000031">analogs &amp; derivatives</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>8</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18559523</ArticleId>
+<ArticleId IdType="pii">68/12/4763</ArticleId>
+<ArticleId IdType="doi">10.1158/0008-5472.CAN-07-6104</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

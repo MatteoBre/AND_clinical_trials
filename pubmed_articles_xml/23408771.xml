@@ -1,0 +1,843 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">23408771</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>02</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic-eCollection">
+<Journal>
+<ISSN IssnType="Print">1662-5161</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>7</Volume>
+<PubDate>
+<Year>2013</Year>
+</PubDate>
+</JournalIssue>
+<Title>Frontiers in human neuroscience</Title>
+<ISOAbbreviation>Front Hum Neurosci</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Mindfulness starts with the body: somatosensory attention and top-down modulation of cortical alpha rhythms in mindfulness meditation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>12</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3389/fnhum.2013.00012</ELocationID>
+<Abstract>
+<AbstractText>Using a common set of mindfulness exercises, mindfulness based stress reduction (MBSR) and mindfulness based cognitive therapy (MBCT) have been shown to reduce distress in chronic pain and decrease risk of depression relapse. These standardized mindfulness (ST-Mindfulness) practices predominantly require attending to breath and body sensations. Here, we offer a novel view of ST-Mindfulness's somatic focus as a form of training for optimizing attentional modulation of 7-14 Hz alpha rhythms that play a key role in filtering inputs to primary sensory neocortex and organizing the flow of sensory information in the brain. In support of the framework, we describe our previous finding that ST-Mindfulness enhanced attentional regulation of alpha in primary somatosensory cortex (SI). The framework allows us to make several predictions. In chronic pain, we predict somatic attention in ST-Mindfulness "de-biases" alpha in SI, freeing up pain-focused attentional resources. In depression relapse, we predict ST-Mindfulness's somatic attention competes with internally focused rumination, as internally focused cognitive processes (including working memory) rely on alpha filtering of sensory input. Our computational model predicts ST-Mindfulness enhances top-down modulation of alpha by facilitating precise alterations in timing and efficacy of SI thalamocortical inputs. We conclude by considering how the framework aligns with Buddhist teachings that mindfulness starts with "mindfulness of the body." Translating this theory into neurophysiology, we hypothesize that with its somatic focus, mindfulness' top-down alpha rhythm modulation in SI enhances gain control which, in turn, sensitizes practitioners to better detect and regulate when the mind wanders from its somatic focus. This enhanced regulation of somatic mind-wandering may be an important early stage of mindfulness training that leads to enhanced cognitive regulation and metacognition.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kerr</LastName>
+<ForeName>Catherine E</ForeName>
+<Initials>CE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Family Medicine, Brown University Providence, RI, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sacchet</LastName>
+<ForeName>Matthew D</ForeName>
+<Initials>MD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lazar</LastName>
+<ForeName>Sara W</ForeName>
+<Initials>SW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moore</LastName>
+<ForeName>Christopher I</ForeName>
+<Initials>CI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jones</LastName>
+<ForeName>Stephanie R</ForeName>
+<Initials>SR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>T32 GM007484</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K25 MH072941</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P41 RR014075</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 AT004095</GrantID>
+<Acronym>AT</Acronym>
+<Agency>NCCIH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 NS045130</GrantID>
+<Acronym>NS</Acronym>
+<Agency>NINDS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K01 AT003459</GrantID>
+<Acronym>AT</Acronym>
+<Agency>NCCIH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R21 AT003425</GrantID>
+<Acronym>AT</Acronym>
+<Agency>NCCIH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AT006344</GrantID>
+<Acronym>AT</Acronym>
+<Agency>NCCIH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>02</Month>
+<Day>13</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Switzerland</Country>
+<MedlineTA>Front Hum Neurosci</MedlineTA>
+<NlmUniqueID>101477954</NlmUniqueID>
+<ISSNLinking>1662-5161</ISSNLinking>
+</MedlineJournalInfo>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">alpha rhythm</Keyword>
+<Keyword MajorTopicYN="N">attention</Keyword>
+<Keyword MajorTopicYN="N">chronic pain</Keyword>
+<Keyword MajorTopicYN="N">depression relapse</Keyword>
+<Keyword MajorTopicYN="N">mindfulness meditation</Keyword>
+<Keyword MajorTopicYN="N">somatosensory cortex</Keyword>
+<Keyword MajorTopicYN="N">thalamocortical loop</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>03</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>01</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23408771</ArticleId>
+<ArticleId IdType="doi">10.3389/fnhum.2013.00012</ArticleId>
+<ArticleId IdType="pmc">PMC3570934</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Eur J Neurosci. 2010 May;31(9):1701-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20525083</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Explore (NY). 2009 Sep-Oct;5(5):265-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19733812</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Biol. 2009 Nov 17;19(21):1846-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19913428</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Behav Med. 2012 Dec;35(6):591-602</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22161025</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pers Soc Psychol. 2003 Apr;84(4):822-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12703651</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2011 Sep;106(9):1678-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21691341</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Med Psychol. 2001 Jun;74 Part 2:197-212</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11802836</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychother Psychosom. 2007;76(4):226-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17570961</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychol Bull. 2011 Nov;137(6):998-1028</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21895353</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Exp Psychol Gen. 2012 Feb;141(1):106-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21910559</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Soc Cogn Affect Neurosci. 2008 Mar;3(1):55-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19015095</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Consult Clin Psychol. 2002 Apr;70(2):275-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11952186</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscientist. 2005 Aug;11(4):357-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16061522</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Emotion. 2010 Feb;10(1):54-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20141302</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2012 Sep;62(3):1965-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22659486</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Hum Neurosci. 2010 Nov 04;4:186</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21119777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2007 Jan;25(2):603-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17284203</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Psychol. 2011 Jul 05;2:154</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21779269</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 2011 Jan;152(1):188-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21122991</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Brain Mapp. 2010 Jan;31(1):26-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19569072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1980 Feb 1;207(4430):532-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7352263</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain. 2010 Mar;11(3):199-209</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19853530</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2009 Dec;30(11):2224-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19930401</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Psychol. 2011 May 19;2:99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21779257</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurosci Lett. 1992 Sep 14;144(1-2):202-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1279485</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 2011 Apr 28;180:165-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21310216</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Psychol Rev. 2011 Aug;31(6):1032-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21802618</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Psychol Psychother. 2012 Sep;19(5):411-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21567655</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Conscious Cogn. 2013 Mar;22(1):348-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22889642</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Psychol Psychother. 2011 Jan-Feb;18(1):80-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21226129</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosom Med. 2002 Jan-Feb;64(1):71-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11818588</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroreport. 2010 Sep 15;21(13):861-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20647961</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cereb Cortex. 2002 Aug;12(8):877-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12122036</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cereb Cortex. 2008 Sep;18(9):2010-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18093905</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2008 Jun;41(2):596-604</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18420423</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(11):e50499</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23209761</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cereb Cortex. 2007 Jun;17(6):1412-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16908493</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Emotion. 2010 Feb;10(1):83-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20141305</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2011 Mar 30;31(13):4935-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21451032</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(9):e45370</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23049790</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cereb Cortex. 2008 Aug;18(8):1843-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18056698</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 2001;102(4):885-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11182250</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2011 Jul 6;31(27):9923-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21734284</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Annu Rev Psychol. 2011;62:73-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19575619</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2010 Sep;52(3):897-912</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20149881</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychol Bull. 2006 Mar;132(2):180-211</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16536641</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Consult Clin Psychol. 2004 Feb;72(1):31-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14756612</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2011 Feb 9;31(6):2016-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21307240</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Holist Nurs Pract. 2005 Mar-Apr;19(2):78-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15871591</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2007 Oct 3;27(40):10751-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17913909</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2011 May 17;108(20):8444-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21536865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Folia Psychiatr Neurol Jpn. 1966;20(4):315-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6013341</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Abnorm Psychol. 2000 Aug;109(3):504-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11016119</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Perspect Psychol Sci. 2011 Nov;6(6):537-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26168376</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Psychiatr Res. 2001 Jan-Feb;35(1):43-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11287055</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Brain Res. 2008 Jun;188(2):317-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18512052</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Psychol. 2006 Feb;62(2):201-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16342287</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cogn Affect Behav Neurosci. 2011 Sep;11(3):344-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21732031</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2010 May;31(10):1818-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20584186</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2010 Jun 23;30(25):8692-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20573914</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Consult Clin Psychol. 2000 Aug;68(4):615-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10965637</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 1979 Nov 2;176(2):273-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">40667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Cogn Sci. 2012 Apr;16(4):200-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22436764</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 2008 Feb;134(3):310-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17544212</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain. 2006 Oct;7(10):709-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17018331</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Brain Mapp. 2009 Feb;30(2):602-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18181154</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Affect Disord. 2006 Jul;93(1-3):149-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16647141</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cereb Cortex. 2009 Oct;19(10):2380-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19188274</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Hum Neurosci. 2012 Oct 25;6:296</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23112770</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Biol. 2007 Jun;5(6):e138</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17488185</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2006 Sep 13;26(37):9494-502</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16971533</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2000 Mar 15;20(6):RC63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10704517</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2010 Oct 13;30(41):13760-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20943916</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Depress Anxiety. 2010 Oct;27(10):891-932</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20830696</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Neurosci. 2001 Oct;24(10):595-601</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11576674</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2010 Sep 28;75(13):1141-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20876468</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurophysiol. 2009 Dec;102(6):3554-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19812290</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Q J Exp Psychol (Hove). 2012;65(3):565-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22136653</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res Bull. 2011 May 30;85(3-4):96-103</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21501665</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2012 Feb 8;32(6):1953-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22323708</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 1999 May;81(1-2):1-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10353487</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2011 Apr 6;31(14):5197-204</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21471354</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2008;3(12):e3990</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19098986</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Hum Neurosci. 2011 Feb 10;5:17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21347275</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Psychol. 2006 Mar;62(3):373-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16385481</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Emotion. 2010 Feb;10(1):25-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20141299</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 2004 Apr 22;42(2):253-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15091341</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain. 2008 Sep;9(9):841-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18550444</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Psychosom Res. 2004 Jul;57(1):35-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15256293</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosom Med. 2003 Jul-Aug;65(4):564-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12883106</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychiatr Serv. 2006 Mar;57(3):421</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16525012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Psychiatr Scand. 2011 Aug;124(2):102-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21534932</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 2002 Apr 25;34(3):437-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11988174</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Brain Mapp. 2007 Aug;28(8):785-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17266103</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuropsychopharmacology. 2012 Jan;37(1):117-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21976044</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Soc Cogn Affect Neurosci. 2007 Dec;2(4):313-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18985137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosom Med. 2000 Sep-Oct;62(5):613-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11020090</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cogn Affect Behav Neurosci. 2007 Jun;7(2):109-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17672382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2003 Sep;18(6):1692-700</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14511347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1999 Dec 21;96(26):15222-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10611366</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pain. 2011 Feb;152(2):361-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21146930</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2005 Jun;21(11):3133-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15978022</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2005 Jun;21(12):3395-402</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16026477</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Cogn Sci. 2008 Apr;12(4):163-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18329323</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2007 Feb 15;57(1):77-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17266067</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 2010 Dec;67(12):1256-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21135325</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Pain. 2010 Mar;14(3):282.e1-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19616460</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Electroencephalogr Clin Neurophysiol. 1973 Dec;35(6):627-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4128158</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res Cogn Brain Res. 2005 Sep;25(1):188-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15963702</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2010 Mar 24;30(12):4496-502</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20335486</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

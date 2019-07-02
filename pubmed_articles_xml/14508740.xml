@@ -1,0 +1,165 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">14508740</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>12</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>11</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1059-941X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>12</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2003</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of prosthodontics : official journal of the American College of Prosthodontists</Title>
+<ISOAbbreviation>J Prosthodont</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The effect of a denture adhesive on the colonization of Candida species in vivo.</ArticleTitle>
+<Pagination>
+<MedlinePgn>187-91</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The purpose of this study was to evaluate the effect of a single denture adhesive on oral quantities of Candida species in vivo by determination of absolute and proportional counts of Candida species on dentures and in saliva of individuals who used this denture adhesive for a period of 14 days.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Samples were collected from saliva and maxillary dentures of 12 patients who wore existing dentures without adhesives for 2 weeks, then wore dentures with adhesive (Poly Grip Free; Glaxo Smith Kline, U.K.) for 2 weeks. Periodically, maxillary dentures were sampled by adding saline to the intaglio surface, dispersing by sonication and removing aliquots for culturing. These aliquots and saliva were diluted and plated in duplicate on bismuth sulfite, glycerine, and glucose yeast agar (Biggy) for recovery of Candida and on trypticase soy agar for total viable counts (TVC) of the microbiota. After 72 hours of incubation at 37 degrees C in air with 10% CO(2), colony-forming units were enumerated. In each individual, absolute counts of Candida and TVC, and proportional counts of Candida relative to TVC were compared and statistically evaluated during the periods of no adhesive use (control) and adhesive use (test).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">There were no statistically significant differences between the test and control periods for recovery of total Candida or TVC in saliva or on dentures, or the percent of Candida relative to TVC in saliva or on dentures.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Within the limitations of this study, the data suggested that the denture adhesive tested did not significantly alter the denture microbiota during the 14-day trial period.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Eunghwan</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Baltimore College of Dental Surgery, University of Maryland, 666 West Baltimore Street, Baltimore, MD 21021, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Driscoll</LastName>
+<ForeName>Carl F</ForeName>
+<Initials>CF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Minah</LastName>
+<ForeName>Glenn E</ForeName>
+<Initials>GE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Prosthodont</MedlineTA>
+<NlmUniqueID>9301275</NlmUniqueID>
+<ISSNLinking>1059-941X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000269">Adhesives</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>D</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000269">Adhesives</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001419">Bacteria</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018441">Biofilms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002175">Candida</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000254">growth &amp; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015169">Colony Count, Microbial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003819">Denture Bases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003781">Denture Retention</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003827">Denture, Complete, Upper</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016555">Matched-Pair Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012463">Saliva</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018709">Statistics, Nonparametric</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013499">Surface Properties</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>9</Month>
+<Day>26</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>12</Month>
+<Day>13</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>9</Month>
+<Day>26</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14508740</ArticleId>
+<ArticleId IdType="doi">10.1016/S1059-941X(03)00050-0</ArticleId>
+<ArticleId IdType="pii">S1059941X03000500</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,241 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17196235</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>04</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0041-008X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>218</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Jan</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Toxicology and applied pharmacology</Title>
+<ISOAbbreviation>Toxicol. Appl. Pharmacol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Urinary arsenic profile affects the risk of urothelial carcinoma even at low arsenic exposure.</ArticleTitle>
+<Pagination>
+<MedlinePgn>99-106</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Arsenic exposure is associated with an increased risk of urothelial carcinoma (UC). To explore the association between individual risk and urinary arsenic profile in subjects without evident exposure, 177 UC cases and 313 age-matched controls were recruited between September 2002 and May 2004 for a case-control study. Urinary arsenic species including the following three categories, inorganic arsenic (As(III)+As(V)), monomethylarsonic acid (MMA(V)) and dimethylarsinic acid (DMA(V)), were determined with high-performance liquid chromatography-linked hydride generator and atomic absorption spectrometry. Arsenic methylation profile was assessed by percentages of various arsenic species in the sum of the three categories measured. The primary methylation index (PMI) was defined as the ratio between MMA(V) and inorganic arsenic. Secondary methylation index (SMI) was determined as the ratio between DMA(V) and MMA(V). Smoking is associated with a significant risk of UC in a dose-dependent manner. After multivariate adjustment, UC cases had a significantly higher sum of all the urinary species measured, higher percent MMA(V), lower percent DMA(V), higher PMI and lower SMI values compared with controls. Smoking interacts with the urinary arsenic profile in modifying the UC risk. Differential carcinogenic effects of the urinary arsenic profile, however, were seen more prominently in non-smokers than in smokers, suggesting that smoking is not the only major environmental source of arsenic contamination since the UC risk differs in non-smokers. Subjects who have an unfavorable urinary arsenic profile have an increased UC risk even at low exposure levels.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Pu</LastName>
+<ForeName>Yeong-Shiau</ForeName>
+<Initials>YS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Urology, National Taiwan University College of Medicine, Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Shu-Mei</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Yung-Kai</ForeName>
+<Initials>YK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chung</LastName>
+<ForeName>Chi-Jung</ForeName>
+<Initials>CJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Steven K</ForeName>
+<Initials>SK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chiu</LastName>
+<ForeName>Allen Wen-Hsiang</ForeName>
+<Initials>AW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Mo-Hsiung</ForeName>
+<Initials>MH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>Chien-Jen</ForeName>
+<Initials>CJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hsueh</LastName>
+<ForeName>Yu-Mei</ForeName>
+<Initials>YM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2006</Year>
+<Month>11</Month>
+<Day>10</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Toxicol Appl Pharmacol</MedlineTA>
+<NlmUniqueID>0416575</NlmUniqueID>
+<ISSNLinking>0041-008X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001152">Arsenicals</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011042">Poisons</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014874">Water Pollutants, Chemical</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>N712M78A8G</RegistryNumber>
+<NameOfSubstance UI="D001151">Arsenic</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000428">Alcohol Drinking</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001151">Arsenic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001152">Arsenicals</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008745">Methylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011042">Poisons</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012907">Smoking</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012959">Socioeconomic Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D013624">Taiwan</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001749">Urinary Bladder Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000139">chemically induced</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014874">Water Pollutants, Chemical</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2006</Year>
+<Month>07</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2006</Year>
+<Month>09</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2006</Year>
+<Month>09</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>1</Month>
+<Day>2</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>4</Month>
+<Day>11</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>1</Month>
+<Day>2</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17196235</ArticleId>
+<ArticleId IdType="pii">S0041-008X(06)00321-8</ArticleId>
+<ArticleId IdType="doi">10.1016/j.taap.2006.09.021</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

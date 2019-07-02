@@ -1,0 +1,456 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21108832</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>03</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1471-2458</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>10</Volume>
+<PubDate>
+<Year>2010</Year>
+<Month>Nov</Month>
+<Day>25</Day>
+</PubDate>
+</JournalIssue>
+<Title>BMC public health</Title>
+<ISOAbbreviation>BMC Public Health</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Association between smoking and chronic kidney disease: a case control study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>731</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2458-10-731</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The progression of chronic kidney disease (CKD) remains one of the main challenges in clinical nephrology. Therefore, identifying the pathophysiological mechanisms and the independent preventable risk factors helps in decreasing the number of patients suffering end stage renal disease and slowing its progression.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Smoking data was analyzed in patients with CKD throughout 2005-2009. One hundred and ninety-eight patients who had recently been diagnosed with stage three CKD or higher according to the National Kidney Foundation (NKF) 2002 Classification were studied. The control group was randomly selected and then matched with the case subjects using a computerized randomization technique. The relative risk was estimated by computing odds ratio (OR) by using multinomial logistic regression in SPSS ® for Windows between the two groups.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Smoking significantly increases the risk of CKD (OR = 1.6, p = 0.009, 95% CI = 1.12-2.29). When compared to nonsmokers, current smokers have an increased risk of having CKD (OR = 1.63 p = 0.02, 95% CI = 1.08-2.45), while former smokers did not have a statistically significant difference. The risk increased with high cumulative quantity (OR among smokers with &gt; 30 pack-years was 2.6, p = 0.00, 95% CI = 1.53-4.41). Smoking increased the risk of CKD the most for those classified as hypertensive nephropathy (OR = 2.85, p = 0.01, 95% CI = 1.27-6.39) and diabetic nephropathy (2.24, p = 0.005, 95% CI = 1.27-3.96). No statistically significant difference in risk was found for glomerulonephritis patients or any other causes.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This study suggests that heavy cigarette smoking increases the risk of CKD overall and particularly for CKD classified as hypertensive nephropathy and diabetic nephropathy.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Yacoub</LastName>
+<ForeName>Rabi</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Internal Medicine department, University at Buffalo, Grider Street, Buffalo, NY 14215, USA. Rabiyaco@buffalo.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Habib</LastName>
+<ForeName>Habib</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lahdo</LastName>
+<ForeName>Ayham</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Al Ali</LastName>
+<ForeName>Radwan</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Varjabedian</LastName>
+<ForeName>Leon</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Atalla</LastName>
+<ForeName>George</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kassis Akl</LastName>
+<ForeName>Nader</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aldakheel</LastName>
+<ForeName>Saleem</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alahdab</LastName>
+<ForeName>Saeed</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Albitar</LastName>
+<ForeName>Sami</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>25</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>BMC Public Health</MedlineTA>
+<NlmUniqueID>100968562</NlmUniqueID>
+<ISSNLinking>1471-2458</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003430">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003928">Diabetic Nephropathies</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006977">Hypertension, Renal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007676">Kidney Failure, Chronic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012907">Smoking</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>07</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>3</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21108832</ArticleId>
+<ArticleId IdType="pii">1471-2458-10-731</ArticleId>
+<ArticleId IdType="doi">10.1186/1471-2458-10-731</ArticleId>
+<ArticleId IdType="pmc">PMC3004836</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Diabetes Complications. 1994 Jul-Sep;8(3):150-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8086650</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2007 Jan;71(2):159-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17136030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 1994;9(8):1097-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7800207</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 1995 Mar 4;310(6979):560-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7888929</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 1994 Dec;5(6):1349-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7894001</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Annu Rev Physiol. 1995;57:263-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7778868</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1995 Jul;48(1):171-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7564074</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 1996 Jan;2(1):41-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8564837</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 1996 Jan;19(1):43-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8720532</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1997 Apr 23-30;277(16):1293-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9109467</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1997 Jun;51(6):1669-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9186854</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1997 Dec 17;278(23):2069-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9403420</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2000 May;57(5):2072-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10792626</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2000 Jun;57(6):2519-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10844621</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>QJM. 2001 Jan;94(1):19-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11161132</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2002 Feb;39(2 Suppl 1):S1-266</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11904577</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2004 Aug;15(8):2178-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15284303</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1969 Jun;70(6):1227</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5789511</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1971 May;74(5):697-702</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5559433</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1971 Nov;44(5):782-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5115069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol. 1974 Nov;227(5):1216-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4440764</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephron. 1978;20(3):167-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">628498</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Med Scand. 1984;215(1):63-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6695564</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Soc Exp Biol Med. 1985 Apr;178(4):585-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3983135</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 1986 Aug;29(8):500-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3758532</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br Med J (Clin Res Ed). 1987 Sep 5;295(6598):581-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3117242</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 1989 Apr;32(4):219-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2668076</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Intern Med. 1990 Aug;228(2):121-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2394962</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1990 Sep 22;336(8717):699-702</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1975890</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1991 Feb 6;265(5):614-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1987411</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 1991 May;17(5 Suppl 1):20-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2024668</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 1992 Apr;261(1):21-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1560368</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Clin Chem Clin Biochem. 1992 Mar;30(3):131-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1534692</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 1992 Oct;152(10):2082-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1417382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Q J Med. 1992 May;83(301):409-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1438676</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 1993 Mar;42(3):381-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8432408</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 1993 Jul;22(1):98-104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8322801</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Nephrol. 1993 Nov;40(5):249-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8281713</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 1994 Feb;17(2):126-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8137682</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 1994;9(4):372-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8084449</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1998 Sep;54(3):926-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9734618</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mayo Clin Proc. 1994 Dec;69(12):1154-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7967776</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

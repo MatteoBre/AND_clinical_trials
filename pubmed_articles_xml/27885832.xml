@@ -1,0 +1,186 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27885832</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1747-0803</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>12</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Congenital heart disease</Title>
+<ISOAbbreviation>Congenit Heart Dis</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Defining pediatric inpatient cardiology care delivery models: A survey of pediatric cardiology programs in the USA and Canada.</ArticleTitle>
+<Pagination>
+<MedlinePgn>294-300</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/chd.12438</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The treatment of children with cardiac disease is one of the most prevalent and costly pediatric inpatient conditions. The design of inpatient medical services for children admitted to and discharged from noncritical cardiology care units, however, is undefined. North American Pediatric Cardiology Programs were surveyed to define noncritical cardiac care unit models in current practice.</AbstractText>
+<AbstractText Label="METHOD" NlmCategory="METHODS">An online survey that explored institutional and functional domains for noncritical cardiac care unit was crafted. All questions were multi-choice with comment boxes for further explanation. The survey was distributed by email four times over a 5-month period.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Most programs (n = 45, 60%) exist in free-standing children's hospitals. Most programs cohort cardiac patients on noncritical cardiac care units that are restricted to cardiac patients in 39 (54%) programs or restricted to cardiac and other subspecialty patients in 23 (32%) programs. The most common frontline providers are categorical pediatric residents (n = 58, 81%) and nurse practitioners (n = 48, 67%). However, nurse practitioners are autonomous providers in only 21 (29%) programs. Only 33% of programs use a postoperative fast-track protocol. When transitioning care to referring physicians, most programs (n = 53, 72%) use facsimile to deliver pertinent patient information. Twenty-two programs (31%) use email to transition care, and eighteen (25%) programs use verbal communication.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Most programs exist in free-standing children's hospitals in which the noncritical cardiac care units are in some form restricted to cardiac patients. While nurse practitioners are used on most noncritical cardiac care units, they rarely function as autonomous providers. The majority of programs in this survey do not incorporate any postoperative fast-track protocols in their practice. Given the current era of focused handoffs within hospital systems, relatively few programs utilize verbal handoffs to the referring pediatric cardiologist/pediatrician.</AbstractText>
+<CopyrightInformation>© 2016 Wiley Periodicals, Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mott</LastName>
+<ForeName>Antonio R</ForeName>
+<Initials>AR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Baylor College of Medicine, Lille Frank Abercrombie Section of Cardiology, Texas Children's Hospital, Houston, Texas, 77030, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Neish</LastName>
+<ForeName>Steven R</ForeName>
+<Initials>SR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, The Children's Heart Network, University of Texas Health Science Center - San Antonio, San Antonio, Texas, 78229, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Challman</LastName>
+<ForeName>Melissa</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiovascular Clinical Research Core, Baylor College of Medicine, Texas Children's Hospital, Houston, Texas, 77030, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feltes</LastName>
+<ForeName>Timothy F</ForeName>
+<Initials>TF</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Pediatric Cardiology, Nationwide Children's Hospital, Department of Pediatrics, The Ohio State University, Columbus, Ohio, 43205, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>25</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Congenit Heart Dis</MedlineTA>
+<NlmUniqueID>101256510</NlmUniqueID>
+<ISSNLinking>1747-079X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002170">Canada</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002309">Cardiology</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000458">organization &amp; administration</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003695">Delivery of Health Care</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000458">organization &amp; administration</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006331">Heart Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006776">Hospitals, Pediatric</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007297">Inpatients</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015397">Program Evaluation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011795">Surveys and Questionnaires</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">inpatient cardiology</Keyword>
+<Keyword MajorTopicYN="N">pediatric cardiology</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2016</Year>
+<Month>08</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>09</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>11</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27885832</ArticleId>
+<ArticleId IdType="doi">10.1111/chd.12438</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

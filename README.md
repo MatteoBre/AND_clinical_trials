@@ -16,3 +16,11 @@ After downloading this .zip archive, you have to extract its content in the fold
 You should then have an hierarchy like "AllPublicXML -> NTC0000xxx -> NCT00000102.xml".
 
 After doing that you can execute the .ipynb file using jupyter notebook (available in the Anaconda distribution).
+
+## Components
+
+dataframe_creator is responsible for the creation of the csv that will be used with the classifier.
+
+model_maker creates the model of the classifier, trains it and saves it in the folder "models".
+
+download_pubmed_files_by_pmid is used to download all the pubmed files and store them in a folder called pubmed_articles_xml.

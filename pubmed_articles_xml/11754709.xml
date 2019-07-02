@@ -1,0 +1,263 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11754709</PMID>
+<DateCompleted>
+<Year>2002</Year>
+<Month>01</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>07</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0098-7484</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>287</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2002</Year>
+<Month>Jan</Month>
+<Day>02</Day>
+</PubDate>
+</JournalIssue>
+<Title>JAMA</Title>
+<ISOAbbreviation>JAMA</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Acupuncture for the treatment of cocaine addiction: a randomized controlled trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>55-63</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">Auricular acupuncture is widely used to treat cocaine addiction in the United States and Europe. However, evidence from controlled studies regarding this treatment's effectiveness has been inconsistent.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the effectiveness of auricular acupuncture as a treatment for cocaine addiction.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">Randomized, controlled, single-blind clinical trial conducted from November 1996 to April 1999.</AbstractText>
+<AbstractText Label="SETTING" NlmCategory="METHODS">Six community-based clinics in the United States: 3 hospital-affiliated clinics and 3 methadone maintenance programs.</AbstractText>
+<AbstractText Label="PATIENTS" NlmCategory="METHODS">Six hundred twenty cocaine-dependent adult patients (mean age, 38.8 years; 69.2% men); 412 used cocaine only and 208 used both opiates and cocaine and were receiving methadone maintenance.</AbstractText>
+<AbstractText Label="INTERVENTION" NlmCategory="METHODS">Patients were randomly assigned to receive auricular acupuncture (n = 222), a needle-insertion control condition (n = 203), or a relaxation control condition (n = 195). Treatments were offered 5 times weekly for 8 weeks. Concurrent drug counseling was also offered to patients in all conditions.</AbstractText>
+<AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">Cocaine use during treatment and at the 3- and 6-month postrandomization follow-up based on urine toxicology screens; retention in treatment.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Intent-to-treat analysis of urine samples showed a significant overall reduction in cocaine use (odds ratio, 1.40; 95% confidence interval, 1.11-1.74; P =.002) but no differences by treatment condition (P =.90 for acupuncture vs both control conditions). There were also no differences between the conditions in treatment retention (44%-46% for the full 8 weeks). Counseling sessions in all 3 conditions were poorly attended.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Within the clinical context of this study, acupuncture was not more effective than a needle insertion or relaxation control in reducing cocaine use. Our study does not support the use of acupuncture as a stand-alone treatment for cocaine addiction or in contexts in which patients receive only minimal concurrent psychosocial treatment. Research will be needed to examine acupuncture's contribution to addiction treatment when provided in an ancillary role.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Margolin</LastName>
+<ForeName>Arthur</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Yale University School of Medicine, Substance Abuse Center, 34 Park St, New Haven, CT 06519, USA. arthur.margolin@yale.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kleber</LastName>
+<ForeName>Herbert D</ForeName>
+<Initials>HD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Avants</LastName>
+<ForeName>S Kelly</ForeName>
+<Initials>SK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Konefal</LastName>
+<ForeName>Janet</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gawin</LastName>
+<ForeName>Frank</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stark</LastName>
+<ForeName>Elena</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sorensen</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Midkiff</LastName>
+<ForeName>Eleanor</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wells</LastName>
+<ForeName>Elizabeth</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jackson</LastName>
+<ForeName>T Ron</ForeName>
+<Initials>TR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bullock</LastName>
+<ForeName>Milton</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Culliton</LastName>
+<ForeName>Patricia D</ForeName>
+<Initials>PD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boles</LastName>
+<ForeName>Sharon</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vaughan</LastName>
+<ForeName>Roger</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01-DA00277</GrantID>
+<Acronym>DA</Acronym>
+<Agency>NIDA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01-DAO8513</GrantID>
+<Acronym>DA</Acronym>
+<Agency>NIDA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>JAMA</MedlineTA>
+<NlmUniqueID>7501160</NlmUniqueID>
+<ISSNLinking>0098-7484</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>JAMA. 2002 Apr 10;287(14):1800; author reply 1801-2</RefSource>
+<PMID Version="1">11939850</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>JAMA. 2002 Apr 10;287(14):1800; author reply 1801-2</RefSource>
+<PMID Version="1">11939850</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>JAMA. 2002 Apr 10;287(14):1801; author reply 1801-2</RefSource>
+<PMID Version="1">11939854</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>JAMA. 2002 Apr 10;287(14):1800; author reply 1801-2</RefSource>
+<PMID Version="1">11939851</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>JAMA. 2002 Apr 10;287(14):1800; author reply 1801-2</RefSource>
+<PMID Version="1">11939851</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>JAMA. 2002 Apr 10;287(14):1801; author reply 1801-2</RefSource>
+<PMID Version="1">11939854</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>JAMA. 2002 Apr 10;287(14):1801; author reply 1801-2</RefSource>
+<PMID Version="1">11939853</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>JAMA. 2002 Apr 10;287(14):1800-1; author reply 1801-2</RefSource>
+<PMID Version="1">11939852</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>JAMA. 2002 Apr 10;287(14):1800-1; author reply 1801-2</RefSource>
+<PMID Version="1">11939852</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>JAMA. 2002 Apr 10;287(14):1801; author reply 1801-2</RefSource>
+<PMID Version="1">11939853</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020831">Acupuncture, Ear</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019970">Cocaine-Related Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012064">Relaxation Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016037">Single-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012944">Social Support</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015813">Substance Abuse Detection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016482">Urinalysis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>1</Month>
+<Day>12</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2002</Year>
+<Month>1</Month>
+<Day>19</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>1</Month>
+<Day>12</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11754709</ArticleId>
+<ArticleId IdType="pii">joc10649</ArticleId>
+<ArticleId IdType="doi">10.1001/jama.287.1.55</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

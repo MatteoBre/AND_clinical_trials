@@ -1,0 +1,566 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22808097</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>03</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1932-6203</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>7</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2012</Year>
+</PubDate>
+</JournalIssue>
+<Title>PloS one</Title>
+<ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Whole transcriptome RNA-Seq analysis of breast cancer recurrence risk using formalin-fixed paraffin-embedded tumor tissue.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e40092</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0040092</ELocationID>
+<Abstract>
+<AbstractText>RNA biomarkers discovered by RT-PCR-based gene expression profiling of archival formalin-fixed paraffin-embedded (FFPE) tissue form the basis for widely used clinical diagnostic tests; however, RT-PCR is practically constrained in the number of transcripts that can be interrogated. We have developed and optimized RNA-Seq library chemistry as well as bioinformatics and biostatistical methods for whole transcriptome profiling from FFPE tissue. The chemistry accommodates low RNA inputs and sample multiplexing. These methods both enable rediscovery of RNA biomarkers for disease recurrence risk that were previously identified by RT-PCR analysis of a cohort of 136 patients, and also identify a high percentage of recurrence risk markers that were previously discovered using DNA microarrays in a separate cohort of patients, evidence that this RNA-Seq technology has sufficient precision and sensitivity for biomarker discovery. More than two thousand RNAs are strongly associated with breast cancer recurrence risk in the 136 patient cohort (FDR &lt;10%). Many of these are intronic RNAs for which corresponding exons are not also associated with disease recurrence. A number of the RNAs associated with recurrence risk belong to novel RNA networks. It will be important to test the validity of these novel associations in whole transcriptome RNA-Seq screens of other breast cancer cohorts.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Sinicropi</LastName>
+<ForeName>Dominick</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Genomic Health Inc, Redwood City, California, United States of America.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Qu</LastName>
+<ForeName>Kunbin</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Collin</LastName>
+<ForeName>Francois</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crager</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Mei-Lan</ForeName>
+<Initials>ML</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pelham</LastName>
+<ForeName>Robert J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pho</LastName>
+<ForeName>Mylan</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dei Rossi</LastName>
+<ForeName>Andrew</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jeong</LastName>
+<ForeName>Jennie</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scott</LastName>
+<ForeName>Aaron</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ambannavar</LastName>
+<ForeName>Ranjana</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zheng</LastName>
+<ForeName>Christina</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mena</LastName>
+<ForeName>Raul</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Esteban</LastName>
+<ForeName>Jose</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stephans</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morlan</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baker</LastName>
+<ForeName>Joffre</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>07</Month>
+<Day>13</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>PLoS One</MedlineTA>
+<NlmUniqueID>101285081</NlmUniqueID>
+<ISSNLinking>1932-6203</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D021901">DNA, Intergenic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012334">RNA, Neoplasm</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1HG84L3525</RegistryNumber>
+<NameOfSubstance UI="D005557">Formaldehyde</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014408">Biomarkers, Tumor</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D021901">DNA, Intergenic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005557">Formaldehyde</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020869">Gene Expression Profiling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007438">Introns</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016612">Paraffin Embedding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012334">RNA, Neoplasm</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017423">Sequence Analysis, RNA</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016707">Tissue Fixation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>02</Month>
+<Day>28</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>05</Month>
+<Day>31</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>3</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22808097</ArticleId>
+<ArticleId IdType="doi">10.1371/journal.pone.0040092</ArticleId>
+<ArticleId IdType="pii">PONE-D-12-06247</ArticleId>
+<ArticleId IdType="pmc">PMC3396611</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Mol Carcinog. 1999 Jun;25(2):86-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10365909</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 1999 Apr 20;84(2):135-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10096244</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 Dec 30;351(27):2817-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15591335</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2005 Sep 2;309(5740):1527-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16141063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2005 Sep 2;309(5740):1529-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16141064</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2005 Oct 10;23(29):7265-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16145055</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2006 Aug 10;24(23):3726-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16720680</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2006;8(3):R25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16737553</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2007 Jun 29;129(7):1311-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17604720</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mol Diagn. 2007 Nov;9(5):612-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17916600</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Heart Lung Transplant. 2007 Dec;26(12):1255-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18096476</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Heart Lung Transplant. 2008 Mar;27(3):297-301</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18342752</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Methods. 2008 Jul;5(7):621-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18516045</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2008;10(4):R65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18662380</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Genet. 2009 Jan;10(1):57-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19015660</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2009 Jan 23;136(2):215-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19167326</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2009 Mar 12;458(7235):223-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19182780</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Biol. 2009;10(3):R25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19261174</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2009 Jul 14;106(28):11667-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19571010</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Genet. 2010 Jan;11(1):31-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19997069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stat Med. 2010 Jan 15;29(1):33-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19960511</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Bioinformatics. 2010;11:94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20167110</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Res. 2010 Jul;20(7):899-907</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20404130</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2010 Aug;38(14):4570-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20371516</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2010 Dec;95(12):5296-304</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20826580</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2011 Jan;39(Database issue):D146-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21112873</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Biol. 2010;8:149</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21176148</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Genet. 2011 Feb;12(2):87-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21191423</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2011 Feb 1;27(3):431-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21149340</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Methods. 2011 Jun;8(6):469-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21623353</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Biotechnol. 2011 Aug;29(8):742-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21804560</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2011 Aug 27;378(9793):771-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21802721</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2011 Sep 15;477(7364):295-300</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21874018</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Dev. 2011 Sep 15;25(18):1915-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21890647</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2011 Nov 1;29(31):4160-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21947828</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Clin Oncol. 2012 Jan;9(1):58-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21878891</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mol Diagn. 2000 May;2(2):84-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11272893</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2001 Sep 11;98(19):10869-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11553815</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pathol. 2001 Sep;195(1):66-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11568892</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2002 Jan 31;415(6871):530-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11823860</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2002 Dec 19;347(25):1999-2009</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12490681</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Res. 2003 Nov;13(11):2498-504</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14597658</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 2004 Jan;164(1):35-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14695316</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2004 Jan 23;116(2):281-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14744438</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2004 Sep 4-10;364(9437):858-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15351193</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg. 1978 Sep;188(3):372-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">686899</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1989 Feb 23;320(8):479-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2644532</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1998 Dec 8;95(25):14863-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9843981</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2005 Jan 1;33(Database issue):D428-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15608231</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

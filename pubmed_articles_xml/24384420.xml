@@ -1,0 +1,205 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24384420</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>06</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">2542-5641</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>127</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Chinese medical journal</Title>
+<ISOAbbreviation>Chin. Med. J.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Heliox as a driving gas to atomize inhaled drugs on acute exacerbation of chronic obstructive pulmonary disease: a prospective clinical study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>29-35</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) is a common condition, which affects not only the quality of life of patients but also their prognosis. The purpose of this study was to explore the effects of an inhaled salbutamol sulfate solution and an inhalation suspension of the glucocorticoid budesonide that were atomized with heliox to treat patients with AECOPD.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Twenty-three patients with AECOPD were divided into a treatment group (He/O2 = 70%/30%) and a control group (N2/O2 = 70%/30%). The salbutamol sulfate and budesonide were administered by inhalation twice a day for 7 days. Vital signs, arterial blood gas levels, pulmonary function and the levels of serum myostatin (sMSTN) were measured and lung vibration imaging was performed.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">We found that the PaO2 and PaCO2 values were not significantly different between the two groups at the various time points (P &gt; 0.05). There were also no significant differences in any of the parameters of pulmonary function between the two groups. However, after baseline correction, the increase rate of the forced expiratory volume in one second (FEV1), the forced vital capacity (FVC), and the maximum minute ventilation (MVV) appeared to be significantly increased at some time points compared with the baseline (before treatment) in both groups (P &lt; 0.05). Although the values of quantitative lung distribution (QLD) for different regions and the levels of sMSTN were slightly different between the two groups, the repeated measures analysis of variance (ANOVA) revealed that there were no significant differences between the two groups or within any group (P &gt; 0.05).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Although the use of heliox as a driving gas can improve symptoms and benefit patients with AECOPD, the heliox treatment group did not have significant differences in arterial blood gases, lung function, lung vibration response imaging or the levels of sMSTN compared with the control group. (Chinese Clinical Trial Register Center ChiCTRTRC-00000273).</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Xiao</LastName>
+<ForeName>Yongjiu</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Respiratory Medicine, Chinese People's Liberation Army General Hospital, Beijing 100853, China; Department of Respiratory Medicine, Lanzhou General Hospital of Lanzhou Military Area Command of Chinese People's Liberation Army, Lanzhou, Gansu 730050, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Su</LastName>
+<ForeName>Longxiang</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Medical College of Nankai University, Tianjin 300071, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Han</LastName>
+<ForeName>Bingchao</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Respiratory Medicine, Bethune International Peace Hospital, Shijiazhuang, Hebei 050082, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Xin</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Respiratory Medicine, Chinese People's Liberation Army General Hospital, Beijing 100853, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xie</LastName>
+<ForeName>Lixin</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Respiratory Medicine, Chinese People's Liberation Army General Hospital, Beijing 100853, China. Email: xielx@263.net.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ChiCTR</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>TRC-00000273</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>China</Country>
+<MedlineTA>Chin Med J (Engl)</MedlineTA>
+<NlmUniqueID>7513795</NlmUniqueID>
+<ISSNLinking>0366-6999</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>206GF3GB41</RegistryNumber>
+<NameOfSubstance UI="D006371">Helium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>51333-22-3</RegistryNumber>
+<NameOfSubstance UI="D019819">Budesonide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>58933-55-4</RegistryNumber>
+<NameOfSubstance UI="C038949">heliox</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>QF8SVZ843E</RegistryNumber>
+<NameOfSubstance UI="D000420">Albuterol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>S88TT14065</RegistryNumber>
+<NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<SupplMeshList>
+<SupplMeshName Type="Disease" UI="C564641">Pulmonary Disease, Chronic Obstructive, Severe Early-Onset</SupplMeshName>
+</SupplMeshList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000280">Administration, Inhalation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000420">Albuterol</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019819">Budesonide</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004347">Drug Interactions</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006371">Helium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010100">Oxygen</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D029424">Pulmonary Disease, Chronic Obstructive</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>6</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24384420</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

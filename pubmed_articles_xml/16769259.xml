@@ -1,0 +1,156 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16769259</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>12</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1570-0232</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>842</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Oct</Month>
+<Day>02</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of chromatography. B, Analytical technologies in the biomedical and life sciences</Title>
+<ISOAbbreviation>J. Chromatogr. B Analyt. Technol. Biomed. Life Sci.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Determination of constituents of Telazol--tiletamine and zolazepam by a gas chromatography/mass spectrometry-based method.</ArticleTitle>
+<Pagination>
+<MedlinePgn>131-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Tiletamine and zolazepam injection (Telazol) is used in veterinary surgical practice to induce short-term anesthesia and also to immobilize wild animals. The present work describes a sensitive method to measure tiletamine and zolazepam concentrations in plasma by means of GC/EI-MS on a 5% phenyl/95% methylpolysiloxane column. A simple liquid extraction procedure with ethyl acetate was used to isolate the two compounds and the same were separated and analyzed by GC/MS without derivatization. A formal validation of the assay demonstrated good accuracy and precision for both tiletamine (98-100.8%; C.V.total &lt; 6.7%) and zolazepam (98.3-103.4; C.V.total &lt; 13.2%). With 500 microl of plasma, the limits of quantification for both tiletamine and zolazepam were found to be 10 ng/ml. Both compounds were stable after three freeze-thaw cycles. The assay was used to analyze plasma samples collected from a pig after intramuscular administration of 10 mg/kg of Telazol. The plasma concentration-time profile of tiletamine and zolazepam from this representative pig is also provided.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kumar</LastName>
+<ForeName>Atul</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Experimental and Clinical Pharmacology, College of Pharmacy, University of Minnesota, 308 Harvard St., SE, Minneapolis, MN 55414, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mann</LastName>
+<ForeName>Henry J</ForeName>
+<Initials>HJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Remmel</LastName>
+<ForeName>Rory P</ForeName>
+<Initials>RP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>J Chromatogr B Analyt Technol Biomed Life Sci</MedlineTA>
+<NlmUniqueID>101139554</NlmUniqueID>
+<ISSNLinking>1570-0232</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>2YFC543249</RegistryNumber>
+<NameOfSubstance UI="D013992">Tiletamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>G1R474U58U</RegistryNumber>
+<NameOfSubstance UI="D015041">Zolazepam</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008401">Gas Chromatography-Mass Spectrometry</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015394">Molecular Structure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013552">Swine</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013992">Tiletamine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015041">Zolazepam</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2006</Year>
+<Month>02</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2006</Year>
+<Month>05</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2006</Year>
+<Month>05</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>6</Month>
+<Day>14</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>6</Month>
+<Day>14</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16769259</ArticleId>
+<ArticleId IdType="pii">S1570-0232(06)00412-0</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jchromb.2006.05.014</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,309 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">14710195</PMID>
+<DateCompleted>
+<Year>2004</Year>
+<Month>11</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1469-221X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>5</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2004</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>EMBO reports</Title>
+<ISOAbbreviation>EMBO Rep.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Distinct molecular phenotypes in bovine prion diseases.</ArticleTitle>
+<Pagination>
+<MedlinePgn>110-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Bovine spongiform encephalopathy (BSE) in cattle, the most likely cause of variant Creutzfeldt-Jakob disease in humans, is thought to be caused by a unique infectious agent, with stable features, even when transmitted to other species. Here, we show the existence of an atypical molecular phenotype among cattle diagnosed with BSE in France. Following western blot analysis, three cases showed unusual features of the electrophoretic profiles of the protease-resistant prion protein (PrP(res)) accumulating in the brain. The PrP(res) patterns were similar in these three atypical cases, showing a higher molecular mass of unglycosylated PrP(res) and strong labelling by P4 monoclonal antibody compared to 55 typical BSE cases. This finding suggests either some phenotypic modifications of PrP(res) following infection by the BSE agent or the existence of alternative origins of such diseases in cattle.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Biacabe</LastName>
+<ForeName>Anne-Gaëlle</ForeName>
+<Initials>AG</Initials>
+<AffiliationInfo>
+<Affiliation>AFSSA-Lyon, Unité 'Virologie-ATNC', 31 Avenue Tony Garnier, 69364 Lyon Cedex 07, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Laplanche</LastName>
+<ForeName>Jean-Louis</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ryder</LastName>
+<ForeName>Stephen</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baron</LastName>
+<ForeName>Thierry</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>EMBO Rep</MedlineTA>
+<NlmUniqueID>100963049</NlmUniqueID>
+<ISSNLinking>1469-221X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018620">PrPSc Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011328">Prions</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000911">Antibodies, Monoclonal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002417">Cattle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016643">Encephalopathy, Bovine Spongiform</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006031">Glycosylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008970">Molecular Weight</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010641">Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018620">PrPSc Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011328">Prions</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000472">pathogenicity</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2003</Year>
+<Month>09</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2003</Year>
+<Month>11</Month>
+<Day>07</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2003</Year>
+<Month>11</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2004</Year>
+<Month>1</Month>
+<Day>8</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2004</Year>
+<Month>12</Month>
+<Day>16</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2004</Year>
+<Month>1</Month>
+<Day>8</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14710195</ArticleId>
+<ArticleId IdType="doi">10.1038/sj.embor.7400054</ArticleId>
+<ArticleId IdType="pii">7400054</ArticleId>
+<ArticleId IdType="pmc">PMC1298965</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Gen Virol. 1991 Jan;72 ( Pt 1):201-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1671225</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2003 Jun;126(Pt 6):1333-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12764055</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1997 Oct 2;389(6650):448-50, 526</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9333232</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1997 Oct 2;389(6650):498-501</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9333239</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Virol. 1998 Apr;79 ( Pt 4):937-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9568991</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurosci Lett. 1998 Oct 23;255(3):159-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9832197</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol Methods. 1998 Nov;75(2):169-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9870592</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Virol. 1999 Jan;80 ( Pt 1):1-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9934675</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Med. 1999 Jun;5(6):406-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10415165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res Bull. 1999 Aug;49(6):429-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10483920</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEMS Immunol Med Microbiol. 1999 Sep;25(4):379-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10497869</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Microbiol. 1999 Nov;37(11):3701-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10523578</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 1999 May;1(1):55-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10559865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1999 Dec 21;96(26):15137-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10611351</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Vet Rec. 2000 Jan 15;146(3):74-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10674695</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurosci Lett. 2000 Apr 28;284(3):175-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10773427</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2001 Jan;75(1):107-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11119579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuropathol Exp Neurol. 2002 May;61(5):377-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12025940</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Vet Rec. 2002 Jul 20;151(3):73-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12166421</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Neuropathol. 2002 Sep;104(3):279-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12172914</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO J. 2002 Dec 2;21(23):6358-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12456643</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1996 Oct 24;383(6602):685-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8878476</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

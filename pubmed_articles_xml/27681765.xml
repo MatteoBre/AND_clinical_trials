@@ -1,0 +1,493 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27681765</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>07</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-355X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>96</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>International journal of radiation oncology, biology, physics</Title>
+<ISOAbbreviation>Int. J. Radiat. Oncol. Biol. Phys.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Evaluation of Functional Marrow Irradiation Based on Skeletal Marrow Composition Obtained Using Dual-Energy Computed Tomography.</ArticleTitle>
+<Pagination>
+<MedlinePgn>679-87</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijrobp.2016.06.2459</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0360-3016(16)32834-6</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE">To develop an imaging method to characterize and map marrow composition in the entire skeletal system, and to simulate differential targeted marrow irradiation based on marrow composition.</AbstractText>
+<AbstractText Label="METHODS AND MATERIALS">Whole-body dual energy computed tomography (DECT) images of cadavers and leukemia patients were acquired, segmented to separate bone marrow components, namely, bone, red marrow (RM), and yellow marrow (YM). DECT-derived marrow fat fraction was validated using histology of lumbar vertebrae obtained from cadavers. The fractions of RM (RMF = RM/total marrow) and YMF were calculated in each skeletal region to assess the correlation of marrow composition with sites and ages. Treatment planning was simulated to target irradiation differentially at a higher dose (18 Gy) to either RM or YM and a lower dose (12 Gy) to the rest of the skeleton.</AbstractText>
+<AbstractText Label="RESULTS">A significant correlation between fat fractions obtained from DECT and cadaver histology samples was observed (r=0.861, P&lt;.0001, Pearson). The RMF decreased in the head, neck, and chest was significantly inversely correlated with age but did not show any significant age-related changes in the abdomen and pelvis regions. Conformity of radiation to targets (RM, YM) was significantly dependent on skeletal sites. The radiation exposure was significantly reduced (P&lt;.05, t test) to organs at risk (OARs) in RM and YM irradiation compared with standard total marrow irradiation (TMI).</AbstractText>
+<AbstractText Label="CONCLUSIONS">Whole-body DECT offers a new imaging technique to visualize and measure skeletal-wide marrow composition. The DECT-based treatment planning offers volumetric and site-specific precise radiation dosimetry of RM and YM, which varies with aging. Our proposed method could be used as a functional compartment of TMI for further targeted radiation to specific bone marrow environment, dose escalation, reduction of doses to OARs, or a combination of these factors.</AbstractText>
+<CopyrightInformation>Copyright © 2016 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Magome</LastName>
+<ForeName>Taiki</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiological Sciences, Faculty of Health Sciences, Komazawa University, Tokyo, Japan; Masonic Cancer Center, University of Minnesota, Minneapolis, Minnesota; Department of Radiology, The University of Tokyo Hospital, Tokyo, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Froelich</LastName>
+<ForeName>Jerry</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiology, University of Minnesota, Minneapolis, Minnesota.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Takahashi</LastName>
+<ForeName>Yutaka</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Masonic Cancer Center, University of Minnesota, Minneapolis, Minnesota; Department of Radiation Oncology, Osaka University, Osaka, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arentsen</LastName>
+<ForeName>Luke</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Therapeutic Radiology, University of Minnesota, Minneapolis, Minnesota.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holtan</LastName>
+<ForeName>Shernan</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Blood and Marrow Transplant Program, University of Minnesota, Minneapolis, Minnesota.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Verneris</LastName>
+<ForeName>Michael R</ForeName>
+<Initials>MR</Initials>
+<AffiliationInfo>
+<Affiliation>Blood and Marrow Transplant Program, University of Minnesota, Minneapolis, Minnesota.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Keenan</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Mindways Software Inc, Austin, Texas.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haga</LastName>
+<ForeName>Akihiro</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiology, The University of Tokyo Hospital, Tokyo, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nakagawa</LastName>
+<ForeName>Keiichi</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiology, The University of Tokyo Hospital, Tokyo, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holter Chakrabarty</LastName>
+<ForeName>Jennifer L</ForeName>
+<Initials>JL</Initials>
+<AffiliationInfo>
+<Affiliation>College of Medicine, Oklahoma Health Sciences Center, Oklahoma City, Oklahoma.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giebel</LastName>
+<ForeName>Sebastian</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Bone Marrow Transplantation, Comprehensive Cancer Center M. Curie-Sklodowska Memorial Institute, Gliwice, Poland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wong</LastName>
+<ForeName>Jeffrey</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, Beckman Research Institute, City of Hope, Duarte, California.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dusenbery</LastName>
+<ForeName>Kathryn</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Therapeutic Radiology, University of Minnesota, Minneapolis, Minnesota.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Storme</LastName>
+<ForeName>Guy</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiotherapy, Universitair Ziekenhuis Brussel, Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hui</LastName>
+<ForeName>Susanta K</ForeName>
+<Initials>SK</Initials>
+<AffiliationInfo>
+<Affiliation>Masonic Cancer Center, University of Minnesota, Minneapolis, Minnesota; Department of Therapeutic Radiology, University of Minnesota, Minneapolis, Minnesota; Department of Radiation Oncology, Beckman Research Institute, City of Hope, Duarte, California. Electronic address: shui@coh.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 CA154491</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>06</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Int J Radiat Oncol Biol Phys</MedlineTA>
+<NlmUniqueID>7603616</NlmUniqueID>
+<ISSNLinking>0360-3016</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001853">Bone Marrow</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002102">Cadaver</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004307">Dose-Response Relationship, Radiation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007938">Leukemia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015900">Radiography, Dual-Energy Scanned Projection</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011879">Radiotherapy Dosage</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061089">Radiotherapy, Image-Guided</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051598">Whole Body Imaging</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014916">Whole-Body Irradiation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<CoiStatement>Conflict-of-interest disclosure: KB is a stockholder and employee of Mindways Software.</CoiStatement>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>02</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2016</Year>
+<Month>06</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>06</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>7</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27681765</ArticleId>
+<ArticleId IdType="pmc">PMC5081224</ArticleId>
+<ArticleId IdType="pii">S0360-3016(16)32834-6</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ijrobp.2016.06.2459</ArticleId>
+<ArticleId IdType="mid">NIHMS801234</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Radiother Oncol. 2016 Jan;118(1):65-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26653357</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Radiol. 2005 May;54(2):289-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15837412</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2009 Jul 9;460(7252):259-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19516257</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Haematologica. 2011 Jul;96(7):1041-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21459792</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Altern Med Rev. 2002 Feb;7(1):4-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11896743</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiother Oncol. 2005 Oct;77(1):11-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16024116</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Anat. 2011 Nov;219(5):574-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21923862</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2015 Jun 25;125(26):4095-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25957389</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Commun. 2015 Aug 06;6:7808</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26245716</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2013 Jan 1;85(1):148-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22592050</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2012 Jul 15;83(4):1185-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22270171</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2011 Oct 1;81(2):592-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21345619</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Free Radic Biol Med. 2010 Jan 15;48(2):348-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19925862</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiother Oncol. 2011 Mar;98(3):382-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21339008</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bone. 2015 Mar;72:118-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25460181</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Oncol. 2007;46(2):250-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17453378</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Magn Reson Imaging. 2013 Dec;38(6):1578-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23450703</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncotarget. 2015 Dec 22;6(41):43992-4004</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26556857</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bone. 2015 Apr;73:90-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25536285</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Stem Cell. 2013 Sep 5;13(3):285-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23850243</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 1998 Aug 15;92(4):1455-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9694737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2007 Mar 15;67(4):1259-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17336225</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2011 Feb 10;29(5):591-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21220598</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comput Assist Tomogr. 1998 May-Jun;22(3):430-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9606386</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Radiol. 2006 Feb;16(2):256-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16341833</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Leuk Res. 2011 Mar;35(3):310-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20832860</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2013 Nov 15;87(4):832-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24011657</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2014 Sep 1;90(1):155-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25015207</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Phys. 2005 Oct;32(10):3214-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16279075</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2014 Feb 13;506(7487):240-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24429522</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiother Oncol. 2016 Jan;118(1):72-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26674924</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

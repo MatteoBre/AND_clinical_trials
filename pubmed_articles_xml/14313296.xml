@@ -1,0 +1,146 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">14313296</PMID>
+<DateCompleted>
+<Year>1996</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0022-3204</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>72</Volume>
+<PubDate>
+<Year>1965</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of obstetrics and gynaecology of the British Commonwealth</Title>
+<ISOAbbreviation>J Obstet Gynaecol Br Commonw</ISOAbbreviation>
+</Journal>
+<ArticleTitle>GONADOBLASTOMA ARISING FROM TESTICULAR DYSPLASIA IN AN INTERSEXUAL INDIVIDUAL.</ArticleTitle>
+<Pagination>
+<MedlinePgn>437-43</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>NAIDU</LastName>
+<ForeName>P N</ForeName>
+<Initials>PN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>RAMASWAMY</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>RAO</LastName>
+<ForeName>K S</ForeName>
+<Initials>KS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Obstet Gynaecol Br Commonw</MedlineTA>
+<NlmUniqueID>7512801</NlmUniqueID>
+<ISSNLinking>0022-3204</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004967">Estrogens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>OM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012734">Disorders of Sex Development</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004358">Drug Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004407">Dysgerminoma</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004967">Estrogens</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D018238">Gonadoblastoma</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010051">Ovarian Neoplasms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010336">Pathology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D013514">Surgical Procedures, Operative</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D013736">Testicular Neoplasms</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NLM">
+<Keyword MajorTopicYN="Y">ADOLESCENCE</Keyword>
+<Keyword MajorTopicYN="Y">DISGERMINOMA</Keyword>
+<Keyword MajorTopicYN="Y">DRUG THERAPY</Keyword>
+<Keyword MajorTopicYN="Y">ESTROGENS, THERAPEUTIC</Keyword>
+<Keyword MajorTopicYN="Y">HERMAPHRODITISM</Keyword>
+<Keyword MajorTopicYN="Y">PATHOLOGY</Keyword>
+<Keyword MajorTopicYN="Y">SURGERY, OPERATIVE</Keyword>
+<Keyword MajorTopicYN="Y">TESTICULAR NEOPLASMS</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1965</Year>
+<Month>6</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1965</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1965</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14313296</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

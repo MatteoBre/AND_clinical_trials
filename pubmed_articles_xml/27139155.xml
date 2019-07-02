@@ -1,0 +1,667 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27139155</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>04</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1473-1150</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>17</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>07</Month>
+</PubDate>
+</JournalIssue>
+<Title>The pharmacogenomics journal</Title>
+<ISOAbbreviation>Pharmacogenomics J.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Endothelin-1 genetic polymorphism as predictive marker for bevacizumab in metastatic breast cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>344-350</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/tpj.2016.25</ELocationID>
+<Abstract>
+<AbstractText>Biomarkers for bevacizumab efficacy in metastatic breast cancer (MBC) are of urgent need. The genetic variability of genes involved in angiogenesis could explain the interpatient variability of drug effects. For this biomarker study DNA was extracted from tumor blocks or blood samples of patients with human epidermal growth factor receptor 2 (HER2)-negative MBC treated with bevacizumab in combination with chemotherapy (bevacizumab cohort, 163 patients) or chemotherapy only (control cohort, 105 patients). We assessed the correlation of 10 single-nucleotide polymorphisms (SNPs) in genes modulating angiogenesis (vascular endothelial growth factor-A (VEGF-A), VEGF receptor 1 (VEGFR-1), serine threonine kinase 39 (STK39)) or hypertension (endothelin-1 and uromodulin) with outcome and toxicity. In the bevacizumab cohort, the SNP rs5370-TT in endothelin-1 (EDN1) showed a significantly shorter median overall survival (OS, 6.3 vs 21.3 months; hazard ratio (HR) 2.89, 95% confidence interval (CI) 1.34-6.26; log-rank P=0.0069) and a trend toward worse median progression-free survival (3.5 vs 7.9 months; HR 2.05, 95% CI 0.96-4.39; log-rank P=0.065) compared with the alternate genotypes combined. Similarly, patients harboring the VEGF-936 (rs3025039) TT alleles showed a significantly shorter median OS than patients with VEGF-936 CC or CT (14.9 vs 21.3 months; HR 2.37, 95% CI 1.09-5.13; P=0.0286). In multivariate analysis including important clinical parameters like disease-free survival (DFS), adjuvant chemotherapy, ECOG (Eastern Cooperative Oncology Group) performance score, histologic subtype, grade, hormone receptor status, visceral metastases and treatment line, only the association of rs5370 (EDN1) with OS was still statistically significant (P=0.012). In the control cohort, no association of the EDN1 genotype with outcome was seen, suggesting a predictive value for bevacizumab. In conclusion, the SNP rs5370 in endothelin-1 could help identifying patients who unlikely gain any benefit from bevacizumab.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gampenrieder</LastName>
+<ForeName>S P</ForeName>
+<Initials>SP</Initials>
+<AffiliationInfo>
+<Affiliation>IIIrd Medical Department with Hematology and Medical Oncology, Oncologic Center, Paracelsus Medical University Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Salzburg Cancer Research Institute with Laboratory of Immunological and Molecular Cancer Research and Center for Clinical Cancer and Immunology Trials, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Cluster Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hufnagl</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>IIIrd Medical Department with Hematology and Medical Oncology, Oncologic Center, Paracelsus Medical University Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Salzburg Cancer Research Institute with Laboratory of Immunological and Molecular Cancer Research and Center for Clinical Cancer and Immunology Trials, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Cluster Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brechelmacher</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>IIIrd Medical Department with Hematology and Medical Oncology, Oncologic Center, Paracelsus Medical University Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Salzburg Cancer Research Institute with Laboratory of Immunological and Molecular Cancer Research and Center for Clinical Cancer and Immunology Trials, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Cluster Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huemer</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>IIIrd Medical Department with Hematology and Medical Oncology, Oncologic Center, Paracelsus Medical University Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Salzburg Cancer Research Institute with Laboratory of Immunological and Molecular Cancer Research and Center for Clinical Cancer and Immunology Trials, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Cluster Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hackl</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+<Identifier Source="ORCID">0000-0003-4055-3841</Identifier>
+<AffiliationInfo>
+<Affiliation>Division of Bioinformatics, Biocenter, Medical University of Innsbruck, Innsbruck, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rinnerthaler</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>IIIrd Medical Department with Hematology and Medical Oncology, Oncologic Center, Paracelsus Medical University Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Salzburg Cancer Research Institute with Laboratory of Immunological and Molecular Cancer Research and Center for Clinical Cancer and Immunology Trials, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Cluster Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Romeder</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>IIIrd Medical Department with Hematology and Medical Oncology, Oncologic Center, Paracelsus Medical University Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Salzburg Cancer Research Institute with Laboratory of Immunological and Molecular Cancer Research and Center for Clinical Cancer and Immunology Trials, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Cluster Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Monzo Fuentes</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>IIIrd Medical Department with Hematology and Medical Oncology, Oncologic Center, Paracelsus Medical University Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Salzburg Cancer Research Institute with Laboratory of Immunological and Molecular Cancer Research and Center for Clinical Cancer and Immunology Trials, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Cluster Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morre</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>IIIrd Medical Department with Hematology and Medical Oncology, Oncologic Center, Paracelsus Medical University Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Salzburg Cancer Research Institute with Laboratory of Immunological and Molecular Cancer Research and Center for Clinical Cancer and Immunology Trials, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Cluster Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hauser-Kronberger</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pathology, Paracelsus Medical University Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mlineritsch</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>IIIrd Medical Department with Hematology and Medical Oncology, Oncologic Center, Paracelsus Medical University Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Salzburg Cancer Research Institute with Laboratory of Immunological and Molecular Cancer Research and Center for Clinical Cancer and Immunology Trials, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Cluster Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Greil</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>IIIrd Medical Department with Hematology and Medical Oncology, Oncologic Center, Paracelsus Medical University Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Salzburg Cancer Research Institute with Laboratory of Immunological and Molecular Cancer Research and Center for Clinical Cancer and Immunology Trials, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Cluster Salzburg, Salzburg, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>05</Month>
+<Day>03</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pharmacogenomics J</MedlineTA>
+<NlmUniqueID>101083949</NlmUniqueID>
+<ISSNLinking>1470-269X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D020533">Angiogenesis Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D061067">Antibodies, Monoclonal, Humanized</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000074322">Antineoplastic Agents, Immunological</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019332">Endothelin-1</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>2S9ZZM9Q9V</RegistryNumber>
+<NameOfSubstance UI="D000068258">Bevacizumab</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.10.1</RegistryNumber>
+<NameOfSubstance UI="D018719">Receptor, ErbB-2</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.10.1</RegistryNumber>
+<NameOfSubstance UI="D040281">Vascular Endothelial Growth Factor Receptor-1</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020533">Angiogenesis Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061067">Antibodies, Monoclonal, Humanized</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000074322">Antineoplastic Agents, Immunological</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000068258">Bevacizumab</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014408">Biomarkers, Tumor</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018572">Disease-Free Survival</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019332">Endothelin-1</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009389">Neovascularization, Pathologic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018719">Receptor, ErbB-2</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D042461">Vascular Endothelial Growth Factor A</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D040281">Vascular Endothelial Growth Factor Receptor-1</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>09</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2016</Year>
+<Month>02</Month>
+<Day>03</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>02</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2018</Year>
+<Month>4</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27139155</ArticleId>
+<ArticleId IdType="pii">tpj201625</ArticleId>
+<ArticleId IdType="doi">10.1038/tpj.2016.25</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Hypertension. 2007 Dec;50(6):1120-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17938376</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2011 Mar 1;17(5):1200-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21239504</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2010 Jul 10;28(20):3239-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20498403</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2011 Jan;20(1):33-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21119072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2003 Oct;14(10):2596-602</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14514737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Colorectal Dis. 2011 Feb;26(2):143-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21188390</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncologist. 2011;16(9):1325-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21807768</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Cancer. 2013 Apr;49(6):1374-403</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23485231</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2013 Nov;24(11):2773-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23894038</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Cancer. 2011 Jun 14;11:247</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21669012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiol. 2012 Jan 26;154(2):122-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20889219</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Oncol. 2012;2012:417673</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23008712</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Vasc Pharmacol. 2014 Mar;12(2):202-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24568156</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2012 Jul;13(7):724-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22608783</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Chemother Pharmacol. 2011 Nov;68(5):1207-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21409384</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2012 Apr;132(2):747-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22200867</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2010 May 1;28(13):2137-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20368558</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Cancer. 2013 Mar 19;108(5):1052-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23422754</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2006 Apr;96(3):209-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16505966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2008 Oct 1;26(28):4672-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18824714</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2009 Feb;20(2):227-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18842611</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antioxid Redox Signal. 2014 Jan 1;20(1):135-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23458507</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Biol Rep. 2012 May;39(5):6213-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22209952</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Clin Pharmacol. 2011 Jun;71(6):921-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21204912</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncology. 2012;82(2):67-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22327795</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Pharmacol. 2011 May;163(2):220-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21232046</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Cancer. 2011 Feb 15;104(4):599-604</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21304526</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2008 Nov 15;14(22):7554-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19010874</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2013 May 10;31(14):1719-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23569311</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2007 Dec 27;357(26):2666-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18160686</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Immunogenet. 2004 Aug;31(4):167-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15265021</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncologist. 2013;18(3):273-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23485622</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2011 May;22(5):1147-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21048041</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2008 Sep;111(1):157-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17891484</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2012 Jul 11;(7):CD008941</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22786517</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2012 Jun 10;30(17):2119-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22565005</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anticancer Res. 2014 Jan;34(1):227-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24403467</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endothelium. 2008 Jul-Aug;15(4):203-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18663623</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2005 Jun 15;65(12):5015-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15958542</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2014 Oct 15;9(10):e109430</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25329796</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Oncol. 2014 Apr;31(4):905</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24596030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2011 Jan 15;17(2):372-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21224365</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 1991 Mar;22(3):378-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1900647</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2011 Nov 10;29(32):4286-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21990397</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2013 Sep;14(10):933-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23932548</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Biochem. 2010 Sep;43(13-14):1090-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20621078</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2003 Sep 10;106(4):468-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12845639</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2011 Apr 1;29(10):1252-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21383283</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Genet. 2010 Oct 28;6(10):e1001177</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21082022</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

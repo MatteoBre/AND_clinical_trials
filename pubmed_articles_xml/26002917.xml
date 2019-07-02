@@ -1,0 +1,661 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26002917</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>09</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>06</Month>
+<Day>10</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1477-9129</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>142</Volume>
+<Issue>13</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Jul</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Development (Cambridge, England)</Title>
+<ISOAbbreviation>Development</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The matricellular protein CCN1 controls retinal angiogenesis by targeting VEGF, Src homology 2 domain phosphatase-1 and Notch signaling.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2364-74</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1242/dev.121913</ELocationID>
+<Abstract>
+<AbstractText>Physiological angiogenesis depends on the highly coordinated actions of multiple angiogenic regulators. CCN1 is a secreted cysteine-rich and integrin-binding matricellular protein required for proper cardiovascular development. However, our understanding of the cellular origins and activities of this molecule is incomplete. Here, we show that CCN1 is predominantly expressed in angiogenic endothelial cells (ECs) at the leading front of actively growing vessels in the mouse retina. Endothelial deletion of CCN1 in mice using a Cre-Lox system is associated with EC hyperplasia, loss of pericyte coverage and formation of dense retinal vascular networks lacking the normal hierarchical arrangement of arterioles, capillaries and venules. CCN1 is a product of an immediate-early gene that is transcriptionally induced in ECs in response to stimulation by vascular endothelial growth factor (VEGF). We found that CCN1 activity is integrated with VEGF receptor 2 (VEGF-R2) activation and downstream signaling pathways required for tubular network formation. CCN1-integrin binding increased the expression of and association between Src homology 2 domain-containing protein tyrosine phosphatase-1 (SHP-1) and VEGF-R2, which leads to rapid dephosphorylation of VEGF-R2 tyrosine, thus preventing EC hyperproliferation. Predictably, CCN1 further brings receptors/signaling molecules into proximity that are otherwise spatially separated. Furthermore, CCN1 induces integrin-dependent Notch activation in cultured ECs, and its targeted gene inactivation in vivo alters Notch-dependent vascular specification and remodeling, suggesting that functional levels of Notch signaling requires CCN1 activity. These data highlight novel functions of CCN1 as a naturally optimized molecule, fine-controlling key processes in physiological angiogenesis and safeguarding against aberrant angiogenic responses. </AbstractText>
+<CopyrightInformation>© 2015. Published by The Company of Biologists Ltd.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Chintala</LastName>
+<ForeName>Hemabindu</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>State University of New York (SUNY) Eye Institute and Department of Cell Biology, Downstate Medical Center, Brooklyn, NY 11203, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krupska</LastName>
+<ForeName>Izabela</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>State University of New York (SUNY) Eye Institute and Department of Cell Biology, Downstate Medical Center, Brooklyn, NY 11203, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yan</LastName>
+<ForeName>Lulu</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>State University of New York (SUNY) Eye Institute and Department of Cell Biology, Downstate Medical Center, Brooklyn, NY 11203, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lau</LastName>
+<ForeName>Lester</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biochemistry and Molecular Genetics, University of Illinois at Chicago College of Medicine, Chicago, IL 60607, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grant</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Ophthalmology and Cellular and Integrative Physiology, Indiana University School of Medicine, Indianapolis, IN 46202, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chaqour</LastName>
+<ForeName>Brahim</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>State University of New York (SUNY) Eye Institute and Department of Cell Biology, Downstate Medical Center, Brooklyn, NY 11203, USA Department of Ophthalmology, Downstate Medical Center, Brooklyn, NY 11203, USA bchaqour@downstate.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 AR061791</GrantID>
+<Acronym>AR</Acronym>
+<Agency>NIAMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 EY022091</GrantID>
+<Acronym>EY</Acronym>
+<Agency>NEI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 GM078492</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>EY022091</GrantID>
+<Acronym>EY</Acronym>
+<Agency>NEI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>05</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Development</MedlineTA>
+<NlmUniqueID>8701744</NlmUniqueID>
+<ISSNLinking>0950-1991</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D055515">Cysteine-Rich Protein 61</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C519665">DLL4 protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D047908">Intracellular Signaling Peptides and Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051880">Receptors, Notch</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.10.1</RegistryNumber>
+<NameOfSubstance UI="D040301">Vascular Endothelial Growth Factor Receptor-2</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.48</RegistryNumber>
+<NameOfSubstance UI="D053824">Protein Tyrosine Phosphatase, Non-Receptor Type 6</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.48</RegistryNumber>
+<NameOfSubstance UI="C509248">Ptpn6 protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.5.2</RegistryNumber>
+<NameOfSubstance UI="D020741">rho GTP-Binding Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002452">Cell Count</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002465">Cell Movement</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D048430">Cell Shape</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055515">Cysteine-Rich Protein 61</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000172">deficiency</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D042783">Endothelial Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020868">Gene Silencing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047908">Intracellular Signaling Peptides and Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020935">MAP Kinase Signaling System</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008565">Membrane Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D018919">Neovascularization, Physiologic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009928">Organ Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053824">Protein Tyrosine Phosphatase, Non-Receptor Type 6</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051880">Receptors, Notch</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012171">Retinal Vessels</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015398">Signal Transduction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D042461">Vascular Endothelial Growth Factor A</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D040301">Vascular Endothelial Growth Factor Receptor-2</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020741">rho GTP-Binding Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018909">src Homology Domains</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">CCN1</Keyword>
+<Keyword MajorTopicYN="N">Knockout mouse</Keyword>
+<Keyword MajorTopicYN="N">Matricellular</Keyword>
+<Keyword MajorTopicYN="N">Retinal angiogenesis</Keyword>
+<Keyword MajorTopicYN="N">VEGF</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>01</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>05</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26002917</ArticleId>
+<ArticleId IdType="pii">dev.121913</ArticleId>
+<ArticleId IdType="doi">10.1242/dev.121913</ArticleId>
+<ArticleId IdType="pmc">PMC4510592</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Endocrinology. 2001 Jun;142(6):2549-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11356704</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Mol Neurosci. 2009 Nov 06;2:24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19936315</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Histochem Cytochem. 2013 Feb;61(2):101-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23092791</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1999 Jan;21(1):70-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9916792</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO J. 2006 Feb 8;25(3):628-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16424904</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Metab. 2013 Nov 5;18(5):634-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23973331</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Development. 2013 Apr;140(8):1720-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23533173</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2013 May;33(10):2078-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23508104</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2003 Oct 30;425(6961):917-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14586460</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Mol Med. 2006 Apr;12(4):141-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16513423</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Microcirculation. 2011 Feb;18(2):136-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21166933</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Commun. 2015;6:6429</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25752958</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Invest Ophthalmol Vis Sci. 2006 Mar;47(3):1201-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16505059</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Res. 2011 Jul 8;109(2):172-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21474814</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2015 Jan 20;112(3):761-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25561555</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocrinology. 2008 Apr;149(4):1666-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18187544</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Ther. 2009 Dec;17(12):2010-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19738600</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ophthalmology. 2013 Jan;120(1):106-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23031671</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Res. 2008 May 23;102(10):1182-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18451337</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Biol. 2009 May 15;329(2):269-79</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19272373</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Commun. 2013;4:1672</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23575676</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Commun Signal. 2013 Dec;7(4):253-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23740088</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochemistry. 1994 Dec 27;33(51):15483-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7528537</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Cell. 2009 Oct;17(4):505-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19853564</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Mol Cell Biol. 2006 May;7(5):359-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16633338</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO Rep. 2011 Nov;12(11):1135-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21979816</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Biol Regul. 2012 Jan;52(1):7-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21982978</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Commun Signal. 2007 Jun;1(1):17-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18481207</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2011 Mar 18;286(11):9542-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21212276</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2007 Jun 19;104(25):10595-600</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17567755</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cold Spring Harb Perspect Med. 2012 Sep;2(9):a006452</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22951440</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int Rev Cell Mol Biol. 2011;288:101-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21482411</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Biochem Sci. 2008 Oct;33(10):461-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18789696</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Biochem. 2003 Aug;270(16):3408-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12899698</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Genomics. 2008 Dec 12;36(1):1-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18854370</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Cell. 2010 Jan 19;18(1):39-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20152176</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Res. 2006 Oct 27;99(9):961-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17023674</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Apr 5;484(7392):110-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22426001</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2002 Dec;22(24):8709-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12446788</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Vis. 2006;12:532-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16735995</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Res. 2007 Feb 16;100(3):372-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17234971</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2009 May 28;113(22):5680-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19144989</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2011;6(11):e27385</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22110636</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Dev Biol. 2013;7:59-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24748747</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Commun. 2014;5:3970</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24910328</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 1997 Jul;78(1):83-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9198133</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mol Signal. 2008 Mar 31;3:8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18377662</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Growth Differ. 1992 Sep;3(9):645-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1419914</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Endocrinol. 2003 Aug;178(2):169-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12904165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2004 Mar 19;279(12):11375-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14699166</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Cell. 2011 Apr 19;20(4):526-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21396893</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2013 Aug 9;288(32):23075-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23798676</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Sci. 2009 Jun 1;122(Pt 11):1812-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19435802</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Drug Discov. 2011 Dec;10(12):945-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22129992</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2011 Jul 22;286(29):25505-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21628462</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2014 Sep 2;111(35):12865-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25136137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2007 Feb 27;104(9):3219-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17296940</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2012 Nov 23;287(48):40570-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23048035</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2011 Oct;13(10):1202-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21909098</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

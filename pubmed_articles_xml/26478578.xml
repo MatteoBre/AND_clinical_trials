@@ -1,0 +1,261 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26478578</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>10</Month>
+<Day>31</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1741-203X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>International psychogeriatrics</Title>
+<ISOAbbreviation>Int Psychogeriatr</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Diagnostic accuracy of CERAD total score in a Colombian cohort with mild cognitive impairment and Alzheimer's disease affected by E280A mutation on presenilin-1 gene.</ArticleTitle>
+<Pagination>
+<MedlinePgn>503-10</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1017/S1041610215001660</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">This study aimed to determine Consortium to Establish a Registry for Alzheimer's Disease (CERAD) Neuropsychological Assessment Battery total score diagnostic accuracy in the diagnosis of mild cognitive impairment (MCI) and dementia in familial Alzheimer's disease (FAD) with E280A mutation on presenilin-1 gene (PSEN1).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A cross-sectional study was conducted in a cohort of PSEN1 E280A carriers and non-carriers assessed between January 1995 and February 2013. During the first neuropsychological assessment, 76 were having dementia, 46 had MCI, and 1,576 were asymptomatic. CERAD cut-off points were established for MCI and dementia using a Receiver Operating Characteristics (ROC) analysis, and were further analyzed according to education level in two groups: low education level (eight years or less), and high education level (over eight years).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The area under curve-ROC CERAD total score for dementia was 0.994 (95% CI = 0.989-0.999), and that for MCI was 0.862 (95% CI = 0.816-0.908). The dementia diagnosis cut-off point for the low education group was 54, (98.4% sensitivity, 92.6% specificity), and that for the high education group was 67 (100% sensitivity, 94.1% specificity). The MCI diagnosis cut-off point for the low education group was 66 (91.2% sensitivity, 56.4% specificity), and that for the high education group was 72 (91.7% sensitivity, 76.3% specificity).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The CERAD total score is a useful screening tool for dementia and MCI in a population at risk of FAD.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Aguirre-Acevedo</LastName>
+<ForeName>Daniel Camilo</ForeName>
+<Initials>DC</Initials>
+<AffiliationInfo>
+<Affiliation>Grupo de Neurociencias de Antioquia,Grupo Académico de Epidemiología Clínica,School of Medicine,Medical Research Institute,University of Antioquia,Medellín,Colombia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jaimes-Barragán</LastName>
+<ForeName>Fabian</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Grupo Académico de Epidemiología Clínica and Research Unit,Hospital Pablo Tobón Uribe,School of Medicine,University of Antioquia,Hospital Pablo Tobón Uribe,Medellín,Colombia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Henao</LastName>
+<ForeName>Eliana</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Grupo de Neurociencias de Antioquia,School of Medicine,University of Antioquia,Medellín,Colombia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tirado</LastName>
+<ForeName>Victoria</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Grupo de Neurociencias de Antioquia,School of Medicine,University of Antioquia,Medellín,Colombia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Muñoz</LastName>
+<ForeName>Claudia</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Grupo de Neurociencias de Antioquia,School of Medicine,University of Antioquia,Medellín,Colombia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Reiman</LastName>
+<ForeName>Eric M</ForeName>
+<Initials>EM</Initials>
+<AffiliationInfo>
+<Affiliation>Banner Alzheimer's Institute,Arizona,USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tariot</LastName>
+<ForeName>Pierre N</ForeName>
+<Initials>PN</Initials>
+<AffiliationInfo>
+<Affiliation>Banner Alzheimer's Institute,Arizona,USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Langbaum</LastName>
+<ForeName>Jessica B</ForeName>
+<Initials>JB</Initials>
+<AffiliationInfo>
+<Affiliation>Banner Alzheimer's Institute,Arizona,USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lopera</LastName>
+<ForeName>Francisco</ForeName>
+<Initials>F</Initials>
+<Identifier Source="ORCID">http://orcid.org/0000-0003-3986-1484</Identifier>
+<AffiliationInfo>
+<Affiliation>Grupo de Neurociencias de Antioquia,School of Medicine,University of Antioquia,Medellín,Colombia.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>19</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Int Psychogeriatr</MedlineTA>
+<NlmUniqueID>9007918</NlmUniqueID>
+<ISSNLinking>1041-6102</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005819">Genetic Markers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C508853">PSEN1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D053764">Presenilin-1</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000544">Alzheimer Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000647">Amnesia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019540">Area Under Curve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060825">Cognitive Dysfunction</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003105">Colombia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003430">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005819">Genetic Markers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009483">Neuropsychological Tests</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053764">Presenilin-1</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D021641">Recognition (Psychology)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012720">Severity of Illness Index</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Alzheimer's disease</Keyword>
+<Keyword MajorTopicYN="N">CERAD</Keyword>
+<Keyword MajorTopicYN="N">mild cognitive impairment</Keyword>
+<Keyword MajorTopicYN="N">sensitivity</Keyword>
+<Keyword MajorTopicYN="N">validity</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26478578</ArticleId>
+<ArticleId IdType="pii">S1041610215001660</ArticleId>
+<ArticleId IdType="doi">10.1017/S1041610215001660</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,242 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">4382063</PMID>
+<DateCompleted>
+<Year>1967</Year>
+<Month>09</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>05</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0027-8424</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>56</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1966</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+<ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The regulation of norepinephrine synthesis in sympathetic nerves: effect of nerve stimulation, cocaine, and catecholamine-releasing agents.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1491-6</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Alousi</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weiner</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+<NlmUniqueID>7505876</NlmUniqueID>
+<ISSNLinking>0027-8424</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006834">Hydrazines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>10028-17-8</RegistryNumber>
+<NameOfSubstance UI="D014316">Tritium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>42HK56048U</RegistryNumber>
+<NameOfSubstance UI="D014443">Tyrosine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8B1QWR724A</RegistryNumber>
+<NameOfSubstance UI="D012110">Reserpine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>I5Y540LHVR</RegistryNumber>
+<NameOfSubstance UI="D003042">Cocaine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>X4W3ENH1CV</RegistryNumber>
+<NameOfSubstance UI="D009638">Norepinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>X8ZC7V0OX3</RegistryNumber>
+<NameOfSubstance UI="D014439">Tyramine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003042">Cocaine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004558">Electric Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006168">Guinea Pigs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006834">Hydrazines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D066298">In Vitro Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009638">Norepinephrine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012110">Reserpine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013564">Sympathetic Nervous System</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014316">Tritium</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014439">Tyramine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014443">Tyrosine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1966</Year>
+<Month>11</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1966</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1966</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4382063</ArticleId>
+<ArticleId IdType="pmc">PMC220010</ArticleId>
+<ArticleId IdType="doi">10.1073/pnas.56.5.1491</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Pharmacol Rev. 1966 Mar;18(1):599-609</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5904172</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 1964 Sep;239:2910-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14216443</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Physiol Scand. 1955 Oct 27;34(2-3):169-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13282725</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 1957 Aug 29;138(1):81-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13463800</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 1954 Mar 29;123(3):451-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13152692</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Pharmacol. 1966 Mar;2(2):95-105</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5905666</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Pharmacol Chemother. 1957 Dec;12(4):422-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13489168</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 1962 Jun;162:54-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13898636</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Pharmacol Chemother. 1956 Dec;11(4):449-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13383126</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Physiol Scand. 1958 Dec 15;44(3-4):375-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13617030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pharmacol Rev. 1964 Jun;16:179-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14187744</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1963 Oct 18;142(3590):394-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14056708</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharmacol Exp Ther. 1962 Jul;137:56-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14005722</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

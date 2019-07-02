@@ -1,0 +1,196 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22871833</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>10</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1552-5783</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>53</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Aug</Month>
+<Day>27</Day>
+</PubDate>
+</JournalIssue>
+<Title>Investigative ophthalmology &amp; visual science</Title>
+<ISOAbbreviation>Invest. Ophthalmol. Vis. Sci.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Increased prostaglandin E2 (PGE2) levels in proliferative diabetic retinopathy, and correlation with VEGF and inflammatory cytokines.</ArticleTitle>
+<Pagination>
+<MedlinePgn>5906-11</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1167/iovs.12-10410</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">We determined vitreous levels of prostaglandin E2 (PGE(2)), VEGF, and 15 other cytokines in diabetic and nondiabetic patients undergoing vitrectomy.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Of 26 eyes of 26 patients enrolled consecutively, 13 eyes underwent vitrectomy for complications related to proliferative diabetic retinopathy, and the other 13 for epiretinal membrane, macular hole, vitreous opacities, or dislocated intraocular lens. Undiluted vitreous samples were taken at the time of surgery and frozen immediately at -80°C, and later analyzed for PGE(2), VEGF, and 15 other cytokines.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">PGE(2) levels were 53% higher in diabetic eyes. Mean ± standard deviation PGE(2) levels were 25.11 ± 11 pg/mL and 16.40 ± 7 pg/mL in diabetic and nondiabetic eyes, respectively (P &lt; 0.03). Mean ± standard deviation VEGF levels were 2225 ± 3798 pg/mL and 66 ± 185 pg/mL in diabetic and nondiabetic eyes, respectively (P &lt; 0.001). Other cytokines, including eotaxin-1, growth related oncogene (GRO), interleukin (IL)-6, IL-8, interferon-γ-inducible protein of 10 kDa (IP-10), monocyte chemoattractant protein-1 (MCP-1), tumor necrosis factor alpha (TNF-α), and platelet-derived growth factor-AA, also were elevated significantly in diabetic eyes. A significant correlation was seen between PGE(2) levels and IP-10 and VEGF (P = 0.04).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">PGE(2) levels are significantly higher in the vitreous of patients with complications from proliferative diabetic retinopathy, and correlate with IP-10 and VEGF. The results of our study suggest that PGE(2) may have a pathogenic role in diabetic retinopathy and implicates a potential therapeutic role for nonsteroidal anti-inflammatory drugs. (ClinicalTrials.gov number, NCT01609881.).</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Schoenberger</LastName>
+<ForeName>Scott D</ForeName>
+<Initials>SD</Initials>
+<AffiliationInfo>
+<Affiliation>Vanderbilt Eye Institute, Vanderbilt University Medical Center, Nashville, Tennessee 37232, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Stephen J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sheng</LastName>
+<ForeName>Jinsong</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rezaei</LastName>
+<ForeName>Kasra A</ForeName>
+<Initials>KA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lalezary</LastName>
+<ForeName>Maziar</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cherney</LastName>
+<ForeName>Edward</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT01609881</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>08</Month>
+<Day>27</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Invest Ophthalmol Vis Sci</MedlineTA>
+<NlmUniqueID>7703701</NlmUniqueID>
+<ISSNLinking>0146-0404</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>K7Q1JQR04M</RegistryNumber>
+<NameOfSubstance UI="D015232">Dinoprostone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016207">Cytokines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003930">Diabetic Retinopathy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015232">Dinoprostone</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D042461">Vascular Endothelial Growth Factor A</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014821">Vitrectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014822">Vitreous Body</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>10</Month>
+<Day>31</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22871833</ArticleId>
+<ArticleId IdType="pii">iovs.12-10410</ArticleId>
+<ArticleId IdType="doi">10.1167/iovs.12-10410</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

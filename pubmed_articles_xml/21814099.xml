@@ -1,0 +1,408 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21814099</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>10</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>08</Month>
+<Day>04</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1529-8809</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>71</Volume>
+<Issue>2 Suppl 3</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of trauma</Title>
+<ISOAbbreviation>J Trauma</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Increased platelet:RBC ratios are associated with improved survival after massive transfusion.</ArticleTitle>
+<Pagination>
+<MedlinePgn>S318-28</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/TA.0b013e318227edbb</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Several recent military and civilian trauma studies demonstrate that improved outcomes are associated with early and increased use of plasma-based resuscitation strategies. However, outcomes associated with platelet transfusions are poorly characterized. We hypothesized that increased platelet:red blood cells (RBC) ratios would decrease hemorrhagic death and improve survival after massive transfusion (MT).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A transfusion database of patients transported from the scene to 22 Level I Trauma Centers over 12 months in 2005 to 2006 was reviewed. MT was defined as receiving ≥ 10 RBC units within 24 hours of admission. To mitigate survival bias, 25 patients who died within 60 minutes of arrival were excluded from analysis. Six random donor platelet units were considered equal to a single apheresis platelet unit. Admission and outcome data associated with the low (&gt;1:20), medium (1:2), and high (1:1) platelet:RBC ratios were examined. These groups were based on the median value of the tertiles for the ratio of platelets:RBC units.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Two thousand three hundred twelve patients received at least one unit of blood and 643 received an MT. Admission vital signs, INR, temperature, pH, Glasgow Coma Scale, Injury Severity Score, and age were similar between platelet ratio groups. The average admission platelet counts were lower in the patients who received the high platelet:RBC ratio versus the low ratio (192 vs. 216, p = 0.03). Patients who received MT were severely injured, with a mean (± standard deviation) Injury Severity Score of 33 ± 16 and received 22 ± 15 RBCs and 11 ± 14 platelets within 24 hours of injury. Increased platelet ratios were associated with improved survival at 24 hours and 30 days (p &lt; 0.001 for both). Truncal hemorrhage as a cause of death was decreased (low: 67%, medium: 60%, high: 47%, p = 0.04). Multiple organ failure mortality was increased (low: 7%, medium: 16%, high: 27%, p = 0.003), but overall 30-day survival was improved (low: 52%, medium: 57%, high: 70%) in the high ratio group (medium vs. high: p = 0.008; low vs. high: p = 0.007).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Similar to recently published military data, transfusion of platelet:RBC ratios of 1:1 was associated with improved early and late survival, decreased hemorrhagic death and a concomitant increase in multiple organ failure-related mortality. Based on this large retrospective study, increased and early use of platelets may be justified, pending the results of prospective randomized transfusion data.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Holcomb</LastName>
+<ForeName>John B</ForeName>
+<Initials>JB</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Acute Care Surgery, Center for Translational Injury Research, University of Texas Health Sciences Center, Houston, Texas 77030, USA. john.holcomb@uth.tmc.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zarzabal</LastName>
+<ForeName>Lee A</ForeName>
+<Initials>LA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Michalek</LastName>
+<ForeName>Joel E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kozar</LastName>
+<ForeName>Rosemary A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spinella</LastName>
+<ForeName>Phillip C</ForeName>
+<Initials>PC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Perkins</LastName>
+<ForeName>Jeremy G</ForeName>
+<Initials>JG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matijevic</LastName>
+<ForeName>Nena</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dong</LastName>
+<ForeName>Jing-Fei</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pati</LastName>
+<ForeName>Shibani</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wade</LastName>
+<ForeName>Charles E</ForeName>
+<Initials>CE</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>Trauma Outcomes Group</CollectiveName>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holcomb</LastName>
+<ForeName>J B</ForeName>
+<Initials>JB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wade</LastName>
+<ForeName>C E</ForeName>
+<Initials>CE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cotton</LastName>
+<ForeName>B A</ForeName>
+<Initials>BA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kozar</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brasel</LastName>
+<ForeName>K J</ForeName>
+<Initials>KJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vercruysse</LastName>
+<ForeName>G A</ForeName>
+<Initials>GA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>MacLeod</LastName>
+<ForeName>J B</ForeName>
+<Initials>JB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dutton</LastName>
+<ForeName>R P</ForeName>
+<Initials>RP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hess</LastName>
+<ForeName>J R</ForeName>
+<Initials>JR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Duchesne</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McSwain</LastName>
+<ForeName>N E</ForeName>
+<Initials>NE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Muskat</LastName>
+<ForeName>P C</ForeName>
+<Initials>PC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johannigamn</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cryer</LastName>
+<ForeName>H M</ForeName>
+<Initials>HM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tillou</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cohen</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pittet</LastName>
+<ForeName>J F</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Knudson</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>DeMoya</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schreiber</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tieu</LastName>
+<ForeName>B H</ForeName>
+<Initials>BH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brundage</LastName>
+<ForeName>S I</ForeName>
+<Initials>SI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Napolitano</LastName>
+<ForeName>L M</ForeName>
+<Initials>LM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brunsvold</LastName>
+<ForeName>M E</ForeName>
+<Initials>ME</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sihler</LastName>
+<ForeName>K C</ForeName>
+<Initials>KC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beilman</LastName>
+<ForeName>G J</ForeName>
+<Initials>GJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peitzman</LastName>
+<ForeName>A B</ForeName>
+<Initials>AB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zenati</LastName>
+<ForeName>M S</ForeName>
+<Initials>MS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sperry</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alarcon</LastName>
+<ForeName>L H</ForeName>
+<Initials>LH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Croce</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Minei</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Steward</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cohn</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Michalek</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bulger</LastName>
+<ForeName>E M</ForeName>
+<Initials>EM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nunez</LastName>
+<ForeName>T C</ForeName>
+<Initials>TC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ivatury</LastName>
+<ForeName>R R</ForeName>
+<Initials>RR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meredith</LastName>
+<ForeName>J W</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miller</LastName>
+<ForeName>P R</ForeName>
+<Initials>PR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pomper</LastName>
+<ForeName>G J</ForeName>
+<Initials>GJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marin</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Trauma</MedlineTA>
+<NlmUniqueID>0376373</NlmUniqueID>
+<ISSNLinking>0022-5282</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D001803">Blood Transfusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004636">Emergency Service, Hospital</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004906">Erythrocyte Count</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006470">Hemorrhage</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010976">Platelet Count</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014947">Wounds and Injuries</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>8</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>9</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>10</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21814099</ArticleId>
+<ArticleId IdType="doi">10.1097/TA.0b013e318227edbb</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

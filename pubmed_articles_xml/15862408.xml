@@ -1,0 +1,212 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15862408</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>05</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0735-1097</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>45</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>May</Month>
+<Day>03</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American College of Cardiology</Title>
+<ISOAbbreviation>J. Am. Coll. Cardiol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The relation of dosing to clopidogrel responsiveness and the incidence of high post-treatment platelet aggregation in patients undergoing coronary stenting.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1392-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">We determined the effect of clopidogrel dosing on the incidence of nonresponsiveness (NR) and high post-treatment platelet aggregation (post-PA).</AbstractText>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">We have reported NR after a 300-mg loading dose. Limited information is available on the comparative effect of a 600-mg loading dose on the incidence of NR and high post-PA.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Clopidogrel responsiveness and post-PA were measured in patients undergoing stenting (n = 190) randomly treated with either a 300-mg or a 600-mg clopidogrel load. Nonresponsiveness was defined as &lt;10% absolute change in platelet aggregation, and high post-PA was defined as &gt;75th percentile aggregation after 300 mg clopidogrel.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Nonresponsiveness was lower after 600 mg compared to the 300-mg dose (8% vs. 28% and 8% vs. 32% with 5 and 20 microM ADP, respectively, p &lt; 0.001). Among the patients with high post-PA after 300 mg clopidogrel, 62% to 65% had NR, whereas after the 600-mg dose, all of the patients with high post-PA had NR.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A 600-mg clopidogrel loading dose reduces the incidence of NR and high post-PA as compared to a 300-mg dose. Higher dosing strategies and methods to confirm platelet inhibition should be further investigated in order to optimally use clopidogrel in patients undergoing stenting.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gurbel</LastName>
+<ForeName>Paul A</ForeName>
+<Initials>PA</Initials>
+<AffiliationInfo>
+<Affiliation>Sinai Center for Thrombosis Research, Baltimore, Maryland 21215, USA. pgurbel@lifebridgehealth.org</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bliden</LastName>
+<ForeName>Kevin P</ForeName>
+<Initials>KP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hayes</LastName>
+<ForeName>Kevin M</ForeName>
+<Initials>KM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yoho</LastName>
+<ForeName>Jason A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Herzog</LastName>
+<ForeName>William R</ForeName>
+<Initials>WR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tantry</LastName>
+<ForeName>Udaya S</ForeName>
+<Initials>US</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Am Coll Cardiol</MedlineTA>
+<NlmUniqueID>8301365</NlmUniqueID>
+<ISSNLinking>0735-1097</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010975">Platelet Aggregation Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>61D2G4IYVH</RegistryNumber>
+<NameOfSubstance UI="D000244">Adenosine Diphosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>A74586SNO7</RegistryNumber>
+<NameOfSubstance UI="D000077144">Clopidogrel</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>OM90ZUW7M1</RegistryNumber>
+<NameOfSubstance UI="D013988">Ticlopidine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000244">Adenosine Diphosphate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077144">Clopidogrel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D023921">Coronary Stenosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010974">Platelet Aggregation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010975">Platelet Aggregation Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011183">Postoperative Complications</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015607">Stents</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013988">Ticlopidine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2004</Year>
+<Month>11</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2004</Year>
+<Month>12</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2005</Year>
+<Month>01</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>5</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>5</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15862408</ArticleId>
+<ArticleId IdType="pii">S0735-1097(05)00370-0</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jacc.2005.01.030</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

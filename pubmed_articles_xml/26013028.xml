@@ -1,0 +1,353 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26013028</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>05</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1558-822X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>10</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Current hematologic malignancy reports</Title>
+<ISOAbbreviation>Curr Hematol Malig Rep</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Treating Burkitt Lymphoma in Adults.</ArticleTitle>
+<Pagination>
+<MedlinePgn>266-71</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s11899-015-0263-4</ELocationID>
+<Abstract>
+<AbstractText>Burkitt lymphoma is an uncommon form of aggressive lymphoma affecting approximately 1200 patients per year in the USA. It is characterized by a translocation involving the MYC oncogene. Three subtypes of Burkitt lymphoma are recognized: the endemic form, occurring primarily in Africa and associated with the Epstein-Barr virus (EBV); the sporadic form, representing less than 3 % of all non-Hodgkin lymphomas (NHL); and the immunodeficiency-associated form, occurring primarily in HIV-infected patients. Burkitt lymphoma appears histologically with a diffuse pattern of intermediate-sized monomorphic B cells, multiple nucleoli, a very high proliferative rate, and frequent mitotic figures. Recent advances in transcriptional profiling have improved the current molecular understanding of Burkitt lymphoma and have better characterized its mutational landscape. Most Burkitt lymphoma patients are cured with intensive treatment; however, prognosis is poor in elderly patients and those with relapsed disease. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Casulo</LastName>
+<ForeName>Carla</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Wilmot Cancer Institute, University of Rochester, Rochester, NY, USA, Carla_Casulo@URMC.Rochester.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Friedberg</LastName>
+<ForeName>Jonathan</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Curr Hematol Malig Rep</MedlineTA>
+<NlmUniqueID>101262565</NlmUniqueID>
+<ISSNLinking>1558-8211</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002051">Burkitt Lymphoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015897">Comorbidity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26013028</ArticleId>
+<ArticleId IdType="doi">10.1007/s11899-015-0263-4</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Nature. 2012 Oct 4;490(7418):116-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22885699</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 Sep 15;112(6):2248-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18612102</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pediatr. 1960 Apr;56:526-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14428045</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2014 Sep 20;32(27):3059-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25113753</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2002 Aug;13(8):1264-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12181251</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2006 Jan 1;107(1):265-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16150940</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2014 May 29;33(22):2928-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23792448</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 1995 Feb 1;85(3):664-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7833470</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Biol Ther. 2015;16(4):580-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25793663</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Afr Health Sci. 2007 Sep;7(3):166-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18052871</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1978 Aug 24;274(5673):756-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">210392</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2010 Apr 1;126(7):1732-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19810101</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2012 Dec;44(12):1316-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23143595</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 1999 Aug;17(8):2461-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10561310</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2013 Dec;24(12):3076-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24146219</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Epidemiol. 1989 Apr;129(4):740-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2923122</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 1996 Mar;14(3):925-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8622041</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2006 Jun 8;354(23):2419-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16760442</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2012 Jan;156(2):234-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22098541</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 1985 Sep;66(3):655-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4027383</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2012 Mar;156(6):744-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22260300</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2006 Apr 1;106(7):1569-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16502413</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Nov 14;369(20):1915-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24224624</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2011 Oct 4;108(40):16669-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21949397</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Leuk Lymphoma. 2006 Sep;47(9):1872-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17065000</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mod Pathol. 2002 Jul;15(7):771-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12118116</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1964 Mar 28;1(7335):702-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14107961</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2013 May 1;119(9):1660-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23361927</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2012 Dec;44(12):1321-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23143597</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Lymphoma Myeloma. 2009 Aug;9(4):307-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19717381</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 1996 Sep;14(9):2465-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8823324</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2006 Jun 8;354(23):2431-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16760443</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2004 Apr 1;100(7):1438-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15042678</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2011 Aug;22(8):1859-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21339382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2014 Apr;165(1):102-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24428673</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2006 Jun;133(6):634-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16704438</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Pathog. 2014 May 29;10(5):e1004170</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24874410</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

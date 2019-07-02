@@ -1,0 +1,125 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16529141</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>04</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>12</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0025-6196</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>81</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Mayo Clinic proceedings</Title>
+<ISOAbbreviation>Mayo Clin. Proc.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>B cells in health and disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>377-84</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>B cells play a key role in regulating the immune system by producing antibodies, acting as antigen-presenting cells, providing support to other mononuclear cells, and contributing directly to Inflammatory pathways. Accumulating evidence points to disruption of these tightly regulated processes in the pathogenesis of autoimmune disorders. Although the exact mechanisms involved remain to be elucidated, a fundamental feature of many autoimmune disorders is a loss of B-cell tolerance and the inappropriate production of autoantibodies. Dysfunctional immune responses resulting from genetic mutations that cause intrinsic B-cell abnormalities and induction of autoimmunity in the T-cell compartment by B cells that have broken tolerance may also contribute to these disorders. These findings provide the rationale for B-cell depletion as a potential therapeutic strategy in autoimmune disorders and other disease states characterized by inappropriate immune responses. Preliminary results with the CD20-targeted monoclonal antibody rituximab indicate that rituximab can improve symptoms in a number of autoimmune and neurologic disorders (including rheumatoid arthritis, systemic lupus erythematosus, and paraneoplastic neurologic syndromes). Additional studies are warranted to further characterize the role of B cells in autoimmune diseases and the therapeutic utility of B-cell depletion.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Carter</LastName>
+<ForeName>Robert H</ForeName>
+<Initials>RH</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Clinical Immunology and Rheumatology, Department of Medicine, University of Alabama at Birmingham, 409 LHRB, Birmingham, AL 35294-0007, USA. rcarter@uab.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Mayo Clin Proc</MedlineTA>
+<NlmUniqueID>0405543</NlmUniqueID>
+<ISSNLinking>0025-6196</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007155">Immunologic Factors</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001327">Autoimmune Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001402">B-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006304">Health Status</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007109">Immunity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007155">Immunologic Factors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>79</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>4</Month>
+<Day>12</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16529141</ArticleId>
+<ArticleId IdType="pii">S0025-6196(11)61466-3</ArticleId>
+<ArticleId IdType="doi">10.4065/81.3.377</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

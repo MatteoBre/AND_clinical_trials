@@ -1,0 +1,187 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19375844</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>04</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1873-7560</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>56</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>European urology</Title>
+<ISOAbbreviation>Eur. Urol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Testosterone and prostate cancer: revisiting old paradigms.</ArticleTitle>
+<Pagination>
+<MedlinePgn>48-56</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.eururo.2009.03.088</ELocationID>
+<Abstract>
+<AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">Androgens are vital for growth and maintenance of the prostate; however, the notion that pathologic prostate growth, benign or malignant, can be stimulated by androgens is a commonly held belief without scientific basis. Therefore, the current prostatic guidelines for testosterone therapy (TT) appear to be overly restrictive and should be reexamined.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To review the literature addressing the possible relationship between testosterone and prostate cancer (PCa) and to summarize the main aspects of this issue.</AbstractText>
+<AbstractText Label="EVIDENCE ACQUISITION" NlmCategory="METHODS">A Medline search was conducted to identify original articles, review articles, and editorials addressing the relationship between testosterone and the risk of PCa development, as well as the impact of TT on PCa development and its natural history in men believed to be cured by surgery or radiation.</AbstractText>
+<AbstractText Label="EVIDENCE SYNTHESIS" NlmCategory="RESULTS">Serum androgen levels, within a broad range, are not associated with PCa risk. Conversely, at time of PCa diagnosis, low rather than high serum testosterone levels have been found to be associated with advanced or high-grade disease. The available evidence indicates that TT neither increases the risk of PCa diagnosis nor affects the natural history of PCa in men who have undergone definitive treatment without residual disease. These findings can be explained with the saturation model (which states that prostatic homeostasis is maintained by a relatively low level of androgenic stimulation) and with the observation that exogenous testosterone administration does not significantly increase intraprostatic androgen levels in hypogonadal men. It must, however, be recognized that the literature remains limited regarding the effect of TT on PCa risk. Nonetheless, the current European Association of Urology guidelines state that in hypogonadal men who were successfully treated for PCa, TT can be considered after a prudent interval.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Although no controlled studies have yet been performed and there is a paucity of long-term data, the available literature strongly suggests that TT neither increases the risk of PCa diagnosis in normal men nor causes cancer recurrence in men who were successfully treated for PCa. Large prospective studies addressing the long-term effect of TT are needed to either refute or corroborate these hypotheses.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Isbarn</LastName>
+<ForeName>Hendrik</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Martiniclinic, Prostate Cancer Center Hamburg-Eppendorf, Hamburg, Germany. hendrikisbarn@gmail.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pinthus</LastName>
+<ForeName>Jehonathan H</ForeName>
+<Initials>JH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marks</LastName>
+<ForeName>Leonard S</ForeName>
+<Initials>LS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Montorsi</LastName>
+<ForeName>Francesco</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morales</LastName>
+<ForeName>Alvaro</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morgentaler</LastName>
+<ForeName>Abraham</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schulman</LastName>
+<ForeName>Claude</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>04</Month>
+<Day>08</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Switzerland</Country>
+<MedlineTA>Eur Urol</MedlineTA>
+<NlmUniqueID>7512719</NlmUniqueID>
+<ISSNLinking>0302-2838</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000728">Androgens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3XMK78S47O</RegistryNumber>
+<NameOfSubstance UI="D013739">Testosterone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Eur Urol. 2009 Nov;56(5):e23; author reply e24</RefSource>
+<PMID Version="1">19586711</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000728">Androgens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017410">Practice Guidelines as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013739">Testosterone</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>70</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2009</Year>
+<Month>03</Month>
+<Day>01</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2009</Year>
+<Month>03</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>4</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19375844</ArticleId>
+<ArticleId IdType="pii">S0302-2838(09)00349-2</ArticleId>
+<ArticleId IdType="doi">10.1016/j.eururo.2009.03.088</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

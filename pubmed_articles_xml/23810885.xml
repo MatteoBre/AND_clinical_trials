@@ -1,0 +1,589 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23810885</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1558-3597</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>62</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Sep</Month>
+<Day>10</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American College of Cardiology</Title>
+<ISOAbbreviation>J. Am. Coll. Cardiol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Post-traumatic stress disorder and incidence of coronary heart disease: a twin study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>970-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jacc.2013.04.085</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0735-1097(13)02506-0</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The aim of this study was to determine whether post-traumatic stress disorder (PTSD) is associated with coronary heart disease (CHD) using a prospective twin study design and objective measures of CHD.</AbstractText>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">It has long been hypothesized that PTSD increases the risk of CHD, but empirical evidence using objective measures is limited.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a prospective study of middle-aged male twins from the Vietnam Era Twin Registry. Among twin pairs without self-reported CHD at baseline, we selected pairs discordant for a lifetime history of PTSD, pairs discordant for a lifetime history of major depression, and pairs without either condition. All underwent a clinic visit after a median follow-up of 13 years. Outcomes included clinical events (myocardial infarction, other hospitalizations for CHD and coronary revascularization) and quantitative measures of myocardial perfusion by [(13)N] ammonia positron emission tomography, including a stress total severity score and coronary flow reserve.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 562 twins (281 pairs) with a mean age of 42.6 years at baseline were included in this study. The incidence of CHD was more than double in twins with PTSD (22.6%) than in those without PTSD (8.9%; p &lt; 0.001). The association remained robust after adjusting for lifestyle factors, other risk factors for CHD, and major depression (odds ratio: 2.2; 95% confidence interval: 1.2 to 4.1). Stress total severity score was significantly higher (+95%, p = 0.001) and coronary flow reserve was lower (-0.21, p = 0.02) in twins with PTSD than in those without PTSD, denoting worse myocardial perfusion. Associations were only mildly attenuated in 117 twin pairs discordant for PTSD.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Among Vietnam-era veterans, PTSD is a risk factor for CHD.</AbstractText>
+<CopyrightInformation>Copyright © 2013 American College of Cardiology Foundation. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Vaccarino</LastName>
+<ForeName>Viola</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Rollins School of Public Health, Emory University, Atlanta, Georgia, USA. viola.vaccarino@emory.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goldberg</LastName>
+<ForeName>Jack</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rooks</LastName>
+<ForeName>Cherie</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shah</LastName>
+<ForeName>Amit J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Veledar</LastName>
+<ForeName>Emir</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Faber</LastName>
+<ForeName>Tracy L</ForeName>
+<Initials>TL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Votaw</LastName>
+<ForeName>John R</ForeName>
+<Initials>JR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Forsberg</LastName>
+<ForeName>Christopher W</ForeName>
+<Initials>CW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bremner</LastName>
+<ForeName>J Douglas</ForeName>
+<Initials>JD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>MO1-RR00039</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1TR000454</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 HL077506</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL68630</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AG026255</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>M01 RR000039</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R21HL093665-01A1S1</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 TR000454</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL068630</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R21 HL093665</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24HL077506</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 MH076955</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+<PublicationType UI="D018486">Twin Study</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>06</Month>
+<Day>27</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Am Coll Cardiol</MedlineTA>
+<NlmUniqueID>8301365</NlmUniqueID>
+<ISSNLinking>0735-1097</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>J Am Coll Cardiol. 2013 Sep 10;62(11):979-80</RefSource>
+<PMID Version="1">23810873</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003324">Coronary Artery Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004200">Diseases in Twins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006306">Health Surveys</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055414">Myocardial Perfusion Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049268">Positron-Emission Tomography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012042">Registries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013313">Stress Disorders, Post-Traumatic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014427">Twins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014429">Twins, Dizygotic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014430">Twins, Monozygotic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014728">Veterans</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047829">Vietnam Conflict</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">CFR</Keyword>
+<Keyword MajorTopicYN="N">CHD</Keyword>
+<Keyword MajorTopicYN="N">CI</Keyword>
+<Keyword MajorTopicYN="N">DIS</Keyword>
+<Keyword MajorTopicYN="N">DSM-III-R</Keyword>
+<Keyword MajorTopicYN="N">Diagnostic Interview Schedule</Keyword>
+<Keyword MajorTopicYN="N">Diagnostic and Statistical Manual of Mental Disorders-Third Edition-Revised</Keyword>
+<Keyword MajorTopicYN="N">OR</Keyword>
+<Keyword MajorTopicYN="N">PET</Keyword>
+<Keyword MajorTopicYN="N">PTSD</Keyword>
+<Keyword MajorTopicYN="N">STSS</Keyword>
+<Keyword MajorTopicYN="N">cardiovascular diseases</Keyword>
+<Keyword MajorTopicYN="N">confidence interval</Keyword>
+<Keyword MajorTopicYN="N">coronary flow reserve</Keyword>
+<Keyword MajorTopicYN="N">coronary heart disease</Keyword>
+<Keyword MajorTopicYN="N">epidemiology</Keyword>
+<Keyword MajorTopicYN="N">odds ratio</Keyword>
+<Keyword MajorTopicYN="N">positron emission tomography</Keyword>
+<Keyword MajorTopicYN="N">post-traumatic stress disorder</Keyword>
+<Keyword MajorTopicYN="N">risk factors</Keyword>
+<Keyword MajorTopicYN="N">stress</Keyword>
+<Keyword MajorTopicYN="N">stress total severity score</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>03</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>04</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>7</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>7</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23810885</ArticleId>
+<ArticleId IdType="pii">S0735-1097(13)02506-0</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jacc.2013.04.085</ArticleId>
+<ArticleId IdType="pmc">PMC3823367</ArticleId>
+<ArticleId IdType="mid">NIHMS501646</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Psychosom Med. 2008 Jan;70(1):20-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17991816</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosom Med. 2007 Jun;69(5):435-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17556645</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosom Med. 2012 Feb-Mar;74(2):146-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22286843</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Epidemiol. 2006 May;16(5):381-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15994096</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Perspect Psychol Sci. 2010 Sep;5(5):546-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21593989</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1996 Aug 7;276(5):375-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8683815</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Health Psychol. 2009 Jan;28(1):125-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19210026</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2011 Mar 15;57(11):1271-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21392641</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Epidemiol. 2004 Oct;57(10):1096-103</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15528061</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 1999 Dec 15;84(12):1369-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10606106</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2009 Jul 7;54(2):150-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19573732</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 Jul 1;351(1):13-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15229303</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Psychiatry. 2006;6:19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16670009</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosom Med. 2009 Nov;71(9):1012-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19834051</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2002 Jan 10;346(2):108-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11784878</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2006 Aug 18;313(5789):979-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16917066</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1990 Mar 2;263(9):1227-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2304238</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Med. 2005 Jan;46(1):75-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15632037</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1987 Feb 13;257(6):790-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3027422</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiol Rev. 2013 Jan-Feb;21(1):16-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22717656</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2002 Oct 1;106(14):1800-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12356633</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosom Med. 2011 Jun;73(5):401-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21636658</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Psychosom Res. 2008 Jan;64(1):33-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18157997</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 1994 Jan;51(1):8-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8279933</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 2007 Jan;64(1):109-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17199060</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Epidemiol. 2010 Feb;20(2):143-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20123165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Epidemiol Community Health. 1982 Dec;36(4):269-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7166682</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosom Med. 1997 Nov-Dec;59(6):605-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9407579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2009 Aug 5;302(5):489-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19654382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1998 Feb 14;351(9101):478-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9482439</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Epidemiol. 2006 Apr;16(4):248-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16099672</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosom Med. 2008 Jul;70(6):668-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18596248</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nucl Cardiol. 2007 Jul;14(4):420-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17679051</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Epidemiol. 2005 Oct;34(5):1089-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16087687</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Intervent Radiol. 1987;10(6):374-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3123063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 1987 Nov;44(11):970-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3675137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychosomatics. 2002 May-Jun;43(3):195-205</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12075034</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Consult Clin Psychol. 1988 Feb;56(1):85-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3346454</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Epidemiol. 1993 Feb;46(2):181-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8437034</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Twin Res Hum Genet. 2013 Feb;16(1):429-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23177374</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Psychiatry. 2007 Jan;164(1):150-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17202557</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

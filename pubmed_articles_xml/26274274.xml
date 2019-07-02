@@ -1,0 +1,157 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">26274274</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>10</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>08</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1550-2376</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>92</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Physical review. E, Statistical, nonlinear, and soft matter physics</Title>
+<ISOAbbreviation>Phys Rev E Stat Nonlin Soft Matter Phys</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Acceleration of raindrop formation due to the tangling-clustering instability in a turbulent stratified atmosphere.</ArticleTitle>
+<Pagination>
+<MedlinePgn>013012</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Condensation of water vapor on active cloud condensation nuclei produces micron-size water droplets. To form rain, they must grow rapidly into at least 50- to 100-μm droplets. Observations show that this process takes only 15-20 min. The unexplained physical mechanism of such fast growth is crucial for understanding and modeling of rain and known as "condensation-coalescence bottleneck in rain formation." We show that the recently discovered phenomenon of the tangling clustering instability of small droplets in temperature-stratified turbulence [Phys. Fluids 25, 085104 (2013)] results in the formation of droplet clusters with drastically increased droplet number densities. The mechanism of the tangling clustering instability is much more effective than the previously considered by us the inertial clustering instability caused by the centrifugal effect of turbulent vortices. This is the reason of strong enhancement of the collision-coalescence rate inside the clusters. The mean-field theory of the droplet growth developed in this study can be useful for explanation of the observed fast growth of cloud droplets in warm clouds from the initial 1-μm-size droplets to 40- to 50-μm-size droplets within 15-20 min.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Elperin</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>The Pearlstone Center for Aeronautical Engineering Studies, Department of Mechanical Engineering, Ben-Gurion University of the Negev, P. O. Box 653, Beer-Sheva 84105, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kleeorin</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>The Pearlstone Center for Aeronautical Engineering Studies, Department of Mechanical Engineering, Ben-Gurion University of the Negev, P. O. Box 653, Beer-Sheva 84105, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krasovitov</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>The Pearlstone Center for Aeronautical Engineering Studies, Department of Mechanical Engineering, Ben-Gurion University of the Negev, P. O. Box 653, Beer-Sheva 84105, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kulmala</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Atmospheric Sciences, Department of Physics, P. O. Box 64, 00014 University of Helsinki, Finland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liberman</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Nordita, KTH Royal Institute of Technology and Stockholm University, Roslagstullsbacken 23, 10691 Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Moscow Institute of Physics and Technology, Dolgoprudnyi, 141700, Russia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rogachevskii</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>The Pearlstone Center for Aeronautical Engineering Studies, Department of Mechanical Engineering, Ben-Gurion University of the Negev, P. O. Box 653, Beer-Sheva 84105, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zilitinkevich</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Atmospheric Sciences, Department of Physics, P. O. Box 64, 00014 University of Helsinki, Finland.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Finnish Meteorological Institute (FMI) P. O. Box 503, 00101 Helsinki, Finland.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Radio Physics, N. I. Lobachevsky State University of Nizhny Novgorod, Russia.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Moscow State University; Institute of Geography of Russian Academy of Sciences, Moscow, Russia.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>07</Month>
+<Day>13</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Phys Rev E Stat Nonlin Soft Matter Phys</MedlineTA>
+<NlmUniqueID>101136452</NlmUniqueID>
+<ISSNLinking>1539-3755</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>01</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26274274</ArticleId>
+<ArticleId IdType="doi">10.1103/PhysRevE.92.013012</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

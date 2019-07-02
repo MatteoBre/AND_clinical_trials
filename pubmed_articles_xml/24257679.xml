@@ -1,0 +1,146 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24257679</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>02</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1535-1386</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>95</Volume>
+<Issue>22</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Nov</Month>
+<Day>20</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of bone and joint surgery. American volume</Title>
+<ISOAbbreviation>J Bone Joint Surg Am</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Does tranexamic acid reduce blood loss in total knee arthroplasty? Commentary on an article by X. Aguilera, MD, et al.:"Efficacy and safety of fibrin glue and tranexamic acid to prevent postoperative blood loss in total knee arthroplasty. A randomized controlled clinical trial".</ArticleTitle>
+<Pagination>
+<MedlinePgn>e179</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.2106/JBJS.M.01086</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Delanois</LastName>
+<ForeName>Ronald E</ForeName>
+<Initials>RE</Initials>
+<AffiliationInfo>
+<Affiliation>Sinai Hospital of Baltimore, Baltimore, Maryland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mont</LastName>
+<ForeName>Michael A</ForeName>
+<Initials>MA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Bone Joint Surg Am</MedlineTA>
+<NlmUniqueID>0014030</NlmUniqueID>
+<ISSNLinking>0021-9355</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015718">Fibrin Tissue Adhesive</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006490">Hemostatics</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6T84R30KC1</RegistryNumber>
+<NameOfSubstance UI="D014148">Tranexamic Acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>J Bone Joint Surg Am. 2013 Nov 20;95(22):2001-7</RefSource>
+<PMID Version="1">24257657</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019645">Arthroplasty, Replacement, Knee</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015718">Fibrin Tissue Adhesive</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006490">Hemostatics</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019106">Postoperative Hemorrhage</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014148">Tranexamic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24257679</ArticleId>
+<ArticleId IdType="pii">1766466</ArticleId>
+<ArticleId IdType="doi">10.2106/JBJS.M.01086</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

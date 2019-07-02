@@ -1,0 +1,146 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24195953</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>12</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1528-1175</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>119</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Anesthesiology</Title>
+<ISOAbbreviation>Anesthesiology</ISOAbbreviation>
+</Journal>
+<ArticleTitle>In reply.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1230-1</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/ALN.0b013e3182a775ce</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Sung-Hoon</ForeName>
+<Initials>SH</Initials>
+<AffiliationInfo>
+<Affiliation>*University of Ulsan College of Medicine, Asan Medical Center, Seoul, Korea. shkimans@amc.seoul.kr.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hong</LastName>
+<ForeName>Jeong-Yeon</ForeName>
+<Initials>JY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hwang</LastName>
+<ForeName>Jai-Hyun</ForeName>
+<Initials>JH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Anesthesiology</MedlineTA>
+<NlmUniqueID>1300217</NlmUniqueID>
+<ISSNLinking>0003-3022</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000701">Analgesics, Opioid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010880">Piperidines</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Anesthesiology. 2013 Feb;118(2):337-43</RefSource>
+<PMID Version="1">23241726</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Anesthesiology. 2013 Nov;119(5):1229-30</RefSource>
+<PMID Version="1">24195952</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000701">Analgesics, Opioid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003559">Cystostomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010535">Laparoscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010880">Piperidines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24195953</ArticleId>
+<ArticleId IdType="doi">10.1097/ALN.0b013e3182a775ce</ArticleId>
+<ArticleId IdType="pii">00000542-201311000-00041</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

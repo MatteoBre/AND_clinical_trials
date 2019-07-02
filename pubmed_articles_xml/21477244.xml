@@ -1,0 +1,144 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21477244</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>09</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1360-0443</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>106</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Addiction (Abingdon, England)</Title>
+<ISOAbbreviation>Addiction</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Applicability of DSM criteria to nicotine dependence.</ArticleTitle>
+<Pagination>
+<MedlinePgn>894-5; discussion 895-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1360-0443.2010.03281.x</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hughes</LastName>
+<ForeName>John R</ForeName>
+<Initials>JR</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Psychiatry, Psychology and Family Practice, University of Vermont, Burlington, VT, USA. john.hughes@uvm.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baker</LastName>
+<ForeName>Timothy</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Breslau</LastName>
+<ForeName>Naomi</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Covey</LastName>
+<ForeName>Lirio</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shiffman</LastName>
+<ForeName>Saul</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016420">Comment</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Addiction</MedlineTA>
+<NlmUniqueID>9304118</NlmUniqueID>
+<ISSNLinking>0965-2140</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018722">Nicotinic Agonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6M3C89ZY6R</RegistryNumber>
+<NameOfSubstance UI="D009538">Nicotine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Addiction. 2011 May;106(5):866-7</RefSource>
+<PMID Version="1">21477226</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D039721">Diagnostic and Statistical Manual of Mental Disorders</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009538">Nicotine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018722">Nicotinic Agonists</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014029">Tobacco Use Disorder</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>4</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>4</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>9</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21477244</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1360-0443.2010.03281.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

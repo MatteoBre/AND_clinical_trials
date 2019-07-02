@@ -1,0 +1,218 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27105958</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1872-7549</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>308</Volume>
+<PubDate>
+<Year>2016</Year>
+<Month>07</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Behavioural brain research</Title>
+<ISOAbbreviation>Behav. Brain Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Distinctive cardiac autonomic dysfunction following stress exposure in both sexes in an animal model of PTSD.</ArticleTitle>
+<Pagination>
+<MedlinePgn>128-42</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bbr.2016.04.024</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0166-4328(16)30226-1</ELocationID>
+<Abstract>
+<AbstractText>It is unclear whether the poor autonomic flexibility or dysregulation observed in patients with posttraumatic stress disorder (PTSD) represents a pre-trauma vulnerability factor or results from exposure to trauma. We used an animal model of PTSD to assess the association between the behavioral response to predator scent stress (PSS) and the cardiac autonomic modulation in male and female rats. The rats were surgically implanted with radiotelemetry devices to measure their electrocardiograms and locomotor activity (LMA). Following baseline telemetric monitoring, the animals were exposed to PSS or sham-PSS. Continuous telemetric monitoring (24h/day sampling) was performed over the course of 7days. The electrocardiographic recordings were analyzed using the time- and frequency-domain indexes of heart rate variability (HRV). The behavioral response patterns were assessed using the elevated plus maze and acoustic startle response paradigms for the retrospective classification of individuals according to the PTSD-related cut-off behavioral criteria. During resting conditions, the male rats had significantly higher heart rates (HR) and lower HRV parameters than the female rats during both the active and inactive phases of the daily cycle. Immediately after PSS exposure, both the female and male rats demonstrated a robust increase in HR and a marked drop in HRV parameters, with a shift of sympathovagal balance towards sympathetic predominance. In both sexes, autonomic system habituation and recovery were selectively inhibited in the rats whose behavior was extremely disrupted after exposure to PSS. However, in the female rats, exposure to the PSS produced fewer EBR rats, with a more rapid recovery curve than that of the male rats. PSS did not induce changes to the circadian rhythm of the LMA. According to our results, PTSD can be conceptualized as a disorder that is related to failure-of-recovery mechanisms that impede the restitution of physiological homeostasis.</AbstractText>
+<CopyrightInformation>Copyright © 2016. Published by Elsevier B.V.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Koresh</LastName>
+<ForeName>Ori</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Beer-Sheva Mental Health Center, The State of Israel Ministry of Health, Anxiety and Stress Research Unit, Faculty of Health Sciences, Ben-Gurion University of the Negev, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaplan</LastName>
+<ForeName>Zeev</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Beer-Sheva Mental Health Center, The State of Israel Ministry of Health, Anxiety and Stress Research Unit, Faculty of Health Sciences, Ben-Gurion University of the Negev, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zohar</LastName>
+<ForeName>Joseph</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Psychiatry, The State of Israel Ministry of Health, The Chaim Sheba Medical Center, Ramat-Gan, Israel, Sackler Medical School, Tel-Aviv University, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matar</LastName>
+<ForeName>Michael A</ForeName>
+<Initials>MA</Initials>
+<AffiliationInfo>
+<Affiliation>Beer-Sheva Mental Health Center, The State of Israel Ministry of Health, Anxiety and Stress Research Unit, Faculty of Health Sciences, Ben-Gurion University of the Negev, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Geva</LastName>
+<ForeName>Amir B</ForeName>
+<Initials>AB</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Electrical and Computer Engineering, Ben-Gurion University of the Negev, Beer-Sheva, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cohen</LastName>
+<ForeName>Hagit</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Beer-Sheva Mental Health Center, The State of Israel Ministry of Health, Anxiety and Stress Research Unit, Faculty of Health Sciences, Ben-Gurion University of the Negev, Israel. Electronic address: hagitc@bgu.ac.il.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Behav Brain Res</MedlineTA>
+<NlmUniqueID>8004872</NlmUniqueID>
+<ISSNLinking>0166-4328</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000161">Acoustic Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000704">Analysis of Variance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001342">Autonomic Nervous System Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004562">Electrocardiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006339">Heart Rate</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018782">Maze Learning</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013216">Reflex, Startle</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012727">Sex Characteristics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013313">Stress Disorders, Post-Traumatic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013315">Stress, Psychological</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013686">Telemetry</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Animal model</Keyword>
+<Keyword MajorTopicYN="Y">Autonomic modulation</Keyword>
+<Keyword MajorTopicYN="Y">Gender</Keyword>
+<Keyword MajorTopicYN="Y">Heart rate</Keyword>
+<Keyword MajorTopicYN="Y">Heart rate variability</Keyword>
+<Keyword MajorTopicYN="Y">Posttraumatic stress disorder</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>03</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>11</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27105958</ArticleId>
+<ArticleId IdType="pii">S0166-4328(16)30226-1</ArticleId>
+<ArticleId IdType="doi">10.1016/j.bbr.2016.04.024</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

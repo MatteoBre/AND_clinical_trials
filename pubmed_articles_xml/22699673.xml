@@ -1,0 +1,212 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22699673</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>10</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1544-0591</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>91</Volume>
+<Issue>7 Suppl</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of dental research</Title>
+<ISOAbbreviation>J. Dent. Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Pulsed Nd: YAG laser induces pulpal analgesia: a randomized clinical trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>79S-84S</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>This double-blind, randomized, clinical trial investigated the effectiveness and underlying mechanism of neural inhibition of pulsed Nd:YAG laser induction of pulpal analgesia compared with 5% EMLA anesthetic cream. Forty-four paired premolars from 44 orthodontic patients requiring bilateral premolar extraction from either dental arch were randomly assigned to the 'Laser plus Sham-EMLA' or 'EMLA plus Sham-Laser' treatment group. Analgesia was tested by an Electric Pulp Tester (EPT) and the cutting of a standardized cavity, which was terminated when participants reported sensitivity, and Visual Analogue Scale (VAS) and numbness were recorded. Statistical analyses were done by paired t test, McNemar's test, and a chi-squared test (p &lt; 0.05). Sixty-eight percent of laser- and 59% of EMLA-treated teeth had completed cavities with statistically significant EPT increases above baseline. No significant within-patient differences were found for either group. No laser-treated participants reported numbness. The trial confirmed that the pulsed Nd:YAG laser effectively induced pulpal analgesia, by suppression of intradental nerve responses to electrical and mechanical stimuli. Such a laser provides an alternative for dental pain management (ANZ-Clinical Trial Registry: N12611001099910).</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Chan</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Brain &amp; Mind Research Institute, Nerve Research Foundation, Level 7, Building F, Brain and Mind Research Institute, the University of Sydney, 94 Mallett Street, Camperdown, NSW 2050, Australia. ambrose.chan@sydney.edu.au</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Armati</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moorthy</LastName>
+<ForeName>A P</ForeName>
+<Initials>AP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Dent Res</MedlineTA>
+<NlmUniqueID>0354343</NlmUniqueID>
+<ISSNLinking>0022-0345</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019162">Anesthetics, Combined</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000779">Anesthetics, Local</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000077442">Lidocaine, Prilocaine Drug Combination</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>046O35D44R</RegistryNumber>
+<NameOfSubstance UI="D011318">Prilocaine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>98PI200987</RegistryNumber>
+<NameOfSubstance UI="D008012">Lidocaine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>D</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000766">Anesthesia, Dental</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000772">Anesthesia, Local</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019162">Anesthetics, Combined</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000779">Anesthetics, Local</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001641">Bicuspid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000294">innervation</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003737">Dental Cavity Preparation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003782">Dental Pulp</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000294">innervation</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003791">Dental Pulp Test</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053844">Lasers, Solid-State</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008012">Lidocaine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077442">Lidocaine, Prilocaine Drug Combination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D028022">Low-Level Light Therapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009433">Neural Inhibition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010147">Pain Measurement</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017288">Pain Threshold</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011318">Prilocaine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009435">Synaptic Transmission</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014081">Tooth Extraction</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>6</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>10</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22699673</ArticleId>
+<ArticleId IdType="pii">91/7_suppl/S79</ArticleId>
+<ArticleId IdType="doi">10.1177/0022034512447947</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

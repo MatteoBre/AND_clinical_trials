@@ -1,0 +1,196 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19353676</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>06</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1552-4833</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>149A</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>American journal of medical genetics. Part A</Title>
+<ISOAbbreviation>Am. J. Med. Genet. A</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Finding twinkle in the eyes of a 71-year-old lady: a case report and review of the genotypic and phenotypic spectrum of TWINKLE-related dominant disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>861-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/ajmg.a.32731</ELocationID>
+<Abstract>
+<AbstractText>Progressive external ophthalmoplegia (PEO) can be caused by a disorder characterized by multiple mitochondrial DNA (mtDNA) deletions due to mutations in the TWINKLE gene, encoding a mtDNA helicase. We describe a 71-year-old woman who had developed PEO at age 55 years. She had cataracts, diabetes, paresthesias, cognitive defects, memory problems, hearing loss, and sensory ataxia. She had muscle weakness with ragged red fibers on biopsy. MRI showed static white matter changes. A c.908G&gt;A substitution (p.R303Q) in the TWINKLE gene was identified. Multiple mtDNA deletions were detected in muscle but not blood by a PCR-based method, but not by Southern blot analysis. MtDNA copy number was maintained in blood and muscle. A systematic literature search was used to identify the genotypic and phenotypic spectrum of dominant TWINKLE-related disease. Patients were adults with PEO and symptoms including myopathy, neuropathy, dysarthria or dysphagia, sensory ataxia, and parkinsonism. Diabetes, cataract, memory loss, hearing loss, and cardiac problems were infrequent. All reported mutations clustered between amino acids 303 and 508 with no mutations at the N-terminal half of the gene. The TWINKLE gene should be analyzed in adults with PEO even in the absence of mtDNA deletions in muscle on Southern blot analysis, and of a family history for PEO. The pathogenic mutations identified 5' beyond the linker region suggest a functional role for this part of the protein despite the absence of a primase function in humans. In our patient, the pathogenesis involved multiple mtDNA deletions without reduction in mtDNA copy number.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Van Hove</LastName>
+<ForeName>Johan L K</ForeName>
+<Initials>JL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, University of Colorado Denver, Denver, Colorado 80045, USA. johan.vanhove@ucdenver.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cunningham</LastName>
+<ForeName>Vicki</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rice</LastName>
+<ForeName>Cathlin</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ringel</LastName>
+<ForeName>Steven P</ForeName>
+<Initials>SP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Qing</ForeName>
+<Initials>Q</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chou</LastName>
+<ForeName>Ping-Chieh</ForeName>
+<Initials>PC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Truong</LastName>
+<ForeName>Cavatina K</ForeName>
+<Initials>CK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wong</LastName>
+<ForeName>Lee-Jun C</ForeName>
+<Initials>LJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Med Genet A</MedlineTA>
+<NlmUniqueID>101235741</NlmUniqueID>
+<ISSNLinking>1552-4825</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004272">DNA, Mitochondrial</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D024101">Mitochondrial Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.4.-</RegistryNumber>
+<NameOfSubstance UI="D004265">DNA Helicases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.4.12</RegistryNumber>
+<NameOfSubstance UI="C431576">C10ORF2 protein, human</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017124">Conserved Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004265">DNA Helicases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004252">DNA Mutational Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004272">DNA, Mitochondrial</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005123">Eye</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006579">Heterozygote</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D024101">Mitochondrial Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017246">Ophthalmoplegia, Chronic Progressive External</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017384">Sequence Deletion</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>42</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19353676</ArticleId>
+<ArticleId IdType="doi">10.1002/ajmg.a.32731</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,514 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23535954</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>12</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1569-8041</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>24</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Annals of oncology : official journal of the European Society for Medical Oncology</Title>
+<ISOAbbreviation>Ann. Oncol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Ipilimumab alone or in combination with radiotherapy in metastatic castration-resistant prostate cancer: results from an open-label, multicenter phase I/II study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1813-21</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1093/annonc/mdt107</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">This phase I/II study in patients with metastatic castration-resistant prostate cancer (mCRPC) explored ipilimumab as monotherapy and in combination with radiotherapy, based on the preclinical evidence of synergistic antitumor activity between anti-CTLA-4 antibody and radiotherapy.</AbstractText>
+<AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">In dose escalation, 33 patients (≥6/cohort) received ipilimumab every 3 weeks × 4 doses at 3, 5, or 10 mg/kg or at 3 or 10 mg/kg + radiotherapy (8 Gy/lesion). The 10-mg/kg cohorts were expanded to 50 patients (ipilimumab monotherapy, 16; ipilimumab + radiotherapy, 34). Evaluations included adverse events (AEs), prostate-specific antigen (PSA) decline, and tumor response.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Common immune-related AEs (irAEs) among the 50 patients receiving 10 mg/kg ± radiotherapy were diarrhea (54%), colitis (22%), rash (32%), and pruritus (20%); grade 3/4 irAEs included colitis (16%) and hepatitis (10%). One treatment-related death (5 mg/kg group) occurred. Among patients receiving 10 mg/kg ± radiotherapy, eight had PSA declines of ≥50% (duration: 3-13+ months), one had complete response (duration: 11.3+ months), and six had stable disease (duration: 2.8-6.1 months).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In mCRPC patients, ipilimumab 10 mg/kg ± radiotherapy suggested clinical antitumor activity with disease control and manageable AEs. Two phase III trials in mCRPC patients evaluating ipilimumab 10 mg/kg ± radiotherapy are ongoing. ClinicalTrials.gov identifier: NCT00323882.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Slovin</LastName>
+<ForeName>S F</ForeName>
+<Initials>SF</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Memorial Sloan-Kettering Cancer Center, NY 10065, USA. slovins@mskcc.org</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Higano</LastName>
+<ForeName>C S</ForeName>
+<Initials>CS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hamid</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tejwani</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harzstark</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alumkal</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scher</LastName>
+<ForeName>H I</ForeName>
+<Initials>HI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chin</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gagnier</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McHenry</LastName>
+<ForeName>M B</ForeName>
+<Initials>MB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beer</LastName>
+<ForeName>T M</ForeName>
+<Initials>TM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00323882</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P50 CA092629</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D017426">Clinical Trial, Phase I</PublicationType>
+<PublicationType UI="D017427">Clinical Trial, Phase II</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>03</Month>
+<Day>27</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Ann Oncol</MedlineTA>
+<NlmUniqueID>9007735</NlmUniqueID>
+<ISSNLinking>0923-7534</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000074324">Ipilimumab</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.77</RegistryNumber>
+<NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000230">Adenocarcinoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000911">Antibodies, Monoclonal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059248">Chemoradiotherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007167">Immunotherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000074324">Ipilimumab</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020714">Maximum Tolerated Dose</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">immunotherapy</Keyword>
+<Keyword MajorTopicYN="N">ipilimumab</Keyword>
+<Keyword MajorTopicYN="N">metastatic castration-resistant prostate cancer</Keyword>
+<Keyword MajorTopicYN="N">phase I/II trial</Keyword>
+<Keyword MajorTopicYN="N">prostate-specific antigen and radiotherapy</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>3</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>3</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23535954</ArticleId>
+<ArticleId IdType="pii">mdt107</ArticleId>
+<ArticleId IdType="doi">10.1093/annonc/mdt107</ArticleId>
+<ArticleId IdType="pmc">PMC3707423</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Natl Cancer Inst. 2005 Jun 1;97(11):798-804</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15928300</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg Oncol. 2005 Dec;12(12):1005-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16283570</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2008 Dec 20;26(36):5950-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19018089</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2010 Feb;11(2):155-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20004617</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2012 Jun 10;30(17):2046-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22547592</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 Oct 7;351(15):1502-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15470213</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2012 May;13(5):509-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22326922</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Immun. 2008;8:1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18198818</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2007 Sep;13(9):1050-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17704786</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2005 Jan 15;11(2 Pt 1):728-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15701862</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunother. 2010 Oct;33(8):828-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20842054</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst. 2000 Feb 2;92(3):205-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10655437</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2012 Sep 27;367(13):1187-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22894553</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2013 Feb 1;85(2):293-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22560555</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2013 Jan;24(1):75-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22858559</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1999 Dec 21;96(26):15074-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10611340</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunother. 2007 Nov-Dec;30(8):825-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18049334</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2009 Oct 15;15(20):6446-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19808874</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2004 Mar 1;58(3):862-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14967443</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2010 Oct 2;376(9747):1147-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20888992</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2012 Mar 8;366(10):925-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22397654</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1996 Mar 22;271(5256):1734-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8596936</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2012 May;13(5):501-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22326924</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 1999 Nov;17(11):3461-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10550143</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunotherapy. 2010 May;2(3):367-79</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20635901</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2010 Aug 19;363(8):711-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20525992</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Oncol. 2010 Oct;37(5):533-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21074069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2011 Jun 30;364(26):2517-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21639810</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2008 Feb 26;105(8):3005-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18287062</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2009 Jan 15;69(2):609-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19147575</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2003 Jul 8;100(14):8372-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12826605</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 1994 Aug;1(5):405-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7882171</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2011 May 26;364(21):1995-2005</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21612468</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2012 Apr 1;18(7):2039-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22271879</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2009 Sep 1;15(17):5379-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19706802</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Oncol. 2012 Dec 17;2:191</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23251903</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2007 Mar 15;13(6):1810-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17363537</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1997 Jul 22;94(15):8099-103</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9223321</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2010 Aug;21(8):1712-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20147741</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2005 Sep 1;23(25):6043-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16087944</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncology (Williston Park). 2007 Mar;21(3):326-33; discussion 334, 338, 346-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17447437</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2010 Jul 29;363(5):411-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20818862</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2009 Apr 1;15(7):2507-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19318477</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

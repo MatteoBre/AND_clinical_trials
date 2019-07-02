@@ -1,0 +1,206 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21515561</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>03</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1468-2079</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>96</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>The British journal of ophthalmology</Title>
+<ISOAbbreviation>Br J Ophthalmol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Impact of eyelid closure on the intraocular pressure lowering effect of prostaglandins: a randomised controlled trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>250-3</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1136/bjo.2010.198887</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND/AIMS" NlmCategory="OBJECTIVE">To determine if eyelid closure (ELC) after topical prostaglandin instillation provides greater intraocular pressure (IOP) reduction than prostaglandin instillation without ELC.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Patients receiving chronic bilateral prostaglandin monotherapy were enrolled in this study. The study intervention, ELC, was randomly assigned to one eye, while the fellow eye served as control. ELC was performed for either 1 min or 3 min. After a 1-day washout, the IOP was measured in a masked fashion at baseline, 1 h and 24 h, and at a final visit that took place 7-14 days after enrolment. All visits were scheduled during the morning, and every individual patient's visits occurred at similar times during the day. The main outcome was difference between intervention eye and control eye in IOP-lowering from baseline.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">51 patients meeting eligibility criteria were enrolled: 25 were randomised to ELC for 1 min and 26 to ELC for 3 min in the intervention eye. The pooled IOP-lowering difference (95% CI, p value) in intervention versus control eyes was 0.24 mm Hg (-0.5 to 0.9, p=0.50), 0.24 mm Hg (-0.7 to 1.2, p=0.61) and 0.24 mm Hg (-0.7 to 1.2, p=0.61) in the overall group, 1 min ELC subgroup and 3 min ELC subgroup, respectively. The effect of ELC did not change significantly across visits.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">ELC did not provide significant additional IOP reduction compared with no ELC in patients using chronic prostaglandin monotherapy. Trial Registration http://clinicaltrials.gov/ct2/show/NCT0083283.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Maul</LastName>
+<ForeName>Eugenio A</ForeName>
+<Initials>EA</Initials>
+<AffiliationInfo>
+<Affiliation>Maumenee B-110, 600 N. Wolfe St, Baltimore, MD 21287, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Friedman</LastName>
+<ForeName>David S</ForeName>
+<Initials>DS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Quigley</LastName>
+<ForeName>Harry A</ForeName>
+<Initials>HA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jampel</LastName>
+<ForeName>Henry D</ForeName>
+<Initials>HD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>04</Month>
+<Day>21</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Br J Ophthalmol</MedlineTA>
+<NlmUniqueID>0421041</NlmUniqueID>
+<ISSNLinking>0007-1161</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000577">Amides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000959">Antihypertensive Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011461">Prostaglandins F, Synthetic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>4208238832</RegistryNumber>
+<NameOfSubstance UI="D003008">Cloprostenol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6Z5B6HVF6O</RegistryNumber>
+<NameOfSubstance UI="D000077338">Latanoprost</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>QXS94885MZ</RegistryNumber>
+<NameOfSubstance UI="D000069580">Bimatoprost</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>WJ68R08KX9</RegistryNumber>
+<NameOfSubstance UI="D000069557">Travoprost</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000042">Absorption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000577">Amides</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000959">Antihypertensive Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069580">Bimatoprost</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003008">Cloprostenol</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005143">Eyelids</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005901">Glaucoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007429">Intraocular Pressure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077338">Latanoprost</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011461">Prostaglandins F, Synthetic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014065">Tonometry, Ocular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069557">Travoprost</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>4</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>4</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>3</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21515561</ArticleId>
+<ArticleId IdType="pii">bjo.2010.198887</ArticleId>
+<ArticleId IdType="doi">10.1136/bjo.2010.198887</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,453 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27816300</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>04</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1873-7560</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>72</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2017</Year>
+<Month>08</Month>
+</PubDate>
+</JournalIssue>
+<Title>European urology</Title>
+<ISOAbbreviation>Eur. Urol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Racial Variation in Patient-Reported Outcomes Following Treatment for Localized Prostate Cancer: Results from the CEASAR Study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>307-314</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="pii" ValidYN="Y">S0302-2838(16)30750-3</ELocationID>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.eururo.2016.10.036</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND">Relatively little is known about the relationship between race/ethnicity and patient-reported outcomes after contemporary treatments for localized prostate cancer.</AbstractText>
+<AbstractText Label="OBJECTIVE">To test the hypothesis that treatment-related changes in urinary, bowel, sexual, and hormonal function vary by race/ethnicity.</AbstractText>
+<AbstractText Label="DESIGN, SETTING, AND PARTICIPANTS">The Comparative Effectiveness Analysis of Surgery and Radiation (CEASAR) study is a prospective, population-based, observational study that enrolled 3708 men diagnosed with localized prostate cancer in 2011-2012.</AbstractText>
+<AbstractText Label="OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS">Patient-reported disease-specific function was measured using the 26-item Expanded Prostate Index Composite (EPIC) at baseline and 6 and 12 mo after enrollment. Mean treatment differences in function were compared by race using risk-adjusted generalized estimating equations.</AbstractText>
+<AbstractText Label="RESULTS AND LIMITATIONS">While all race/ethnic groups reported considerable declines in scores for urinary incontinence after radical prostatectomy (RP) when compared to active surveillance, African-American men reported a greater difference than white men did (adjusted difference-in-differences 8.4 points, 95% confidence interval 2.0-14.8; p=0.01). No difference in bother scores was noted and the overall proportion of explained variation attributable to race/ethnicity was relatively small in comparison to primary treatment and baseline function. No clinically significant racial variation was noted for the sexual, bowel, irritative voiding, or hormone domains. Limitations include the lack of well-established thresholds for clinical significance using the EPIC instrument.</AbstractText>
+<AbstractText Label="CONCLUSION">While these data demonstrate that incontinence at 1 yr after RP may be worse for African-American compared to white men, the difference appears to be modest overall. Treatment selection and baseline function explain a much greater proportion of the variation in function after treatment.</AbstractText>
+<AbstractText Label="PATIENT SUMMARY">We observed that the effect of treatment for prostate cancer on patient-reported function did not vary dramatically by race/ethnicity. Compared to white men, African-American men experienced a somewhat more pronounced decline in urinary continence after radical prostatectomy, but the corresponding changes in bother scores were not significantly different between the two groups.</AbstractText>
+<CopyrightInformation>Copyright © 2016 European Association of Urology. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Tyson</LastName>
+<ForeName>Mark D</ForeName>
+<Initials>MD</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Urologic Surgery, Vanderbilt University Medical Center, Nashville, TN, USA. Electronic address: mark.tyson@vanderbilt.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alvarez</LastName>
+<ForeName>JoAnn</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biostatistics, Vanderbilt University School of Medicine, Nashville, TN, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koyama</LastName>
+<ForeName>Tatsuki</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biostatistics, Vanderbilt University School of Medicine, Nashville, TN, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hoffman</LastName>
+<ForeName>Karen E</ForeName>
+<Initials>KE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Resnick</LastName>
+<ForeName>Matthew J</ForeName>
+<Initials>MJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Urologic Surgery, Vanderbilt University Medical Center, Nashville, TN, USA; Department of Health Policy, Vanderbilt University School of Medicine, Nashville, TN, USA; The Geriatric Research, Education, and Clinical Center, Tennessee Valley Veterans Affairs Health Care System, Nashville, TN, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Xiao-Cheng</ForeName>
+<Initials>XC</Initials>
+<AffiliationInfo>
+<Affiliation>School of Public Health, Louisiana State University Health Sciences Center, New Orleans, LA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cooperberg</LastName>
+<ForeName>Matthew R</ForeName>
+<Initials>MR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Urology, University of California, San Francisco Medical Center, San Francisco, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goodman</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Rollins School of Public Health, Emory University, Atlanta, GA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Greenfield</LastName>
+<ForeName>Sheldon</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Center for Health Policy Research and Department of Medicine, University of California, Irvine, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hamilton</LastName>
+<ForeName>Ann S</ForeName>
+<Initials>AS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hashibe</LastName>
+<ForeName>Mia</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Family and Preventive Medicine and Huntsman Cancer Institute, University of Utah, Salt Lake City, UT, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paddock</LastName>
+<ForeName>Lisa E</ForeName>
+<Initials>LE</Initials>
+<AffiliationInfo>
+<Affiliation>Rutgers Cancer Institute of New Jersey, Rutgers University, New Brunswick, NJ, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stroup</LastName>
+<ForeName>Antoinette</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Rutgers Cancer Institute of New Jersey, Rutgers University, New Brunswick, NJ, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>Vivien W</ForeName>
+<Initials>VW</Initials>
+<AffiliationInfo>
+<Affiliation>School of Public Health, Louisiana State University Health Sciences Center, New Orleans, LA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Penson</LastName>
+<ForeName>David F</ForeName>
+<Initials>DF</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Urologic Surgery, Vanderbilt University Medical Center, Nashville, TN, USA; The Geriatric Research, Education, and Clinical Center, Tennessee Valley Veterans Affairs Health Care System, Nashville, TN, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barocas</LastName>
+<ForeName>Daniel A</ForeName>
+<Initials>DA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Urologic Surgery, Vanderbilt University Medical Center, Nashville, TN, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 HS019356</GrantID>
+<Acronym>HS</Acronym>
+<Agency>AHRQ HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HS022640</GrantID>
+<Acronym>HS</Acronym>
+<Agency>AHRQ HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>T32 CA106183</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D064888">Observational Study</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>03</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Switzerland</Country>
+<MedlineTA>Eur Urol</MedlineTA>
+<NlmUniqueID>7512719</NlmUniqueID>
+<ISSNLinking>0302-2838</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D001741">African Americans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057186">Comparative Effectiveness Research</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D044465">European Continental Ancestry Group</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005767">Gastrointestinal Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006630">Hispanic Americans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008137">Longitudinal Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000071066">Patient Reported Outcome Measures</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011468">Prostatectomy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000208">ethnology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D050397">Radiotherapy, Intensity-Modulated</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012725">Sexual Behavior</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014481">United States</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014549">Urinary Incontinence</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014554">Urination</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Active surveillance</Keyword>
+<Keyword MajorTopicYN="Y">Comparative effectiveness</Keyword>
+<Keyword MajorTopicYN="Y">Patient-reported function</Keyword>
+<Keyword MajorTopicYN="Y">Prostate cancer</Keyword>
+<Keyword MajorTopicYN="Y">Radiation</Keyword>
+<Keyword MajorTopicYN="Y">Surgery</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2018</Year>
+<Month>4</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27816300</ArticleId>
+<ArticleId IdType="pii">S0302-2838(16)30750-3</ArticleId>
+<ArticleId IdType="doi">10.1016/j.eururo.2016.10.036</ArticleId>
+<ArticleId IdType="pmc">PMC5413424</ArticleId>
+<ArticleId IdType="mid">NIHMS827596</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Comp Eff Res. 2013 Jul;2(4):445-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24236685</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Urology. 1996 Nov;48(5):773-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8911524</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Urol. 2001 Dec;166(6):2281-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11696752</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2007 May 1;109(9):1777-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17354226</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Causes Control. 2006 Aug;17(6):803-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16783608</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Urology. 2000 Dec 20;56(6):899-905</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11113727</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Public Health. 2003 Oct;93(10):1753-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14534233</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BJU Int. 2012 Oct;110(8):1129-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22429893</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2011 Sep 21;306(11):1205-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21934053</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Urology. 2015 Jan;85(1):101-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25530370</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2011 Dec 15;117(24):5589-600</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21692058</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Epidemiology. 1990 Jan;1(1):43-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2081237</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2008 Mar 20;358(12):1250-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18354103</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst. 2003 Nov 19;95(22):1702-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14625261</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst. 2001 Mar 7;93(5):388-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11238701</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2004 Oct 15;22(20):4193-201</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15483030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Public Health. 2004 May;94(5):803-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15117704</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Urology. 1999 Sep;54(3):424-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10475347</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

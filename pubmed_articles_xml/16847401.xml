@@ -1,0 +1,139 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16847401</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>11</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>11</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0269-9370</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>20</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Jul</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+<Title>AIDS (London, England)</Title>
+<ISOAbbreviation>AIDS</ISOAbbreviation>
+</Journal>
+<ArticleTitle>HIV/AIDS preventive vaccine 'prime-boost' phase III trial: foundations and initial lessons learned from Thailand.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1471-9</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rerks-Ngarm</LastName>
+<ForeName>Supachai</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Arthur E</ForeName>
+<Initials>AE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khamboonruang</LastName>
+<ForeName>Chirasak</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thongcharoen</LastName>
+<ForeName>Prasert</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kunasol</LastName>
+<ForeName>Prayura</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016421">Editorial</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>AIDS</MedlineTA>
+<NlmUniqueID>8710219</NlmUniqueID>
+<ISSNLinking>0269-9370</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016915">AIDS Vaccines</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>X</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016915">AIDS Vaccines</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017326">Clinical Trials, Phase III as Topic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006078">Government Programs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017589">Immunization Programs</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp; administration</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D013785">Thailand</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>45</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>11</Month>
+<Day>11</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16847401</ArticleId>
+<ArticleId IdType="doi">10.1097/01.aids.0000237362.26370.f8</ArticleId>
+<ArticleId IdType="pii">00002030-200607130-00001</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

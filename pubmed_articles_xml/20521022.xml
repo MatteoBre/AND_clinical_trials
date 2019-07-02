@@ -1,0 +1,265 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20521022</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>10</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1432-2102</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>50</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Der Radiologe</Title>
+<ISOAbbreviation>Radiologe</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Functional cardiac MRI for assessment of aortic valve disease].</ArticleTitle>
+<Pagination>
+<MedlinePgn>541-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00117-010-1988-7</ELocationID>
+<Abstract>
+<AbstractText>Aortic valve disease shows a rising incidence with the increasing mean age of Western populations. The detection of hemodynamic parameters, which transcends the mere assessment of valve morphology, has an important future potential concerning classification of the severity of disease. MRI allows a non-invasive and a spatially flexible view of the aortic valve and the adjacent anatomic region, left ventricular outflow tract (LVOT) and ascending aorta. Moreover, the technique allows the determination of functional hemodynamic parameters, such as flow velocities and effective orifice areas. The new approach of a serial systolic planimetry velocity-encoded MRI sequence (VENC-MRI) facilitates the sizing of blood-filled cardiac structures with the registration of changes in magnitude during systole. Additionally, the subvalvular VENC-MRI measurements improve the clinically important exact determination of the LVOT area with respect to its specific eccentric configuration and its systolic deformity.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Sagmeister</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Röntgendiagnostik, Universitätsklinikum Würzburg, Josef-Schneider-Str. 2, 97080, Würzburg, Deutschland. beer@roentgen.uni-wuerzburg.de</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Herrmann</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ritter</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Machann</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Köstler</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hahn</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Voelker</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weidemann</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beer</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Aortenklappenstenose im MRT mit Dynamik und 3D.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Radiologe</MedlineTA>
+<NlmUniqueID>0401257</NlmUniqueID>
+<ISSNLinking>0033-832X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000465">Algorithms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001022">Aortic Valve Insufficiency</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007089">Image Enhancement</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007090">Image Interpretation, Computer-Assisted</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>6</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>6</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20521022</ArticleId>
+<ArticleId IdType="doi">10.1007/s00117-010-1988-7</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Am Coll Cardiol. 1993 Apr;21(5):1220-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8459080</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Echocardiogr. 2003 Sep;16(9):958-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12931108</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 1997 May;29(6):1296-302</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9137227</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiologe. 2007 Apr;47(4):333-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17318470</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2006 Aug 1;48(3):e1-148</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16875962</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2003 Jun;125(6):1412-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12830062</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AJR Am J Roentgenol. 1993 May;160(5):971-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8470612</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart. 2009 Apr;95(8):616-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18632833</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Heart J. 1951 Jan;41(1):1-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14799435</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Invest Radiol. 2005 Oct;40(10):631-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16189431</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Ultrasound. 2006 Mar 21;4:12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16551359</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cardiovasc Magn Reson. 2006;8(6):825-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17060105</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiovasc Imaging. 2009 Feb;25(2):175-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18770012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiol. 2009 Jul 24;136(1):64-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18657334</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2006 Apr 4;47(7):1410-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16580530</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cardiol. 1998 Jul 1 ;65(2):163-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9706811</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2009 Aug 18;120(7):577-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19652094</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

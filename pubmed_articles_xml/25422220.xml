@@ -1,0 +1,249 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25422220</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>07</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>06</Month>
+<Day>06</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">2476-762X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>15</Volume>
+<Issue>21</Issue>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Asian Pacific journal of cancer prevention : APJCP</Title>
+<ISOAbbreviation>Asian Pac. J. Cancer Prev.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Detection of PIK3CA gene mutations with HRM analysis and association with IGFBP-5 expression levels in breast cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>9327-33</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Breast cancer is the second most common cancer and second leading cause of cancer deaths in women. Phosphatidylinositol-3-kinase (PI3K)/AKT pathway mutations are associated with cancer and phosphatidylinositol-4, 5-bisphosphate 3-kinase catalytic subunit alpha (PIK3CA) gene mutations have been observed in 25-45% of breast cancer samples. Insulin growth factor binding protein-5 (IGFBP-5) can show different effects on apoptosis, cell motility and survival in breast cancer. We here aimed to determine the association between PIK3CA gene mutations and IGFBP-5 expressions for the first time in breast cancer patients. Frozen tumor samples from 101 Turkish breast cancer patients were analyzed with high resolution melting (HRM) for PIK3CA mutations (exon 9 and exon 20) and 37 HRM positive tumor samples were analyzed by DNA sequencing, mutations being found in 31. PIK3CA exon 9 mutations (Q546R, E542Q, E545K, E542K and E545D) were found in 10 tumor samples, exon 20 mutations (H1047L, H1047R, T1025T and G1049R) in 21, where only 1 tumor sample had two exon 20 mutations (T1025T and H1047R). Moreover, we detected one sample with both exon 9 (E542Q) and exon 20 (H1047R) mutations. 35% of the tumor samples with high IGFBP-5 mRNA expression and 29.4% of the tumor samples with low IGFBP-5 mRNA expression had PIK3CA mutations (p=0.9924). This is the first study of PIK3CA mutation screening results in Turkish breast cancer population using HRM analysis. This approach appears to be a very effective and reliable screening method for the PIK3CA exon 9 and 20 mutation detection. Further analysis with a greater number of samples is needed to clarify association between PIK3CA gene mutations and IGFBP-5 mRNA expression, and also clinical outcome in breast cancer patients. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Dirican</LastName>
+<ForeName>Ebubekir</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Biology, School of Medicine, Marmara University, Istanbul, Turkey E-mail : makkiprik@marmara.edu.tr.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaya</LastName>
+<ForeName>Zehra</ForeName>
+<Initials>Z</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gullu</LastName>
+<ForeName>Gokce</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peker</LastName>
+<ForeName>Irem</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ozmen</LastName>
+<ForeName>Tolga</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gulluoglu</LastName>
+<ForeName>Bahadir M</ForeName>
+<Initials>BM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaya</LastName>
+<ForeName>Handan</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ozer</LastName>
+<ForeName>Ayse</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Akkiprik</LastName>
+<ForeName>Mustafa</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Thailand</Country>
+<MedlineTA>Asian Pac J Cancer Prev</MedlineTA>
+<NlmUniqueID>101130625</NlmUniqueID>
+<ISSNLinking>1513-7368</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018975">Insulin-Like Growth Factor Binding Protein 5</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.-</RegistryNumber>
+<NameOfSubstance UI="D019869">Phosphatidylinositol 3-Kinases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.137</RegistryNumber>
+<NameOfSubstance UI="D058534">Class I Phosphatidylinositol 3-Kinases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.1.137</RegistryNumber>
+<NameOfSubstance UI="C484760">PIK3CA protein, human</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001707">Biopsy, Needle</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058534">Class I Phosphatidylinositol 3-Kinases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055088">Early Detection of Cancer</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005629">Frozen Sections</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056726">Genetic Association Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018975">Insulin-Like Growth Factor Binding Protein 5</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009361">Neoplasm Invasiveness</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019869">Phosphatidylinositol 3-Kinases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016133">Polymerase Chain Reaction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015183">Restriction Mapping</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017422">Sequence Analysis, DNA</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018709">Statistics, Nonparametric</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014421">Turkey</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25422220</ArticleId>
+<ArticleId IdType="doi">10.7314/apjcp.2014.15.21.9327</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

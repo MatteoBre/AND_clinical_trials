@@ -1,0 +1,527 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16793810</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>07</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1756-1833</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>332</Volume>
+<Issue>7556</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Jun</Month>
+<Day>24</Day>
+</PubDate>
+</JournalIssue>
+<Title>BMJ (Clinical research ed.)</Title>
+<ISOAbbreviation>BMJ</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effect of perioperative beta blockade in patients with diabetes undergoing major non-cardiac surgery: randomised placebo controlled, blinded multicentre trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1482</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To evaluate the long term effects of perioperative beta blockade on mortality and cardiac morbidity in patients with diabetes undergoing major non-cardiac surgery.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">Randomised placebo controlled and blinded multicentre trial. Analyses were by intention to treat.</AbstractText>
+<AbstractText Label="SETTING" NlmCategory="METHODS">University anaesthesia and surgical centres and one coordinating centre.</AbstractText>
+<AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">921 patients aged &gt; 39 scheduled for major non-cardiac surgery.</AbstractText>
+<AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">100 mg metoprolol controlled and extended release or placebo administered from the day before surgery to a maximum of eight perioperative days.</AbstractText>
+<AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">The composite primary outcome measure was time to all cause mortality, acute myocardial infarction, unstable angina, or congestive heart failure. Secondary outcome measures were time to all cause mortality, cardiac mortality, and non-fatal cardiac morbidity.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Mean duration of intervention was 4.6 days in the metoprolol group and 4.9 days in the placebo group. Metoprolol significantly reduced the mean heart rate by 11% (95% confidence interval 9% to 13%) and mean blood pressure by 3% (1% to 5%). The primary outcome occurred in 99 of 462 patients in the metoprolol group (21%) and 93 of 459 patients in the placebo group (20%) (hazard ratio 1.06, 0.80 to 1.41) during a median follow-up of 18 months (range 6-30). All cause mortality was 16% (74/462) in the metoprolol group and 16% (72/459) in the placebo group (1.03, 0.74 to 1.42). The difference in risk for the proportion of patients with serious adverse events was 2.4% (- 0.8% to 5.6%).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Perioperative metoprolol did not significantly affect mortality and cardiac morbidity in these patients with diabetes. Confidence intervals, however, were wide, and the issue needs reassessment.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">Current Controlled Trials ISRCTN58485613.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Juul</LastName>
+<ForeName>Anne Benedicte</ForeName>
+<Initials>AB</Initials>
+<AffiliationInfo>
+<Affiliation>Copenhagen Trial Unit, Centre for Clinical Intervention Research, H:S Rigshospitalet, Copenhagen University Hospital, Denmark. anne.j@ctu.rh.dk</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wetterslev</LastName>
+<ForeName>Jørn</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gluud</LastName>
+<ForeName>Christian</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kofoed-Enevoldsen</LastName>
+<ForeName>Allan</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jensen</LastName>
+<ForeName>Gorm</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Callesen</LastName>
+<ForeName>Torben</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nørgaard</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fruergaard</LastName>
+<ForeName>Kim</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bestle</LastName>
+<ForeName>Morten</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vedelsdal</LastName>
+<ForeName>Rune</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miran</LastName>
+<ForeName>André</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jacobsen</LastName>
+<ForeName>Jon</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roed</LastName>
+<ForeName>Jakob</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mortensen</LastName>
+<ForeName>Maj-Britt</ForeName>
+<Initials>MB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jørgensen</LastName>
+<ForeName>Lise</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jørgensen</LastName>
+<ForeName>Jørgen</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rovsing</LastName>
+<ForeName>Marie-Louise</ForeName>
+<Initials>ML</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Petersen</LastName>
+<ForeName>Pernille Lykke</ForeName>
+<Initials>PL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pott</LastName>
+<ForeName>Frank</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haas</LastName>
+<ForeName>Merete</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Albret</LastName>
+<ForeName>Rikke</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nielsen</LastName>
+<ForeName>Lise Lotte</ForeName>
+<Initials>LL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johansson</LastName>
+<ForeName>Gun</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stjernholm</LastName>
+<ForeName>Pia</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mølgaard</LastName>
+<ForeName>Yvonne</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Foss</LastName>
+<ForeName>Nikolai Bang</ForeName>
+<Initials>NB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Elkjaer</LastName>
+<ForeName>Jeanie</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dehlie</LastName>
+<ForeName>Bjørn</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boysen</LastName>
+<ForeName>Klavs</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zaric</LastName>
+<ForeName>Dusanka</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Munksgaard</LastName>
+<ForeName>Anne</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Madsen</LastName>
+<ForeName>Jørn Bo</ForeName>
+<Initials>JB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Øberg</LastName>
+<ForeName>Bjarne</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khanykin</LastName>
+<ForeName>Boris</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blemmer</LastName>
+<ForeName>Tine</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yndgaard</LastName>
+<ForeName>Stig</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Perko</LastName>
+<ForeName>Grazyna</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Lars Peter</ForeName>
+<Initials>LP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Winkel</LastName>
+<ForeName>Per</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hilden</LastName>
+<ForeName>Jørgen</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jensen</LastName>
+<ForeName>Per</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salas</LastName>
+<ForeName>Nader</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>DIPOM Trial Group</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ISRCTN</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>ISRCTN58485613</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>BMJ</MedlineTA>
+<NlmUniqueID>8900488</NlmUniqueID>
+<ISSNLinking>0959-8138</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000319">Adrenergic beta-Antagonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D003692">Delayed-Action Preparations</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>GEB06NHM23</RegistryNumber>
+<NameOfSubstance UI="D008790">Metoprolol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000319">Adrenergic beta-Antagonists</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003692">Delayed-Action Preparations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D048909">Diabetes Complications</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006439">Hemodynamics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007430">Intraoperative Care</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008790">Metoprolol</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010349">Patient Compliance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D013514">Surgical Procedures, Operative</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>6</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>13</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>6</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16793810</ArticleId>
+<ArticleId IdType="pii">332/7556/1482</ArticleId>
+<ArticleId IdType="doi">10.1136/bmj.332.7556.1482</ArticleId>
+<ArticleId IdType="pmc">PMC1482337</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Can J Anaesth. 2000 Jan;47(1):10-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10626712</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Heart J. 2001 Jan;141(1):148-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11136500</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2005 Sep 28;294(12):1526-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16189366</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Anaesthesiol. 2004 Jul;21(7):523-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15318463</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Ther. 1994 Jun;1(1):65-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11835069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesthesiology. 1998 Jan;88(1):7-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9447850</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2002 Mar 12;105(10):1257-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11889023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Heart J. 2004 Apr;147(4):677-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15077084</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2005 Oct 22;331(7522):932</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16210252</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vasc Surg. 2005 Apr;41(4):602-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15874923</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2005 Aug 6;331(7512):313-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15996966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesthesiology. 2004 Sep;101(3):803; author reply 804-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15329616</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2001 Jan 30;98(3):831-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11158556</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2004 Apr 12;164(7):762-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15078646</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2006 Jan 14;332(7533):73-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16371403</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1996 Dec 5;335(23):1713-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8929262</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2001 Dec 4;135(11):982-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11730399</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1977 Oct 20;297(16):845-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">904659</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Jul 28;353(4):349-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16049209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2004 Mar 22;164(6):664-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15037496</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 1985 Nov-Dec;8(6):562-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4075941</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1992 Jul 8;268(2):233-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1608143</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1999 Dec 9;341(24):1789-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10588963</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

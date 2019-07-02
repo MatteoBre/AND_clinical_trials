@@ -1,0 +1,180 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15234948</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>01</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0193-936X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>26</Volume>
+<PubDate>
+<Year>2004</Year>
+</PubDate>
+</JournalIssue>
+<Title>Epidemiologic reviews</Title>
+<ISOAbbreviation>Epidemiol Rev</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Socioeconomic position and health among persons with diabetes mellitus: a conceptual framework and review of the literature.</ArticleTitle>
+<Pagination>
+<MedlinePgn>63-77</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Arleen F</ForeName>
+<Initials>AF</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095-1736, USA. abrown@mednet.ucla.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ettner</LastName>
+<ForeName>Susan L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Piette</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weinberger</LastName>
+<ForeName>Morris</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gregg</LastName>
+<ForeName>Edward</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shapiro</LastName>
+<ForeName>Martin F</ForeName>
+<Initials>MF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Karter</LastName>
+<ForeName>Andrew J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Safford</LastName>
+<ForeName>Monika</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Waitzfelder</LastName>
+<ForeName>Beth</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prata</LastName>
+<ForeName>Patricia A</ForeName>
+<Initials>PA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beckles</LastName>
+<ForeName>Gloria L</ForeName>
+<Initials>GL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>U-48-CCU916373</GrantID>
+<Acronym>CC</Acronym>
+<Agency>ODCDC CDC HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Epidemiol Rev</MedlineTA>
+<NlmUniqueID>7910703</NlmUniqueID>
+<ISSNLinking>0193-936X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003920">Diabetes Mellitus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015438">Health Behavior</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006282">Health Personnel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006297">Health Services Accessibility</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008962">Models, Theoretical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011787">Quality of Health Care</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012923">Social Class</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012959">Socioeconomic Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>263</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2004</Year>
+<Month>7</Month>
+<Day>6</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>1</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2004</Year>
+<Month>7</Month>
+<Day>6</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15234948</ArticleId>
+<ArticleId IdType="doi">10.1093/epirev/mxh002</ArticleId>
+<ArticleId IdType="pii">26/1/63</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,154 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24378514</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>01</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>05</Month>
+<Day>17</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">2325-9574</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>13</Volume>
+<Issue>4</Issue>
+<PubDate>
+<MedlineDate>2014 Jul-Aug</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the International Association of Providers of AIDS Care</Title>
+<ISOAbbreviation>J Int Assoc Provid AIDS Care</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Ritonavir-boosted lopinavir as maintenance monotherapy in HIV-infected patients who achieved viral suppression during a second-line protease inhibitor-based regimen: a pilot randomized trial (BIDI-MONO).</ArticleTitle>
+<Pagination>
+<MedlinePgn>353-60</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Eligibility criteria were (I) having previously failed first-line nonnucleoside reverse transcriptase inhibitor-based regimens and (2) having achieved virologic suppression &gt;6 months while receiving a protease inhibitor (PI)-based regimen as second-line treatment. Eligible participants were randomized to receive either (I) ritonavir-boosted lopinavir (LPV/r) monotherapy (n = 29) or (2) LPV/r with optimized background regimens (OBRs; n = 31). Median duration of viral suppression before randomization was 45 months. At week 48, viral suppression during LPV/r monotherapy was 86.2% and did not differ from the suppression achieved with LPV/r with OBRs (87.1%, P = 1.000). However, persistent viremia during LPV/r monotherapy tended to be higher than during LPV/r with OBRs (10.3% versus 3.2%, P = .346). History of viral blip during virologic suppression with second-line PI-based regimen is a predictor of achieving viral suppression at all visits (adjusted relative risk 0.255 [95% confidence interval 0.080-0.821], P = .022). Use of LPV/r monotherapy as maintenance regimen in this study produced persistent viremia that tended to be higher than LPV/r monotherapy with OBRs.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Siripassorn</LastName>
+<ForeName>Krittaecho</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chottanapund</LastName>
+<ForeName>Suthat</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prasithsirikul</LastName>
+<ForeName>Wisit</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Manosuthi</LastName>
+<ForeName>Weerawat</ForeName>
+<Initials>W</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Int Assoc Provid AIDS Care</MedlineTA>
+<NlmUniqueID>101603896</NlmUniqueID>
+<ISSNLinking>2325-9574</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017320">HIV Protease Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>2494G1JF75</RegistryNumber>
+<NameOfSubstance UI="D061466">Lopinavir</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D023241">Antiretroviral Therapy, Highly Active</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018791">CD4 Lymphocyte Count</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017320">HIV Protease Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061466">Lopinavir</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010865">Pilot Projects</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019562">Viral Load</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24378514</ArticleId>
+<ArticleId IdType="pii">2325957413511664</ArticleId>
+<ArticleId IdType="doi">10.1177/2325957413511664</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

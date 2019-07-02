@@ -1,0 +1,313 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23859235</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1971-4009</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>26</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>The neuroradiology journal</Title>
+<ISOAbbreviation>Neuroradiol J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Multiple sclerosis: identification of temporal changes in brain lesions with computer-assisted detection software.</ArticleTitle>
+<Pagination>
+<MedlinePgn>143-50</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Multiple sclerosis (MS) is a chronic disease with a progressing and evolving course. Serial imaging with MRI is the mainstay in monitoring and managing MS patients. In this work we demonstrate the performance of a locally developed computer-assisted detection (CAD) software used to track temporal changes in brain MS lesions. CAD tracks changes in T2-bright MS lesions between two time points on a 3D high-resolution isotropic FLAIR MR sequence of the brain acquired at 3 Tesla. The program consists of an image-processing pipeline, and displays scrollable difference maps used as an aid to the neuroradiologist for assessing lesional change. To assess the value of the software we have compared diagnostic accuracy and duration of interpretation of the CAD-assisted and routine clinical interpretations in 98 randomly chosen, paired MR examinations from 88 patients (68 women, 20 men, mean age 43.5, age range 21-75) with a diagnosis of definite MS. The ground truth was determined by a three-expert panel. In case-wise analysis, CAD interpretation showed higher sensitivity than a clinical report (87% vs 77%, respectively). Lesion-wise analysis demonstrated improved sensitivity of CAD over a routine clinical interpretation of 40%-48%. Mean software-assisted interpretation time was 2.7 min. Our study demonstrates the potential of including CAD software in the workflow of neuroradiology practice for the detection of MS lesional change. Automated quantification of temporal change in MS lesion load may also be used in clinical research, e.g., in drug trials. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bilello</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiology, Division of Neuroradiology, University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arkuszewski</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nucifora</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nasrallah</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Melhem</LastName>
+<ForeName>E R</ForeName>
+<Initials>ER</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cirillo</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krejza</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>05</Month>
+<Day>10</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Neuroradiol J</MedlineTA>
+<NlmUniqueID>101295103</NlmUniqueID>
+<ISSNLinking>1971-4009</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019540">Area Under Curve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001931">Brain Mapping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D021621">Imaging, Three-Dimensional</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009103">Multiple Sclerosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012984">Software</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>03</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>03</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>7</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>7</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>8</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23859235</ArticleId>
+<ArticleId IdType="pii">NRJ.v26.i2.p143</ArticleId>
+<ArticleId IdType="pmc">PMC5228721</ArticleId>
+<ArticleId IdType="doi">10.1177/197140091302600202</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Radiology. 2008 Apr;247(1):133-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18292478</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiology. 2009 Feb;250(2):506-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19037018</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Image Anal. 2011 Apr;15(2):267-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21233004</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AJNR Am J Neuroradiol. 2006 Feb;27(2):455-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16484429</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Comput Med Imaging Graph. 2008 Mar;32(2):124-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18055174</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1995 Dec;118 ( Pt 6):1593-600</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8595488</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AJNR Am J Neuroradiol. 2006 May;27(5):954-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16687523</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Radiol. 2006 Jul;16(7):1494-500</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16550354</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiology. 2008 Feb;246(2):463-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18094263</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroradiol J. 2012 Mar;25(1):17-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24028871</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Image Comput Comput Assist Interv. 2010;13(Pt 3):41-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20879381</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol. 2002 Jun;249(6):767-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12111312</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiology. 2010 Apr;255(1):154-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20308453</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>IEEE Trans Med Imaging. 2012 Jun;31(6):1181-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22318484</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroradiology. 1999 Dec;41(12):882-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10639661</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1997 Aug;49(2):364-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9270563</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acad Radiol. 2005 Jun;12 (6):681-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15935966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Magn Reson Imaging. 1998 Apr;16(3):311-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9621972</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Magn Reson Med. 1998 Jun;39(6):935-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9621917</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Image Comput Comput Assist Interv. 2010;13(Pt 2):290-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20879327</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

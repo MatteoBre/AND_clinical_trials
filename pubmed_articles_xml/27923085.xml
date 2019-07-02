@@ -1,0 +1,133 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27923085</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1538-3598</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>316</Volume>
+<Issue>21</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Dec</Month>
+<Day>06</Day>
+</PubDate>
+</JournalIssue>
+<Title>JAMA</Title>
+<ISOAbbreviation>JAMA</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Magnetic Resonance Imaging Exposure During Pregnancy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2275</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1001/jama.2016.17296</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Symons</LastName>
+<ForeName>Sean P</ForeName>
+<Initials>SP</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Imaging, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heyn</LastName>
+<ForeName>Chris</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Imaging, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Maralani</LastName>
+<ForeName>Pejman Jabehdar</ForeName>
+<Initials>PJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Imaging, University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>JAMA</MedlineTA>
+<NlmUniqueID>7501160</NlmUniqueID>
+<ISSNLinking>0098-7484</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>JAMA. 2016 Sep 6;316(9):952-61</RefSource>
+<PMID Version="1">27599330</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>JAMA. 2016 Dec 6;316(21):2275-2276</RefSource>
+<PMID Version="1">27923087</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011296">Prenatal Diagnosis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27923085</ArticleId>
+<ArticleId IdType="pii">2589337</ArticleId>
+<ArticleId IdType="doi">10.1001/jama.2016.17296</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

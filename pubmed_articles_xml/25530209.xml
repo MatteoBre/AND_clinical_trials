@@ -1,0 +1,144 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25530209</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1872-9614</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>42</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Nuclear medicine and biology</Title>
+<ISOAbbreviation>Nucl. Med. Biol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Donald M. Wieland, Ph.D.</ArticleTitle>
+<Pagination>
+<MedlinePgn>213-4</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.nucmedbio.2014.11.014</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0969-8051(14)00556-3</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Raffel</LastName>
+<ForeName>David M</ForeName>
+<Initials>DM</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nuclear Medicine, Department of Radiology, University of Michigan Medical School, 2276 Medical Science I Bldg., Ann Arbor, MI 48109, USA. Electronic address: raffel@umich.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kilbourn</LastName>
+<ForeName>Michael R</ForeName>
+<Initials>MR</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nuclear Medicine, Department of Radiology, University of Michigan Medical School, 2276 Medical Science I Bldg., Ann Arbor, MI 48109, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koeppe</LastName>
+<ForeName>Robert A</ForeName>
+<Initials>RA</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nuclear Medicine, Department of Radiology, University of Michigan Medical School, 2276 Medical Science I Bldg., Ann Arbor, MI 48109, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D019215">Biography</PublicationType>
+<PublicationType UI="D016456">Historical Article</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D019477">Portrait</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>09</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Nucl Med Biol</MedlineTA>
+<NlmUniqueID>9304420</NlmUniqueID>
+<ISSNLinking>0969-8051</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049673">History, 20th Century</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049674">History, 21st Century</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011871">Radiology</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000266">history</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<PersonalNameSubjectList>
+<PersonalNameSubject>
+<LastName>Wieland</LastName>
+<ForeName>Donald M</ForeName>
+<Initials>DM</Initials>
+</PersonalNameSubject>
+</PersonalNameSubjectList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25530209</ArticleId>
+<ArticleId IdType="pii">S0969-8051(14)00556-3</ArticleId>
+<ArticleId IdType="doi">10.1016/j.nucmedbio.2014.11.014</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

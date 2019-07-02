@@ -1,0 +1,207 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20864286</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>03</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>11</Month>
+<Day>07</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1872-7727</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>80</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>European journal of radiology</Title>
+<ISOAbbreviation>Eur J Radiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>High-intensity focused ultrasound combined with transarterial chemoembolization for unresectable hepatocellular carcinoma: long-term follow-up and clinical analysis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>662-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejrad.2010.08.042</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">High-intensity focused ultrasound (HIFU) combined with transarterial chemoembolization (TACE) has been used to treat unresectable HCC, but its long-term effects and major prognostic factors remain to be determined. The purpose of this study was to assess its long-term effects and find major prognostic factors to help us select eligible patients in the future.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">73 patients with unresectable HCC received follow-up after HIFU+TACE. The variables of sex, age, AFP level, liver function, tumor location, tumor number, tumor size, TNM staging (5th edition), TNM staging (6th edition), portal vein invasion, ultrasonic pathway of HIFU, TACE session and ablation response were evaluated by univariate analysis. Those variables with significant difference were assessed by multivariate analysis.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean follow-up time was 11.7±11.1 months (range, 1-60 months). The median survival time and overall survival rates of 1, 2, 3-year were 12 months, 49.1%, 18.8%, 8.4%, respectively. 45.2% patients achieved complete ablation. At the end of follow-up, 51 patients (69.9%) died from tumor progression (27 patients), liver function failure (18 patients), hemorrhage of upper digestive tract (3 patients) and infection (3 patients). 1 with liver abscess, 2 with serious skin burns and 2 with rib fracture were observed after HIFU. On univariate analysis, age (P=0.017), tumor size (P=0.000), tumor number (P=0.039), the 5th edition of TNM staging (P=0.023), portal vein invasion (P=0.02) and ablation response (P=0.000) had significant difference. On multivariate analysis, ablation response (P=0.001) and tumor size (P=0.013) were major prognostic factors.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">HIFU combined with TACE is a safe method with a low rate of severe complications. As major prognostic factors, ablation response and tumor size may help us predict the survival and select eligible patients clinically.</AbstractText>
+<CopyrightInformation>Copyright © 2010 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Jin</LastName>
+<ForeName>Chengbing</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Center for Tumor Therapy, 2nd Affiliated Hospital of Chongqing Medical University, and Department of Bioengineering, Chongqing Medical University, Chongqing 40010, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhu</LastName>
+<ForeName>Hui</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Zhibiao</ForeName>
+<Initials>Z</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Feng</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>Wenzhi</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Kequan</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Su</LastName>
+<ForeName>Haibing</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhou</LastName>
+<ForeName>Kun</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gong</LastName>
+<ForeName>Wenting</ForeName>
+<Initials>W</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>09</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Ireland</Country>
+<MedlineTA>Eur J Radiol</MedlineTA>
+<NlmUniqueID>8106411</NlmUniqueID>
+<ISSNLinking>0720-048X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006490">Hemostatics</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006528">Carcinoma, Hepatocellular</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016461">Chemoembolization, Therapeutic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006490">Hemostatics</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006498">Hepatectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008113">Liver Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008137">Longitudinal Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014464">Ultrasonic Therapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>03</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2010</Year>
+<Month>08</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>08</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>3</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20864286</ArticleId>
+<ArticleId IdType="pii">S0720-048X(10)00418-3</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ejrad.2010.08.042</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

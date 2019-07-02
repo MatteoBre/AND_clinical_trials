@@ -1,0 +1,1288 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22382359</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>02</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1460-2156</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>135</Volume>
+<Issue>Pt 11</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Brain : a journal of neurology</Title>
+<ISOAbbreviation>Brain</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Cerebral causes and consequences of parkinsonian resting tremor: a tale of two circuits?</ArticleTitle>
+<Pagination>
+<MedlinePgn>3206-26</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1093/brain/aws023</ELocationID>
+<Abstract>
+<AbstractText>Tremor in Parkinson's disease has several mysterious features. Clinically, tremor is seen in only three out of four patients with Parkinson's disease, and tremor-dominant patients generally follow a more benign disease course than non-tremor patients. Pathophysiologically, tremor is linked to altered activity in not one, but two distinct circuits: the basal ganglia, which are primarily affected by dopamine depletion in Parkinson's disease, and the cerebello-thalamo-cortical circuit, which is also involved in many other tremors. The purpose of this review is to integrate these clinical and pathophysiological features of tremor in Parkinson's disease. We first describe clinical and pathological differences between tremor-dominant and non-tremor Parkinson's disease subtypes, and then summarize recent studies on the pathophysiology of tremor. We also discuss a newly proposed 'dimmer-switch model' that explains tremor as resulting from the combined actions of two circuits: the basal ganglia that trigger tremor episodes and the cerebello-thalamo-cortical circuit that produces the tremor. Finally, we address several important open questions: why resting tremor stops during voluntary movements, why it has a variable response to dopaminergic treatment, why it indicates a benign Parkinson's disease subtype and why its expression decreases with disease progression.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Helmich</LastName>
+<ForeName>Rick C</ForeName>
+<Initials>RC</Initials>
+<AffiliationInfo>
+<Affiliation>Donders Institute for Brain, Cognition and Behaviour, Centre for Cognitive Neuroimaging, Radboud University Nijmegen, 6500 HB Nijmegen, The Netherlands, The Netherlands. r.helmich@neuro.umcn.nl</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hallett</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deuschl</LastName>
+<ForeName>Günther</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Toni</LastName>
+<ForeName>Ivan</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bloem</LastName>
+<ForeName>Bastiaan R</ForeName>
+<Initials>BR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>03</Month>
+<Day>01</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Brain</MedlineTA>
+<NlmUniqueID>0372537</NlmUniqueID>
+<ISSNLinking>0006-8950</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001479">Basal Ganglia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002531">Cerebellum</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002540">Cerebral Cortex</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059290">Dopaminergic Neurons</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059907">Functional Neuroimaging</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008959">Models, Neurological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009434">Neural Pathways</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010300">Parkinson Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011877">Radionuclide Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059326">Serotonergic Neurons</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013788">Thalamus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014202">Tremor</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>3</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>3</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22382359</ArticleId>
+<ArticleId IdType="pii">aws023</ArticleId>
+<ArticleId IdType="doi">10.1093/brain/aws023</ArticleId>
+<ArticleId IdType="pmc">PMC3501966</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Ann Nucl Med. 2009 Aug;23(6):605-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19455387</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2009 Jul 21;73(3):206-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19620608</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1967 May;17(5):427-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6067254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2011 Apr;33(8):1519-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21375599</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2009 Aug;80(8):921-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18450789</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Neurosci. 2007 Jul;30(7):365-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17559951</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2011 May;26(6):947-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21626541</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 1988 Mar;8(3):754-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3346719</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2010 Oct 5;75(14):1270-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20921512</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 2011 Oct 20;72(2):370-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22017994</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Neurol. 2009 Dec;8(12):1128-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19909911</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2006 Apr;23(7):1956-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16623853</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1988 Dec 23;242(4886):1654-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3059497</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2009 Jan 15;24(1):91-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18823037</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosurg. 2002 May;96(5):854-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12005392</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1998 Dec;121 ( Pt 12):2271-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9874480</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 2010 Jan 28;65(2):230-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20152129</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 1981 Dec;10(6):523-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7325601</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 1999 Mar;56(3):334-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10190824</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 2000;96(3):549-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10717435</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2000 Jan;15(1):84-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10634246</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2007 Jul 30;22(10):1402-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17516475</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurol. 2010 Apr;17(4):626-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20050904</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2008 Jun;79(6):694-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17898034</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2000 Oct 15;20(20):7766-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11027240</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2002;17 Suppl 3:S2-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11948749</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 2001 Oct;58(10):1611-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11594919</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1998 Sep;51(3):803-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9748030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2007 Jul;130(Pt 7):1787-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17535834</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1997 Dec 6;350(9092):1675</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9400514</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2011 Apr 15;55(4):1728-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21255661</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2010 May 4;107(18):8452-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20404184</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2006 Jul;129(Pt 7):1732-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16720681</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2003 Jan;126(Pt 1):199-212</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12477707</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res Brain Res Rev. 1989 Jan-Mar;14(1):1-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2720229</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 1988 Mar 15;444(1):165-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3359286</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 2001 Oct;58(10):1630-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11594921</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 1990;35(2):217-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2199839</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2000 Jul;15(4):692-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10928580</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Cybern. 2004 May;90(5):318-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15221392</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurosci Lett. 2001 May 18;304(1-2):17-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11335044</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2002 Sep;16(6):999-1014</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12383229</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2005 Feb;76(2):246-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15654041</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2003 Oct 14;61(7):1013-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14557586</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2004 Feb;21(2):608-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14980563</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cereb Cortex. 2007 Dec;17(12):2853-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17389627</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Neurophysiol. 1996 Mar;13(2):133-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8849968</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurosci Lett. 2002 Apr 19;323(1):29-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11911983</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1992 Jul 11;340(8811):125-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1352004</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Biosci. 2003 Sep 1;8:a155-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12957824</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2011 Jan 15;54(2):1244-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20851193</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Neurosci. 1989 Oct;12(10):366-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2479133</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1993 Feb;116 ( Pt 1):267-79</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8453462</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 1987 May;50(5):568-79</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3585382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res Brain Res Rev. 1996 Aug;22(2):93-181</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8883918</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 1984 May;47(5):443-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6736974</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2007 Oct 31;22(14):2063-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17674413</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2001 Nov;124(Pt 11):2131-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11673316</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurophysiol. 1995 Jun;73(6):2470-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7666153</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1988 Apr 7;318(14):876-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3352672</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2004 Feb;19(2):151-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14978669</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comp Neurol. 1997 Jun 9;382(3):323-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9183697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cogn Neurosci. 1998 Mar;10(2):178-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9555106</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 1988 Jan;24(1):161-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3259295</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Brain Mapp. 2012 Aug;33(8):1763-79</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21674693</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 1998 Nov 15;18(22):9438-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9801382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Neurosci. 1998 Jan;21(1):32-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9464684</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 1977 Dec;40(12):1129-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">591980</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroreport. 2007 Sep 17;18(14):1499-502</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17712282</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Neurosci. 2005 Jun;28(6):325-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15927689</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1998 Sep;51(3):850-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9748038</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2003 Sep;18(9):977-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14502664</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurophysiol. 2000 Jul;84(1):289-300</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10899204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Brain Mapp. 2008 Dec;29(12):1430-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17979119</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parkinsonism Relat Disord. 2000 Apr 1;6(2):69-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10699387</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1991 Feb 16;337(8738):403-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1671433</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2007 Nov 15;22(15):2210-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17712858</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Biol Eng Comput. 2004 May;42(3):345-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15191080</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2010 Dec 15;25(16):2884-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20836089</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2009 Feb;29(3):599-612</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19187268</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comp Neurol. 1998 Jun 29;396(2):169-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9634140</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2011 Feb;69(2):269-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21387372</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol. 2000 Sep;247 Suppl 5:V33-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11081802</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1994 Jun;117 ( Pt 3):531-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8032863</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 1993 Feb;50(2):140-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8431132</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2007 Nov;130(Pt 11):2898-914</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17855373</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2006 Aug;21(8):1123-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16637023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol. 2009 Feb;256(2):256-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19219572</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Neural Syst. 2010 Apr;20(2):109-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20411594</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comp Neurol. 2003 Mar 3;457(2):133-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12541315</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2002 Jun 1;22(11):4639-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12040070</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1997 Jan;120 ( Pt 1):103-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9055801</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 1989 Mar 20;482(2):381-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2565144</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2000 Jul;15(4):683-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10928579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2009 Nov;132(Pt 11):2958-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19812213</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2002 Jul;17(4):782-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12210876</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2002;17 Suppl 3:S155-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11948771</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci Methods. 2005 Jun 30;145(1-2):151-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15922033</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2005 Mar;76(3):343-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15716523</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1995 Nov 25;346(8987):1383-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7475819</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Physiol. 1984 Apr;349:227-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6737293</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2010 Aug;133(Pt 8):2394-409</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20566485</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2005 Feb 9;25(6):1523-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15703406</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 1999 Feb 15;19(4):1446-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9952421</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2005 Jun 29;25(26):6076-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15987937</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 1999 Aug;56(8):982-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10448804</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Neurol. 2010 Jan;6(1):29-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20057497</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2000 Nov 15;20(22):8559-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11069964</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1994 Apr;44(4):735-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8164834</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2000 Aug;123 ( Pt 8):1545-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10908186</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 1999 Nov;67(5):646-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10519872</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2003 May 15;23(10):4012-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12764086</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2003 Nov 13;349(20):1925-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14614167</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Neurobiol. 1996 Nov;50(4):381-425</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9004351</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1993 Apr;43(4):829-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8469347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurophysiol. 1989 Mar;61(3):488-500</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2709095</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Neurosci. 2007 Jul;30(7):357-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17532060</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cortex. 1998 Sep;34(4):611-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9800094</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2009 Feb 15;24(3):463-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19086080</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2011 Feb 15;26(3):416-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21264942</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 1994 Sep;14(5):783-801</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8063874</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2004 Apr;127(Pt 4):735-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14960502</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2003 Feb;18(2):163-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12539209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neural Transm Suppl. 1999;56:1-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10370901</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Neurobiol. 2010 Apr;20(2):156-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20359884</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neural Transm (Vienna). 2007 Mar;114(3):331-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16715205</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2008 Jan 16;28(3):633-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18199764</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 1998;13 Suppl 3:2-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9827589</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1991 Oct;114 ( Pt 5):2283-301</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1933245</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comp Neurol. 1999 Nov 22;414(3):334-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10516600</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 2009 Nov;66(11):1353-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19901166</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 1998;13 Suppl 3:29-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9827591</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Neurol. 2009 Aug;22(4):387-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19494773</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2009 Nov;132(Pt 11):2947-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19759203</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2006 May;77(5):585-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16614017</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Neurosci. 2011 Dec;34(12):611-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22018805</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parkinsonism Relat Disord. 2008;14(4):373-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17977779</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2009 Jun 13;373(9680):2055-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19524782</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Neurol. 2010;63(5):307-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20453513</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2010 Mar 3;30(9):3271-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20203186</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2008 Dec;131(Pt 12):3395-409</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18986993</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Neurobiol. 2006 Dec;16(6):629-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17084615</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1990 Oct;40(10):1529-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2215943</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2009 May 13;29(19):6105-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19439588</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Neurosci. 2000 Dec;12(12):4525-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11122363</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Life Sci. 1964 Jun;3:523-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14187491</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Sci. 1973 Dec;20(4):415-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4272516</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2003 Feb 25;60(4):601-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12601099</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2000 Jul 1;20(13):5153-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10864972</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 1981;6(5):863-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6113562</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Brain Res. 2011 Apr;210(2):165-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21424259</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroscience. 1998 Mar;83(1):107-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9466402</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 1994 Jun;35(6):717-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8210229</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1998 May;121 ( Pt 5):949-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9619196</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2008 Apr 15;70(16 Pt 2):1403-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18172064</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2002 Feb 26;58(4 Suppl 1):S57-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11909986</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2007 Mar;35(1):222-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17223579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1999 Feb 16;96(4):1674-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9990083</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1980 Jun;103(2):301-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7397480</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurobiol Aging. 2003 Mar-Apr;24(2):197-211</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12498954</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Comp Neurol. 2000 Sep 11;425(1):121-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10940946</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1999 Aug 12;400(6745):677-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10458164</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1985 Apr;35(4):522-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3982637</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1983 Jul;80(14):4546-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6192438</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuropathol Exp Neurol. 1991 Nov;50(6):743-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1748881</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2002 Apr 1;22(7):2855-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11923450</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1995 Mar;45(3 Pt 1):472-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7898699</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2010 Dec;68(6):816-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21194152</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 2003 Mar;60(3):387-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12633150</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Comput Biol. 2011 Aug;7(8):e1002124</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21852943</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 1999 Jul;46(1):126-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10401791</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2008 May;79(5):514-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18037629</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neural Transm (Vienna). 2008 May;115(5):721-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18335163</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2005 Aug 24;25(34):7771-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16120778</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Can J Neurol Sci. 2008 Sep;35(4):513-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18973074</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2008 Jan 30;23(2):168-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17973325</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1986 Feb;109 ( Pt 1):115-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3942853</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2003 Oct;18 Suppl 7:S43-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14531046</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurosurgery. 2010 Sep;67(3):626-32; discussion 632</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20647970</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2005 Aug 1;27(1):240-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15878674</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurosci Lett. 1986 Jul 11;68(1):51-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3487756</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2007 Sep;22 Suppl 17:S327-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18175393</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Brain Res. 2010;183:259-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20696324</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

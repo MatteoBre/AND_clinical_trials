@@ -1,0 +1,198 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21627399</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>02</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>10</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1651-2065</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>45</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Scandinavian journal of urology and nephrology</Title>
+<ISOAbbreviation>Scand. J. Urol. Nephrol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Oral supplementation of turmeric attenuates proteinuria, transforming growth factor-β and interleukin-8 levels in patients with overt type 2 diabetic nephropathy: a randomized, double-blind and placebo-controlled study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>365-70</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3109/00365599.2011.585622</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">End-stage renal disease (ESRD) due to type 2 diabetic nephropathy is a very common condition which is increasing in prevalence, and is associated with high global levels of mortality and morbidity. Both proteinuria and transforming growth factor-β (TGF-β) may contribute to the development of ESRD in patients with diabetic nephropathy. Experimental studies indicate that turmeric improves diabetic nephropathy by suppressing TGF-β. Therefore, this study investigated the effects of turmeric on serum and urinary TGF-β, interleukin-8 (IL-8) and tumour necrosis factor-α (TNF-α), as well as proteinuria, in patients with overt type 2 diabetic nephropathy.</AbstractText>
+<AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">A randomized, double-blind and placebo-controlled study was carried out in the Diabetes Clinic of the Outpatient Department of Shiraz University of Medical Sciences on 40 patients with overt type 2 diabetic nephropathy, randomized into a trial group (n = 20) and a control group (n = 20). Each patient in the trial group received one capsule with each meal containing 500 mg turmeric, of which 22.1 mg was the active ingredient curcumin (three capsules daily) for 2 months. The control group received three capsules identical in colour and size containing starch for the same 2 months.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Serum levels of TGF-β and IL-8 and urinary protein excretion and IL-8 decreased significantly comparing the pre- and post-turmeric supplementation values. No adverse effects related to turmeric supplementation were observed during the trial.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Short-term turmeric supplementation can attenuate proteinuria, TGF-β and IL-8 in patients with overt type 2 diabetic nephropathy and can be administered as a safe adjuvant therapy for these patients.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Khajehdehi</LastName>
+<ForeName>Parviz</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Shiraz Nephro-Urology Research Center, Shiraz University of Medical Sciences, Shiraz, Iran. khajehdp@hotmail.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pakfetrat</LastName>
+<ForeName>Maryam</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Javidnia</LastName>
+<ForeName>Katayoun</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Azad</LastName>
+<ForeName>Fariborz</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Malekmakan</LastName>
+<ForeName>Leila</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nasab</LastName>
+<ForeName>Mahshid Hashemi</ForeName>
+<Initials>MH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dehghanzadeh</LastName>
+<ForeName>Gholamreza</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>05</Month>
+<Day>31</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Scand J Urol Nephrol</MedlineTA>
+<NlmUniqueID>0114501</NlmUniqueID>
+<ISSNLinking>0036-5599</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016209">Interleukin-8</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016212">Transforming Growth Factor beta</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000284">Administration, Oral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D030024">Curcuma</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003924">Diabetes Mellitus, Type 2</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003928">Diabetic Nephropathies</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019587">Dietary Supplements</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016209">Interleukin-8</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008517">Phytotherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011507">Proteinuria</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016212">Transforming Growth Factor beta</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014409">Tumor Necrosis Factor-alpha</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>6</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>6</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21627399</ArticleId>
+<ArticleId IdType="doi">10.3109/00365599.2011.585622</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

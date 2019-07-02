@@ -1,0 +1,226 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20661924</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>11</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1531-8249</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>68</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Annals of neurology</Title>
+<ISOAbbreviation>Ann. Neurol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Reciprocal Th1 and Th17 regulation by mesenchymal stem cells: Implication for multiple sclerosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>540-5</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/ana.22065</ELocationID>
+<Abstract>
+<AbstractText>Human mesenchymal stem cells (hMSCs) are being considered for clinical trials of multiple sclerosis (MS). We examined the effects of adult bone marrow-derived hMSCs on responses of primary human Th1, Th17, and Th1/17 double-expressing T-cell subsets, all implicated in MS. As expected, soluble products from hMSCs inhibited Th1 responses; however, Th17 responses were increased. Secretion of interleukin (IL)-10, considered anti-inflammatory, was decreased. Pretreating hMSCs with the proinflammatory cytokine IL-1β accentuated these effects, and caused decreases in the Th1/17 subset. These findings underscore the importance of further preclinical work and immune-monitoring to define hMSC effects on disease-relevant immune responses under variable conditions.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Darlington</LastName>
+<ForeName>Peter J</ForeName>
+<Initials>PJ</Initials>
+<AffiliationInfo>
+<Affiliation>Neuroimmunology Unit, Montreal Neurological Institute, Montreal, Quebec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boivin</LastName>
+<ForeName>Marie-Noëlle</ForeName>
+<Initials>MN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Renoux</LastName>
+<ForeName>Christel</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>François</LastName>
+<ForeName>Moïra</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Galipeau</LastName>
+<ForeName>Jacques</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Freedman</LastName>
+<ForeName>Mark S</ForeName>
+<Initials>MS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Atkins</LastName>
+<ForeName>Harold L</ForeName>
+<Initials>HL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cohen</LastName>
+<ForeName>Jeffrey A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Solchaga</LastName>
+<ForeName>Luis</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bar-Or</LastName>
+<ForeName>Amit</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P30 CA43703</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Canadian Institutes of Health Research</Agency>
+<Country>Canada</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Ann Neurol</MedlineTA>
+<NlmUniqueID>7707449</NlmUniqueID>
+<ISSNLinking>0364-5134</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015703">Antigens, CD</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017077">Culture Media, Conditioned</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015703">Antigens, CD</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015496">CD4-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017077">Culture Media, Conditioned</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016207">Cytokines</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004797">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005434">Flow Cytometry</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007963">Leukocytes, Mononuclear</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008213">Lymphocyte Activation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059630">Mesenchymal Stem Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006377">T-Lymphocytes, Helper-Inducer</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018417">Th1 Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>7</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>7</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20661924</ArticleId>
+<ArticleId IdType="doi">10.1002/ana.22065</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

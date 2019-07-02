@@ -1,0 +1,388 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26912808</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1945-239X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>54</Volume>
+<Issue>5</Issue>
+<PubDate>
+<MedlineDate>2016 May-Jun</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Journal of chromatographic science</Title>
+<ISOAbbreviation>J Chromatogr Sci</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Systematic Development and Validation of a Thin-Layer Densitometric Bioanalytical Method for Estimation of Mangiferin Employing Analytical Quality by Design (AQbD) Approach.</ArticleTitle>
+<Pagination>
+<MedlinePgn>829-41</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1093/chromsci/bmw001</ELocationID>
+<Abstract>
+<AbstractText>The present work aims at the systematic development of a simple, rapid and highly sensitive densitometry-based thin-layer chromatographic method for the quantification of mangiferin in bioanalytical samples. Initially, the quality target method profile was defined and critical analytical attributes (CAAs) earmarked, namely, retardation factor (Rf), peak height, capacity factor, theoretical plates and separation number. Face-centered cubic design was selected for optimization of volume loaded and plate dimensions as the critical method parameters selected from screening studies employing D-optimal and Plackett-Burman design studies, followed by evaluating their effect on the CAAs. The mobile phase containing a mixture of ethyl acetate : acetic acid : formic acid : water in a 7 : 1 : 1 : 1 (v/v/v/v) ratio was finally selected as the optimized solvent for apt chromatographic separation of mangiferin at 262 nm withRf 0.68 ± 0.02 and all other parameters within the acceptance limits. Method validation studies revealed high linearity in the concentration range of 50-800 ng/band for mangiferin. The developed method showed high accuracy, precision, ruggedness, robustness, specificity, sensitivity, selectivity and recovery. In a nutshell, the bioanalytical method for analysis of mangiferin in plasma revealed the presence of well-resolved peaks and high recovery of mangiferin.</AbstractText>
+<CopyrightInformation>© The Author 2016. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Khurana</LastName>
+<ForeName>Rajneet Kaur</ForeName>
+<Initials>RK</Initials>
+<AffiliationInfo>
+<Affiliation>University Institute of Pharmaceutical Sciences, UGC Centre of Advanced Studies, Punjab University, Chandigarh 160 014, India.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rao</LastName>
+<ForeName>Satish</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Radiation Biology and Toxicology, School of Life Sciences, Manipal University, Manipal, Karnataka 576 104, India.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beg</LastName>
+<ForeName>Sarwar</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>University Institute of Pharmaceutical Sciences, UGC Centre of Advanced Studies, Punjab University, Chandigarh 160 014, India.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Katare</LastName>
+<ForeName>O P</ForeName>
+<Initials>OP</Initials>
+<AffiliationInfo>
+<Affiliation>University Institute of Pharmaceutical Sciences, UGC Centre of Advanced Studies, Punjab University, Chandigarh 160 014, India.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Singh</LastName>
+<ForeName>Bhupinder</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>University Institute of Pharmaceutical Sciences, UGC Centre of Advanced Studies, Punjab University, Chandigarh 160 014, India UGC-Centre of Excellence in Applications of Nanomaterials, Nanoparticles and Nanocomposites (Biomedical Sciences), Punjab University, Chandigarh 160 014, India bsbhoop@yahoo.com bsbhoop@pu.ac.in.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D023361">Validation Studies</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>02</Month>
+<Day>23</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Chromatogr Sci</MedlineTA>
+<NlmUniqueID>0173225</NlmUniqueID>
+<ISSNLinking>0021-9665</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D044004">Xanthones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1M84LD0UMD</RegistryNumber>
+<NameOfSubstance UI="C013592">mangiferin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003720">Densitometry</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057230">Limit of Detection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044004">Xanthones</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>07</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>31</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26912808</ArticleId>
+<ArticleId IdType="pii">bmw001</ArticleId>
+<ArticleId IdType="doi">10.1093/chromsci/bmw001</ArticleId>
+<ArticleId IdType="pmc">PMC4890448</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>PLoS One. 2013;8(2):e56894</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23451106</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Biomed Sci. 2013 Jun;9(2):68-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23847456</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Zhongguo Zhong Yao Za Zhi. 2011 Mar;36(5):598-602</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21657080</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Zhongguo Yao Li Xue Bao. 1993 Sep;14(5):452-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8010041</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Expert Opin Ther Pat. 2013 Dec;23(12):1561-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24066838</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fitoterapia. 2014 Mar;93:54-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24220727</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Rev Ther Drug Carrier Syst. 2005;22(1):27-105</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15715503</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chromatogr Sci. 2015 Aug;53(7):1048-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25583970</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2014 Mar 14;9(3):e92128</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24633329</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Drug Deliv. 2015 ;12 (5):544-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25731868</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Indian J Pharm Sci. 2009 Sep;71(5):585-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20502586</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Afr J Tradit Complement Altern Med. 2011;8(2):177-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22238500</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chromatogr B Analyt Technol Biomed Life Sci. 2010 Dec 15;878(32):3345-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21081292</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013 Aug 08;8(8):e71759</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23951240</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Adv Pharm Technol Res. 2010 Oct;1(4):388-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22247878</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharm Biomed Anal. 2007 Jan 17;43(2):769-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16959462</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Vis. 2010 Aug 17;16:1659-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20806037</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Food Chem. 2015 Jun 1;176:91-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25624210</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Indian J Pharm Sci. 2014 May;76(3):179-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25035528</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AAPS J. 2008 Jun;10(2):268-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18465252</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chromatogr A. 2003 Feb 14;987(1-2):367-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12613830</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Saudi Pharm J. 2013 Jan;21(1):93-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23960823</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Environ Toxicol. 2012 Feb;27(2):117-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20629087</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chromatogr Sci. 2010 Feb;48(2):156-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20109296</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biomed Chromatogr. 2006 Dec;20(12):1304-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17006966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chromatogr. 1992 Jun 10;577(2):371-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1400769</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pharmazie. 2014 Mar;69(3):168-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24716404</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2014 Sep 18;9(9):e107220</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25233093</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharm Biomed Anal. 2013 Jul-Aug;81-82:34-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23624157</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int Immunopharmacol. 2014 Nov;23(1):170-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25194678</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chromatogr Sci. 2014 Jan;52(1):1-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23247031</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Daru. 2013 Jan 29;21(1):11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23356399</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chromatogr Sci. 2004 Apr;42(4):207-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15154983</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Ocul Pharmacol Ther. 2010 Aug;26(4):319-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20653476</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>ISRN Pharmacol. 2013 Sep 12;2013:750109</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24167738</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biomed Chromatogr. 2016 Jun;30(6):818-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26352459</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Yakugaku Zasshi. 2001 May;121(5):371-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11360491</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

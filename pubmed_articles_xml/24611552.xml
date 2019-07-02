@@ -1,0 +1,220 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24611552</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>06</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>11</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1365-2141</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>165</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>British journal of haematology</Title>
+<ISOAbbreviation>Br. J. Haematol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Outcome of overt stroke in sickle cell anaemia, a single institution's experience.</ArticleTitle>
+<Pagination>
+<MedlinePgn>707-13</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/bjh.12795</ELocationID>
+<Abstract>
+<AbstractText>Stroke is a traumatic complication in sickle cell anaemia (SCA) that is associated with significant morbidity and a risk of recurrent overt stroke of 2·2-6·4 events per 100 patient-years. A retrospective study was performed on all paediatric SCA patients diagnosed with a history of overt stroke between 1997 and 2010. A total of 31 children with SCA had new onset overt stroke. The mean age of the active patients (n = 27) was 17·9 years (range 6·8-27·6 years) with a total period of observation of 305 patient-years. Twenty-two of 27 (81%) were receiving long term red blood cell transfusions and 16 (59%) were taking the anti-platelet agent, aspirin, since diagnosis of the stroke. Two of 27 (7%) patients had a second overt stroke with an overall risk of recurrent stroke of 0·66/100 patient-years (one stroke was ischaemic and the other haemorrhagic). In patients taking aspirin with 180 patient-years of follow up, the recurrence rate of haemorrhagic stroke was 0·58/100 patient-years. We have an excellent outcome for overt stroke in paediatric SCA patients with a low rate of recurrent stroke. Further studies are needed to determine the risk-benefit ratio of aspirin therapy in the prevention of recurrent stroke in paediatric SCA. </AbstractText>
+<CopyrightInformation>© 2014 John Wiley &amp; Sons Ltd.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Majumdar</LastName>
+<ForeName>Suvankar</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, University of Mississippi Medical Center, Jackson, MS, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miller</LastName>
+<ForeName>Morgan</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khan</LastName>
+<ForeName>Majid</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gordon</LastName>
+<ForeName>Catherine</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Forsythe</LastName>
+<ForeName>Amy</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>Mary G</ForeName>
+<Initials>MG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Megason</LastName>
+<ForeName>Gail</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Iyer</LastName>
+<ForeName>Rathi</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>02</Month>
+<Day>26</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+<ISSNLinking>0007-1048</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010975">Platelet Aggregation Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>R16CO5Y76E</RegistryNumber>
+<NameOfSubstance UI="D001241">Aspirin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000755">Anemia, Sickle Cell</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001241">Aspirin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017707">Erythrocyte Transfusion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010975">Platelet Aggregation Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055502">Secondary Prevention</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020521">Stroke</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">aspirin</Keyword>
+<Keyword MajorTopicYN="N">platelet</Keyword>
+<Keyword MajorTopicYN="N">sickle cell anaemia</Keyword>
+<Keyword MajorTopicYN="N">stroke</Keyword>
+<Keyword MajorTopicYN="N">survival</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>01</Month>
+<Day>10</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24611552</ArticleId>
+<ArticleId IdType="doi">10.1111/bjh.12795</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

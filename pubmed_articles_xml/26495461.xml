@@ -1,0 +1,125 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26495461</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>04</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>10</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1603-6824</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>175</Volume>
+<Issue>41</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Oct</Month>
+<Day>07</Day>
+</PubDate>
+</JournalIssue>
+<Title>Ugeskrift for laeger</Title>
+<ISOAbbreviation>Ugeskr. Laeg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Physicians' role in prioritization should be limited].</ArticleTitle>
+<Pagination>
+<MedlinePgn>2444</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bondo</LastName>
+<ForeName>Lillian</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gjerris</LastName>
+<ForeName>Mickey</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hansen</LastName>
+<ForeName>Søren Peter</ForeName>
+<Initials>SP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kattrup</LastName>
+<ForeName>Lene</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Larsen</LastName>
+<ForeName>Ester</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mark</LastName>
+<ForeName>Edith</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>dan</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Lægers rolle i prioritering bør begrænses.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Denmark</Country>
+<MedlineTA>Ugeskr Laeger</MedlineTA>
+<NlmUniqueID>0141730</NlmUniqueID>
+<ISSNLinking>0041-5782</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D003718">Denmark</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006292">Health Priorities</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010819">Physician's Role</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010817">Physician-Patient Relations</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>7</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26495461</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

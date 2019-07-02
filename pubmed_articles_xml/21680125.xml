@@ -1,0 +1,197 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21680125</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>01</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1872-7727</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>79</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>European journal of radiology</Title>
+<ISOAbbreviation>Eur J Radiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>CT-guided percutaneous lung biopsy: comparison of conventional CT fluoroscopy to CT fluoroscopy with electromagnetic navigation system in 60 consecutive patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e133-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejrad.2011.05.030</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To determine if use of an electromagnetic navigation system (EMN) decreases radiation dose and procedure time of CT fluoroscopy guided lung biopsy in lesions smaller than 2.5 cm.</AbstractText>
+<AbstractText Label="MATERIALS/METHODS" NlmCategory="METHODS">86 consecutive patients with small lung masses (&lt;2.5 cm) were approached. 60 consented and were randomized to undergo biopsy with CT fluoroscopy (CTF) (34 patients) or EMN (26 patients). Technical failure required conversion to CTF in 8/26 EMN patients; 18 patients completed biopsy with EMN. Numerous biopsy parameters were compared as described below.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Average fluoroscopy time using CTF was 28.2s compared to 35.0 s for EMN (p=0.1). Average radiation dose was 117 mGy using CTF and 123 mGy for EMN (p=0.7). Average number of needle repositions was 3.7 for CTF and 4.4 for EMN (p=0.4). Average procedure time was 15 min for CTF and 20 min for EMN (p=0.01). There were 7 pneumothoracesin the CTF group and 6 pneumothoraces in the EMN group (p=0.7). One pneumothorax in the CTF group and 3 pneumothoraces in the EMN group required chest tube placement (p=0.1). One pneumothorax patient in each group required hospital admission. Diagnostic specimens were obtained in 31/34 patients in the CTF group and 22/26 patients in the EMN group (p=0.4).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">EMN was not statistically different than CTF for fluoroscopy time, radiation dose, number of needle repositions, incidence of pneumothorax, need for chest tube, or diagnostic yield. Procedure time was increased with EMN.</AbstractText>
+<CopyrightInformation>Copyright © 2011 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Grand</LastName>
+<ForeName>David Justin</ForeName>
+<Initials>DJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Diagnostic Imaging, Warren Alpert School of Medicine, Brown University, Providence, RI 02903, United States. dgrand@lifespan.org</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Atalay</LastName>
+<ForeName>Michael A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cronan</LastName>
+<ForeName>John J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mayo-Smith</LastName>
+<ForeName>William W</ForeName>
+<Initials>WW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dupuy</LastName>
+<ForeName>Damian E</ForeName>
+<Initials>DE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>06</Month>
+<Day>15</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Ireland</Country>
+<MedlineTA>Eur J Radiol</MedlineTA>
+<NlmUniqueID>8106411</NlmUniqueID>
+<ISSNLinking>0720-048X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001706">Biopsy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D055590">Electromagnetic Phenomena</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057918">Fiducial Markers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005471">Fluoroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011829">Radiation Dosage</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015641">Radiography, Interventional</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D025321">Surgery, Computer-Assisted</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>03</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2011</Year>
+<Month>05</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2011</Year>
+<Month>05</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>6</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>6</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>1</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21680125</ArticleId>
+<ArticleId IdType="pii">S0720-048X(11)00532-8</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ejrad.2011.05.030</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

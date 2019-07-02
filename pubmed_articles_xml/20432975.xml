@@ -1,0 +1,160 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20432975</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>05</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>23</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1343-3490</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>48</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Nihon Kokyuki Gakkai zasshi = the journal of the Japanese Respiratory Society</Title>
+<ISOAbbreviation>Nihon Kokyuki Gakkai Zasshi</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Bronchiolitis with IgG4-positive plasma cell infiltration in a patient with bronchial asthma].</ArticleTitle>
+<Pagination>
+<MedlinePgn>317-21</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A 49-year-old-man was admitted to our hospital because of cough, wheezing, and dyspnea. Chest CT showed bilateral bronchocentric nodules and increased bronchial thickness. And he was given a diagnosis of bronchial asthma. However, another small airway disease, such as diffuse panbronchiolitis (DPB) was also suspected, and surgical lung biopsy was performed. The biopsy specimens showed a prominent peribronchial lymphoplasmacytic and eosinophilic infiltration with IgG4-positive plasma cells. IgG4-positive plasma cells may play a role in the pathogenesis of bronchiolar diseases associated with allergic airway inflammation.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hasegawa</LastName>
+<ForeName>Hirotsugu</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Respiratory Medicine, Hamamatsu University School of Medicine.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nakamura</LastName>
+<ForeName>Yutaro</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kono</LastName>
+<ForeName>Masato</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Akamatsu</LastName>
+<ForeName>Taisuke</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaida</LastName>
+<ForeName>Yusuke</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Inui</LastName>
+<ForeName>Naoki</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Suda</LastName>
+<ForeName>Takafumi</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chida</LastName>
+<ForeName>Kingo</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>jpn</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Japan</Country>
+<MedlineTA>Nihon Kokyuki Gakkai Zasshi</MedlineTA>
+<NlmUniqueID>9808802</NlmUniqueID>
+<ISSNLinking>1343-3490</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007074">Immunoglobulin G</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001249">Asthma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001988">Bronchiolitis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007074">Immunoglobulin G</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010950">Plasma Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20432975</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

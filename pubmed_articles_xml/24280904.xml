@@ -1,0 +1,173 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24280904</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>08</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>12</Month>
+<Day>27</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1932-751X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>34</Volume>
+<Issue>1</Issue>
+<PubDate>
+<MedlineDate>2014 Jan-Feb</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Journal of cardiopulmonary rehabilitation and prevention</Title>
+<ISOAbbreviation>J Cardiopulm Rehabil Prev</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Deep breathing exercises performed 2 months following cardiac surgery: a randomized controlled trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>34-42</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/HCR.0000000000000020</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Postoperative breathing exercises are recommended to cardiac surgery patients. Instructions concerning how long patients should continue exercises after discharge vary, and the significance of treatment needs to be determined. Our aim was to assess the effects of home-based deep breathing exercises performed with a positive expiratory pressure device for 2 months following cardiac surgery.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The study design was a prospective, single-blinded, parallel-group, randomized trial. Patients performing breathing exercises 2 months after cardiac surgery (n = 159) were compared with a control group (n = 154) performing no breathing exercises after discharge. The intervention consisted of 30 slow deep breaths performed with a positive expiratory pressure device (10-15 cm H2O), 5 times a day, during the first 2 months after surgery. The outcomes were lung function measurements, oxygen saturation, thoracic excursion mobility, subjective perception of breathing and pain, patient-perceived quality of recovery (40-Item Quality of Recovery score), health-related quality of life (36-Item Short Form Health Survey), and self-reported respiratory tract infection/pneumonia and antibiotic treatment.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Two months postoperatively, the patients had significantly reduced lung function, with a mean decrease in forced expiratory volume in 1 second to 93 ± 12% (P&lt; .001) of preoperative values. Oxygenation had returned to preoperative values, and 5 of 8 aspects in the 36-Item Short Form Health Survey were improved compared with preoperative values (P&lt; .01). There were no significant differences between the groups in any of the measured outcomes.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">No significant differences in lung function, subjective perceptions, or quality of life were found between patients performing home-based deep breathing exercises and control patients 2 months after cardiac surgery.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Westerdahl</LastName>
+<ForeName>Elisabeth</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>School of Health and Medical Sciences, Örebro University, Örebro, Sweden (Dr Westerdahl); Departments of Physiotherapy (Dr Westerdahl and Mr Jonsson), Cardiothoracic Surgery (Dr Westerdahl and Mr Jonsson), and Occupational and Environmental Medicine (Ms Bryngelsson), Örebro University Hospital, Örebro, Sweden; and Physiotherapy, Department of Neuroscience (Dr Urell and Dr Emtner), and Respiratory Medicine and Allergology (Dr Emtner) and Clinical Physiology (Dr Hedenström), Department of Medical Sciences, Uppsala University, Uppsala, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Urell</LastName>
+<ForeName>Charlotte</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jonsson</LastName>
+<ForeName>Marcus</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bryngelsson</LastName>
+<ForeName>Ing-Liss</ForeName>
+<Initials>IL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hedenström</LastName>
+<ForeName>Hans</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Emtner</LastName>
+<ForeName>Margareta</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Cardiopulm Rehabil Prev</MedlineTA>
+<NlmUniqueID>101291247</NlmUniqueID>
+<ISSNLinking>1932-7501</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D001945">Breathing Exercises</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006348">Cardiac Surgical Procedures</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000534">rehabilitation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006331">Heart Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008991">Monitoring, Physiologic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011183">Postoperative Complications</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011184">Postoperative Period</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011788">Quality of Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012129">Respiratory Function Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24280904</ArticleId>
+<ArticleId IdType="doi">10.1097/HCR.0000000000000020</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

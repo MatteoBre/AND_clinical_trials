@@ -1,0 +1,124 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">6043404</PMID>
+<DateCompleted>
+<Year>1967</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0001-2475</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>9</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>1967</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>ASHA</Title>
+<ISOAbbreviation>ASHA</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Studies on the occurrence of natural thorium and uranium in a kidney removed surgically because of clear cell carcinoma].</ArticleTitle>
+<Pagination>
+<MedlinePgn>17-24</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Majewski</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wszolek</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kukiel</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kubiak</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>pol</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Badania nad wystepowaniem naturalnego toru i uranu w nerce usunietej chirurgicznie z powodu raka jasnokomórkowego.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>ASHA</MedlineTA>
+<NlmUniqueID>0370563</NlmUniqueID>
+<ISSNLinking>0001-2475</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>4OC371KSTK</RegistryNumber>
+<NameOfSubstance UI="D014501">Uranium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>60YU5MIG9W</RegistryNumber>
+<NameOfSubstance UI="D013910">Thorium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000230">Adenocarcinoma</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007680">Kidney Neoplasms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013910">Thorium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014501">Uranium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1967</Year>
+<Month>6</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1967</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1967</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6043404</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

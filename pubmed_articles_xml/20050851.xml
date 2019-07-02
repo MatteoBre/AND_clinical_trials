@@ -1,0 +1,474 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20050851</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>07</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-5381</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>159</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Feb</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>British journal of pharmacology</Title>
+<ISOAbbreviation>Br. J. Pharmacol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The intermediate conductance Ca2+-activated K+ channel inhibitor TRAM-34 stimulates proliferation of breast cancer cells via activation of oestrogen receptors.</ArticleTitle>
+<Pagination>
+<MedlinePgn>650-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1476-5381.2009.00557.x</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">K(+) channels play a role in the proliferation of cancer cells. We have investigated the effects of specific K(+) channel inhibitors on basal and oestrogen-stimulated proliferation of breast cancer cells.</AbstractText>
+<AbstractText Label="EXPERIMENTAL APPROACH" NlmCategory="METHODS">Using the mammary adenocarcinoma cell line MCF-7 we assayed cell proliferation by radiolabelled thymidine incorporation in the absence or presence of various K(+) channel inhibitors with or without 17beta-oestradiol.</AbstractText>
+<AbstractText Label="KEY RESULTS" NlmCategory="RESULTS">Inhibitors of K(v)10.1 and K(Ca)3.1 K(+) channels suppressed basal proliferation of MCF-7 cells, but not oestrogen-stimulated proliferation. TRAM-34, a specific inhibitor of K(Ca)3.1 channels increased or decreased cell proliferation depending on the concentration. At intermediate concentrations (3-10 microM) TRAM-34 increased cell proliferation, whereas at higher concentrations (20-100 microM) TRAM-34 decreased cell proliferation. The enhancement of cell proliferation caused by TRAM-34 was blocked by the oestrogen receptor antagonists ICI182,780 and tamoxifen. TRAM-34 also increased progesterone receptor mRNA expression, decreased oestrogen receptor-alpha mRNA expression and reduced the binding of radiolabelled oestrogen to MCF-7 oestrogen receptor, in each case mimicking the effects of 17beta-oestradiol.</AbstractText>
+<AbstractText Label="CONCLUSIONS AND IMPLICATIONS" NlmCategory="CONCLUSIONS">Our results demonstrate that K(+) channels K(v)10.1 and K(Ca)3.1 play a role in basal, but not oestrogen-stimulated MCF-7 cell proliferation. TRAM-34, as well as inhibiting K(Ca)3.1, directly interacts with the oestrogen receptor and mimics the effects of 17beta-oestradiol on MCF-7 cell proliferation and gene modulation. Our finding that TRAM-34 is able to activate the oestrogen receptor suggests a novel action of this supposedly specific K(+) channel inhibitor and raises concerns of interpretation in its use.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Roy</LastName>
+<ForeName>J W</ForeName>
+<Initials>JW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physiology and Biophysics, Dalhousie University, Halifax, Canada. jwroy@dal.ca</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cowley</LastName>
+<ForeName>E A</ForeName>
+<Initials>EA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blay</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Linsdell</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>24</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Br J Pharmacol</MedlineTA>
+<NlmUniqueID>7502536</NlmUniqueID>
+<ISSNLinking>0007-1188</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D047628">Estrogen Receptor alpha</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004967">Estrogens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D024681">Potassium Channels, Calcium-Activated</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011720">Pyrazoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011960">Receptors, Estrogen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011980">Receptors, Progesterone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C411671">TRAM 34</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C506487">estrogen receptor alpha, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>094ZI81Y45</RegistryNumber>
+<NameOfSubstance UI="D013629">Tamoxifen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>4TI98Z838E</RegistryNumber>
+<NameOfSubstance UI="D004958">Estradiol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>SY7Q814VUP</RegistryNumber>
+<NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002118">Calcium</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002477">Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D022082">Cellular Structures</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004958">Estradiol</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047628">Estrogen Receptor alpha</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004967">Estrogens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017136">Ion Transport</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D024681">Potassium Channels, Calcium-Activated</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011720">Pyrazoles</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011960">Receptors, Estrogen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011980">Receptors, Progesterone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013629">Tamoxifen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>1</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>1</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>7</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20050851</ArticleId>
+<ArticleId IdType="pii">BPH557</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1476-5381.2009.00557.x</ArticleId>
+<ArticleId IdType="pmc">PMC2828028</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2000 Jul 5;97(14):8151-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10884437</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2009 Apr 16;28(15):1792-806</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19270724</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Receptors Channels. 2001;7(5):345-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11697078</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocr Relat Cancer. 2003 Jun;10(2):179-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12790780</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Pharmacol. 2004 Mar;65(3):630-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14978241</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem Biophys Res Commun. 2004 Mar 26;316(1):244-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15003537</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pflugers Arch. 2004 Jun;448(3):274-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15048575</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Cell Physiol. 2004 Jul;287(1):C125-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14985237</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Steroids. 2004 Jun;69(6):401-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15219790</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2004 Oct 1;64(19):6996-7001</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15466192</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 1973 Sep 10;248(17):6251-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4353636</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocrinology. 1989 May;124(5):2577-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2651098</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1996 Jun 11;93(12):5925-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8650195</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Membr Biol. 1996 Nov;154(2):91-107</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8929284</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Toxicol Appl Pharmacol. 1997 Jun;144(2):363-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9194421</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Membr Biol. 1999 Sep 15;171(2):107-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10489423</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arterioscler Thromb Vasc Biol. 2005 Apr;25(4):704-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15662023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 2005 Jun 6;579(14):2995-3000</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15893312</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Biophys J. 2005 Aug;34(6):515-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16184309</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Membr Biol. 2005 Jun;205(3):115-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16362499</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Membr Biol. 2005 Jun;205(3):159-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16362504</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Membr Biol. 2005 Jun;205(3):175-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16362505</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2006 May 12;281(19):13030-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16537547</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 2006 May 22;580(12):2850-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16783874</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Detect Prev. 2006;30(4):375-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16971052</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pflugers Arch. 2006 Nov;453(2):167-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17047984</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Med Chem. 2007;14(13):1437-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17584055</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Physiol. 2007 Sep;212(3):690-701</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17520698</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2007 Aug 2;26(35):5107-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17310992</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pflugers Arch. 2007 Sep;454(6):945-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17429684</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Cell Physiol. 2007 Sep;293(3):C1010-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17596298</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Membr Biol. 2008 Jan;221(1):1-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18060344</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Pharmacol. 2008 Mar;153 Suppl 2:S1-209</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18347570</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Expert Rev Mol Diagn. 2008 Mar;8(2):179-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18366304</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Rep. 2008 Jun;19(6):1511-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18497958</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2008 Sep;118(9):3025-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18688283</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2000 Nov 24;275(47):37137-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10961988</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,115 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15723578</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>05</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>11</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1477-9072</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>3</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Expert review of cardiovascular therapy</Title>
+<ISOAbbreviation>Expert Rev Cardiovasc Ther</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Heart failure in the elderly.</ArticleTitle>
+<Pagination>
+<MedlinePgn>99-106</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Heart failure is the most common reason for hospitalization among older adults in the USA, and impacts five million people. Most people with heart failure are elderly, but in older people the management of the disease is complicated by comorbid conditions. Common problems in the elderly, such as dementia, frailty and depression, are more common in the elderly heart failure population. This review discusses an approach to identifying and managing these problems while managing heart failure. A suggested approach to older people with heart failure addresses the screening and integration of common geriatric problems into heart failure care.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Goodlin</LastName>
+<ForeName>Sarah J</ForeName>
+<Initials>SJ</Initials>
+<AffiliationInfo>
+<Affiliation>Intermountain Healthcare, Institute for Healthcare Delivery Research, Salt Lake City, UT, USA. sarah.goodlin@ihc.com</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Expert Rev Cardiovasc Ther</MedlineTA>
+<NlmUniqueID>101182328</NlmUniqueID>
+<ISSNLinking>1477-9072</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015897">Comorbidity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004358">Drug Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006333">Heart Failure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006760">Hospitalization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>78</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>2</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>5</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>2</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15723578</ArticleId>
+<ArticleId IdType="pii">ERC030111</ArticleId>
+<ArticleId IdType="doi">10.1586/14779072.3.1.99</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

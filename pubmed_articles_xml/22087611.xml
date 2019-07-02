@@ -1,0 +1,126 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22087611</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>04</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1557-7708</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>17</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of alternative and complementary medicine (New York, N.Y.)</Title>
+<ISOAbbreviation>J Altern Complement Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>What is Bowenwork®? A systematic review.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1001-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1089/acm.2010.0023</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The objectives of this study were to systematically review the literature available on the complementary approach to healing known as Bowenwork(®) and to examine reported research methods.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">To the authors' knowledge, an exhaustive search of the computerized databases from the known scientific community on all available published literature on Bowenwork(®) was conducted. Databases included Medline Ovid, PubMed, PsychINFO, and CINAHL(®). The literature search included English language studies (1985-September 5, 2009) using the following search terms: Bowen Technique, Bowen Therapy, Bowtech, and Bowenwork(®). In addition, a hand search of individual journals noted to publish complementary and alternative medicine articles was done (1997-2009). Abstracts of all studies were reviewed. Studies were included if (1) they referenced the original Bowenwork, (2) provided health-related outcomes, and (3) provided quantitative or qualitative data. Excluded articles included testimonials, duplicates, unrelated topics, literature reviews, articles lacking verifiable sources, and studies from proprietary resources.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 309 citations obtained, only 15 articles met the inclusion criteria (randomized clinical trial, n=1; quasi-experimental, n=2; mixed methods, n=3; cross-sectional, n=2; case study, n=7). Over half of these studies (53%) reported that Bowenwork was effective for pain reduction and 33% reported improved mobility. In addition, several studies (n=5) reported the effectiveness of Bowenwork(®) on the relief of symptoms experienced by persons living with a chronic illness, such as multiple sclerosis.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Bowenwork(®) may provide a noninvasive and affordable complementary approach to improvements in health. This intervention may offer improvements in pain reduction for various conditions such as frozen shoulder and migraines. While Bowenwork is recognized internationally, scientific evidence is not well documented. Further research is needed to systematically test this modality, before widespread recommendations can be given.</AbstractText>
+<CopyrightInformation>© Mary Ann Liebert, Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hansen</LastName>
+<ForeName>Christine</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>College of Nursing, University of Arizona, Tucson, AZ 85721, USA. chansen@nursing.arizona.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taylor-Piliae</LastName>
+<ForeName>Ruth E</ForeName>
+<Initials>RE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+<PublicationType UI="D000078182">Systematic Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Altern Complement Med</MedlineTA>
+<NlmUniqueID>9508124</NlmUniqueID>
+<ISSNLinking>1075-5535</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002908">Chronic Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D051346">Mobility Limitation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009103">Multiple Sclerosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D026201">Musculoskeletal Manipulations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059352">Musculoskeletal Pain</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017063">Outcome Assessment (Health Care)</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>4</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22087611</ArticleId>
+<ArticleId IdType="doi">10.1089/acm.2010.0023</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

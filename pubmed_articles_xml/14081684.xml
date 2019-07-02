@@ -1,0 +1,117 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">14081684</PMID>
+<DateCompleted>
+<Year>1996</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<JournalIssue CitedMedium="Print">
+<Volume>56</Volume>
+<PubDate>
+<MedlineDate>1963 May-Jun</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Bulletin de la Societe de pathologie exotique et de ses filiales</Title>
+<ISOAbbreviation>Bull Soc Pathol Exot Filiales</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[THE RICKETTSIAL AND NEORICKETTSIAL ETIOLOGY OF MULTIPLE SCLEROSIS CONFERS A PRIMORDIAL IMPORTANCE ON THE EARLY DIAGNOSIS OF THIS DISEASE].</ArticleTitle>
+<Pagination>
+<MedlinePgn>296-300</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>LEGAC</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>ARQUIE</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>DIDIER</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>GAUDY</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>fre</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>L''ETIOLOGIE RICKETTSIENNE ET N'EO-RICKETTSIENNE DE LA SCL'EROSE EN PLAQUES CONF'ERE   AU DIAGNOSTIC PR'ECOCE DE CETTE AFFECTION UNE IMPORTANCE PRIMORDIALE.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>France</Country>
+<MedlineTA>Bull Soc Pathol Exot Filiales</MedlineTA>
+<NlmUniqueID>7503399</NlmUniqueID>
+</MedlineJournalInfo>
+<CitationSubset>OM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003933">Diagnosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D042241">Early Diagnosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D047108">Embryonic Development</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009103">Multiple Sclerosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D041102">Neorickettsia</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012282">Rickettsia Infections</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NLM">
+<Keyword MajorTopicYN="Y">DIAGNOSIS</Keyword>
+<Keyword MajorTopicYN="Y">MULTIPLE SCLEROSIS</Keyword>
+<Keyword MajorTopicYN="Y">NEORICKETTSIA</Keyword>
+<Keyword MajorTopicYN="Y">RICKETTSIAL DISEASES</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1963</Year>
+<Month>5</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1963</Year>
+<Month>5</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1963</Year>
+<Month>5</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14081684</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

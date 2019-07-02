@@ -1,0 +1,484 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16357350</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>04</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1067-5027</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>13</Volume>
+<Issue>2</Issue>
+<PubDate>
+<MedlineDate>2006 Mar-Apr</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American Medical Informatics Association : JAMIA</Title>
+<ISOAbbreviation>J Am Med Inform Assoc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Improving ambulatory prescribing safety with a handheld decision support system: a randomized controlled trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>171-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate the effectiveness of a personal digital assistant (PDA)-based clinical decision support system (CDSS) on nonsteroidal anti-inflammatory drug (NSAID) prescribing safety in the outpatient setting.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">The design was a randomized, controlled trial conducted in a university-based resident clinic. Internal medicine residents received a PDA-based CDSS suite. For intervention residents, the CDSS included a prediction rule for NSAID-related gastrointestinal risk assessment and treatment recommendations. Unannounced standardized patients (SPs) trained to portray musculoskeletal symptoms presented to study physicians. Safety outcomes were assessed from the prescriptions given to the SPs. Each prescription was reviewed by a committee of clinicians blinded to participant, intervention group assignment, and baseline or follow-up status.</AbstractText>
+<AbstractText Label="MEASUREMENTS" NlmCategory="METHODS">Prescriptions were judged as safe or unsafe. The main outcome measure was the differential change in unsafe prescribing of NSAIDs for the intervention versus the control group.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">At baseline, the mean proportion of cases per physician with unsafe prescriptions for the two groups was similar (0.27 vs. 0.29, p &gt; 0.05). Controlling for baseline performance, intervention participants prescribed more safely than controls after receiving the CDSS (0.23 vs. 0.45 [F = 4.24, p &lt; 0.05]). With the CDSS, intervention participants documented more complete assessment of patient gastrointestinal risk from NSAIDs.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">PARTICIPANTS provided with a PDA-based CDSS for NSAID prescribing made fewer unsafe treatment decisions than participants without the CDSS.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Berner</LastName>
+<ForeName>Eta S</ForeName>
+<Initials>ES</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Health Services Administration, University of Alabama at Birmingham, 1675 University Boulevard, Room 544, Birmingham, AL 35294-3361, USA. eberner@uab.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Houston</LastName>
+<ForeName>Thomas K</ForeName>
+<Initials>TK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ray</LastName>
+<ForeName>Midge N</ForeName>
+<Initials>MN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Allison</LastName>
+<ForeName>Jeroan J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heudebert</LastName>
+<ForeName>Gustavo R</ForeName>
+<Initials>GR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chatham</LastName>
+<ForeName>W Winn</ForeName>
+<Initials>WW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kennedy</LastName>
+<ForeName>John I</ForeName>
+<Initials>JI</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Glandon</LastName>
+<ForeName>Gerald L</ForeName>
+<Initials>GL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Norton</LastName>
+<ForeName>Patricia A</ForeName>
+<Initials>PA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crawford</LastName>
+<ForeName>Myra A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Maisiak</LastName>
+<ForeName>Richard S</ForeName>
+<Initials>RS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R18 HS011820</GrantID>
+<Acronym>HS</Acronym>
+<Agency>AHRQ HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R18 HS 11820</GrantID>
+<Acronym>HS</Acronym>
+<Agency>AHRQ HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2005</Year>
+<Month>12</Month>
+<Day>15</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Am Med Inform Assoc</MedlineTA>
+<NlmUniqueID>9430800</NlmUniqueID>
+<ISSNLinking>1067-5027</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000555">Ambulatory Care Information Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D034201">Computers, Handheld</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020000">Decision Support Systems, Clinical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004360">Drug Therapy, Computer-Assisted</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005767">Gastrointestinal Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006785">Hospitals, University</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008508">Medication Errors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010044">Outpatient Clinics, Hospital</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019095">Point-of-Care Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>4</Month>
+<Day>8</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16357350</ArticleId>
+<ArticleId IdType="pii">M1961</ArticleId>
+<ArticleId IdType="doi">10.1197/jamia.M1961</ArticleId>
+<ArticleId IdType="pmc">PMC1447547</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Diabetes Care. 1995 Mar;18(3):382-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7555482</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Med Inform Assoc. 2005 Jul-Aug;12(4):365-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15802474</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fam Med. 1996 Mar;28(3):204-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8900554</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1997 Jan 23;336(4):243-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8995086</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Emerg Med. 1997 Apr;29(4):459-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9095005</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 2000 Mar;83(3):416-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10744147</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2000 Sep 13;284(10):1247-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10979111</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2000 Nov 23;343(21):1520-8, 2 p following 1528</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11087881</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2001 Mar 20;134(6):509-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11255530</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Med Inform Assoc. 2002 May-Jun;9(3):223-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11971883</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2002 Aug;46(8):2195-200</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12209525</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2002 Sep 28;325(7366):679</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12351358</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Teach Learn Med. 2003 Winter;15(1):25-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12632705</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Med Inform Assoc. 2005 Jul-Aug;12(4):458-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15802487</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1993 Mar 3;269(9):1127-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8433468</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1995 May 27;345(8961):1326-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7752753</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1995 Sep 6;274(9):700-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7650822</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CMAJ. 2003 Sep 16;169(6):549-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12975221</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 2003 Oct;30(10):2226-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14528521</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 2003 Oct;30(10):2241-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14528523</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Med Inform Assoc. 2003 Nov-Dec;10(6):605-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12925551</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med. 2003 Dec 15;115(9):715-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14693324</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Healthc Inf Manag. 2004 Winter;18(1):72-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14971083</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Med Inform. 2004 Feb;73(1):25-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15036076</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 1985 Dec;145(12):2222-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2934038</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Gastroenterol Suppl. 1987;128:152-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3306894</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 1989 Feb;96(2 Pt 2 Suppl):647-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2909442</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1992 Jan 1;116(1):1-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1727091</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Geriatr Soc. 1992 Jul;40(7):662-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1607581</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1992 Nov 1;117(9):705-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1416571</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Intern Med. 1997 Jul;12(7):439-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9229283</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1997 Sep 15;127(6):429-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9312999</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Manag Care. 1998 Jan;4(1):37-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10179905</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1998 Oct 21;280(15):1311-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9794308</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1999 Jun 17;340(24):1888-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10369853</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 1999 Sep 11;319(7211):670-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10480822</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Mar 3;352(9):860-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15745975</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2005 Mar 9;293(10):1223-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15755945</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Mar 10;352(10):969-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15758007</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Mar 17;352(11):1092-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15713943</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Mar 17;352(11):1071-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15713944</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Mar 17;352(11):1081-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15713945</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2005 Apr 2;330(7494):765</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15767266</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1996 Feb 28;275(8):611-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8594242</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

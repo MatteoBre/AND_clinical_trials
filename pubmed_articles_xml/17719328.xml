@@ -1,0 +1,235 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17719328</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>10</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0002-9149</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>100</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Sep</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>The American journal of cardiology</Title>
+<ISOAbbreviation>Am. J. Cardiol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Metabolic syndrome components in african-americans and European-american patients and its relation to coronary artery disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>830-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A number of factors used to define the metabolic syndrome (MS) differ between African-American and European-American patients, which raises the question whether the individual constellation of MS components would impact cardiovascular risk. Our objectives were to assess the association between the MS and coronary artery disease (CAD) across ethnicities and to explore whether the constellation used to define the syndrome would impact any such association. We studied the distribution of the MS and its relation to CAD in 304 European-American subjects and 224 African-American subjects undergoing diagnostic coronary angiography. The overall prevalence of the MS in European-American and African-American subjects were 65.5% and 49.1%, respectively. Compared with European-American subjects, the lipid components of the syndrome were less frequent among African-American subjects (44% vs 64% [p &lt;0.001] for high-density lipoprotein [HDL] cholesterol and 21% vs 51% [p &lt;0.001] for triglyceride, respectively). The prevalence of CAD was significantly higher in subjects with MS across ethnicity (71.1% of European-American subjects and 56.6% of African-American subjects, p = 0.017 and p = 0.046, respectively). Multiple regression analyses demonstrated an association of blood pressure and HDL cholesterol with CAD among European-American subjects, which remained significant taking other risk factors into account (r(2) = 0.542, p &lt;0.001). In conclusion, presence of CAD was more common among subjects with MS independently of ethnicity. Of the MS components, blood pressure was associated with CAD among European-American subjects. Although our findings may not be directly extrapolated to the population at large, they illustrate the importance of a high-risk metabolic environment as a cardiovascular risk factor.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Anuurad</LastName>
+<ForeName>Erdembileg</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of California Davis, Davis, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chiem</LastName>
+<ForeName>Alan</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pearson</LastName>
+<ForeName>Thomas A</ForeName>
+<Initials>TA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Berglund</LastName>
+<ForeName>Lars</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>HL 49735</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL 62705</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>RR 24146</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>06</Month>
+<Day>28</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Cardiol</MedlineTA>
+<NlmUniqueID>0207277</NlmUniqueID>
+<ISSNLinking>0002-9149</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008076">Cholesterol, HDL</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014280">Triglycerides</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D001741">African Americans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001786">Blood Glucose</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050218">Body Fat Distribution</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008076">Cholesterol, HDL</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017023">Coronary Angiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003324">Coronary Artery Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000208">ethnology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D044465">European Continental Ancestry Group</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D024821">Metabolic Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000208">ethnology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009518">New York</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009519">New York City</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012737">Sex Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014280">Triglycerides</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2007</Year>
+<Month>03</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2007</Year>
+<Month>04</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2007</Year>
+<Month>04</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>10</Month>
+<Day>12</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17719328</ArticleId>
+<ArticleId IdType="pii">S0002-9149(07)01050-8</ArticleId>
+<ArticleId IdType="doi">10.1016/j.amjcard.2007.04.025</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

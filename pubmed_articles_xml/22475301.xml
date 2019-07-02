@@ -1,0 +1,170 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22475301</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>09</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1521-0669</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>29</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pediatric hematology and oncology</Title>
+<ISOAbbreviation>Pediatr Hematol Oncol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>D-dimer and portal vein status in splenectomized Egyptian β-thalassemia major patients: a prospective single-thalassemia center experience.</ArticleTitle>
+<Pagination>
+<MedlinePgn>247-53</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3109/08880018.2011.645186</ELocationID>
+<Abstract>
+<AbstractText>Splenectomy is a recognized cause of portal vein thrombosis. Thirty-six β-thalassemia major (β-TM) patients were followed up for 36 months to evaluate changes in D-dimer levels (as a possible marker for thrombosis development) and portal vein status (by portal duplex ultrasound) at both early and late postlaparoscopic splenectomy periods. They were classified into group I if they were splenectomized in the study period (n = 12), or group II if they were splenectomized during the 5 years preceding the period (n = 24). In group I, D-dimer was measured 5 times: 1 day presplenectomy, the 1st week, 6th week, and 6th month postsplenectomy, and at the study end, whereas in group II, D-dimer was measured twice: at the study entry and end. Portal duplex was done 1 week postsplenectomy (group I) and at study end in both groups. Presplenectomy D-dimer levels in group I were significantly higher compared with the 6th month (P = .042) and study end (P = .03), whereas 1st week (postsplenectomy) D-dimer levels had a high mean of 3497.3 ng/mL, lowered at the 6th week (P = .017), at the 6th month (P = .008), and at study end (P = .005). D-dimer levels in group II showed no difference between study entry and end (P = .104). Portal vein "diameter and flow" were within normal findings in both groups. In this 3-year prospective study, a subclinical hypercoagulable state was detected 1 day prior to splenectomy and in the early postsplenectomy period, as evidenced by high D-dimer levels. Laparoscopic splenectomy was not associated with portal venous thrombosis either clinically or by duplex sonography.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Elalfy</LastName>
+<ForeName>Mohsen Saleh</ForeName>
+<Initials>MS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatric Hematology, Ain Shams University, Cairo, Egypt. elalfym@hotmail.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andrawes</LastName>
+<ForeName>Nevine Gamal</ForeName>
+<Initials>NG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sadek</LastName>
+<ForeName>Azza Mohamad</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hussein</LastName>
+<ForeName>Omar</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abdou</LastName>
+<ForeName>Abeer</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Pediatr Hematol Oncol</MedlineTA>
+<NlmUniqueID>8700164</NlmUniqueID>
+<ISSNLinking>0888-0018</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005338">Fibrin Fibrinogen Degradation Products</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C036309">fibrin fragment D</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D004534">Egypt</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005338">Fibrin Fibrinogen Degradation Products</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011169">Portal Vein</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055503">Protein Multimerization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D013156">Splenectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019851">Thrombophilia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013927">Thrombosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017086">beta-Thalassemia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>4</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>4</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22475301</ArticleId>
+<ArticleId IdType="doi">10.3109/08880018.2011.645186</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

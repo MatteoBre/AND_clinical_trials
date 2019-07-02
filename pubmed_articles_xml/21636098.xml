@@ -1,0 +1,203 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21636098</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>02</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1878-5883</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>310</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Nov</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the neurological sciences</Title>
+<ISOAbbreviation>J. Neurol. Sci.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A double-blind, placebo-controlled, randomized, crossover pilot study of the safety and efficacy of multiple doses of intra-oral tropicamide films for the short-term relief of sialorrhea symptoms in Parkinson's disease patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>248-50</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jns.2011.05.021</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This proof-of-concept, pilot study aimed to explore the safety and anti-sialorrhea efficacy of single doses of intra-oral slow dissolving thin films containing tropicamide (NH004) or placebo.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Nineteen non-demented, idiopathic stable or fluctuating PD patients who complained of sialorrhea received 3 doses (0.3, 1, 3mg) of tropicamide and placebo in random order, separated by 7 days. A 10-cm visual analog scale (VAS) was used to measure the patient's subjective feelings of saliva levels at baseline and at 15, 30, 45, 90 and 120 min after treatment administration. For the last 7 patients, saliva volume was measured at baseline and 75 min after treatment. Fluctuating patients were evaluated in the ON-condition.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean age of included patients was 67±12 years, 78% were male. Median disease duration was 8 years. The mean decrease in VAS score from baseline to 120 min were -0.55±0.54, -1.08±0.54, -1.53±0.52 and -0.81±0.51 for placebo and 0.3, 1 and 3mg tropicamide, respectively (F=0.6 p=0.6, ANOVA). Tropicamide 1mg resulted in a significant VAS score decrease (95%CI: -2.57 to -0.48). Saliva volume was reduced by 27%, 33% or 20% after tropicamide 0.3, 1 or 3mg vs 5% with placebo (p=0.5, Friedman). No adverse events were detected in any of the treatment sequences.</AbstractText>
+<AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">Results of this pilot, proof-of-concept study show that NH004 was safe and exerted antisialorrhea effects worthy of further exploration.</AbstractText>
+<CopyrightInformation>Copyright © 2011 Elsevier B.V. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lloret</LastName>
+<ForeName>Santiago Perez</ForeName>
+<Initials>SP</Initials>
+<AffiliationInfo>
+<Affiliation>Movement Disorders Section, Raul Carrea Institute for Neurological Research (FLENI), Buenos Aires, Argentina. splloret@fleni.org.ar</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nano</LastName>
+<ForeName>Gabriela</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carrosella</LastName>
+<ForeName>Andrea</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gamzu</LastName>
+<ForeName>Elkan</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Merello</LastName>
+<ForeName>Marcelo</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>06</Month>
+<Day>01</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>J Neurol Sci</MedlineTA>
+<NlmUniqueID>0375403</NlmUniqueID>
+<ISSNLinking>0022-510X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018727">Muscarinic Antagonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>N0A3Z5XTC6</RegistryNumber>
+<NameOfSubstance UI="D014331">Tropicamide</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000284">Administration, Oral</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000704">Analysis of Variance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016503">Drug Delivery Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018727">Muscarinic Antagonists</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010147">Pain Measurement</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010300">Parkinson Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010865">Pilot Projects</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012798">Sialorrhea</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014331">Tropicamide</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>02</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2011</Year>
+<Month>04</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2011</Year>
+<Month>05</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>6</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>6</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21636098</ArticleId>
+<ArticleId IdType="pii">S0022-510X(11)00282-6</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jns.2011.05.021</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

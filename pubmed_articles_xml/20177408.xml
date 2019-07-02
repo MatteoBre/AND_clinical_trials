@@ -1,0 +1,277 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20177408</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>08</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-5578</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>16</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Molecular psychiatry</Title>
+<ISOAbbreviation>Mol. Psychiatry</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Macrophage migration inhibitory factor is critically involved in basal and fluoxetine-stimulated adult hippocampal cell proliferation and in anxiety, depression, and memory-related behaviors.</ArticleTitle>
+<Pagination>
+<MedlinePgn>533-47</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/mp.2010.15</ELocationID>
+<Abstract>
+<AbstractText>Intensive research is devoted to unravel the neurobiological mechanisms mediating adult hippocampal neurogenesis, its regulation by antidepressants, and its behavioral consequences. Macrophage migration inhibitory factor (MIF) is a pro-inflammatory cytokine that is expressed in the CNS, where its function is unknown. Here, we show, for the first time, the relevance of MIF expression for adult hippocampal neurogenesis. We identify MIF expression in neurogenic cells (in stem cells, cells undergoing proliferation, and in newly proliferated cells undergoing maturation) in the subgranular zone of the rodent dentate gyrus. A causal function for MIF in cell proliferation was shown using genetic (MIF gene deletion) and pharmacological (treatment with the MIF antagonist Iso-1) approaches. Behaviorally, genetic deletion of MIF resulted in increased anxiety- and depression-like behaviors, as well as of impaired hippocampus-dependent memory. Together, our studies provide evidence supporting a pivotal function for MIF in both basal and antidepressant-stimulated adult hippocampal cell proliferation. Moreover, loss of MIF results in a behavioral phenotype that, to a large extent, corresponds with alterations predicted to arise from reduced hippocampal neurogenesis. These findings underscore MIF as a potentially relevant molecular target for the development of treatments linked to deficits in neurogenesis, as well as to problems related to anxiety, depression, and cognition.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Conboy</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Behavioral Genetics, Brain Mind Institute, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Varea</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Castro</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sakouhi-Ouertatani</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Calandra</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lashuel</LastName>
+<ForeName>H A</ForeName>
+<Initials>HA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sandi</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>02</Month>
+<Day>23</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Mol Psychiatry</MedlineTA>
+<NlmUniqueID>9607835</NlmUniqueID>
+<ISSNLinking>1359-4184</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018687">Antidepressive Agents, Second-Generation</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008263">Macrophage Migration-Inhibitory Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D009419">Nerve Tissue Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011987">Receptors, Steroid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C092775">neuronal pentraxin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>01K63SUP8D</RegistryNumber>
+<NameOfSubstance UI="D005473">Fluoxetine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-41-4</RegistryNumber>
+<NameOfSubstance UI="D002097">C-Reactive Protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>G34N38R2N1</RegistryNumber>
+<NameOfSubstance UI="D001973">Bromodeoxyuridine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>W980KJ009P</RegistryNumber>
+<NameOfSubstance UI="D003345">Corticosterone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000161">Acoustic Stimulation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018687">Antidepressive Agents, Second-Generation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001007">Anxiety</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001973">Bromodeoxyuridine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002097">C-Reactive Protein</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003213">Conditioning (Psychology)</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003345">Corticosterone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003863">Depression</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005239">Fear</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005473">Fluoxetine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006624">Hippocampus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008263">Macrophage Migration-Inhibitory Factors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000172">deficiency</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018782">Maze Learning</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008569">Memory Disorders</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018345">Mice, Knockout</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018613">Microscopy, Confocal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009419">Nerve Tissue Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055495">Neurogenesis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017208">Rats, Wistar</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011987">Receptors, Steroid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013037">Spatial Behavior</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>8</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20177408</ArticleId>
+<ArticleId IdType="pii">mp201015</ArticleId>
+<ArticleId IdType="doi">10.1038/mp.2010.15</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

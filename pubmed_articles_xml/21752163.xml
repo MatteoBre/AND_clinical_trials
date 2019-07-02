@@ -1,0 +1,233 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21752163</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>11</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>09</Month>
+<Day>04</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1365-3156</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>16</Volume>
+<Issue>10</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Tropical medicine &amp; international health : TM &amp; IH</Title>
+<ISOAbbreviation>Trop. Med. Int. Health</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Can lay community health workers be trained to use diagnostics to distinguish and treat malaria and pneumonia in children? Lessons from rural Uganda.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1234-42</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-3156.2011.02831.x</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine the competence of community health workers (CHWs) to correctly assess, classify and treat malaria and pneumonia among under-five children after training.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Consultations of 182 under-fives by 14 CHWs in Iganga district, Uganda, were observed using standardised checklists. Each CHW saw 13 febrile children. Two paediatricians observed CHWs' assessment, classification and prescription of treatment, while a laboratory scientist assessed CHW use of malaria rapid diagnostic tests (RDTs). The validity of CHWs' use of RDTs to detect malaria and respiratory timers to diagnose pneumonia was estimated using a laboratory scientist's RDT repeat reading and a paediatrician's repeat count of the respiratory rate, respectively.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">From the 182 consultations, overall CHWs' performance was adequate in taking history (97%), use (following procedures prior to reading result) of timers (96%) and use of RDTs (96%), but inadequate in classification (87%). Breath readings (classified as fast or normal) were 85% in agreement with the paediatrician (κ = 0.665, P &lt; 0.001). All RDT readings were in agreement with those obtained by the laboratory scientist. Ninety-six per cent (85/89) of children with a positive RDT were prescribed an antimalarial drug, 40% (4/10) with fast breathing (gold standard) were prescribed an antibiotic and 91% (48/53) with both were prescribed both medicines.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Community health workers can be trained to use RDTs and timers to assess and manage malaria and pneumonia in children. We recommend integration of these diagnostics into community case management of fever. CHWs require enhanced practice in counting respiratory rates and simple job aides to enable them make a classification without thinking deeply about several assessment results.</AbstractText>
+<CopyrightInformation>© 2011 Blackwell Publishing Ltd.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mukanga</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology and Biostatistics, Makerere University School of Public Health, Kampala, Uganda. dmukanga@afenet.net</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Babirye</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peterson</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pariyo</LastName>
+<ForeName>G W</ForeName>
+<Initials>GW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ojiambo</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tibenderana</LastName>
+<ForeName>J K</ForeName>
+<Initials>JK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nsubuga</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kallander</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>07</Month>
+<Day>14</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Trop Med Int Health</MedlineTA>
+<NlmUniqueID>9610576</NlmUniqueID>
+<ISSNLinking>1360-2276</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000890">Anti-Infective Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000962">Antimalarials</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000890">Anti-Infective Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000962">Antimalarials</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019090">Case Management</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp; administration</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060085">Coinfection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003150">Community Health Workers</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000193">education</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003937">Diagnosis, Differential</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005334">Fever</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000469">parasitology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059232">Laboratory Personnel</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008288">Malaria</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011014">Pneumonia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012107">Research Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D056152">Respiratory Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012424">Rural Population</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014454">Uganda</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21752163</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1365-3156.2011.02831.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

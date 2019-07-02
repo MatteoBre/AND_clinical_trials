@@ -1,0 +1,140 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23203442</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>09</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1557-9700</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>64</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Mar</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Psychiatric services (Washington, D.C.)</Title>
+<ISOAbbreviation>Psychiatr Serv</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Improving treatment engagement of underserved U.S. racial-ethnic groups: a review of recent interventions.</ArticleTitle>
+<Pagination>
+<MedlinePgn>212-22</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1176/appi.ps.201100136</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Unequal mental health among U.S. underserved racial-ethnic populations has become a prominent national concern. Contributing to this inequity is our limited ability to engage individuals from underserved populations into treatment. To help address this, a systematic literature review was conducted to examine the evidence base for interventions that can improve mental health treatment engagement among underserved racial-ethnic minority populations.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A MEDLINE search and bibliographic review yielded 1,611 studies that were reviewed according to several inclusion criteria: publication during or after 2001, U.S. adult sample, a randomized design, sufficient (≥50%) representation of underserved racial-ethnic groups, adequate sample size (≥27 participants per condition), explicit focus on mental health treatment engagement, and evaluation of an engagement outcome (for example, adherence or retention).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Ten studies met inclusion criteria. Evidence supported the efficacy of collaborative care for depression as an engagement enhancement intervention among underserved racial-ethnic populations. Several other interventions demonstrated possible efficacy. The effect of the interventions on clinical outcomes, such as symptom improvement and rehospitalization, was mixed.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Collaborative care for depression can be recommended for improving engagement in depression care in primary care among underserved racial-ethnic populations. Future research should continue to examine approaches with initial evidence of efficacy in order to expand the number of engagement enhancement interventions for underserved racial-ethnic adult populations. Additional issues for future engagement research include relative intervention efficacy across racial-ethnic groups, inclusion of other understudied groups (for example, Asian Americans and Native Americans), and greater clarification of the impact of improved engagement on clinical outcomes.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Interian</LastName>
+<ForeName>Alejandro</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Mental Health and Behavioral Sciences Service, Veterans Affairs New Jersey Healthcare System, Lyons, New Jersey, USA. alejandro.interian@va.gov</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lewis-Fernández</LastName>
+<ForeName>Roberto</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dixon</LastName>
+<ForeName>Lisa B</ForeName>
+<Initials>LB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+<PublicationType UI="D000078182">Systematic Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Psychiatr Serv</MedlineTA>
+<NlmUniqueID>9502838</NlmUniqueID>
+<ISSNLinking>1075-2730</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005006">Ethnic Groups</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006293">Health Promotion</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054625">Healthcare Disparities</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008507">Medically Underserved Area</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001523">Mental Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008913">Minority Groups</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010342">Patient Acceptance of Health Care</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011613">Psychotherapy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23203442</ArticleId>
+<ArticleId IdType="pii">1471378</ArticleId>
+<ArticleId IdType="doi">10.1176/appi.ps.201100136</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

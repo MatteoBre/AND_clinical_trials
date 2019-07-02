@@ -1,0 +1,142 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">1443241</PMID>
+<DateCompleted>
+<Year>1992</Year>
+<Month>12</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0002-953X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>149</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>1992</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>The American journal of psychiatry</Title>
+<ISOAbbreviation>Am J Psychiatry</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Measuring the determinants of work values for psychiatrists' services in the resource-based relative value scale study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1654-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">As part of the Harvard resource-based relative value scale study, the authors investigated how well the codes in the Physician's Current Procedural Terminology, 4th edition, or CPT-4, match psychiatric services to the work involved in evaluating and managing patients and how patient care characteristics affect different levels of psychiatric work.</AbstractText>
+<AbstractText Label="METHOD" NlmCategory="METHODS">A random sample of over 200 psychiatrists and subspecialists was asked to use 68 typical clinical examples or vignettes to evaluate services described by CPT codes. Data were analyzed by multivariate statistical methods.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The survey showed that the existing coding system does not adequately describe the work that psychiatrists do. Within a single code (e.g., 90844, individual medical psychotherapy), there was wide (more than twofold) variation in the estimates, from multiple measurements based on different vignettes, of the amount of work represented. Estimates of work values varied significantly according to treatment setting and patient characteristics: psychiatric services in the hospital showed an average work value 25% greater than that for office services; treating new patients involved 18% more effort than treating established patients; and treating patients described as at risk of harming self or others increased the psychiatrists' work effort by 36%.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Revisions in coding evaluation and management services in the new Medicare fee schedule for psychiatric services should be further refined and then implemented. These revisions would bring the coding system into line with psychiatric practice, making it a better way of accounting for the relative work involved in treating patients of varying difficulty.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Dorwart</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Health Policy and Management, Harvard School of Public Health, Cambridge, Mass.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rodriguez</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dernburg</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Braun</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>NIMH 278-0024</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Psychiatry</MedlineTA>
+<NlmUniqueID>0370512</NlmUniqueID>
+<ISSNLinking>0002-953X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005245">Fee Schedules</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006278">Medicare</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000331">legislation &amp; jurisprudence</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010818">Practice Patterns, Physicians'</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011570">Psychiatry</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012494">Sampling Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1992</Year>
+<Month>12</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1992</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1992</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1443241</ArticleId>
+<ArticleId IdType="doi">10.1176/ajp.149.12.1654</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

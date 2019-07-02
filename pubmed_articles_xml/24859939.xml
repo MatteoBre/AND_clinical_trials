@@ -1,0 +1,235 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24859939</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>06</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>10</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1534-4681</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>21</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Annals of surgical oncology</Title>
+<ISOAbbreviation>Ann. Surg. Oncol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Predicting the extent of nodal disease in early-stage breast cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>3440-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1245/s10434-014-3813-4</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The role of regional nodal ultrasound (US) has been questioned since publication of the American College of Surgeons Oncology Group (ACOSOG) Z0011 data. The goal of this study was to determine if imaging and clinicopathologic features could predict the extent of axillary nodal involvement in breast cancer.</AbstractText>
+<AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">Patients with T1-T2 tumors who underwent regional nodal US and axillary lymph node dissection from 2002 to 2012 were identified from a prospective database excluding those who received neoadjuvant chemotherapy. Patients whose metastases were identified by US confirmed by needle biopsy were compared with those identified by sentinel lymph node dissection (SLND) after a negative US.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Metastases were identified by US in 190 patients, and by SLND in 518 patients. SLND patients had fewer positive nodes (2.2 vs. 4.1; p &lt; 0.0001), smaller metastases (5.3 vs. 13.8 mm; p &lt; 0.0001), and a lower incidence of extranodal extension (24 vs. 53 %; p &lt; 0.0001) than the US group. Even when US identified ≤2 abnormal nodes, patients were still more likely to have ≥3 positive nodes (45 %) than SLND patients (19 %; p &lt; 0.001). After adjusting for tumor size, receptor status, and histology, multivariate analysis revealed that metastases identified by US [odds ratio (OR) 4.01; 95 % confidence interval (CI) 2.75-5.84] and lobular histology (OR 1.77; 95 % CI 1.06-2.95) predicted having ≥3 positive nodes.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Imaging and clinicopathologic features can be used to predict the extent of nodal involvement. Patients with US-detected metastases, even if small volume, have a higher burden of nodal involvement than patients with SLND-detected metastases and may not be comparable with patients in the ACOSOG Z0011 trial.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Caudle</LastName>
+<ForeName>Abigail S</ForeName>
+<Initials>AS</Initials>
+<AffiliationInfo>
+<Affiliation>The University of Texas MD Anderson Cancer Center, Houston, TX, USA, ascaudle@mdanderson.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kuerer</LastName>
+<ForeName>Henry M</ForeName>
+<Initials>HM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Le-Petross</LastName>
+<ForeName>Huong T</ForeName>
+<Initials>HT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Wei</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yi</LastName>
+<ForeName>Min</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bedrosian</LastName>
+<ForeName>Isabelle</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krishnamurthy</LastName>
+<ForeName>Savitri</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fornage</LastName>
+<ForeName>Bruno D</ForeName>
+<Initials>BD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hunt</LastName>
+<ForeName>Kelly K</ForeName>
+<Initials>KK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mittendorf</LastName>
+<ForeName>Elizabeth A</ForeName>
+<Initials>EA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P30 CA016672</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>CA016672</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>05</Month>
+<Day>24</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Ann Surg Oncol</MedlineTA>
+<NlmUniqueID>9420840</NlmUniqueID>
+<ISSNLinking>1068-9265</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Ann Surg Oncol. 2014 Oct;21(11):3369-71</RefSource>
+<PMID Version="1">24934586</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018270">Carcinoma, Ductal, Breast</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000556">secondary</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018275">Carcinoma, Lobular</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000556">secondary</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008197">Lymph Node Excision</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008198">Lymph Nodes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008207">Lymphatic Metastasis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060787">Neoplasm Grading</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009361">Neoplasm Invasiveness</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D021701">Sentinel Lymph Node Biopsy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>03</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>6</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24859939</ArticleId>
+<ArticleId IdType="doi">10.1245/s10434-014-3813-4</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

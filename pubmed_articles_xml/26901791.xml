@@ -1,0 +1,171 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26901791</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>01</Month>
+<Day>04</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1423-0356</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>91</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2016</Year>
+</PubDate>
+</JournalIssue>
+<Title>Respiration; international review of thoracic diseases</Title>
+<ISOAbbreviation>Respiration</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A New Tool for Transbronchial Cryobiopsies in the Lung: An Experimental Feasibility ex vivo Study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>228-34</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1159/000443990</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Transbronchial cryobiopsy (TBCB) is a minimally invasive procedure to establish a diagnosis of interstitial lung disease though with the disadvantage that samples have to be extracted together with the bronchoscope.</AbstractText>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The aim of the present study was to evaluate the feasibility of a new cryoprobe with which biopsy samples can be obtained through the working channel of the flexible bronchoscope.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The feasibility of obtaining transbronchial specimens with TBCB was tested and the technique was compared to transbronchial forceps biopsy (TBFB) in a prospectively randomized ex vivo animal study using a standard flexible bronchoscopy technique. The rate of successful biopsies and the duration of the sampling procedure were recorded for both methods. Size and quality of the biopsies were histologically evaluated and measured.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Biopsy samples could be obtained in 93.3% of TBCB and in 79.0% of TBFB procedures (p = 0.182). Sampling procedure time did not differ in any clinically relevant manner between the two methods. The mean specimen area of TBCB samples was significantly higher compared to that of TBFB samples (8.08 ± 5.80 vs. 2.61 ± 2.14 mm2; p &lt; 0.0001). TBCB specimens showed less artifacts and a significantly higher percentage of alveolar tissue (53.57 vs. 25.42%; p = 0.0285) than TBFB specimens.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">It is feasible to retrieve TBCB samples of good quality and size with the new mini cryoprobe through the working channel of the bronchoscope, while the bronchoscope remains within the central airways throughout the whole procedure. Further studies are necessary to evaluate the safety and efficacy in an in vivo setting.</AbstractText>
+<CopyrightInformation>© 2016 S. Karger AG, Basel.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Franke</LastName>
+<ForeName>Karl-Josef</ForeName>
+<Initials>KJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pneumology and Critical Care Medicine, Helios Klinik Ambrock, Witten/Herdecke University, Hagen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Linzenbold</LastName>
+<ForeName>Walter</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nuessle</LastName>
+<ForeName>Daniela</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Enderle</LastName>
+<ForeName>Markus</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boesmueller</LastName>
+<ForeName>Hans</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nilius</LastName>
+<ForeName>Georg</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hetzel</LastName>
+<ForeName>Jürgen</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D023362">Evaluation Studies</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>02</Month>
+<Day>23</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Switzerland</Country>
+<MedlineTA>Respiration</MedlineTA>
+<NlmUniqueID>0137356</NlmUniqueID>
+<ISSNLinking>0025-7931</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001706">Biopsy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001999">Bronchoscopy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003452">Cryosurgery</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D066298">In Vitro Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008168">Lung</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013552">Swine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>07</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>1</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26901791</ArticleId>
+<ArticleId IdType="pii">000443990</ArticleId>
+<ArticleId IdType="doi">10.1159/000443990</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

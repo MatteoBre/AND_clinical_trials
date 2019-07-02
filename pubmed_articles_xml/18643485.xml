@@ -1,0 +1,2823 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">18643485</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>08</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>07</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0031-9007</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>100</Volume>
+<Issue>23</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Jun</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+<Title>Physical review letters</Title>
+<ISOAbbreviation>Phys. Rev. Lett.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Measurement of the decay B(-) ---&gt; D(*0)e(-)nu[overline](e).</ArticleTitle>
+<Pagination>
+<MedlinePgn>231803</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Using 226 x 10(6) BB[overline] events recorded on the Upsilon(4S) resonance with the BABAR detector at the SLAC e(+)e(-) PEP-II storage rings, we reconstruct B(-) ---&gt; D(*0)e(-)nu[overline](e) decays using the decay chain D(*0) --&gt; D(0)pi(0) and D(0)--&gt;K(-)pi(+). From the dependence of their differential rate on w, the dot product of the four velocities of B(-) and D(*0), and using the form factor description by Caprini et al. with the parameters F(1) and rhoA(1)(2), we obtain the results rhoA(1)(2) = 1.16+/-0.06+/-0.08, F(1)|V(cb)|=(35.9+/-0.6+/-1.4) x 10(-3), and B(B(-) --&gt; D(*0)e(-)nu[overline](e))=(5.56+/-0.08+/-0.41)%.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Aubert</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratoire de Physique des Particules, IN2P3/CNRS et Université de Savoie, Annecy-Le-Vieux, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bona</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Karyotakis</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lees</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Poireau</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prudent</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tisserand</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zghiche</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tico</LastName>
+<ForeName>J Garra</ForeName>
+<Initials>JG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grauges</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lopez</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palano</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pappagallo</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eigen</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stugu</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sun</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abrams</LastName>
+<ForeName>G S</ForeName>
+<Initials>GS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Battaglia</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>D N</ForeName>
+<Initials>DN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Button-Shafer</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cahn</LastName>
+<ForeName>R N</ForeName>
+<Initials>RN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jacobsen</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kadyk</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kerth</LastName>
+<ForeName>L T</ForeName>
+<Initials>LT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kolomensky</LastName>
+<ForeName>Yu G</ForeName>
+<Initials>YG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kukartsev</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lynch</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Osipenkov</LastName>
+<ForeName>I L</ForeName>
+<Initials>IL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ronan</LastName>
+<ForeName>M T</ForeName>
+<Initials>MT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tackmann</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tanabe</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wenzel</LastName>
+<ForeName>W A</ForeName>
+<Initials>WA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Del Amo Sanchez</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hawkes</LastName>
+<ForeName>C M</ForeName>
+<Initials>CM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Soni</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Watson</LastName>
+<ForeName>A T</ForeName>
+<Initials>AT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koch</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schroeder</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Walker</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Asgeirsson</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cuhadar-Donszelmann</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fulsom</LastName>
+<ForeName>B G</ForeName>
+<Initials>BG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hearty</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mattison</LastName>
+<ForeName>T S</ForeName>
+<Initials>TS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McKenna</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barrett</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khan</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saleem</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Teodorescu</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blinov</LastName>
+<ForeName>V E</ForeName>
+<Initials>VE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bukin</LastName>
+<ForeName>A D</ForeName>
+<Initials>AD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Buzykaev</LastName>
+<ForeName>A R</ForeName>
+<Initials>AR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Druzhinin</LastName>
+<ForeName>V P</ForeName>
+<Initials>VP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Golubev</LastName>
+<ForeName>V B</ForeName>
+<Initials>VB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Onuchin</LastName>
+<ForeName>A P</ForeName>
+<Initials>AP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Serednyakov</LastName>
+<ForeName>S I</ForeName>
+<Initials>SI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Skovpen</LastName>
+<ForeName>Yu I</ForeName>
+<Initials>YI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Solodov</LastName>
+<ForeName>E P</ForeName>
+<Initials>EP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Todyshev</LastName>
+<ForeName>K Yu</ForeName>
+<Initials>KY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bondioli</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Curry</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eschrich</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kirkby</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lankford</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lund</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mandelkern</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Martin</LastName>
+<ForeName>E C</ForeName>
+<Initials>EC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stoker</LastName>
+<ForeName>D P</ForeName>
+<Initials>DP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abachi</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Buchanan</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gary</LastName>
+<ForeName>J W</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Long</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shen</LastName>
+<ForeName>B C</ForeName>
+<Initials>BC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vitug</LastName>
+<ForeName>G M</ForeName>
+<Initials>GM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paar</LastName>
+<ForeName>H P</ForeName>
+<Initials>HP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rahatlou</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sharma</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Campagnari</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hong</LastName>
+<ForeName>T M</ForeName>
+<Initials>TM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kovalskyi</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Richman</LastName>
+<ForeName>J D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beck</LastName>
+<ForeName>T W</ForeName>
+<Initials>TW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eisner</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Flacco</LastName>
+<ForeName>C J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heusch</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kroseberg</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lockman</LastName>
+<ForeName>W S</ForeName>
+<Initials>WS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schalk</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schumm</LastName>
+<ForeName>B A</ForeName>
+<Initials>BA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seiden</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilson</LastName>
+<ForeName>M G</ForeName>
+<Initials>MG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Winstrom</LastName>
+<ForeName>L O</ForeName>
+<Initials>LO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cheng</LastName>
+<ForeName>C H</ForeName>
+<Initials>CH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Doll</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Echenard</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fang</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hitlin</LastName>
+<ForeName>D G</ForeName>
+<Initials>DG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Narsky</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Piatenko</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Porter</LastName>
+<ForeName>F C</ForeName>
+<Initials>FC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andreassen</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mancinelli</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meadows</LastName>
+<ForeName>B T</ForeName>
+<Initials>BT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mishra</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sokoloff</LastName>
+<ForeName>M D</ForeName>
+<Initials>MD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blanc</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bloom</LastName>
+<ForeName>P C</ForeName>
+<Initials>PC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ford</LastName>
+<ForeName>W T</ForeName>
+<Initials>WT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hirschauer</LastName>
+<ForeName>J F</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kreisel</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nagel</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nauenberg</LastName>
+<ForeName>U</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olivas</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>J G</ForeName>
+<Initials>JG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ulmer</LastName>
+<ForeName>K A</ForeName>
+<Initials>KA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wagner</LastName>
+<ForeName>S R</ForeName>
+<Initials>SR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ayad</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gabareen</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Soffer</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Toki</LastName>
+<ForeName>W H</ForeName>
+<Initials>WH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilson</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Altenburg</LastName>
+<ForeName>D D</ForeName>
+<Initials>DD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feltresi</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hauke</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jasper</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Merkel</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Petzold</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spaan</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wacker</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Klose</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kobel</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lacker</LastName>
+<ForeName>H M</ForeName>
+<Initials>HM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mader</LastName>
+<ForeName>W F</ForeName>
+<Initials>WF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nogowski</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schubert</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schubert</LastName>
+<ForeName>K R</ForeName>
+<Initials>KR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schwierz</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sundermann</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Volk</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bernard</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bonneaud</LastName>
+<ForeName>G R</ForeName>
+<Initials>GR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Latour</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lombardo</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thiebaux</LastName>
+<ForeName>Ch</ForeName>
+<Initials>Ch</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Verderi</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clark</LastName>
+<ForeName>P J</ForeName>
+<Initials>PJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gradl</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Playfer</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Robertson</LastName>
+<ForeName>A I</ForeName>
+<Initials>AI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Watson</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andreotti</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bettoni</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bozzi</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Calabrese</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cecchi</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cibinetto</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Franchini</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Luppi</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Negrini</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Petrella</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Piemontese</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prencipe</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Santoro</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anulli</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baldini-Ferroli</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Calcaterra</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Sangro</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Finocchiaro</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pacetti</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Patteri</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peruzzi</LastName>
+<ForeName>I M</ForeName>
+<Initials>IM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Piccolo</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rama</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zallo</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Buzzo</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Contri</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lo Vetere</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Macri</LastName>
+<ForeName>M M</ForeName>
+<Initials>MM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Monge</LastName>
+<ForeName>M R</ForeName>
+<Initials>MR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Passaggio</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Patrignani</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Robutti</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Santroni</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tosi</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chaisanguanthum</LastName>
+<ForeName>K S</ForeName>
+<Initials>KS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morii</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dubitzky</LastName>
+<ForeName>R S</ForeName>
+<Initials>RS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marks</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schenk</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Uwer</LastName>
+<ForeName>U</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bard</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dauncey</LastName>
+<ForeName>P D</ForeName>
+<Initials>PD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nash</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vazquez</LastName>
+<ForeName>W Panduro</ForeName>
+<Initials>WP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tibbetts</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Behera</LastName>
+<ForeName>P K</ForeName>
+<Initials>PK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chai</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Charles</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mallik</LastName>
+<ForeName>U</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cochran</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crawley</LastName>
+<ForeName>H B</ForeName>
+<Initials>HB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dong</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eyges</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meyer</LastName>
+<ForeName>W T</ForeName>
+<Initials>WT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prell</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenberg</LastName>
+<ForeName>E I</ForeName>
+<Initials>EI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rubin</LastName>
+<ForeName>A E</ForeName>
+<Initials>AE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gao</LastName>
+<ForeName>Y Y</ForeName>
+<Initials>YY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gritsan</LastName>
+<ForeName>A V</ForeName>
+<Initials>AV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guo</LastName>
+<ForeName>Z J</ForeName>
+<Initials>ZJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lae</LastName>
+<ForeName>C K</ForeName>
+<Initials>CK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Denig</LastName>
+<ForeName>A G</ForeName>
+<Initials>AG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fritsch</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schott</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arnaud</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Béquilleux</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>D'Orazio</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davier</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>da Costa</LastName>
+<ForeName>J Firmino</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grosdidier</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Höcker</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lepeltier</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Le Diberder</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lutz</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pruvot</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roudeau</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schune</LastName>
+<ForeName>M H</ForeName>
+<Initials>MH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Serrano</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sordini</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stocchi</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>W F</ForeName>
+<Initials>WF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wormser</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lange</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wright</LastName>
+<ForeName>D M</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bingham</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Burke</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chavez</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fry</LastName>
+<ForeName>J R</ForeName>
+<Initials>JR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gabathuler</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gamet</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hutchcroft</LastName>
+<ForeName>D E</ForeName>
+<Initials>DE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Payne</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Touramanis</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bevan</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>George</LastName>
+<ForeName>K A</ForeName>
+<Initials>KA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Di Lodovico</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sacco</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cowan</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Flaecher</LastName>
+<ForeName>H U</ForeName>
+<Initials>HU</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hopkins</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paramesvaran</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salvatore</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wren</LastName>
+<ForeName>A C</ForeName>
+<Initials>AC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>D N</ForeName>
+<Initials>DN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davis</LastName>
+<ForeName>C L</ForeName>
+<Initials>CL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barlow</LastName>
+<ForeName>N R</ForeName>
+<Initials>NR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barlow</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chia</LastName>
+<ForeName>Y M</ForeName>
+<Initials>YM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Edgar</LastName>
+<ForeName>C L</ForeName>
+<Initials>CL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lafferty</LastName>
+<ForeName>G D</ForeName>
+<Initials>GD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>West</LastName>
+<ForeName>T J</ForeName>
+<Initials>TJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yi</LastName>
+<ForeName>J I</ForeName>
+<Initials>JI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jawahery</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roberts</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Simi</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tuggle</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dallapiccola</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hertzbach</LastName>
+<ForeName>S S</ForeName>
+<Initials>SS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moore</LastName>
+<ForeName>T B</ForeName>
+<Initials>TB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salvati</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saremi</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cowan</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dujmic</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fisher</LastName>
+<ForeName>P H</ForeName>
+<Initials>PH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koeneke</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sciolla</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spitznagel</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taylor</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yamamoto</LastName>
+<ForeName>R K</ForeName>
+<Initials>RK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhao</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McLachlin</LastName>
+<ForeName>S E</ForeName>
+<Initials>SE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Patel</LastName>
+<ForeName>P M</ForeName>
+<Initials>PM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Robertson</LastName>
+<ForeName>S H</ForeName>
+<Initials>SH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lazzaro</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palombo</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bauer</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cremaldi</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eschenburg</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Godang</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kroeger</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sanders</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Summers</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhao</LastName>
+<ForeName>H W</ForeName>
+<Initials>HW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brunet</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Côté</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Simard</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taras</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Viaud</LastName>
+<ForeName>F B</ForeName>
+<Initials>FB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nicholson</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>De Nardo</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lista</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Monorchio</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sciacca</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baak</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Raven</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Snoek</LastName>
+<ForeName>H L</ForeName>
+<Initials>HL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jessop</LastName>
+<ForeName>C P</ForeName>
+<Initials>CP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Knoepfel</LastName>
+<ForeName>K J</ForeName>
+<Initials>KJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Losecco</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Benelli</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Corwin</LastName>
+<ForeName>L A</ForeName>
+<Initials>LA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Honscheid</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kagan</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kass</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morris</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rahimi</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Regensburger</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sekula</LastName>
+<ForeName>S J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wong</LastName>
+<ForeName>Q K</ForeName>
+<Initials>QK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blount</LastName>
+<ForeName>N L</ForeName>
+<Initials>NL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brau</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Frey</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Igonkina</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kolb</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lu</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rahmat</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sinev</LastName>
+<ForeName>N B</ForeName>
+<Initials>NB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Strom</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Strube</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Torrence</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Castelli</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gagliardi</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gaz</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Margoni</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morandin</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pompili</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Posocco</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rotondo</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Simonetto</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stroili</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Voci</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ben-Haim</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Briand</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Calderini</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chauveau</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>David</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Del Buono</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>de la Vaissière</LastName>
+<ForeName>Ch</ForeName>
+<Initials>Ch</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hamon</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leruste</LastName>
+<ForeName>Ph</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Malclès</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ocariz</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Perez</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prendki</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gladney</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Biasini</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Covarelli</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Manoni</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Angelini</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Batignani</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bettarini</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carpinelli</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cenci</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cervelli</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Forti</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giorgi</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lusiani</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marchiori</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mazur</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morganti</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Neri</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paoloni</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rizzo</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Walsh</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Biesiada</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lau</LastName>
+<ForeName>Y P</ForeName>
+<Initials>YP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pegna</LastName>
+<ForeName>D Lopes</ForeName>
+<Initials>DL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lu</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olsen</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>A J S</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Telnov</LastName>
+<ForeName>A V</ForeName>
+<Initials>AV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baracchini</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cavoto</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Del Re</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Di Marco</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Faccini</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ferrarotto</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ferroni</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gaspero</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jackson</LastName>
+<ForeName>P D</ForeName>
+<Initials>PD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mazzoni</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morganti</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Piredda</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Polci</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Renga</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Voena</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ebert</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hartmann</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schröder</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Waldi</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Adye</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Franek</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olaiya</LastName>
+<ForeName>E O</ForeName>
+<Initials>EO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roethel</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilson</LastName>
+<ForeName>F F</ForeName>
+<Initials>FF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Emery</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Escalier</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gaidot</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ganzhur</LastName>
+<ForeName>S F</ForeName>
+<Initials>SF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Monchenault</LastName>
+<ForeName>G Hamel</ForeName>
+<Initials>GH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kozanecki</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vasseur</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yèche</LastName>
+<ForeName>Ch</ForeName>
+<Initials>Ch</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zito</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>X R</ForeName>
+<Initials>XR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Park</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Purohit</LastName>
+<ForeName>M V</ForeName>
+<Initials>MV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>White</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilson</LastName>
+<ForeName>J R</ForeName>
+<Initials>JR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Allen</LastName>
+<ForeName>M T</ForeName>
+<Initials>MT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aston</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bartoldus</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bechtle</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Claus</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Coleman</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Convery</LastName>
+<ForeName>M R</ForeName>
+<Initials>MR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dingfelder</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dorfan</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dubois-Felsmann</LastName>
+<ForeName>G P</ForeName>
+<Initials>GP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunwoodie</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Field</LastName>
+<ForeName>R C</ForeName>
+<Initials>RC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Glanzman</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gowdy</LastName>
+<ForeName>S J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Graham</LastName>
+<ForeName>M T</ForeName>
+<Initials>MT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grenier</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hast</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Innes</LastName>
+<ForeName>W R</ForeName>
+<Initials>WR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaminski</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kelsey</LastName>
+<ForeName>M H</ForeName>
+<Initials>MH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kocian</LastName>
+<ForeName>M L</ForeName>
+<Initials>ML</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leith</LastName>
+<ForeName>D W G S</ForeName>
+<Initials>DW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Luitz</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Luth</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lynch</LastName>
+<ForeName>H L</ForeName>
+<Initials>HL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Macfarlane</LastName>
+<ForeName>D B</ForeName>
+<Initials>DB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marsiske</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Messner</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Muller</LastName>
+<ForeName>D R</ForeName>
+<Initials>DR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nelson</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Grady</LastName>
+<ForeName>C P</ForeName>
+<Initials>CP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ofte</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Perazzo</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Perl</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ratcliff</LastName>
+<ForeName>B N</ForeName>
+<Initials>BN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roodman</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salnikov</LastName>
+<ForeName>A A</ForeName>
+<Initials>AA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schindler</LastName>
+<ForeName>R H</ForeName>
+<Initials>RH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schwiening</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Snyder</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Su</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sullivan</LastName>
+<ForeName>M K</ForeName>
+<Initials>MK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Suzuki</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Swain</LastName>
+<ForeName>S K</ForeName>
+<Initials>SK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thompson</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Va'vra</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wagner</LastName>
+<ForeName>A P</ForeName>
+<Initials>AP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weaver</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wisniewski</LastName>
+<ForeName>W J</ForeName>
+<Initials>WJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wittgen</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wright</LastName>
+<ForeName>D H</ForeName>
+<Initials>DH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wulsin</LastName>
+<ForeName>H W</ForeName>
+<Initials>HW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yarritu</LastName>
+<ForeName>A K</ForeName>
+<Initials>AK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yi</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Young</LastName>
+<ForeName>C C</ForeName>
+<Initials>CC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ziegler</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Burchat</LastName>
+<ForeName>P R</ForeName>
+<Initials>PR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Edwards</LastName>
+<ForeName>A J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Majewski</LastName>
+<ForeName>S A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miyashita</LastName>
+<ForeName>T S</ForeName>
+<Initials>TS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Petersen</LastName>
+<ForeName>B A</ForeName>
+<Initials>BA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilden</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ahmed</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alam</LastName>
+<ForeName>M S</ForeName>
+<Initials>MS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bula</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ernst</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pan</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saeed</LastName>
+<ForeName>M A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zain</LastName>
+<ForeName>S B</ForeName>
+<Initials>SB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spanier</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wogsland</LastName>
+<ForeName>B J</ForeName>
+<Initials>BJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eckmann</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ritchie</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ruland</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schilling</LastName>
+<ForeName>C J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schwitters</LastName>
+<ForeName>R F</ForeName>
+<Initials>RF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Izen</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lou</LastName>
+<ForeName>X C</ForeName>
+<Initials>XC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ye</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bianchi</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gamba</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pelliccioni</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bomben</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bosisio</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cartaro</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cossutti</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Della Ricca</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lanceri</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vitale</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Azzolini</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lopez-March</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Martinez-Vidal</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Milanes</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oyanguren</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Albert</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Banerjee</LastName>
+<ForeName>Sw</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bhuyan</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hamano</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kowalewski</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nugent</LastName>
+<ForeName>I M</ForeName>
+<Initials>IM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roney</LastName>
+<ForeName>J M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sobie</LastName>
+<ForeName>R J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harrison</LastName>
+<ForeName>P F</ForeName>
+<Initials>PF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ilic</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Latham</LastName>
+<ForeName>T E</ForeName>
+<Initials>TE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mohanty</LastName>
+<ForeName>G B</ForeName>
+<Initials>GB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Band</LastName>
+<ForeName>H R</ForeName>
+<Initials>HR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dasu</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Flood</LastName>
+<ForeName>K T</ForeName>
+<Initials>KT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hollar</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kutter</LastName>
+<ForeName>P E</ForeName>
+<Initials>PE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pan</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pierini</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prepost</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>S L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Neal</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>06</Month>
+<Day>12</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Phys Rev Lett</MedlineTA>
+<NlmUniqueID>0401141</NlmUniqueID>
+<ISSNLinking>0031-9007</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2008</Year>
+<Month>01</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>7</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>7</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>7</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18643485</ArticleId>
+<ArticleId IdType="doi">10.1103/PhysRevLett.100.231803</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

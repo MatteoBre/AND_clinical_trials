@@ -1,0 +1,435 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26248869</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>04</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>01</Month>
+<Day>07</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1756-3305</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>8</Volume>
+<PubDate>
+<Year>2015</Year>
+<Month>Aug</Month>
+<Day>07</Day>
+</PubDate>
+</JournalIssue>
+<Title>Parasites &amp; vectors</Title>
+<ISOAbbreviation>Parasit Vectors</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Associations between school- and household-level water, sanitation and hygiene conditions and soil-transmitted helminth infection among Kenyan school children.</ArticleTitle>
+<Pagination>
+<MedlinePgn>412</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/s13071-015-1024-x</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Soil-transmitted helminths, a class of parasitic intestinal worms, are pervasive in many low-income settings. Infection among children can lead to poor nutritional outcomes, anaemia, and reduced cognition. Mass treatment, typically administered through schools, with yearly or biannual drugs is inexpensive and can reduce worm burden, but reinfection can occur rapidly. Access to and use of sanitation facilities and proper hygiene can reduce infection, but rigorous data are scarce. Among school-age children, infection can occur at home or at school, but little is known about the relative importance of WASH in transmission in these two settings.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We explored the relationships between school and household water, sanitation, and hygiene conditions and behaviours during the baseline of a large-scale mass drug administration programme in Kenya. We assessed several WASH measures to quantify the exposure of school children, and developed theory and empirically-based parsimonious models.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Results suggest mixed impacts of household and school WASH on prevalence and intensity of infection. WASH risk factors differed across individual worm species, which is expected given the different mechanisms of infection.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">No trend of the relative importance of school versus household-level WASH emerged, though some factors, like water supply were more strongly related to lower infection, which suggests it is important in supporting other school practices, such as hand-washing and keeping school toilets clean.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Freeman</LastName>
+<ForeName>M C</ForeName>
+<Initials>MC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Environmental Health, Emory University, Atlanta, Georgia, USA. matthew.freeman@emory.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chard</LastName>
+<ForeName>A N</ForeName>
+<Initials>AN</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Environmental Health, Emory University, Atlanta, Georgia, USA. achard@emory.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nikolay</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Faculty of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine, London, UK. birgit.nikolay@lshtm.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garn</LastName>
+<ForeName>J V</ForeName>
+<Initials>JV</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Environmental Health, Emory University, Atlanta, Georgia, USA. jgarn@emory.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Okoyo</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Eastern and Southern Africa Centre of International Parasite Control, Kenya Medical Research Institute, Nairobi, Kenya. collinsomondiokoyo@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kihara</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Eastern and Southern Africa Centre of International Parasite Control, Kenya Medical Research Institute, Nairobi, Kenya. jimmykihara09@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Njenga</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+<AffiliationInfo>
+<Affiliation>Eastern and Southern Africa Centre of International Parasite Control, Kenya Medical Research Institute, Nairobi, Kenya. SNjenga@kemri.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pullan</LastName>
+<ForeName>R L</ForeName>
+<Initials>RL</Initials>
+<AffiliationInfo>
+<Affiliation>Faculty of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine, London, UK. Rachel.Pullan@lshtm.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brooker</LastName>
+<ForeName>S J</ForeName>
+<Initials>SJ</Initials>
+<AffiliationInfo>
+<Affiliation>Faculty of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine, London, UK. Simon.Brooker@lshtm.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mwandawiro</LastName>
+<ForeName>C S</ForeName>
+<Initials>CS</Initials>
+<AffiliationInfo>
+<Affiliation>Eastern and Southern Africa Centre of International Parasite Control, Kenya Medical Research Institute, Nairobi, Kenya. CMwandawiro@kemri.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>098045</GrantID>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Parasit Vectors</MedlineTA>
+<NlmUniqueID>101462774</NlmUniqueID>
+<ISSNLinking>1756-3305</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012987">Soil</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005191">Family Characteristics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006373">Helminthiasis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000469">parasitology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006920">Hygiene</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007630">Kenya</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016017">Odds Ratio</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012499">Sanitation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012574">Schools</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012987">Soil</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000469">parasitology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D060753">Water Quality</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>06</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>07</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26248869</ArticleId>
+<ArticleId IdType="doi">10.1186/s13071-015-1024-x</ArticleId>
+<ArticleId IdType="pii">10.1186/s13071-015-1024-x</ArticleId>
+<ArticleId IdType="pmc">PMC4528701</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>PLoS Med. 2014 Apr;11(4):e1001626</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24714528</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Infect Dis. 2011;11:189</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21740589</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Negl Trop Dis. 2010;4(7):e779</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20668545</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parasit Vectors. 2013;6:28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23356968</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2014;9(3):e92032</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24643023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ Open. 2013 Aug 30;3(8):e003476</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23996605</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2012 Mar 17;379(9820):978</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22423871</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Health Geogr. 2009;8:42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19589144</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Negl Trop Dis. 2013;7(9):e2439</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24086781</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Apr 25;368(17):1603-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23614586</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Negl Trop Dis. 2012;6(5):e1621</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22590656</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Negl Trop Dis. 2011;5(2):e958</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21347451</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2012 Mar 1;205(5):841-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22262792</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parasitology. 2009 Nov;136(13):1859-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19906318</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Adv Parasitol. 2006;62:221-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16647972</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parasit Vectors. 2014;7:37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24447578</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parasit Vectors. 2013;6:198</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23829767</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2006 May 6;367(9521):1521-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16679166</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trans R Soc Trop Med Hyg. 1998 Jan-Feb;92(1):7-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9692137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Trop Med Hyg. 2013 Nov;89(5):875-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24019429</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trop Med Int Health. 2011 Dec;16(12):1536-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21906214</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Med. 2012 Jan;9(1):e1001162</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22291577</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2012 Jul 7;380(9836):27-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22770455</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parasit Vectors. 2014;7:354</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25091035</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Negl Trop Dis. 2013;7(9):e2397</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24069469</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bull World Health Organ. 2002;80(1):40-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11884972</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Emerg Themes Epidemiol. 2012 Nov 13;9(1):7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23148587</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Negl Trop Dis. 2014 Jun;8(6):e2945</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24921253</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Parasit Vectors. 2012;5:81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22537799</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Parasitol. 2010 Aug 15;40(10):1137-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20430032</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trop Med Int Health. 1996 Feb;1(1):27-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8673819</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Med. 2014 Mar;11(3):e1001620</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24667810</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

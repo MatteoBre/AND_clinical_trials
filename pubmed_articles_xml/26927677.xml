@@ -1,0 +1,894 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26927677</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1433-0407</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>87</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Der Nervenarzt</Title>
+<ISOAbbreviation>Nervenarzt</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Monitoring of blood parameters under course-modified MS therapy : Substance-specific relevance and current recommendations for action].</ArticleTitle>
+<Pagination>
+<MedlinePgn>645-59</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00115-016-0077-1</ELocationID>
+<Abstract>
+<AbstractText>With the approval of various substances for the immunotherapy of multiple sclerosis (MS), treatment possibilities have improved significantly over the last few years. Indeed, the choice of individually tailored preparations and treatment monitoring for the treating doctor is becoming increasingly more complex. This is particularly applicable for monitoring for a treatment-induced compromise of the immune system. The following article by members of the German Multiple Sclerosis Skills Network (KKNMS) and the task force "Provision Structures and Therapeutics" summarizes the practical recommendations for approved immunotherapy for mild to moderate and for (highly) active courses of MS. The focus is on elucidating the substance-specific relevance of particular laboratory parameters with regard to the mechanism of action and the side effects profile. To enable appropriate action to be taken in clinical practice, any blood work changes that can be expected, in addition to any undesirable laboratory findings and their causes and relevance, should be elucidated. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Klotz</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department für Neurologie, Universitätsklinikum Münster, Albert-Schweitzer-Campus 1, Gebäude A1, 48149, Münster, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Berthele</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Neurologische Klinik und Poliklinik, Klinikum rechts der Isar der TU München, Ismaninger Straße 22, 81675, München, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brück</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Neuropathologie, Universitätsmedizin Göttingen der Georg-August-Universität, Robert-Koch-Str. 40, 37075, Göttingen, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chan</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Neurologische Klinik, St. Josef-Hospital, Universitätsklinikum der Ruhr-Universität Bochum, Gudrunstr. 56, 44791, Bochum, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Flachenecker</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Neurologisches Rehabilitationszentrum Quellenhof in Bad Wildbad GmbH, Kuranlagenallee 2, 75323, Bad Wildbad, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gold</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Neurologische Klinik, St. Josef-Hospital, Universitätsklinikum der Ruhr-Universität Bochum, Gudrunstr. 56, 44791, Bochum, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haghikia</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Neurologische Klinik, St. Josef-Hospital, Universitätsklinikum der Ruhr-Universität Bochum, Gudrunstr. 56, 44791, Bochum, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hellwig</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Neurologische Klinik, St. Josef-Hospital, Universitätsklinikum der Ruhr-Universität Bochum, Gudrunstr. 56, 44791, Bochum, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hemmer</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Neurologische Klinik und Poliklinik, Klinikum rechts der Isar der TU München, Ismaninger Straße 22, 81675, München, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hohlfeld</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Klinische Neuroimmunologie, Klinikum der Universität München, Campus Großhadern, Marchioninistr. 15, 81377, München, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Korn</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Neurologische Klinik und Poliklinik, Klinikum rechts der Isar der TU München, Ismaninger Straße 22, 81675, München, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kümpfel</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Klinische Neuroimmunologie, Klinikum der Universität München, Campus Großhadern, Marchioninistr. 15, 81377, München, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lang</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>NeuroTransConcept GmbH, Centers of Excellence, Pfauengasse 8, 89073, Ulm, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Limmroth</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Klinik für Neurologie und Palliativmedizin, Kliniken der Stadt Köln, Ostmerheimer Str. 200, 51109, Köln - Merheim, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Linker</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+<AffiliationInfo>
+<Affiliation>Neurologische Klinik, Universitätsklinikum Erlangen, Schwabachanlage 6, 91054, Erlangen, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meier</LastName>
+<ForeName>U</ForeName>
+<Initials>U</Initials>
+<AffiliationInfo>
+<Affiliation>Berufsverband Deutscher Neurologen BDN, Am Ziegelkamp 1f, 41515, Grevenbroich, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meuth</LastName>
+<ForeName>S G</ForeName>
+<Initials>SG</Initials>
+<AffiliationInfo>
+<Affiliation>Department für Neurologie, Universitätsklinikum Münster, Albert-Schweitzer-Campus 1, Gebäude A1, 48149, Münster, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paul</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Neuroimmunologie, Universitätsklinikum Charité, Schumannstr. 20/21, 10117, Berlin, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salmen</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Neurologische Klinik, St. Josef-Hospital, Universitätsklinikum der Ruhr-Universität Bochum, Gudrunstr. 56, 44791, Bochum, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stangel</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Klinik für Neurologie, Medizinische Hochschule Hannover, Carl-Neuberg-Str. 1, 30625, Hannover, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tackenberg</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Klinik für Neurologie, Philipps-Universität und Universitätsklinikum Marburg, Baldingerstr. 1, 35043, Marburg, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tumani</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Neurologische Universitätsklinik der Universität Ulm, Oberer Eselsberg 45, 89081, Ulm, Deutschland.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Fachklinik für Neurologie Dietenbronn, Dietenbronn 7, 88477, Schwendi, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Warnke</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Klinik für Neurologie, Universitätsklinikum Düsseldorf, Moorenstraße 5, 40225, Düsseldorf, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weber</LastName>
+<ForeName>M S</ForeName>
+<Initials>MS</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Neuropathologie, Universitätsmedizin Göttingen der Georg-August-Universität, Robert-Koch-Str. 40, 37075, Göttingen, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ziemssen</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Klinik und Poliklinik für Neurologie, Universitätsklinikum Carl Gustav Carus der TU Dresden, Fetscherstr. 74, 01307, Dresden, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zipp</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Klinik für Neurologie, Universitätsmedizin der Johannes-Gutenberg-Universität Mainz, Langenbeckstr. 1, 55131, Mainz, Deutschland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wiendl</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department für Neurologie, Universitätsklinikum Münster, Albert-Schweitzer-Campus 1, Gebäude A1, 48149, Münster, Deutschland. heinz.wiendl@ukmuenster.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Monitoring von Blutparametern unter verlaufsmodifizierender MS-Therapie : Substanzspezifische Relevanz und aktuelle Handlungsempfehlungen.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Nervenarzt</MedlineTA>
+<NlmUniqueID>0400773</NlmUniqueID>
+<ISSNLinking>0028-2804</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007121">Immunocompetence</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007167">Immunotherapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015166">Monitoring, Immunologic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009103">Multiple Sclerosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Blood parameters</Keyword>
+<Keyword MajorTopicYN="Y">Immunotherapy</Keyword>
+<Keyword MajorTopicYN="Y">Monitoring</Keyword>
+<Keyword MajorTopicYN="Y">Multiple Sclerosis</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>2</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26927677</ArticleId>
+<ArticleId IdType="doi">10.1007/s00115-016-0077-1</ArticleId>
+<ArticleId IdType="pii">10.1007/s00115-016-0077-1</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2014 Jul 26;(7):CD009333</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25062935</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Drug Discov. 2010 Nov;9(11):883-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21031003</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2010 Jun 8;74(23):1877-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20530324</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler. 2014 Aug;20(9):1265-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24515732</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurol Neuroimmunol Neuroinflamm. 2015 Feb 12;2(2):e70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25738167</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2013 Dec 15;191(12):5867-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24198283</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Pharmacol. 2009 Nov;158(5):1173-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19814729</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Expert Opin Drug Saf. 2015 May;14(5):749-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25687236</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Neurol. 2013 Mar;9(3):125-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23358486</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2002 Dec 21-28;360(9350):2018-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12504397</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Apr 25;368(17):1657-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23614603</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Mol Sci. 2015 Jun 29;16(7):14669-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26132570</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler. 2002 Oct;8(5):441-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12356214</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Neurol Neurosurg. 2013 Dec;115 Suppl 1:S90-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24321165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Neurol. 2005 Sep;4(9):567-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16109363</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Sep 12;369(11):1081-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24040654</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA Neurol. 2015 Jan;72(1):31-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25419615</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2002 Sep 24;59(6):802-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12349849</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2002 Sep 24;59(6):909-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12297576</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2012 Nov 24;380(9856):1829-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23122650</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2007 Feb;78(2):198-200</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17229751</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1998 Nov 7;352(9139):1498-504</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9820297</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2015 Mar;77(3):447-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25581547</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2014 Jul 1;83(1):78-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24898925</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Clin Transl Neurol. 2014 Aug;1(8):622-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25356432</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Sci. 2013 Apr 15;327(1-2):75-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23465508</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Clin Transl Neurol. 2015 Feb;2(2):103-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25750916</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler Relat Disord. 2014 May;3(3):321-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25876469</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Neuropharmacol. 2010 Mar-Apr;33(2):91-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20061941</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol. 2008 Oct;255(10):1449-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19005625</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunol Rev. 2000 Oct;177:134-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11138771</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Pharmacol Sci. 2000 Feb;21(2):49-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10664606</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler. 2016 Jul;22(8):1048-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26432858</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Invest Dermatol. 2003 Dec;121(6):1383-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14675187</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2012 Nov 24;380(9856):1819-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23122652</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler. 2015 Jan;21(1):57-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24990854</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2011 Oct 6;365(14):1293-303</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21991951</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1996 Jun;46(6):1607-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8649558</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2006 Oct 10;67(7):1242-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16914693</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Apr 25;368(17):1658-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23614604</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Pediatr. 2007 Feb;166(2):95-109</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17151879</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Med Res Opin. 2014 Apr;30(4):613-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24195574</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2006 Sep 14;355(11):1124-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16971719</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2012 Nov 6;79(19):2006-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23035074</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Jul 28;353(4):369-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15947079</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2014 Dec;76(6):802-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25273271</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2013 Sep 3;81(10):865-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23925765</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Ther. 2010 Oct;32(11):1871-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21095482</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2009 Sep 22;73(12 ):991-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19770476</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Clin Transl Neurol. 2015 Feb;2(2):119-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25750917</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler. 2015 May;21(6):796-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25432948</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurol Sci. 2007 Dec;28(6):299-303</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18175075</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2013 Jul 9;81(2):174-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23700335</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Sci. 2013 May 15;328(1-2):9-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23518370</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2012 May 17;366(20):1870-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22591293</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler. 2014 Sep;20(10):1304-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24812045</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int MS J. 2009 Sep;16(3):77-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19878629</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Hematol. 2007 Jul;86(1):58-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17675268</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler Relat Disord. 2014 Jul;3(4):494-504</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25877062</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2000 Dec 12;55(11):1704-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11113226</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Drug Des Devel Ther. 2014 May 19;8:555-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24876766</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Neurol. 2013 Feb;33(1):13-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23709209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Immunol. 2012 Jan;142(1):25-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21550857</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2010 Jan 5;74 Suppl 1:S41-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20038762</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2015 Oct;78(4):501-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26150206</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA Neurol. 2013 Feb;70(2):172-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23128399</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 Apr 1;111(7):3439-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18195093</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(12):e51867</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23284793</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Jul 28;353(4):375-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15947078</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Med Res Opin. 2014 Feb;30(2):251-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24131282</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2011 Aug 9;77(6):573-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21795656</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ Case Rep. 2014 Jan 08;2014:null</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24403383</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2014 Mar 27;370(13):1270-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24670186</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2009 Jul;119(7):2052-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19546505</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurol Neuroimmunol Neuroinflamm. 2015 Dec 10;3(1):e183</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26767188</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ther Adv Neurol Disord. 2015 Jan;8(1):20-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25584071</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Sep 12;369(11):1082</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24040655</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2012 Nov 6;79(19):2002-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23035072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2015 Apr 9;372(15):1474-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25853764</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2011 Feb;69(2):408-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21387383</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2012 Dec 12;12:CD009882</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23235682</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2000 Dec 15;165(12):7300-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11120865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2008 Oct 14;71(16):1261-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18852441</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2014 Dec;76(6):792-801</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24729444</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurotherapeutics. 2013 Jan;10(1):19-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23307290</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2010 Jan 5;74 Suppl 1:S17-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20038758</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2009 Feb;80(2):131-2; discussion 132</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19151017</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2004 Jun 1;172(11):7144-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15153538</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Neurol. 2014 Jul;13(7):657-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24794721</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurol Neuroimmunol Neuroinflamm. 2015 Feb 12;2(3):e76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25738172</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2000 Apr;105(7):967-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10749576</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 2006 Oct;63(10):1383-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17030653</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2004 Feb 24;62(4):628-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14981183</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

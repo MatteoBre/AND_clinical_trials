@@ -1,0 +1,457 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22861144</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>07</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1399-0012</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>27</Volume>
+<Issue>1</Issue>
+<PubDate>
+<MedlineDate>2013 Jan-Feb</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Clinical transplantation</Title>
+<ISOAbbreviation>Clin Transplant</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Does reduction in mycophenolic acid dose compromise efficacy regardless of tacrolimus exposure level? An analysis of prospective data from the Mycophenolic Renal Transplant (MORE) Registry.</ArticleTitle>
+<Pagination>
+<MedlinePgn>15-24</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1399-0012.2012.01694.x</ELocationID>
+<Abstract>
+<AbstractText>Prospective data are lacking concerning the effect of reduced mycophenolic acid (MPA) dosing on efficacy and the influence of concomitant tacrolimus exposure. The Mycophenolic Renal Transplant (MORE) Registry is a prospective, observational study of de novo kidney transplant patients receiving MPA therapy under routine management. The effect of MPA dose reduction, interruption, or discontinuation (dose changes) was assessed in 870 tacrolimus-treated patients: 375 (43.1%) reduced tacrolimus (≤ 7 ng/mL at baseline) and 495 (56.9%) standard tacrolimus (&gt;7 ng/mL); enteric-coated mycophenolate sodium 589 (67.7%) and mycophenolate mofetil 281 (32.3%). During baseline to month 1, months 1-3, months 3-6, and months 6-12, 9.3% (78/838), 16.6% (132/794), 20.7% (145/701), and 13.1% (70/535) patients, respectively, required MPA dose changes. These patients experienced an increased risk of biopsy-proven acute rejection at one yr with tacrolimus exposure either included in the model (hazard ratio [HR] 2.60, 95% CI 1.28-5.29, p = 0.008) or excluded (HR 2.58, 95% CI 1.28-5.23, p = 0.008). MPA dose changes were significantly associated with one yr graft failure when tacrolimus exposure was included (HR 2.23; 95% CI 1.01-4.89, p = 0.047) but not when tacrolimus exposure was excluded (HR 2.16; 95% CI 0.99-4.79; p = 0.054). These results suggest that reducing or discontinuing MPA can adversely affect graft outcomes regardless of tacrolimus trough levels.</AbstractText>
+<CopyrightInformation>© 2012 John Wiley &amp; Sons A/S.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Langone</LastName>
+<ForeName>Anthony</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Vanderbilt University Medical Center, Nashville, TN 37232, USA. anthony.langone@vanderbilt.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Doria</LastName>
+<ForeName>Cataldo</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Greenstein</LastName>
+<ForeName>Stuart</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Narayanan</LastName>
+<ForeName>Mohanram</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ueda</LastName>
+<ForeName>Kimi</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sankari</LastName>
+<ForeName>Bashir</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pankewycz</LastName>
+<ForeName>Oleh</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shihab</LastName>
+<ForeName>Fuad</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chan</LastName>
+<ForeName>Laurence</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>08</Month>
+<Day>02</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Denmark</Country>
+<MedlineTA>Clin Transplant</MedlineTA>
+<NlmUniqueID>8710240</NlmUniqueID>
+<ISSNLinking>0902-0063</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000903">Antibiotics, Antineoplastic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007166">Immunosuppressive Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>HU9DX48N0T</RegistryNumber>
+<NameOfSubstance UI="D009173">Mycophenolic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>WM0HAQ4WNM</RegistryNumber>
+<NameOfSubstance UI="D016559">Tacrolimus</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000903">Antibiotics, Antineoplastic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006084">Graft Rejection</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007166">Immunosuppressive Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007674">Kidney Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007677">Kidney Function Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016030">Kidney Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009173">Mycophenolic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011183">Postoperative Complications</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012042">Registries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016559">Tacrolimus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>05</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>7</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22861144</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1399-0012.2012.01694.x</ArticleId>
+<ArticleId IdType="pmc">PMC3593178</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Transplantation. 2009 Aug 27;88(4):514-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19696634</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2009 Aug;9(8):1876-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19563339</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Fundam Clin Pharmacol. 2009 Oct;23(5):617-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19656208</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplant Proc. 2009 Sep;41(7):2797-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19765438</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2009 Nov;9 Suppl 3:S1-155</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19845597</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplant Proc. 2009 Nov;41(9):3683-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19917367</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2010 Feb;5(2):341-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20056756</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2010 Feb 27;89(4):446-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20177347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2011 Feb 27;91(4):470-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21245794</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Transplant. 2003 Jun;17(3):200-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12780668</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2003 Sep;14(9):2381-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12937317</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2004 Mar;4(3):378-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14961990</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2004 Feb;4(2):231-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14974944</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2004 Feb;4(2):237-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14974945</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 1992 Feb;53(2):428-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1346731</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplant Proc. 2004 Sep;36(7):2084-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15518754</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transpl Int. 2004 Nov;17(10):609-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15517170</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Transplant. 2005 Apr;19(2):199-206</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15740555</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplant Proc. 2005 Mar;37(2):916-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15848574</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2005 Oct 8;331(7520):810</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16157605</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Transplant. 2005 Dec;19(6):779-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16313325</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2006 Jan;6(1):100-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16433763</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2006;6(5 Pt 2):1111-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16613591</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2006 May 15;81(9):1290-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16699457</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2006 Jul 15;82(1):102-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16861948</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2007 Feb 27;83(4):411-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17318073</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2007 May;7(5):1201-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17359502</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2007 Nov;7(11):2496-503</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17908276</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2007 Dec 15;84(11):1443-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18091520</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2007 Dec 20;357(25):2562-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18094377</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2008 Aug 15;86(3):371-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18698238</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pharmacoeconomics. 2008;26(11):951-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18850764</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2008 Oct 27;86(8):1035-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18946340</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2008 Oct 27;86(8):1043-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18946341</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Transplant. 2008 Nov-Dec;22(6):815-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18798850</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2009 Feb 27;87(4):591-605</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19307799</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transpl Int. 2009 Aug;22(8):821-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19386081</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2009 Jul;9(7):1607-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19459794</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplant Proc. 2009 Jul-Aug;41(6):2104-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19715844</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

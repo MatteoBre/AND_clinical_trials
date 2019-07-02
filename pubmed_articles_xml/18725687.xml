@@ -1,0 +1,166 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18725687</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>02</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1022-5536</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>16</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of orthopaedic surgery (Hong Kong)</Title>
+<ISOAbbreviation>J Orthop Surg (Hong Kong)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Histiocytic osteolysis secondary to hyperbilirubinaemia: a case report.</ArticleTitle>
+<Pagination>
+<MedlinePgn>263-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A 6-year-old boy with Alagille syndrome, characterised by marked hyperbilirubinaemia, presented with malunion of a pathological fracture of the femur with local bone atrophy and insufficient callus formation. During corrective osteotomy, it was noted that the femur was stained dark green, suggestive of bilirubin deposition. Histology of the resected bone revealed the presence of many histiocytes and osteoclast-like multinucleate giant cells containing bilirubin particles in the cytoplasm causing bone resorption. These findings suggest that bilirubin may activate macrophages to form osteoclast-like multinucleate giant cells, resulting in histiocytic osteolysis.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Nakamura</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Orthopaedic Surgery, Mie University Faculty of Medicine, Tsu, Mie, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kusuzaki</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matsubara</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Satonaka</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shintani</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wakabayashi</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matsumine</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Uchida</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Orthop Surg (Hong Kong)</MedlineTA>
+<NlmUniqueID>9440382</NlmUniqueID>
+<ISSNLinking>1022-5536</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000058">Accidental Falls</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016738">Alagille Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005264">Femoral Fractures</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006644">Histiocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006932">Hyperbilirubinemia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016031">Liver Transplantation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010014">Osteolysis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010027">Osteotomy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>8</Month>
+<Day>30</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>2</Month>
+<Day>12</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>8</Month>
+<Day>30</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18725687</ArticleId>
+<ArticleId IdType="doi">10.1177/230949900801600229</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

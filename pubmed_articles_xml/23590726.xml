@@ -1,0 +1,213 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23590726</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1365-2141</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>162</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>British journal of haematology</Title>
+<ISOAbbreviation>Br. J. Haematol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Phase I study of vorinostat in combination with standard CHOP in patients with newly diagnosed peripheral T-cell lymphoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>138-41</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/bjh.12326</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Oki</LastName>
+<ForeName>Yasuhiro</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Younes</LastName>
+<ForeName>Anas</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Copeland</LastName>
+<ForeName>Amanda</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hagemeister</LastName>
+<ForeName>Fredrick</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fayad</LastName>
+<ForeName>Luis E</ForeName>
+<Initials>LE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McLaughlin</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shah</LastName>
+<ForeName>Jatin</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fowler</LastName>
+<ForeName>Nathan</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Romaguera</LastName>
+<ForeName>Jorge</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kwak</LastName>
+<ForeName>Larry W</ForeName>
+<Initials>LW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pro</LastName>
+<ForeName>Barbara</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D017426">Clinical Trial, Phase I</PublicationType>
+<PublicationType UI="D016422">Letter</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>04</Month>
+<Day>17</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Br J Haematol</MedlineTA>
+<NlmUniqueID>0372544</NlmUniqueID>
+<ISSNLinking>0007-1048</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006877">Hydroxamic Acids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>58IFB293JI</RegistryNumber>
+<NameOfSubstance UI="D000077337">Vorinostat</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>5J49Q6B70F</RegistryNumber>
+<NameOfSubstance UI="D014750">Vincristine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>80168379AG</RegistryNumber>
+<NameOfSubstance UI="D004317">Doxorubicin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>8N3DW7272P</RegistryNumber>
+<NameOfSubstance UI="D003520">Cyclophosphamide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>VB0R961HZT</RegistryNumber>
+<NameOfSubstance UI="D011241">Prednisone</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<SupplMeshList>
+<SupplMeshName Type="Protocol" UI="C034587">CHOP protocol</SupplMeshName>
+</SupplMeshList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003520">Cyclophosphamide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004317">Doxorubicin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006877">Hydroxamic Acids</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016411">Lymphoma, T-Cell, Peripheral</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011241">Prednisone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014750">Vincristine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077337">Vorinostat</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>8</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23590726</ArticleId>
+<ArticleId IdType="doi">10.1111/bjh.12326</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

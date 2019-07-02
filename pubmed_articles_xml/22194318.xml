@@ -1,0 +1,195 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22194318</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>09</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>05</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1741-3850</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>34</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of public health (Oxford, England)</Title>
+<ISOAbbreviation>J Public Health (Oxf)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Perceived usefulness of syndromic surveillance in Ontario during the H1N1 pandemic.</ArticleTitle>
+<Pagination>
+<MedlinePgn>195-202</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1093/pubmed/fdr088</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Despite the growing popularity of syndromic surveillance, little is known about if or how these systems are accepted, utilized and valued by end users. This study seeks to describe the use of syndromic surveillance systems in Ontario and users' perceptions of the value of these systems within the context of other surveillance systems.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Ontario's 36 public health units, the provincial ministry of health and federal public health agency completed a web survey to identify traditional and syndromic surveillance systems used routinely and during the pandemic and to describe system attributes and utility in monitoring pandemic activity and informing decision-making.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Syndromic surveillance systems are used by 20/38 (53%) organizations. For routine surveillance, laboratory, integrated Public Health Information System and school absenteeism data are the most frequently used sources. Laboratory data received the highest ratings for reliability, timeliness and accuracy ('very acceptable' by 92, 51 and 89%). Hospital/clinic screening data were rated as the most reliable and timely syndromic data source (50 and 43%) and ED visit data the most accurate (48%). During the pandemic, laboratory data were considered the most useful for monitoring the epidemiology and informing decision-making while ED screening and visit data were considered the most useful syndromic sources.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">End user perceptions are valuable for identifying opportunities for improvement and guiding further investments in public health surveillance.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Savage</LastName>
+<ForeName>Rachel</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Surveillance and Epidemiology,  Public Health Ontario, Toronto, ON,  Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chu</LastName>
+<ForeName>Anna</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosella</LastName>
+<ForeName>Laura C</ForeName>
+<Initials>LC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crowcroft</LastName>
+<ForeName>Natasha S</ForeName>
+<Initials>NS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Varia</LastName>
+<ForeName>Monali</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Policarpio</LastName>
+<ForeName>Michelle E</ForeName>
+<Initials>ME</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vinson</LastName>
+<ForeName>Norman G</ForeName>
+<Initials>NG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Winter</LastName>
+<ForeName>Anne-Luise</ForeName>
+<Initials>AL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hay</LastName>
+<ForeName>Karen</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davies</LastName>
+<ForeName>Richard F</ForeName>
+<Initials>RF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gemmill</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Willison</LastName>
+<ForeName>Don</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>H1N-104055</GrantID>
+<Agency>Canadian Institutes of Health Research</Agency>
+<Country>Canada</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Public Health (Oxf)</MedlineTA>
+<NlmUniqueID>101188638</NlmUniqueID>
+<ISSNLinking>1741-3842</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003625">Data Collection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006282">Health Personnel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D053118">Influenza A Virus, H1N1 Subtype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007251">Influenza, Human</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D009864">Ontario</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D058873">Pandemics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011159">Population Surveillance</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22194318</ArticleId>
+<ArticleId IdType="pii">fdr088</ArticleId>
+<ArticleId IdType="doi">10.1093/pubmed/fdr088</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

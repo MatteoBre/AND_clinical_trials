@@ -1,0 +1,181 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21074743</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>03</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1932-2275</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Anesthesiology clinics</Title>
+<ISOAbbreviation>Anesthesiol Clin</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Advances in perioperative pain management: use of medications with dual analgesic mechanisms, tramadol &amp; tapentadol.</ArticleTitle>
+<Pagination>
+<MedlinePgn>647-66</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.anclin.2010.08.009</ELocationID>
+<Abstract>
+<AbstractText>Recovery from ambulatory surgical procedures can be limited by postoperative pain. Inadequate analgesia may delay or prevent patient discharge and can result in readmission. More frequently, postoperative pain produces discomfort and interrupts sleep, contributing to postoperative fatigue. The development of effective analgesic regimens for the management of postoperative pain is a priority especially in patients with impaired cardiorespiratory, hepatic, or renal function. Tramadol and tapentadol hydrochloride are novel in that their analgesic actions occur at multiple sites. Both agents are reported to be mu-opioid receptor agonists and monoamine-reuptake inhibitors. In contrast to pure opioid agonists, both drugs are believed to have lower risks of respiratory depression, tolerance, and dependence. The Food and Drug Administration has approved both drugs for the treatment of moderate-to-severe acute pain in adults. This article provides an evidence-based account of the role of tramadol and tapentadol in modern clinical practice.</AbstractText>
+<CopyrightInformation>Copyright © 2010 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Nossaman</LastName>
+<ForeName>Vaughn E</ForeName>
+<Initials>VE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pharmacology, Tulane University Medical Center, 1430 Tulane Avenue, New Orleans, LA 70129, USA. bnossaman@ochsner.org</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ramadhyani</LastName>
+<ForeName>Usha</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kadowitz</LastName>
+<ForeName>Philip J</ForeName>
+<Initials>PJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nossaman</LastName>
+<ForeName>Bobby D</ForeName>
+<Initials>BD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Anesthesiol Clin</MedlineTA>
+<NlmUniqueID>101273663</NlmUniqueID>
+<ISSNLinking>1932-2275</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000700">Analgesics</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010636">Phenols</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017450">Receptors, Opioid, mu</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>39J1LGJ30J</RegistryNumber>
+<NameOfSubstance UI="D014147">Tramadol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.14.1</RegistryNumber>
+<NameOfSubstance UI="D019389">Cytochrome P-450 CYP2D6</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>H8A007M585</RegistryNumber>
+<NameOfSubstance UI="D000077432">Tapentadol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000700">Analgesics</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019389">Cytochrome P-450 CYP2D6</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007278">Injections, Spinal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010149">Pain, Postoperative</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019990">Perioperative Care</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010636">Phenols</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017450">Receptors, Opioid, mu</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000819">agonists</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020230">Serotonin Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077432">Tapentadol</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014147">Tramadol</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>3</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21074743</ArticleId>
+<ArticleId IdType="pii">S1932-2275(10)00076-5</ArticleId>
+<ArticleId IdType="doi">10.1016/j.anclin.2010.08.009</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

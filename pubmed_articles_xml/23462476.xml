@@ -1,0 +1,451 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23462476</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>05</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1477-9129</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>140</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Development (Cambridge, England)</Title>
+<ISOAbbreviation>Development</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Sox2 marks epithelial competence to generate teeth in mammals and reptiles.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1424-32</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1242/dev.089599</ELocationID>
+<Abstract>
+<AbstractText>Tooth renewal is initiated from epithelium associated with existing teeth. The development of new teeth requires dental epithelial cells that have competence for tooth formation, but specific marker genes for these cells have not been identified. Here, we analyzed expression patterns of the transcription factor Sox2 in two different modes of successional tooth formation: tooth replacement and serial addition of primary teeth. We observed specific Sox2 expression in the dental lamina that gives rise to successional teeth in mammals with one round of tooth replacement as well as in reptiles with continuous tooth replacement. Sox2 was also expressed in the dental lamina during serial addition of mammalian molars, and genetic lineage tracing indicated that Sox2(+) cells of the first molar give rise to the epithelial cell lineages of the second and third molars. Moreover, conditional deletion of Sox2 resulted in hyperplastic epithelium in the forming posterior molars. Our results indicate that the Sox2(+) dental epithelium has competence for successional tooth formation and that Sox2 regulates the progenitor state of dental epithelial cells. The findings imply that the function of Sox2 has been conserved during evolution and that tooth replacement and serial addition of primary teeth represent variations of the same developmental process. The expression patterns of Sox2 support the hypothesis that dormant capacity for continuous tooth renewal exists in mammals.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Juuri</LastName>
+<ForeName>Emma</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Biotechnology, Developmental Biology Program, University of Helsinki, 00014 Helsinki, Finland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jussila</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seidel</LastName>
+<ForeName>Kerstin</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holmes</LastName>
+<ForeName>Scott</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Ping</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Richman</LastName>
+<ForeName>Joy</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heikinheimo</LastName>
+<ForeName>Kristiina</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chuong</LastName>
+<ForeName>Cheng-Ming</ForeName>
+<Initials>CM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arnold</LastName>
+<ForeName>Katrin</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hochedlinger</LastName>
+<ForeName>Konrad</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Klein</LastName>
+<ForeName>Ophir</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Michon</LastName>
+<ForeName>Frederic</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thesleff</LastName>
+<ForeName>Irma</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>DP2-OD00719</GrantID>
+<Acronym>OD</Acronym>
+<Agency>NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>42177</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>RL9EB008539</GrantID>
+<Acronym>EB</Acronym>
+<Agency>NIBIB NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>RL9 EB008539</GrantID>
+<Acronym>EB</Acronym>
+<Agency>NIBIB NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK095002</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK096034</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01-DK095002</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>03</Month>
+<Day>05</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Development</MedlineTA>
+<NlmUniqueID>8701744</NlmUniqueID>
+<ISSNLinking>0950-1991</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D055748">SOXB1 Transcription Factors</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004622">Embryo, Mammalian</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004847">Epithelial Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005289">Ferrets</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008322">Mammals</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000196">embryology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008822">Mice, Transgenic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008954">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012038">Regeneration</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012104">Reptiles</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp; development</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055748">SOXB1 Transcription Factors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014070">Tooth</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000196">embryology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000254">growth &amp; development</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>3</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>3</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>5</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23462476</ArticleId>
+<ArticleId IdType="pii">dev.089599</ArticleId>
+<ArticleId IdType="doi">10.1242/dev.089599</ArticleId>
+<ArticleId IdType="pmc">PMC3596986</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Dev Cell. 2012 Aug 14;23(2):317-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22819339</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Oral Maxillofac Surg. 2012 Feb;70(2):272-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21802814</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods Mol Biol. 2002;188:373-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11987559</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2003 Sep 30;100 Suppl 1:11866-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12923297</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Development. 2004 Aug;131(15):3805-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15240551</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2004 Aug 20;118(4):517-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15315763</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Theor Biol. 1974 Aug;46(2):509-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4420739</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Oral Pathol Med. 1990 Feb;19(2):89-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2341976</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Craniofac Genet Dev Biol. 1995 Oct-Dec;15(4):212-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8719350</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1999 Jan;21(1):70-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9916792</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biol. 2005 Mar 28;168(7):1065-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15781477</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2006 Dec 5;103(49):18627-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17121988</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Evol Dev. 2008 Jul-Aug;10(4):477-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18638324</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Biol. 2009 Feb 10;7(2):e31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19215146</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Exp Zool B Mol Dev Evol. 2009 Jun 15;312B(4):281-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19137538</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Exp Zool B Mol Dev Evol. 2009 Jun 15;312B(4):309-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19156667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Exp Zool B Mol Dev Evol. 2009 Jun 15;312B(4):260-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19156674</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Development. 2009 Sep;136(17):2977-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19666824</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Genet A. 2010 Sep;152A(9):2355-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20803647</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Development. 2010 Nov;137(21):3545-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20876646</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Development. 2010 Nov;137(22):3753-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20978073</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Biol. 2010 Dec 1;348(1):130-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20849841</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genesis. 2011 Apr;49(4):261-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21309064</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genesis. 2011 Apr;49(4):247-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21309070</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Genet. 2011 Jul 15;89(1):67-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21741611</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Stem Cell. 2011 Oct 4;9(4):317-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21982232</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2011 Oct 18;108(42):17355-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21987823</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gene Expr Patterns. 2012 Aug-Sep;12(7-8):273-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22835638</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

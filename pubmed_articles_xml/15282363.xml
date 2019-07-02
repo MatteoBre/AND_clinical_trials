@@ -1,0 +1,124 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15282363</PMID>
+<DateCompleted>
+<Year>2004</Year>
+<Month>08</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>04</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1533-4406</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>351</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2004</Year>
+<Month>Jul</Month>
+<Day>29</Day>
+</PubDate>
+</JournalIssue>
+<Title>The New England journal of medicine</Title>
+<ISOAbbreviation>N. Engl. J. Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Case 15-2004: cancer therapy and sperm banking.</ArticleTitle>
+<Pagination>
+<MedlinePgn>510; author reply 510</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Amory</LastName>
+<ForeName>John K</ForeName>
+<Initials>JK</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016420">Comment</PublicationType>
+<PublicationType UI="D016422">Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>N Engl J Med</MedlineTA>
+<NlmUniqueID>0255562</NlmUniqueID>
+<ISSNLinking>0028-4793</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>N Engl J Med. 2004 May 13;350(20):2081-7</RefSource>
+<PMID Version="1">15141047</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009845">Oligospermia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011878">Radiotherapy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013074">Sperm Banks</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013736">Testicular Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013737">Testis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2004</Year>
+<Month>7</Month>
+<Day>30</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2004</Year>
+<Month>8</Month>
+<Day>7</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2004</Year>
+<Month>7</Month>
+<Day>30</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15282363</ArticleId>
+<ArticleId IdType="doi">10.1056/NEJM200407293510521</ArticleId>
+<ArticleId IdType="pii">351/5/510</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

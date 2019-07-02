@@ -1,0 +1,170 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25487109</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>07</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>10</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1878-4380</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>23</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Trends in microbiology</Title>
+<ISOAbbreviation>Trends Microbiol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Elite control of HIV: is this the right model for a functional cure?</ArticleTitle>
+<Pagination>
+<MedlinePgn>71-5</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.tim.2014.11.003</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0966-842X(14)00239-X</ELocationID>
+<Abstract>
+<AbstractText>A cure for HIV is still greatly needed and has become a global research priority. A unique subset of HIV-infected individuals who spontaneously control HIV exists, and these are known as 'elite controllers'. They may represent a natural model for a 'functional cure' in which there is long term control of viral replication and remission from symptoms of HIV infection in the absence of antiretroviral therapy. However, controllers have evidence of ongoing inflammation, CD4(+) T cell depletion, and perhaps even inflammation-associated cardiovascular disease, suggesting that this natural long term virologic control may be coming at an immunologic and clinical cost. These individuals may continue to provide continued insights into mechanisms of host control; however, they may not represent the best model of a functional cure, if we believe that a cure should require a disease-free (and not just a treatment-free) state. </AbstractText>
+<CopyrightInformation>Copyright © 2014 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Cockerham</LastName>
+<ForeName>Leslie R</ForeName>
+<Initials>LR</Initials>
+<AffiliationInfo>
+<Affiliation>HIV/AIDS Division, San Francisco General Hospital, University of California, San Francisco, CA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hatano</LastName>
+<ForeName>Hiroyu</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>HIV/AIDS Division, San Francisco General Hospital, University of California, San Francisco, CA, USA. Electronic address: lcockerham@mcw.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P30 AI027763</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>06</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Trends Microbiol</MedlineTA>
+<NlmUniqueID>9310916</NlmUniqueID>
+<ISSNLinking>0966-842X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015496">CD4-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018414">CD8-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006678">HIV</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020276">HIV Long-Term Survivors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007249">Inflammation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014779">Virus Replication</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">HIV</Keyword>
+<Keyword MajorTopicYN="N">antiretroviral therapy</Keyword>
+<Keyword MajorTopicYN="N">elite controllers</Keyword>
+<Keyword MajorTopicYN="N">immune activation</Keyword>
+<Keyword MajorTopicYN="N">inflammation</Keyword>
+<Keyword MajorTopicYN="N">viral reservoirs</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>09</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>03</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25487109</ArticleId>
+<ArticleId IdType="pii">S0966-842X(14)00239-X</ArticleId>
+<ArticleId IdType="doi">10.1016/j.tim.2014.11.003</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

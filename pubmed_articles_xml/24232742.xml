@@ -1,0 +1,206 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24232742</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>10</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1433-0385</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>85</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Der Chirurg; Zeitschrift fur alle Gebiete der operativen Medizen</Title>
+<ISOAbbreviation>Chirurg</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Minimum thresholds under scrutiny].</ArticleTitle>
+<Pagination>
+<MedlinePgn>121-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Minimum volume thresholds for specific medical treatments have been implemented in Germany since 2004. In the last 9 years the catalogue of procedures, which is determined by the Federal Joint Committee, has changed continuously and currently consists of 8 procedures. In this article the basis of decision making for the enrolment in the catalogue of procedures and the determination of minimum volume thresholds are examined. An overview of systematic reviews was published in 2012 outlining the correlation between the volume components and medical outcome. The body of evidence identified is compared to the current regulatory conditions of the Federal Joint Committee.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Pieper</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eikermann</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mathes</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prediger</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Neugebauer</LastName>
+<ForeName>E A M</ForeName>
+<Initials>EA</Initials>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Mindestmengen auf dem Prüfstand.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Chirurg</MedlineTA>
+<NlmUniqueID>16140410R</NlmUniqueID>
+<ISSNLinking>0009-4722</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Chirurg. 2015 Feb;86(2):181-2</RefSource>
+<PMID Version="1">25673226</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019317">Evidence-Based Medicine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D005858">Germany</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061847">Hospitals, High-Volume</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061846">Hospitals, Low-Volume</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061366">Numbers Needed To Treat</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017063">Outcome Assessment (Health Care)</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011787">Quality of Health Care</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013514">Surgical Procedures, Operative</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24232742</ArticleId>
+<ArticleId IdType="doi">10.1007/s00104-013-2644-3</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Ann Intern Med. 2007 Aug 21;147(4):224-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17638714</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chin Med Assoc. 2011 Jan;74(1):22-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21292199</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1999 Dec 30;341(27):2049-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10615076</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2000 Aug 19;356(9230):621-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10968434</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Transplant. 2004 Jun;4(6):920-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15147426</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Epidemiol. 2009 Apr;62(4):400-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19013765</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2002 Sep 17;137(6):511-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12230353</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Cardiovasc Qual Outcomes. 2012 Nov;5(6):783-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23132331</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Surg. 2013 May;216(5):1015-1025.e18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23528183</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

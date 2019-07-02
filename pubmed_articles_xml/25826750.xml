@@ -1,0 +1,460 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25826750</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>04</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">2045-7634</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>4</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Cancer medicine</Title>
+<ISOAbbreviation>Cancer Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A phase I clinical trial of bavituximab and paclitaxel in patients with HER2 negative metastatic breast cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1051-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/cam4.447</ELocationID>
+<Abstract>
+<AbstractText>Bavituximab is a chimeric monoclonal antibody that targets phosphatidylserine (PS). PS is externalized on cells in the tumor microenvironment when exposed to hypoxia and/or other physiological stressors. On attaching to PS, bavituximab is thought to promote antitumor immunity through its effects on PS receptors in monocytes, and myeloid-derived suppressor cells, as well as trigger antitumor effects by inducing an antibody-dependent cellular cytotoxicity on tumor-associated endothelial cells. We conducted a phase I clinical trial of bavituximab in combination with paclitaxel in patients with HER2-negative metastatic breast cancer. Patients were treated with weekly paclitaxel (80 mg/m(2) for 3/4 weeks) and weekly bavituximab (3 mg/kg for 4/4 weeks). Correlative studies included the measurement of circulating microparticles, endothelial cells, and apoptotic tumor cells by flow cytometry. Fourteen patients with metastatic breast cancer were enrolled; all were evaluable for toxicity and 13 were evaluable for response. Treatment resulted in an overall response rate (RR) of 85% with a median progression-free survival (PFS) of 7.3 months. Bone pain, fatigue, headache, and neutropenia were the most common adverse effects. Infusion-related reactions were the most common adverse event related to bavituximab therapy. Correlative studies showed an increase in the PS-expressing apoptotic circulating tumor cells in response to bavituximab, but not with paclitaxel. No changes in the number of circulating endothelial cells or apoptotic endothelial cells were observed with therapy. Platelet and monocyte-derived microparticles decreased after initiation of bavituximab. Bavituximab in combination with paclitaxel is well tolerated for treatment of patients with metastatic breast cancer with promising results observed in terms of clinical RRs and PFS. The toxicity profile of bavituximab is notable for manageable infusion-related reactions with no evidence for increased thrombogenicity. Recent preclinical data suggest that bavituximab can also promote antitumor immune activity that should be explored in future clinical trials. </AbstractText>
+<CopyrightInformation>© 2015 The Authors. Cancer Medicine published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Chalasani</LastName>
+<ForeName>Pavani</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>University of Arizona Cancer Center, 1515 N Campbell Ave, Tucson, Arizona, 85724.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marron</LastName>
+<ForeName>Marilyn</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>University of Arizona Cancer Center, 1515 N Campbell Ave, Tucson, Arizona, 85724.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roe</LastName>
+<ForeName>Denise</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>University of Arizona Cancer Center, 1515 N Campbell Ave, Tucson, Arizona, 85724.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clarke</LastName>
+<ForeName>Kathryn</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>University of Arizona Cancer Center, 1515 N Campbell Ave, Tucson, Arizona, 85724.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Iannone</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>University of Arizona Cancer Center, 1515 N Campbell Ave, Tucson, Arizona, 85724.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Livingston</LastName>
+<ForeName>Robert B</ForeName>
+<Initials>RB</Initials>
+<AffiliationInfo>
+<Affiliation>University of Arizona Cancer Center, 1515 N Campbell Ave, Tucson, Arizona, 85724.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shan</LastName>
+<ForeName>Joseph S</ForeName>
+<Initials>JS</Initials>
+<AffiliationInfo>
+<Affiliation>Peregrine Pharmaceuticals, Inc., 14282 Franklin Avenue, Tustin, California, 92780.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stopeck</LastName>
+<ForeName>Alison T</ForeName>
+<Initials>AT</Initials>
+<AffiliationInfo>
+<Affiliation>Stonybrook Medicine University, PO Box 1554, Stonybrook, New York, 11790.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D017426">Clinical Trial, Phase I</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>03</Month>
+<Day>31</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cancer Med</MedlineTA>
+<NlmUniqueID>101595310</NlmUniqueID>
+<ISSNLinking>2045-7634</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.10.1</RegistryNumber>
+<NameOfSubstance UI="D018719">Receptor, ErbB-2</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>P88XT4IS4D</RegistryNumber>
+<NameOfSubstance UI="D017239">Paclitaxel</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>Q16CT95N25</RegistryNumber>
+<NameOfSubstance UI="C547825">bavituximab</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000911">Antibodies, Monoclonal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000971">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001706">Biopsy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004334">Drug Administration Schedule</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009362">Neoplasm Metastasis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017239">Paclitaxel</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018719">Receptor, ErbB-2</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000172">deficiency</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Bavituximab</Keyword>
+<Keyword MajorTopicYN="N">circulating tumor cells</Keyword>
+<Keyword MajorTopicYN="N">metastatic breast cancer</Keyword>
+<Keyword MajorTopicYN="N">microparticles</Keyword>
+<Keyword MajorTopicYN="N">paclitaxel</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>01</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>02</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>02</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>4</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>4</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25826750</ArticleId>
+<ArticleId IdType="doi">10.1002/cam4.447</ArticleId>
+<ArticleId IdType="pmc">PMC4529343</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Cancer Res. 2002 Nov 1;62(21):6132-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12414638</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2010 Nov 1;16(21):5233-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20978147</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Lipid Res. 2003 Feb;44(2):233-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12576505</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2003 Feb 15;21(4):588-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12586793</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 2004 Apr;91(4):667-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15045126</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2005 May 15;65(10):4408-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15899833</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2006 May 15;118(10):2639-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16353142</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thromb Haemost. 2007 Mar;5(3):520-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17166244</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2007 Sep 1;13(17):5211-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17785577</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2007 Nov 15;450(7168):430-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17960134</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2008 Jan;15(1):192-201</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17962816</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Thromb Hemost. 2010 Nov;36(8):888-906</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21049390</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2011 Apr 1;29(10):1252-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21383283</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO Rep. 2011 Apr;12(4):358-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21399623</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunotherapy. 2011 Aug;3(8):933-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21843081</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2011 Nov 1;17(21):6888-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21989064</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hamostaseologie. 2012;32(2):127-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21792463</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Cancer. 2012 Oct 9;107(8):1286-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22955853</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharm Pharm Sci. 2013;16(2):238-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23958193</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CA Cancer J Clin. 2014 Jan-Feb;64(1):52-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24114568</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2002 Dec 1;54(5):1479-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12459374</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2007 Dec 27;357(26):2666-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18160686</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2008 Mar 1;14(5):1377-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18316558</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Thromb Hemost. 2008 Mar;34(2):199-203</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18645926</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2008 Aug 28;359(9):938-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18753650</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Best Pract Res Clin Haematol. 2009 Mar;22(1):61-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19285273</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Leuk Lymphoma. 2009 May;50(5):728-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19373598</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2009 Nov 15;15(22):6871-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19887482</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Res. 2010 Jun;125(6):511-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19854471</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunol Rev. 2010 May;235(1):172-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20536563</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2010 Jul 10;28(20):3239-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20498403</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Oncol. 2010 Sep;21(9):1851-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20147742</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Immunol Res. 2013 Oct;1(4):256-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24777853</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

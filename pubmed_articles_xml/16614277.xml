@@ -1,0 +1,122 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16614277</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>06</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>28</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1468-201X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>92</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Heart (British Cardiac Society)</Title>
+<ISOAbbreviation>Heart</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Images in cardiology. Unusual dominant course of left circumflex coronary artery with absent right coronary artery.</ArticleTitle>
+<Pagination>
+<MedlinePgn>657</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kang</LastName>
+<ForeName>W C</ForeName>
+<Initials>WC</Initials>
+<AffiliationInfo>
+<Affiliation>kangwch@gilhospital.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Han</LastName>
+<ForeName>S H</ForeName>
+<Initials>SH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ahn</LastName>
+<ForeName>T H</ForeName>
+<Initials>TH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shin</LastName>
+<ForeName>E K</ForeName>
+<Initials>EK</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Heart</MedlineTA>
+<NlmUniqueID>9602087</NlmUniqueID>
+<ISSNLinking>1355-6037</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017023">Coronary Angiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003330">Coronary Vessel Anomalies</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>4</Month>
+<Day>15</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>6</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>4</Month>
+<Day>15</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16614277</ArticleId>
+<ArticleId IdType="pii">92/5/657</ArticleId>
+<ArticleId IdType="doi">10.1136/hrt.2005.073668</ArticleId>
+<ArticleId IdType="pmc">PMC1860947</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

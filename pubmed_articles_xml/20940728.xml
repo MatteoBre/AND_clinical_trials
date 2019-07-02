@@ -1,0 +1,299 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20940728</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>02</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1559-7016</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>31</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism</Title>
+<ISOAbbreviation>J. Cereb. Blood Flow Metab.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Dynamics of regional distribution of ischemic lesions in middle cerebral artery trunk occlusion relates to collateral circulation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>36-40</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/jcbfm.2010.185</ELocationID>
+<Abstract>
+<AbstractText>We describe the regional distribution of acute perfusion, diffusion, and final infarct lesions in middle cerebral artery (MCA) trunk occlusion. A total of 31 patients with acute ischemic stroke and MCA trunk occlusion were studied by multiparametric magnetic resonance imaging. Probabilistic maps of lesion distribution were generated. The probability of initial and final infarcts was highest in the central MCA region with decreasing probability toward the periphery where the probability of the tissue at risk of infarction to be saved was highest. The probability of brain regions being involved in acute diffusion lesions and evolving into or escaping from the final infarct relates to the anatomy of arterial blood supply.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Cheng</LastName>
+<ForeName>Bastian</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Klinik und Poliklinik für Neurologie, Kopf- und Neurozentrum, Universitätsklinikum Hamburg-Eppendorf, Hamburg, Germany. b.cheng@uke.uni-hamburg.de</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Golsari</LastName>
+<ForeName>Amir</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fiehler</LastName>
+<ForeName>Jens</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenkranz</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gerloff</LastName>
+<ForeName>Christian</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thomalla</LastName>
+<ForeName>Götz</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>13</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Cereb Blood Flow Metab</MedlineTA>
+<NlmUniqueID>8112566</NlmUniqueID>
+<ISSNLinking>0271-678X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005343">Fibrinolytic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.68</RegistryNumber>
+<NameOfSubstance UI="D010959">Tissue Plasminogen Activator</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002545">Brain Ischemia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001931">Brain Mapping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003097">Collateral Circulation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D038524">Diffusion Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005343">Fibrinolytic Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007091">Image Processing, Computer-Assisted</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020244">Infarction, Middle Cerebral Artery</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015233">Models, Statistical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020521">Stroke</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015912">Thrombolytic Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010959">Tissue Plasminogen Activator</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>2</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20940728</ArticleId>
+<ArticleId IdType="pii">jcbfm2010185</ArticleId>
+<ArticleId IdType="doi">10.1038/jcbfm.2010.185</ArticleId>
+<ArticleId IdType="pmc">PMC3049469</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Neuroimage. 2002 Oct;17(2):825-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12377157</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroradiology. 2009 Dec;51(12):865-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19633834</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2003 Sep;34(9):2279-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12881609</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2004 Jan;35(1):109-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14671246</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2004 Dec;35(12):2843-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15514190</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2005 May;36(5):986-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15817891</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AJNR Am J Neuroradiol. 2005 May;26(5):1056-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15891159</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2005 Oct;36(10):2132-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16151036</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2006 Mar;37(3):852-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16439696</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cerebrovasc Dis. 2006;22(1):51-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16567938</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2006 Sep;129(Pt 9):2384-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16891322</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2007 Jan;38(1):194-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17122428</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Magn Reson Imaging. 2008 Jun;27(6):1371-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18504757</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cerebrovasc Dis. 2009;27(6):529-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19390177</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2002 Nov;33(11):2549-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12411641</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

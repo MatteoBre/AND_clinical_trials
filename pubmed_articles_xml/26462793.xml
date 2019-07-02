@@ -1,0 +1,259 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26462793</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>07</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1872-7727</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>84</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>European journal of radiology</Title>
+<ISOAbbreviation>Eur J Radiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>MRI tumor volume reduction rate vs tumor regression grade in the pre-operative re-staging of locally advanced rectal cancer after chemo-radiotherapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2438-43</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejrad.2015.08.008</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0720-048X(15)30081-4</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To compare tumor volume reduction rate (TVRR) measured by MR volumetry after preoperative chemoradiotherapy (CRT) and pathological tumor regression grade (TRG) in locally advanced rectal cancer (LARC).</AbstractText>
+<AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">In total, 20 patients with LARC (cT3-T4) treated with CRT followed by Total Mesorectal Excision (TME) between April 2011 and April 2013 were analyzed retrospectively. Pre- and post- CRT tumor volumes (MR volumetry) were measured on 3D MR sequences. TVRR was determined using the equation TVRR (%)=(pre-CRT tumor volume-post-CRT tumor volume)×100/pre-CRT tumor volume. The downstaging (defined as ypT0-T2) of tumor mass was evaluated and the correlation between TVRR and TRG was calculated with the method proposed by Dworak using the Spearman rank test.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The median TVRR was 77.3% (range, 26.4-99.3%); TVRR was &gt;60% in 18 cases (90%) and in 8 of these patients (44.4 %) it was &gt;80%. Downstaging of tumor lesions was obtained in 15 patients (75%). In 4 cases there was a complete tumor regression (TRG4) at histological examination and in the same patients there was also a TVRR&gt;80% measured by MR volumetry. A statistically significant correlation between TVRR and TRG (r(s)=0.5466, p=0.0126) was observed.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">TVRR after preoperative CRT correlates with TRG in LARC. The MR volumetry is a prognostic factor to estimate the tumor response after preoperative CRT. TVRR data may be an useful biomarker for tailoring surgery and postoperative adjuvant chemotherapy.</AbstractText>
+<CopyrightInformation>Copyright © 2015. Published by Elsevier Ireland Ltd.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Neri</LastName>
+<ForeName>Emanuele</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa, Unit of Diagnostic and Interventional Radiology, Pisa University Hospital, Italy. Electronic address: emanuele.neri@med.unipi.it.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guidi</LastName>
+<ForeName>Elisa</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa, Unit of Diagnostic and Interventional Radiology, Pisa University Hospital, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pancrazi</LastName>
+<ForeName>Francesca</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa, Unit of Diagnostic and Interventional Radiology, Pisa University Hospital, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Castagna</LastName>
+<ForeName>Maura</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Anatomy and Pathology, Pisa University Hospital, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Castelluccio</LastName>
+<ForeName>Elisa</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Anatomy and Pathology, Pisa University Hospital, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Balestri</LastName>
+<ForeName>Riccardo</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Colorectal Surgery, Pisa University Hospital, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Buccianti</LastName>
+<ForeName>Piero</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Colorectal Surgery, Pisa University Hospital, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Masi</LastName>
+<ForeName>Luca</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Oncology, Pisa University Hospital, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Falcone</LastName>
+<ForeName>Alfredo</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Oncology, Pisa University Hospital, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Manfredi</LastName>
+<ForeName>Bruno</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Radiotherapy, Pisa University Hospital, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Faggioni</LastName>
+<ForeName>Lorenzo</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa, Unit of Diagnostic and Interventional Radiology, Pisa University Hospital, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bartolozzi</LastName>
+<ForeName>Carlo</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Translational Research and New Technologies in Medicine and Surgery, University of Pisa, Unit of Diagnostic and Interventional Radiology, Pisa University Hospital, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Ireland</Country>
+<MedlineTA>Eur J Radiol</MedlineTA>
+<NlmUniqueID>8106411</NlmUniqueID>
+<ISSNLinking>0720-048X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059248">Chemoradiotherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011300">Preoperative Care</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012004">Rectal Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047368">Tumor Burden</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Image processing</Keyword>
+<Keyword MajorTopicYN="N">MR</Keyword>
+<Keyword MajorTopicYN="N">Quantitative imaging</Keyword>
+<Keyword MajorTopicYN="N">Rectal cancer</Keyword>
+<Keyword MajorTopicYN="N">Staging</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>03</Month>
+<Day>15</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26462793</ArticleId>
+<ArticleId IdType="pii">S0720-048X(15)30081-4</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ejrad.2015.08.008</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

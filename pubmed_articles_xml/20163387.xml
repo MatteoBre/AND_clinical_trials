@@ -1,0 +1,162 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20163387</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>07</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1521-0391</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>19</Volume>
+<Issue>2</Issue>
+<PubDate>
+<MedlineDate>2010 Mar-Apr</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>The American journal on addictions</Title>
+<ISOAbbreviation>Am J Addict</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The effects of current subsyndromal psychiatric symptoms or past psychopathology on alcohol dependence treatment outcomes and acamprosate efficacy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>147-54</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1521-0391.2009.00013.x</ELocationID>
+<Abstract>
+<AbstractText>This secondary analysis of the first U.S. acamprosate trial (N = 601) for alcohol dependence examines the effects of subsyndromal psychiatric symptoms or history of severe psychopathology on alcoholism treatment outcomes and any mitigating effects of acamprosate. Psychiatric antecedents were documented using a protocol-specific interview. Current psychiatric symptoms were assessed using Hamilton Anxiety and Depression (HAM-A, HAM-D) rating scales. Predictors of good response, defined as abstinence for &gt; or =90% of trial duration, were identified using logistic regression. Subsyndromal anxiety (as determined by HAM-A "Anxious Mood" item) and the presence of &gt; or =1 psychiatric antecedent were significant negative predictors of good response. Lower pretreatment drinking intensity, baseline motivation to have abstinence as a goal, and treatment with acamprosate were significant positive predictors of good response. No significant interactions among predictors were detected, indicating that they are independent, additive factors. Thus, the beneficial effects of acamprosate treatment in combination with motivational therapy may offset the liabilities for alcoholism recovery that are associated with current anxiety symptoms and/or a significant past psychiatric history. (Am J Addict 2010;00:1-8).</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mason</LastName>
+<ForeName>Barbara J</ForeName>
+<Initials>BJ</Initials>
+<AffiliationInfo>
+<Affiliation>Committee on the Neurobiology of Addictive Disorders, Pearson Center for Alcoholism and Addiction Research, The Scripps Research Institute, La Jolla, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lehert</LastName>
+<ForeName>Philippe</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Am J Addict</MedlineTA>
+<NlmUniqueID>9208821</NlmUniqueID>
+<ISSNLinking>1055-0496</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000427">Alcohol Deterrents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1EQV5MLY3D</RegistryNumber>
+<NameOfSubstance UI="D013654">Taurine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>N4K14YGM3J</RegistryNumber>
+<NameOfSubstance UI="D000077443">Acamprosate</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077443">Acamprosate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000427">Alcohol Deterrents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000437">Alcoholism</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003376">Counseling</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001523">Mental Disorders</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009042">Motivation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013654">Taurine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>7</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20163387</ArticleId>
+<ArticleId IdType="pii">AJAD13</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1521-0391.2009.00013.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

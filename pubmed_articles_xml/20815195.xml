@@ -1,0 +1,293 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20815195</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>09</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>05</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0161-8105</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>33</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Sleep</Title>
+<ISOAbbreviation>Sleep</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Changes in serum TSH and free T4 during human sleep restriction.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1115-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="STUDY OBJECTIVES" NlmCategory="OBJECTIVE">To examine whether recurrent sleep restriction is accompanied by changes in measures of thyroid function.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">Two-period crossover intervention study.</AbstractText>
+<AbstractText Label="SETTING" NlmCategory="METHODS">University clinical research center and sleep laboratory.</AbstractText>
+<AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">11 healthy volunteers (5F/6M) with a mean (+/- SD) age of 39 +/- 5 y and BMI 26.5 +/- 1.5 kg/m2.</AbstractText>
+<AbstractText Label="INTERVENTION" NlmCategory="METHODS">Randomized exposure to 14 days of sedentary living with ad libitum food intake and 5.5- vs. 8.5-h overnight sleep opportunity.</AbstractText>
+<AbstractText Label="MEASUREMENTS AND RESULTS" NlmCategory="RESULTS">Serum thyroid-stimulating hormone (TSH) and free thyroxine (T4) were measured at the end of each intervention. Partial sleep restriction was accompanied by a modest but statistically significant reduction in TSH and free T4, seen mainly in the female participants of the study.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Compared to the well-known rise in TSH and thyroid hormone concentrations during acute sleep loss, tests obtained after 14 days of partial sleep restriction did not show a similar activation of the human thyroid axis.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kessler</LastName>
+<ForeName>Lynn</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, University of Chicago, Chicago, IL 60637, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nedeltcheva</LastName>
+<ForeName>Arlet</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Imperial</LastName>
+<ForeName>Jacqueline</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Penev</LastName>
+<ForeName>Plamen D</ForeName>
+<Initials>PD</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>CTSA-RR 04999</GrantID>
+<Acronym>CT</Acronym>
+<Agency>CIT NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P60-DK020595</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01-HL089637</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P01-AG11412</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL089637</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P60 DK020595</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P01 AG011412</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Sleep</MedlineTA>
+<NlmUniqueID>7809084</NlmUniqueID>
+<ISSNLinking>0161-8105</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>9002-71-5</RegistryNumber>
+<NameOfSubstance UI="D013972">Thyrotropin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>Q51BO43MG4</RegistryNumber>
+<NameOfSubstance UI="D013974">Thyroxine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002940">Circadian Rhythm</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012008">Recurrence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012016">Reference Values</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012892">Sleep Deprivation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013972">Thyrotropin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013974">Thyroxine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20815195</ArticleId>
+<ArticleId IdType="pmc">PMC2910542</ArticleId>
+<ArticleId IdType="doi">10.1093/sleep/33.8.1115</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Endocrinology. 1990 Aug;127(2):882-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2373059</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 1990 Feb;70(2):403-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2105332</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Psychiatry. 1996 May 15;39(10):857-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9172706</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep Med Rev. 2008 Aug;12(4):289-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18485764</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2009 Jan;89(1):126-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19056602</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2009 Sep;94(9):3242-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19567526</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1999 Oct 23;354(9188):1435-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10543671</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychiatry Clin Neurosci. 2001 Jun;55(3):305-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11422885</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuro Endocrinol Lett. 2002 Apr;23 Suppl 1:73-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12019356</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Endocrinol Metab. 2002 Jul;283(1):E85-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12067847</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 1973 Nov;37(5):736-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4127181</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocrinology. 1984 Jan;114(1):280-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6317348</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 1987 Jan;64(1):157-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3782430</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 1989 Feb;12(1):31-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2538910</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocrinology. 1995 Apr;136(4):1426-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7895653</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

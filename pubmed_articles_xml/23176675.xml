@@ -1,0 +1,241 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23176675</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>02</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>12</Month>
+<Day>12</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1532-5415</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>60</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American Geriatrics Society</Title>
+<ISOAbbreviation>J Am Geriatr Soc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Changes in activities of daily living, nutrient intake, and systemic inflammation in elderly adults receiving recuperative care.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2246-53</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/jgs.12007</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To determine the relationships between physical function, systemic inflammation, and nutrient intake in elderly adults who are deconditioned or recovering from medical illness.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">Prospective observational study.</AbstractText>
+<AbstractText Label="SETTING" NlmCategory="METHODS">Recuperative care and rehabilitation setting of a Veterans Affairs hospital.</AbstractText>
+<AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">Older adults assessed to be in need of and likely to benefit from specialized inpatient care (N = 336, aged 78.9 ± 7.5, median length of stay 24 days).</AbstractText>
+<AbstractText Label="MEASUREMENTS" NlmCategory="METHODS">Functional assessments and plasma analyses for albumins and inflammatory markers were performed at admission and discharge. Complete nutrient intake assessments were performed daily. Katz (independence in activities of daily living) and walking endurance (distance capability and summation of need for assistive device and human help) scores were based on direct observation and provider query. Data were analyzed using least-squares and logistic regression analyses.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Changes in physical function between admission and discharge were positively correlated with change in nutrient intake and inversely correlated with inflammation at admission and its change. Participants in the upper quartile of change for nutrient intake (particularly improved protein intake) were two to three times as likely to experience a clinically significant change in functional status during the hospitalization. Similarly, the odds of experiencing an improvement in physical function were two to four times as great for participants whose C-reactive protein levels declined as for those whose levels increased. These relationships remained significant after controlling for age, length of stay, and other baseline indicators of health status.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Protein intake and inflammation are significantly correlated with functional recovery for aging individuals undergoing recuperative care and rehabilitation. Future studies should investigate whether combined interventions that target these factors improve recovery during hospitalization for this population.</AbstractText>
+<CopyrightInformation>© 2012, Copyright the Authors Journal compilation © 2012, The American Geriatrics Society.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Dennis</LastName>
+<ForeName>Richard A</ForeName>
+<Initials>RA</Initials>
+<AffiliationInfo>
+<Affiliation>Geriatric Research, Education and Clinical Center, Central Arkansas Veterans Healthcare System, Little Rock, Arkansas 72205, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>Larry E</ForeName>
+<Initials>LE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roberson</LastName>
+<ForeName>Paula K</ForeName>
+<Initials>PK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heif</LastName>
+<ForeName>Muhannad</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bopp</LastName>
+<ForeName>Melinda M</ForeName>
+<Initials>MM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garner</LastName>
+<ForeName>Kimberly K</ForeName>
+<Initials>KK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Padala</LastName>
+<ForeName>Kalpana P</ForeName>
+<Initials>KP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Padala</LastName>
+<ForeName>Prasad R</ForeName>
+<Initials>PR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dubbert</LastName>
+<ForeName>Patricia M</ForeName>
+<Initials>PM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sullivan</LastName>
+<ForeName>Dennis H</ForeName>
+<Initials>DH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>23</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Am Geriatr Soc</MedlineTA>
+<NlmUniqueID>7503062</NlmUniqueID>
+<ISSNLinking>0002-8614</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004044">Dietary Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011228">Prealbumin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012709">Serum Albumin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-41-4</RegistryNumber>
+<NameOfSubstance UI="D002097">C-Reactive Protein</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000203">Activities of Daily Living</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002097">C-Reactive Protein</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004044">Dietary Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D002149">Energy Intake</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015577">Geriatric Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006757">Hospital Units</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007249">Inflammation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015850">Interleukin-6</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010807">Physical Endurance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011228">Prealbumin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020127">Recovery of Function</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012047">Rehabilitation Centers</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012709">Serum Albumin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014409">Tumor Necrosis Factor-alpha</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016138">Walking</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23176675</ArticleId>
+<ArticleId IdType="doi">10.1111/jgs.12007</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

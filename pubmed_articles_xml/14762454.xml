@@ -1,0 +1,163 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">14762454</PMID>
+<DateCompleted>
+<Year>2004</Year>
+<Month>06</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>11</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0743-8346</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>24</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2004</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of perinatology : official journal of the California Perinatal Association</Title>
+<ISOAbbreviation>J Perinatol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>High-frequency partial liquid ventilation in two infants.</ArticleTitle>
+<Pagination>
+<MedlinePgn>118-20</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Two infants on high-frequency oscillatory ventilation for chronic lung disease and severe respiratory failure, received a bolus of warmed and oxygenated perfluorodecalin up to residual functional capacity, followed by a continuous infusion of 6 ml/kg/hour. Our aim was to improve gas exchange without increasing ventilatory-induced lung injury. Heart rate, oxygen saturation, blood pressure, and TcPO(2)/TcPCO(2) were continuously monitored during treatment. Arterial blood gas was evaluated every 3 hours. Both patients showed improvement of gas exchange with a 13.6 and 12.5% reduction of oxygenation index, respectively. High-frequency partial liquid ventilation is an experimental ventilation technique that could be considered as rescue treatment, to improve oxygenation in subjects with critical respiratory failure. This method could probably produce less damage, than other ventilation modes, to severely injured lungs.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Migliori</LastName>
+<ForeName>Claudio</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Neonatology and Neonatal Intensive care, Spedali Civili, Brescia, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bottino</LastName>
+<ForeName>Roberto</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Angeli</LastName>
+<ForeName>Agnese</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cattarelli</LastName>
+<ForeName>Donatella</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chirico</LastName>
+<ForeName>Gaetano</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Perinatol</MedlineTA>
+<NlmUniqueID>8501884</NlmUniqueID>
+<ISSNLinking>0743-8346</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D005466">Fluorocarbons</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>54A06VV62N</RegistryNumber>
+<NameOfSubstance UI="C008805">perfluorodecalin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005466">Fluorocarbons</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005652">Functional Residual Capacity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006612">High-Frequency Ventilation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007234">Infant, Premature</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007235">Infant, Premature, Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011659">Pulmonary Gas Exchange</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012131">Respiratory Insufficiency</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2004</Year>
+<Month>2</Month>
+<Day>6</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2004</Year>
+<Month>6</Month>
+<Day>15</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2004</Year>
+<Month>2</Month>
+<Day>6</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14762454</ArticleId>
+<ArticleId IdType="doi">10.1038/sj.jp.7211044</ArticleId>
+<ArticleId IdType="pii">7211044</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

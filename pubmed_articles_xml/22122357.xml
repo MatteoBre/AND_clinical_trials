@@ -1,0 +1,169 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22122357</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>04</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>06</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1744-7682</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>12</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Expert opinion on biological therapy</Title>
+<ISOAbbreviation>Expert Opin Biol Ther</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Lipids and diabetic retinopathy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>93-105</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1517/14712598.2012.641531</ELocationID>
+<Abstract>
+<AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Diabetic retinopathy (DR) is a significant cause of visual impairment worldwide. The association between hyperlipidemia or dyslipidemia and DR has been investigated extensively, but a conclusive link remains elusive. This review summarizes the current knowledge regarding lipids and DR.</AbstractText>
+<AbstractText Label="AREAS COVERED" NlmCategory="METHODS">The clinical literature on the associations between the 'traditional' lipid markers and DR will be critically evaluated, along with some of the postulated biological mechanisms underlying the associations. The emergence of several novel 'non-traditional' lipid fractions as possible biomarkers for DR will also be discussed. The review will conclude by evaluating current lipid-lowering therapies in DR and also give an overview of other novel treatments targeting lipid pathways.</AbstractText>
+<AbstractText Label="EXPERT OPINION" NlmCategory="CONCLUSIONS">Future studies need to address three important issues. First, the role of novel lipid biomarkers needs to be clarified in light of the persistent failure of epidemiological studies to demonstrate a clear association between traditional lipids and DR. Second, the pathways by which lipid-lowering therapies act in preventing the retinal complications of diabetes need to be elucidated. Last, identifying the patient profile that would benefit most from treatment is essential.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lim</LastName>
+<ForeName>Laurence S</ForeName>
+<Initials>LS</Initials>
+<AffiliationInfo>
+<Affiliation>Singapore Eye Research Institute, Singapore National Eye Centre, 11 Third Hospital Ave, #05-00, 168751, Singapore.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wong</LastName>
+<ForeName>Tien Y</ForeName>
+<Initials>TY</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>28</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Expert Opin Biol Ther</MedlineTA>
+<NlmUniqueID>101125414</NlmUniqueID>
+<ISSNLinking>1471-2598</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002986">Clinical Trials as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D048909">Diabetes Complications</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003930">Diabetic Retinopathy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050171">Dyslipidemias</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005654">Fundus Oculi</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006949">Hyperlipidemias</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008055">Lipids</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008269">Macular Edema</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008954">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018384">Oxidative Stress</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012306">Risk</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>4</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22122357</ArticleId>
+<ArticleId IdType="doi">10.1517/14712598.2012.641531</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

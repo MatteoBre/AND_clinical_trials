@@ -1,0 +1,369 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18565953</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>10</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1535-4970</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>178</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Oct</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>American journal of respiratory and critical care medicine</Title>
+<ISOAbbreviation>Am. J. Respir. Crit. Care Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Wheezing rhinovirus illnesses in early life predict asthma development in high-risk children.</ArticleTitle>
+<Pagination>
+<MedlinePgn>667-72</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1164/rccm.200802-309OC</ELocationID>
+<Abstract>
+<AbstractText Label="RATIONALE" NlmCategory="BACKGROUND">Virus-induced wheezing episodes in infancy often precede the development of asthma. Whether infections with specific viral pathogens confer differential future asthma risk is incompletely understood.</AbstractText>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To define the relationship between specific viral illnesses and early childhood asthma development.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A total of 259 children were followed prospectively from birth to 6 years of age. The etiology and timing of specific viral wheezing respiratory illnesses during early childhood were assessed using nasal lavage, culture, and multiplex reverse transcriptase-polymerase chain reaction. The relationships of these virus-specific wheezing illnesses and other risk factors to the development of asthma were analyzed.</AbstractText>
+<AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">Viral etiologies were identified in 90% of wheezing illnesses. From birth to age 3 years, wheezing with respiratory syncytial virus (RSV) (odds ratio [OR], 2.6), rhinovirus (RV) (OR, 9.8), or both RV and RSV (OR , 10) was associated with increased asthma risk at age 6 years. In Year 1, both RV wheezing (OR, 2.8) and aeroallergen sensitization (OR, 3.6) independently increased asthma risk at age 6 years. By age 3 years, wheezing with RV (OR, 25.6) was more strongly associated with asthma at age 6 years than aeroallergen sensitization (OR, 3.4). Nearly 90% (26 of 30) of children who wheezed with RV in Year 3 had asthma at 6 years of age.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Among outpatient viral wheezing illnesses in infancy and early childhood, those caused by RV infections are the most significant predictors of the subsequent development of asthma at age 6 years in a high-risk birth cohort.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Jackson</LastName>
+<ForeName>Daniel J</ForeName>
+<Initials>DJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, University of Wisconsin-Madison, Madison, WI, USA. djj@medicine.wisc.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gangnon</LastName>
+<ForeName>Ronald E</ForeName>
+<Initials>RE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Evans</LastName>
+<ForeName>Michael D</ForeName>
+<Initials>MD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roberg</LastName>
+<ForeName>Kathy A</ForeName>
+<Initials>KA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>Elizabeth L</ForeName>
+<Initials>EL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pappas</LastName>
+<ForeName>Tressa E</ForeName>
+<Initials>TE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Printz</LastName>
+<ForeName>Magnolia C</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Wai-Ming</ForeName>
+<Initials>WM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shult</LastName>
+<ForeName>Peter A</ForeName>
+<Initials>PA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Reisdorf</LastName>
+<ForeName>Erik</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carlson-Dakes</LastName>
+<ForeName>Kirsten T</ForeName>
+<Initials>KT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salazar</LastName>
+<ForeName>Lisa P</ForeName>
+<Initials>LP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>DaSilva</LastName>
+<ForeName>Douglas F</ForeName>
+<Initials>DF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tisler</LastName>
+<ForeName>Christopher J</ForeName>
+<Initials>CJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gern</LastName>
+<ForeName>James E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lemanske</LastName>
+<ForeName>Robert F</ForeName>
+<Initials>RF</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>M01 RR03186</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P01 HL70831</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL61879</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>06</Month>
+<Day>19</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Respir Crit Care Med</MedlineTA>
+<NlmUniqueID>9421642</NlmUniqueID>
+<ISSNLinking>1073-449X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001249">Asthma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007114">Immunization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016017">Odds Ratio</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010850">Picornaviridae Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012135">Respiratory Sounds</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018357">Respiratory Syncytial Virus Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012882">Skin Tests</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>6</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>2</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>6</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18565953</ArticleId>
+<ArticleId IdType="pii">200802-309OC</ArticleId>
+<ArticleId IdType="doi">10.1164/rccm.200802-309OC</ArticleId>
+<ArticleId IdType="pmc">PMC2556448</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2000 May;161(5):1501-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10806145</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thorax. 2008 Jan;63(1):8-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17615086</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Allergy Immunol. 2002 Dec;13(6):386-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12485313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2003 Jan;111(1):66-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12532098</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Allergy Immunol. 2002;13 Suppl 15:38-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12688623</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2003 Oct;112(4):740-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14564354</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2003 Nov;112(5):883-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14610474</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2004 Jul 15;170(2):175-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15087299</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Virol. 1993 Jun;40(2):96-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8395557</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1995 Jan 19;332(3):133-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7800004</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1999 Aug 14;354(9178):541-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10470697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2005 Sep;116(3):571-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16159626</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2006 Jan;117(1):72-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16387587</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2007 Jan 15;175(2):108-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17053206</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2007 May;119(5):1105-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17353039</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Microbiol. 2007 Aug;45(8):2626-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17537928</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2007;2(10):e966</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17912345</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Allergy Clin Immunol. 2007 Oct;120(4):835-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17689598</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2002 May 1;165(9):1285-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11991880</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

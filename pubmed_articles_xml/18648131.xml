@@ -1,0 +1,190 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18648131</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>08</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>07</Month>
+<Day>23</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1590-8577</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>9</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Jul</Month>
+<Day>10</Day>
+</PubDate>
+</JournalIssue>
+<Title>JOP : Journal of the pancreas</Title>
+<ISOAbbreviation>JOP</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Are health related outcomes in acute pancreatitis improving? An analysis of national trends in the U.S. from 1997 to 2003.</ArticleTitle>
+<Pagination>
+<MedlinePgn>408-14</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">Acute pancreatitis is a common inflammatory disorder of the pancreas. Within the past decade our ability to diagnose and treat complications of acute pancreatitis has improved. Despite advances in diagnostic and therapeutic technology it is unclear whether we have been able to impact health related outcomes of acute pancreatitis such as incidence and mortality.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to use a national database of U.S. hospitals to evaluate the trends in the incidence and mortality associated with acute pancreatitis. We also examined the impact that patient demographic and hospital characteristics have on health related outcomes in acute pancreatitis.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We analyzed the National Inpatient Sample Database (NIS) for all subjects in which acute pancreatitis (ICD-9 code: 577.0) was the principal discharge diagnosis during the period from 1997-2003. All identified subjects were analyzed for demographic characteristics as well as hospital characteristics.</AbstractText>
+<AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">The mean frequency of discharges for acute pancreatitis, percentage mortality and mean length of stay for acute pancreatitis were determined for all identified cases.</AbstractText>
+<AbstractText Label="STATISTICS" NlmCategory="METHODS">The statistical significance of the difference in the discharge frequency, mortality and length of stay over the study period was determined by utilization of the chi-square test for trend and the linear regression.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">During the study period there were 1,476,498 admissions with a principal discharge diagnosis of acute pancreatitis. The frequency of discharges with acute pancreatitis increased by 30.2% (P&lt;0.001) during the period from 1997-2003. The average mortality associated with acute pancreatitis decreased by 35.2% (P&lt;0.001) and the median length of stay decreased by 9.4% (P=0.002). Most discharges with acute pancreatitis were in the Southern U.S. and were at large non-teaching hospitals located in urban areas.</AbstractText>
+<AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">Possible explanations for the results of our study are the improvements in our ability to diagnose acute pancreatitis, an increase in the availability of medical ICU's and an increase in hospital admissions for gallstones and alcohol use during the study period.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Alphonso</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>The Beth Israel Deaconess Medical Center, Harvard Medical School. Boston, MA 02215, USA. abrown4@bidmc.harvard.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Young</LastName>
+<ForeName>Benjamin</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morton</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Behrns</LastName>
+<ForeName>Kevin</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shaheen</LastName>
+<ForeName>Nicholas</ForeName>
+<Initials>N</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>07</Month>
+<Day>10</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Italy</Country>
+<MedlineTA>JOP</MedlineTA>
+<NlmUniqueID>101091810</NlmUniqueID>
+<ISSNLinking>1590-8577</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000208">Acute Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016208">Databases, Factual</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017052">Hospital Mortality</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007297">Inpatients</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007902">Length of Stay</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017063">Outcome Assessment (Health Care)</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010195">Pancreatitis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010351">Patient Discharge</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>7</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>8</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>7</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18648131</ArticleId>
+<ArticleId IdType="pii">v09i04a06</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

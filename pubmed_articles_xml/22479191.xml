@@ -1,0 +1,2314 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22479191</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>09</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1553-7404</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>8</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2012</Year>
+</PubDate>
+</JournalIssue>
+<Title>PLoS genetics</Title>
+<ISOAbbreviation>PLoS Genet.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Genome-wide association and functional follow-up reveals new loci for kidney function.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e1002584</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pgen.1002584</ELocationID>
+<Abstract>
+<AbstractText>Chronic kidney disease (CKD) is an important public health problem with a genetic component. We performed genome-wide association studies in up to 130,600 European ancestry participants overall, and stratified for key CKD risk factors. We uncovered 6 new loci in association with estimated glomerular filtration rate (eGFR), the primary clinical measure of CKD, in or near MPPED2, DDX1, SLC47A1, CDK12, CASP9, and INO80. Morpholino knockdown of mpped2 and casp9 in zebrafish embryos revealed podocyte and tubular abnormalities with altered dextran clearance, suggesting a role for these genes in renal function. By providing new insights into genes that regulate renal function, these results could further our understanding of the pathogenesis of CKD.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Pattaro</LastName>
+<ForeName>Cristian</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Genetic Medicine, European Academy of Bozen/Bolzano (EURAC) and Affiliated Institute of the University of Lübeck, Bolzano, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Köttgen</LastName>
+<ForeName>Anna</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Teumer</LastName>
+<ForeName>Alexander</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garnaas</LastName>
+<ForeName>Maija</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Böger</LastName>
+<ForeName>Carsten A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fuchsberger</LastName>
+<ForeName>Christian</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olden</LastName>
+<ForeName>Matthias</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>Ming-Huei</ForeName>
+<Initials>MH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tin</LastName>
+<ForeName>Adrienne</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taliun</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Man</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gao</LastName>
+<ForeName>Xiaoyi</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gorski</LastName>
+<ForeName>Mathias</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Qiong</ForeName>
+<Initials>Q</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hundertmark</LastName>
+<ForeName>Claudia</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Foster</LastName>
+<ForeName>Meredith C</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Seaghdha</LastName>
+<ForeName>Conall M</ForeName>
+<Initials>CM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Glazer</LastName>
+<ForeName>Nicole</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Isaacs</LastName>
+<ForeName>Aaron</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Ching-Ti</ForeName>
+<Initials>CT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>Albert V</ForeName>
+<Initials>AV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Connell</LastName>
+<ForeName>Jeffrey R</ForeName>
+<Initials>JR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Struchalin</LastName>
+<ForeName>Maksim</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tanaka</LastName>
+<ForeName>Toshiko</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Guo</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>Andrew D</ForeName>
+<Initials>AD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gierman</LastName>
+<ForeName>Hinco J</ForeName>
+<Initials>HJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feitosa</LastName>
+<ForeName>Mary</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hwang</LastName>
+<ForeName>Shih-Jen</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Atkinson</LastName>
+<ForeName>Elizabeth J</ForeName>
+<Initials>EJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lohman</LastName>
+<ForeName>Kurt</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cornelis</LastName>
+<ForeName>Marilyn C</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johansson</LastName>
+<ForeName>Åsa</ForeName>
+<Initials>Å</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tönjes</LastName>
+<ForeName>Anke</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dehghan</LastName>
+<ForeName>Abbas</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chouraki</LastName>
+<ForeName>Vincent</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holliday</LastName>
+<ForeName>Elizabeth G</ForeName>
+<Initials>EG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sorice</LastName>
+<ForeName>Rossella</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kutalik</LastName>
+<ForeName>Zoltan</ForeName>
+<Initials>Z</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lehtimäki</LastName>
+<ForeName>Terho</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Esko</LastName>
+<ForeName>Tõnu</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deshmukh</LastName>
+<ForeName>Harshal</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ulivi</LastName>
+<ForeName>Sheila</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chu</LastName>
+<ForeName>Audrey Y</ForeName>
+<Initials>AY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Murgia</LastName>
+<ForeName>Federico</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Trompet</LastName>
+<ForeName>Stella</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Imboden</LastName>
+<ForeName>Medea</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kollerits</LastName>
+<ForeName>Barbara</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pistis</LastName>
+<ForeName>Giorgio</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>CARDIoGRAM Consortium</CollectiveName>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>ICBP Consortium</CollectiveName>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>CARe Consortium</CollectiveName>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>Wellcome Trust Case Control Consortium 2 (WTCCC2)</CollectiveName>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harris</LastName>
+<ForeName>Tamara B</ForeName>
+<Initials>TB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Launer</LastName>
+<ForeName>Lenore J</ForeName>
+<Initials>LJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aspelund</LastName>
+<ForeName>Thor</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eiriksdottir</LastName>
+<ForeName>Gudny</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mitchell</LastName>
+<ForeName>Braxton D</ForeName>
+<Initials>BD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boerwinkle</LastName>
+<ForeName>Eric</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmidt</LastName>
+<ForeName>Helena</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cavalieri</LastName>
+<ForeName>Margherita</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rao</LastName>
+<ForeName>Madhumathi</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hu</LastName>
+<ForeName>Frank B</ForeName>
+<Initials>FB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Demirkan</LastName>
+<ForeName>Ayse</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oostra</LastName>
+<ForeName>Ben A</ForeName>
+<Initials>BA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Andrade</LastName>
+<ForeName>Mariza</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Turner</LastName>
+<ForeName>Stephen T</ForeName>
+<Initials>ST</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ding</LastName>
+<ForeName>Jingzhong</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andrews</LastName>
+<ForeName>Jeanette S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Freedman</LastName>
+<ForeName>Barry I</ForeName>
+<Initials>BI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koenig</LastName>
+<ForeName>Wolfgang</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Illig</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Döring</LastName>
+<ForeName>Angela</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wichmann</LastName>
+<ForeName>H-Erich</ForeName>
+<Initials>HE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kolcic</LastName>
+<ForeName>Ivana</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zemunik</LastName>
+<ForeName>Tatijana</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boban</LastName>
+<ForeName>Mladen</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Minelli</LastName>
+<ForeName>Cosetta</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wheeler</LastName>
+<ForeName>Heather E</ForeName>
+<Initials>HE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Igl</LastName>
+<ForeName>Wilmar</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zaboli</LastName>
+<ForeName>Ghazal</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wild</LastName>
+<ForeName>Sarah H</ForeName>
+<Initials>SH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wright</LastName>
+<ForeName>Alan F</ForeName>
+<Initials>AF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Campbell</LastName>
+<ForeName>Harry</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ellinghaus</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nöthlings</LastName>
+<ForeName>Ute</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jacobs</LastName>
+<ForeName>Gunnar</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Biffar</LastName>
+<ForeName>Reiner</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Endlich</LastName>
+<ForeName>Karlhans</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ernst</LastName>
+<ForeName>Florian</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Homuth</LastName>
+<ForeName>Georg</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kroemer</LastName>
+<ForeName>Heyo K</ForeName>
+<Initials>HK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nauck</LastName>
+<ForeName>Matthias</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stracke</LastName>
+<ForeName>Sylvia</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Völker</LastName>
+<ForeName>Uwe</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Völzke</LastName>
+<ForeName>Henry</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kovacs</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stumvoll</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mägi</LastName>
+<ForeName>Reedik</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hofman</LastName>
+<ForeName>Albert</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Uitterlinden</LastName>
+<ForeName>Andre G</ForeName>
+<Initials>AG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rivadeneira</LastName>
+<ForeName>Fernando</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aulchenko</LastName>
+<ForeName>Yurii S</ForeName>
+<Initials>YS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Polasek</LastName>
+<ForeName>Ozren</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hastie</LastName>
+<ForeName>Nick</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vitart</LastName>
+<ForeName>Veronique</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Helmer</LastName>
+<ForeName>Catherine</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Jie Jin</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ruggiero</LastName>
+<ForeName>Daniela</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bergmann</LastName>
+<ForeName>Sven</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kähönen</LastName>
+<ForeName>Mika</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Viikari</LastName>
+<ForeName>Jorma</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nikopensius</LastName>
+<ForeName>Tiit</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Province</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ketkar</LastName>
+<ForeName>Shamika</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Colhoun</LastName>
+<ForeName>Helen</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Doney</LastName>
+<ForeName>Alex</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Robino</LastName>
+<ForeName>Antonietta</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giulianini</LastName>
+<ForeName>Franco</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krämer</LastName>
+<ForeName>Bernhard K</ForeName>
+<Initials>BK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Portas</LastName>
+<ForeName>Laura</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ford</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Buckley</LastName>
+<ForeName>Brendan M</ForeName>
+<Initials>BM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Adam</LastName>
+<ForeName>Martin</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thun</LastName>
+<ForeName>Gian-Andri</ForeName>
+<Initials>GA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paulweber</LastName>
+<ForeName>Bernhard</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haun</LastName>
+<ForeName>Margot</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sala</LastName>
+<ForeName>Cinzia</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Metzger</LastName>
+<ForeName>Marie</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mitchell</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ciullo</LastName>
+<ForeName>Marina</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Stuart K</ForeName>
+<Initials>SK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vollenweider</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Raitakari</LastName>
+<ForeName>Olli</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Metspalu</LastName>
+<ForeName>Andres</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palmer</LastName>
+<ForeName>Colin</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gasparini</LastName>
+<ForeName>Paolo</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pirastu</LastName>
+<ForeName>Mario</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jukema</LastName>
+<ForeName>J Wouter</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Probst-Hensch</LastName>
+<ForeName>Nicole M</ForeName>
+<Initials>NM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kronenberg</LastName>
+<ForeName>Florian</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Toniolo</LastName>
+<ForeName>Daniela</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gudnason</LastName>
+<ForeName>Vilmundur</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shuldiner</LastName>
+<ForeName>Alan R</ForeName>
+<Initials>AR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Coresh</LastName>
+<ForeName>Josef</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmidt</LastName>
+<ForeName>Reinhold</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ferrucci</LastName>
+<ForeName>Luigi</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Siscovick</LastName>
+<ForeName>David S</ForeName>
+<Initials>DS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Duijn</LastName>
+<ForeName>Cornelia M</ForeName>
+<Initials>CM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Borecki</LastName>
+<ForeName>Ingrid</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kardia</LastName>
+<ForeName>Sharon L R</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Yongmei</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Curhan</LastName>
+<ForeName>Gary C</ForeName>
+<Initials>GC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rudan</LastName>
+<ForeName>Igor</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gyllensten</LastName>
+<ForeName>Ulf</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilson</LastName>
+<ForeName>James F</ForeName>
+<Initials>JF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Franke</LastName>
+<ForeName>Andre</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pramstaller</LastName>
+<ForeName>Peter P</ForeName>
+<Initials>PP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rettig</LastName>
+<ForeName>Rainer</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prokopenko</LastName>
+<ForeName>Inga</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Witteman</LastName>
+<ForeName>Jacqueline C M</ForeName>
+<Initials>JC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hayward</LastName>
+<ForeName>Caroline</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ridker</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Parsa</LastName>
+<ForeName>Afshin</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bochud</LastName>
+<ForeName>Murielle</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heid</LastName>
+<ForeName>Iris M</ForeName>
+<Initials>IM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goessling</LastName>
+<ForeName>Wolfram</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chasman</LastName>
+<ForeName>Daniel I</ForeName>
+<Initials>DI</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kao</LastName>
+<ForeName>W H Linda</ForeName>
+<Initials>WH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fox</LastName>
+<ForeName>Caroline S</ForeName>
+<Initials>CS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>HHSN268201100012C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004446</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1RR025005</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N02-HL-6-4278</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-25195</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>CZB/4/710</GrantID>
+<Agency>Chief Scientist Office</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100009I</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004726</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004438</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5R01HL08770002</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK058845</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K12 RR023250</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004728</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004438</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P01CA087969</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004446</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85085</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01HL59367</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100010C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR025005</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 AG062101</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004738</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P01 CA087969</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100008C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL080295</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL 043851</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P01CA055075</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100005G</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL69757</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100008I</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K12RR023250</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85081</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004415</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100005C</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL043851</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 DE018993</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL059367</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004735</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL087660</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100007C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P01 CA055075</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>MC_U127561128</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>N01 HC015103</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>085475/08/Z</GrantID>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100009C</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>T32 HL007575</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100011I</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100011C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL086694</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AG18728</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>1R01AG032098-01A1</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 GM074518-04</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL087652</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268200625226C</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004402</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004424</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK075787</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-AG-1-2100</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004728</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>M01 RR 16500</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004399</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 AG062106</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC55222</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AG025941</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85086</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004415</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100010C</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC85086</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL105756</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004402</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004422</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>DK66574</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>CA 047988</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AG032098</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL084756</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85082</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004729</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>1 R01 DK075787-01A1</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 DK063491</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268200782096C</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100006C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 HC-55222</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100008C</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004422</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100012C</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG04424</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>M01RR00425</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01HL087641</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100005I</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 AG062103</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85083</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01DE018993</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-75150</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004423</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85080</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>MC_PC_U127561128</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL072515</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01DK058845</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>085475/B/08/Z</GrantID>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>M01 RR016500</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100007C</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01DE018903</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5R01HL08821502</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 CA047988</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004436</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>M01 RR000425</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01HG004729</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 DE018903</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004436</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC75150</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U19 HL069757</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100009C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100011C</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5R01HL08770003</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100005C</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004735</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC25195</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>DK063491</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100007I</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85079</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Chief Scientist Office</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004738</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268200782096C</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL072515-06</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004423</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01HC85079</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HHSN268201100006C</GrantID>
+<Agency>PHS HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL087641</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL-87660</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 HC045133</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK066574</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HL069757</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 AG018728</GrantID>
+<Acronym>AG</Acronym>
+<Agency>NIA NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004399</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 GM074518</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01 HC035129</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5R01DK07568102</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>N01-HC-85084</GrantID>
+<Acronym>HC</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>5R01DK06833603</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01HL086694</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL088119</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 HG004726</GrantID>
+<Acronym>HG</Acronym>
+<Agency>NHGRI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D017418">Meta-Analysis</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>03</Month>
+<Day>29</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>PLoS Genet</MedlineTA>
+<NlmUniqueID>101239074</NlmUniqueID>
+<ISSNLinking>1553-7390</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 2.7.11.22</RegistryNumber>
+<NameOfSubstance UI="C447339">CDK12 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.11.22</RegistryNumber>
+<NameOfSubstance UI="D018844">Cyclin-Dependent Kinases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.4.-</RegistryNumber>
+<NameOfSubstance UI="C561977">MPPED2 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.4.-</RegistryNumber>
+<NameOfSubstance UI="D010727">Phosphoric Diester Hydrolases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.22.-</RegistryNumber>
+<NameOfSubstance UI="C506433">CASP9 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.22.-</RegistryNumber>
+<NameOfSubstance UI="D053453">Caspase 9</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.-</RegistryNumber>
+<NameOfSubstance UI="C086252">DDX1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.1.-</RegistryNumber>
+<NameOfSubstance UI="C524421">INO80 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.4.-</RegistryNumber>
+<NameOfSubstance UI="D004265">DNA Helicases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.6.4.13</RegistryNumber>
+<NameOfSubstance UI="D053487">DEAD-box RNA Helicases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001741">African Americans</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053453">Caspase 9</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018844">Cyclin-Dependent Kinases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053487">DEAD-box RNA Helicases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004265">DNA Helicases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044465">European Continental Ancestry Group</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055785">Gene Knockdown Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D055106">Genome-Wide Association Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005919">Glomerular Filtration Rate</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007668">Kidney</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007676">Kidney Failure, Chronic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010727">Phosphoric Diester Hydrolases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015027">Zebrafish</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+<InvestigatorList>
+<Investigator ValidYN="Y">
+<LastName>Olson</LastName>
+<ForeName>Jean</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kronmal</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Robbins</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chaves</LastName>
+<ForeName>Paulo H</ForeName>
+<Initials>PH</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Burke</LastName>
+<ForeName>Gregory</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kuller</LastName>
+<ForeName>Lewis H</ForeName>
+<Initials>LH</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Tracy</LastName>
+<ForeName>Russell</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gottdiener</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Prineas</LastName>
+<ForeName>Ronald</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Becker</LastName>
+<ForeName>James T</ForeName>
+<Initials>JT</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Enright</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Klein</LastName>
+<ForeName>Ronald</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>O'Leary</LastName>
+<ForeName>Daniel H</ForeName>
+<Initials>DH</Initials>
+</Investigator>
+</InvestigatorList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>10</Month>
+<Day>01</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>01</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>4</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>4</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22479191</ArticleId>
+<ArticleId IdType="doi">10.1371/journal.pgen.1002584</ArticleId>
+<ArticleId IdType="pii">PGENETICS-D-11-02100</ArticleId>
+<ArticleId IdType="pmc">PMC3315455</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Nature. 2011 Oct 6;478(7367):103-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21909115</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genomics. 1995 Sep 20;29(2):526-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8666403</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Biol. 2005 Sep 15;285(2):316-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16102746</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2010;5(5):e10693</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20502693</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biometrics. 1999 Dec;55(4):997-1004</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11315092</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2008 Dec 15;24(24):2938-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18974171</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2002 May;39(5):920-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11979335</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2007 Oct;39(10):1202-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17873877</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2011 Jul;80(1):93-104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21289597</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2002 Feb;39(2 Suppl 1):S1-266</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11904577</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2008 May 30;133(5):864-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18510930</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Genet. 2007 Oct;3(10):1922-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17953490</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1999 Mar 16;130(6):461-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10075613</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2008 Mar 27;452(7186):423-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18344981</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Genet. 2011 Sep;7(9):e1002264</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21931561</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Development. 1998 Dec;125(23):4655-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9806915</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2005 Jan 22-28;365(9456):331-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15664230</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2009 Feb 20;284(8):5217-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19004815</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2004 Feb 18;291(7):844-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14970063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Med Genomics. 2009 Jan 07;2:1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19128478</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Genet. 2009 Oct;5(10):e1000685</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19834535</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2011 Jun;79(12):1341-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21307840</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2012 Feb 1;28(3):444-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22155946</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Res. 2009 Nov;19(11):1942-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19654370</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2008 Feb;40(2):225-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18193047</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Biol. 2008 May 6;6(5):e107</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18462017</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2008 Mar;51(3):395-406</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18295055</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2008 Jun 28;371(9631):2147-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18586155</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2007 Nov 7;298(17):2038-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17986697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2003 Aug 5;100(16):9440-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12883005</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Genet. 2010 Jul;6(7):e1001039</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20686651</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Biol. 2004 Dec;2(12):e427</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15562319</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2003 Sep 6;327(7414):557-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12958120</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2010 May;42(5):373-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20383145</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2010 Sep 1;26(17):2190-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20616382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2011 Apr;43(4):333-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21378990</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2011 Jul;80(1):17-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21150873</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2010 May;42(5):376-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20383146</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2009 Sep 4;325(5945):1246-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19644074</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2007 Oct;39(10):1208-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17873875</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Med Genet. 2010;11:41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20222955</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2009 Jun;41(6):712-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19430482</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Biol. 2008 Dec 23;6(12):e1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19222302</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Toxicol Lett. 2010 Sep 15;198(1):49-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20417263</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2010 Sep 15;26(18):2336-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20634204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Renal Physiol. 2007 Nov;293(5):F1746-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17699558</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS J. 2009 Nov;276(21):6063-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19788417</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Res. 2011 Jul;21(7):1008-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21602305</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genet Epidemiol. 2008 May;32(4):381-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18348202</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Renal Physiol. 2005 May;288(5):F923-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15625083</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Genet. 2009 Apr;84(4):445-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19361613</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2007 Oct;39(10):1217-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17873874</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2011 Mar;22(3):555-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21355061</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Genet. 2010 Dec 10;87(6):779-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21129726</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2011 Jun;79(12):1331-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21289598</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2010 Jan;42(1):62-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19966804</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

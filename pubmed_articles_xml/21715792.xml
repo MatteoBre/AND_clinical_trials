@@ -1,0 +1,120 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">21715792</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>10</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>06</Month>
+<Day>30</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1361-648X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>21</Volume>
+<Issue>34</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Aug</Month>
+<Day>26</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of physics. Condensed matter : an Institute of Physics journal</Title>
+<ISOAbbreviation>J Phys Condens Matter</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effect of oxygen content on the magnetic properties of multiferroic YMn(2)O(5+δ).</ArticleTitle>
+<Pagination>
+<MedlinePgn>346002</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1088/0953-8984/21/34/346002</ELocationID>
+<Abstract>
+<AbstractText>The effect of oxygen content on magnetic properties in the multiferroic YMn(2)O(5+δ) system was investigated with samples prepared under different oxygen pressures. Our results show that, with increasing oxygen content, the magnetic response changes from being dominated by the anomaly at ∼45 K to the one around 20 K. However, specific heat measurements and neutron powder diffraction studies indicate that the presence of the magnetic transition at ∼45 K is independent of oxygen content. The results suggest that oxygen nonstoichiometry can be one important degree of freedom in manipulating the multiferroic properties.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ma</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Materials Science and Engineering, Ames Laboratory, US-DOE, Ames, IA 50011, USA. Department of Materials Science and Engineering, Iowa State University, Ames, IA 50011, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yan</LastName>
+<ForeName>J-Q</ForeName>
+<Initials>JQ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dennis</LastName>
+<ForeName>K W</ForeName>
+<Initials>KW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Llobet</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McCallum</LastName>
+<ForeName>R W</ForeName>
+<Initials>RW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tan</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>07</Month>
+<Day>28</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Phys Condens Matter</MedlineTA>
+<NlmUniqueID>101165248</NlmUniqueID>
+<ISSNLinking>0953-8984</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>8</Month>
+<Day>26</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>8</Month>
+<Day>26</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21715792</ArticleId>
+<ArticleId IdType="pii">S0953-8984(09)15111-1</ArticleId>
+<ArticleId IdType="doi">10.1088/0953-8984/21/34/346002</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

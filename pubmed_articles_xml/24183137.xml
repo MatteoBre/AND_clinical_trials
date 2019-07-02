@@ -1,0 +1,326 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24183137</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>03</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1873-7358</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>14</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Eating behaviors</Title>
+<ISOAbbreviation>Eat Behav</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Examining mealtime behaviors in families of young children with type 1 diabetes on intensive insulin therapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>464-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.eatbeh.2013.08.010</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S1471-0153(13)00104-9</ELocationID>
+<Abstract>
+<AbstractText>This study examined mealtime behaviors in families of young children with type 1 diabetes (T1DM) on intensive insulin therapy. Behaviors were compared to published data for children on conventional therapy and examined for correlations with glycemic control. Thirty-nine families participated and had at least three home meals videotaped while children wore a continuous glucose monitor. Videotaped meals were coded for parent, child, and child eating behaviors using a valid coding system. A group difference was found for child request for food only. There were also associations found between children's glycemic control and child play and away. However, no associations were found between parent and child behaviors within meals and children's corresponding post-prandial glycemic control. Results reinforce existing research indicating that mealtime behavior problems exist for families of young children even in the context of intensive therapy and that some child behaviors may relate to glycemic control. </AbstractText>
+<CopyrightInformation>© 2013.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Patton</LastName>
+<ForeName>Susana R</ForeName>
+<Initials>SR</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Behavioral Pediatrics, Department of Pediatrics, University of Kansas Medical Center, 3901 Rainbow Blvd, MS 4004, Kansas City, KS 66160, USA. Electronic address: spatton2@kumc.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dolan</LastName>
+<ForeName>Lawrence M</ForeName>
+<Initials>LM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>Laura B</ForeName>
+<Initials>LB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Morton B</ForeName>
+<Initials>MB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Powers</LastName>
+<ForeName>Scott W</ForeName>
+<Initials>SW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>K23 DK076921</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 DK059973</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K23-DK076921</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24-DK59973</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Eat Behav</MedlineTA>
+<NlmUniqueID>101090048</NlmUniqueID>
+<ISSNLinking>1471-0153</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007004">Hypoglycemic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001786">Blood Glucose</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015190">Blood Glucose Self-Monitoring</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002652">Child Behavior</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003922">Diabetes Mellitus, Type 1</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005247">Feeding Behavior</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007004">Hypoglycemic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007328">Insulin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D062407">Meals</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010290">Parents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014743">Videotape Recording</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Children</Keyword>
+<Keyword MajorTopicYN="N">Diabetes mellitus</Keyword>
+<Keyword MajorTopicYN="N">Glycemic control</Keyword>
+<Keyword MajorTopicYN="N">Insulin therapy</Keyword>
+<Keyword MajorTopicYN="N">Mealtime behaviors</Keyword>
+<Keyword MajorTopicYN="N">preschool</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>04</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>3</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24183137</ArticleId>
+<ArticleId IdType="pii">S1471-0153(13)00104-9</ArticleId>
+<ArticleId IdType="doi">10.1016/j.eatbeh.2013.08.010</ArticleId>
+<ArticleId IdType="pmc">PMC3840386</ArticleId>
+<ArticleId IdType="mid">NIHMS524989</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Diabetes Care. 2002 Feb;25(2):313-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11815502</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acad Nutr Diet. 2013 Feb;113(2):258-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23351629</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Appl Behav Anal. 1993 Winter;26(4):435-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8307828</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pediatr Psychol. 1994 Dec;19(6):751-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7830215</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatrics. 1995 Feb;95(2):210-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7838637</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pediatr Gastroenterol Nutr. 1996 Apr;22(3):240-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8708877</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatrics. 1997 May;99(5):665-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9113942</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Diabetes. 2004 Dec;5(4):190-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15601361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2005 Jan;28(1):186-212</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15616254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatrics. 2005 Dec;116(6):1442-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16322169</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2006 May;29(5):1002-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16644628</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2007 Jan;107(1):46-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17197270</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pediatr Psychol. 2008 Sep;33(8):885-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18356184</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Diabetes. 2009 Nov;10(7):455-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19490495</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatrics. 2002 May;109(5):E75-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11986481</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,200 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26618334</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>09</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1877-783X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>40</Volume>
+<PubDate>
+<Year>2016</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Cancer epidemiology</Title>
+<ISOAbbreviation>Cancer Epidemiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Global epidemiology of gastrointestinal stromal tumours (GIST): A systematic review of population-based cohort studies.</ArticleTitle>
+<Pagination>
+<MedlinePgn>39-46</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.canep.2015.10.031</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S1877-7821(15)00251-9</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Gastrointestinal stromal tumours (GISTs) are rare, yet the most common mesenchymal tumour within the digestive tract. Lack of diagnostic criteria and no specific code in the ICD system has prevented epidemiological evaluation except from overt malignant cases in the past. A global estimate of incidence and disease patterns has thus not been available.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A systematic literature search of all available population-based studies on GIST published between January 2000 and December 2014 were reviewed. Descriptive epidemiological data are presented.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The search found 29 studies of more than 13,550 patients from 19 countries that reported sufficient data for regional or national population-based statistics. Age at diagnosis ranged from 10 to 100 years, with median age being mid 60s across most studies. Gender distribution was equal across studies. On average, 18% of patients had an incidental diagnosis (range from 5% to 40%). Anatomical location of primary tumour in 9747 GISTs demonstrated gastric location as the most frequent (55.6%) followed by small bowel (31.8%), colorectal (6.0%), other/various location (5.5%) and oesophagus (0.7%). Most studies reported incidence at 10-15 per million per year. Notably, lowest incidence was in China (Shanxi province) with 4.3 per million per year. Highest incidence rates were reported also from China (Hong Kong and Shanghai areas), and in Taiwan and Norway (Northern part), with up to 19-22 per million per year.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Epidemiology of GIST demonstrates some consistent features across geographical regions. Whether the reported extreme differences in incidence reflect real variation in population risk warrants further investigation.</AbstractText>
+<CopyrightInformation>Copyright © 2015 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Søreide</LastName>
+<ForeName>Kjetil</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gastrointestinal Surgery, Stavanger University Hospital, Stavanger, Norway; Department of Clinical Medicine, University of Bergen, Bergen, Norway. Electronic address: ksoreide@mac.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sandvik</LastName>
+<ForeName>Oddvar M</ForeName>
+<Initials>OM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gastrointestinal Surgery, Stavanger University Hospital, Stavanger, Norway.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Søreide</LastName>
+<ForeName>Jon Arne</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gastrointestinal Surgery, Stavanger University Hospital, Stavanger, Norway; Department of Clinical Medicine, University of Bergen, Bergen, Norway.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giljaca</LastName>
+<ForeName>Vanja</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal medicine, Division of Gastroenterology, University Hospital Center Rijeka, Croatia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jureckova</LastName>
+<ForeName>Andrea</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Masaryk Memorial Cancer Institute Brno, Czech Republic.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bulusu</LastName>
+<ForeName>V Ramesh</ForeName>
+<Initials>VR</Initials>
+<AffiliationInfo>
+<Affiliation>Oncology Centre, Cambridge University Hospitals, Cambridge, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+<PublicationType UI="D000078182">Systematic Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>11</Month>
+<Day>24</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Cancer Epidemiol</MedlineTA>
+<NlmUniqueID>101508793</NlmUniqueID>
+<ISSNLinking>1877-7821</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D046152">Gastrointestinal Stromal Tumors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Distribution</Keyword>
+<Keyword MajorTopicYN="N">Epidemiology</Keyword>
+<Keyword MajorTopicYN="N">GIST</Keyword>
+<Keyword MajorTopicYN="N">Incidence</Keyword>
+<Keyword MajorTopicYN="N">Registry</Keyword>
+<Keyword MajorTopicYN="N">Risk category</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>07</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26618334</ArticleId>
+<ArticleId IdType="pii">S1877-7821(15)00251-9</ArticleId>
+<ArticleId IdType="doi">10.1016/j.canep.2015.10.031</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,208 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24330381</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1526-4637</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>15</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pain medicine (Malden, Mass.)</Title>
+<ISOAbbreviation>Pain Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Ropivacaine 0.1% versus 0.2% for continuous lumbar plexus nerve block infusions following total hip arthroplasty: a randomized, double blinded study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>465-72</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/pme.12309</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Continuous lumbar plexus blocks provide excellent analgesia for total hip arthroplasty (THA), but their utility has been questioned as they may increase motor weakness. The aim of this study was to compare the efficacy of two different concentrations of ropivacaine on both postoperative analgesia and motor function.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Thirty patients were examined in this prospective, single center, double-blinded, parallel group, comparative, randomized controlled trial in patients undergoing primary THA. Lumbar plexus catheters were inserted preoperatively. After surgery, patients were randomly assigned to receive an infusion of ropivacaine at a concentration of either 0.1% (group 0.1%) or 0.2% (group 0.2%) at a standardized volume of 7 mL per hour for 24 hours. Patients were also given free access to patient-controlled analgesia hydromorphone for 24 hours, supplemental intravenous (IV) opiates, and boluses of their assigned local anesthetic concentration via the lumbar plexus catheter. The primary endpoint was total hydromorphone consumption in 24 hours. Secondary endpoints included pain scores, sensory and motor function, and patient satisfaction.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">There was no significant difference in hydromorphone consumption in the first 24 hours postoperatively (mean [95% confidence interval]) between group 0.1% (8.02 mg [6.02-10.02]) and group 0.2% (8.21 mg [5.75-10.69], P = 0.90). The volume of local anesthetic received, pain scores, sensory and motor function, and patient satisfaction did not vary between groups.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Following primary THA, lumbar plexus perineural infusion of 0.1% ropivacaine provided similar benefits for postoperative analgesia and functional recovery as 0.2% ropivacaine.</AbstractText>
+<CopyrightInformation>Wiley Periodicals, Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wilson</LastName>
+<ForeName>Sylvia H</ForeName>
+<Initials>SH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Anesthesiology, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Auroux</LastName>
+<ForeName>Anne-Sophie M</ForeName>
+<Initials>AS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eloy</LastName>
+<ForeName>Jean D</ForeName>
+<Initials>JD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Merman</LastName>
+<ForeName>Rita B</ForeName>
+<Initials>RB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chelly</LastName>
+<ForeName>Jacques E</ForeName>
+<Initials>JE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Pain Med</MedlineTA>
+<NlmUniqueID>100894201</NlmUniqueID>
+<ISSNLinking>1526-2375</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000577">Amides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000701">Analgesics, Opioid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000779">Anesthetics, Local</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7IO5LYA57N</RegistryNumber>
+<NameOfSubstance UI="D000077212">Ropivacaine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000577">Amides</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000701">Analgesics, Opioid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000779">Anesthetics, Local</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019644">Arthroplasty, Replacement, Hip</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008160">Lumbosacral Plexus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010147">Pain Measurement</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010149">Pain, Postoperative</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077212">Ropivacaine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Anesthesia</Keyword>
+<Keyword MajorTopicYN="N">Arthroplasty</Keyword>
+<Keyword MajorTopicYN="N">Conduction</Keyword>
+<Keyword MajorTopicYN="N">Hip</Keyword>
+<Keyword MajorTopicYN="N">Lumbosacral Plexus</Keyword>
+<Keyword MajorTopicYN="N">Nerve Block</Keyword>
+<Keyword MajorTopicYN="N">Replacement</Keyword>
+<Keyword MajorTopicYN="N">Ropivacaine</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>12</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24330381</ArticleId>
+<ArticleId IdType="doi">10.1111/pme.12309</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

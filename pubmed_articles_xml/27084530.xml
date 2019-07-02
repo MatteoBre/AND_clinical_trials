@@ -1,0 +1,228 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27084530</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>12</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-1484</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>250</Volume>
+<PubDate>
+<Year>2016</Year>
+<Month>07</Month>
+</PubDate>
+</JournalIssue>
+<Title>Atherosclerosis</Title>
+<ISOAbbreviation>Atherosclerosis</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The density of calcified plaques and the volume of calcium predict mortality in hemodialysis patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>166-71</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.atherosclerosis.2016.03.034</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0021-9150(16)30109-5</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND AND AIM">In the general population lipid-rich plaques are prone to rupture and healing of the plaque involves calcification. Patients undergoing hemodialysis have a severe derangement of mineral metabolism and calcification of the arterial tree may have different implications.</AbstractText>
+<AbstractText Label="METHODS">Between 2004 and 2005, 125 hemodialysis patients (60 men) underwent computed tomography imaging for quantification of coronary artery calcium via the Agatston and the Volume methods. Since the Agatston score is derived by multiplying the density by the volume of a calcified lesion, the Agatston/Volume ratio (AVR) is an indication of the density (i.e. calcium accumulation) within the plaque.</AbstractText>
+<AbstractText Label="RESULTS">Patients were classified as high AVR (&gt;1) or low (≤1) AVR. Survival analyses tested the association between AVR and all-cause mortality during a median follow-up of 5 years. The mean age was 57.2±13.5 years; 75% of the patients had AVR &gt;1. The mortality rate of patients with AVR &gt;1 was significantly higher than in patients with AVR ≤1 (Hazard Ratio(HR): 2.46; 95% Confidence Intervals(CI): 1.16-5.21, p ≤0.018). After adjustment for confounders, AVR &gt;1 remained independently associated with all-cause mortality (HR: 2.24; 95% CI: 1.02-4.88, p ≤0.042). There was a significant interaction of plaque density and calcium volume on mortality.</AbstractText>
+<AbstractText Label="CONCLUSIONS">Increased plaque density is an independent predictor of all-cause mortality in hemodialysis patients. These data suggest that increased calcium content in the coronary arteries of patients in dialysis is an index of high-risk rather than a marker of plaque stabilization.</AbstractText>
+<CopyrightInformation>Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bellasi</LastName>
+<ForeName>Antonio</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Nephrology Unit, ASST-Lariana, Ospedale Sant'Anna, Como, Italy; Department of Health Sciences, University of Milan, Milan, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ferramosca</LastName>
+<ForeName>Emiliana</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Nephrology Unit, Unità Operativa Presidio Ospedale "Vito Fazzi", Lecce, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ratti</LastName>
+<ForeName>Carlo</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cardiology, Ospedale Civile Ramazzini, Carpi, MO, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Block</LastName>
+<ForeName>Geoffrey</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Denver Nephrology, Denver, CO, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Raggi</LastName>
+<ForeName>Paolo</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Mazankowski Alberta Heart Institute, University of Alberta, Edmonton, AB, Canada. Electronic address: raggi@ualberta.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D064888">Observational Study</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>01</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Ireland</Country>
+<MedlineTA>Atherosclerosis</MedlineTA>
+<NlmUniqueID>0242543</NlmUniqueID>
+<ISSNLinking>0021-9150</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>SY7Q814VUP</RegistryNumber>
+<NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Atherosclerosis. 2016 Jul;250:180-2</RefSource>
+<PMID Version="1">27180644</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002114">Calcinosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002118">Calcium</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003324">Coronary Artery Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003331">Coronary Vessels</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007676">Kidney Failure, Chronic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058226">Plaque, Atherosclerotic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006435">Renal Dialysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061205">Vascular Calcification</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Chronic kidney disease</Keyword>
+<Keyword MajorTopicYN="Y">Coronary artery calcification</Keyword>
+<Keyword MajorTopicYN="Y">Dialysis</Keyword>
+<Keyword MajorTopicYN="Y">Mortality</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2016</Year>
+<Month>03</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>03</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>12</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27084530</ArticleId>
+<ArticleId IdType="pii">S0021-9150(16)30109-5</ArticleId>
+<ArticleId IdType="doi">10.1016/j.atherosclerosis.2016.03.034</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

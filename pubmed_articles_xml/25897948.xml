@@ -1,0 +1,1931 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25897948</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>04</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1465-542X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>17</Volume>
+<PubDate>
+<Year>2015</Year>
+<Month>Apr</Month>
+<Day>22</Day>
+</PubDate>
+</JournalIssue>
+<Title>Breast cancer research : BCR</Title>
+<ISOAbbreviation>Breast Cancer Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Common germline polymorphisms associated with breast cancer-specific survival.</ArticleTitle>
+<Pagination>
+<MedlinePgn>58</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/s13058-015-0570-7</ELocationID>
+<Abstract>
+<AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Previous studies have identified common germline variants nominally associated with breast cancer survival. These associations have not been widely replicated in further studies. The purpose of this study was to evaluate the association of previously reported SNPs with breast cancer-specific survival using data from a pooled analysis of eight breast cancer survival genome-wide association studies (GWAS) from the Breast Cancer Association Consortium.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A literature review was conducted of all previously published associations between common germline variants and three survival outcomes: breast cancer-specific survival, overall survival and disease-free survival. All associations that reached the nominal significance level of P value &lt;0.05 were included. Single nucleotide polymorphisms that had been previously reported as nominally associated with at least one survival outcome were evaluated in the pooled analysis of over 37,000 breast cancer cases for association with breast cancer-specific survival. Previous associations were evaluated using a one-sided test based on the reported direction of effect.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Fifty-six variants from 45 previous publications were evaluated in the meta-analysis. Fifty-four of these were evaluated in the full set of 37,954 breast cancer cases with 2,900 events and the two additional variants were evaluated in a reduced sample size of 30,000 samples in order to ensure independence from the previously published studies. Five variants reached nominal significance (P &lt;0.05) in the pooled GWAS data compared to 2.8 expected under the null hypothesis. Seven additional variants were associated (P &lt;0.05) with ER-positive disease.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Although no variants reached genome-wide significance (P &lt;5 x 10(-8)), these results suggest that there is some evidence of association between candidate common germline variants and breast cancer prognosis. Larger studies from multinational collaborations are necessary to increase the power to detect associations, between common variants and prognosis, at more stringent significance levels.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Pirie</LastName>
+<ForeName>Ailith</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. ap736@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guo</LastName>
+<ForeName>Qi</ForeName>
+<Initials>Q</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. qg209@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kraft</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Program in Genetic Epidemiology and Statistical Genetics, Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. pkraft@hsph.harvard.edu.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. pkraft@hsph.harvard.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Canisius</LastName>
+<ForeName>Sander</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Netherlands Cancer Institute, Antoni Van Leeuwenhoek Hospital, Plesmanlaan 121, 1066 CX, Amsterdam, The Netherlands. s.canisius@nki.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eccles</LastName>
+<ForeName>Diana M</ForeName>
+<Initials>DM</Initials>
+<AffiliationInfo>
+<Affiliation>Faculty of Medicine, University of Southampton, Highfield Campus, Southampton, SO17 1BJ, UK. d.m.eccles@soton.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rahman</LastName>
+<ForeName>Nazneen</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Genetics and Epidemiology, Institute of Cancer Research, 15 Cotswold Road, Sutton, SM2 5NG, Surrey, UK. Nazneen.Rahman@icr.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nevanlinna</LastName>
+<ForeName>Heli</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, University of Helsinki and Helsinki University Central Hospital, Haartmaninkatu 8, FIN-00029 HUS, Helsinki, Finland. Heli.Nevanlinna@hus.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>Constance</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Program in Genetic Epidemiology and Statistical Genetics, Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. cjchen@hsph.harvard.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khan</LastName>
+<ForeName>Sofia</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, University of Helsinki and Helsinki University Central Hospital, Haartmaninkatu 8, FIN-00029 HUS, Helsinki, Finland. sofia.khan@helsinki.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tyrer</LastName>
+<ForeName>Jonathan</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. jpt34@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bolla</LastName>
+<ForeName>Manjeet K</ForeName>
+<Initials>MK</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. mkh39@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Qin</ForeName>
+<Initials>Q</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. qw232@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dennis</LastName>
+<ForeName>Joe</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. jgd29@cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Michailidou</LastName>
+<ForeName>Kyriaki</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. km533@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lush</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. mjl81@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunning</LastName>
+<ForeName>Alison M</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. amd24@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shah</LastName>
+<ForeName>Mitul</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. ms483@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Czene</LastName>
+<ForeName>Kamila</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Nobels väg 12A, Stockholm, 17177, Sweden. kamila.czene@ki.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Darabi</LastName>
+<ForeName>Hatef</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Nobels väg 12A, Stockholm, 17177, Sweden. hatef.darabi@ki.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eriksson</LastName>
+<ForeName>Mikael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Nobels väg 12A, Stockholm, 17177, Sweden. mikael.eriksson@ki.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lambrechts</LastName>
+<ForeName>Dieter</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Vesalius Research Center (VRC), Vib, Herestraat 49, 3000, Leuven, Belgium. diether.lambrechts@med.kuleuven.be.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Laboratory for Translational Genetics, Department of Oncology, University of Leuven, Herestraat 49, 3000, Leuven, Belgium. diether.lambrechts@med.kuleuven.be.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weltens</LastName>
+<ForeName>Caroline</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Oncology Department, University Hospital Gasthuisberg, Herestraat 49, 3000, Leuven, Belgium. caroline.weltens@uzleuven.be.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leunen</LastName>
+<ForeName>Karin</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Oncology Department, University Hospital Gasthuisberg, Herestraat 49, 3000, Leuven, Belgium. karin.leunen@uzleuven.be.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Ongeval</LastName>
+<ForeName>Chantal</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Oncology Department, University Hospital Gasthuisberg, Herestraat 49, 3000, Leuven, Belgium. Chantal.VanOngeval@uzleuven.be.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nordestgaard</LastName>
+<ForeName>Børge G</ForeName>
+<Initials>BG</Initials>
+<AffiliationInfo>
+<Affiliation>Copenhagen General Population Study, Herlev Hospital, Copenhagen University Hospital, Herlev Ringvej 75, DK-2730, Herlev, Copenhagen, Denmark. boerge.nordestgaard@regionh.dk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Biochemistry, Herlev Hospital, Copenhagen University Hospital, Herlev Ringvej 75, DK-2730, Herlev, Copenhagen, Denmark. boerge.nordestgaard@regionh.dk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Faculty of Health and Medical Sciences, University of Copenhagen, Blegdamsvej 3, DK-2220, Copenhagen, Denmark. boerge.nordestgaard@regionh.dk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nielsen</LastName>
+<ForeName>Sune F</ForeName>
+<Initials>SF</Initials>
+<AffiliationInfo>
+<Affiliation>Copenhagen General Population Study, Herlev Hospital, Copenhagen University Hospital, Herlev Ringvej 75, DK-2730, Herlev, Copenhagen, Denmark. sune.fallgaard.nielsen@regionh.dk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Biochemistry, Herlev Hospital, Copenhagen University Hospital, Herlev Ringvej 75, DK-2730, Herlev, Copenhagen, Denmark. sune.fallgaard.nielsen@regionh.dk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Flyger</LastName>
+<ForeName>Henrik</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Breast Surgery, Herlev Hospital, Copenhagen University Hospital, Herlev Ringvej 75, DK-2730, Herlev, Copenhagen, Denmark. henrik.flyger@regionh.dk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rudolph</LastName>
+<ForeName>Anja</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. a.rudolph@dkfz.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seibold</LastName>
+<ForeName>Petra</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. p.seibold@dkfz.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Flesch-Janys</LastName>
+<ForeName>Dieter</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cancer Epidemiology/Clinical Cancer Registry and Institute for Medical Biometrics and Epidemiology, University Clinic Hamburg-Eppendorf, Martinistrasse 52, 20246, Hamburg, Germany. flesch@uke.uni-hamburg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blomqvist</LastName>
+<ForeName>Carl</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Oncology, Helsinki University Central Hospital, Sairaalatie 8, 08 200 LOHJA, Helsinki, Finland. carl.blomqvist@helsinki.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aittomäki</LastName>
+<ForeName>Kristiina</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Genetics, Helsinki University Central Hospital, Sairaalatie 8, 08 200 LOHJA, Helsinki, Finland. kristiina.aittomaki@hus.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fagerholm</LastName>
+<ForeName>Rainer</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, University of Helsinki and Helsinki University Central Hospital, Haartmaninkatu 8, FIN-00029 HUS, Helsinki, Finland. Heli.Nevanlinna@hus.fi.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Oncology, Helsinki University Central Hospital, Sairaalatie 8, 08 200 LOHJA, Helsinki, Finland. Heli.Nevanlinna@hus.fi.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Genetics, Helsinki University Central Hospital, Sairaalatie 8, 08 200 LOHJA, Helsinki, Finland. Heli.Nevanlinna@hus.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Muranen</LastName>
+<ForeName>Taru A</ForeName>
+<Initials>TA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, University of Helsinki and Helsinki University Central Hospital, Haartmaninkatu 8, FIN-00029 HUS, Helsinki, Finland. taru.a.muranen@helsinki.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olsen</LastName>
+<ForeName>Janet E</ForeName>
+<Initials>JE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Health Sciences Research, Mayo Clinic, 200 First Street SW, Rochester, MN, 55905, USA. olsonj@mayo.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hallberg</LastName>
+<ForeName>Emily</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Laboratory Medicine and Pathology, Mayo Clinic, 200 First Street SW, Rochester, MN, 55905, USA. Hallberg.emily@mayo.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vachon</LastName>
+<ForeName>Celine</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Health Sciences Research, Mayo Clinic, 200 First Street SW, Rochester, MN, 55905, USA. vachon.celine@mayo.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Knight</LastName>
+<ForeName>Julia A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Prosserman Centre for Health Research, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, 600 University Avenue, Toronto, ON, M5G 1X5, Canada. knight@lunenfeld.ca.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Division of Epidemiology, Dalla Lana School of Public Health, University of Toronto, 155 College Street, Toronto, ON, M5T 3M7, Canada. knight@lunenfeld.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Glendon</LastName>
+<ForeName>Gord</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Ontario Cancer Genetics Network, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, 600 University Avenue, Toronto, ON, M5G 1X5, Canada. gglendon@uhnresearch.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mulligan</LastName>
+<ForeName>Anna Marie</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Laboratory Medicine and Pathobiology, University of Toronto, 1 King's College Circle, Toronto, ON, M5S 1A8, Canada. AnnaMarie.Mulligan@uhn.ca.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Laboratory Medicine Program, University Health Network, 200 Elizabeth Street, Toronto, ON, M5G 2C4, Canada. AnnaMarie.Mulligan@uhn.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Broeks</LastName>
+<ForeName>Annegien</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Netherlands Cancer Institute, Antoni Van Leeuwenhoek Hospital, Plesmanlaan 121, 1066 CX, Amsterdam, The Netherlands. a.broeks@nki.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cornelissen</LastName>
+<ForeName>Sten</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Netherlands Cancer Institute, Antoni Van Leeuwenhoek Hospital, Plesmanlaan 121, 1066 CX, Amsterdam, The Netherlands. s.cornelissen@nki.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haiman</LastName>
+<ForeName>Christopher A</ForeName>
+<Initials>CA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Preventive Medicine, Keck School of Medicine, University of Southern California, 1975 Zonal Avenue, Los Angeles, CA, 90033, USA. Christopher.Haiman@med.usc.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Henderson</LastName>
+<ForeName>Brian E</ForeName>
+<Initials>BE</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Preventive Medicine, Keck School of Medicine, University of Southern California, 1975 Zonal Avenue, Los Angeles, CA, 90033, USA. Behender@usc.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schumacher</LastName>
+<ForeName>Frederick</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Preventive Medicine, Keck School of Medicine, University of Southern California, 1975 Zonal Avenue, Los Angeles, CA, 90033, USA. fschumac@usc.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Le Marchand</LastName>
+<ForeName>Loic</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Cancer Research Center of Hawaii, University of Hawaii, 701 Ilalo Street, Honolulu, HI, 96813, USA. loic@crch.hawaii.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hopper</LastName>
+<ForeName>John L</ForeName>
+<Initials>JL</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, Melbourne School of Population Health, The University of Melbourne, 207 Bouverie Street, Melbourne, VIC, 3010, Australia. j.hopper@unimelb.edu.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tsimiklis</LastName>
+<ForeName>Helen</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pathology, The University of Melbourne, 207 Bouverie Street, Melbourne, VIC, 3010, Australia. htsi@unimelb.edu.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Apicella</LastName>
+<ForeName>Carmel</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, Melbourne School of Population Health, The University of Melbourne, 207 Bouverie Street, Melbourne, VIC, 3010, Australia. capic@unimelb.edu.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Southey</LastName>
+<ForeName>Melissa C</ForeName>
+<Initials>MC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pathology, The University of Melbourne, 207 Bouverie Street, Melbourne, VIC, 3010, Australia. msouthey@unimelb.edu.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cross</LastName>
+<ForeName>Simon S</ForeName>
+<Initials>SS</Initials>
+<AffiliationInfo>
+<Affiliation>Academic Unit of Pathology, Department of Neuroscience, University of Sheffield, 385a Glossop Road, Sheffield, S10 2HQ, UK. s.s.cross@sheffield.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Reed</LastName>
+<ForeName>Malcolm Wr</ForeName>
+<Initials>MW</Initials>
+<AffiliationInfo>
+<Affiliation>CRUK/YCR Sheffield Cancer Research Centre, Department of Oncology, University of Sheffield, Beech Hill Road, Sheffield, S10 2RX, UK. m.w.reed@sheffield.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giles</LastName>
+<ForeName>Graham G</ForeName>
+<Initials>GG</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, Melbourne School of Population Health, The University of Melbourne, 207 Bouverie Street, Melbourne, VIC, 3010, Australia. Graham.Giles@cancervic.org.au.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Epidemiology Centre, The Cancer Council Victoria, 615 St Kilda Road, Melbourne, VIC, 3004, Australia. Graham.Giles@cancervic.org.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Milne</LastName>
+<ForeName>Roger L</ForeName>
+<Initials>RL</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, Melbourne School of Population Health, The University of Melbourne, 207 Bouverie Street, Melbourne, VIC, 3010, Australia. Roger.Milne@cancervic.org.au.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cancer Epidemiology Centre, The Cancer Council Victoria, 615 St Kilda Road, Melbourne, VIC, 3004, Australia. Roger.Milne@cancervic.org.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>McLean</LastName>
+<ForeName>Catriona</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Anatomical Pathology, The Alfred Hospital, Commercial Road, Melbourne, VIC, 3007, Australia. C.McLean@alfred.org.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Winqvist</LastName>
+<ForeName>Robert</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Cancer Genetics and Tumor Biology, Department of Clinical Genetics and Biocenter Oulu, University of Oulu, Oulu University Hospital, Kajaanintie 50, FI-90220, Oulu, Finland. robert.winqvist@oulu.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pylkäs</LastName>
+<ForeName>Katri</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Cancer Genetics and Tumor Biology, Department of Clinical Genetics and Biocenter Oulu, University of Oulu, Oulu University Hospital, Kajaanintie 50, FI-90220, Oulu, Finland. katri.pylkas@oulu.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jukkola-Vuorinen</LastName>
+<ForeName>Arja</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Oncology, Oulu University Hospital, University of Oulu, Kajaanintie 50, FI-90220, Oulu, Finland. arja.jukkola-vuorinen@ppshp.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grip</LastName>
+<ForeName>Mervi</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Oulu University Hospital, University of Oulu, Kajaanintie 50, FI-90220, Oulu, Finland. mervi.grip@ppshp.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hooning</LastName>
+<ForeName>Maartje J</ForeName>
+<Initials>MJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, Family Cancer Clinic, Erasmus McCancer Institute, 's-Gravendijkwal 230, 3015 CE, Rotterdam, The Netherlands. m.hooning@erasmusmc.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hollestelle</LastName>
+<ForeName>Antoinette</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, Family Cancer Clinic, Erasmus McCancer Institute, 's-Gravendijkwal 230, 3015 CE, Rotterdam, The Netherlands. a.hollestelle@erasmusmc.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Martens</LastName>
+<ForeName>John Wm</ForeName>
+<Initials>JW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, Family Cancer Clinic, Erasmus McCancer Institute, 's-Gravendijkwal 230, 3015 CE, Rotterdam, The Netherlands. j.martens@erasmusmc.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>van den Ouweland</LastName>
+<ForeName>Ans Mw</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, Family Cancer Clinic, Erasmus McCancer Institute, 's-Gravendijkwal 230, 3015 CE, Rotterdam, The Netherlands. a.vandenouweland@erasmusmc.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marme</LastName>
+<ForeName>Federick</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, University of Heidelberg, Voßstrasse 9, 69115, Heidelberg, Germany. frederikmarme@gmail.com.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>National Center for Tumor Diseases, University of Heidelberg, Im Neuenheimer Feld 460, 69120, Heidelberg, Germany. frederikmarme@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schneeweiss</LastName>
+<ForeName>Andreas</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, University of Heidelberg, Voßstrasse 9, 69115, Heidelberg, Germany. Andreas.Schneeweiss@med.uni-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>National Center for Tumor Diseases, University of Heidelberg, Im Neuenheimer Feld 460, 69120, Heidelberg, Germany. Andreas.Schneeweiss@med.uni-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Rongxi</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, University of Heidelberg, Voßstrasse 9, 69115, Heidelberg, Germany. R.Yang@dkfz.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Burwinkel</LastName>
+<ForeName>Barbara</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, University of Heidelberg, Voßstrasse 9, 69115, Heidelberg, Germany. Barbara.Burwinkel@med.uni-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Molecular Epidemiology Group, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. Barbara.Burwinkel@med.uni-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Figueroa</LastName>
+<ForeName>Jonine</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9000 Rockville Pike, Bethesda, MD, 20892, USA. figueroaj@mail.nih.gov.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chanock</LastName>
+<ForeName>Stephen J</ForeName>
+<Initials>SJ</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9000 Rockville Pike, Bethesda, MD, 20892, USA. chanocks@mail.nih.gov.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Core Genotyping Facility, Frederick National Laboratory for Cancer Research, 8717 Grovemont Circle, Gaithersburg, MD, 20877, USA. chanocks@mail.nih.gov.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lissowska</LastName>
+<ForeName>Jolanta</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cancer Epidemiology and Prevention, M. Sklodowska-Curie Memorial Cancer Center and Institute of Oncology, Roentena 5, 02-781, Warsaw, Poland. lissowsj@coi.waw.pl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sawyer</LastName>
+<ForeName>Elinor J</ForeName>
+<Initials>EJ</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Studies, NIHR Comprehensive Biomedical Research Centre, Guy's and St. Thomas' NHS Foundation Trust in Partnership with King's College London, Guy's Campus, SE1 1UL, London, UK. chanocks@mail.nih.gov.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tomlinson</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Wellcome Trust Centre for Human Genetics and Oxford Biomedical Research Centre, University of Oxford, Roosevelt Drive, Oxford, OX3 7BN, UK. iant@well.ox.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kerin</LastName>
+<ForeName>Michael J</ForeName>
+<Initials>MJ</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Science Institute, University Hospital Galway, Newcastle Road, Galway, Ireland. michael.kerin@nuigalway.ie.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miller</LastName>
+<ForeName>Nicola</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Science Institute, University Hospital Galway, Newcastle Road, Galway, Ireland. nicola.miller@nuigalway.ie.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brenner</LastName>
+<ForeName>Hermann</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Clinical Epidemiology and Aging Research, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 581, 69120, Heidelberg, Germany. h.brenner@dkfz.de.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>German Cancer Consortium (DKTK), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. h.brenner@dkfz.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Butterbach</LastName>
+<ForeName>Katja</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Clinical Epidemiology and Aging Research, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 581, 69120, Heidelberg, Germany. k.butterbach@dkfz.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holleczek</LastName>
+<ForeName>Bernd</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Saarland Cancer Registry, Präsident Baltz Strasse 5, 66119, Saarbrücken, Germany. b.holleczek@gbe-ekr.saarland.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kataja</LastName>
+<ForeName>Vesa</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>School of Medicine, Institute of Clinical Medicine, Oncology and Cancer Center, Kuopio University Hospital, Puijonlaaksontie 2, 70210, Kuopio, Finland. vesa.kataja@kuh.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kosma</LastName>
+<ForeName>Veli-Matti</ForeName>
+<Initials>VM</Initials>
+<AffiliationInfo>
+<Affiliation>School of Medicine, Institute of Clinical Medicine, Pathology and Forensic Medicine and Cancer Center of Eastern Finland, University of Eastern Finland, Yliopistonranta 1C, 70210, Kuopio, Finland. veli-matti.kosma@uef.fi.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Imaging Center, Department of Clinical Pathology, Kuopio University Hospital, Puijonlaaksontie 2, 70210, Kuopio, Finland. veli-matti.kosma@uef.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hartikainen</LastName>
+<ForeName>Jaana M</ForeName>
+<Initials>JM</Initials>
+<AffiliationInfo>
+<Affiliation>School of Medicine, Institute of Clinical Medicine, Pathology and Forensic Medicine and Cancer Center of Eastern Finland, University of Eastern Finland, Yliopistonranta 1C, 70210, Kuopio, Finland. jaana.hartikainen@uef.fi.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Imaging Center, Department of Clinical Pathology, Kuopio University Hospital, Puijonlaaksontie 2, 70210, Kuopio, Finland. jaana.hartikainen@uef.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Jingmei</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Nobels väg 12A, Stockholm, 17177, Sweden. jingmei@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brand</LastName>
+<ForeName>Judith S</ForeName>
+<Initials>JS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Nobels väg 12A, Stockholm, 17177, Sweden. judith.brand@ki.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Humphreys</LastName>
+<ForeName>Keith</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Nobels väg 12A, Stockholm, 17177, Sweden. Keith.Humphreys@ki.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Devilee</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Human Genetics and Department of Pathology, Leiden University Medical Center, Albinusdreef 2, 2333 ZA, Leiden, The Netherlands. p.devilee@lumc.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tollenaar</LastName>
+<ForeName>Robert Aem</ForeName>
+<Initials>RA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgical Oncology, Leiden University Medical Center, Albinusdreef 2, 2333 ZA, Leiden, The Netherlands. r.a.e.m.tollenaar@lumc.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seynaeve</LastName>
+<ForeName>Caroline</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology, Family Cancer Clinic, Erasmus McCancer Institute, 's-Gravendijkwal 230, 3015 CE, Rotterdam, The Netherlands. c.seynaeve@erasmusmc.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Radice</LastName>
+<ForeName>Paolo</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Molecular Bases of Genetic Risk and Genetic Testing, Department of Preventive and Predictive Medicine, Fondazione IRCCS Istituto Nazionale Dei Tumori (INT), Via Adamello 16, Milan, 20139, Italy. paolo.radice@istitutotumori.mi.it.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peterlongo</LastName>
+<ForeName>Paolo</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>IFOM, Fondazione Istituto FIRC Di Oncologia Molecolare, Via Adamello 16, 20139, Milan, Italy. paolo.peterlongo@ifom.eu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Manoukian</LastName>
+<ForeName>Siranoush</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Medical Genetics, Department of Preventive and Predictive Medicine, Fondazione IRCCS Istituto Nazionale Dei Tumori (INT), Via Adamello 16, Milan, 20139, Italy. siranoush.manoukian@istitutotumori.mi.it.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ficarazzi</LastName>
+<ForeName>Filomena</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>IFOM, Fondazione Istituto FIRC Di Oncologia Molecolare, Via Adamello 16, 20139, Milan, Italy. filomena.ficarazzi@ifom.eu.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cogentech Cancer Genetic Test Laboratory, Via Adamello 16, 20139, Milan, Italy. filomena.ficarazzi@ifom.eu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beckmann</LastName>
+<ForeName>Matthias W</ForeName>
+<Initials>MW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology and Obstetrics, University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nuremberg, Comprehensive Cancer Center Erlangen-Emn, Universitaetsstrasse 21-23, 91054, Erlangen, Germany. fk-direktion@uk-erlangen.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hein</LastName>
+<ForeName>Alexander</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Gynecology and Obstetrics, University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nuremberg, Comprehensive Cancer Center Erlangen-Emn, Universitaetsstrasse 21-23, 91054, Erlangen, Germany. alexander.hein@uk-erlangen.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ekici</LastName>
+<ForeName>Arif B</ForeName>
+<Initials>AB</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Human Genetics; University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nuremberg, Comprehensive Cancer Center Erlangen-Emn, Universitaetsstrasse 21-23, 91054, Erlangen, Germany. arif.ekici@uk-erlangen.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Balleine</LastName>
+<ForeName>Rosemary</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Western Sydney and Nepean Blue Mountains Local Health Districts, Westmead Millennium Institute for Medical Research, University of Sydney, 176 Hawkesbury Road, Sydney, NSW 2145, Australia. rosemary.balleine@sydney.edu.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Phillips</LastName>
+<ForeName>Kelly-Anne</ForeName>
+<Initials>KA</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, Melbourne School of Population Health, The University of Melbourne, 207 Bouverie Street, Melbourne, VIC, 3010, Australia. Kelly.Phillips@petermac.org.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Peter Maccallum Cancer Center, 2 St Andrews Place, Melbourne, VIC, 3002, Australia. Kelly.Phillips@petermac.org.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Sir Peter Maccallum Department of Oncology, University of Melbourne, 2 St Andrews Place, Melbourne, VIC, 3002, Australia. Kelly.Phillips@petermac.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>kConFab Investigators</CollectiveName>
+</Author>
+<Author ValidYN="Y">
+<LastName>Benitez</LastName>
+<ForeName>Javier</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Human Genetics Group, Human Cancer Genetics Program, Spanish National Cancer Research Centre (CNIO), Calle de Melchor Fernández, Almagro, 3, 28029, Madrid, Spain. jbenitez@cnio.es.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Centro de Investigación En Red De Enfermedades Raras (CIBERER), Calle de Álvaro de Bazán, 10 Bajo, 46010, Valencia, Spain. jbenitez@cnio.es.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zamora</LastName>
+<ForeName>M Pilar</ForeName>
+<Initials>MP</Initials>
+<AffiliationInfo>
+<Affiliation>Servicio de Oncología Médica, Hospital Universitario La Paz, Paseo de la Castellana, 261, 28046, Madrid, Spain. zamorapilar@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Perez</LastName>
+<ForeName>Jose Ignacio Arias</ForeName>
+<Initials>JI</Initials>
+<AffiliationInfo>
+<Affiliation>Servicio de Cirugía General y Especialidades, Hospital Monte Naranco, Avenida Doctores Fernández Vega, 107, 33012, Oviedo, Spain. jiarias@msn.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Menéndez</LastName>
+<ForeName>Primitiva</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Servicio de Anatomía Patológica, Hospital Monte Naranco, Avenida Doctores Fernández Vega, 107, 33012, Oviedo, Spain. tiva@hca.es.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jakubowska</LastName>
+<ForeName>Anna</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Genetics and Pathology, Pomeranian Medical University, ul. Rybacka 1, Szczecin, Poland. aniaj@sci.pam.szczecin.pl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lubinski</LastName>
+<ForeName>Jan</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Genetics and Pathology, Pomeranian Medical University, ul. Rybacka 1, Szczecin, Poland. lubinski@sci.pam.szczecin.pl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gronwald</LastName>
+<ForeName>Jacek</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Genetics and Pathology, Pomeranian Medical University, ul. Rybacka 1, Szczecin, Poland. jgron@sci.pum.edu.pl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Durda</LastName>
+<ForeName>Katarzyna</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Genetics and Pathology, Pomeranian Medical University, ul. Rybacka 1, Szczecin, Poland. k.durda@onet.pl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hamann</LastName>
+<ForeName>Ute</ForeName>
+<Initials>U</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Genetics of Breast Cancer, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. u.hamann@dkfz-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kabisch</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Genetics of Breast Cancer, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. m.kabisch@dkfz-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ulmer</LastName>
+<ForeName>Hans Ulrich</ForeName>
+<Initials>HU</Initials>
+<AffiliationInfo>
+<Affiliation>Frauenklinik der Stadtklinik Baden-Baden, Balger Strasse 50, 76532, Baden-Baden, Germany. hu.ulmer@klinikum-mittelbaden.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rüdiger</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Pathology, Städtisches Klinikum Karlsruhe, Moltkestrasse 90, 76133, Karlsruhe, Germany. Thomas.Ruediger@klinikum-karlsruhe.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Margolin</LastName>
+<ForeName>Sara</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Oncology - Pathology, Karolinska Institutet, Tomtebodavägen 23b, Stockholm, 171 65, Sweden. Sara.Margolin@karolinska.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kristensen</LastName>
+<ForeName>Vessela</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Faculty of Medicine (Faculty Division Ahus), University of Oslo (UiO), Problemveien 7, Oslo, 0313, Norway. Vessela.N.Kristensen@rr-research.no.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Genetics, Institute for Cancer Research, Oslo University Hospital, Radiumhospitalet, Montebello, 0379, Oslo, Norway. Vessela.N.Kristensen@rr-research.no.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nord</LastName>
+<ForeName>Siljie</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Faculty of Medicine (Faculty Division Ahus), University of Oslo (UiO), Problemveien 7, Oslo, 0313, Norway. silje.nordgard@gmail.com.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Genetics, Institute for Cancer Research, Oslo University Hospital, Radiumhospitalet, Montebello, 0379, Oslo, Norway. silje.nordgard@gmail.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>NBCS Investigators</CollectiveName>
+</Author>
+<Author ValidYN="Y">
+<LastName>Evans</LastName>
+<ForeName>D Gareth</ForeName>
+<Initials>DG</Initials>
+<AffiliationInfo>
+<Affiliation>Genomic Medicine, Manchester Academic Health Science Centre, University of Manchester, Central Manchester Foundation Trust, St. Mary's Hospital, Oxford Road, Manchester, M13 9WL, UK. Gareth.Evans@cmft.nhs.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abraham</LastName>
+<ForeName>Jean</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. ja344@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cambridge Experimental Cancer Medicine Centre, Robinson Way, Cambridge, CB2 0RE, UK. ja344@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cambridge Breast Unit and NIHR Cambridge Biomedical Research Centre, University of Cambridge NHS Foundation Hospitals, Hills Road, Cambridge, CB2 0QQ, UK. ja344@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Earl</LastName>
+<ForeName>Helena</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Cambridge Experimental Cancer Medicine Centre, Robinson Way, Cambridge, CB2 0RE, UK. hme22@cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cambridge Breast Unit and NIHR Cambridge Biomedical Research Centre, University of Cambridge NHS Foundation Hospitals, Hills Road, Cambridge, CB2 0QQ, UK. hme22@cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Poole</LastName>
+<ForeName>Christopher J</ForeName>
+<Initials>CJ</Initials>
+<AffiliationInfo>
+<Affiliation>Warwick Clinical Trials Unit, University of Warwick, Gibbet Hill Campus, Coventry, CV4 7AL, UK. christopher.poole@warwick.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hiller</LastName>
+<ForeName>Louise</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Warwick Clinical Trials Unit, University of Warwick, Gibbet Hill Campus, Coventry, CV4 7AL, UK. l.hiller@warwick.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunn</LastName>
+<ForeName>Janet A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Warwick Clinical Trials Unit, University of Warwick, Gibbet Hill Campus, Coventry, CV4 7AL, UK. j.a.dunn@warwick.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bowden</LastName>
+<ForeName>Sarah</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Cancer Research UK Clinical Trials Unit, Institute for Cancer Studies, the University of Birmingham, Vincent Drive, Edgbaston, Birmingham, B15 2TT, UK. s.j.bowden@bham.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Rose</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Early Detection Research Group, Division of Cancer Prevention National Cancer Institute, 9609 Medical Center Drive, Bethesda, MD, 20892, USA. royang@mail.nih.gov.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Campa</LastName>
+<ForeName>Daniele</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. d.campa@dkfz-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Biology, University of Pisa, Lungarno Pacinotti 43, 56126, Pisa, Italy. d.campa@dkfz-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Diver</LastName>
+<ForeName>W Ryan</ForeName>
+<Initials>WR</Initials>
+<AffiliationInfo>
+<Affiliation>Epidemiology Research Program, American Cancer Society, 250 Williams Street, Atlanta, GA, 30303, USA. Ryan.diver@cancer.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gapstur</LastName>
+<ForeName>Susan M</ForeName>
+<Initials>SM</Initials>
+<AffiliationInfo>
+<Affiliation>Epidemiology Research Program, American Cancer Society, 250 Williams Street, Atlanta, GA, 30303, USA. Susan.gapstur@cancer.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gaudet</LastName>
+<ForeName>Mia M</ForeName>
+<Initials>MM</Initials>
+<AffiliationInfo>
+<Affiliation>Epidemiology Research Program, American Cancer Society, 250 Williams Street, Atlanta, GA, 30303, USA. Mia.gaudet@cancer.org.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hankinson</LastName>
+<ForeName>Susan</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. shankinson@schoolph.umass.edu.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Division of Biostatistics and Epidemiology, University of Massachusetts-Amherst School of Public Health and Health Sciences, 715 N Pleasant Street, Amherst, MA, 01002, USA. shankinson@schoolph.umass.edu.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Channing Division of Network Medicine, Department of Medicine, Brigham and Women's Hospital, 75 Francis Street, Boston, MA, 02115, USA. shankinson@schoolph.umass.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hoover</LastName>
+<ForeName>Robert N</ForeName>
+<Initials>RN</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9000 Rockville Pike, Bethesda, MD, 20892, USA. hooverr@exchange.nih.gov.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hüsing</LastName>
+<ForeName>Anika</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. a.huesing@dkfz.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaaks</LastName>
+<ForeName>Rudolf</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. r.kaaks@dkfz.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Machiela</LastName>
+<ForeName>Mitchell J</ForeName>
+<Initials>MJ</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9000 Rockville Pike, Bethesda, MD, 20892, USA. Mitchell.machiela@nih.gov.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Willett</LastName>
+<ForeName>Walter</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Nutrition, Harvard School of Public Health, 655 Huntington Avenue, Boston, MA, 02115, USA. wwillett@hsph.harvard.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barrdahl</LastName>
+<ForeName>Myrto</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. m.barrdahl@Dkfz-Heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Canzian</LastName>
+<ForeName>Federico</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Genomic Epidemiology Group, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. f.canzian@dkfz-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chin</LastName>
+<ForeName>Suet-Feung</ForeName>
+<Initials>SF</Initials>
+<AffiliationInfo>
+<Affiliation>Breast Cancer Functional Genomics Laboratory, Cancer Research UK Cambridge Institute, University of Cambridge, Li Ka Shing Centre, Robinson Way, CB2 0RE, UK. Suet-Feung.Chin@cruk.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Caldas</LastName>
+<ForeName>Carlos</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Cambridge Experimental Cancer Medicine Centre, Robinson Way, Cambridge, CB2 0RE, UK. carlos.caldas@cruk.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Cambridge Breast Unit and NIHR Cambridge Biomedical Research Centre, University of Cambridge NHS Foundation Hospitals, Hills Road, Cambridge, CB2 0QQ, UK. carlos.caldas@cruk.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Breast Cancer Functional Genomics Laboratory, Cancer Research UK Cambridge Institute, University of Cambridge, Li Ka Shing Centre, Robinson Way, CB2 0RE, UK. carlos.caldas@cruk.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hunter</LastName>
+<ForeName>David J</ForeName>
+<Initials>DJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. dhunter@hsph.harvard.edu.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Program in Molecular and Genetic Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. dhunter@hsph.harvard.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lindstrom</LastName>
+<ForeName>Sara</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. slindstr@hsph.harvard.edu.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Program in Molecular and Genetic Epidemiology, Harvard School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA. slindstr@hsph.harvard.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Garcia-Closas</LastName>
+<ForeName>Montserrat</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Genetics and Epidemiology, Institute of Cancer Research, 15 Cotswold Road, Sutton, SM2 5NG, Surrey, UK. Montse.GarciaClosas@icr.ac.uk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Breakthrough Breast Cancer Research Centre, Division of Breast Cancer Research, The Institute of Cancer Research, 123 Old Brompton Road, London, SW7 3RP, UK. Montse.GarciaClosas@icr.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Couch</LastName>
+<ForeName>Fergus J</ForeName>
+<Initials>FJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Laboratory Medicine and Pathology, Mayo Clinic, 200 First Street SW, Rochester, MN, 55905, USA. couch.fergus@mayo.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chenevix-Trench</LastName>
+<ForeName>Georgia</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Genetics, Qimr Berghofer Medical Research Institute, 300 Herston Road, Brisbane, QLD 4006, Australia. Georgia.Trench@qimrberghofer.edu.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mannermaa</LastName>
+<ForeName>Arto</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>School of Medicine, Institute of Clinical Medicine, Pathology and Forensic Medicine and Cancer Center of Eastern Finland, University of Eastern Finland, Yliopistonranta 1C, 70210, Kuopio, Finland. arto.mannermaa@uef.fi.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Imaging Center, Department of Clinical Pathology, Kuopio University Hospital, Puijonlaaksontie 2, 70210, Kuopio, Finland. arto.mannermaa@uef.fi.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andrulis</LastName>
+<ForeName>Irene L</ForeName>
+<Initials>IL</Initials>
+<AffiliationInfo>
+<Affiliation>Ontario Cancer Genetics Network, Lunenfeld-Tanenbaum Research Institute, Mount Sinai Hospital, 600 University Avenue, Toronto, ON, M5G 1X5, Canada. andrulis@lunenfeld.ca.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Molecular Genetics, University of Toronto, 1 King's College Circle, Toronto, ON, M5S 1A8, Canada. andrulis@lunenfeld.ca.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hall</LastName>
+<ForeName>Per</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Nobels väg 12A, Stockholm, 17177, Sweden. Per.Hall@ki.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chang-Claude</LastName>
+<ForeName>Jenny</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany. j.chang-claude@dkfz-heidelberg.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Easton</LastName>
+<ForeName>Douglas F</ForeName>
+<Initials>DF</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. dfe20@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. dfe20@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bojesen</LastName>
+<ForeName>Stig E</ForeName>
+<Initials>SE</Initials>
+<AffiliationInfo>
+<Affiliation>Copenhagen General Population Study, Herlev Hospital, Copenhagen University Hospital, Herlev Ringvej 75, DK-2730, Herlev, Copenhagen, Denmark. stig.egil.bojesen@regionh.dk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Biochemistry, Herlev Hospital, Copenhagen University Hospital, Herlev Ringvej 75, DK-2730, Herlev, Copenhagen, Denmark. stig.egil.bojesen@regionh.dk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Faculty of Health and Medical Sciences, University of Copenhagen, Blegdamsvej 3, DK-2220, Copenhagen, Denmark. stig.egil.bojesen@regionh.dk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cox</LastName>
+<ForeName>Angela</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>CRUK/YCR Sheffield Cancer Research Centre, Department of Oncology, University of Sheffield, Beech Hill Road, Sheffield, S10 2RX, UK. a.cox@shef.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fasching</LastName>
+<ForeName>Peter A</ForeName>
+<Initials>PA</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Human Genetics; University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nuremberg, Comprehensive Cancer Center Erlangen-Emn, Universitaetsstrasse 21-23, 91054, Erlangen, Germany. peter.fasching@uk-erlangen.de.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>David Geffen School of Medicine, Department of Medicine, Division of Hematology and Oncology, University of California at Los Angeles, 10833 Le Conte Avenue, Los Angeles, CA, 90095, USA. peter.fasching@uk-erlangen.de.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pharoah</LastName>
+<ForeName>Paul Dp</ForeName>
+<Initials>PD</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. pp10001@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, 2 Wort's Causeway, Cambridge, CB1 8RN, UK. pp10001@medschl.cam.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmidt</LastName>
+<ForeName>Marjanka K</ForeName>
+<Initials>MK</Initials>
+<AffiliationInfo>
+<Affiliation>Netherlands Cancer Institute, Antoni Van Leeuwenhoek Hospital, Plesmanlaan 121, 1066 CX, Amsterdam, The Netherlands. mk.schmidt@nki.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>U01 CA069417</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 CA069638</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 CA164973</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UM1 CA164920</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 CA098216</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 CA128978</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P50 CA116201</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 CA063464</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 CA098233</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 CA054281</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 CA063464</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 CA132839</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 CA098758</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U19 CA148065</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 CA122340</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R37 CA054281</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 CA098710</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>10124</GrantID>
+<Agency>Cancer Research UK</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D017418">Meta-Analysis</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>04</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Breast Cancer Res</MedlineTA>
+<NlmUniqueID>100927353</NlmUniqueID>
+<ISSNLinking>1465-5411</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056726">Genetic Association Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055106">Genome-Wide Association Study</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005854">Germ Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>07</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>04</Month>
+<Day>10</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>4</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>4</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25897948</ArticleId>
+<ArticleId IdType="doi">10.1186/s13058-015-0570-7</ArticleId>
+<ArticleId IdType="pii">10.1186/s13058-015-0570-7</ArticleId>
+<ArticleId IdType="pmc">PMC4484708</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Springerplus. 2013 Sep 11;2:450</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24083102</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2007;9(3):R34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17537232</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2008;10(1):R15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18271972</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(5):e63165</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23696797</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2010 Feb;119(3):701-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19437115</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncologist. 2013;18(5):493-500</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23635555</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cancer Res Clin Oncol. 2012 Jun;138(6):1019-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22367361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2014 May 1;20(9):2466-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24599932</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Nov 1;491(7422):56-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23128226</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2013 May 1;132(9):2044-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23034890</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2012 Mar 1;72(5):1182-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22232737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mol Genet. 2012 Dec 15;21(24):5373-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22976474</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tissue Antigens. 2013 Apr;81(4):221-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23510418</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Cancer. 2006;6:257</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17069650</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2000 Oct 15;60(20):5621-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11059750</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Cancer. 2007;7:160</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17697367</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2013 Feb;137(3):893-901</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23288348</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2005 May;14(5):1090-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15894657</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2013 Feb 1;132(3):E128-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22907529</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2012;14(4):R105</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22788972</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2008 Jun 26;358(26):2796-803</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18579814</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Carcinogenesis. 2013 Mar;34(3):587-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23180655</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2005 Feb 1;65(3):1105-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15705913</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2003 Nov 15;63(22):8051-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14633738</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2002 Jun 1;62(11):3052-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12036913</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2008 Aug 1;14(15):4787-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18676749</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2007 Jul;39(7):870-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17529973</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Jun 21;486(7403):346-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22522925</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cancer Res Clin Oncol. 2011 Mar;137(3):543-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20508946</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2007;9(3):R39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17598882</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst. 2010 May 5;102(9):650-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20308648</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Med Res. 2013 Jan;44(1):39-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23291383</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2009 Aug 15;125(4):844-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19431211</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2013 Mar;22(3):437-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23300018</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Biol Rep. 2013 Jan;40(1):43-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23129313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2010;12(1):R1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20053270</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2006 Nov 2;355(18):1851-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17079759</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2014 Feb;15(2):201-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24360787</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2006 Nov;100(2):213-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16821086</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2008 Jul;40(7):844-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18511948</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Treat Rev. 2014 Mar;40(2):293-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24112814</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2006 Nov;15(11):2115-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17119036</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Transl Oncol. 2014 Feb;16(2):158-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23740134</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2009 Jan 1;124(1):208-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18798254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pharmacogenet Genomics. 2007 May;17(5):331-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17429315</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2004 Feb 1;64(3):836-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14871809</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mol Genet. 2012 Sep 1;21(17):3926-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22532573</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(5):e63469</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23717430</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2013 Feb;137(3):927-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23314606</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2012 Nov 1;72(21):5537-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22964583</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2007 Nov 1;67(21):10214-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17974962</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2008 Nov;112(1):89-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18049890</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2005 Jun 15;65(12):5015-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15958542</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res Treat. 2007 Nov;105(3):311-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17186357</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Front Med. 2013 Mar;7(1):138-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23358895</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2013 Apr;45(4):353-61, 361e1-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23535729</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2008;10(3):R47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18507837</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2006 Dec 20;24(36):5645-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17116943</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2009;11(6):R89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20021639</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst. 2015 May;107(5). pii: djv081. doi: 10.1093/jnci/djv081</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25890600</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2005 Jul 15;11(14):5098-103</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16033823</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Genet. 2011 Jul;48(7):477-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21632523</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Epidemiol Biomarkers Prev. 2010 Apr;19(4):1140-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20332263</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

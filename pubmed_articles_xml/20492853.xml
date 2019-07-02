@@ -1,0 +1,220 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20492853</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>06</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1555-2101</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>71</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of clinical psychiatry</Title>
+<ISOAbbreviation>J Clin Psychiatry</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A randomized, double-blind, placebo-controlled study of 2 dose ranges of paliperidone extended-release in the treatment of subjects with schizoaffective disorder.</ArticleTitle>
+<Pagination>
+<MedlinePgn>587-98</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.4088/JCP.09m05564yel</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study was designed to assess efficacy and safety of paliperidone extended-release (ER) in patients with schizoaffective disorder.</AbstractText>
+<AbstractText Label="METHOD" NlmCategory="METHODS">A randomized, 6-week, double-blind, placebo-controlled study was conducted. Subjects with a Structured Clinical Interview for DSM-IV diagnosis of schizoaffective disorder, Positive and Negative Syndrome Scale (PANSS) total score &gt;or= 60, score &gt;or= 4 on &gt;or= 2 PANSS items (hostility, excitement, tension, uncooperativeness, poor impulse control), and Young Mania Rating Scale and/or Hamilton Depression Rating Scale, 21-item version scores &gt;or= 16 were eligible. Subjects received higher-dose (12 mg/d) or lower-dose (6 mg/d) paliperidone ER. Dose adjustments by 3-mg increments were allowed until day 15. The study was conducted from October 2006 through February 2008.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 316 subjects were randomly assigned to paliperidone ER lower dose (n = 109), higher dose (n = 100), or placebo (n = 107). Mean +/- SD modal dose in lower- and higher-dose groups: 5.7 +/- 0.9 and 11.6 +/- 1.0 mg/d, respectively. Mean +/- SE PANSS total score (primary outcome) improved significantly with higher-dose paliperidone ER versus placebo (-32.4 +/- 2.1 versus -24.1 +/- 2.1; P = .003). Change with lower-dose paliperidone ER (-27.7 +/- 2.1) was not significantly different from placebo (P = .187). No new safety issues were identified; common adverse events were headache (placebo: 16.8%; paliperidone ER: lower dose, 13.9%, higher dose, 13.3%) and tremor (3.7%, 12.0%, 11.2%, respectively). Mean prolactin and weight changes were greater with active treatment than placebo.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Higher-dose paliperidone ER was effective and well tolerated in patients with acute schizoaffective disorder. These findings and those from a companion study constitute the first registration program for antipsychotic treatment in schizoaffective disorder.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">clincaltrials.gov Identifier: NCT00397033.</AbstractText>
+<CopyrightInformation>©Copyright 2010 Physicians Postgraduate Press, Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Canuso</LastName>
+<ForeName>Carla M</ForeName>
+<Initials>CM</Initials>
+<AffiliationInfo>
+<Affiliation>Johnson &amp; Johnson Pharmaceutical Research and Development, LLC, 1125 Trenton-Harbourton Rd-E12604, Titusville, NJ 08560, USA. ccanuso@its.jnj.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lindenmayer</LastName>
+<ForeName>Jean-Pierre</ForeName>
+<Initials>JP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kosik-Gonzalez</LastName>
+<ForeName>Colette</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Turkoz</LastName>
+<ForeName>Ibrahim</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carothers</LastName>
+<ForeName>Jennifer</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bossie</LastName>
+<ForeName>Cynthia A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schooler</LastName>
+<ForeName>Nina R</ForeName>
+<Initials>NR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00397033</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Clin Psychiatry</MedlineTA>
+<NlmUniqueID>7801243</NlmUniqueID>
+<ISSNLinking>0160-6689</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014150">Antipsychotic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D003692">Delayed-Action Preparations</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007555">Isoxazoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011743">Pyrimidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>R8P8USM8FR</RegistryNumber>
+<NameOfSubstance UI="D000068882">Paliperidone Palmitate</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014150">Antipsychotic Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003692">Delayed-Action Preparations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007555">Isoxazoles</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000068882">Paliperidone Palmitate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011569">Psychiatric Status Rating Scales</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011618">Psychotic Disorders</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011743">Pyrimidines</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2009</Year>
+<Month>07</Month>
+<Day>28</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>02</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>6</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20492853</ArticleId>
+<ArticleId IdType="doi">10.4088/JCP.09m05564yel</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

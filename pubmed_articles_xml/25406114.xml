@@ -1,0 +1,202 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25406114</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>08</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1550-9109</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>37</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Dec</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Sleep</Title>
+<ISOAbbreviation>Sleep</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The patient's or society's: whose quality of life is it anyway?</ArticleTitle>
+<Pagination>
+<MedlinePgn>1885-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.5665/sleep.4234</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Trenaman</LastName>
+<ForeName>Logan</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>School of Population and Public Health, University of British Columbia, Vancouver, BC, Canada: Centre for Health Evaluation and Outcome Sciences, St Paul's Hospital, Vancouver, BC, Canada: Centre for Clinical Epidemiology and Evaluation, Vancouver Coastal Research Institute, Vancouver, BC, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ayas</LastName>
+<ForeName>Najib</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Centre for Health Evaluation and Outcome Sciences, St Paul's Hospital, Vancouver, BC, Canada: Department of Medicine and Sleep Disorders Program, University of British Columbia, Vancouver, BC, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bansback</LastName>
+<ForeName>Nick</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>School of Population and Public Health, University of British Columbia, Vancouver, BC, Canada: Centre for Health Evaluation and Outcome Sciences, St Paul's Hospital, Vancouver, BC, Canada: Centre for Clinical Epidemiology and Evaluation, Vancouver Coastal Research Institute, Vancouver, BC, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016421">Editorial</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>01</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Sleep</MedlineTA>
+<NlmUniqueID>7809084</NlmUniqueID>
+<ISSNLinking>0161-8105</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Sleep. 2014 Dec;37(12):1963-8</RefSource>
+<PMID Version="1">25325505</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D045422">Continuous Positive Airway Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006304">Health Status</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019057">Quality-Adjusted Life Years</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020181">Sleep Apnea, Obstructive</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>01</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>04</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>11</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25406114</ArticleId>
+<ArticleId IdType="pii">sp-00669-14</ArticleId>
+<ArticleId IdType="doi">10.5665/sleep.4234</ArticleId>
+<ArticleId IdType="pmc">PMC4548511</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Lancet. 2005 Mar 19-25;365(9464):1046-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15781100</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chronic Dis. 1987;40(6):593-603</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3298297</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1993 Apr 15;118(8):622-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8452328</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 1995 Feb;107(2):375-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7842764</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2014 Dec;37(12):1963-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25325505</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2010 Oct;33(10):1373-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21061860</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep Breath. 2010 Dec;14(4):323-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20661654</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep Breath. 2013 May;17(2):659-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22833346</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

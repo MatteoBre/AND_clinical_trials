@@ -1,0 +1,375 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21060751</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>04</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1598-6357</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>25</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of Korean medical science</Title>
+<ISOAbbreviation>J. Korean Med. Sci.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Ethnic coefficients for glomerular filtration rate estimation by the Modification of Diet in Renal Disease study equations in the Korean population.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1616-25</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3346/jkms.2010.25.11.1616</ELocationID>
+<Abstract>
+<AbstractText>Race and ethnicity are influential in estimating glomerular filtration rate (GFR). We aimed to find the Korean coefficients for the Modification of Diet in Renal Disease (MDRD) study equations and to obtain novel proper estimation equations. Reference GFR was measured by systemic inulin clearance. Serum creatinine (SCr) values were measured by the alkaline picrate Jaffé kinetic method, then, recalibrated to CX3 analyzer and to isotope dilution mass spectrometry (IDMS). The Korean coefficients for the 4 and 6 variable MDRD and IDMS MDRD study equations based on the SCr recalibrated to CX3 and to IDMS were 0.73989/0.74254 and 0.99096/0.9554, respectively. Coefficients for the 4 and 6 variable MDRD equations based on the SCr measured by Jaffé method were 1.09825 and 1.04334, respectively. The modified equations showed better performances than the original equations. The novel 4 variable equations for Korean based on the SCr measured and recalibrated to IDMS were 107.904×SCr(-1.009)×age(-0.02) (×0.667, if woman) and 87.832×SCr(-0.882)×age(0.01) (×0.653, if woman), respectively. Modified estimations of the MDRD and IDMS MDRD study equations with ethnic coefficients and the novel equations improve the performance of GFR estimation for the overall renal function.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Chung Sik</ForeName>
+<Initials>CS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, Seoul National University College of Medicine, Seoul, Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cha</LastName>
+<ForeName>Ran-hui</ForeName>
+<Initials>RH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lim</LastName>
+<ForeName>Youn-Hee</ForeName>
+<Initials>YH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Ho</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Song</LastName>
+<ForeName>Ka Heon</ForeName>
+<Initials>KH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gu</LastName>
+<ForeName>Namyi</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yu</LastName>
+<ForeName>Kyung Sang</ForeName>
+<Initials>KS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lim</LastName>
+<ForeName>Chun Soo</ForeName>
+<Initials>CS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Han</LastName>
+<ForeName>Jin Suk</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Suhnggwon</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Yon Su</ForeName>
+<Initials>YS</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>26</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Korea (South)</Country>
+<MedlineTA>J Korean Med Sci</MedlineTA>
+<NlmUniqueID>8703518</NlmUniqueID>
+<ISSNLinking>1011-8934</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>9005-80-5</RegistryNumber>
+<NameOfSubstance UI="D007444">Inulin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>AYI8EX34EU</RegistryNumber>
+<NameOfSubstance UI="D003404">Creatinine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003404">Creatinine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004032">Diet</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005919">Glomerular Filtration Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007444">Inulin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007674">Kidney Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000208">ethnology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013058">Mass Spectrometry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D056910">Republic of Korea</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Coefficient</Keyword>
+<Keyword MajorTopicYN="N">Glomerular Filtration Rate</Keyword>
+<Keyword MajorTopicYN="N">Inulin Clearance</Keyword>
+<Keyword MajorTopicYN="N">Modification of Diet in Renal Disease Study</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>03</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>09</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>4</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21060751</ArticleId>
+<ArticleId IdType="doi">10.3346/jkms.2010.25.11.1616</ArticleId>
+<ArticleId IdType="pmc">PMC2966999</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Ann Intern Med. 2006 Aug 15;145(4):247-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16908915</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2006 Oct;17(10):2937-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16988059</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Exp Nephrol. 2007 Mar;11(1):41-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17384997</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chem. 2007 Apr;53(4):766-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17332152</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2007 Jul;50(1):21-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17591522</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2007 Dec;50(6):927-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18037093</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2008 Oct;52(4):778-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18676076</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2009 Jan;4(1):77-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19005012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2009 Jun;53(6):982-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19339088</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2009 Jun;53(6):932-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19463761</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chromatogr B Biomed Sci Appl. 2001 Feb 10;751(1):187-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11232849</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2001 Oct;38(4):744-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11576877</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chem. 2003 Jul;49(7):1170-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12816915</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1986 Feb 8;1(8476):307-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2868172</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 1990 Sep;16(3):224-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2205098</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Sci (Lond). 1991 Feb;80(2):167-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1848170</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutrition. 1989 Sep-Oct;5(5):303-11; discussion 312-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2520314</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1994 Jul;46(1):252-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7933844</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Clin Pharmacol. 1998 Dec;46(6):605-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9862251</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1999 Mar 16;130(6):461-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10075613</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Pathol Lab Med. 2005 Mar;129(3):297-304</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15737021</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2005 Jun;67(6):2089-100</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15882252</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Nephrol. 2005 Jun;20(6):777-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15834621</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chem. 2006 Jan;52(1):5-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16332993</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2006 Jun 8;354(23):2473-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16760447</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

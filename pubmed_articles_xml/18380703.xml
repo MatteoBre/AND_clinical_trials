@@ -1,0 +1,137 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18380703</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>05</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1445-5994</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>38</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Internal medicine journal</Title>
+<ISOAbbreviation>Intern Med J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Warfarin-induced allergic interstitial nephritis and leucocytoclastic vasculitis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>281-3</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1445-5994.2008.01646.x</ELocationID>
+<Abstract>
+<AbstractText>Warfarin sodium has been associated with leucocytoclastic vasculitis and has once been associated with allergic interstitial nephritis. Hypersensitivity to warfarin sodium simultaneously resulting in allergic interstitial nephritis and leucocytoclastic vasculitis has not yet been previously reported. We present a 48-year-old man who was on warfarin sodium for 2 months and presented with acute renal failure and reddish purplish macules on his hypogastric regions and lower extremities bilaterally. Kidney biopsy showed allergic interstitial nephritis and punch skin biopsy showed leucocytoclastic vasculitis. Both biopsies also showed high eosinophil count, highly suggestive of a drug-induced reaction. After a negative comprehensive work-up and the absence of other recent medication changes, our patient was determined to have allergic interstitial nephritis and leucocytoclastic vasculitis secondary to warfarin sodium.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kapoor</LastName>
+<ForeName>K G</ForeName>
+<Initials>KG</Initials>
+<AffiliationInfo>
+<Affiliation>The Ohio State University College of Medicine, Columbus, Ohio , USA. Kaps2003@gmail.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bekaii-Saab</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Australia</Country>
+<MedlineTA>Intern Med J</MedlineTA>
+<NlmUniqueID>101092952</NlmUniqueID>
+<ISSNLinking>1444-0903</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000925">Anticoagulants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>5Q7ZVV76EI</RegistryNumber>
+<NameOfSubstance UI="D014859">Warfarin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000925">Anticoagulants</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004342">Drug Hypersensitivity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009395">Nephritis, Interstitial</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000139">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018366">Vasculitis, Leukocytoclastic, Cutaneous</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000139">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014859">Warfarin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>4</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>5</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>4</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18380703</ArticleId>
+<ArticleId IdType="pii">IMJ1646</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1445-5994.2008.01646.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

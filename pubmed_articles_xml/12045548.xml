@@ -1,0 +1,157 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12045548</PMID>
+<DateCompleted>
+<Year>2002</Year>
+<Month>06</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>06</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0032-1052</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>109</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2002</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Plastic and reconstructive surgery</Title>
+<ISOAbbreviation>Plast. Reconstr. Surg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Complications in postmastectomy breast reconstruction: two-year results of the Michigan Breast Reconstruction Outcome Study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2265-74</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In this study, the effects of procedure type, timing, and other clinical variables on complication rates in mastectomy reconstruction were prospectively evaluated. Using a prospective cohort design, women undergoing first-time, immediate or delayed breast reconstruction were recruited from 12 centers and 23 plastic surgeons. Complication data for expander/implant, pedicle transverse rectus abdominis musculocutaneous (TRAM) flap, and free TRAM flap procedures were evaluated 2 years after surgery in 326 patients. For each patient, the total number of complications was recorded and the complication data were dichotomized in two ways: (1) total complications and (2) major complications (those requiring reoperation, rehospitalization, or nonperioperative intravenous antibiotic treatment). The effects of procedure type, timing, radiotherapy, chemotherapy, age, smoking, and body mass index on complication rates were analyzed using logistic regression. Immediate reconstructions had significantly higher total as well as major complication rates, compared with delayed procedures (p = 0.011 and 0.005, respectively). Furthermore, higher body mass indexes were associated with significantly higher total and major complication rates (p = 0.005 and p &lt; 0.001, respectively). No significant effects on complication rates were noted for procedure type or for the other independent variables, although there was evidence of trends for higher total and major complication rates in implant patients who received radiotherapy and a trend for higher major complication rates in TRAM flap patients who received chemotherapy. It was concluded that (1) immediate reconstructions were associated with significantly higher complication rates than delayed procedures, and (2) procedure type had no significant effect on complication rates.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Alderman</LastName>
+<ForeName>Amy K</ForeName>
+<Initials>AK</Initials>
+<AffiliationInfo>
+<Affiliation>Robert Wood Johnson Clinical Scholars Program, The University of Michigan Medical Center, 1500 East Medical Center Drive, Ann Arbor, MI 48109-0340, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wilkins</LastName>
+<ForeName>Edwin G</ForeName>
+<Initials>EG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Hyungjin Myra</ForeName>
+<Initials>HM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lowery</LastName>
+<ForeName>Julie C</ForeName>
+<Initials>JC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Plast Reconstr Surg</MedlineTA>
+<NlmUniqueID>1306050</NlmUniqueID>
+<ISSNLinking>0032-1052</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018427">Breast Implants</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016462">Mammaplasty</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008408">Mastectomy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000534">rehabilitation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011183">Postoperative Complications</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017568">Rectus Abdominis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013524">Surgical Flaps</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015625">Tissue Expansion Devices</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>6</Month>
+<Day>5</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2002</Year>
+<Month>6</Month>
+<Day>21</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>6</Month>
+<Day>5</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12045548</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

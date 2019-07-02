@@ -1,0 +1,140 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19291997</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>04</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0094-2405</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>36</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Medical physics</Title>
+<ISOAbbreviation>Med Phys</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Accurate estimation of compressed breast thickness in mammography.</ArticleTitle>
+<Pagination>
+<MedlinePgn>577-86</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The determination of volumetric breast density (VBD) from mammograms requires an accurate knowledge of the thickness of the compressed breast. Previously, the authors described a technique for measuring local thicknesses using optical stereoscopic photogrammetry [A. H. Tyson, G. E. Mawdsley, and M. J. Yaffe, "Measurement of compressed breast thickness by optical stereoscopic photogrammetry," Med. Phys. 36(2), 569-576 (2009)]. Here, the authors describe the use of this tool to guide the development of a simpler, more practical field technique for the estimation of breast thickness and test its accuracy. Phantoms were constructed having similar shapes and compression characteristics to breasts of different sizes. These phantoms were compressed at different forces on several types of mammography units and their thickness under compression was measured using optical stereoscopic photogrammetry at many points of contact with the compression plate. A prediction equation was developed that uses the readout of compressed thickness and compression force provided by the mammography system to estimate local breast thickness. Using this approach, systems can be calibrated to an accuracy of better than 5 mm in thickness using a simple test object compared to an error of up to 15 mm associated with using only the thickness readout of the mammography machine. On the systems tested, the estimated value of VBD obtained using this method is significantly reduced from that determined using the constant thickness reported by the mammography machine.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mawdsley</LastName>
+<ForeName>Gordon E</ForeName>
+<Initials>GE</Initials>
+<AffiliationInfo>
+<Affiliation>Room S657, Imaging Research, Sunnybrook Health Sciences Centre, 2075 Bayview Avenue, Toronto, Ontario M4N 3M5, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tyson</LastName>
+<ForeName>Albert H</ForeName>
+<Initials>AH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peressotti</LastName>
+<ForeName>Chris L</ForeName>
+<Initials>CL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jong</LastName>
+<ForeName>Roberta A</ForeName>
+<Initials>RA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yaffe</LastName>
+<ForeName>Martin J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Med Phys</MedlineTA>
+<NlmUniqueID>0425746</NlmUniqueID>
+<ISSNLinking>0094-2405</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001940">Breast</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000033">anatomy &amp; histology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008327">Mammography</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008954">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019047">Phantoms, Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010780">Photogrammetry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013499">Surface Properties</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>3</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>3</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>4</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19291997</ArticleId>
+<ArticleId IdType="doi">10.1118/1.3065068</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

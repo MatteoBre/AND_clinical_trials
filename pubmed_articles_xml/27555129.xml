@@ -1,0 +1,213 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27555129</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>27</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1873-4529</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>33</Volume>
+<PubDate>
+<Year>2016</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of clinical anesthesia</Title>
+<ISOAbbreviation>J Clin Anesth</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Middle cerebral artery blood flow velocity during beach chair position for shoulder surgery under general anesthesia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>31-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jclinane.2016.01.009</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0952-8180(16)00080-5</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The goal of the present study was to examine changes of middle cerebral artery (VMCA) blood flow velocity in patients scheduled for shoulder surgery in beach chair position.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">Prospective observational study.</AbstractText>
+<AbstractText Label="SETTING" NlmCategory="METHODS">Operating room, shoulder surgery.</AbstractText>
+<AbstractText Label="PATIENTS" NlmCategory="METHODS">Fifty-three consecutive patients scheduled for shoulder surgery in beach chair position.</AbstractText>
+<AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">Transcranial Doppler performed after induction of general anesthesia (baseline), after beach chair positioning (BC1), during surgery 20minutes (BC2), and after back to supine position before stopping anesthesia (supine).</AbstractText>
+<AbstractText Label="MEASUREMENTS" NlmCategory="METHODS">Mean arterial pressure (MAP), end-tidal CO2, and volatile anesthetic concentration and VMCA were recorded at baseline, BC1, BC2, and supine. Postoperative neurologic complications were searched.</AbstractText>
+<AbstractText Label="MAIN RESULTS" NlmCategory="RESULTS">Beach chair position induced decrease in MAP (baseline: 73±10mm Hg vs lower MAP recorded: 61±10mm Hg; P&lt;.0001) requiring vasopressors and fluid challenge in 44 patients (83%). There was a significant decrease in VMCA after beach chair positioning (BC1: 33±10cm/s vs baseline: 39±14cm/s; P=.001). The VMCA at baseline (39±2cm/s), BC2 (35±14cm/s), and supine (39±14cm/s) were not different. The minimal alveolar concentration of volatile anesthetics, end-tidal CO2, SpO2, and MAP were not different at baseline, BC1, BC2, and supine.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Beach chair position resulted in transient decrease in MAP requiring fluid challenge and vasopressors and a moderate decrease in VMCA.</AbstractText>
+<CopyrightInformation>Copyright © 2016 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hanouz</LastName>
+<ForeName>Jean-Luc</ForeName>
+<Initials>JL</Initials>
+<AffiliationInfo>
+<Affiliation>Pôle Réanimations Anesthésie SAMU, CHU de Caen, Avenue Côte de Nacre, 14033 Caen cedex, France; Laboratoire de Signalisation, Électrophysiologie et Imagerie des Lésions d'Ischémie-Reperfusion Myocardique, EA 4650, Université Caen Basse Normandie, France. Electronic address: hanouz-jl@chu-caen.fr.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fiant</LastName>
+<ForeName>Anne-Lise</ForeName>
+<Initials>AL</Initials>
+<AffiliationInfo>
+<Affiliation>Pôle Réanimations Anesthésie SAMU, CHU de Caen, Avenue Côte de Nacre, 14033 Caen cedex, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gérard</LastName>
+<ForeName>Jean-Louis</ForeName>
+<Initials>JL</Initials>
+<AffiliationInfo>
+<Affiliation>Pôle Réanimations Anesthésie SAMU, CHU de Caen, Avenue Côte de Nacre, 14033 Caen cedex, France; Laboratoire de Signalisation, Électrophysiologie et Imagerie des Lésions d'Ischémie-Reperfusion Myocardique, EA 4650, Université Caen Basse Normandie, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D064888">Observational Study</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>06</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Clin Anesth</MedlineTA>
+<NlmUniqueID>8812166</NlmUniqueID>
+<ISSNLinking>0952-8180</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000768">Anesthesia, General</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D062186">Arterial Pressure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001783">Blood Flow Velocity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002560">Cerebrovascular Circulation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006439">Hemodynamics</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020768">Middle Cerebral Artery</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016343">Monitoring, Intraoperative</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056888">Patient Positioning</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011187">Posture</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012782">Shoulder</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012785">Shoulder Joint</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017585">Ultrasonography, Doppler, Transcranial</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Beach chair position</Keyword>
+<Keyword MajorTopicYN="Y">Cerebral blood flow</Keyword>
+<Keyword MajorTopicYN="Y">Shoulder surgery</Keyword>
+<Keyword MajorTopicYN="Y">Transcranial Doppler</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>01</Month>
+<Day>28</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>04</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>2</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27555129</ArticleId>
+<ArticleId IdType="pii">S0952-8180(16)00080-5</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jclinane.2016.01.009</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

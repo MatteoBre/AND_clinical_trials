@@ -1,0 +1,330 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15605215</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>05</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0340-1855</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>63</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2004</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Zeitschrift fur Rheumatologie</Title>
+<ISOAbbreviation>Z Rheumatol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Diagnosis of the antiphospholipid syndrome in anticoagulated patients].</ArticleTitle>
+<Pagination>
+<MedlinePgn>490-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The antiphospholipid syndrome is characterized by thromboembolic events and/or recurrent miscarriages in the presence of anticardiolipin antibodies and/or a lupus anticoagulant. Anticardiolipin antibodies are detected by ELISA whereas lupus anticoagulant detection includes a variety of coagulometric tests. However, a large number of patients with suspected antiphospholipid syndrome are anticoagulated with either heparin or coumadin when evaluated for the presence of a lupus anticoagulant and false positive test results may ensue, thus making coagulometric testing unreliable in this situation. Modifications of standard coagulometric tests have been suggested in order to circumvent this problem and studies of several patient cohorts have shown that the majority of patients with the antiphospholipid syndrome are anticardiolipin positive. However diagnosis in patients receiving anticoagulation remains a difficult task.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mohren</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Klinik für Hämatologie/Onkologie, Universität Magdeburg, Leipziger Str. 44, 39120, Magdeburg, Germany. Martin.Mohren@Medizin.Uni-Magdeburg.de</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Daikeler</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Engel</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guenaydin</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koetter</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>ger</Language>
+<PublicationTypeList>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Diagnose des Antiphospholipid-Syndrom beim antikoagulierten Patient: Was gibt es zu beachten?</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Z Rheumatol</MedlineTA>
+<NlmUniqueID>0414162</NlmUniqueID>
+<ISSNLinking>0340-1855</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017153">Antibodies, Anticardiolipin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000925">Anticoagulants</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016682">Lupus Coagulation Inhibitor</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000026">Abortion, Habitual</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017153">Antibodies, Anticardiolipin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000925">Anticoagulants</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016736">Antiphospholipid Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001780">Blood Coagulation Tests</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003937">Diagnosis, Differential</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004797">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016682">Lupus Coagulation Inhibitor</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013923">Thromboembolism</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>24</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2003</Year>
+<Month>10</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2003</Year>
+<Month>11</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2004</Year>
+<Month>12</Month>
+<Day>18</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>5</Month>
+<Day>7</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2004</Year>
+<Month>12</Month>
+<Day>18</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15605215</ArticleId>
+<ArticleId IdType="doi">10.1007/s00393-004-0593-4</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Thromb Haemost. 1995 Dec;74(6):1597-603</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8772243</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 1996 Dec;76(6):916-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8972011</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2002 Mar 7;346(10):752-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11882732</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 1991 Mar 4;65(3):320-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1904657</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1987 Apr;106(4):524-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3103510</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Rheum Dis. 1988 May;47(5):364-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3133992</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2003 Oct 15;102(8):2717-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12816875</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2001 Dec;115(3):672-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11736953</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1995 Apr 13;332(15):993-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7885428</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 1997 Sep;98(4):887-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9326184</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2000 Jun;109(4):704-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10929019</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1988 Jan 22-29;259(4):550-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3121871</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 2002 Nov;88(5):729-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12428085</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int Arch Allergy Immunol. 2000 Sep;123(1):67-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11014973</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2003 Mar 1;101(5):1827-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12393574</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 1995 Oct;74(4):1185-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8560433</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lupus. 2001;10(7):457-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11480841</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rheum Dis Clin North Am. 1994 May;20(2):443-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8016420</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2002 Apr;46(4):1019-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11953980</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 1999 Feb;81(2):256-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10064002</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 2002 Oct;88(4):583-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12362227</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thromb Haemost. 2001 Jul;86(1):83-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11487046</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 1999 Jul;42(7):1309-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10403256</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

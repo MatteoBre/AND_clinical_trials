@@ -1,0 +1,162 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">7513684</PMID>
+<DateCompleted>
+<Year>1994</Year>
+<Month>06</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>12</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">8750-7587</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>76</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1994</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of applied physiology (Bethesda, Md. : 1985)</Title>
+<ISOAbbreviation>J. Appl. Physiol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Histamine and exercise-induced hypoxemia in highly trained athletes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>127-32</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>To determine whether exercise-induced hypoxemia in extreme athletes results from an increase in histamine level during maximal incremental exercise, seven young athletes [YA; age 22.2 +/- 1.23 (SE) yr] and seven master athletes (MA; age 66.2 +/- 2.94 yr), all of whom were known to develop exercise-induced hypoxemia, were compared with age-matched control groups (young controls and older controls, respectively). During maximal incremental exercise, blood samples for arterial blood gas analysis and for plasma and total histamine were drawn at rest and at 50, 75, and 100% of maximal O2 uptake. The percentage of histamine released (%H) was calculated from plasma and total histamine samples. In all athletes (MA and YA groups), exercise induced an increase in %H with a concomitant decrease in arterial PO2 (PaO2); in control groups there was no change in either histamine levels or PaO2. When the data for the YA and MA groups were combined, a correlation was observed between the increase in %H and the drop in PaO2. Nevertheless, further studies are required to establish whether histamine plays a causative role in hypoxemia or is a response to injury.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Anselme</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratoire de Physiologie des Interactions, Hopital Arnaud De Villeneuve, Montpellier, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Caillaud</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Couret</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rossi</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Préfaut</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Appl Physiol (1985)</MedlineTA>
+<NlmUniqueID>8502536</NlmUniqueID>
+<ISSNLinking>0161-7567</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>820484N8I3</RegistryNumber>
+<NameOfSubstance UI="D006632">Histamine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000375">Aging</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001784">Blood Gas Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015444">Exercise</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005080">Exercise Test</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005541">Forced Expiratory Volume</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006632">Histamine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006636">Histamine Release</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000860">Hypoxia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010101">Oxygen Consumption</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1994</Year>
+<Month>1</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1994</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1994</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7513684</ArticleId>
+<ArticleId IdType="doi">10.1152/jappl.1994.76.1.127</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

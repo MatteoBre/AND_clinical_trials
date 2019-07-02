@@ -1,0 +1,134 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12183348</PMID>
+<DateCompleted>
+<Year>2002</Year>
+<Month>09</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>05</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0006-8950</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>125</Volume>
+<Issue>Pt 9</Issue>
+<PubDate>
+<Year>2002</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Brain : a journal of neurology</Title>
+<ISOAbbreviation>Brain</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effects of monocular viewing and eye dominance on spatial attention.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2023-35</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Observations in primates and patients with unilateral spatial neglect have suggested that patching of the eye ipsilateral to the injury and contralateral to the neglected space can sometimes improve attention to the neglected space. Investigators have generally attributed the effects of monocular eye patching to activation of subcortical centers that interact with cortical attentional systems. Eye patching is thought to produce preferential activation of attentional systems contralateral to the viewing eye. In this study we examined the effect of monocular eye patching on attentional biases in normal subjects. When normal subjects bisect vertical (radial) lines using both eyes, they demonstrate a far attentional bias, misbisecting lines away from their body. In a monocular viewing experiment, we found that the majority of subjects, who were right eye dominant, had relatively nearer bisections and a diminished far bias when they used their right eye (left eye covered) compared with when they used their left eye (right eye covered). The smaller group of subjects who were left eye dominant had relatively nearer bisections and a diminished far bias when they used their left eye compared with when they used their right eye. In the hemispatial placement experiment, we directly manipulated hemispheric engagement by having subjects perform the same task in right and left hemispace. We found that right eye dominant subjects had a diminished far bias in right hemispace relative to left hemispace. Left eye dominant subjects showed the opposite pattern and had a diminished far bias in left hemispace. For both groups, spatial presentation affected performance more for the non-dominant eye. The results suggest that monocular viewing is associated with preferential activation of attentional systems in the contralateral hemisphere, and that the right hemisphere (at least in right eye dominant subjects) is biased towards far space. Finally, the results suggest that the poorly understood phenomenon of eye dominance may be related to hemispheric specialization for visual attention.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Roth</LastName>
+<ForeName>Heidi L</ForeName>
+<Initials>HL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, University of Florida College of Medicine, 100 S. Newell Drive, Room L3-100, Gainesville, FL 32610-0236, USA. hroth@neurology.ufl.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lora</LastName>
+<ForeName>Andrea N</ForeName>
+<Initials>AN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heilman</LastName>
+<ForeName>Kenneth M</ForeName>
+<Initials>KM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Brain</MedlineTA>
+<NlmUniqueID>0372537</NlmUniqueID>
+<ISSNLinking>0006-8950</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001288">Attention</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004292">Dominance, Cerebral</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007839">Functional Laterality</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009799">Ocular Physiological Phenomena</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012016">Reference Values</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013028">Space Perception</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015349">Vision, Monocular</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>8</Month>
+<Day>17</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2002</Year>
+<Month>9</Month>
+<Day>18</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>8</Month>
+<Day>17</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12183348</ArticleId>
+<ArticleId IdType="doi">10.1093/brain/awf210</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

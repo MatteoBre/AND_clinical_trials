@@ -1,0 +1,121 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18757684</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>10</Month>
+<Day>26</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0029-7844</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>112</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Obstetrics and gynecology</Title>
+<ISOAbbreviation>Obstet Gynecol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Episiotomy and increase in the risk of obstetric laceration in a subsequent vaginal delivery.</ArticleTitle>
+<Pagination>
+<MedlinePgn>708; author reply 708</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/AOG.0b013e31818649ae</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Peleg</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016420">Comment</PublicationType>
+<PublicationType UI="D016422">Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Obstet Gynecol</MedlineTA>
+<NlmUniqueID>0401101</NlmUniqueID>
+<ISSNLinking>0029-7844</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Obstet Gynecol. 2008 Jun;111(6):1274-8</RefSource>
+<PMID Version="1">18515508</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D036861">Delivery, Obstetric</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004841">Episiotomy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D022125">Lacerations</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010502">Perineum</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000293">injuries</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>2</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>11</Month>
+<Day>14</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>2</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18757684</ArticleId>
+<ArticleId IdType="pii">112/3/708</ArticleId>
+<ArticleId IdType="doi">10.1097/AOG.0b013e31818649ae</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

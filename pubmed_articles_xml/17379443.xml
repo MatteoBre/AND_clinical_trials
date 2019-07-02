@@ -1,0 +1,197 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17379443</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>06</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0360-3016</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>68</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Jun</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>International journal of radiation oncology, biology, physics</Title>
+<ISOAbbreviation>Int. J. Radiat. Oncol. Biol. Phys.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>What does PET imaging add to conventional staging of head and neck cancer patients?</ArticleTitle>
+<Pagination>
+<MedlinePgn>383-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To determine the value of PET scans in the staging of patients with head and neck carcinoma.</AbstractText>
+<AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">The charts of 25 patients who underwent neck dissection, computed tomography (CT) scan, and F-18-fluorodeoxyglucose positron emission tomography (FDG-PET) imaging as part of their initial work-up for a head and neck squamous cell cancer between 2000-2003 were reviewed. All patients underwent clinical examination, triple endoscopy, and chest radiograph as part of their clinical staging, adhering to American Joint Commission for Cancer criteria. In addition to the clinical nodal (N) stage, PET findings were incorporated to determine a second type of N staging: clinical N + PET stage. The number of neck sides and nodal levels involved on CT or PET and on pathologic examination were recorded.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The sensitivity and specificity for detection of nodal disease were similar for CT and FDG-PET. Positive and negative likelihood ratios were similar for both diagnostic tests. None of our 25 patients had unsuspected distant disease detected by PET.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The addition of PET imaging did not improve diagnostic accuracy in our patients compared with CT. PET scanning did not alter clinical management in any of the patients.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Pohar</LastName>
+<ForeName>Surjeet</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology, SUNY Upstate Medical University, Syracuse, NY, USA. poharss@evms.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Robert</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Newman</LastName>
+<ForeName>Nancy</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koniarczyk</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hsu</LastName>
+<ForeName>Jack</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feiglin</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D023362">Evaluation Studies</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>03</Month>
+<Day>26</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Int J Radiat Oncol Biol Phys</MedlineTA>
+<NlmUniqueID>7603616</NlmUniqueID>
+<ISSNLinking>0360-3016</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0Z5B2CJX4D</RegistryNumber>
+<NameOfSubstance UI="D019788">Fluorodeoxyglucose F18</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002294">Carcinoma, Squamous Cell</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019788">Fluorodeoxyglucose F18</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006258">Head and Neck Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D037981">Neck Dissection</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049268">Positron-Emission Tomography</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019275">Radiopharmaceuticals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2006</Year>
+<Month>06</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2006</Year>
+<Month>09</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>3</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>3</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17379443</ArticleId>
+<ArticleId IdType="pii">S0360-3016(07)00065-X</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ijrobp.2006.12.044</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

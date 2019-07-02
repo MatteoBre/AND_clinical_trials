@@ -1,0 +1,179 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12682475</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>05</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0090-3493</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>31</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2003</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Critical care medicine</Title>
+<ISOAbbreviation>Crit. Care Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Microalbuminuria in critically ill medical patients: prevalence, predictors, and prognostic significance.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1075-81</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To ascertain the prevalence, predictors, and prognostic significance of microalbuminuria in critically ill patients.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">Prospective cohort study.</AbstractText>
+<AbstractText Label="SETTING" NlmCategory="METHODS">Medical intensive care unit of a community teaching hospital.</AbstractText>
+<AbstractText Label="PATIENTS" NlmCategory="METHODS">Admitted critically ill patients.</AbstractText>
+<AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">We measured serial spot urine albumin-creatinine ratios in 104 critically ill patients, with a median age of 64.5 yrs and median Acute Physiology and Chronic Health Evaluation (APACHE) II and Sequential Organ Failure Assessment (SOFA) scores of 20.5 and 5.0, respectively. Sixty-nine percent of the patients had microalbuminuria or clinical proteinuria and 43.3% had an albumin-creatinine ratio &gt;/=100 mg/g at admission. The acuity of illness, being non-White, and having diabetes mellitus were independent predictors of albumin-creatinine ratio &gt;/=100 mg/g. The overall mortality rate was 26.9% (28/104). Patients with an albumin-creatinine ratio &gt;/=100 mg/g were 2.7 times as likely to die compared with those with an albumin-creatinine ratio &lt;100 mg/g, even after simultaneous adjustments for age, and APACHE II and SOFA scores (odds ratio, 2.7; 95% confidence interval, 1.1-7.2, p =.04). The association of albumin-creatinine ratio &gt;/=100 mg/g with death was consistent across age, ethnicity, renal function, acuity of illness, and comorbid conditions. Among survivors, patients with an albumin-creatinine ratio &gt;/=100 mg/g stayed approximately 5 days longer in the hospital (p =.0007). Overall, the albumin-creatinine ratio shared similar predictive characteristics with APACHE II and SOFA scores.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study confirms a high prevalence of microalbuminuria in critically ill patients and suggests that an albumin-creatinine ratio &gt;/=100 mg/g is an independent predictor of mortality and hospital stay.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Thorevska</LastName>
+<ForeName>Natalya</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Medicine, Bridgeport Hospital, Yale-New Haven Health, Bridgeport, CT, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sabahi</LastName>
+<ForeName>Ramin</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Upadya</LastName>
+<ForeName>Anupama</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Manthous</LastName>
+<ForeName>Constantine</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Amoateng-Adjepong</LastName>
+<ForeName>Yaw</ForeName>
+<Initials>Y</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Crit Care Med</MedlineTA>
+<NlmUniqueID>0355501</NlmUniqueID>
+<ISSNLinking>0090-3493</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>AYI8EX34EU</RegistryNumber>
+<NameOfSubstance UI="D003404">Creatinine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018806">APACHE</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000419">Albuminuria</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003404">Creatinine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016638">Critical Illness</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005919">Glomerular Filtration Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007902">Length of Stay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009102">Multiple Organ Failure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011507">Proteinuria</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>4</Month>
+<Day>12</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>5</Month>
+<Day>2</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>4</Month>
+<Day>12</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12682475</ArticleId>
+<ArticleId IdType="doi">10.1097/01.CCM.0000059316.90804.0B</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

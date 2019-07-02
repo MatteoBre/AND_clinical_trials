@@ -1,0 +1,174 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12958052</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>12</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1073-449X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>168</Volume>
+<Issue>10</Issue>
+<PubDate>
+<Year>2003</Year>
+<Month>Nov</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>American journal of respiratory and critical care medicine</Title>
+<ISOAbbreviation>Am. J. Respir. Crit. Care Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Reduction of sleep-disordered breathing after physostigmine.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1246-51</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The cholinesterase inhibitor physostigmine (PHYS) was investigated in a double-blind, placebo-controlled, randomized, crossover trial of 10 male patients with moderate to severe obstructive sleep apnea. PHYS (0.12 microg/minute/kg, 7-hour infusion) reduced mean apnea/hypopnea index (AHI) by 13.6 (95% confidence interval [CI], 2.2-25.1) corresponding to 21.4% (95% CI, -5.5 to 47.9) and increased minimum SaO2 by 8.7% (95% CI, -0.3 to 17.7) corresponding to 23.2% (95% CI, 4.8-41.3). During the last third of the night, coinciding with predicted plasma concentration steady state, non-REM sleep AHI decreased by 19.2 (95% CI, 0.1-38.3) or 14.9% (95% CI, -43.6 to 77.7) and REM AHI by 33.8 (95% CI, 13.7-54.0) or 67.5% (95% CI, 49.7-85.3). Mean total sleep time was reduced by 74 minutes (95% CI, 33.9-114.9), but patients with the least pronounced sleep shortening had the largest reduction of AHI (r = 0.73, p &lt; 0.02). The nocturnal decline in heart rate was reduced by PHYS. Moreover, resting (early-night placebo heart rate) was positively correlated with proportional reduction of REM apnea index (r = 0.69, p &lt; 0.02). Body mass index was negatively correlated with reduction of REM AHI (r = 0.77, p &lt; 0.02). This, predominantly REM-related, reduction of obstructive sleep apnea after PHYS may provide a new treatment option if the effects are maintained in long-term studies.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hedner</LastName>
+<ForeName>Jan</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Sleep Laboratory, Department of Pulmonary Medicine and Allergology, Sahlgrenska University Hospital, S-413 45 Göteborg, Sweden. jan.hedner@lungall.gu.se</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kraiczi</LastName>
+<ForeName>Holger</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peker</LastName>
+<ForeName>Yuksel</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Murphy</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2003</Year>
+<Month>09</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Respir Crit Care Med</MedlineTA>
+<NlmUniqueID>9421642</NlmUniqueID>
+<ISSNLinking>1073-449X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D002800">Cholinesterase Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9U1VM840SP</RegistryNumber>
+<NameOfSubstance UI="D010830">Physostigmine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002800">Cholinesterase Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010830">Physostigmine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017286">Polysomnography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012720">Severity of Illness Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020181">Sleep Apnea, Obstructive</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012895">Sleep, REM</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>9</Month>
+<Day>6</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>12</Month>
+<Day>24</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>9</Month>
+<Day>6</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12958052</ArticleId>
+<ArticleId IdType="doi">10.1164/rccm.200211-1344OC</ArticleId>
+<ArticleId IdType="pii">200211-1344OC</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

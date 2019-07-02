@@ -1,0 +1,139 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19162924</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>05</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>08</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1557-170X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>2008</Volume>
+<PubDate>
+<Year>2008</Year>
+</PubDate>
+</JournalIssue>
+<Title>Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference</Title>
+<ISOAbbreviation>Conf Proc IEEE Eng Med Biol Soc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>In vivo velocity and flow errors quantification by phase-contrast magnetic resonance imaging.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1377-80</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1109/IEMBS.2008.4649421</ELocationID>
+<Abstract>
+<AbstractText>Magnetic resonance imaging is a very efficient tool for assessing velocity and flow in the cardiovascular system under normal and pathological conditions. However, this technique still has some limitations that produce different type of errors. In this study, velocities and flow were measured in vivo using phase-contrast method to determine the optimal number of phases allowing the minimization of the errors. The effect of velocity encoding upsampling was also investigated. The results showed that a number of phases between 16-24 is a good compromise to accurately estimate both ejection and regurgitant flows. Furthermore, a time shift effect caused by velocity encoding upsampling was found and a corrective linear model was proposed. These considerations may reduce flow and velocity measurement errors in normal and pathological conditions.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Garcia</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Laval Hospital Research Center, Laval University, Quebec, Canada. Julio.Garcia@crhl.ulaval.ca</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kadem</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Larose</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pibarot</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Conf Proc IEEE Eng Med Biol Soc</MedlineTA>
+<NlmUniqueID>101243413</NlmUniqueID>
+<ISSNLinking>1557-170X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001021">Aortic Valve</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016477">Artifacts</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001783">Blood Flow Velocity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006321">Heart</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006350">Heart Valve Prosthesis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D007091">Image Processing, Computer-Assisted</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008955">Models, Cardiovascular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011651">Pulmonary Artery</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>1</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>1</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>5</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19162924</ArticleId>
+<ArticleId IdType="doi">10.1109/IEMBS.2008.4649421</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

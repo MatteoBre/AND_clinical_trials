@@ -1,0 +1,137 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21340529</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>08</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1573-7241</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>25</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Cardiovascular drugs and therapy</Title>
+<ISOAbbreviation>Cardiovasc Drugs Ther</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Clinical Trials Update AHA Congress 2010.</ArticleTitle>
+<Pagination>
+<MedlinePgn>69-76</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s10557-011-6285-9</ELocationID>
+<Abstract>
+<AbstractText>The clinical trials described in this article were presented at the Late Breaking Trials and the Clinical Science: Clinical Reports sessions of the American Heart Association Congress held in November 2010 in Chicago. The sessions and topics chosen for this article reflect the scope of interest of Cardiovascular Drugs and Therapy. The presentations should be considered preliminary, as further analyses may be done, which could alter the final publication of the results of these studies. PROTECT (ProBNP Outpatient Tailored Chronic Heart Failure Therapy) was designed to test the hypothesis that adjustment of intensity of chronic heart failure (HF) therapy on the basis of NT-proBNP plasma level monitoring would improve outcomes. The results provided some support of this concept, but needs further evaluation in larger, blinded trials. REVEAL (Reduction of Infarct Expansion and Ventricular Remodeling with erythropoietin after large myocardial infarctions) evaluated in the clinical setting of ischemia-reperfusion following STEMI that erythropoietin could salvage ischemic myocardium. The results did not show a reduction in infarct size, but, in contrast, an increase in adverse event rates in the erythropoietin group. GRAVITAS (Gauging Responsiveness with a VerifyNow assay-Impact on Thrombosis and Safety trial) investigated the effect of a standard vs. high maintenance clopidogrel dose in patients with stable myocardial ischemia or NSTEMI and drug-eluting stent insertion. Patients with high PRU values as determined by VerfyNow assay were randomized to 75 mg or 150 mg clopidogrel daily. The study did not show a significant difference in primary event rate between both groups. The Cholesterol Treatment Trialists' Collaboration Studies group evaluated the concept proposed in the JUPITER study that HDL levels on statin treatment may not provide useful prognostic information. The CTTC in a large sample size of statin-treated patients observed, on the contrary, a significantly increased risk of CV events, even in patients with low LDL cholesterol levels. DEFINE (Determining the Efficacy and Tolerability of CETP inhibition with Anacetrapib) evaluated possible safety aspects with the CETP inhibitor anacetrapib (increase in blood pressure). The study did not show adverse safety aspects, but significantly reduced LDL cholesterol and increased HDL cholesterol levels. ASSERT, a phase 2 dose-ranging study, investigated whether RVX-208 would increase Apo-A1 production. Apo-A1 may induce cholesterol efflux from macrophages and facilitate atherosclerosis regression. The study did not meet its primary endpoint, but significant prominent effects on lipids were found. ASCEND-HF was a large trial of nesiritide in &gt;7000 patients with acute heart failure. The study did not show convincing symptom benefit, but on the other hand did not show harmful effects of nesiritide. EMPHASIS-HF evaluated the long term effects of eplerenone in patients with mild (NYHA class II) heart failure and systolic dysfunction. The study was prematurely ended because of highly significant beneficial effects. CUPID (Calcium Up-regulation by Percutaneous administration of gene therapy In cardiac Disease) is the first human study with gene transfer of SERCA2a (AVV1/SERCA2a: Mydicar). In a small placebo-controlled dose-ranging study in advanced heart failure patients a multiple endpoint analysis provided positive effects of the highest dose on symptomatic, functional and structural efficacy endpoints without adverse effects.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Horowitz</LastName>
+<ForeName>John D</ForeName>
+<Initials>JD</Initials>
+<AffiliationInfo>
+<Affiliation>University of Adelaide, Woodville, Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenson</LastName>
+<ForeName>Robert S</ForeName>
+<Initials>RS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McMurray</LastName>
+<ForeName>John J V</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marx</LastName>
+<ForeName>Nikolaus</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Remme</LastName>
+<ForeName>Willem J</ForeName>
+<Initials>WJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016423">Congress</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cardiovasc Drugs Ther</MedlineTA>
+<NlmUniqueID>8712220</NlmUniqueID>
+<ISSNLinking>0920-3206</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D002317">Cardiovascular Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002317">Cardiovascular Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002318">Cardiovascular Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002986">Clinical Trials as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>2</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>2</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>8</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21340529</ArticleId>
+<ArticleId IdType="doi">10.1007/s10557-011-6285-9</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,178 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20105041</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>04</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>17</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1557-8593</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>12</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Diabetes technology &amp; therapeutics</Title>
+<ISOAbbreviation>Diabetes Technol. Ther.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>First-phase insulin secretion has limited impact on postprandial glycemia in subjects with type 2 diabetes: correlations between hyperglycemic glucose clamp and meal test.</ArticleTitle>
+<Pagination>
+<MedlinePgn>117-23</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1089/dia.2009.0103</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Lack of first-phase insulin (INS) secretion is regarded as causative for high postprandial glucose excursions in subjects with type 2 diabetes. We aimed to determine the impact of early INS secretion on postprandial glycemia.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Twenty subjects with type 2 diabetes (age 54 +/- 8 years, body mass index 28.7 +/- 2.7 kg/m(2) [mean +/- SD]) underwent a hyperglycemic glucose clamp and a meal test twice separated by a washout period of 4 weeks. Multiple regression analysis was used to identify determinants of postprandial glycemia.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">During hyperglycemic glucose clamps eight subjects showed a preserved first-phase INS secretion (P1+), whereas 12 subjects showed none (P1-). Both subject groups differed in fasting blood glucose (BG) (116 +/- 7 vs. 147 +/- 31 mg/dL, P = 0.011) and glycosylated hemoglobin (6.0 +/- 0.4 vs. 6.7 +/- 0.8, P = 0.041). Total INS secretory response during glucose clamps was higher in P1+ than P1- (INS-area under the concentration vs. time curve [AUC](0-120 min) 6.7 +/- 2.7 vs. 3.2 +/- 2.1 mU.min/mL; P = 0.006). During meal tests, however, INS-AUC(0-120 min) was similar between P1+ and P1-, whereas early INS secretion was still different (INS-AUC(0-60 min) 3.9 +/- 1.8 vs. 2.1 +/- 1.0 mU.min/mL; P = 0.031). Despite higher INS-AUC(0-60 min) in P1+, early postprandial BG was comparable between groups (BG-AUC(0-60 min) 1.5 +/- 0.5 vs. 1.6 +/- 0.6 g.min/dL; difference not significant). Multiple regression analyses showed no impact of first-phase INS secretion on postprandial glycemia, either in P1+ or in P1-. Nevertheless, in P1-, but not in P1+, postprandial glycemia was negatively correlated with INS sensitivity (R(2) = 0.83, P &lt; 0.001).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study, correlating results of hyperglycemic glucose clamps with meal tests, shows that a preserved first-phase INS secretion has only a limited impact on postprandial glucose excursions in a group of subjects in early-stage type 2 diabetes.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rave</LastName>
+<ForeName>Klaus</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Profil Institut für Stoffwechselforschung GmbH, 41460 Neuss, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sidharta</LastName>
+<ForeName>Patricia N</ForeName>
+<Initials>PN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dingemanse</LastName>
+<ForeName>Jasper</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heinemann</LastName>
+<ForeName>Lutz</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roggen</LastName>
+<ForeName>Kerstin</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Diabetes Technol Ther</MedlineTA>
+<NlmUniqueID>100889084</NlmUniqueID>
+<ISSNLinking>1520-9156</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019540">Area Under Curve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001786">Blood Glucose</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003924">Diabetes Mellitus, Type 2</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015309">Glucose Clamp Technique</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005951">Glucose Tolerance Test</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007328">Insulin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000078790">Insulin Secretion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019518">Postprandial Period</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>1</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>1</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>4</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20105041</ArticleId>
+<ArticleId IdType="doi">10.1089/dia.2009.0103</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

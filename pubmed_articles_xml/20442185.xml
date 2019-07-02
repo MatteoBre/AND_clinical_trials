@@ -1,0 +1,108 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20442185</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>05</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2010</Year>
+<Month>05</Month>
+<Day>05</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1472-0213</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>27</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Emergency medicine journal : EMJ</Title>
+<ISOAbbreviation>Emerg Med J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Emergency medicine: is there a future in suturing?</ArticleTitle>
+<Pagination>
+<MedlinePgn>411</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1136/emj.2009.073973</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kirtley</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Allison</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Emerg Med J</MedlineTA>
+<NlmUniqueID>100963089</NlmUniqueID>
+<ISSNLinking>1472-0205</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004635">Emergency Medicine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000193">education</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013502">General Surgery</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000193">education</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D013536">Suture Techniques</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20442185</ArticleId>
+<ArticleId IdType="pii">27/5/411-b</ArticleId>
+<ArticleId IdType="doi">10.1136/emj.2009.073973</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,310 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18777221</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>11</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1360-0451</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>20</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>AIDS care</Title>
+<ISOAbbreviation>AIDS Care</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Predictors of HIV disclosure to secondary partners and sexual risk behavior among a high-risk sample of HIV-positive MSM: results from six epicenters in the US.</ArticleTitle>
+<Pagination>
+<MedlinePgn>925-30</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/09540120701767265</ELocationID>
+<Abstract>
+<AbstractText>This study sought to identify predictors of HIV disclosure and serodiscordant unprotected anal intercourse (SDUAI) among HIV-positive men who have sex with men (MSM). Between January 2005 and April 2006, 675 HIV-positive MSM were recruited into the Positive Connections intervention trial held in six US cities with intentional over-sampling of HIV-positive MSM of Color (74%) and men engaging in unprotected anal intercourse (UAI) in the previous year. Baseline survey data showed 30 and 31%, respectively, of participants disclosed to none or some of their secondary sex partners in the last 90 days. Greater disclosure to secondary partners was associated with having fewer sexual partners, being extremely out as MSM, longer HIV diagnosis, knowledge of CD4 count, detectable viral load and being white. Disclosure to all secondary partners was associated with lower SDUAI. Recommendations for prevention for HIV-positive MSM include the promotion of serodisclosure to all secondary partners and increasing comfort with, and outness about, one's sexuality.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Simon Rosser</LastName>
+<ForeName>B R</ForeName>
+<Initials>BR</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Epidemiology and Community Health, University of Minnesota School of Public Health, Minneapolis, US. rosser@umn.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Horvath</LastName>
+<ForeName>K J</ForeName>
+<Initials>KJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hatfield</LastName>
+<ForeName>L A</ForeName>
+<Initials>LA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peterson</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jacoby</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stately</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 MH064412</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 MH064412-01A2</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>#MH064412</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>AIDS Care</MedlineTA>
+<NlmUniqueID>8915313</NlmUniqueID>
+<ISSNLinking>0954-0121</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>X</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000163">Acquired Immunodeficiency Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000635">transmission</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006679">HIV Seropositivity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000635">transmission</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007722">Health Knowledge, Attitudes, Practice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018451">Homosexuality, Male</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012044">Regression Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012650">Self Disclosure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012747">Sexual Partners</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014342">Truth Disclosure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047568">Unsafe Sex</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>12</Month>
+<Day>17</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18777221</ArticleId>
+<ArticleId IdType="pii">902169889</ArticleId>
+<ArticleId IdType="doi">10.1080/09540120701767265</ArticleId>
+<ArticleId IdType="pmc">PMC2597109</ArticleId>
+<ArticleId IdType="mid">NIHMS68785</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2001 May 1;27(1):79-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11404524</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Top HIV Med. 2004 Oct-Nov;12(4):109-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15516708</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Educ Prev. 2002 Jun;14(3 Suppl A):59-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12092938</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Sex Res. 2002 Aug;39(3):179-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12476265</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Care. 2003 Jun;15(3):379-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12745398</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Behav. 2003 Jun;7(2):143-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14586199</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2004 Jun 1;36(2):734-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15167293</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2005 Apr;19 Suppl 1:S87-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15838198</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Behav. 2005 Jun;9(2):155-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15933835</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Care. 2007 Apr;19(4):514-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17453592</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Homosex. 2008;55(2):185-203</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18982569</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2004 Oct 1;37 Suppl 2:S101-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15385906</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2004 Oct 1;37 Suppl 2:S119-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15385908</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Consult Clin Psychol. 1975 Apr;43(2):183-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1120828</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Health Psychol. 1997 Sep;16(5):458-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9302543</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Care. 1997 Oct;9(5):589-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9404400</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Care. 1998 Oct;10(5):599-610</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9828956</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Health Psychol. 1999 May;18(3):281-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10357509</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Sex Marital Ther. 2001 Jul-Sep;27(4):325-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11441516</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

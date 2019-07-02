@@ -1,0 +1,223 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20179328</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>09</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>09</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1552-6844</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>24</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Neurorehabilitation and neural repair</Title>
+<ISOAbbreviation>Neurorehabil Neural Repair</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Does cueing training improve physical activity in patients with Parkinson's disease?</ArticleTitle>
+<Pagination>
+<MedlinePgn>469-77</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1177/1545968309356294</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Patients with Parkinson's disease (PD) are encouraged to stay active to maintain their mobility. Ambulatory activity monitoring (AM) provides an objective way to determine type and amount of gait-related daily activities.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the effects of a home cueing training program on functional walking activity in PD.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">In a single-blind, randomized crossover trial, PD patients allocated to early intervention received cueing training for 3 weeks, whereas the late intervention group received training in the following 3 weeks. Training was applied at home, using a prototype cueing device. AM was applied at baseline, 3, 6, and 12 weeks in the patient's home, to record body movements. Postures and motions were classified as percentage of total time spent on (a) static activity, further specified as % sitting and % standing, and (b) % dynamic activity, further specified as % walking, % walking periods exceeding 5 seconds (W&gt;5s) and 10 seconds (W&gt;10s). Random coefficient analysis was applied.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 153 patients participated in this trial. Significant improvements were found for dynamic activity (beta= 4.46; P &lt; .01), static activity (beta=-3.34; P &lt; .01), walking (beta= 4.23; P &lt; .01), W&gt;5s (beta = 2.63; P &lt; .05), and W&gt;10s (beta = 2.90; P &lt; .01). All intervention effects declined significantly at 6 weeks follow-up.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Cueing training in PD patients' own home significantly improves the amount of walking as recorded by AM. Treatment effects reduced after the intervention period, pointing to the need for permanent cueing devices and follow-up cueing training.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lim</LastName>
+<ForeName>Inge</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Rehabilitation, VU University Medical Center, Amsterdam, the Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Wegen</LastName>
+<ForeName>Erwin</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jones</LastName>
+<ForeName>Diana</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rochester</LastName>
+<ForeName>Lynn</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nieuwboer</LastName>
+<ForeName>Alice</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Willems</LastName>
+<ForeName>Anne-Marie</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baker</LastName>
+<ForeName>Katherine</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hetherington</LastName>
+<ForeName>Vicki</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kwakkel</LastName>
+<ForeName>Gert</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>G0900686</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>02</Month>
+<Day>23</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Neurorehabil Neural Repair</MedlineTA>
+<NlmUniqueID>100892086</NlmUniqueID>
+<ISSNLinking>1545-9683</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003463">Cues</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007391">International Cooperation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018670">Monitoring, Ambulatory</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009043">Motor Activity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010300">Parkinson Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000534">rehabilitation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010507">Periodicity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D026741">Physical Therapy Modalities</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011597">Psychomotor Performance</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016037">Single-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20179328</ArticleId>
+<ArticleId IdType="pii">1545968309356294</ArticleId>
+<ArticleId IdType="doi">10.1177/1545968309356294</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,421 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23223100</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>02</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1526-7598</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>116</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Anesthesia and analgesia</Title>
+<ISOAbbreviation>Anesth. Analg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Validation of a stand-alone near-infrared spectroscopy system for monitoring cerebral autoregulation during cardiac surgery.</ArticleTitle>
+<Pagination>
+<MedlinePgn>198-204</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1213/ANE.0b013e318271fb10</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Individualizing arterial blood pressure (ABP) targets during cardiopulmonary bypass (CPB) based on cerebral blood flow (CBF) autoregulation monitoring may provide a more effective means for preventing cerebral hypoperfusion than the current standard of care. Autoregulation can be monitored in real time with transcranial Doppler (TCD). We have previously demonstrated that near-infrared spectroscopy (NIRS)-derived regional cerebral oxygen saturation (rS(c)O(2)) provides a clinically suitable surrogate of CBF for autoregulation monitoring. The purpose of this study was to determine the accuracy of a stand-alone "plug-and-play" investigational system for autoregulation monitoring that uses a commercially available NIRS monitor with TCD methods.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">TCD monitoring of middle cerebral artery CBF velocity and NIRS monitoring were performed in 70 patients during CPB. Indices of autoregulation were computed by both a personal computer-based system and an investigational prototype NIRS-based monitor. A moving linear correlation coefficient between slow waves of ABP and CBF velocity (mean velocity index [Mx]) and between ABP and rS(c)O(2) (cerebral oximetry index [COx]) were calculated. When CBF is autoregulated, there is no correlation between CBF and ABP; when CBF is dysregulated, Mx and COx approach 1 (i.e., CBF and ABP are correlated). Linear regression and bias analysis were performed between time-averaged values of Mx and COx derived from the personal computer-based system and from COx measured with the prototype monitor. Values for Mx and COx were categorized in 5 mm Hg bins of ABP for each patient. The lower limit of CBF autoregulation was defined as the ABP where Mx incrementally increased to ≥0.4.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">There was correlation and good agreement between COx derived from the prototype monitor and Mx (r = 0.510; 95% confidence interval, 0.414-0.595; P &lt; 0.001; bias, -0.07 ± 0.19). The correlation and bias between the personal computer-based COx and the COx from the prototype NIRS monitor were r = 0.957 (95% confidence interval, 0.945-0.966; P &lt; 0.001 and 0.06 ± 0.06, respectively). The average ABP at the lower limit of autoregulation was 63 ± 11 mm Hg (95% prediction interval, 52-74 mm Hg). Although the mean ABP at the COx-determined lower limit of autoregulation determined with the prototype monitor was statistically different from that determined by Mx (59 ± 9 mm Hg; 95% prediction interval, 50-68 mm Hg; P = 0.026), the difference was not likely clinically meaningful.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Monitoring CBF autoregulation with an investigational stand-alone NIRS monitor is correlated and in good agreement with TCD-based methods. The availability of such a device would allow widespread autoregulation monitoring as a means of individualizing ABP targets during CPB.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ono</LastName>
+<ForeName>Masahiro</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cardiac Surgery, Department of Surgery, The Johns Hopkins University School of Medicine, Baltimore, MD 21287, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zheng</LastName>
+<ForeName>Yueying</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Joshi</LastName>
+<ForeName>Brijen</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sigl</LastName>
+<ForeName>Jeffrey C</ForeName>
+<Initials>JC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hogue</LastName>
+<ForeName>Charles W</ForeName>
+<Initials>CW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00769691</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 HL092259</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01HL092259</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D023361">Validation Studies</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Anesth Analg</MedlineTA>
+<NlmUniqueID>1310650</NlmUniqueID>
+<ISSNLinking>0003-2999</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D062186">Arterial Pressure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001783">Blood Flow Velocity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006348">Cardiac Surgical Procedures</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002560">Cerebrovascular Circulation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016001">Confidence Intervals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006706">Homeostasis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016343">Monitoring, Intraoperative</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000295">instrumentation</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010092">Oximetry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018401">Sample Size</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012984">Software</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019265">Spectroscopy, Near-Infrared</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017585">Ultrasonography, Doppler, Transcranial</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23223100</ArticleId>
+<ArticleId IdType="pii">ANE.0b013e318271fb10</ArticleId>
+<ArticleId IdType="doi">10.1213/ANE.0b013e318271fb10</ArticleId>
+<ArticleId IdType="pmc">PMC3800185</ArticleId>
+<ArticleId IdType="mid">NIHMS497234</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Stroke. 2007 Oct;38(10):2818-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17761921</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesthesiology. 2007 Aug;107(2):213-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17667564</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurocrit Care. 2009;10(3):373-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19127448</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesth Analg. 2010 Feb 1;110(2):321-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20008083</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2010 Sep;41(9):1963-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20651272</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2010 Sep;41(9):1951-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20651274</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurotrauma. 2010 Nov;27(11):1951-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20812789</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesth Analg. 2011 May;112(5):1048-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21474663</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesth Analg. 2012 Mar;114(3):503-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22104067</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2012 Aug;40(8):2456-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22622398</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Anaesth. 2012 Sep;109(3):391-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22661748</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Thorac Cardiovasc Surg. 1990 Oct;2(4):300-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2091791</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2002 Apr;30(4):733-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11940737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 2002 May;72(5):583-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11971041</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Monit Comput. 2000;16(3):191-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12578103</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2004 Jun;35(6):1381-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15087557</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurosurgery. 2004 Jul;55(1):63-7; discussion 67-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15214974</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br Med J. 1973 Mar 3;1(5852):507-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4692673</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 1980 Aug;37(8):489-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6774700</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1983 Apr;33(4):391-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6403889</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1986 Feb 8;1(8476):307-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2868172</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 1992 Jul;23(7):988-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1615550</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesth Analg. 1993 Apr;76(4):849-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8466029</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cereb Blood Flow Metab. 1994 May;14(3):510-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8163594</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 1995 Jul;60(1):165-9; discussion 169-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7598581</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosurg Anesthesiol. 1996 Oct;8(4):280-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8884624</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1996 Nov 1;94(9 Suppl):II353-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8901774</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesthesiology. 1997 Jun;86(6):1431-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9197320</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Meas. 1998 Aug;19(3):305-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9735883</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2006 Mar;131(3):540-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16515903</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2006 Sep;37(9):2306-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16857947</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesth Analg. 2007 Jan;104(1):51-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17179242</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2007 Feb;38(2):402-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17218609</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2009 May;40(5):1820-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19286593</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

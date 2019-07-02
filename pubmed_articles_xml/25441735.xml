@@ -1,0 +1,202 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25441735</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>07</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">2245-1919</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>61</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Danish medical journal</Title>
+<ISOAbbreviation>Dan Med J</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Procalcitonin and C-reactive protein as markers of bacterial infection in patients with solid tumours.</ArticleTitle>
+<Pagination>
+<MedlinePgn>A4984</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">The diagnosis of bacterial infections in patients with solid tumours can be difficult as both the tumour and its treatment can cause symptoms and signs similar to those of infections. Many patients with solid tumours therefore receive antibiotic treatment without having a bacterial infection. In this prospective study, we wanted to investigate the value of procalcitonin (PCT) compared with C-reactive protein (CRP) as an indicator of bacterial infection in adult patients with solid tumours.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A total of 41 patients with solid tumours admitted to hospital due to fever or clinical signs of infection had their PCT and CRP levels measured on and during admission. The patients were classified as having a microbio-logically verified infection, a radiologically verified infection or no infection. PCT and CRP were also measured in a control group of 34 out-patients with solid tumours, but with no signs of infection.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 41 admitted patients, 25 were classified as having an infection (either microbiologically or radioo-gically verified). Among the 25 cases with infection, PCT was within the normal range in 11 cases and only elevated in 14. As nearly half of the patients with infection had PCT within the normal range, PCT is not suited to exclude an infection. CRP was elevated in 20 patients out of the 25.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">PCT within the normal range cannot exclude an infection and does not appear to be superior to CRP to exclude an infection in patients with solid tumours.</AbstractText>
+<AbstractText Label="FUNDING" NlmCategory="BACKGROUND">not relevant.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">Clinicaltrials.Gov, NCT01227109.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Diness</LastName>
+<ForeName>Laura V</ForeName>
+<Initials>LV</Initials>
+<AffiliationInfo>
+<Affiliation>Onkologisk Afdeling, Herlev Hospital, Herlev Ringvej 75, 2730 Herlev, Denmark. idiness@yahoo.dk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Maraldo</LastName>
+<ForeName>Maja V</ForeName>
+<Initials>MV</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mortensen</LastName>
+<ForeName>Christiane E</ForeName>
+<Initials>CE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mellemgaard</LastName>
+<ForeName>Anders</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Larsen</LastName>
+<ForeName>Finn O</ForeName>
+<Initials>FO</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT01227109</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Denmark</Country>
+<MedlineTA>Dan Med J</MedlineTA>
+<NlmUniqueID>101576205</NlmUniqueID>
+<ISSNLinking>2245-1919</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C000606589">CALCA protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011498">Protein Precursors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-12-9</RegistryNumber>
+<NameOfSubstance UI="D002116">Calcitonin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-41-4</RegistryNumber>
+<NameOfSubstance UI="D002097">C-Reactive Protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>JHB2QIZ69Z</RegistryNumber>
+<NameOfSubstance UI="D015740">Calcitonin Gene-Related Peptide</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001424">Bacterial Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002097">C-Reactive Protein</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002116">Calcitonin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015740">Calcitonin Gene-Related Peptide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011498">Protein Precursors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25441735</ArticleId>
+<ArticleId IdType="pii">A4984</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

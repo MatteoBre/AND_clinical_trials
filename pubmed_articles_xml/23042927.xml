@@ -1,0 +1,497 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23042927</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>10</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1936-959X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>34</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>AJNR. American journal of neuroradiology</Title>
+<ISOAbbreviation>AJNR Am J Neuroradiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Assessment of disease severity in late infantile neuronal ceroid lipofuscinosis using multiparametric MR imaging.</ArticleTitle>
+<Pagination>
+<MedlinePgn>884-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3174/ajnr.A3297</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">LINCL is a uniformly fatal lysosomal storage disease resulting from mutations in the CLN2 gene that encodes for tripeptidyl peptidase 1, a lysosomal enzyme necessary for the degradation of products of cellular metabolism. With the goal of developing quantitative noninvasive imaging biomarkers sensitive to disease progression, we evaluated a 5-component MR imaging metric and tested its correlation with a clinically derived disease-severity score.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">MR imaging parameters were measured across the brain, including quantitative measures of the ADC, FA, nuclear spin-spin relaxation times (T2), volume percentage of CSF (%CSF), and NAA/Cr ratios. Thirty MR imaging datasets were prospectively acquired from 23 subjects with LINCL (2.5-8.4 years of age; 8 male/15 female). Whole-brain histograms were created, and the mode and mean values of the histograms were used to characterize disease severity.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Correlation of single MR imaging parameters against the clinical disease-severity scale yielded linear regressions with R2 ranging from 0.25 to 0.70. Combinations of the 5 biomarkers were evaluated by using PCA. The best combination included ADC, %CSF, and NAA/Cr (R2=0.76, P&lt;.001).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The multiparametric disease-severity score obtained from the combination of ADC, %CSF, and NAA/Cr whole-brain MR imaging techniques provided a robust measure of disease severity, which may be useful in clinical therapeutic trials of LINCL in which an objective assessment of therapeutic response is desired.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Dyke</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiology, Weill Cornell Medical College, New York, New York 10021, USA. jpd2001@med.cornell.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sondhi</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Voss</LastName>
+<ForeName>H U</ForeName>
+<Initials>HU</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shungu</LastName>
+<ForeName>D C</ForeName>
+<Initials>DC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mao</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yohay</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Worgall</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hackett</LastName>
+<ForeName>N R</ForeName>
+<Initials>NR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hollmann</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yeotsas</LastName>
+<ForeName>M E</ForeName>
+<Initials>ME</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jeong</LastName>
+<ForeName>A L</ForeName>
+<Initials>AL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Van de Graaf</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cao</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaminsky</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heier</LastName>
+<ForeName>L A</ForeName>
+<Initials>LA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rudser</LastName>
+<ForeName>K D</ForeName>
+<Initials>KD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Souweidane</LastName>
+<ForeName>M M</ForeName>
+<Initials>MM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaplitt</LastName>
+<ForeName>M G</ForeName>
+<Initials>MG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kosofsky</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Crystal</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ballon</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>U54 NS065768</GrantID>
+<Acronym>NS</Acronym>
+<Agency>NINDS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024996</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1RR024996</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 TR000114</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 NS061848</GrantID>
+<Acronym>NS</Acronym>
+<Agency>NINDS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U54NS065768</GrantID>
+<Acronym>NS</Acronym>
+<Agency>NINDS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01NS061848</GrantID>
+<Acronym>NS</Acronym>
+<Agency>NINDS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 TR000457</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>10</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>AJNR Am J Neuroradiol</MedlineTA>
+<NlmUniqueID>8003708</NlmUniqueID>
+<ISSNLinking>0195-6108</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.-</RegistryNumber>
+<NameOfSubstance UI="D057057">Serine Proteases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.11.-</RegistryNumber>
+<NameOfSubstance UI="D000626">Aminopeptidases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.14.-</RegistryNumber>
+<NameOfSubstance UI="D004152">Dipeptidyl-Peptidases and Tripeptidyl-Peptidases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.14.9</RegistryNumber>
+<NameOfSubstance UI="C083762">tripeptidyl-peptidase 1</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<SupplMeshList>
+<SupplMeshName Type="Disease" UI="C566857">Ceroid Lipofuscinosis, Neuronal, 2</SupplMeshName>
+</SupplMeshList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000626">Aminopeptidases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016477">Artifacts</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016208">Databases, Factual</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004152">Dipeptidyl-Peptidases and Tripeptidyl-Peptidases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009472">Neuronal Ceroid-Lipofuscinoses</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057057">Serine Proteases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012720">Severity of Illness Index</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>10</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>10</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23042927</ArticleId>
+<ArticleId IdType="pii">ajnr.A3297</ArticleId>
+<ArticleId IdType="doi">10.3174/ajnr.A3297</ArticleId>
+<ArticleId IdType="pmc">PMC3644851</ArticleId>
+<ArticleId IdType="mid">NIHMS463644</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Biochim Biophys Acta. 2009 Apr;1793(4):697-709</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19084560</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ultrastruct Pathol. 2006 Sep-Oct;30(5):373-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17090516</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2010 Jun 1;74(22):1814-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20513818</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem Soc Trans. 2010 Dec;38(6):1484-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21118112</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Magn Reson Imaging. 2011 Feb;33(2):296-305</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21274970</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prostate Cancer Prostatic Dis. 2011 Sep;14(3):232-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21423266</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Phys. 2007 Mar;34(3):1053-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17441252</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiology. 2000 Sep;216(3):672-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10966694</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2007 Aug 7;69(6):521-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17679671</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AJNR Am J Neuroradiol. 2007 Aug;28(7):1232-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17698521</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Gene Ther. 2008 May;19(5):463-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18473686</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2009 Mar;45(1 Suppl):S173-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19059349</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroradiology. 2009 Apr;51(4):253-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19132355</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 2001 Nov;58(11):1793-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11708986</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Magn Reson Imaging. 2002 Feb;15(2):137-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11836768</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Genet. 2002 Nov 1;112(4):347-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12376936</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2004;23 Suppl 1:S208-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15501092</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Norm Pathol Anat (Stuttg). 1976;32:1-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">63941</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Radiology. 1993 Jul;188(1):277-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8511313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AJNR Am J Neuroradiol. 1998 Aug;19(7):1373-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9726485</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochim Biophys Acta. 1999 Jan 11;1429(2):496-500</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9989235</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Genet. 1999 Jun;64(6):1511-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10330339</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 1999 Aug;56(8):919-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10448796</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Gene Ther. 2004 Nov;15(11):1131-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15610613</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2005 Jul 12;65(1):119-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16009896</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Magn Reson Imaging. 2009 Sep;27(7):895-906</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19520539</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

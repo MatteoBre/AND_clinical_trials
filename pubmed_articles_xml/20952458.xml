@@ -1,0 +1,621 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20952458</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>01</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1535-7228</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>167</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>The American journal of psychiatry</Title>
+<ISOAbbreviation>Am J Psychiatry</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Association of mouse Dlg4 (PSD-95) gene deletion and human DLG4 gene variation with phenotypes relevant to autism spectrum disorders and Williams' syndrome.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1508-17</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1176/appi.ajp.2010.10040484</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Research is increasingly linking autism spectrum disorders and other neurodevelopmental disorders to synaptic abnormalities ("synaptopathies"). PSD-95 (postsynaptic density-95, DLG4) orchestrates protein-protein interactions at excitatory synapses and is a major functional bridge interconnecting a neurexinneuroligin-SHANK pathway implicated in autism spectrum disorders.</AbstractText>
+<AbstractText Label="METHOD" NlmCategory="METHODS">The authors characterized behavioral, dendritic, and molecular phenotypic abnormalities relevant to autism spectrum disorders in mice with PSD-95 deletion (Dlg4⁻(/)⁻). The data from mice led to the identification of single-nucleotide polymorphisms (SNPs) in human DLG4 and the examination of associations between these variants and neural signatures of Williams' syndrome in a normal population, using functional and structural neuroimaging.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Dlg4⁻(/)⁻ showed increased repetitive behaviors, abnormal communication and social behaviors, impaired motor coordination, and increased stress reactivity and anxiety-related responses. Dlg4⁻(/)⁻ had subtle dysmorphology of amygdala dendritic spines and altered forebrain expression of various synaptic genes, including Cyln2, which regulates cytoskeletal dynamics and is a candidate gene for Williams' syndrome. A signifi-cant association was observed between variations in two human DLG4 SNPs and reduced intraparietal sulcus volume and abnormal cortico-amygdala coupling, both of which characterize Williams' syndrome.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These findings demonstrate that DLG4 gene disruption in mice produces a complex range of behavioral and molecular abnormalities relevant to autism spectrum disorders and Williams' syndrome. The study provides an initial link between human DLG4 gene variation and key neural endophenotypes of Williams' syndrome and perhaps corticoamygdala regulation of emotional and social processes more generally.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Feyder</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Section on Behavioral Science and Genetics, Laboratory for Integrative Neuroscience, National Institute on Alcoholism and Alcohol Abuse, Rockville, MD 20852-9411, USA. michael.feyder@ki.se</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Karlsson</LastName>
+<ForeName>Rose-Marie</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mathur</LastName>
+<ForeName>Poonam</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lyman</LastName>
+<ForeName>Matthew</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bock</LastName>
+<ForeName>Roland</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Momenan</LastName>
+<ForeName>Reza</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Munasinghe</LastName>
+<ForeName>Jeeva</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scattoni</LastName>
+<ForeName>Maria Luisa</ForeName>
+<Initials>ML</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ihne</LastName>
+<ForeName>Jessica</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Camp</LastName>
+<ForeName>Marguerite</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Graybeal</LastName>
+<ForeName>Carolyn</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Strathdee</LastName>
+<ForeName>Douglas</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Begg</LastName>
+<ForeName>Alison</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alvarez</LastName>
+<ForeName>Veronica A</ForeName>
+<Initials>VA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kirsch</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rietschel</LastName>
+<ForeName>Marcella</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cichon</LastName>
+<ForeName>Sven</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Walter</LastName>
+<ForeName>Henrik</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meyer-Lindenberg</LastName>
+<ForeName>Andreas</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grant</LastName>
+<ForeName>Seth G N</ForeName>
+<Initials>SG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holmes</LastName>
+<ForeName>Andrew</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>ZIA AA000411-07</GrantID>
+<Acronym>NULL</Acronym>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>ZIA AA000421-02</GrantID>
+<Acronym>NULL</Acronym>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>ZIA AA000421-03</GrantID>
+<Acronym>NULL</Acronym>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>15</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Psychiatry</MedlineTA>
+<NlmUniqueID>0370512</NlmUniqueID>
+<ISSNLinking>0002-953X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C501444">DLG4 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000076122">Disks Large Homolog 4 Protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C501447">Dlg4 protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D047908">Intracellular Signaling Peptides and Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D009419">Nerve Tissue Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.4.8</RegistryNumber>
+<NameOfSubstance UI="D051528">Guanylate Kinases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000679">Amygdala</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000648">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001522">Behavior, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002659">Child Development Disorders, Pervasive</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049229">Dendritic Spines</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000648">ultrastructure</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000076122">Disks Large Homolog 4 Protein</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017353">Gene Deletion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014644">Genetic Variation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051528">Guanylate Kinases</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047908">Intracellular Signaling Peptides and Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008565">Membrane Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018345">Mice, Knockout</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009419">Nerve Tissue Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009434">Neural Pathways</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010296">Parietal Lobe</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010641">Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016548">Prosencephalon</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018980">Williams Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>1</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20952458</ArticleId>
+<ArticleId IdType="pii">appi.ajp.2010.10040484</ArticleId>
+<ArticleId IdType="doi">10.1176/appi.ajp.2010.10040484</ArticleId>
+<ArticleId IdType="pmc">PMC3146008</ArticleId>
+<ArticleId IdType="mid">NIHMS302749</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Drug News Perspect. 2004 May;17(4):251-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15334174</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Genet. 2004 Aug;75(2):318-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15185169</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1998 Dec 3;396(6710):433-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9853749</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1962 Dec;26:1235-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13967885</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1961 Dec;24:1311-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14007182</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ment Retard Dev Disabil Res Rev. 2004;10(4):248-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15666335</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Neurosci. 2005 Jun;8(6):828-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15880108</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Cogn Sci. 2006 Apr;10(4):182-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16530463</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Neurosci. 2006 May;7(5):380-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16760918</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2007 Mar;39(3):319-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17322880</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2007 Mar 7;27(10):2673-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17344405</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain Res. 2007 Apr 6;1140:51-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16499884</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Psychiatry. 2007 Jun;12(6):581-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17264841</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Annu Rev Neurosci. 2007;30:79-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17280523</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2007 Oct 5;318(5847):71-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17823315</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuropsychopharmacology. 2008 Jan;33(1):84-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17940551</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Psychopathol. 2008 Winter;20(1):1-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18211726</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hum Genet. 2008 Feb;82(2):477-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18252227</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2008 Feb 5;105(5):1710-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18227507</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2008 Feb 13;28(7):1697-708</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18272690</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Brain Behav. 2008 Mar;7(2):152-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17559418</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurobiol Dis. 2008 Jun;30(3):303-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18378158</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2008 Jul 11;321(5886):218-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18621663</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2008 Oct 16;455(7215):903-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18923512</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 2008 Dec 10;60(5):832-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19081378</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Autism Res. 2008 Jun;1(3):147-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19360662</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sci Signal. 2009;2(68):ra19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19401593</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2009 May 1;324(5927):605</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19407193</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Brain Behav. 2009 Jun;8(4):416-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19243448</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Neurosci. 2009 Jul;32(7):402-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19541375</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2009 Oct 20;106(42):17998-8003</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19822762</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO Mol Med. 2009 Apr;1(1):50-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20049703</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuropsychopharmacology. 2010 Mar;35(4):976-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20032969</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2010 Feb 10;30(6):2115-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20147539</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Autism Dev Disord. 2010 Oct;40(10):1227-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20195737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurosci. 2000 Jun 15;20(12):4524-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10844022</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2001 Jun 19;98(13):7101-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11416194</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Genet. 2001 Oct;38(10):723-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11594344</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2002 Jun;16(2):465-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12030832</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2002 Sep;17(1):317-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12482086</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioessays. 2004 Feb;26(2):141-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14745832</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 2004 Feb 19;41(4):625-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14980210</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biol Psychiatry. 2004 Jun 15;55(12):1121-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15184030</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Neurosci. 2004 Oct;5(10):771-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15378037</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

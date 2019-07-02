@@ -1,0 +1,2469 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">25238345</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>05</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>09</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1079-7114</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>113</Volume>
+<Issue>10</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Sep</Month>
+<Day>05</Day>
+</PubDate>
+</JournalIssue>
+<Title>Physical review letters</Title>
+<ISOAbbreviation>Phys. Rev. Lett.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Observation of high-energy astrophysical neutrinos in three years of IceCube data.</ArticleTitle>
+<Pagination>
+<MedlinePgn>101101</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A search for high-energy neutrinos interacting within the IceCube detector between 2010 and 2012 provided the first evidence for a high-energy neutrino flux of extraterrestrial origin. Results from an analysis using the same methods with a third year (2012-2013) of data from the complete IceCube detector are consistent with the previously reported astrophysical flux in the 100 TeV-PeV range at the level of 10(-8)  GeV cm-2 s-1 sr-1 per flavor and reject a purely atmospheric explanation for the combined three-year data at 5.7σ. The data are consistent with expectations for equal fluxes of all three neutrino flavors and with isotropic arrival directions, suggesting either numerous or spatially extended sources. The three-year data set, with a live time of 988 days, contains a total of 37 neutrino candidate events with deposited energies ranging from 30 to 2000 TeV. The 2000-TeV event is the highest-energy neutrino interaction ever observed.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Aartsen</LastName>
+<ForeName>M G</ForeName>
+<Initials>MG</Initials>
+<AffiliationInfo>
+<Affiliation>School of Chemistry &amp; Physics, University of Adelaide, Adelaide, South Australia 5005 Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ackermann</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Adams</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Canterbury, Private Bag 4800, Christchurch, New Zealand.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aguilar</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Département de physique nucléaire et corpusculaire, Université de Genève, CH-1211 Genève, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ahlers</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ahrens</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Oskar Klein Centre and Department of Physics, Stockholm University, SE-10691 Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Altmann</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Erlangen Centre for Astroparticle Physics, Friedrich-Alexander-Universität Erlangen-Nürnberg, D-91058 Erlangen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arguelles</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arlen</LastName>
+<ForeName>T C</ForeName>
+<Initials>TC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Auffenberg</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bai</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, South Dakota School of Mines and Technology, Rapid City, South Dakota 57701, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barwick</LastName>
+<ForeName>S W</ForeName>
+<Initials>SW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of California, Irvine, California 92697, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baum</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Physics, University of Mainz, Staudinger Weg 7, D-55099 Mainz, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beatty</LastName>
+<ForeName>J J</ForeName>
+<Initials>JJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Center for Cosmology and Astro-Particle Physics, Ohio State University, Columbus, Ohio 43210, USA and Department of Astronomy, Ohio State University, Columbus, Ohio 43210, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Becker Tjus</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Fakultät für Physik &amp; Astronomie, Ruhr-Universität Bochum, D-44780 Bochum, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Becker</LastName>
+<ForeName>K-H</ForeName>
+<Initials>KH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>BenZvi</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Berghaus</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Berley</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bernardini</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bernhard</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>T.U. Munich, D-85748 Garching, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Besson</LastName>
+<ForeName>D Z</ForeName>
+<Initials>DZ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Kansas, Lawrence, Kansas 66045, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Binder</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of California, Berkeley, California 94720, USA and Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bindig</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bissok</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blaufuss</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blumenthal</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boersma</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, Uppsala University, Box 516, S-75120 Uppsala, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bohm</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Oskar Klein Centre and Department of Physics, Stockholm University, SE-10691 Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bose</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Sungkyunkwan University, Suwon 440-746, Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Böser</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Physikalisches Institut, Universität Bonn, Nussallee 12, D-53115 Bonn, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Botner</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, Uppsala University, Box 516, S-75120 Uppsala, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brayeur</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Vrije Universiteit Brussel, Dienst ELEM, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bretz</LastName>
+<ForeName>H-P</ForeName>
+<Initials>HP</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Canterbury, Private Bag 4800, Christchurch, New Zealand.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Casey</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>School of Physics and Center for Relativistic Astrophysics, Georgia Institute of Technology, Atlanta, Georgia 30332, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Casier</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Vrije Universiteit Brussel, Dienst ELEM, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chirkin</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Christov</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Département de physique nucléaire et corpusculaire, Université de Genève, CH-1211 Genève, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Christy</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clark</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Toronto, Toronto, Ontario M5S 1A7, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Classen</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Erlangen Centre for Astroparticle Physics, Friedrich-Alexander-Universität Erlangen-Nürnberg, D-91058 Erlangen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clevermann</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, TU Dortmund University, D-44221 Dortmund, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Coenders</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>T.U. Munich, D-85748 Garching, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cowen</LastName>
+<ForeName>D F</ForeName>
+<Initials>DF</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Astronomy and Astrophysics, Pennsylvania State University, University Park, Pennsylvania 16802, USA and Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cruz Silva</LastName>
+<ForeName>A H</ForeName>
+<Initials>AH</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Danninger</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Oskar Klein Centre and Department of Physics, Stockholm University, SE-10691 Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Daughhetee</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>School of Physics and Center for Relativistic Astrophysics, Georgia Institute of Technology, Atlanta, Georgia 30332, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davis</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Center for Cosmology and Astro-Particle Physics, Ohio State University, Columbus, Ohio 43210, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Day</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>de André</LastName>
+<ForeName>J P A M</ForeName>
+<Initials>JP</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>De Clercq</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Vrije Universiteit Brussel, Dienst ELEM, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>De Ridder</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Gent, B-9000 Gent, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Desiati</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Vries</LastName>
+<ForeName>K D</ForeName>
+<Initials>KD</Initials>
+<AffiliationInfo>
+<Affiliation>Vrije Universiteit Brussel, Dienst ELEM, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>de With</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Physik, Humboldt-Universität zu Berlin, D-12489 Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>DeYoung</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Díaz-Vélez</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunkman</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eagan</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eberhardt</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Physics, University of Mainz, Staudinger Weg 7, D-55099 Mainz, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eichmann</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Fakultät für Physik &amp; Astronomie, Ruhr-Universität Bochum, D-44780 Bochum, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eisch</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Euler</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, Uppsala University, Box 516, S-75120 Uppsala, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Evenson</LastName>
+<ForeName>P A</ForeName>
+<Initials>PA</Initials>
+<AffiliationInfo>
+<Affiliation>Bartol Research Institute and Department of Physics and Astronomy, University of Delaware, Newark, Delaware 19716, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fadiran</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fazely</LastName>
+<ForeName>A R</ForeName>
+<Initials>AR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Southern University, Baton Rouge, Louisiana 70813, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fedynitch</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Fakultät für Physik &amp; Astronomie, Ruhr-Universität Bochum, D-44780 Bochum, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feintzeig</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Felde</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feusels</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Gent, B-9000 Gent, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Filimonov</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of California, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Finley</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Oskar Klein Centre and Department of Physics, Stockholm University, SE-10691 Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fischer-Wasels</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Flis</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Oskar Klein Centre and Department of Physics, Stockholm University, SE-10691 Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Franckowiak</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Physikalisches Institut, Universität Bonn, Nussallee 12, D-53115 Bonn, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Frantzen</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, TU Dortmund University, D-44221 Dortmund, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fuchs</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, TU Dortmund University, D-44221 Dortmund, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gaisser</LastName>
+<ForeName>T K</ForeName>
+<Initials>TK</Initials>
+<AffiliationInfo>
+<Affiliation>Bartol Research Institute and Department of Physics and Astronomy, University of Delaware, Newark, Delaware 19716, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gallagher</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Astronomy, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gerhardt</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of California, Berkeley, California 94720, USA and Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gier</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gladstone</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Glüsenkamp</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goldschmidt</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Golup</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Vrije Universiteit Brussel, Dienst ELEM, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gonzalez</LastName>
+<ForeName>J G</ForeName>
+<Initials>JG</Initials>
+<AffiliationInfo>
+<Affiliation>Bartol Research Institute and Department of Physics and Astronomy, University of Delaware, Newark, Delaware 19716, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Goodman</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Góra</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grandmont</LastName>
+<ForeName>D T</ForeName>
+<Initials>DT</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Alberta, Edmonton, Alberta T6G 2E1, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grant</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Alberta, Edmonton, Alberta T6G 2E1, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gretskov</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Groh</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Groß</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>T.U. Munich, D-85748 Garching, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ha</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of California, Berkeley, California 94720, USA and Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haack</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haj Ismail</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Gent, B-9000 Gent, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hallen</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hallgren</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, Uppsala University, Box 516, S-75120 Uppsala, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Halzen</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hanson</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Université Libre de Bruxelles, Science Faculty CP230, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hebecker</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Physikalisches Institut, Universität Bonn, Nussallee 12, D-53115 Bonn, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heereman</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Université Libre de Bruxelles, Science Faculty CP230, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heinen</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Helbing</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hellauer</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hellwig</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hickford</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Canterbury, Private Bag 4800, Christchurch, New Zealand.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hill</LastName>
+<ForeName>G C</ForeName>
+<Initials>GC</Initials>
+<AffiliationInfo>
+<Affiliation>School of Chemistry &amp; Physics, University of Adelaide, Adelaide, South Australia 5005 Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hoffman</LastName>
+<ForeName>K D</ForeName>
+<Initials>KD</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hoffmann</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Homeier</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Physikalisches Institut, Universität Bonn, Nussallee 12, D-53115 Bonn, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hoshina</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huelsnitz</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hulth</LastName>
+<ForeName>P O</ForeName>
+<Initials>PO</Initials>
+<AffiliationInfo>
+<Affiliation>Oskar Klein Centre and Department of Physics, Stockholm University, SE-10691 Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hultqvist</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Oskar Klein Centre and Department of Physics, Stockholm University, SE-10691 Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hussain</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Bartol Research Institute and Department of Physics and Astronomy, University of Delaware, Newark, Delaware 19716, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ishihara</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Chiba University, Chiba 263-8522, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jacobi</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jacobsen</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jagielski</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Japaridze</LastName>
+<ForeName>G S</ForeName>
+<Initials>GS</Initials>
+<AffiliationInfo>
+<Affiliation>CTSPS, Clark-Atlanta University, Atlanta, Georgia 30314, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jero</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jlelati</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Gent, B-9000 Gent, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jurkovic</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>T.U. Munich, D-85748 Garching, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaminsky</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kappes</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Erlangen Centre for Astroparticle Physics, Friedrich-Alexander-Universität Erlangen-Nürnberg, D-91058 Erlangen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Karg</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Karle</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kauer</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kelley</LastName>
+<ForeName>J L</ForeName>
+<Initials>JL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kheirandish</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kiryluk</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, Stony Brook University, Stony Brook, New York 11794-3800, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kläs</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Klein</LastName>
+<ForeName>S R</ForeName>
+<Initials>SR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of California, Berkeley, California 94720, USA and Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Köhne</LastName>
+<ForeName>J-H</ForeName>
+<Initials>JH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, TU Dortmund University, D-44221 Dortmund, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kohnen</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Université de Mons, 7000 Mons, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kolanoski</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Institut für Physik, Humboldt-Universität zu Berlin, D-12489 Berlin, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koob</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Köpke</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Physics, University of Mainz, Staudinger Weg 7, D-55099 Mainz, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kopper</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kopper</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koskinen</LastName>
+<ForeName>D J</ForeName>
+<Initials>DJ</Initials>
+<AffiliationInfo>
+<Affiliation>Niels Bohr Institute, University of Copenhagen, DK-2100 Copenhagen, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kowalski</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Physikalisches Institut, Universität Bonn, Nussallee 12, D-53115 Bonn, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kriesten</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Krings</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kroll</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Physics, University of Mainz, Staudinger Weg 7, D-55099 Mainz, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kunnen</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Vrije Universiteit Brussel, Dienst ELEM, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kurahashi</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kuwabara</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Bartol Research Institute and Department of Physics and Astronomy, University of Delaware, Newark, Delaware 19716, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Labare</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Gent, B-9000 Gent, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Larsen</LastName>
+<ForeName>D T</ForeName>
+<Initials>DT</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Larson</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+<AffiliationInfo>
+<Affiliation>Niels Bohr Institute, University of Copenhagen, DK-2100 Copenhagen, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lesiak-Bzdak</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, Stony Brook University, Stony Brook, New York 11794-3800, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leuermann</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leute</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>T.U. Munich, D-85748 Garching, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lünemann</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Physics, University of Mainz, Staudinger Weg 7, D-55099 Mainz, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Macías</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Canterbury, Private Bag 4800, Christchurch, New Zealand.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Madsen</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wisconsin, River Falls, Wisconsin 54022, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Maggi</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Vrije Universiteit Brussel, Dienst ELEM, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Maruyama</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mase</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Chiba University, Chiba 263-8522, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matis</LastName>
+<ForeName>H S</ForeName>
+<Initials>HS</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>McNally</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meagher</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meli</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Gent, B-9000 Gent, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meures</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Université Libre de Bruxelles, Science Faculty CP230, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miarecki</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of California, Berkeley, California 94720, USA and Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Middell</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Middlemas</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Milke</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, TU Dortmund University, D-44221 Dortmund, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miller</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Vrije Universiteit Brussel, Dienst ELEM, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mohrmann</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Montaruli</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Département de physique nucléaire et corpusculaire, Université de Genève, CH-1211 Genève, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morse</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nahnhauer</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Naumann</LastName>
+<ForeName>U</ForeName>
+<Initials>U</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Niederhausen</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, Stony Brook University, Stony Brook, New York 11794-3800, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nowicki</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Alberta, Edmonton, Alberta T6G 2E1, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nygren</LastName>
+<ForeName>D R</ForeName>
+<Initials>DR</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Obertacke</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Odrowski</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Alberta, Edmonton, Alberta T6G 2E1, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olivas</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Omairat</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Murchadha</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Université Libre de Bruxelles, Science Faculty CP230, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palczewski</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Alabama, Tuscaloosa, Alabama 35487, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paul</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Penek</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pepper</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Alabama, Tuscaloosa, Alabama 35487, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pérez de Los Heros</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, Uppsala University, Box 516, S-75120 Uppsala, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pfendner</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Center for Cosmology and Astro-Particle Physics, Ohio State University, Columbus, Ohio 43210, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pieloth</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, TU Dortmund University, D-44221 Dortmund, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pinat</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Université Libre de Bruxelles, Science Faculty CP230, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Posselt</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Price</LastName>
+<ForeName>P B</ForeName>
+<Initials>PB</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of California, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Przybylski</LastName>
+<ForeName>G T</ForeName>
+<Initials>GT</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pütz</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Quinnan</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rädel</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rameez</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Département de physique nucléaire et corpusculaire, Université de Genève, CH-1211 Genève, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rawlins</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Alaska Anchorage, 3211 Providence Drive, Anchorage, Alaska 99508, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Redl</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rees</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Reimann</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Resconi</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>T.U. Munich, D-85748 Garching, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rhode</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, TU Dortmund University, D-44221 Dortmund, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Richman</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Riedel</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Robertson</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>School of Chemistry &amp; Physics, University of Adelaide, Adelaide, South Australia 5005 Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rodrigues</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rongen</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rott</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Sungkyunkwan University, Suwon 440-746, Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ruhe</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, TU Dortmund University, D-44221 Dortmund, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ruzybayev</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Bartol Research Institute and Department of Physics and Astronomy, University of Delaware, Newark, Delaware 19716, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ryckbosch</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Gent, B-9000 Gent, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saba</LastName>
+<ForeName>S M</ForeName>
+<Initials>SM</Initials>
+<AffiliationInfo>
+<Affiliation>Fakultät für Physik &amp; Astronomie, Ruhr-Universität Bochum, D-44780 Bochum, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sander</LastName>
+<ForeName>H-G</ForeName>
+<Initials>HG</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Physics, University of Mainz, Staudinger Weg 7, D-55099 Mainz, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Santander</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sarkar</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Niels Bohr Institute, University of Copenhagen, DK-2100 Copenhagen, Denmark and Department of Physics, University of Oxford, 1 Keble Road, Oxford OX1 3NP, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schatto</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Physics, University of Mainz, Staudinger Weg 7, D-55099 Mainz, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scheriau</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, TU Dortmund University, D-44221 Dortmund, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmidt</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmitz</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, TU Dortmund University, D-44221 Dortmund, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schoenen</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schöneberg</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Fakultät für Physik &amp; Astronomie, Ruhr-Universität Bochum, D-44780 Bochum, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schönwald</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schukraft</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schulte</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Physikalisches Institut, Universität Bonn, Nussallee 12, D-53115 Bonn, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schulz</LastName>
+<ForeName>O</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>T.U. Munich, D-85748 Garching, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seckel</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Bartol Research Institute and Department of Physics and Astronomy, University of Delaware, Newark, Delaware 19716, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sestayo</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>T.U. Munich, D-85748 Garching, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Seunarine</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wisconsin, River Falls, Wisconsin 54022, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shanidze</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sheremata</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Alberta, Edmonton, Alberta T6G 2E1, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>M W E</ForeName>
+<Initials>MW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Soldin</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spiczak</LastName>
+<ForeName>G M</ForeName>
+<Initials>GM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wisconsin, River Falls, Wisconsin 54022, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spiering</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stamatikos</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Center for Cosmology and Astro-Particle Physics, Ohio State University, Columbus, Ohio 43210, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stanev</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Bartol Research Institute and Department of Physics and Astronomy, University of Delaware, Newark, Delaware 19716, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stanisha</LastName>
+<ForeName>N A</ForeName>
+<Initials>NA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stasik</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Physikalisches Institut, Universität Bonn, Nussallee 12, D-53115 Bonn, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stezelberger</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stokstad</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+<AffiliationInfo>
+<Affiliation>Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stößl</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Strahler</LastName>
+<ForeName>E A</ForeName>
+<Initials>EA</Initials>
+<AffiliationInfo>
+<Affiliation>Vrije Universiteit Brussel, Dienst ELEM, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ström</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, Uppsala University, Box 516, S-75120 Uppsala, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Strotjohann</LastName>
+<ForeName>N L</ForeName>
+<Initials>NL</Initials>
+<AffiliationInfo>
+<Affiliation>Physikalisches Institut, Universität Bonn, Nussallee 12, D-53115 Bonn, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sullivan</LastName>
+<ForeName>G W</ForeName>
+<Initials>GW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taavola</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, Uppsala University, Box 516, S-75120 Uppsala, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taboada</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>School of Physics and Center for Relativistic Astrophysics, Georgia Institute of Technology, Atlanta, Georgia 30332, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tamburro</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Bartol Research Institute and Department of Physics and Astronomy, University of Delaware, Newark, Delaware 19716, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tepe</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Wuppertal, D-42119 Wuppertal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ter-Antonyan</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Southern University, Baton Rouge, Louisiana 70813, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Terliuk</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tešić</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tilav</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Bartol Research Institute and Department of Physics and Astronomy, University of Delaware, Newark, Delaware 19716, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Toale</LastName>
+<ForeName>P A</ForeName>
+<Initials>PA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Alabama, Tuscaloosa, Alabama 35487, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tobin</LastName>
+<ForeName>M N</ForeName>
+<Initials>MN</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tosi</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tselengidou</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Erlangen Centre for Astroparticle Physics, Friedrich-Alexander-Universität Erlangen-Nürnberg, D-91058 Erlangen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Unger</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Fakultät für Physik &amp; Astronomie, Ruhr-Universität Bochum, D-44780 Bochum, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Usner</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Physikalisches Institut, Universität Bonn, Nussallee 12, D-53115 Bonn, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vallecorsa</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Département de physique nucléaire et corpusculaire, Université de Genève, CH-1211 Genève, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Eijndhoven</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Vrije Universiteit Brussel, Dienst ELEM, B-1050 Brussels, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vandenbroucke</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Santen</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vehring</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Voge</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Physikalisches Institut, Universität Bonn, Nussallee 12, D-53115 Bonn, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vraeghe</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Gent, B-9000 Gent, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Walck</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Oskar Klein Centre and Department of Physics, Stockholm University, SE-10691 Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wallraff</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weaver</LastName>
+<ForeName>Ch</ForeName>
+<Initials>Ch</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wellons</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wendt</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Westerhoff</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Whelan</LastName>
+<ForeName>B J</ForeName>
+<Initials>BJ</Initials>
+<AffiliationInfo>
+<Affiliation>School of Chemistry &amp; Physics, University of Adelaide, Adelaide, South Australia 5005 Australia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Whitehorn</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of California, Berkeley, California 94720, USA and Department of Physics and Wisconsin IceCube Particle Astrophysics Center, University of Wisconsin, Madison, Wisconsin 53706, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wichary</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wiebe</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Physics, University of Mainz, Staudinger Weg 7, D-55099 Mainz, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wiebusch</LastName>
+<ForeName>C H</ForeName>
+<Initials>CH</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Williams</LastName>
+<ForeName>D R</ForeName>
+<Initials>DR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Alabama, Tuscaloosa, Alabama 35487, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wissing</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Maryland, College Park, Maryland 20742, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wolf</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Oskar Klein Centre and Department of Physics, Stockholm University, SE-10691 Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wood</LastName>
+<ForeName>T R</ForeName>
+<Initials>TR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of Alberta, Edmonton, Alberta T6G 2E1, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Woschnagg</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, University of California, Berkeley, California 94720, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xu</LastName>
+<ForeName>D L</ForeName>
+<Initials>DL</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Alabama, Tuscaloosa, Alabama 35487, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xu</LastName>
+<ForeName>X W</ForeName>
+<Initials>XW</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Southern University, Baton Rouge, Louisiana 70813, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yanez</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+<AffiliationInfo>
+<Affiliation>DESY, D-15735 Zeuthen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yodh</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of California, Irvine, California 92697, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yoshida</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, Chiba University, Chiba 263-8522, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zarzhitsky</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics and Astronomy, University of Alabama, Tuscaloosa, Alabama 35487, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ziemann</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Physics, TU Dortmund University, D-44221 Dortmund, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zierke</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>III. Physikalisches Institut, RWTH Aachen University, D-52056 Aachen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zoll</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Oskar Klein Centre and Department of Physics, Stockholm University, SE-10691 Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>IceCube Collaboration</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>09</Month>
+<Day>02</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Phys Rev Lett</MedlineTA>
+<NlmUniqueID>0401141</NlmUniqueID>
+<ISSNLinking>0031-9007</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>05</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25238345</ArticleId>
+<ArticleId IdType="doi">10.1103/PhysRevLett.113.101101</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

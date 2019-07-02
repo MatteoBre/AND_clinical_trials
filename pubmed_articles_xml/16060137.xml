@@ -1,0 +1,201 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16060137</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>11</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>11</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0886-022X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>27</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2005</Year>
+</PubDate>
+</JournalIssue>
+<Title>Renal failure</Title>
+<ISOAbbreviation>Ren Fail</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effects of combined endothelin and angiotensin II antagonism on growth factor-induced proliferation of vascular smooth muscle cells isolated from uremic rats.</ArticleTitle>
+<Pagination>
+<MedlinePgn>465-74</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The activation of both the renin-angiotensin-aldosterone and endothelin (ET) system in uremia contributes to the development of cardiovascular disease. The combination of ET receptor antagonists and inhibitors of the angiotensin-converting enzyme (ACE) or angiotensin II type 1 (AT,) receptor could therefore inhibit atherogenesis. We studied the effects of different medications on growth-factor-induced proliferation of vascular smooth muscle cells (VSMC) isolated from uremic rats.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Subtotally nephrectomized rats (SNX) were treated with an ETA receptor antagonist, losartan, trandolapril, or the combinations of an ETA receptor antagonist and losartan or trandolapril for 12 weeks. Proliferation induced by different growth factors in isolated aortal SMC was measured using a BrdU-ELISA.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Maximum proliferation in response to PDGF-BB, bFGF, and TNF-alpha which was higher in untreated SNX than in controls (PDGF-BB: 486.60 +/- 8.27% versus 346.74 +/- 4.60%, n=8), was reduced after monotherapy with losartan or the ETA receptor antagonist. VSMC from trandolapril-treated rats showed an increased response to all growth factors (PDGF-BB: 663.48 +/- 7.00%, n=8). After combined therapy with the ETA receptor antagonist and trandolapril, maximum proliferation was lower than in untreated SNX (PDGF-BB: 162.6 +/- 1.40%; n=8; p &lt; or = 0.01). Combined treatment with losartan and the ETA receptor antagonist attenuated the maximum levels of VSMC proliferation induced by PDGF-BB, bFGF, and TNF.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In contrast to an increased response after trandolapril monotherapy, combined treatment of SNX with an ETA receptor antagonist and trandolapril reduced growth-factor-induced VSMC proliferation in vitro. Further investigations in uremic patients have to clarify whether the combination of endothelin receptor antagonists and ACE inhibitors inhibits atherogenesis.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wolf</LastName>
+<ForeName>Sabine C</ForeName>
+<Initials>SC</Initials>
+<AffiliationInfo>
+<Affiliation>Medical Clinic IV, Department of Hypertension and Renal Failure and Endocrinology, University of Tübingen, Tübingen, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sauter</LastName>
+<ForeName>Gabriele</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Risler</LastName>
+<ForeName>Teut</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brehm</LastName>
+<ForeName>Bernhard R</ForeName>
+<Initials>BR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Ren Fail</MedlineTA>
+<NlmUniqueID>8701128</NlmUniqueID>
+<ISSNLinking>0886-022X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D047228">Angiotensin II Type 1 Receptor Blockers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000806">Angiotensin-Converting Enzyme Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007211">Indoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1T0N3G9CRC</RegistryNumber>
+<NameOfSubstance UI="C052035">trandolapril</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>JMS50MPO89</RegistryNumber>
+<NameOfSubstance UI="D019808">Losartan</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000704">Analysis of Variance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047228">Angiotensin II Type 1 Receptor Blockers</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000806">Angiotensin-Converting Enzyme Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049109">Cell Proliferation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004359">Drug Therapy, Combination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007211">Indoles</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007676">Kidney Failure, Chronic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019808">Losartan</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009131">Muscle, Smooth, Vascular</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009392">Nephrectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011336">Probability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014511">Uremia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>8</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>11</Month>
+<Day>8</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>8</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16060137</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

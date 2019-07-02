@@ -1,0 +1,153 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16377838</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>02</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1541-6933</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>3</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2005</Year>
+</PubDate>
+</JournalIssue>
+<Title>Neurocritical care</Title>
+<ISOAbbreviation>Neurocrit Care</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Fatal pulmonary embolism despite an inferior vena cava filter in glioblastoma multiforme.</ArticleTitle>
+<Pagination>
+<MedlinePgn>249-50</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Patients with high-grade gliomas are at increased risk of pulmonary embolism and deep vein thrombosis. Treatment of this complication remains uncertain and options include anticoagulation or venous filters.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We present a patient with a glioblastoma multiforme who developed a fatal pulmonary embolism in spite of an inferior vena cava filter.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In spite of the theoretical risk of intratumoral hemorrhage, anticoagulation may be more effective and associated with fewer complications than inferior vena cava filters.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Cavaliere</LastName>
+<ForeName>Robert</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Ohio State University, Columbus, OH, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schiff</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Neurocrit Care</MedlineTA>
+<NlmUniqueID>101156086</NlmUniqueID>
+<ISSNLinking>1541-6933</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001932">Brain Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017809">Fatal Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005909">Glioblastoma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011655">Pulmonary Embolism</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016306">Vena Cava Filters</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020246">Venous Thrombosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>12</Month>
+<Day>27</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>2</Month>
+<Day>25</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>12</Month>
+<Day>27</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16377838</ArticleId>
+<ArticleId IdType="pii">NCC:3:3:249</ArticleId>
+<ArticleId IdType="doi">10.1385/NCC:3:3:249</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Neurosurgery. 1990 Jul;27(1):74-6; discussion 77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2377284</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1993 Jun;43(6):1111-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8170553</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Cancer. 1997 Sep;33(10):1592-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9389920</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,155 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27685530</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>01</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>01</Month>
+<Day>30</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1812-9269</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>38</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Experimental oncology</Title>
+<ISOAbbreviation>Exp. Oncol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Metastasis of two malignant tumors of different genesis in axillary lymph node (a case report).</ArticleTitle>
+<Pagination>
+<MedlinePgn>198-201</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>This case report describes a rare clinical condition: metastasis of synchronous multiple primary tumors - skin melanoma and breast cancer in one axillary lymph node, confirmed with the results of clinical, morphological and immunohistochemical study of surgical material from 40 year-old woman. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rusin</LastName>
+<ForeName>A V</ForeName>
+<Initials>AV</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Oncology, Medical Faculty, Uzhhorod National University, Uzhhorod 88000, Ukraine.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Petrosov</LastName>
+<ForeName>O V</ForeName>
+<Initials>OV</Initials>
+<AffiliationInfo>
+<Affiliation>Transcarpathian Regional Clinical Oncologic Hospital, Uzhhorod 88000, Ukraine.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chumak</LastName>
+<ForeName>A I</ForeName>
+<Initials>AI</Initials>
+<AffiliationInfo>
+<Affiliation>Transcarpathian Regional Clinical Oncologic Hospital, Uzhhorod 88000, Ukraine.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kushnir</LastName>
+<ForeName>V M</ForeName>
+<Initials>VM</Initials>
+<AffiliationInfo>
+<Affiliation>Transcarpathian Regional Clinical Oncologic Hospital, Uzhhorod 88000, Ukraine.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Ukraine</Country>
+<MedlineTA>Exp Oncol</MedlineTA>
+<NlmUniqueID>101230541</NlmUniqueID>
+<ISSNLinking>1812-9269</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001940">Breast</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008198">Lymph Nodes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008207">Lymphatic Metastasis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008545">Melanoma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012867">Skin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012878">Skin Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2018</Year>
+<Month>1</Month>
+<Day>31</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27685530</ArticleId>
+<ArticleId IdType="pii">8772</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

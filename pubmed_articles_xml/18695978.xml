@@ -1,0 +1,193 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18695978</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>12</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>05</Month>
+<Day>12</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1618-2650</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>392</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Analytical and bioanalytical chemistry</Title>
+<ISOAbbreviation>Anal Bioanal Chem</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Functional pharmacogenetics/genomics of human cytochromes P450 involved in drug biotransformation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1093-108</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00216-008-2291-6</ELocationID>
+<Abstract>
+<AbstractText>We investigated the elimination routes for the 200 drugs that are sold most often by prescription count in the United States. The majority (78%) of the hepatically cleared drugs were found to be subject to oxidative metabolism via cytochromes P450 of the families 1, 2 and 3, with major contributions from CYP3A4/5 (37% of drugs) followed by CYP2C9 (17%), CYP2D6 (15%), CYP2C19 (10%), CYP1A2 (9%), CYP2C8 (6%), and CYP2B6 (4%). Clinically well-established polymorphic CYPs (i.e., CYP2C9, CYP2C19, and CYP2D6) were involved in the metabolism of approximately half of those drugs, including (in particular) NSAIDs metabolized mainly by CYP2C9, proton-pump inhibitors metabolized by CYP2C19, and beta blockers and several antipsychotics and antidepressants metabolized by CYP2D6. In this review, we provide an up-to-date summary of the functional polymorphisms and aspects of the functional genomics of the major human drug-metabolizing cytochrome P450s, as well as their clinical significance.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zanger</LastName>
+<ForeName>Ulrich M</ForeName>
+<Initials>UM</Initials>
+<AffiliationInfo>
+<Affiliation>Dr. Margarete Fischer-Bosch Institute of Clinical Pharmacology, Auerbachstr. 112, 70376, Stuttgart, Germany. uli.zanger@ikp-stuttgart.de</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Turpeinen</LastName>
+<ForeName>Miia</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Klein</LastName>
+<ForeName>Kathrin</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schwab</LastName>
+<ForeName>Matthias</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>08</Month>
+<Day>10</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Anal Bioanal Chem</MedlineTA>
+<NlmUniqueID>101134327</NlmUniqueID>
+<ISSNLinking>1618-2642</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000319">Adrenergic beta-Antagonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D054328">Proton Pump Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011619">Psychotropic Drugs</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9035-51-2</RegistryNumber>
+<NameOfSubstance UI="D003577">Cytochrome P-450 Enzyme System</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000319">Adrenergic beta-Antagonists</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001711">Biotransformation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003577">Cytochrome P-450 Enzyme System</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015195">Drug Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D023281">Genomics</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010597">Pharmacogenetics</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010641">Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054328">Proton Pump Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011619">Psychotropic Drugs</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013678">Technology, Pharmaceutical</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>247</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2008</Year>
+<Month>04</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2008</Year>
+<Month>07</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>8</Month>
+<Day>13</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>12</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>8</Month>
+<Day>13</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18695978</ArticleId>
+<ArticleId IdType="doi">10.1007/s00216-008-2291-6</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,2762 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26293427</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>09</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>01</Month>
+<Day>30</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1474-547X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>386</Volume>
+<Issue>9993</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Aug</Month>
+<Day>08</Day>
+</PubDate>
+</JournalIssue>
+<Title>Lancet (London, England)</Title>
+<ISOAbbreviation>Lancet</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The Vancouver Consensus: antiretroviral medicines, medical evidence, and political will.</ArticleTitle>
+<Pagination>
+<MedlinePgn>505-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/S0140-6736(15)61458-1</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0140-6736(15)61458-1</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Beyrer</LastName>
+<ForeName>Chris</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA; International AIDS Society, Geneva, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Birx</LastName>
+<ForeName>Deborah L</ForeName>
+<Initials>DL</Initials>
+<AffiliationInfo>
+<Affiliation>US President's Emergency Plan for AIDS Relief, Washington, DC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bekker</LastName>
+<ForeName>Linda-Gail</ForeName>
+<Initials>LG</Initials>
+<AffiliationInfo>
+<Affiliation>Desmond Tutu HIV Centre, University of Cape Town, Cape Town, South Africa.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barré-Sinoussi</LastName>
+<ForeName>Françoise</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Institut Pasteur, Paris, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cahn</LastName>
+<ForeName>Pedro</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Buenos Aires University Medical School, Buenos Aires, Argentina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dybul</LastName>
+<ForeName>Mark R</ForeName>
+<Initials>MR</Initials>
+<AffiliationInfo>
+<Affiliation>The Global Fund to Fight AIDS, Tuberculosis, and Malaria, Geneva, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eholié</LastName>
+<ForeName>Serge P</ForeName>
+<Initials>SP</Initials>
+<AffiliationInfo>
+<Affiliation>Medical School of University Félix Houphouet-Boigny, Abidjan, Côte d'Ivoire; International Association of Providers of AIDS Care, Washington, DC, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kavanagh</LastName>
+<ForeName>Matthew M</ForeName>
+<Initials>MM</Initials>
+<AffiliationInfo>
+<Affiliation>Health Global Access Project, New York, USA; Department of Political Science and Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, PA 19104, USA. Electronic address: mkav@sas.upenn.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Katabira</LastName>
+<ForeName>Elly T</ForeName>
+<Initials>ET</Initials>
+<AffiliationInfo>
+<Affiliation>Makerere University College of Health Sciences, Kampala, Uganda.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lundgren</LastName>
+<ForeName>Jens D</ForeName>
+<Initials>JD</Initials>
+<AffiliationInfo>
+<Affiliation>Rigshospitalet, University of Copenhagen, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mworeko</LastName>
+<ForeName>Lilian</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>International Community of Women Living with HIV East Africa, Uganda.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pala</LastName>
+<ForeName>Marama</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>International Indigenous Working Group on HIV and AIDS, Waikato, New Zealand.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Puttanakit</LastName>
+<ForeName>Thanyawee</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Chulalongkorn University, Bangkok, Thailand.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ryan</LastName>
+<ForeName>Owen</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>International AIDS Society, Geneva, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sidibé</LastName>
+<ForeName>Michel</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>UNAIDS, Geneva, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Montaner</LastName>
+<ForeName>Julio S G</ForeName>
+<Initials>JS</Initials>
+<AffiliationInfo>
+<Affiliation>University of British Columbia, Vancouver, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>Vancouver Consensus Signatories</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>K23 MH097667</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 AI094189</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Lancet</MedlineTA>
+<NlmUniqueID>2985213R</NlmUniqueID>
+<ISSNLinking>0140-6736</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D044966">Anti-Retroviral Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044966">Anti-Retroviral Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001291">Attitude of Health Personnel</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D032921">Consensus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000635">transmission</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006291">Health Policy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006297">Health Services Accessibility</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<InvestigatorList>
+<Investigator ValidYN="Y">
+<LastName>Aberg</LastName>
+<ForeName>Judith</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ablenas</LastName>
+<ForeName>Robert</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Abrams</LastName>
+<ForeName>Elaine</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Adimora</LastName>
+<ForeName>Adaora</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Akinleye</LastName>
+<ForeName>Olusoji</ForeName>
+<Initials>O</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Akondeng</LastName>
+<ForeName>Claudine</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Aldrovandi</LastName>
+<ForeName>Grace</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Alex Muganga</LastName>
+<ForeName>Muganzi</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Alvarez-McLeod</LastName>
+<ForeName>Africa</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Amanzholov</LastName>
+<ForeName>Nurali</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Andersen</LastName>
+<ForeName>Helle</ForeName>
+<Initials>H</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ang</LastName>
+<ForeName>Joel</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Arauz</LastName>
+<ForeName>Ana Belen</ForeName>
+<Initials>AB</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Arazo</LastName>
+<ForeName>Piedad</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Arbelardo</LastName>
+<ForeName>Maria Connie</ForeName>
+<Initials>MC</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Armstrong</LastName>
+<ForeName>Wendy</ForeName>
+<Initials>W</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Arumugam</LastName>
+<ForeName>Sankar</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Arvieux</LastName>
+<ForeName>Cedric</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Atsbeha</LastName>
+<ForeName>Tesmerelna</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Audoin</LastName>
+<ForeName>Bertrand</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Aye</LastName>
+<ForeName>Theingi</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ba</LastName>
+<ForeName>Ndoungou salla</ForeName>
+<Initials>Ns</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Baeten</LastName>
+<ForeName>Jared</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Baines</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Baker</LastName>
+<ForeName>Brook</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Balkandjieva</LastName>
+<ForeName>Ana</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Banda</LastName>
+<ForeName>Amanda Chawo</ForeName>
+<Initials>AC</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Barnes</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Barone</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Barre-Sinoussi</LastName>
+<ForeName>Francoise</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Barry</LastName>
+<ForeName>Mo</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Baruch</LastName>
+<ForeName>Ricardo</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Battegay</LastName>
+<ForeName>Manuel</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Baxter</LastName>
+<ForeName>Don</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Beck-Wirth</LastName>
+<ForeName>Genevieve</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Beckham</LastName>
+<ForeName>Sarah</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Begovac</LastName>
+<ForeName>Josip</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bekker</LastName>
+<ForeName>Linda-Gail</ForeName>
+<Initials>LG</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bender Ignacio</LastName>
+<ForeName>Rachel</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bensaid</LastName>
+<ForeName>Souhaila</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bergé</LastName>
+<ForeName>Pierre</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bermejo</LastName>
+<ForeName>Alvaro</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Betancourt</LastName>
+<ForeName>Myrna</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Beyrer</LastName>
+<ForeName>Chris</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Birx</LastName>
+<ForeName>Deborah</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bitnun</LastName>
+<ForeName>Sean Ari</ForeName>
+<Initials>SA</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Blaschke</LastName>
+<ForeName>Terrence</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Blumberg</LastName>
+<ForeName>Henry</ForeName>
+<Initials>H</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bora</LastName>
+<ForeName>Prakash</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Boswell</LastName>
+<ForeName>Stephen</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bowsky</LastName>
+<ForeName>Sara</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Boyd</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bradley</LastName>
+<ForeName>Jack</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Brancourt</LastName>
+<ForeName>Mathieu</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Brandao</LastName>
+<ForeName>Roberto Rubem</ForeName>
+<Initials>RR</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Brosgart</LastName>
+<ForeName>Carol</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Brough</LastName>
+<ForeName>Garry</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Graham</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Charles</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bruneau</LastName>
+<ForeName>Julie</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Buitron</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Bukusi</LastName>
+<ForeName>Elizabeth Anne</ForeName>
+<Initials>EA</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Burry</LastName>
+<ForeName>Jessica</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Butler</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Butler</LastName>
+<ForeName>Karina</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Butler de Lister</LastName>
+<ForeName>Martha</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Byres</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cabrera</LastName>
+<ForeName>Susana</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cahn</LastName>
+<ForeName>Pedro</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cameron</LastName>
+<ForeName>Martha</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cannon</LastName>
+<ForeName>Christopher</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Carrico</LastName>
+<ForeName>Adam</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Carter</LastName>
+<ForeName>Tom</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cassetti</LastName>
+<ForeName>Isabel</ForeName>
+<Initials>I</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Castillo</LastName>
+<ForeName>Alexandra</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cecchini</LastName>
+<ForeName>Diego</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chaisson</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chan</LastName>
+<ForeName>Adrienne K</ForeName>
+<Initials>AK</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chan</LastName>
+<ForeName>Shanna</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chan</LastName>
+<ForeName>Khin Nyein</ForeName>
+<Initials>KN</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chavez</LastName>
+<ForeName>Enrique</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chiduku</LastName>
+<ForeName>Tonderai</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chimbetete</LastName>
+<ForeName>Cleophas</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chimulwa</LastName>
+<ForeName>Teddy</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chipeja</LastName>
+<ForeName>Manuel</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chkhartishvili</LastName>
+<ForeName>Nikoloz</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Christian</LastName>
+<ForeName>Christian</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Chung</LastName>
+<ForeName>Cecilia</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Clarke</LastName>
+<ForeName>Christina</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cleghorn</LastName>
+<ForeName>Farley</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Clotet</LastName>
+<ForeName>Bonaventura</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Coenen</LastName>
+<ForeName>Ton</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Coenen</LastName>
+<ForeName>Ton</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cohen</LastName>
+<ForeName>Myron</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cohen</LastName>
+<ForeName>Stephanie</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cohen</LastName>
+<ForeName>Eric A</ForeName>
+<Initials>EA</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cohn</LastName>
+<ForeName>Jonathan</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Collins</LastName>
+<ForeName>Chris</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Colton</LastName>
+<ForeName>Tayla</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Conradie</LastName>
+<ForeName>Francesca</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Conway</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cosmaro</LastName>
+<ForeName>Lella</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cotton</LastName>
+<ForeName>Deborah</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Craggs</LastName>
+<ForeName>Laura</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cruickshank</LastName>
+<ForeName>Ivan</ForeName>
+<Initials>I</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Cunningham</LastName>
+<ForeName>Coleen</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Currier</LastName>
+<ForeName>Judith</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Dabis</LastName>
+<ForeName>François</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Dadabhai</LastName>
+<ForeName>Sufia</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Dahl</LastName>
+<ForeName>Anders</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Damji</LastName>
+<ForeName>Nazneen</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Das</LastName>
+<ForeName>Moupali</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Daulaire</LastName>
+<ForeName>Nils</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Davis</LastName>
+<ForeName>Nacia</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>De la Cruz</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>de Matos</LastName>
+<ForeName>Haroldo José</ForeName>
+<Initials>HJ</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Dean</LastName>
+<ForeName>Judith</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Debattista</LastName>
+<ForeName>Joseph</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>DeBeck</LastName>
+<ForeName>Kora</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Dedes</LastName>
+<ForeName>Nikos</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Deese</LastName>
+<ForeName>Jen</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Defechereux</LastName>
+<ForeName>Patricia</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>DeJesus</LastName>
+<ForeName>Edwin</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Del Rio</LastName>
+<ForeName>Carlos</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Delaney</LastName>
+<ForeName>Kevin</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Delfraissy</LastName>
+<ForeName>Jean-François</ForeName>
+<Initials>JF</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Demol-Domenach</LastName>
+<ForeName>Rachel</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Diallo</LastName>
+<ForeName>Dazon Dixon</ForeName>
+<Initials>DD</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Diaz-Carballo</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Discepola</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Divala</LastName>
+<ForeName>Oscar</ForeName>
+<Initials>O</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Dobuzinskis</LastName>
+<ForeName>Caroline</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Dougrou</LastName>
+<ForeName>Sosthene</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Dougrou</LastName>
+<ForeName>Sosthene</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Druelle</LastName>
+<ForeName>Johan</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Duerr</LastName>
+<ForeName>Ann</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Dybul</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Dzimadzi</LastName>
+<ForeName>Abigail</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ebrahim</LastName>
+<ForeName>Farheen</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Eckman</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Egan</LastName>
+<ForeName>John P</ForeName>
+<Initials>JP</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>El-Sadr</LastName>
+<ForeName>Wafaa</ForeName>
+<Initials>W</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Elhassi</LastName>
+<ForeName>Ahmed</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Eriksson</LastName>
+<ForeName>Erin</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Esparza</LastName>
+<ForeName>Jose</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Esteban</LastName>
+<ForeName>Burrone</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Etim</LastName>
+<ForeName>Emmanuel</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Falak</LastName>
+<ForeName>Elena Adriana</ForeName>
+<Initials>EA</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Fedora</LastName>
+<ForeName>Joseph</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Feinberg</LastName>
+<ForeName>Judith</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Fields</LastName>
+<ForeName>C Virginia</ForeName>
+<Initials>CV</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Fitzpatrick</LastName>
+<ForeName>Lisa K</ForeName>
+<Initials>LK</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Fleming</LastName>
+<ForeName>Yvette</ForeName>
+<Initials>Y</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Foley</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Fraser</LastName>
+<ForeName>Heather</ForeName>
+<Initials>H</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>French</LastName>
+<ForeName>Michelle</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Frieder</LastName>
+<ForeName>Kurt</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Friedland</LastName>
+<ForeName>Gerald</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Frost</LastName>
+<ForeName>Ann</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Fuchs</LastName>
+<ForeName>Jonathan</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Furlotte</LastName>
+<ForeName>Charles</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gadbaw</LastName>
+<ForeName>Joseph</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gallant</LastName>
+<ForeName>Joel</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gamble</LastName>
+<ForeName>Theresa</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gandhi</LastName>
+<ForeName>Monica</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gange</LastName>
+<ForeName>Stephen</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Garcia</LastName>
+<ForeName>Paula</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>García de León M</LastName>
+<ForeName>Carlos</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Garner</LastName>
+<ForeName>Adam</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Garone</LastName>
+<ForeName>Daniela</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gatsi</LastName>
+<ForeName>Jennifer</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gebhardt</LastName>
+<ForeName>Yves</ForeName>
+<Initials>Y</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ghandi</LastName>
+<ForeName>Rajesh Tim</ForeName>
+<Initials>RT</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gibson</LastName>
+<ForeName>Emerald</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gill</LastName>
+<ForeName>Katherine</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gill</LastName>
+<ForeName>Penny</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Giordano</LastName>
+<ForeName>Oscar</ForeName>
+<Initials>O</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Giordano</LastName>
+<ForeName>Eugenia</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Glick</LastName>
+<ForeName>Nancy</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Goldenberg</LastName>
+<ForeName>Shira</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Goldsmith</LastName>
+<ForeName>Deborah</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gomes</LastName>
+<ForeName>J  Carolyn</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gomes</LastName>
+<ForeName>Andréia</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Goosby</LastName>
+<ForeName>Eric P</ForeName>
+<Initials>EP</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gottlieb</LastName>
+<ForeName>Geoffrey</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gounder</LastName>
+<ForeName>Celine</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Goyan</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Grabowski</LastName>
+<ForeName>Kate</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Granich</LastName>
+<ForeName>Reuben</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gray</LastName>
+<ForeName>Andy</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Green</LastName>
+<ForeName>Kimberly</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Grenough</LastName>
+<ForeName>Mary</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gripshover</LastName>
+<ForeName>Barbara</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Grulich</LastName>
+<ForeName>Andrew</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Guillard</LastName>
+<ForeName>Etienne</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gulick</LastName>
+<ForeName>Roy</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gulov</LastName>
+<ForeName>Kiromiddin</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Gupta</LastName>
+<ForeName>Anil Kumar</ForeName>
+<Initials>AK</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Haddad</LastName>
+<ForeName>Beverley</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hader</LastName>
+<ForeName>Shannon</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hakim</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Halake</LastName>
+<ForeName>Abshiro</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hamilton</LastName>
+<ForeName>Carol</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hankins</LastName>
+<ForeName>Catherine</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Happy</LastName>
+<ForeName>Margaret</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Harrington</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hassounah</LastName>
+<ForeName>Said</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hauschild</LastName>
+<ForeName>Benjamin</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hausler</LastName>
+<ForeName>Harry</ForeName>
+<Initials>H</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Havlir</LastName>
+<ForeName>Diane</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hayes-Larson</LastName>
+<ForeName>Eleanor</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Headley</LastName>
+<ForeName>Jamila</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Henry</LastName>
+<ForeName>Keith</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Herce</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Herdoiza</LastName>
+<ForeName>Amira</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hernández</LastName>
+<ForeName>Juanse</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Highleyman</LastName>
+<ForeName>Liz</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hirsch</LastName>
+<ForeName>Bruce</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hodder</LastName>
+<ForeName>Sally</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hohl</LastName>
+<ForeName>Carol</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hojman</LastName>
+<ForeName>Martin</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Holmes</LastName>
+<ForeName>Charles</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Horton</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hosek</LastName>
+<ForeName>Sybil</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Hourcade Bellocq</LastName>
+<ForeName>Javier</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Irhuma</LastName>
+<ForeName>Mohamed</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Irwin</LastName>
+<ForeName>Robin</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Itu</LastName>
+<ForeName>Corina</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Jacobson</LastName>
+<ForeName>Jeffrey</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Jerome</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>R  Paul</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kahn</LastName>
+<ForeName>Kathleen</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kakalou</LastName>
+<ForeName>Eleni</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kalogiannis</LastName>
+<ForeName>Apostolis</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kampango</LastName>
+<ForeName>George</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kanyemba</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Karapınar</LastName>
+<ForeName>Arda</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kasper</LastName>
+<ForeName>Ken</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kates</LastName>
+<ForeName>Jen</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Katlama</LastName>
+<ForeName>Christine</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Katz</LastName>
+<ForeName>Ingrid</ForeName>
+<Initials>I</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kavanagh</LastName>
+<ForeName>Matthew</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kazatchkine</LastName>
+<ForeName>Michel</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Keatley</LastName>
+<ForeName>JoAnne</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kennedy</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kerschberger</LastName>
+<ForeName>Bernhard</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Keruly</LastName>
+<ForeName>Jeanne</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kidd</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kimani</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>King</LastName>
+<ForeName>Charles</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kitchen</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Klimas</LastName>
+<ForeName>Jan</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kline</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Klumb</LastName>
+<ForeName>Silke</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kovach</LastName>
+<ForeName>Drew</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kowo</LastName>
+<ForeName>Abraham Ogheneovo</ForeName>
+<Initials>AO</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Krakowiak</LastName>
+<ForeName>Daisy</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Krellenstein</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kristjansson</LastName>
+<ForeName>Mar</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kujinga</LastName>
+<ForeName>Tapiwanashe</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kulkarni</LastName>
+<ForeName>Milind</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kuritzkes</LastName>
+<ForeName>Daniel R</ForeName>
+<Initials>DR</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kyaw</LastName>
+<ForeName>Soe Moe</ForeName>
+<Initials>SM</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Landes</LastName>
+<ForeName>Megan</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lavarello</LastName>
+<ForeName>Damian</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Leiten</LastName>
+<ForeName>Elise Orvedal</ForeName>
+<Initials>EO</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lemoh</LastName>
+<ForeName>Chris</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Leone</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lester</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Leue</LastName>
+<ForeName>Eric Paul</ForeName>
+<Initials>EP</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Leyritana</LastName>
+<ForeName>Kate</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lindlau</LastName>
+<ForeName>Diego</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Logue</LastName>
+<ForeName>Kenneth</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Losso</LastName>
+<ForeName>Marcelo</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Low</LastName>
+<ForeName>Edward</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Luba</LastName>
+<ForeName>Maureen</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lugg</LastName>
+<ForeName>Amanda</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Luna</LastName>
+<ForeName>Jaime</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Luna</LastName>
+<ForeName>Jaime</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lunceford-Stevens</LastName>
+<ForeName>Alan Timothy</ForeName>
+<Initials>AT</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lwin Win</LastName>
+<ForeName>Htet</ForeName>
+<Initials>H</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lwu</LastName>
+<ForeName>Emilia</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lynch</LastName>
+<ForeName>Sharonann</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lyons</LastName>
+<ForeName>Charles</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mac-Seing</LastName>
+<ForeName>Muriel</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Machava</LastName>
+<ForeName>Rafa Valente</ForeName>
+<Initials>RV</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>MacInnis</LastName>
+<ForeName>Ron</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mackenroth</LastName>
+<ForeName>Jack</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Madoyan</LastName>
+<ForeName>Hovhannes</ForeName>
+<Initials>H</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mahfoudh</LastName>
+<ForeName>Aymen</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Maia</LastName>
+<ForeName>Marcelo</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mao</LastName>
+<ForeName>Jason</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Margolis</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mastro</LastName>
+<ForeName>Timothy</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Matemba</LastName>
+<ForeName>Maziko</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Matsushita</LastName>
+<ForeName>Shuzo</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Maves</LastName>
+<ForeName>Ryan</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Maxwell</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mayer</LastName>
+<ForeName>Kenneth</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Maynart</LastName>
+<ForeName>Maryvonne</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mayorga</LastName>
+<ForeName>Ruben</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mbote</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mbuthia</LastName>
+<ForeName>Joseph</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>McIntyre</LastName>
+<ForeName>James McIntyre</ForeName>
+<Initials>JM</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>McMurchie</LastName>
+<ForeName>Marilyn</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mekonen</LastName>
+<ForeName>Tadesse</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Meliou</LastName>
+<ForeName>Marina</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Meulbroek</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Michaels-Strasser</LastName>
+<ForeName>Susan</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Milano</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Miller</LastName>
+<ForeName>Veronica</ForeName>
+<Initials>V</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Miller</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Minguez</LastName>
+<ForeName>Ángel</ForeName>
+<Initials>Á</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Minnick</LastName>
+<ForeName>Katherine</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mitiku Wubeshet</LastName>
+<ForeName>Petros</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mohamed</LastName>
+<ForeName>Charmain</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Montoya</LastName>
+<ForeName>Pablo</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Morgan Thomas</LastName>
+<ForeName>Ruth</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Morin</LastName>
+<ForeName>Sebastien</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Morris</LastName>
+<ForeName>Tracey</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Moses-Burton</LastName>
+<ForeName>Suzette</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Muchamore</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Muchnick</LastName>
+<ForeName>Steven S</ForeName>
+<Initials>SS</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mungherera</LastName>
+<ForeName>Lydia</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mwehonge</LastName>
+<ForeName>Kenneth</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Mworeko</LastName>
+<ForeName>Lilian</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Nanfack</LastName>
+<ForeName>Aubin</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Nelson</LastName>
+<ForeName>Mark R</ForeName>
+<Initials>MR</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Nelson</LastName>
+<ForeName>Kenrad</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Nichols</LastName>
+<ForeName>Kim</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Njoroge</LastName>
+<ForeName>Carolyne</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Noble</LastName>
+<ForeName>Lara</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Nolasco da Silva</LastName>
+<ForeName>Marcos Tadeu</ForeName>
+<Initials>MT</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Nosworthy</LastName>
+<ForeName>Adam</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Nunez-Freile</LastName>
+<ForeName>Byron</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Nuss</LastName>
+<ForeName>Janet</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Nyangulu</LastName>
+<ForeName>Wongani</ForeName>
+<Initials>W</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Odhiambo</LastName>
+<ForeName>Evans</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ogou</LastName>
+<ForeName>Michel</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Okoboi</LastName>
+<ForeName>Stephen</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Oluoch</LastName>
+<ForeName>Vincent</ForeName>
+<Initials>V</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Onarheim</LastName>
+<ForeName>Kristine</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Opondo</LastName>
+<ForeName>Johnmark</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Orbinski</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ostrowski</LastName>
+<ForeName>Mario</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Owino</LastName>
+<ForeName>Maureen</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Owiti</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Oyella</LastName>
+<ForeName>Jacinta</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Oyewale</LastName>
+<ForeName>Tajudeen</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pais-de-Lacerda</LastName>
+<ForeName>António</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pala</LastName>
+<ForeName>Marama</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Papadopoulos</LastName>
+<ForeName>Antonios</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Patel</LastName>
+<ForeName>Atul</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Peacock</LastName>
+<ForeName>Dean</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pelaez</LastName>
+<ForeName>Ninive</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Peller</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pengel</LastName>
+<ForeName>Ethel</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Penner</LastName>
+<ForeName>Murray</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Perez Casas</LastName>
+<ForeName>Carmen</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Phanuphak</LastName>
+<ForeName>Praphan</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Phanuphak</LastName>
+<ForeName>Nittaya</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pickett</LastName>
+<ForeName>Jim</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pizarro</LastName>
+<ForeName>Louis</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Poonkasetwattana</LastName>
+<ForeName>Midnight</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Poteat</LastName>
+<ForeName>Tonia</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pozniak</LastName>
+<ForeName>Anton</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Presnell</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Pulsipher</LastName>
+<ForeName>Craig</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Purcell</LastName>
+<ForeName>Damian</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Quinn</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Quinodoz</LastName>
+<ForeName>Dario</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ragi</LastName>
+<ForeName>Allan</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rakhmanina</LastName>
+<ForeName>Natella</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Randhawa</LastName>
+<ForeName>April</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rau</LastName>
+<ForeName>Neil</ForeName>
+<Initials>N</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ravasi</LastName>
+<ForeName>Giovanni</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rawat</LastName>
+<ForeName>Angeli</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Reboredo</LastName>
+<ForeName>Graciela</ForeName>
+<Initials>G</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rees</LastName>
+<ForeName>Helen</ForeName>
+<Initials>H</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Reeves</LastName>
+<ForeName>Iain</ForeName>
+<Initials>I</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Reid</LastName>
+<ForeName>Emille</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Reiss</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Reyes</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ridzon</LastName>
+<ForeName>Renee</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ripin</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Roberts</LastName>
+<ForeName>Teri</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Robertson</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Robinson</LastName>
+<ForeName>Quintin</ForeName>
+<Initials>Q</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Robinson</LastName>
+<ForeName>Andrew</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rodrigues</LastName>
+<ForeName>Ricky</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Romain</LastName>
+<ForeName>Mbiribindi</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rosser</LastName>
+<ForeName>B  R  Simon</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ruiz</LastName>
+<ForeName>Monica S</ForeName>
+<Initials>MS</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ryan</LastName>
+<ForeName>Own</ForeName>
+<Initials>O</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Saag</LastName>
+<ForeName>Michael S</ForeName>
+<Initials>MS</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sabin</LastName>
+<ForeName>Miriam</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sachs</LastName>
+<ForeName>Jeffrey</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sadasivan</LastName>
+<ForeName>Rekha</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Santiago</LastName>
+<ForeName>Luis</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Saranchuk</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Schmid</LastName>
+<ForeName>Carl</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Schouten</LastName>
+<ForeName>Jeffrey</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Schull</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Scott</LastName>
+<ForeName>Jamie</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Seshu</LastName>
+<ForeName>Meena</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Montaner</LastName>
+<ForeName>Julio S G</ForeName>
+<Initials>JS</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Shacklett</LastName>
+<ForeName>Barbara</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Shah</LastName>
+<ForeName>Samir</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sheehy</LastName>
+<ForeName>Jeff</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sherer</LastName>
+<ForeName>Renslow</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Shettle</LastName>
+<ForeName>Sheila</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sidibe</LastName>
+<ForeName>Michel</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sikweze</LastName>
+<ForeName>Kenly</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Silva</LastName>
+<ForeName>Elvis</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Singer</LastName>
+<ForeName>Joel</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Skolnik</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Skølt</LastName>
+<ForeName>Ingvild</ForeName>
+<Initials>I</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>So Ramos</LastName>
+<ForeName>Cel</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Soares Linn</LastName>
+<ForeName>Juliana</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Socias</LastName>
+<ForeName>M  Eugenia</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sodhi</LastName>
+<ForeName>Sumeet</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sok</LastName>
+<ForeName>Pun</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Solheim</LastName>
+<ForeName>Ingrid</ForeName>
+<Initials>I</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Some</LastName>
+<ForeName>Nagaonlé Eric</ForeName>
+<Initials>NE</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Soto-Ramirez</LastName>
+<ForeName>Luis</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Soudeyns</LastName>
+<ForeName>Hugo</ForeName>
+<Initials>H</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Springer</LastName>
+<ForeName>Dereck</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Srouji</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Staley</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Stirratt</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Stirratt</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Stoye</LastName>
+<ForeName>Jonathan</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Stratton</LastName>
+<ForeName>Trevor</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Strong</LastName>
+<ForeName>Thomas</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sturchio</LastName>
+<ForeName>Jeffrey</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Suchindran</LastName>
+<ForeName>Sujit</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Sued</LastName>
+<ForeName>Omar</ForeName>
+<Initials>O</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Suraj Madoori</LastName>
+<ForeName>Suraj Madoori</ForeName>
+<Initials>SM</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Szumilin</LastName>
+<ForeName>Elisabeth</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Szumowski</LastName>
+<ForeName>John</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Taege</LastName>
+<ForeName>Alan</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Tee</LastName>
+<ForeName>B K</ForeName>
+<Initials>BK</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Temgoua</LastName>
+<ForeName>Edith</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Tessier</LastName>
+<ForeName>Dominique</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Tharao</LastName>
+<ForeName>Wangari</ForeName>
+<Initials>W</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Tholanah</LastName>
+<ForeName>Martha</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Thomas</LastName>
+<ForeName>Laura</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Thomas</LastName>
+<ForeName>Chris</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Thompson</LastName>
+<ForeName>Melanie</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Tikili</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Timleck</LastName>
+<ForeName>Andrew</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Torres</LastName>
+<ForeName>Mary Ann</ForeName>
+<Initials>MA</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Toub</LastName>
+<ForeName>Danny</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Traynor</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Twyman</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ulrich</LastName>
+<ForeName>Angela</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Untura</LastName>
+<ForeName>Liudmila</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Valdez</LastName>
+<ForeName>Edgar</ForeName>
+<Initials>E</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Van Dam</LastName>
+<ForeName>Anke</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>van der Bijl</LastName>
+<ForeName>Chantelle</ForeName>
+<Initials>C</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>van Deth</LastName>
+<ForeName>Louise</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>van Deth</LastName>
+<ForeName>Louise</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Van Gorder</LastName>
+<ForeName>Dana</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>van Schalkwyk</LastName>
+<ForeName>Frederick</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Vandevelde</LastName>
+<ForeName>Wim</ForeName>
+<Initials>W</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Vasarhelyi</LastName>
+<ForeName>Krisztina</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Veloso</LastName>
+<ForeName>Valdilea</ForeName>
+<Initials>V</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Vember</LastName>
+<ForeName>Hilda</ForeName>
+<Initials>H</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Venter</LastName>
+<ForeName>Francois</ForeName>
+<Initials>F</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Vermund</LastName>
+<ForeName>Sten H</ForeName>
+<Initials>SH</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Vjecha</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Volberding</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Wade</LastName>
+<ForeName>Steven</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Wadia</LastName>
+<ForeName>Roy</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Walensky</LastName>
+<ForeName>Rochelle</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Wallace</LastName>
+<ForeName>Stephaun</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Warner</LastName>
+<ForeName>Melissa</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Warren</LastName>
+<ForeName>Mitchell</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Weinrib</LastName>
+<ForeName>David</ForeName>
+<Initials>D</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>West</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Wienold</LastName>
+<ForeName>Matthias</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Willard</LastName>
+<ForeName>Suzanne</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Williams</LastName>
+<ForeName>Peter</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Wilson</LastName>
+<ForeName>Kate</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Wilson</LastName>
+<ForeName>Phill</ForeName>
+<Initials>P</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Wolf</LastName>
+<ForeName>Timo</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Wolfe</LastName>
+<ForeName>Leslie</ForeName>
+<Initials>L</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Wong</LastName>
+<ForeName>Alexander</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Wong</LastName>
+<ForeName>Marcia</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Zunyou</ForeName>
+<Initials>Z</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Yameogo</LastName>
+<ForeName>Bernabe</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Yasin</LastName>
+<ForeName>Sami</ForeName>
+<Initials>S</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Yates</LastName>
+<ForeName>Tammy</ForeName>
+<Initials>T</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Yirsaw</LastName>
+<ForeName>Zenebe</ForeName>
+<Initials>Z</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Yoshimura</LastName>
+<ForeName>Kazuhisa</ForeName>
+<Initials>K</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Young</LastName>
+<ForeName>Benjamin</ForeName>
+<Initials>B</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Yousfi</LastName>
+<ForeName>Mohamed</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Zakowicz</LastName>
+<ForeName>Anna</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Zangerle</LastName>
+<ForeName>Robert</ForeName>
+<Initials>R</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Zuniga</LastName>
+<ForeName>José</ForeName>
+<Initials>J</Initials>
+</Investigator>
+</InvestigatorList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26293427</ArticleId>
+<ArticleId IdType="pii">S0140-6736(15)61458-1</ArticleId>
+<ArticleId IdType="doi">10.1016/S0140-6736(15)61458-1</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

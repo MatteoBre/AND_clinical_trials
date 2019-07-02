@@ -1,0 +1,205 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23380429</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>06</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0946-1965</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>51</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>International journal of clinical pharmacology and therapeutics</Title>
+<ISOAbbreviation>Int J Clin Pharmacol Ther</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Bioequivalence study of a novel orodispersible tablet of meloxicam in a porous matrix after single-dose administration in healthy volunteers.</ArticleTitle>
+<Pagination>
+<MedlinePgn>234-43</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.5414/CP201781</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Meloxicam is a non-steroidal anti-inflammatory drug, indicated for osteoarthritis exacerbations, rheumatoid arthritis and ankylosing spondylitis symptomatic treatment.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To compare the bioavailability of a 15 mg meloxicam orodispersible tablet (ODT) and a reference 15 mg tablet in healthy volunteers.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Two randomized, crossover, bioequivalence studies were conducted. In both studies, 28 volunteers were randomly assigned to receive test ODT and reference tablet formulations in single dose under fasting conditions in two study periods, with a 7-day (Study I) or 14-day (Study II) wash-out between administrations. Blood samples were collected at pre-specified times. Pharmacokinetic parameters were obtained by noncompartmental analysis. Bioequivalence was assumed if the 90% confidence interval of the test/reference ratio of the least-squares means for Cmax, AUC0-t and AUC0-∞were within the 80.00 -125.00% range, according to the current guidelines.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">All 28 subjects in Study I and 26 subjects in study II completed the study and were included in the analysis. The 90% confidence intervals of the geometric means ratios for the logtransformed Cmax, AUC0-t and AUC0-∞were 87 - 96%, 88 - 96% and 87 - 96% in Study I, and 99 - 105%, 98 - 104% and 108 - 120% in Study II. Test product was characterized by a slightly earlier tmax than the reference, i.e., 4.9 ± 1.1 vs. 5.8 ± 2.6 hours in Study I (p = 1.000) and 3.8 ± 2.0 vs. 4.8 ±1.6 hours in Study II (p = 0.0054). The two drugs were well tolerated.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Test and reference formulations met the regulatory criteria for bioequivalence in the fasting healthy volunteers enrolled.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Radicioni</LastName>
+<ForeName>Milko</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>CROSS Research , Arzo, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Connolly</LastName>
+<ForeName>Sandra</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stroppolo</LastName>
+<ForeName>Federico</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Granata</LastName>
+<ForeName>Gabriele</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Loprete</LastName>
+<ForeName>Luca</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Leuratti</LastName>
+<ForeName>Chiara</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Int J Clin Pharmacol Ther</MedlineTA>
+<NlmUniqueID>9423309</NlmUniqueID>
+<ISSNLinking>0946-1965</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D013607">Tablets</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D013843">Thiazines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D013844">Thiazoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>VG2QF83CGL</RegistryNumber>
+<NameOfSubstance UI="D000077239">Meloxicam</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019540">Area Under Curve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077239">Meloxicam</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016062">Porosity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012995">Solubility</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013607">Tablets</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013810">Therapeutic Equivalency</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013843">Thiazines</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013844">Thiazoles</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>02</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23380429</ArticleId>
+<ArticleId IdType="pii">10423</ArticleId>
+<ArticleId IdType="doi">10.5414/CP201781</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,414 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22800378</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>02</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1756-0500</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>5</Volume>
+<PubDate>
+<Year>2012</Year>
+<Month>Jul</Month>
+<Day>16</Day>
+</PubDate>
+</JournalIssue>
+<Title>BMC research notes</Title>
+<ISOAbbreviation>BMC Res Notes</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Development and delivery of patient treatment in the Trondheim Hip Fracture Trial. A new geriatric in-hospital pathway for elderly patients with hip fracture.</ArticleTitle>
+<Pagination>
+<MedlinePgn>355</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/1756-0500-5-355</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Hip fractures are common among frail elderly persons and often have serious consequences on function, mobility and mortality. Traditional treatment of these patients is performed in orthopedic departments without additional geriatric assessment. However, studies have shown that interdisciplinary geriatric treatment may be beneficial compared to traditional treatment. The aim of the present study is to investigate whether treatment of these patients in a Department of Geriatrics (DG) during the entire hospital stay gives additional benefits as compared to conventional treatment in a Department of Orthopaedic Surgery (DOS).</AbstractText>
+<AbstractText Label="FINDINGS" NlmCategory="RESULTS">A new clinical pathway for in-hospital treatment of hip fracture patients was developed. In this pathway patients were treated pre-and postoperatively in DG. Comprehensive geriatric assessment was performed as an interdisciplinary, multidimensional, systematic assessment of all patients focusing on each patient's capabilities and limitations as recommended in guidelines and systematic reviews. Identification and treatment of co-morbidities, pain relief, hydration, oxygenation, nutrition, elimination, prevention and management of delirium, assessment of falls and osteoporosis were emphasized. Discharge planning started as early as possible. Initiation of rehabilitation with focus on early mobilisation and development of individual plans was initiated in hospital and continued after discharge from hospital. Fracture specific treatment was based upon standard treatment for the hospital, expert opinions and a review of the literature.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">A new treatment program for old hip fracture patients was developed, introduced and run in the DG, the potential benefits of which being compared with traditional care of hip fracture patients in the DOS in a randomised clinical trial.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Saltvedt</LastName>
+<ForeName>Ingvild</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Geriatrics, St, Olav Hospital, University Hospital of Trondheim, Trondheim, Norway. ingvild.saltvedt@ntnu.no</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prestmo</LastName>
+<ForeName>Anders</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Einarsen</LastName>
+<ForeName>Elin</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnsen</LastName>
+<ForeName>Lars Gunnar</ForeName>
+<Initials>LG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Helbostad</LastName>
+<ForeName>Jorunn L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sletvold</LastName>
+<ForeName>Olav</ForeName>
+<Initials>O</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>07</Month>
+<Day>16</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>BMC Res Notes</MedlineTA>
+<NlmUniqueID>101462768</NlmUniqueID>
+<ISSNLinking>1756-0500</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019091">Critical Pathways</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000458">organization &amp; administration</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003693">Delirium</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015577">Geriatric Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006620">Hip Fractures</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000534">rehabilitation</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007902">Length of Stay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D009664">Norway</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010024">Osteoporosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000534">rehabilitation</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010146">Pain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010348">Patient Care Team</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000458">organization &amp; administration</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010351">Patient Discharge</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>03</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>06</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22800378</ArticleId>
+<ArticleId IdType="pii">1756-0500-5-355</ArticleId>
+<ArticleId IdType="doi">10.1186/1756-0500-5-355</ArticleId>
+<ArticleId IdType="pmc">PMC3463430</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Osteoporos Int. 2004 Jul;15(7):567-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14730422</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aging Clin Exp Res. 2004 Apr;16(2):113-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15195985</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychopharmacol Bull. 1988;24(4):709-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3249773</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1990 Dec 15;113(12):941-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2240918</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1995 Nov 1;123(9):681-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7574224</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Joint Surg Br. 1964 Nov;46:630-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14251448</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Md State Med J. 1965 Feb;14:61-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14258950</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Surg. 2004;93(3):234-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15544081</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aging Clin Exp Res. 2004 Aug;16(4):300-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15575124</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Surg. 2005;94(1):59-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15865120</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Disabil Rehabil. 2005 Sep 30-Oct 15;27(18-19):1107-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16278179</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2005 Dec 10;331(7529):1374</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16299013</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2006 Apr 10;166(7):766-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16606814</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Intern Med. 2006 Mar;21(3):219-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16390507</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gerontology. 2006;52(4):223-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16849865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Rehabil. 2006 Aug;20(8):701-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16944827</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Age Ageing. 2006 Nov;35(6):551-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16809350</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Osteoporos Int. 2007 Feb;18(2):167-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17061151</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2007 Apr 21;334(7598):842-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17446616</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2008 Mar 10;168(5):508-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18332297</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aging Clin Exp Res. 2008 Apr;20(2):109-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18431077</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aging Clin Exp Res. 2008 Apr;20(2):113-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18431078</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2009;338:b50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19164393</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2009;(4):CD007125</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19821396</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Reg Anesth Pain Med. 2010 Jan-Feb;35(1):64-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20052816</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Geriatr. 2010;10:65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20849652</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Age Ageing. 2010 Nov;39(6):664-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20846962</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Osteoporos Int. 2010 Dec;21(Suppl 4):S637-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21058004</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Geriatr. 2011;11:18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21510886</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Injury. 2011 Aug;42(8):727-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21723444</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ Clin Evid. 2010;2010. pii: 1110</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21726483</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2011;(7):CD006211</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21735403</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2011;343:d6553</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22034146</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gerontol A Biol Sci Med Sci. 2000 Apr;55(4):M221-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10811152</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Geriatr Soc. 2002 May;50(5):792-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12028163</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2003 Oct 4;327(7418):771-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14525871</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gerontol A Biol Sci Med Sci. 2003 Nov;58(11):1042-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14630887</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anesthesiology. 1978 Oct;49(4):233-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">697075</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

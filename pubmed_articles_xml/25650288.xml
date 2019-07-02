@@ -1,0 +1,580 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25650288</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>08</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>09</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1097-0215</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>137</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Aug</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>International journal of cancer</Title>
+<ISOAbbreviation>Int. J. Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Risk of second primary malignancies in women with breast cancer: Results from the European prospective investigation into cancer and nutrition (EPIC).</ArticleTitle>
+<Pagination>
+<MedlinePgn>940-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/ijc.29462</ELocationID>
+<Abstract>
+<AbstractText>Women with a diagnosis of breast cancer are at increased risk of second primary cancers, and the identification of risk factors for the latter may have clinical implications. We have followed-up for 11 years 10,045 women with invasive breast cancer from a European cohort, and identified 492 second primary cancers, including 140 contralateral breast cancers. Expected and observed cases and Standardized Incidence Ratios (SIR) were estimated using Aalen-Johansen Markovian methods. Information on various risk factors was obtained from detailed questionnaires and anthropometric measurements. Cox proportional hazards regression models were used to estimate the role of risk factors. Women with breast cancer had a 30% excess risk for second malignancies (95% confidence interval-CI 18-42) after excluding contralateral breast cancers. Risk was particularly elevated for colorectal cancer (SIR, 1.71, 95% CI 1.43-2.00), lymphoma (SIR 1.80, 95% CI 1.31-2.40), melanoma (2.12; 1.63-2.70), endometrium (2.18; 1.75-2.70) and kidney cancers (2.40; 1.57-3.52). Risk of second malignancies was positively associated with age at first cancer, body mass index and smoking status, while it was inversely associated with education, post-menopausal status and a history of full-term pregnancy. We describe in a large cohort of women with breast cancer a 30% excess of second primaries. Among risk factors for breast cancer, a history of full-term pregnancy was inversely associated with the risk of second primary cancer. </AbstractText>
+<CopyrightInformation>© 2015 UICC.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ricceri</LastName>
+<ForeName>Fulvio</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Cancer Epidemiology-CERMS, Department of Medical Sciences, University of Turin and Città Della Salute E Della Scienza Hospital, Turin, Italy.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Mathematics "G. Peano", University of Turin, Turin, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fasanelli</LastName>
+<ForeName>Francesca</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Cancer Epidemiology-CERMS, Department of Medical Sciences, University of Turin and Città Della Salute E Della Scienza Hospital, Turin, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Giraudo</LastName>
+<ForeName>Maria Teresa</ForeName>
+<Initials>MT</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Mathematics "G. Peano", University of Turin, Turin, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sieri</LastName>
+<ForeName>Sabina</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Epidemiology and Prevention Unit, Fondazione IRCCS Istituto Nazionale Dei Tumori, Milano, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tumino</LastName>
+<ForeName>Rosario</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Cancer Registry and Histopathology Unit, ", Civile M.P. Arezzo" Hospital, ASP, Ragusa, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mattiello</LastName>
+<ForeName>Amalia</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Dipartimento Di Medicina Clinica E Chirurgia, Università Federico II, Napoli, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vagliano</LastName>
+<ForeName>Liliana</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Public and Pediatric Health Sciences, University of Turin, Turin, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Masala</LastName>
+<ForeName>Giovanna</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular and Nutritional Epidemiology Unit, Cancer Research and Prevention Institute ISPO, Florence, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Quirós</LastName>
+<ForeName>J Ramón</ForeName>
+<Initials>JR</Initials>
+<AffiliationInfo>
+<Affiliation>Public Health Directorate, Asturias, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Travier</LastName>
+<ForeName>Noemie</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Nutrition, Environment and Cancer, Cancer Epidemiology Research Programme, Institut Catalá d'Oncologia, Barcelona, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sánchez</LastName>
+<ForeName>María-José</ForeName>
+<Initials>MJ</Initials>
+<AffiliationInfo>
+<Affiliation>Andalusian School of Public Health, Granada Bio-Health Research Institute (Granada.IBS), Granada, Spain.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>CIBER Epidemiología Y Salud Pública (CIBERESP), Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Larranaga</LastName>
+<ForeName>Nerea</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Public Division of Gipuzkoa, Basque Regional Health Department and CIBERESP, San Sebastian, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chirlaque</LastName>
+<ForeName>María-Dolores</ForeName>
+<Initials>MD</Initials>
+<AffiliationInfo>
+<Affiliation>CIBER Epidemiología Y Salud Pública (CIBERESP), Spain.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Murcia Regional Health Authority, Murcia, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ardanaz</LastName>
+<ForeName>Eva</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>CIBER Epidemiología Y Salud Pública (CIBERESP), Spain.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Navarra Public Health Institute, Pamplona, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tjonneland</LastName>
+<ForeName>Anne</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Danish Cancer Society Research Center, Copenhagen, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olsen</LastName>
+<ForeName>Anja</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Danish Cancer Society Research Center, Copenhagen, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Overvad</LastName>
+<ForeName>Kim</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Section for Epidemiology, Department of Public Health, Aarhus University, Aarhus, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chang-Claude</LastName>
+<ForeName>Jenny</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Genetic Epidemiology, Division of Cancer Epidemiology, Deutsches Krebsforschungszentrum, Heidelberg, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaaks</LastName>
+<ForeName>Rudolf</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Genetic Epidemiology, Division of Cancer Epidemiology, Deutsches Krebsforschungszentrum, Heidelberg, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boeing</LastName>
+<ForeName>Heiner</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, German Institute of Human Nutrition Potsdam-Rehbrücke, Nuthetal, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clavel-Chapelon</LastName>
+<ForeName>Françoise</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Inserm, Centre for Research in Epidemiology and Population Health (CESP), U1018, Nutrition, Hormones and Women's Health Team, F, -94805, Villejuif, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>University Paris Sud, UMRS 1018, F, -94805, Villejuif, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Institute Gustave Roussy, F, -94805, Villejuif, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kvaskoff</LastName>
+<ForeName>Marina</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Inserm, Centre for Research in Epidemiology and Population Health (CESP), U1018, Nutrition, Hormones and Women's Health Team, F, -94805, Villejuif, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>University Paris Sud, UMRS 1018, F, -94805, Villejuif, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Institute Gustave Roussy, F, -94805, Villejuif, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dossus</LastName>
+<ForeName>Laure</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Inserm, Centre for Research in Epidemiology and Population Health (CESP), U1018, Nutrition, Hormones and Women's Health Team, F, -94805, Villejuif, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>University Paris Sud, UMRS 1018, F, -94805, Villejuif, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Institute Gustave Roussy, F, -94805, Villejuif, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Trichopoulou</LastName>
+<ForeName>Antonia</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>WHO Collaborating Center for Food and Nutrition Policies, Department of Hygiene, Epidemiology and Medical Statistics, University of Athens Medical School, Athens, Greece.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Hellenic Health Foundation, Athens, Greece.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Benetou</LastName>
+<ForeName>Vassiliki</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>WHO Collaborating Center for Food and Nutrition Policies, Department of Hygiene, Epidemiology and Medical Statistics, University of Athens Medical School, Athens, Greece.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Adarakis</LastName>
+<ForeName>George</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Hellenic Health Foundation, Athens, Greece.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bueno-de-Mesquita</LastName>
+<ForeName>H B As</ForeName>
+<Initials>HB</Initials>
+<AffiliationInfo>
+<Affiliation>National Institute for Public Health and the Environment (RIVM), Bilthoven, The Netherlands.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Gastroenterology and Hepatology, University Medical Centre, Utrecht, The Netherlands.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology and Biostatistics, the School of Public Health, Imperial College London, London, United Kingdom.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Social and Preventive Medicine, Faculty of Medicine, University of Malaya, Kuala Lumpur, Malaysia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Peeters</LastName>
+<ForeName>Petra H</ForeName>
+<Initials>PH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology, Julius Center for Health Sciences and Primary Care, University Medical Center, Utrecht, The Netherlands.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sund</LastName>
+<ForeName>Malin</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgical and Perioperative Sciences/Surgery, Umea University, Umea, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andersson</LastName>
+<ForeName>Anne</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Sciences/Oncology, Umea University, Umea, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Borgquist</LastName>
+<ForeName>Signe</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Oncology, Clinical Sciences, Lund University, Lund, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Butt</LastName>
+<ForeName>Salma</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Institute of Clinical Sciences, Skane University Hospital, Malmö, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Weiderpass</LastName>
+<ForeName>Elisabete</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Community Medicine, Faculty of Health Sciences, University of Tromsø, Tromsø, Norway.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Research, Cancer Registry of Norway, Oslo, Norway.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institute, Stockholm, Sweden.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Genetic Epidemiology, Folkhälsan Research Center, Helsinki, Finland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Skeie</LastName>
+<ForeName>Guri</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Community Medicine, Faculty of Health Sciences, University of Tromsø, Tromsø, Norway.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khaw</LastName>
+<ForeName>Kay-Tee</ForeName>
+<Initials>KT</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Gerontology Unit, University of Cambridge School of Clinical Medicine, Addenbrooke's Hospital, Cambridge, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Travis</LastName>
+<ForeName>Ruth C</ForeName>
+<Initials>RC</Initials>
+<AffiliationInfo>
+<Affiliation>Cancer Epidemiology Unit, Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rinaldi</LastName>
+<ForeName>Sabina</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>International Agency for Research on Cancer (IARC), Lyon, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Romieu</LastName>
+<ForeName>Isabelle</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>International Agency for Research on Cancer (IARC), Lyon, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gunter</LastName>
+<ForeName>Marc</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London, London, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kadi</LastName>
+<ForeName>Mai</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London, London, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Riboli</LastName>
+<ForeName>Elio</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London, London, United Kingdom.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vineis</LastName>
+<ForeName>Paolo</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London, London, United Kingdom.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Unit of molecular and genetic epidemiology, Human Genetics Foundation (HuGeF), Turin, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sacerdote</LastName>
+<ForeName>Carlotta</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Cancer Epidemiology-CERMS, Department of Medical Sciences, University of Turin and Città Della Salute E Della Scienza Hospital, Turin, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>G1000143</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>14136</GrantID>
+<Agency>Cancer Research UK</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<Agency>Cancer Research UK</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>G0401527</GrantID>
+<Agency>Medical Research Council</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>02</Month>
+<Day>13</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Int J Cancer</MedlineTA>
+<NlmUniqueID>0042124</NlmUniqueID>
+<ISSNLinking>0020-7136</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008593">Menopause</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009361">Neoplasm Invasiveness</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016609">Neoplasms, Second Primary</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Aalen-Johansen estimator</Keyword>
+<Keyword MajorTopicYN="N">breast cancer</Keyword>
+<Keyword MajorTopicYN="N">second primary tumours</Keyword>
+<Keyword MajorTopicYN="N">tumour size</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>05</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>01</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>2</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>2</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25650288</ArticleId>
+<ArticleId IdType="doi">10.1002/ijc.29462</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

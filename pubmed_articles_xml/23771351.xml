@@ -1,0 +1,390 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23771351</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>02</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1613-7671</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>125</Volume>
+<Issue>13-14</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Wiener klinische Wochenschrift</Title>
+<ISOAbbreviation>Wien. Klin. Wochenschr.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Awareness of chronic kidney disease in Austria: a frequently under-recognized clinical picture.</ArticleTitle>
+<Pagination>
+<MedlinePgn>362-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00508-013-0374-7</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The prevalence of chronic kidney disease (CKD) is rising at an alarming rate, thus presenting a substantial burden for the patient as an individual and-because of the enormous treatment costs-for society as a whole. Early diagnosis and therapy could slow disease progression and reduce the prevalence of cost-intensive end stage renal disease. The aim of this study was to determine the accuracy of diagnosis of CKD in acute patients presenting at an internal ward.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Routine laboratory parameters of kidney function of 238 inpatients were retrospectively evaluated to determine the prevalence of CKD, defined as estimated glomerular filtration rate (eGFR) &lt; 60 mL/min/1.73 m(2). Those results were compared with the actual documentation of the ICD-10 diagnosis CKD in the discharge reports of the respective patients.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 238 patients, 228 patients were included in the analysis. The overall median (range) eGFR was 60.7 (10.4-171.9) mL/min/1.73 m(2), with no gender-specific difference. Of patients, 49.6 % (n = 113) were retrospectively diagnosed with CKD stage 3 or higher. However, the review of the discharge reports found correct diagnosis of CKD in only 38.1 % (n = 43) of these patients.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The present analysis shows that CKD remains frequently unrecognized, even in a hospital setting. This could have dramatic implications on the care, treatment and prevention of CKD and associated complications.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Friedl</LastName>
+<ForeName>Claudia</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Division of Nephrology, Department of Internal Medicine, Medical University of Graz, Auenbruggerplatz 27, 8036, Graz, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hemetsberger</LastName>
+<ForeName>Margit</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mader</LastName>
+<ForeName>Julia</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fahrleitner-Pammer</LastName>
+<ForeName>Astrid</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pieber</LastName>
+<ForeName>Thomas R</ForeName>
+<Initials>TR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenkranz</LastName>
+<ForeName>Alexander R</ForeName>
+<Initials>AR</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>06</Month>
+<Day>15</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Austria</Country>
+<MedlineTA>Wien Klin Wochenschr</MedlineTA>
+<NlmUniqueID>21620870R</NlmUniqueID>
+<ISSNLinking>0043-5325</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017677">Age Distribution</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D001317">Austria</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003951">Diagnostic Errors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D042241">Early Diagnosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007722">Health Knowledge, Attitudes, Practice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006760">Hospitalization</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007677">Kidney Function Tests</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D063886">Patient Discharge Summaries</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015995">Prevalence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051436">Renal Insufficiency, Chronic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017678">Sex Distribution</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>04</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>2</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23771351</ArticleId>
+<ArticleId IdType="doi">10.1007/s00508-013-0374-7</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Kidney Int. 2011 Dec;80(11):1122-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21918498</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2002 Feb;39(2 Suppl 1):S1-266</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11904577</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2008 Sep;52(3):444-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18468747</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2008 Sep;74(6):710-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18614996</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2007 Aug;72(3):247-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17568785</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 1999 Mar 16;130(6):461-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10075613</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Nephrol. 2009 Sep 01;10:24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19723333</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 2005 Oct;20(10 ):2089-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16030033</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2005 Dec;16(12):3736-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16267160</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Health Technol Assess. 2010 Apr;14 (21):1-184</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20441712</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 2009 Nov;24(11):3411-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19535434</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 2005 Dec;20(12):2587-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16204281</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2009 May 19;150(10):717-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19451579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AJR Am J Roentgenol. 2008 Aug;191(2):376-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18647905</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2007 Nov 7;298(17):2038-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17986697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 2012 Oct;27 Suppl 3:iii73-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22815543</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gerontology. 2009;55(3):288-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19001785</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2002 Jan;13 Suppl 1:S37-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11792760</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Sci. 2009 Feb;337(2):93-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19214023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2005 Feb;16(2):489-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15590763</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2010 Apr;55(4):660-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20138414</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CMAJ. 2012 Mar 20;184(5):E269-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22331970</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2007 Jan;71(1):31-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17091124</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2004 Mar 22;164(6):659-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15037495</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2006 Jul;17(7):2034-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16738019</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2005 Aug;46(2):242-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16112042</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 Sep 23;351(13):1296-305</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15385656</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2009 Dec;76(11):1192-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19759525</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 2006 Jan;21(1):88-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16221715</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2004 Aug;44(2):198-206</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15264177</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

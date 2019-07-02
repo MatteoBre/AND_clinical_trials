@@ -1,0 +1,282 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18950476</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>12</Month>
+<Day>31</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1472-6963</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>8</Volume>
+<PubDate>
+<Year>2008</Year>
+<Month>Oct</Month>
+<Day>24</Day>
+</PubDate>
+</JournalIssue>
+<Title>BMC health services research</Title>
+<ISOAbbreviation>BMC Health Serv Res</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Benchmarking and reducing length of stay in Dutch hospitals.</ArticleTitle>
+<Pagination>
+<MedlinePgn>220</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/1472-6963-8-220</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">To assess the development of and variation in lengths of stay in Dutch hospitals and to determine the potential reduction in hospital days if all Dutch hospitals would have an average length of stay equal to that of benchmark hospitals.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The potential reduction was calculated using data obtained from 69 hospitals that participated in the National Medical Registration (LMR). For each hospital, the average length of stay was adjusted for differences in type of admission (clinical or day-care admission) and case mix (age, diagnosis and procedure). We calculated the number of hospital days that theoretically could be saved by (i) counting unnecessary clinical admissions as day cases whenever possible, and (ii) treating all remaining clinical patients with a length of stay equal to the benchmark (15th percentile length of stay hospital).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The average (mean) length of stay in Dutch hospitals decreased from 14 days in 1980 to 7 days in 2006. In 2006 more than 80% of all hospitals reached an average length of stay shorter than the 15th percentile hospital in the year 2000. In 2006 the mean length of stay ranged from 5.1 to 8.7 days. If the average length of stay of the 15th percentile hospital in 2006 is identified as the standard that other hospitals can achieve, a 14% reduction of hospital days can be attained. This percentage varied substantially across medical specialties. Extrapolating the potential reduction of hospital days of the 69 hospitals to all 98 Dutch hospitals yielded a total savings of 1.8 million hospital days (2006). The average length of stay in Dutch hospitals if all hospitals were able to treat their patients as the 15th percentile hospital would be 6 days and the number of day cases would increase by 13%.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Hospitals in the Netherlands vary substantially in case mix adjusted length of stay. Benchmarking--using the method presented--shows the potential for efficiency improvement which can be realized by decreasing inputs (e.g. available beds for inpatient care). Future research should focus on the effect of length of stay reduction programs on outputs such as quality of care.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Borghans</LastName>
+<ForeName>Ine</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Tranzo, Tilburg University, PO Box 90153, 5000 LE Tilburg, The Netherlands. ine.borghans@prismant.nl</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heijink</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kool</LastName>
+<ForeName>Tijn</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lagoe</LastName>
+<ForeName>Ronald J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Westert</LastName>
+<ForeName>Gert P</ForeName>
+<Initials>GP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>24</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>BMC Health Serv Res</MedlineTA>
+<NlmUniqueID>101088677</NlmUniqueID>
+<ISSNLinking>1472-6963</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019985">Benchmarking</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017046">Cost Savings</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003631">Day Care, Medical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003953">Diagnosis-Related Groups</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000145">classification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017598">Efficiency, Organizational</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017721">Hospital Costs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006769">Hospitals, General</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006784">Hospitals, Teaching</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000191">economics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007902">Length of Stay</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008511">Medicine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009426">Netherlands</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010343">Patient Admission</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012042">Registries</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013038">Specialization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2008</Year>
+<Month>07</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18950476</ArticleId>
+<ArticleId IdType="pii">1472-6963-8-220</ArticleId>
+<ArticleId IdType="doi">10.1186/1472-6963-8-220</ArticleId>
+<ArticleId IdType="pmc">PMC2582034</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Nurs Care Qual. 1999 Nov;Spec No:40-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10616274</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Public Health. 2001 Jun;11(2):166-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11420803</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Qual Saf Health Care. 2002 Sep;11(3):209-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12486979</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Qual Saf Health Care. 2002 Sep;11(3):219-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12486984</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CMAJ. 1995 Mar 1;152(5):675-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7882230</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aust Health Rev. 2007 Feb;31(1):150-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17266499</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CMAJ. 1995 Sep 15;153(6):745-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7664228</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hosp Health Serv Adm. 1997 Winter;42(4):489-507</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10174462</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ned Tijdschr Geneeskd. 1998 Jul 11;142(28):1612-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9763843</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Health Care Manage Rev. 2005 Apr-Jun;30(2):82-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15923910</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Qual Manag Health Care. 1995 Spring;3(3):62-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10143557</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

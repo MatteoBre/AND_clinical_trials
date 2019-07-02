@@ -1,0 +1,367 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21724195</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>10</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1097-685X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>142</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of thoracic and cardiovascular surgery</Title>
+<ISOAbbreviation>J. Thorac. Cardiovasc. Surg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The impact of adjuvant brachytherapy with sublobar resection on pulmonary function and dyspnea in high-risk patients with operable disease: preliminary results from the American College of Surgeons Oncology Group Z4032 trial.</ArticleTitle>
+<Pagination>
+<MedlinePgn>554-62</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jtcvs.2010.10.061</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Z4032 was a randomized study conducted by the American College of Surgeons Oncology Group comparing sublobar resection alone versus sublobar resection with brachytherapy for high-risk operable patients with non-small cell lung cancer (NSCLC). This evaluates early impact of adjuvant brachytherapy on pulmonary function tests, dyspnea, and perioperative (30-day) respiratory complications in this impaired patient population.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Eligible patients with stage I NSCLC tumors 3 cm or smaller were randomly allocated to undergo sublobar resection with (SRB group) or without (SR group) brachytherapy. Outcomes measured included the percentage predicted forced expiratory volume in 1 second (FEV1%), percentage predicted carbon monoxide diffusion capacity (DLCO%), and dyspnea score per the University of California San Diego Shortness of Breath Questionnaire. Pulmonary morbidity was assessed per the Common Terminology Criteria for Adverse Events version 3.0. Outcomes were measured at baseline and 3 months. A 10% change in pulmonary function test or 10-point change in dyspnea score was deemed clinically meaningful.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Z4032 permanently closed to patient accrual in January 2010 at 224 patients. At 3-month follow-up, pulmonary function data are currently available for 148 (74 SR and 74 SRB) patients described in this report. There were no differences in baseline characteristics between arms. In the SR arm, 9 patients (12%) reported grade 3 respiratory adverse events, compared with 12 (16%) in the SRB arm (P = .49). There was no significant change in percentage change in DLCO% or dyspnea score from baseline to 3 months within either arm. In the case of FEV1%, percentage change from baseline to 3 months was significant within the SR arm (P = .03), with patients reporting improvement in FEV1% at month 3. Multivariable regression analysis (adjusted for baseline values) showed no significant impact of treatment arm, tumor location (upper vs other lobe), or surgical approach (video-assisted thoracoscopic surgery vs thoracotomy) on 3-month FEV1%, DLCO%, and dyspnea score. There was no significant difference in incidence of clinically meaningful (10% pulmonary function or 10-point dyspnea score change) change between arms. Twenty-two percent of patients with lower-lobe tumors and 9% with upper-lobe tumors demonstrated 10% decline in FEV1% (odds ratio, 2.79; 95 confidence interval, 1.07-7.25; P = .04).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Adjuvant intraoperative brachytherapy in conjunction with sublobar resection did not significantly worsen pulmonary function or dyspnea at 3 months in a high-risk population with NSCLC, nor was it associated with increased perioperative pulmonary adverse events. Lower-lobe resection was the only factor significantly associated with clinically meaningful decline in FEV1%.</AbstractText>
+<CopyrightInformation>Copyright © 2011 The American Association for Thoracic Surgery. Published by Mosby, Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Fernando</LastName>
+<ForeName>Hiran C</ForeName>
+<Initials>HC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Cardiothoracic Surgery, Boston Medical Center, 88 E Newton St, Boston, MA 02118, USA. Hiran.Fernando@bmc.org</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Landreneau</LastName>
+<ForeName>Rodney J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mandrekar</LastName>
+<ForeName>Sumithra J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hillman</LastName>
+<ForeName>Shauna L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nichols</LastName>
+<ForeName>Francis C</ForeName>
+<Initials>FC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meyers</LastName>
+<ForeName>Bryan</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>DiPetrillo</LastName>
+<ForeName>Thomas A</ForeName>
+<Initials>TA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heron</LastName>
+<ForeName>Dwight</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jones</LastName>
+<ForeName>David R</ForeName>
+<Initials>DR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Daly</LastName>
+<ForeName>Benedict D T</ForeName>
+<Initials>BD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Starnes</LastName>
+<ForeName>Sandra L</ForeName>
+<Initials>SL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hatter</LastName>
+<ForeName>Jeffrey E</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Putnam</LastName>
+<ForeName>Joe B</ForeName>
+<Initials>JB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>U10 CA076001</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U10 CA076001-02</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>07</Month>
+<Day>02</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Thorac Cardiovasc Surg</MedlineTA>
+<NlmUniqueID>0376343</NlmUniqueID>
+<ISSNLinking>0022-5223</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D001918">Brachytherapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002289">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004417">Dyspnea</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005541">Forced Expiratory Volume</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011653">Pulmonary Diffusing Capacity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018714">Radiotherapy, Adjuvant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020775">Thoracic Surgery, Video-Assisted</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013908">Thoracotomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>04</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>10</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21724195</ArticleId>
+<ArticleId IdType="pii">S0022-5223(11)00513-7</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jtcvs.2010.10.061</ArticleId>
+<ArticleId IdType="pmc">PMC3156868</ArticleId>
+<ArticleId IdType="mid">NIHMS299210</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Am Coll Surg. 1999 Jul;189(1):26-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10401737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 1998 Oct;114(4):1112-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9792585</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2005 Feb;129(2):261-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15678034</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2005 Apr;129(4):813-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15821648</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2006 Mar;129(3):738-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16537876</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Oncol. 2007 Jul;2(7 Suppl 3):S101-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17603304</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg Oncol. 2007 Aug;14(8):2400-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17505859</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2008 Feb;85(2):S780-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18222217</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2008 Jul;9(7):621-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18565793</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hematol Oncol. 2009;2:1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19149899</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2009 May;137(5):1200-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19379992</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 2009 Nov 1;75(3):677-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19251380</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2004 Jul;78(1):228-33; discussion 228-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15223434</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2003 Jan;75(1):237-42; discussion 242-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12537222</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2010 Mar 17;303(11):1070-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20233825</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 1995 Sep;60(3):615-22; discussion 622-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7677489</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 1998 Mar;113(3):619-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9515834</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Radiat Oncol Biol Phys. 1999 Jul 15;44(5):1057-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10421539</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

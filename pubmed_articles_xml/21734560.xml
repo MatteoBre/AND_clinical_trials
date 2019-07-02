@@ -1,0 +1,293 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21734560</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>01</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1538-943X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>57</Volume>
+<Issue>5</Issue>
+<PubDate>
+<MedlineDate>2011 Sep-Oct</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>ASAIO journal (American Society for Artificial Internal Organs : 1992)</Title>
+<ISOAbbreviation>ASAIO J.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Flow field study comparing design iterations of a 50 cc left ventricular assist device.</ArticleTitle>
+<Pagination>
+<MedlinePgn>349-57</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/MAT.0b013e318224e20b</ELocationID>
+<Abstract>
+<AbstractText>The Randomized Evaluation of Mechanical Assistance for the Treatment of Congestive Heart Failure (REMATCH) study shows that implanted ventricular assist devices improve survival time and quality of life when used as a permanent therapy in patients who do not qualify for heart transplant. The success of the pulsatile 70 cc stroke volume left ventricular assist device (LVAD) developed by Penn State has led to the development of a 50 cc stroke volume pump for use in patients with smaller chest cavities to benefit a larger patient population. The initial 50 cc pump shows regions of in vivo thrombus formation, which correlate to low wall shear rates within the device. In an in vitro evaluation of three new designs (V-2, V-3, and V-4) of the 50 cc LVAD, identical except for the location and orientation of their outlet ports, particle image velocimetry (PIV) is used to capture planar flow field data within the pumps. V-2 has an outlet port that is located parallel to the inlet. In V-3, the outlet port is rotated away from the inlet port, with the intention of minimizing the amount of fluid turning needed to exit the device. With V-4 the outlet port is moved to the center of the pump to prolong the desirable rotational flow. PIV data were taken at six planar locations within the pump. Although the modifications to the outlet port locations serve their intended purpose, they also introduce unwanted changes in the flow. Poorer wall washing and weaker rotational flow are observed with V-3 and V-4. Although the differences between the devices are subtle, the device that has the most desirable flow characteristics is V-2.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Nanna</LastName>
+<ForeName>Jason C</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Bioengineering, the Pennsylvania State University, University Park, Pennsylvania 16802, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wivholm</LastName>
+<ForeName>Jennifer A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deutsch</LastName>
+<ForeName>Steven</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Manning</LastName>
+<ForeName>Keefe B</ForeName>
+<Initials>KB</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 HL060276</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HL060276-08A1</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R56 HL060276</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL60276</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>ASAIO J</MedlineTA>
+<NlmUniqueID>9204109</NlmUniqueID>
+<ISSNLinking>1058-2916</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001698">Biomedical Engineering</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001783">Blood Flow Velocity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004867">Equipment Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006333">Heart Failure</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006353">Heart-Assist Devices</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008422">Materials Testing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011673">Pulsatile Flow</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012212">Rheology</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D033081">Shear Strength</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013314">Stress, Mechanical</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>7</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>1</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21734560</ArticleId>
+<ArticleId IdType="doi">10.1097/MAT.0b013e318224e20b</ArticleId>
+<ArticleId IdType="pmc">PMC3163059</ArticleId>
+<ArticleId IdType="mid">NIHMS305188</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Artif Organs. 2003 Dec;27(12):1102-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14678424</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Cardiovasc Surg. 2010 Nov;140(5):1181-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20546799</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biomaterials. 1986 Sep;7(5):354-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3778995</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Artif Organs. 1996 Jun;20(6):681-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8817977</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Artif Organs. 1997 Jul;21(7):830-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9212968</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>ASAIO J. 1999 Jan-Feb;45(1):25-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9952002</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 1999 Aug;68(2):684-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10475471</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biomech Eng. 2004 Aug;126(4):430-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15543860</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biomech Eng. 2004 Oct;126(5):585-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15648811</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>ASAIO J. 2004 Nov-Dec;50(6):537-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15672785</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Artif Organs. 2005 May;29(5):378-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15854213</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Heart Lung Transplant. 2005 May;24(5):566-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15896754</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>ASAIO J. 2005 Sep-Oct;51(5):563-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16322719</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>ASAIO J. 2006 Mar-Apr;52(2):123-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16557096</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Heart Lung Transplant. 2006 Apr;25(4):391-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16563966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Heart Lung Transplant. 2008 Oct;27(10):1096-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18926400</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tex Heart Inst J. 2008;35(3):245-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18941649</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Cardiovasc Dis. 2009 Jun-Jul;102(6-7):509-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19664570</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Heart Fail. 2010 Sep;12(9):990-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20495203</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Thorac Surg. 2004 Jan;77(1):143-9; discussion 149-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14726050</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,121 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">2071853</PMID>
+<DateCompleted>
+<Year>1991</Year>
+<Month>08</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>11</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0098-9134</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>17</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>1991</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of gerontological nursing</Title>
+<ISOAbbreviation>J Gerontol Nurs</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Team-managed care for older adults. A clinical demonstration of a community model.</ArticleTitle>
+<Pagination>
+<MedlinePgn>25-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The multidisciplinary managed care approach is essential for older clients to meet the multiplicity of problems they experience. Goals of the North Little Rock Community Seniors Health Services are to assist older adults to maintain or improve their health and remain living at home as long as possible. The team-managed care focuses on health promotion/disease prevention, monitoring chronic health problems, and team-managed care. Discipline specific assessments, care planning, and follow-up are generated on a computerized, long-term care case management system, COMPASS.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Leath</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thatcher</LastName>
+<ForeName>R M</ForeName>
+<Initials>RM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Gerontol Nurs</MedlineTA>
+<NlmUniqueID>7510258</NlmUniqueID>
+<ISSNLinking>0098-9134</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>N</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D001131">Arkansas</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003153">Community Health Services</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp; administration</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006293">Health Promotion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006299">Health Services for the Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007256">Information Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008329">Managed Care Programs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010347">Patient Care Planning</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010348">Patient Care Team</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1991</Year>
+<Month>7</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1991</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1991</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2071853</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

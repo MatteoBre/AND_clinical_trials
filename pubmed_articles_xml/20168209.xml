@@ -1,0 +1,156 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20168209</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>08</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1538-943X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>56</Volume>
+<Issue>3</Issue>
+<PubDate>
+<MedlineDate>2010 May-Jun</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>ASAIO journal (American Society for Artificial Internal Organs : 1992)</Title>
+<ISOAbbreviation>ASAIO J.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Application of Individualized Bayesian Urea Kinetic Modeling to pediatric hemodialysis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>246-53</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/MAT.0b013e3181cf07d2</ELocationID>
+<Abstract>
+<AbstractText>Incorporating urea rebound using equilibrated urea concentration (Ceq) after hemodialysis (HD) is essential for accurate assessment of HD efficiency. It is impractical to measure Ceq in clinical settings, and there are no recommended methodologies to predict Ceq in children. The objective of this work is to assess the ability of an Individualized Bayesian Urea Kinetic Model (IBKM) for predicting Ceq in children receiving HD. Developed based on adult HD data, the IBKM is a two-pool urea kinetic model that calculates Bayesian estimates of individual Ceq. Blood urea nitrogen (BUN) samples from 30 HD sessions in 13 children (age 12-18 years) were taken at pre-HD, immediately post-HD, and 60 minutes post-HD (Ceq). The IBKM and estimated population parameters from adult data were fitted to the observed data from children to predict individual Ceq using NONMEM VI software in comparison with observed Ceq (9.5 +/- 3.8 mmol/L), the average individual predicted Ceq was 9.4 +/- 3.8 mmol/L, with absolute individual prediction error of 6.2% +/- 4.4%. For a given dialysis goal and desired dialysis duration, the required blood flow rate and dialyzer size are predicted by IBKM and confirmed by the analysis data. This study suggests that the IBKM can be used in a pediatric HD setting and accurately predict Ceq in children using only pre-HD and immediately post-HD BUN.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Marsenic</LastName>
+<ForeName>Olivera</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory for Applied PK/PD, Division of Clinical Pharmacology and Therapeutics, The Children's Hospital of Philadelphia, Philadelphia, Pennsylvania 19104, USA. oljamc@mac.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Liping</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zuppa</LastName>
+<ForeName>Athena</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barrett</LastName>
+<ForeName>Jeffrey S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pfister</LastName>
+<ForeName>Marc</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>ASAIO J</MedlineTA>
+<NlmUniqueID>9204109</NlmUniqueID>
+<ISSNLinking>1058-2916</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>8W8T17847W</RegistryNumber>
+<NameOfSubstance UI="D014508">Urea</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001806">Blood Urea Nitrogen</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002985">Clinical Protocols</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004333">Drug Administration Routes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005544">Forecasting</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010372">Pediatrics</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006435">Renal Dialysis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014508">Urea</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>8</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20168209</ArticleId>
+<ArticleId IdType="doi">10.1097/MAT.0b013e3181cf07d2</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

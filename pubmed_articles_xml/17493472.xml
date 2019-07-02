@@ -1,0 +1,252 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17493472</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>08</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0002-9149</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>99</Volume>
+<Issue>10</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>May</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>The American journal of cardiology</Title>
+<ISOAbbreviation>Am. J. Cardiol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Relation of C-reactive protein to long-term risk of recurrence of atrial fibrillation after electrical cardioversion.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1421-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The aim of this study is to assess the role of C-reactive protein (CRP) in predicting long-term risk of atrial fibrillation (AF) recurrence after electrical cardioversion. CRP levels are associated with the presence of AF and failure of electrical or pharmacologic cardioversion, but no previous study has assessed their predictive role in long-term follow-up after successful electrical cardioversion. One hundred two consecutive patients (age 67 +/- 11 years; 58 men) with nonvalvular persistent AF who underwent successful biphasic electrical cardioversion were studied. High-sensitivity CRP was measured immediately before cardioversion. Follow-up was performed up to 1 year in all cases. Patients were divided into 4 groups according to CRP quartiles. Patients in the lowest CRP quartile (&lt;1.9 mg/L) had significantly lower rates of AF recurrence (4% vs 33% at 3 months in the other 3 groups combined, p = 0.007, and 28% vs 60% at 1 year, p = 0.01). The 4 groups were similar in age, gender, ejection fraction, and left atrial size. Survival analysis confirmed that patients in the lowest CRP quartile had a lower recurrence rate (p = 0.02). Cox regression analyses using age, gender, hypertension, diabetes, ejection fraction, left atrial diameter, use of antiarrhythmic drugs, angiotensin-converting enzyme inhibitors or angiotensin II antagonists, and statins, and CRP quartiles as covariates showed that only CRP was independently associated with AF recurrence during follow-up (hazard ratio 4.98, 95% confidence interval 1.75 to 14.26, p = 0.003). In conclusion, low CRP is associated with long-term maintenance of sinus rhythm after cardioversion for nonvalvular AF.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Loricchio</LastName>
+<ForeName>Maria Luisa</ForeName>
+<Initials>ML</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiology Department, Sandro Pertini Hospital, Rome, Italy. m.loricchio@tin.it</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cianfrocca</LastName>
+<ForeName>Cinzia</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pasceri</LastName>
+<ForeName>Vincenzo</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bianconi</LastName>
+<ForeName>Leopoldo</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Auriti</LastName>
+<ForeName>Antonio</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Calo</LastName>
+<ForeName>Leonardo</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lamberti</LastName>
+<ForeName>Filippo</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Castro</LastName>
+<ForeName>Antonio</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pandozi</LastName>
+<ForeName>Claudio</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palamara</LastName>
+<ForeName>Antonio</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Santini</LastName>
+<ForeName>Massimo</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>04</Month>
+<Day>05</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Cardiol</MedlineTA>
+<NlmUniqueID>0207277</NlmUniqueID>
+<ISSNLinking>0002-9149</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000889">Anti-Arrhythmia Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018836">Inflammation Mediators</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-41-4</RegistryNumber>
+<NameOfSubstance UI="D002097">C-Reactive Protein</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000704">Analysis of Variance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000889">Anti-Arrhythmia Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001281">Atrial Fibrillation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002097">C-Reactive Protein</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004554">Electric Countershock</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018836">Inflammation Mediators</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012008">Recurrence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016019">Survival Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2006</Year>
+<Month>11</Month>
+<Day>01</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2006</Year>
+<Month>12</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>5</Month>
+<Day>12</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>3</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>5</Month>
+<Day>12</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17493472</ArticleId>
+<ArticleId IdType="pii">S0002-9149(07)00266-4</ArticleId>
+<ArticleId IdType="doi">10.1016/j.amjcard.2006.12.074</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,266 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27643878</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1938-5404</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>186</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Radiation research</Title>
+<ISOAbbreviation>Radiat. Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>PIDD Mediates Radiation-Induced Microglia Activation.</ArticleTitle>
+<Pagination>
+<MedlinePgn>345-359</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Radiation-induced brain injury (RIBI) is the most common adverse effect that occurs after cranial radiation therapy (CRT). We have previously reported that CRT-induced release of pro-inflammatory cytokines in brain tissues and inhibition of neurogenesis in the hippocampus might be caused by microglial activation and may play an important role in RIBI. In this study we examined the role of p53-induced protein with a death domain (PIDD) in radiation-induced activation of BV-2 cells. BV-2 cells were transfected with antisense oligonucleotide control mRNA or antisense oligonucleotide-targeted PIDD mRNA and were sham or 16 Gy irradiated. The state of microglia and expression of pro-inflammatory cytokines were detected using real-time polymerase chain reaction, Western blotting, immunofluorescence and flow cytometry. Findings from this study suggest that silencing PIDD expression could inhibit microglial activation by downregulating the PIDD-C/NF-κβ transcription pathway. PIDD acts as a critical switcher between the NF-κβ transcription pathway and radiation-induced apoptosis. Given these findings, this study offers a potential novel approach to further combination treatment of RIBI.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Nong</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>a   Lung Cancer and Gastroenterology Department, Hunan Cancer Hospital, Affiliated Tumor Hospital of Xiangya Medical School of Central South University, Changsha, 410006, China; and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gao</LastName>
+<ForeName>Xican</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>b   Cancer Center.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Qu</LastName>
+<ForeName>Xiaofei</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>b   Cancer Center.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Ruiguang</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>b   Cancer Center.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tong</LastName>
+<ForeName>Fan</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>b   Cancer Center.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cai</LastName>
+<ForeName>Qian</ForeName>
+<Initials>Q</Initials>
+<AffiliationInfo>
+<Affiliation>b   Cancer Center.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dong</LastName>
+<ForeName>Jihua</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>c   Experimental Center and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hu</LastName>
+<ForeName>Yu</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>d   Institute of Hematology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Gang</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>b   Cancer Center.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dong</LastName>
+<ForeName>Xiaorong</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>b   Cancer Center.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>09</Month>
+<Day>19</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Radiat Res</MedlineTA>
+<NlmUniqueID>0401245</NlmUniqueID>
+<ISSNLinking>0033-7587</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D053418">Death Domain Receptor Signaling Adaptor Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018836">Inflammation Mediators</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C414729">Lrdd protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>S</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002453">Cell Cycle</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002470">Cell Survival</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016922">Cellular Senescence</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053903">DNA Breaks, Double-Stranded</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004260">DNA Repair</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053418">Death Domain Receptor Signaling Adaptor Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000172">deficiency</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015536">Down-Regulation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020868">Gene Silencing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018836">Inflammation Mediators</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017628">Microglia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016328">NF-kappa B</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010641">Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011836">Radiation Tolerance</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>5</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>9</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27643878</ArticleId>
+<ArticleId IdType="doi">10.1667/RR14374.1</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

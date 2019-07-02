@@ -1,0 +1,157 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16849861</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>10</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0257-2753</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>24</Volume>
+<Issue>3-4</Issue>
+<PubDate>
+<Year>2006</Year>
+</PubDate>
+</JournalIssue>
+<Title>Digestive diseases (Basel, Switzerland)</Title>
+<ISOAbbreviation>Dig Dis</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Frequency of functional bowel disorders among healthy volunteers in Mexico City.</ArticleTitle>
+<Pagination>
+<MedlinePgn>342-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The frequency of functional bowel disorders (FBD) in Mexico using the Rome II criteria is unknown.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The Rome II Modular Questionnaire (RII-MQ) was translated into Spanish in coordination with the Rome Committee and their Latin American program. Volunteers were recruited by advertisement in Mexico City, and administered the RII-MQ.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The study population consisted of 324 healthy volunteers, with a mean age of 35.7; 66% were female. The most prevalent disorders were heartburn 35%, irritable bowel syndrome (IBS) 35%, functional bloating 21%, proctalgia fugax 21%, and functional constipation 19%. Based on gender, IBS-C was 4 times more frequent in females than males (19 vs. 4.6%) and functional bloating 3 times more frequent (10 vs. 3.7%). Differences according to occupation included a higher prevalence of ulcer-like dyspepsia (p = 0.04), IBS-C (p = 0.018) and proctalgia fugax (p = 0.034) among students.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This is the first study to use RII-MQ to determine the prevalence of FBD in urban Mexico. The prevalence of IBS was significant and is related to a number of factors, including the stress of living in an overpopulated city. Selection bias is likely operative. A community-based study is warranted.</AbstractText>
+<CopyrightInformation>Copyright 2006 S. Karger AG, Basel</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Schmulson</LastName>
+<ForeName>Max</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Liver, Pancreas and Motility Laboratory (HIPAM), Department of Experimental Medicine, Faculty of Medicine, Universidad Nacional Autonoma de Mexico-UNAM, Mexico City, Mexico. maxjulio@avantel.net</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ortíz</LastName>
+<ForeName>Orianna</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Santiago-Lomeli</LastName>
+<ForeName>Mariana</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gutiérrez-Reyes</LastName>
+<ForeName>Gabriela</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gutiérrez-Ruiz</LastName>
+<ForeName>María Concepción</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Robles-Díaz</LastName>
+<ForeName>Guillermo</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morgan</LastName>
+<ForeName>Douglas</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Switzerland</Country>
+<MedlineTA>Dig Dis</MedlineTA>
+<NlmUniqueID>8701186</NlmUniqueID>
+<ISSNLinking>0257-2753</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003430">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D043183">Irritable Bowel Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D008800">Mexico</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011795">Surveys and Questionnaires</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014505">Urban Population</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>10</Month>
+<Day>18</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>7</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16849861</ArticleId>
+<ArticleId IdType="pii">92887</ArticleId>
+<ArticleId IdType="doi">10.1159/000092887</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

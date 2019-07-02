@@ -1,0 +1,165 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23959658</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>07</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>01</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">2191-0251</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>27</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of pediatric endocrinology &amp; metabolism : JPEM</Title>
+<ISOAbbreviation>J. Pediatr. Endocrinol. Metab.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Permanent neonatal diabetes mellitus in monozygotic twins achieving low-dose sulfonylurea therapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>135-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1515/jpem-2013-0171</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">/j/jpem.2014.27.issue-1-2/jpem-2013-0171/jpem-2013-0171.xml</ELocationID>
+<Abstract>
+<AbstractText>Although KCNJ11 mutations of the KATP channel within the β cell are known to prevent insulin secretion and cause permanent neonatal diabetes mellitus, the genotype-phenotype correlation continues to be of clinical interest. We report the clinical outcomes in monozygotic twins with neonatal diabetes due to heterozygous mutations in KCNJ11 at R201H. The twins demonstrated concordant clinical outcomes after transitioning from insulin to oral sulfonylurea therapy at 4 months of age. Both twins remained on sulfonylurea therapy while achieving similar growth, development, and metabolic goals. They exhibit marked sensitivity to sulfonylurea therapy with current dosing at 0.05 and 0.06 mg/kg per day at age 5 years which deviates from the approximate maintenance dose of 0.4 mg/kg per day at the time of transition and subsequent follow-up. Metabolic control provided by low-dose sulfonylurea therapy is likely due to early age at transition from insulin to sulfonylurea therapy and possible preservation of endogenous insulin secretion.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hicks</LastName>
+<ForeName>Kelly A</ForeName>
+<Initials>KA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kushner</LastName>
+<ForeName>Jake A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heptulla</LastName>
+<ForeName>Rubina</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ham</LastName>
+<ForeName>J Nina</ForeName>
+<Initials>JN</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>J Pediatr Endocrinol Metab</MedlineTA>
+<NlmUniqueID>9508900</NlmUniqueID>
+<ISSNLinking>0334-018X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007004">Hypoglycemic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>SX6K58TVWC</RegistryNumber>
+<NameOfSubstance UI="D005905">Glyburide</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003920">Diabetes Mellitus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005905">Glyburide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007004">Hypoglycemic Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007232">Infant, Newborn, Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014430">Twins, Monozygotic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>05</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>8</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>8</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>29</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23959658</ArticleId>
+<ArticleId IdType="doi">10.1515/jpem-2013-0171</ArticleId>
+<ArticleId IdType="pii">/j/jpem.ahead-of-print/jpem-2013-0171/jpem-2013-0171.xml</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

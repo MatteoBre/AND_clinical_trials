@@ -1,0 +1,256 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27029399</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>10</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1757-7241</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>24</Volume>
+<PubDate>
+<Year>2016</Year>
+<Month>Mar</Month>
+<Day>31</Day>
+</PubDate>
+</JournalIssue>
+<Title>Scandinavian journal of trauma, resuscitation and emergency medicine</Title>
+<ISOAbbreviation>Scand J Trauma Resusc Emerg Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Geographic information system data from ambulances applied in the emergency department: effects on patient reception.</ArticleTitle>
+<Pagination>
+<MedlinePgn>39</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/s13049-016-0232-5</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Emergency departments (ED) recognize crowding and handover from prehospital to in-hospital settings to be major challenges. Prehospital Geographical Information Systems (GIS) may be a promising tool to address such issues. In this study, the use of prehospital GIS data was implemented in an ED in order to investigate its effect on 1) wait time and unprepared activations of Trauma Teams (TT) and Medical Emergency Teams (MET) and 2) nurses' perceptions regarding patient reception, workflow and resource utilization.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS"/>
+<AbstractText Label="INTERVENTION" NlmCategory="METHODS">From May 1st 2014 to October 31th 2014, GIS data was displayed in the ED. Data included real-time estimated time of arrival, distance to ED, dispatch criteria, patient data and ambulance contact information. Data was used by coordinating nurses for time activation of TT and MET involved in the initial treatment of severely-injured or critically-ill patients. In addition, it was used as a logistics tool for handling all other patients transported by ambulance to the ED.</AbstractText>
+<AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">The study followed a mixed-methods design, consisting of a quantitative study (before and after intervention) and a qualitative study (survey and interviews).</AbstractText>
+<AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">Participants included all patients received by TT or MET and coordinating nurses in the ED.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">1.) Quantitative: 599 patients were included. The median wait time for TT and MET was 5 min both before and after the GIS intervention, showing no difference (p = 0.18). A significant reduction in the subgroup of waits &gt;10 min was found (p &lt; 0.05). No difference was found in unprepared TT and MET activations. 2.) Qualitative: Nurses perceived GIS data as a tool to optimize resource utilization and quality of all patients' reception, critically or non-critically ill. No substantial disadvantages were reported.</AbstractText>
+<AbstractText Label="DISCUSSION" NlmCategory="CONCLUSIONS">The contradiction of measured median wait time and nurses perceived improved timing of team activation may result from having both RT- ETA and supplemental patient information not only for seriously-injured or critically-ill patients received by the TT and MET, but for all patients transported by ambulance. The reduction in waits &gt; 10 minutes may have contributed to the overall perception of reduced wait time, as avoidance of long waits is clinically more important than reduction in the median wait time.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">A comparison of the use of prehospital GIS data in the ED with the control period showed no effect on median wait time for TT and MET, however, the number of waits of &gt;10 min was reduced. On the other hand, nurses perceived implementation of GIS data as improving workflow, resource utilization and quality of all patients' reception, critically as well as non-critically ill. There were no substantial disadvantages to the GIS application.</AbstractText>
+<AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials.gov (NCT02188966).</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Raaber</LastName>
+<ForeName>Nikolaj</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Research Department, Prehospital Emergency Medical Services, Central Denmark Region, Olof Palmes Alle 34, Aarhus N, DK-8200, Denmark. nikoraab@rm.dk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Research Center for Emergency Medicine, Aarhus University Hospital, Noerrebrogade 44, build. 30, Aarhus C, DK 8000, Denmark. nikoraab@rm.dk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Emergency Department, Aarhus University Hospital, Norrebrogade 44, Aarhus C, DK-8000, Denmark. nikoraab@rm.dk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Duvald</LastName>
+<ForeName>Iben</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Interdisciplinary Centre for Organizational Architecture (ICOA), Business and Social Sciences, Aarhus University, Bartholins Allé 12, Aarhus C, DK-8000, Denmark.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Emergency Department, Aarhus University Hospital, Norrebrogade 44, Aarhus C, DK-8000, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Riddervold</LastName>
+<ForeName>Ingunn</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Research Department, Prehospital Emergency Medical Services, Central Denmark Region, Olof Palmes Alle 34, Aarhus N, DK-8200, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Christensen</LastName>
+<ForeName>Erika F</ForeName>
+<Initials>EF</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Institute, Aalborg University, Sdr. Skovvej 15, Aalborg, DK-9000, Denmark.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Anesthesiology and intensive care medicine, Aalborg University Hospital, Hobrovej 18-20, Aalborg, DK-9000, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kirkegaard</LastName>
+<ForeName>Hans</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Research Center for Emergency Medicine, Aarhus University Hospital, Noerrebrogade 44, build. 30, Aarhus C, DK 8000, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT02188966</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>03</Month>
+<Day>31</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Scand J Trauma Resusc Emerg Med</MedlineTA>
+<NlmUniqueID>101477511</NlmUniqueID>
+<ISSNLinking>1757-7241</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000552">Ambulances</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D003441">Crowding</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003718">Denmark</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017598">Efficiency, Organizational</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004636">Emergency Service, Hospital</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D040362">Geographic Information Systems</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007407">Interviews as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D036301">Qualitative Research</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011795">Surveys and Questionnaires</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Emergency department nursing</Keyword>
+<Keyword MajorTopicYN="N">Emergency department organization</Keyword>
+<Keyword MajorTopicYN="N">GIS data</Keyword>
+<Keyword MajorTopicYN="N">Medical emergency team activation</Keyword>
+<Keyword MajorTopicYN="N">Telemedicine</Keyword>
+<Keyword MajorTopicYN="N">Trauma team activation</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>03</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27029399</ArticleId>
+<ArticleId IdType="doi">10.1186/s13049-016-0232-5</ArticleId>
+<ArticleId IdType="pii">10.1186/s13049-016-0232-5</ArticleId>
+<ArticleId IdType="pmc">PMC4815218</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Trauma. 1987 Aug;27(8):892-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3612866</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Emerg Med. 1991 Jul;9(4):301-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2053997</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Health Serv Res Policy. 2008 Apr;13(2):92-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18416914</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Emerg Med. 2008 Aug;52(2):126-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18433933</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acad Emerg Med. 2009 Jan;16(1):1-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19007346</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Health Geogr. 2012;11:42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23033894</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prehosp Emerg Care. 2013 Oct-Dec;17(4):458-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23865736</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nurs Scholarsh. 2014 Mar;46(2):106-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24354886</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

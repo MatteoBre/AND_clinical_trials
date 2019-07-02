@@ -1,0 +1,184 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27814309</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>05</Month>
+<Day>29</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1878-6448</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>40</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2017</Year>
+</PubDate>
+</JournalIssue>
+<Title>NeuroRehabilitation</Title>
+<ISOAbbreviation>NeuroRehabilitation</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Osteopathic manipulation as a complementary approach to Parkinson's disease: A controlled pilot study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>145-151</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3233/NRE-161400</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Osteopathic Manipulative Medicine (OMM) is a therapy of manual forces that is directed to improve function and homeostasis. It has been shown to improve balance in individuals with dizziness, and improve gait in Parkinson's disease (PD). This study was designed to determine if our pre-defined OMM protocol would improve motor function and balance in individuals with PD.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A randomized controlled trial to test OMM on balance and motor function in PD measured by the Mini-BESTest, Sensory Organization Test (SOT), and MDS-UPDRS. 11 Subjects (age 75±16) were randomly assigned to either bi-weekly OMM treatments first for 6 weeks or weekly counseling sessions from a medical provider for 6 weeks as a placebo-control. 9 subjects completed this study.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">There were no significant changes in SOT or Mini BESTest in either group (p &lt; 0.05). There was significant improvement in the OMM group for MDS-UPDRS.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our pilot data showed OMM treatment bi-weekly for 6 weeks improved motor function. There were no significant changes in balance, however there were clinically relevant improvements after 6 weeks of OMM. Using a predefined protocol, OMM may be a complementary approach to improving balance and motor function in individuals with PD.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>DiFrancisco-Donoghue</LastName>
+<ForeName>Joanne</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Osteopathic Medicine, College of Osteopathic Medicine, New York Institute of Technology (NYITCOM), Old Westbury, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Apoznanski</LastName>
+<ForeName>Theresa</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>College of Osteopathic Medicine, New York Institute of Technology (NYIT), Old Westbury, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Vries</LastName>
+<ForeName>Kristen</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>College of Osteopathic Medicine, New York Institute of Technology (NYIT), Old Westbury, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jung</LastName>
+<ForeName>Min-Kyung</ForeName>
+<Initials>MK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Research, NYIT College of Osteopathic Medicine, Old Westbury, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mancini</LastName>
+<ForeName>Jayme</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Osteopathic Medicine, College of Osteopathic Medicine, New York Institute of Technology (NYITCOM), Old Westbury, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yao</LastName>
+<ForeName>Sheldon</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Osteopathic Medicine, College of Osteopathic Medicine, New York Institute of Technology (NYITCOM), Old Westbury, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>NeuroRehabilitation</MedlineTA>
+<NlmUniqueID>9113791</NlmUniqueID>
+<ISSNLinking>1053-8135</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020233">Gait Disorders, Neurologic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000534">rehabilitation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D026301">Manipulation, Osteopathic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010300">Parkinson Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000534">rehabilitation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010865">Pilot Projects</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004856">Postural Balance</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Osteopathic medicine</Keyword>
+<Keyword MajorTopicYN="Y">Parkinson’s disease</Keyword>
+<Keyword MajorTopicYN="Y">balance</Keyword>
+<Keyword MajorTopicYN="Y">manual manipulation</Keyword>
+<Keyword MajorTopicYN="Y">motor function</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>5</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27814309</ArticleId>
+<ArticleId IdType="pii">NRE1400</ArticleId>
+<ArticleId IdType="doi">10.3233/NRE-161400</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,134 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23307516</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>06</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>01</Month>
+<Day>11</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1875-9114</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>32</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pharmacotherapy</Title>
+<ISOAbbreviation>Pharmacotherapy</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Can the antibiogram be used to assess microbiologic outcomes after antimicrobial stewardship interventions? A critical review of the literature.</ArticleTitle>
+<Pagination>
+<MedlinePgn>668-76</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/j.1875-9114.2012.01163.x</ELocationID>
+<Abstract>
+<AbstractText>Hospitals are implementing antimicrobial stewardship programs (ASPs) in response to national guidelines to improve the use and to extend the utility of antiinfective drugs. An often implied purpose of ASPs is to curb or reverse the emergence of resistant bacteria. Because antibiotic use causes antibiotic resistance, there is a natural tendency to link local measures of antibiotic use to local measures of bacterial resistance, and the hospital antibiogram is a readily available measure of resistance. We performed a literature review to identify published reports that used hospitalwide and unit-specific antibiograms to assess the relationship of ASP interventions to changes in resistance. Eight studies were identified and reviewed. The relationship between hospital antibiotic use and resistance is complex, and the existing literature has several limitations. Furthermore, the antibiogram itself is neither designed nor well suited to reflect changes in hospital antimicrobial drug use. The literature on the effectiveness of ASPs in reducing resistance continues to emerge, but at this time the antibiogram bears an inconsistent relationship with changes in hospital antibiotic use and cannot be recommended to reliably evaluate an ASP intervention. Interrupted time series analysis is a superior strategy to assess the effect of an ASP intervention on bacterial resistance, but it is not widely used because of its complexity and greater data requirements. Nevertheless, before ASP efforts can be convincingly demonstrated to have a favorable impact on resistance, a more sophisticated approach that links drug use to resistance should become a priority, at least for hospitals that have sufficient resources.</AbstractText>
+<CopyrightInformation>© 2012 Pharmacotherapy Publications, Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Schulz</LastName>
+<ForeName>Lucas T</ForeName>
+<Initials>LT</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pharmacy, University of Wisconsin Hospital and Clinics, Madison, Wisconsin, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fox</LastName>
+<ForeName>Barry C</ForeName>
+<Initials>BC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Polk</LastName>
+<ForeName>Ron E</ForeName>
+<Initials>RE</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pharmacotherapy</MedlineTA>
+<NlmUniqueID>8111305</NlmUniqueID>
+<ISSNLinking>0277-0008</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000900">Anti-Bacterial Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001424">Bacterial Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D024881">Drug Resistance, Bacterial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006761">Hospitals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008826">Microbial Sensitivity Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017410">Practice Guidelines as Topic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>1</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>1</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>6</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23307516</ArticleId>
+<ArticleId IdType="doi">10.1002/j.1875-9114.2012.01163.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

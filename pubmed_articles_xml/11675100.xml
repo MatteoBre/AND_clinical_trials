@@ -1,0 +1,115 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11675100</PMID>
+<DateCompleted>
+<Year>2001</Year>
+<Month>11</Month>
+<Day>01</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0140-6736</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>358</Volume>
+<Issue>9289</Issue>
+<PubDate>
+<Year>2001</Year>
+<Month>Oct</Month>
+<Day>13</Day>
+</PubDate>
+</JournalIssue>
+<Title>Lancet (London, England)</Title>
+<ISOAbbreviation>Lancet</ISOAbbreviation>
+</Journal>
+<ArticleTitle>UK funding for stroke research.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1275</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bennett</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Burden</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Lancet</MedlineTA>
+<NlmUniqueID>2985213R</NlmUniqueID>
+<ISSNLinking>0140-6736</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>Lancet. 2001 May 19;357(9268):1612-6</RefSource>
+<PMID Version="1">11377668</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006292">Health Priorities</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012109">Research Support as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020521">Stroke</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006113">United Kingdom</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2001</Year>
+<Month>10</Month>
+<Day>25</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2001</Year>
+<Month>11</Month>
+<Day>3</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2001</Year>
+<Month>10</Month>
+<Day>25</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11675100</ArticleId>
+<ArticleId IdType="pii">S0140-6736(01)06372-3</ArticleId>
+<ArticleId IdType="doi">10.1016/S0140-6736(01)06372-3</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

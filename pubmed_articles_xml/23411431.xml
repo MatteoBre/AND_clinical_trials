@@ -1,0 +1,785 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23411431</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>08</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1555-905X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>8</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Clinical journal of the American Society of Nephrology : CJASN</Title>
+<ISOAbbreviation>Clin J Am Soc Nephrol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A longitudinal study of left ventricular function and structure from CKD to ESRD: the CRIC study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>355-62</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.2215/CJN.06020612</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND AND OBJECTIVES" NlmCategory="OBJECTIVE">Abnormal left ventricular structure and function are associated with increased risk of adverse outcomes among patients with CKD and ESRD. A better understanding of changes in left ventricular mass and ejection fraction during the transition from CKD to ESRD may provide important insights to opportunities to improve cardiac outcomes.</AbstractText>
+<AbstractText Label="DESIGN, SETTING, PARTICIPANTS, &amp; MEASUREMENTS" NlmCategory="METHODS">This was a longitudinal study of a subset of participants of the Chronic Renal Insufficiency Cohort who were enrolled from 2003 to 2007 and followed through January of 2011. Participants were included if they had serial echocardiograms performed at advanced CKD (defined as estimated GFR&lt;20 ml/min per 1.73 m(2)) and again after ESRD (defined as need for hemodialysis or peritoneal dialysis).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 190 participants (44% female, 66% black) had echocardiograms during advanced CKD and after ESRD. Mean (SD) estimated GFR at advanced CKD was 16.9 (3.5) ml/min per 1.73 m(2). Mean (SD) time between the advanced CKD echocardiogram and ESRD echocardiogram was 2.0 (1.0) years. There was no significant change in left ventricular mass index (62.3-59.5 g/m(2.7), P=0.10) between advanced CKD and ESRD; however, ejection fraction significantly decreased (53%-50%, P=0.002). Interactions for age, race, dialysis modality, and diabetes status were not significant (P&gt;0.05).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Mean left ventricular mass index did not change significantly from advanced CKD to ESRD; however, ejection fraction declined during this transition period. Although left ventricular mass index is fixed by advanced stages of CKD, ejection fraction decline during more advanced stages of CKD may be an important contributor to cardiovascular disease and mortality after dialysis.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bansal</LastName>
+<ForeName>Nisha</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Nephrology, University of California, San Francisco, 521 Parnassus Avenue, Box 0532, San Francisco, CA 94143, USA. nisha.bansal@ucsf.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Keane</LastName>
+<ForeName>Martin</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Delafontaine</LastName>
+<ForeName>Patrice</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dries</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Foster</LastName>
+<ForeName>Elyse</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gadegbeku</LastName>
+<ForeName>Crystal A</ForeName>
+<Initials>CA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Go</LastName>
+<ForeName>Alan S</ForeName>
+<Initials>AS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hamm</LastName>
+<ForeName>L Lee</ForeName>
+<Initials>LL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kusek</LastName>
+<ForeName>John W</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ojo</LastName>
+<ForeName>Akinlolu O</ForeName>
+<Initials>AO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rahman</LastName>
+<ForeName>Mahboob</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tao</LastName>
+<ForeName>Kaixiang</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wright</LastName>
+<ForeName>Jackson T</ForeName>
+<Initials>JT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xie</LastName>
+<ForeName>Dawei</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hsu</LastName>
+<ForeName>Chi-yuan</ForeName>
+<Initials>CY</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>CRIC Study Investigators</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>U01 DK061028</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR-025005</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK072231</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01DK060963</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR025005</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 DK060984</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 DK061021</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01DK061022</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30 GM103337</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 DK060980</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR-024131</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 DK070939</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24DK092291</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 DK060963</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K23DK088865</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024131</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U54 GM104940</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1RR024986</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01DK060980</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 DK061022</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01DK061021</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P30GM103337</GrantID>
+<Acronym>GM</Acronym>
+<Agency>NIGMS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01DK060984</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1RR029879</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01DK060990</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01DK061028</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 TR000439</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K23 DK088865</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>M01 RR016500</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 DK060902</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01DK060902</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 DK060990</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1TR000439</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>M01 RR-16500</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>K24 DK092291</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR-024134</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01DK070939</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024986</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR029879</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 RR024134</GrantID>
+<Acronym>RR</Acronym>
+<Agency>NCRR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>02</Month>
+<Day>14</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Clin J Am Soc Nephrol</MedlineTA>
+<NlmUniqueID>101271570</NlmUniqueID>
+<ISSNLinking>1555-9041</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Clin J Am Soc Nephrol. 2013 Mar;8(3):339-41</RefSource>
+<PMID Version="1">23393103</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016009">Chi-Square Distribution</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005919">Glomerular Filtration Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007668">Kidney</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007676">Kidney Failure, Chronic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008137">Longitudinal Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010530">Peritoneal Dialysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006435">Renal Dialysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051436">Renal Insufficiency, Chronic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D013318">Stroke Volume</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014463">Ultrasonography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018487">Ventricular Dysfunction, Left</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016277">Ventricular Function, Left</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<InvestigatorList>
+<Investigator ValidYN="Y">
+<LastName>Appel</LastName>
+<ForeName>Lawrence J</ForeName>
+<Initials>LJ</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Feldman</LastName>
+<ForeName>Harold I</ForeName>
+<Initials>HI</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Go</LastName>
+<ForeName>Alan S</ForeName>
+<Initials>AS</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>He</LastName>
+<ForeName>Jiang</ForeName>
+<Initials>J</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Kusek</LastName>
+<ForeName>John W</ForeName>
+<Initials>JW</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Lash</LastName>
+<ForeName>James P</ForeName>
+<Initials>JP</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Ojo</LastName>
+<ForeName>Akinlolu</ForeName>
+<Initials>A</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Rahman</LastName>
+<ForeName>Mahboob</ForeName>
+<Initials>M</Initials>
+</Investigator>
+<Investigator ValidYN="Y">
+<LastName>Townsend</LastName>
+<ForeName>Raymond R</ForeName>
+<Initials>RR</Initials>
+</Investigator>
+</InvestigatorList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>8</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23411431</ArticleId>
+<ArticleId IdType="pii">CJN.06020612</ArticleId>
+<ArticleId IdType="doi">10.2215/CJN.06020612</ArticleId>
+<ArticleId IdType="pmc">PMC3586970</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Am Soc Nephrol. 2000 May;11(5):912-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10770969</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2001 Jan 23;103(3):369-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11157687</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2003 Jan 7;138(1):10-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12513039</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2003 Jan 15;41(2):217-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12535812</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2003 Jul;14(7 Suppl 2):S148-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12819321</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2003 Aug 19;108(7):833-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12912820</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2004 May 10;164(9):969-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15136305</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 Sep 23;351(13):1296-305</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15385656</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1989 Aug;36(2):286-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2528654</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1990 Jan 11;322(2):100-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2403651</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1995 Jan;47(1):186-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7731145</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1995 May 15;91(10):2642-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7743628</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 1995 Jun;5(12):2024-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7579050</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 1996 Mar;27(3):347-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8604703</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1996 May;49(5):1379-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8731103</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nephrol Dial Transplant. 1996 Jul;11(7):1277-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8672023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 1996 May;7(5):728-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8738808</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int Suppl. 1996 Jun;55:S173-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8743547</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1998 Aug;54(2):561-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9690224</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1998 Sep 17;339(12):799-805</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9738087</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 1998 Nov;54(5):1720-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9844150</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 1999 Mar;33(3):507-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10070915</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1999 Jun 15;99(23):3071-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10368127</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 1999 Jul;34(1):125-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10401026</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2005 Aug;46(2):320-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16112052</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Echocardiogr. 2005 Dec;18(12):1440-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16376782</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2006 May;17(5):1460-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16597683</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2006 Jul 20;355(3):260-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16855266</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2006 Oct;48(4):606-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16997057</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2008 Nov 25;118(22):2259-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19001024</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hypertension. 2009 Mar;53(3):458-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19188527</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2009 Aug;4(8):1302-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19541818</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Soc Nephrol. 2009 Dec;20(12):2651-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19850955</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nephrol. 2010 Mar-Apr;23(2):181-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20119930</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2010 May;5(5):805-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20378644</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hypertension. 2010 Aug;56(2):210-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20606110</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2010 Oct;5(10):1793-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20595691</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Am Soc Nephrol. 2011 Nov;6(11):2642-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21959599</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Heart J. 2012 Mar;163(3):430-7, 437.e1-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22424014</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

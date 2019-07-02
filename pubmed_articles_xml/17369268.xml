@@ -1,0 +1,130 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17369268</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>08</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>04</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1099-5129</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>9</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology</Title>
+<ISOAbbreviation>Europace</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Unusual cause for an increase of the sensing integrity counter in a patient with inappropriate implantable cardioverter-defibrillator therapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>275-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We describe the case of a patient who presented with multiple implantable cardioverter-defibrillator (ICD) shock discharges 12 months after device implantation. Upon device interrogation, intermittent oversensing of electrical noise and potential ICD lead failure were suggested by a significant increase in the sensing integrity counter (SIC), a cumulative count of very short ventricular sensed intervals. Analysis of stored episodes, however, revealed that inappropriate ICD therapy had been caused by intermittent T-wave oversensing (TWO), and that the increase of the SIC resulted from the coincidence of TWO and premature ventricular complexes (PVCs). T-wave oversensing resolved and the SIC did not increase any more during follow-up after adjustment of ventricular sensitivity. The coincidence of TWO and PVCs should therefore be considered as an uncommon cause for short ventricular sensed intervals in ICD patients presenting with a suspect increase in the SIC.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Vollmann</LastName>
+<ForeName>Dirk</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Abteilung Kardiologie und Pneumologie, Herzzentrum, Klinikum der Georg-August Universität Göttingen, Robert-Koch-Strasse 40, 37075 Göttingen, Germany. dirkvollmann2000@aol.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lüthje</LastName>
+<ForeName>Lars</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zabel</LastName>
+<ForeName>Markus</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>03</Month>
+<Day>16</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Europace</MedlineTA>
+<NlmUniqueID>100883649</NlmUniqueID>
+<ISSNLinking>1099-5129</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017147">Defibrillators, Implantable</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004562">Electrocardiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004576">Electromyography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006352">Heart Ventricles</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>3</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>8</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>3</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17369268</ArticleId>
+<ArticleId IdType="pii">eum028</ArticleId>
+<ArticleId IdType="doi">10.1093/europace/eum028</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

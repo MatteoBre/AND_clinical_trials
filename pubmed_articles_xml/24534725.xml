@@ -1,0 +1,192 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24534725</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>09</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>03</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1477-030X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Palliative medicine</Title>
+<ISOAbbreviation>Palliat Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Increasing anticholinergic burden and delirium in palliative care inpatients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>335-41</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1177/0269216314522105</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Delirium may complicate the hospital course and adversely impact remaining quality of life for palliative care inpatients. Medications with anticholinergic properties have been linked to delirium within elderly populations via serum anticholinergic assays.</AbstractText>
+<AbstractText Label="AIM" NlmCategory="OBJECTIVE">The aim of this study is to determine whether increasing anticholinergic burden, as measured using a clinical assessment tool, is associated with an increase in delirium among palliative care inpatients.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">This study was completed as a retrospective, case-control study.</AbstractText>
+<AbstractText Label="SETTING/PARTICIPANTS" NlmCategory="METHODS">Veterans admitted to the Veterans Affairs Boston Healthcare System and consulted to the palliative care service were considered for inclusion. Increase in anticholinergic burden from admission through hospital day 14 was assessed using the Anticholinergic Risk Scale. Presence of delirium was determined by use of a validated chart review instrument.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 217 patients were analyzed, with a mean age of 72.9 (±12.8) years. The overall delirium rate was 31% (n = 67). Patients with an increase in Anticholinergic Risk Scale (n = 72 (33%)) were 40% more likely to experience delirium (odds ratio = 1.44, 95% confidence interval = 1.07-1.94) compared to those without increase (n = 145 (67%)). After adjustment for age, brain metastasis, intensive care unit admission, illness severity, opiate use, and admission Anticholinergic Risk Scale using multivariable modeling, delirium risk remained significantly higher in patients with an Anticholinergic Risk Scale increase compared to those without increase (adjusted odds ratio = 1.43, 95% confidence interval = 1.04-1.94).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">An increase in Anticholinergic Risk Scale from admission was associated with delirium in palliative care inpatients. While additional study is needed, anticholinergic burden should be increased cautiously in palliative inpatients, and those with increases should be closely followed for delirium.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zimmerman</LastName>
+<ForeName>Kristin M</ForeName>
+<Initials>KM</Initials>
+<AffiliationInfo>
+<Affiliation>1Department of Pharmacy Practice, Massachusetts College of Pharmacy &amp; Health Sciences University, Boston, MA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Salow</LastName>
+<ForeName>Marci</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Skarf</LastName>
+<ForeName>L Michal</ForeName>
+<Initials>LM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kostas</LastName>
+<ForeName>Tia</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paquin</LastName>
+<ForeName>Allison</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Simone</LastName>
+<ForeName>Mark J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rudolph</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>02</Month>
+<Day>17</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Palliat Med</MedlineTA>
+<NlmUniqueID>8704926</NlmUniqueID>
+<ISSNLinking>0269-2163</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018680">Cholinergic Antagonists</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018680">Cholinergic Antagonists</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003693">Delirium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000139">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D008404">Massachusetts</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015999">Multivariate Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010166">Palliative Care</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014728">Veterans</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Delirium</Keyword>
+<Keyword MajorTopicYN="N">aged</Keyword>
+<Keyword MajorTopicYN="N">anticholinergic</Keyword>
+<Keyword MajorTopicYN="N">palliative care</Keyword>
+<Keyword MajorTopicYN="N">psychopharmacology</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>2</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>2</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>10</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24534725</ArticleId>
+<ArticleId IdType="pii">0269216314522105</ArticleId>
+<ArticleId IdType="doi">10.1177/0269216314522105</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

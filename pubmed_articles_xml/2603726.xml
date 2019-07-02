@@ -1,0 +1,121 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">2603726</PMID>
+<DateCompleted>
+<Year>1990</Year>
+<Month>01</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>11</Month>
+<Day>11</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0001-656X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>78</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>1989</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Acta paediatrica Scandinavica</Title>
+<ISOAbbreviation>Acta Paediatr Scand</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Early pregnancy varicella and associated congenital anomalies.</ArticleTitle>
+<Pagination>
+<MedlinePgn>963-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>A case of congenital anomalies following varicella infection in the 8th week of gestation is described. Though the baby demonstrated a majority of the features characteristic of the congenital varicella syndrome and had positive immunofluorescent and ELISA tests for VZ specific antibodies, no vesicles or depigmented skin areas were seen.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hammad</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Paediatrics, Mubarak Al-Kabeer Hospital, Kuwait.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Helin</LastName>
+<ForeName>I</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pacsa</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Sweden</Country>
+<MedlineTA>Acta Paediatr Scand</MedlineTA>
+<NlmUniqueID>0000211</NlmUniqueID>
+<ISSNLinking>0001-656X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002644">Chickenpox</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000013">Congenital Abnormalities</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007231">Infant, Newborn</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011251">Pregnancy Complications, Infectious</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1989</Year>
+<Month>11</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1989</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1989</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2603726</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

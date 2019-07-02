@@ -1,0 +1,293 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20471824</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>12</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2010</Year>
+<Month>08</Month>
+<Day>04</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-0852</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>46</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>European journal of cancer (Oxford, England : 1990)</Title>
+<ISOAbbreviation>Eur. J. Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Multicentric parallel phase II trial of the polo-like kinase 1 inhibitor BI 2536 in patients with advanced head and neck cancer, breast cancer, ovarian cancer, soft tissue sarcoma and melanoma. The first protocol of the European Organization for Research and Treatment of Cancer (EORTC) Network Of Core Institutes (NOCI).</ArticleTitle>
+<Pagination>
+<MedlinePgn>2206-15</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejca.2010.03.039</ELocationID>
+<Abstract>
+<AbstractText Label="AIMS" NlmCategory="OBJECTIVE">BI 2536 is a selective and potent small-molecule inhibitor of polo-like kinase 1. We performed a multi-centre, multi-tumour phase II trial to investigate the efficacy, safety and pharmacokinetics of BI 2536 in five solid tumour types.</AbstractText>
+<AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Patients with advanced head and neck, breast and ovarian cancer, soft tissue sarcoma and melanoma were selected according to protocol-defined general and tumour-specific criteria. They were 18years old, had a good performance status, adequate bone marrow, renal and liver function, measurable progressive disease and had completed other relevant systemic treatments &gt;4weeks ago. BI 2536 200-250mg was given intravenously on day 1 every 3 weeks until intolerance, progression or refusal. The study was based on a Simon two-stage design, with 12 patients entering in stage 1 and additional 25 patients to be entered in case of at least one response in the first stage. The rate of objective responses (RECIST criteria) was chosen as primary end-point.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Seventy six patients were included, 71 started treatment and received a median number of two cycles (four in ovarian cancer). Frequent grade 3-4 adverse events were neutropaenia (81.6%), thrombocytopaenia (19.7%), febrile neutropaenia (19.7%), anaemia (15.5%) and pain (9.9%). We did not observe confirmed objective responses. All cohorts were closed after the entry of 14-15 eligible non-responding patients. Pharmacokinetic analyses revealed multi-compartmental behaviour and a rapid distribution of BI 2536.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">BI 2536 showed limited antitumour activity according to the design of this trial in five different tumour types. Derivatives of BI 2536 with a more favourable pharmacological profile are currently explored further in prospective studies.</AbstractText>
+<CopyrightInformation>Copyright 2010 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Schöffski</LastName>
+<ForeName>Patrick</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of General Medical Oncology, University Hospitals Leuven, Laboratory of Experimental Oncology, Leuven Cancer Institute, Catholic University Leuven, Leuven, Belgium. patrick.schoffski@uzleuven.be</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blay</LastName>
+<ForeName>Jean-Yves</ForeName>
+<Initials>JY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>De Greve</LastName>
+<ForeName>Jacques</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brain</LastName>
+<ForeName>Etienne</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Machiels</LastName>
+<ForeName>Jean-Pascal</ForeName>
+<Initials>JP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Soria</LastName>
+<ForeName>Jean-Charles</ForeName>
+<Initials>JC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sleijfer</LastName>
+<ForeName>Stefan</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wolter</LastName>
+<ForeName>Pascal</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ray-Coquard</LastName>
+<ForeName>Isabelle</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fontaine</LastName>
+<ForeName>Christel</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Munzert</LastName>
+<ForeName>Gerd</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fritsch</LastName>
+<ForeName>Holger</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hanft</LastName>
+<ForeName>Gertraud</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aerts</LastName>
+<ForeName>Claire</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rapion</LastName>
+<ForeName>Jérome</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Allgeier</LastName>
+<ForeName>Anouk</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bogaerts</LastName>
+<ForeName>Jan</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lacombe</LastName>
+<ForeName>Denis</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D017427">Clinical Trial, Phase II</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>05</Month>
+<Day>13</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Eur J Cancer</MedlineTA>
+<NlmUniqueID>9005373</NlmUniqueID>
+<ISSNLinking>0959-8049</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C518477">BI 2536</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011621">Pteridines</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006258">Head and Neck Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007262">Infusions, Intravenous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008545">Melanoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010051">Ovarian Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010349">Patient Compliance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011621">Pteridines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012509">Sarcoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>02</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2010</Year>
+<Month>03</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>03</Month>
+<Day>31</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20471824</ArticleId>
+<ArticleId IdType="pii">S0959-8049(10)00301-1</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ejca.2010.03.039</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

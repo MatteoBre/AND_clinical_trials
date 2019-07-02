@@ -1,0 +1,421 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23677131</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>01</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-5527</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of human hypertension</Title>
+<ISOAbbreviation>J Hum Hypertens</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Blood pressure-lowering effect of simvastatin: a placebo-controlled randomized clinical trial with 24-h ambulatory blood pressure monitoring.</ArticleTitle>
+<Pagination>
+<MedlinePgn>62-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/jhh.2013.35</ELocationID>
+<Abstract>
+<AbstractText>Part of the efficacy of statins in the prevention of cardiovascular events can be attributed to their blood pressure-lowering effect, but clinical trials primarily designed to investigate this effect are scarce. In a double-blind parallel placebo-controlled clinical trial with ambulatory blood pressure (ABP) monitoring, 79 hypertensive patients were randomly assigned to 40 mg of simvastatin (n=40) or placebo (n=39) taken in the morning for 2 months. Between-group deltas of ABP change, adjusted for the corresponding baseline BP, were 2.8 mm Hg (95% CI: 0.4-5.1; P=0.02) for 24-h diastolic blood pressure (DBP), 4.2 mm Hg (95% CI: 0.1-8.4; P=0.04) for daytime systolic BP and 3.1 mm Hg (95% CI: 0.4-5.9; P=0.02) for daytime DBP. There was no effect on nighttime BP. There was an interaction between baseline cholesterol levels and treatment effect, which was restricted to patients with cholesterol above the median of the whole sample. There was no significant change in office BP. In conclusion, simvastatin lowers ABP in patients with hypertension, particularly in the presence of higher levels of cholesterol. This effect may contribute to the beneficial effects of statins in the prevention of cardiovascular disease.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Correa</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+<Suffix>Jr</Suffix>
+<AffiliationInfo>
+<Affiliation>Postgraduate Program in Medicine: Cardiology, School of Medicine, Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fuchs</LastName>
+<ForeName>F D</ForeName>
+<Initials>FD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moreira</LastName>
+<ForeName>L B</ForeName>
+<Initials>LB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gerhardt</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fuchs</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sloczinski</LastName>
+<ForeName>C R</ForeName>
+<Initials>CR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Monteggia</LastName>
+<ForeName>R G</ForeName>
+<Initials>RG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gus</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>05</Month>
+<Day>16</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Hum Hypertens</MedlineTA>
+<NlmUniqueID>8811625</NlmUniqueID>
+<ISSNLinking>0950-9240</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019161">Hydroxymethylglutaryl-CoA Reductase Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010919">Placebos</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>AGG2FN16EV</RegistryNumber>
+<NameOfSubstance UI="D019821">Simvastatin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D018660">Blood Pressure Monitoring, Ambulatory</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D001938">Brazil</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019161">Hydroxymethylglutaryl-CoA Reductase Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010919">Placebos</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019821">Simvastatin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>03</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>03</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>5</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>5</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23677131</ArticleId>
+<ArticleId IdType="pii">jhh201335</ArticleId>
+<ArticleId IdType="doi">10.1038/jhh.2013.35</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Clin Chem. 1972 Jun;18(6):499-502</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4337382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1995 Nov 16;333(20):1301-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7566020</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2001 Dec 1;88(11):1306-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11728362</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circ Res. 2000 Sep 29;87(7):616-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11009568</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arq Bras Cardiol. 2010 Jul;95(1 Suppl):1-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21085756</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hypertension. 2005 Jun;45(6):1088-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15883229</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1998 May 27;279(20):1615-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9613910</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hum Hypertens. 2012 Oct;26(10):577-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21881597</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cardiovasc Pharmacol. 2005 Sep;46(3):310-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16116336</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pharmacokinet. 1997 May;32(5):403-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9160173</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Expert Rev Cardiovasc Ther. 2010 Jun;8(6):775-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20528635</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2010 Mar 25;340:c1197</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20339154</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2002 Apr;87(4):1451-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11932263</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1999 Nov 23;100(21):2131-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10571970</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Hypertens. 2004 Jun;17(6):502-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15177522</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2009 Jan 6;119(1):53-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19103995</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2007 Dec 1;370(9602):1829-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18061058</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Blood Press Res. 2006;29(6):329-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17124431</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2002 Dec 18;288(23):2998-3007</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12479764</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1998 Nov 5;339(19):1349-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9841303</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2008 Apr 14;168(7):721-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18413554</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Heart J. 2004 Aug;148(2):285-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15308998</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 1998 Mar 31;97(12):1129-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9537338</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2002 Jul 6;360(9326):7-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12114036</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2005 Nov 15;46(10):1855-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16286171</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Vasc Health Risk Manag. 2012;8:437-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22870036</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2009 May 19;338:b1665</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19454737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 2008 Jan;196(1):1-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17662294</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hypertension. 2007 Apr;49(4):792-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17309949</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stroke. 2001 Apr;32(4):980-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11283400</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2004 Dec 14;110(24):3687-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15569835</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1994 Nov 19;344(8934):1383-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7968073</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ren Fail. 2005;27(3):297-303</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15957546</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2003 May 21;289(19):2560-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12748199</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hypertension. 1999 Dec;34(6):1281-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10601131</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J. 2003 Feb;24(3):225-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12590901</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

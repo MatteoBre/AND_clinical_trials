@@ -1,0 +1,137 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27797663</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>10</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>03</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1531-2054</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>26</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>International journal of yoga therapy</Title>
+<ISOAbbreviation>Int J Yoga Therap</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The Implementation of Patient-Reported Outcome Measures in Yoga Therapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>113-121</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Yoga therapists are interested in knowing whether their therapeutic interventions are helpful in improving health and wellbeing in their yoga therapy clients. However, few yoga therapists use standardized, reliable, and valid questionnaires to determine the therapeutic effectiveness of their treatments. Patient-reported outcome (PRO) measures are paper or web-based questionnaires used to assess an individual's perceptions of their symptoms and/or quality of life. In 2004, the National Institutes of Health (NIH) launched the PROMIS<sup>®</sup> initiative to standardize and simplify the collection of PROs in research and in clinical practice. The PROMIS<sup>®</sup> initiative launched a multicenter cooperative group that collected and reviewed thousands of PROs, then extensively tested them in over 20,000 research participants. The result was a web-based collection of item banks of the best questions or "items" within three domains of interest: physical, mental, and social health. These item banks are housed in the Assessment Center, a free online resource for collecting PROs.<sup>1</sup> Incorporating PROMIS<sup>®</sup> outcomes into yoga therapy streamlines and optimizes the collection of PROs by enabling access to reliable and valid questionnaires that are easy to read, simple to complete, and are available in multiple languages as well as in both adult and pediatric versions. The use of standardized PROs may improve yoga therapy implementation in healthcare and accelerate translation of clinical research by allowing yoga therapists to conduct indepth symptom assessments using tools that allow for comparisons to other therapeutic clinical and research interventions. The purpose of this paper is to summarize the development of the NIH PROMIS<sup>®</sup> initiative and to provide suggestions for incorporating PRO collection into yoga therapy. Important considerations to consider when implementing PROs into yoga therapy are discussed, including the choice of questionnaires and method of delivery (paper or web-based), frequency of PRO administration, interpretation and management of PRO results, and the management of problematic issues that arise.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ross</LastName>
+<ForeName>Alyson</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>1. National Institutes of Health Clinical Center, Department of Nursing Research and Translational Science, Bethesda, MD.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Birdee</LastName>
+<ForeName>Gurjeet</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>2. Vanderbilt University Medical Center, Department of Medicine, Nashville, TN.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Touchton-Leonard</LastName>
+<ForeName>Katharine</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>1. National Institutes of Health Clinical Center, Department of Nursing Research and Translational Science, Bethesda, MD.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bevans</LastName>
+<ForeName>Margaret</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>1. National Institutes of Health Clinical Center, Department of Nursing Research and Translational Science, Bethesda, MD.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Int J Yoga Therap</MedlineTA>
+<NlmUniqueID>100965420</NlmUniqueID>
+<ISSNLinking>1531-2054</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D000071066">Patient Reported Outcome Measures</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011788">Quality of Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011795">Surveys and Questionnaires</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014177">Translations</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014481">United States</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015013">Yoga</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2018</Year>
+<Month>10</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27797663</ArticleId>
+<ArticleId IdType="doi">10.17761/1531-2054-26.1.113</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

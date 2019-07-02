@@ -1,0 +1,143 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">4985622</PMID>
+<DateCompleted>
+<Year>1970</Year>
+<Month>05</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0026-4946</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>20</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>1968</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Minerva pediatrica</Title>
+<ISOAbbreviation>Minerva Pediatr.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[On the use of ampicillin in scarlet fever].</ArticleTitle>
+<Pagination>
+<MedlinePgn>55-9</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bertaggia</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rude</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>ita</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Considerazioni sull'impiego dell'ampicillina nella scarlattina.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Italy</Country>
+<MedlineTA>Minerva Pediatr</MedlineTA>
+<NlmUniqueID>0400740</NlmUniqueID>
+<ISSNLinking>0026-4946</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010406">Penicillins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7C782967RD</RegistryNumber>
+<NameOfSubstance UI="D000667">Ampicillin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>Q42T66VG0C</RegistryNumber>
+<NameOfSubstance UI="D010400">Penicillin G</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>Z61I075U2W</RegistryNumber>
+<NameOfSubstance UI="D010404">Penicillin V</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000667">Ampicillin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010400">Penicillin G</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010404">Penicillin V</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010406">Penicillins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012541">Scarlet Fever</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1968</Year>
+<Month>1</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1968</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1968</Year>
+<Month>1</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4985622</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

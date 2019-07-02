@@ -1,0 +1,386 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20133896</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>09</Month>
+<Day>29</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1592-8721</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>95</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Haematologica</Title>
+<ISOAbbreviation>Haematologica</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Increased serum hepcidin and alterations in blood iron parameters associated with asymptomatic P. falciparum and P. vivax malaria.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1068-74</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3324/haematol.2009.019331</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Asymptomatic Plasmodium spp. infections and anemia are highly prevalent conditions in tropical regions. We studied whether asymptomatic parasitemia induces hepcidin- and/or cytokine-mediated iron maldistribution and anemia.</AbstractText>
+<AbstractText Label="DESIGN AND METHODS" NlmCategory="METHODS">A group of 1197 Indonesian schoolchildren, aged 5-15 years, were screened by microscopy for the presence of parasitemia. Concentrations of hemoglobin, serum hepcidin and parameters of iron status and inflammation were determined at baseline and 4 weeks after antimalarial treatment.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Asymptomatic P. falciparum and P. vivax parasitemia were detected in 73 (6.1%) and 18 (1.5%) children, respectively, of whom 84% and 83% had a C-reactive protein concentration below 5 mg/L. Children with P. falciparum or P. vivax parasitemia had significantly lower hemoglobin concentrations than 17 aparasitemic controls (12.6 and 12.2 g/dL versus 14.4 g/dL; P&lt;0.01), together with significantly higher serum hepcidin concentrations (5.2 and 5.6 nM versus 3.1 nM; P&lt;0.05). The latter was associated with signs of iron maldistribution with higher ferritin concentrations and lower values of serum iron concentration, transferrin saturation and erythrocyte mean cell volume. Concentrations of growth differentiation factor 15 were similar across groups. Antimalarial treatment partly reversed these abnormalities and led to a significant increase in hemoglobin concentration.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Asymptomatic malarial parasitemia is associated with increased hepcidin concentrations and anemia, in the absence of a manifest acute phase response. Prolonged iron maldistribution may be an underestimated cause of anemia. Screening for parasitemia should be performed before starting iron supplementation, as iron therapy may be less effective and even hazardous in these circumstances.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>de Mast</LastName>
+<ForeName>Quirijn</ForeName>
+<Initials>Q</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, Radboud University Medical Center PO Box 9101, 6500 HB, Nijmegen, the Netherlands. q.demast@aig.umcn.nl</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Syafruddin</LastName>
+<ForeName>Din</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Keijmel</LastName>
+<ForeName>Stephan</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Riekerink</LastName>
+<ForeName>Teun Olde</ForeName>
+<Initials>TO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Deky</LastName>
+<ForeName>Oktavian</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Asih</LastName>
+<ForeName>Puji B</ForeName>
+<Initials>PB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Swinkels</LastName>
+<ForeName>Dorine W</ForeName>
+<Initials>DW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>van der Ven</LastName>
+<ForeName>Andre J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>02</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Italy</Country>
+<MedlineTA>Haematologica</MedlineTA>
+<NlmUniqueID>0417435</NlmUniqueID>
+<ISSNLinking>0390-6078</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D023181">Antimicrobial Cationic Peptides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C578702">HAMP protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D064451">Hepcidins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>E1UOL152H7</RegistryNumber>
+<NameOfSubstance UI="D007501">Iron</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000740">Anemia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000469">parasitology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D023181">Antimicrobial Cationic Peptides</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064451">Hepcidins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D007214">Indonesia</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007501">Iron</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016778">Malaria, Falciparum</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016780">Malaria, Vivax</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008403">Mass Screening</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018512">Parasitemia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>2</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>9</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20133896</ArticleId>
+<ArticleId IdType="pii">haematol.2009.019331</ArticleId>
+<ArticleId IdType="doi">10.3324/haematol.2009.019331</ArticleId>
+<ArticleId IdType="pmc">PMC2895029</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Trans R Soc Trop Med Hyg. 1996 Jan-Feb;90(1):15-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8730301</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood Cells. 1990;16(2-3):401-16; discussion 417-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2257320</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1999 Apr 24;353(9162):1415-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10227233</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2006 Jan 14;367(9505):133-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16413877</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Blood Cancer. 2007 Jan;48(1):57-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16220548</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Trop Med Hyg. 2007 Feb;76(2):280-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17297036</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2007 Jul 1;110(1):18-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17341664</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2007 Sep;13(9):1096-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17721544</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Food Nutr Bull. 2007 Dec;28(4 Suppl):S524-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18297891</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Food Nutr Bull. 2007 Dec;28(4 Suppl):S621-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18297899</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Hematol. 2008 May;15(3):169-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18391780</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Med. 2008 Jun 17;5(6):e127</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18563961</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Med. 2008 Jun 17;5(6):e128</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18563962</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 Jul 15;112(2):219-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18606887</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2008;3(7):e2706</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18628991</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 Dec 15;112(13):5241-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18824595</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2009 Jan 15;199(2):253-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19032104</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2009 Jan;144(2):251-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19036111</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anal Biochem. 2009 Jun 15;389(2):124-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19341701</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2009 May 21;113(21):5277-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19293425</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2009 Jun;145(5):657-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19344417</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochim Biophys Acta. 2009 Jul;1790(7):682-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18786614</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2009 Jul 2;114(1):181-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19414861</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 2009 Dec;147(5):769-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19747361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Malar J. 2009;8:8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19134197</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Baillieres Best Pract Res Clin Haematol. 2000 Jun;13(2):277-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10942626</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2001 Dec;74(6):767-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11722958</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Southeast Asian J Trop Med Public Health. 2002 Mar;33(1):4-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12118458</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chim Acta. 2003 Mar;329(1-2):9-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12589962</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 1989 May;72(1):91-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2660903</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Haematol. 1998 Jun;101(3):407-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9633878</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

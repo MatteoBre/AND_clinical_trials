@@ -1,0 +1,310 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15753401</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>04</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0008-5472</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>65</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Mar</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Cancer research</Title>
+<ISOAbbreviation>Cancer Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Potent selection of antigen loss variants of B16 melanoma following inflammatory killing of melanocytes in vivo.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2009-17</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We have reported that i.d. injection of plasmids encoding hsp70 and a suicide gene transcriptionally targeted to melanocytes generates specific proinflammatory killing of melanocytes. The resulting CD8+ T cell response eradicates systemically established B16 tumors. Here, we studied the consequences of that CD8+ T cell response on the phenotype of preexisting tumor. In suboptimal protocols, the T cell response selected B16 variants, which grow extremely aggressively, are amelanotic and have lost expression of the tyrosinase and tyrosinase-related protein 2 (TRP-2) antigens. However, expression of other melanoma-associated antigens, such as gp100, was not affected. Antigen loss could be reversed by long-term growth in culture away from immune-selective pressures or within 96 hours by treatment with the demethylating agent 5-azacytidine (5-Aza). When transplanted back into syngeneic animals, variants were very poorly controlled by further vaccination. However, a combination of vaccination with 5-Aza to reactivate antigen expression in tumors in situ generated highly significant improvements in therapy over treatment with vaccine or 5-Aza alone. These data show that inflammatory killing of normal cells activates a potent T cell response targeted against a specific subset of self-antigens but can also lead to the immunoselection of tumor variants. Moreover, our data indicate that emergence of antigen loss variants may often be due to reversible epigenetic mechanisms within the tumor cells. Therefore, combination therapy using vaccination and systemic treatment with 5-Aza or other demethylating agents may have significant therapeutic benefits for antitumor immunotherapy.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Sanchez-Perez</LastName>
+<ForeName>Luis</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Medicine Program and Department of Immunology, Mayo Clinic, Rochester, Minnesota 55902, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kottke</LastName>
+<ForeName>Timothy</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Diaz</LastName>
+<ForeName>Rosa Maria</ForeName>
+<Initials>RM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ahmed</LastName>
+<ForeName>Atique</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thompson</LastName>
+<ForeName>Jill</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chong</LastName>
+<ForeName>Heung</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Melcher</LastName>
+<ForeName>Alan</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holmen</LastName>
+<ForeName>Sheri</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Daniels</LastName>
+<ForeName>Gregory</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vile</LastName>
+<ForeName>Richard G</ForeName>
+<Initials>RG</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P50CA91956</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 CA94180</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cancer Res</MedlineTA>
+<NlmUniqueID>2984705R</NlmUniqueID>
+<ISSNLinking>0008-5472</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000951">Antigens, Neoplasm</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000964">Antimetabolites, Antineoplastic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008562">Membrane Glycoproteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D009363">Neoplasm Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D052899">Pore Forming Cytotoxic Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C548642">Si protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019444">Vaccines, DNA</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D058951">gp100 Melanoma Antigen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>126465-35-8</RegistryNumber>
+<NameOfSubstance UI="D054353">Perforin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>82115-62-6</RegistryNumber>
+<NameOfSubstance UI="D007371">Interferon-gamma</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.18.1</RegistryNumber>
+<NameOfSubstance UI="D014442">Monophenol Monooxygenase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 5.3.-</RegistryNumber>
+<NameOfSubstance UI="D019746">Intramolecular Oxidoreductases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 5.3.3.12</RegistryNumber>
+<NameOfSubstance UI="C042501">dopachrome isomerase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>M801H13NRU</RegistryNumber>
+<NameOfSubstance UI="D001374">Azacitidine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000951">Antigens, Neoplasm</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000964">Antimetabolites, Antineoplastic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001374">Azacitidine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018414">CD8-Positive T-Lymphocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000637">transplantation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019175">DNA Methylation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016219">Immunotherapy, Adoptive</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007371">Interferon-gamma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019746">Intramolecular Oxidoreductases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008544">Melanocytes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008546">Melanoma, Experimental</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008562">Membrane Glycoproteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008819">Mice, Nude</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014442">Monophenol Monooxygenase</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009363">Neoplasm Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054353">Perforin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D052899">Pore Forming Cytotoxic Proteins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D019139">Tumor Escape</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014611">Vaccination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019444">Vaccines, DNA</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058951">gp100 Melanoma Antigen</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>3</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>4</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>3</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15753401</ArticleId>
+<ArticleId IdType="pii">65/5/2009</ArticleId>
+<ArticleId IdType="doi">10.1158/0008-5472.CAN-04-3216</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

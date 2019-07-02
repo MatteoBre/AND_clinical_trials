@@ -1,0 +1,233 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22917853</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>02</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-114X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>34</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>Clinical therapeutics</Title>
+<ISOAbbreviation>Clin Ther</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effects of a supratherapeutic dose of investigational orally inhaled dihydroergotamine (MAP0004) on QT interval: a randomized, double-blind, active- and placebo-controlled crossover study in healthy volunteers.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1920-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.clinthera.2012.08.001</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0149-2918(12)00470-5</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">MAP0004 is an orally inhaled investigational drug containing dihydroergotamine (DHE). Although DHE has been used for 60 years with no reported cardiac arrhythmias, a thorough QT study had not previously been performed with DHE.</AbstractText>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The objective of this study was to assess the effects of MAP0004 on the QT interval as required for regulatory approval of a new product.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">This randomized, double-blind, placebo-controlled, 3-period crossover study enrolled healthy volunteers. Subjects were assigned to receive, in randomized sequence, MAP0004 at a supratherapeutic dose (3-fold the clinically effective dose) (3.0 mg), moxifloxacin 400 mg, or inactive vehicle, each administered with 1 placebo capsule. Triplicate ECGs were performed continuously at baseline (day 0), before dosing, and over 24 hours after dosing in each treatment period. The effect on the QT interval was assessed using the Fridericia (QTcF) and individualized (QTcI) correction formulas.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Fifty-four healthy adults (20 men, 34 women; mean age, 28 years) completed the trial and had measurable plasma levels of DHE after MAP0004 administration. The largest observed mean difference in QTcI between MAP0004 and placebo was 0.08 msec, and the largest 1-sided 95% upper confidence bound was 2.24 msec, both at 30 minutes after dosing. In contrast, moxifloxacin increased the mean QTcI between 9.57 and 11.28 msec relative to placebo, with a 1-sided lower 95% CL between 7.23 and 8.96 msec, confirming that the assay sensitivity was sufficient to detect MAP0004-related effects. Nausea (27.8%) was common following MAP0004 administration but apparently did not influence the QTc interval.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A supratherapeutic dose of MAP0004 was not associated with prolonged QTc intervals. At the proposed clinical dose (1.0 mg), MAP0004 is unlikely to affect the QT interval. MAP0004 and its primary metabolite showed no evidence for prolongation of the QTc interval in healthy subjects according to the criteria required from regulatory agencies. ClinicalTrials.gov identifier: NCT01191723.</AbstractText>
+<CopyrightInformation>Copyright © 2012 Elsevier HS Journals, Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kori</LastName>
+<ForeName>Shashidhar</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>MAP Pharmaceuticals, Inc, Mountain View, California 94043, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kellerman</LastName>
+<ForeName>Donald J</ForeName>
+<Initials>DJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Voloshko</LastName>
+<ForeName>Polina</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haugen</LastName>
+<ForeName>Gregory</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT01191723</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>08</Month>
+<Day>21</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Clin Ther</MedlineTA>
+<NlmUniqueID>7706726</NlmUniqueID>
+<ISSNLinking>0149-2918</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001372">Aza Compounds</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D024841">Fluoroquinolones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011804">Quinolines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014662">Vasoconstrictor Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>436O5HM03C</RegistryNumber>
+<NameOfSubstance UI="D004087">Dihydroergotamine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>U188XYD42P</RegistryNumber>
+<NameOfSubstance UI="D000077266">Moxifloxacin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000280">Administration, Inhalation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001372">Aza Compounds</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004087">Dihydroergotamine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004562">Electrocardiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D024841">Fluoroquinolones</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008133">Long QT Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000139">chemically induced</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077266">Moxifloxacin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011804">Quinolines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014662">Vasoconstrictor Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>05</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2012</Year>
+<Month>07</Month>
+<Day>31</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>08</Month>
+<Day>01</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>8</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22917853</ArticleId>
+<ArticleId IdType="pii">S0149-2918(12)00470-5</ArticleId>
+<ArticleId IdType="doi">10.1016/j.clinthera.2012.08.001</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

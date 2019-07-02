@@ -1,0 +1,459 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25132399</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>05</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1873-5967</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>61</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology</Title>
+<ISOAbbreviation>J. Clin. Virol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Evaluation of RT-PCR and immunohistochemistry as tools for detection of enterovirus in the human pancreas and islets of Langerhans.</ArticleTitle>
+<Pagination>
+<MedlinePgn>242-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jcv.2014.07.014</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S1386-6532(14)00294-7</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Enteroviruses have been implicated in the etiology of type 1 diabetes, supported by immunoreactivity of enteroviral protein in islets, but presence of enteroviral genome has rarely been reported. Failure to detect enterovirus with RT-PCR has been attributed to the possible presence of PCR inhibitors and that only few cells are infected.</AbstractText>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The aim of this study was to evaluate strategies for detection of enterovirus in human islets.</AbstractText>
+<AbstractText Label="STUDY DESIGN" NlmCategory="METHODS">A scenario was modeled with defined infected islets among a large number of uninfected pancreatic cells and the sensitivity of immunohistochemistry and PCR for detection of enterovirus was evaluated.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Enterovirus was detected with PCR when only one single human islet, infected in vitro with a low dose of virus, was mixed with an uninfected pancreatic biopsy. Enterovirus could not be detected by immunohistochemistry under the same conditions, demonstrating the superior sensitivity of PCR also in pancreatic tissue with only a small fraction of infected cells. In addition, we demonstrate that pancreatic cell culture supernatant does not cause degradation of enterovirus at 37°C, indicating that under normal culture conditions released virus is readily detectable. Utilizing PCR, the pancreases of two organ donors that died at onset of type 1 diabetes were found negative for enterovirus genome despite islet cells being positive using immunohistochemistry.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These data suggest that PCR should be the preferred screening method for enterovirus in the pancreas and suggest cautious interpretation of immunostaining for enterovirus that cannot be confirmed with PCR.</AbstractText>
+<CopyrightInformation>Copyright © 2014 Elsevier B.V. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Skog</LastName>
+<ForeName>Oskar</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden. Electronic address: oskar.skog@igp.uu.se.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ingvast</LastName>
+<ForeName>Sofie</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Korsgren</LastName>
+<ForeName>Olle</ForeName>
+<Initials>O</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>U01 AI065192</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01AI065192-06</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D023362">Evaluation Studies</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>07</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>J Clin Virol</MedlineTA>
+<NlmUniqueID>9815671</NlmUniqueID>
+<ISSNLinking>1386-6532</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004770">Enterovirus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000302">isolation &amp; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004769">Enterovirus Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007150">Immunohistochemistry</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007515">Islets of Langerhans</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010179">Pancreas</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020133">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Coxsackievirus</Keyword>
+<Keyword MajorTopicYN="N">Etiology</Keyword>
+<Keyword MajorTopicYN="N">Immunohistochemistry</Keyword>
+<Keyword MajorTopicYN="N">PCR</Keyword>
+<Keyword MajorTopicYN="N">Type 1 diabetes</Keyword>
+<Keyword MajorTopicYN="N">VP1</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>04</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2014</Year>
+<Month>07</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>07</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>8</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25132399</ArticleId>
+<ArticleId IdType="pii">S1386-6532(14)00294-7</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jcv.2014.07.014</ArticleId>
+<ArticleId IdType="pmc">PMC4165708</ArticleId>
+<ArticleId IdType="mid">NIHMS617596</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Curr Top Microbiol Immunol. 2008;323:275-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18357775</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol Methods. 2007 Apr;141(1):71-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17196265</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Microbiol. 2008 Aug;46(8):2519-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18524969</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2008 Oct;51(10):1796-802</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18696046</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2008 Sep 16;105(37):14124-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18768820</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2008 Dec 23;105(51):20482-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19033469</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2009 Jun;52(6):1143-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19266182</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 2009 Oct;58(10):2285-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19641142</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Microbiol. 2009 Oct;47(10):3108-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19710278</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Virol J. 2009;6:217</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19968865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Immunopathol. 2011 Jan;33(1):45-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20424841</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2011;342:d35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21292721</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Metab Res Rev. 2011 Nov;27(8):820-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22069266</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Lab Anal. 2012 Jul;26(4):279-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22811362</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Metab Res Rev. 2012 Oct;28(7):608-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22585677</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 2012 Nov;181(5):1735-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22944599</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2013 Jan;56(1):185-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23064357</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pathol. 2013 Apr;229(5):719-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23335350</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocr Pathol. 2014 Mar;25(1):80-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24522639</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2007 Mar 20;104(12):5115-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17360338</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2000 Jan 25;101(3):231-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10645916</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychiatry Clin Neurosci. 2000 Oct;54(5):589-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11043811</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Virol. 2000 Nov;62(3):383-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11055249</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Virol. 2002 Mar;66(3):340-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11793386</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 2002 Jun;51(6):1964-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12031987</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann N Y Acad Sci. 2003 Nov;1005:23-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14679037</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2004 Feb;47(2):225-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14727023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Microbiol Immunol. 2004 May;193(2-3):101-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12920583</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br Med J. 1969 Sep 13;3(5671):627-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5811681</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Infect Immun. 1973 Apr;7(4):513-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4202658</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1979 May 24;300(21):1173-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">219345</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1983 Jun 25;1(8339):1397-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6134178</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Virol. 1985 Nov;17(3):219-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2999322</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Pathol. 1991 Feb;138(2):497-503</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1847008</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Microbiol. 1991 Mar;29(3):519-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1645368</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Microbiol Rev. 1991 Apr;4(2):156-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1649002</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Virol. 1994 Feb;42(2):193-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8158114</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Appl Environ Microbiol. 1994 Oct;60(10):3665-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7986041</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Virol. 1999 Jun;58(2):178-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10335867</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Virus Res. 1999 Aug;62(2):149-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10507324</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2004 Nov 15;78(9):1367-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15548977</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Virol. 2005 Apr;32(4):318-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15780812</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Microbiol. 2006 Aug;44(8):2698-704</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16891480</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Microbiol. 2008 Aug;57(Pt 8):1000-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18628502</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

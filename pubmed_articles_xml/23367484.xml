@@ -1,0 +1,165 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23367484</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>09</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>08</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1557-170X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>2012</Volume>
+<PubDate>
+<Year>2012</Year>
+</PubDate>
+</JournalIssue>
+<Title>Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference</Title>
+<ISOAbbreviation>Conf Proc IEEE Eng Med Biol Soc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A wearable walking monitoring system for gait analysis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>6772-5</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1109/EMBC.2012.6347549</ELocationID>
+<Abstract>
+<AbstractText>In this paper, both hardware and software design to develop a wearable walking monitoring system for gait analysis are presented. For hardware, the mechanism proposed is adaptive to different individuals to wear, and the portability of the design makes it easy to perform outdoor experiments. Four force sensors and two angle displacement sensors were used to measure plantar force distribution and the angles of hip and knee joints. For software design, a novel algorithm was developed to detect different gait phases and the four gait periods during the stance phase. Furthermore, the center of ground contact force was calculated based on the relationships of the force sensors. The results were compared with the VICON motion capture system and a force plate for validation. Experiments showed the behavior of the joint angles are similar to VICON system, and the average error in foot strike time is less than 90 ms.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hsieh</LastName>
+<ForeName>Tsung-Han</ForeName>
+<Initials>TH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Bio-Industrial Mechatronics Engineering, National Taiwan University, Taipei 106, Taiwan. b97611016@ntu.edu.tw</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tsai</LastName>
+<ForeName>An-Chih</ForeName>
+<Initials>AC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chang</LastName>
+<ForeName>Cha-Wei</ForeName>
+<Initials>CW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ho</LastName>
+<ForeName>Ka-Hou</ForeName>
+<Initials>KH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hsu</LastName>
+<ForeName>Wei-Li</ForeName>
+<Initials>WL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lin</LastName>
+<ForeName>Ta-Te</ForeName>
+<Initials>TT</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Conf Proc IEEE Eng Med Biol Soc</MedlineTA>
+<NlmUniqueID>101243413</NlmUniqueID>
+<ISSNLinking>1557-170X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001696">Biomechanical Phenomena</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004867">Equipment Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005684">Gait</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006621">Hip Joint</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007700">Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007719">Knee Joint</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015233">Models, Statistical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018670">Monitoring, Ambulatory</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012984">Software</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013314">Stress, Mechanical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016138">Walking</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>2</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23367484</ArticleId>
+<ArticleId IdType="doi">10.1109/EMBC.2012.6347549</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

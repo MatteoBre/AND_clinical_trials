@@ -1,0 +1,244 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17979582</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>03</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1044-5463</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>17</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of child and adolescent psychopharmacology</Title>
+<ISOAbbreviation>J Child Adolesc Psychopharmacol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Factor structure of parent- and teacher-rated attention-deficit/hyperactivity disorder symptoms in the Preschoolers with Attention-Deficit/Hyperactivity Disorder Treatment Study (PATS).</ArticleTitle>
+<Pagination>
+<MedlinePgn>621-34</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study examines one-, two-, and three-factor models of attention-deficit/hyperactivity disorder (ADHD) using the existing 18 Diagnostic and Statistical Manual of Mental Disorder, 4th edition (DSM-IV) symptoms in a sample of symptomatic preschoolers.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Parent and/or teacher ratings of DSM-IV symptoms were obtained for 532 children (aged 3-5.5) who were screened for the Preschool ADHD Treatment Study (PATS). Confirmatory factor analysis (CFA) using symptoms identified on the Conners' Parent and Teacher Rating Scales was conducted to assess a two-factor model representing the DSM-IV dimensions of inattention (IN) and hyperactivity/impulsivity (H/I), a three-factor model reflecting inattention, hyperactivity, and impulsivity, and a single-factor model of all ADHD symptoms. Exploratory factor analysis (EFA) was subsequently used to examine the latent structure of the data.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">For parent ratings, the two-factor and three-factor models were marginally acceptable according to several widely used fit indices, whereas the one-factor model failed to meet minimum thresholds for goodness-of-fit. For teachers, none of the models was a solid fit for the data. Maximum likelihood EFAs resulted in satisfactory two and three-factor models for both parents and teachers, although all models contained several moderate cross loadings. Factor loadings were generally concordant with those published for older children and community-based samples.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">ADHD subtypes according to current DSM-IV specifications may not be the best descriptors of the disorder in the preschool age group.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hardy</LastName>
+<ForeName>Kristina K</ForeName>
+<Initials>KK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Psychiatry, Duke University Medical Center, Durham, NC 27710, USA. hardy017@mc.duke.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kollins</LastName>
+<ForeName>Scott H</ForeName>
+<Initials>SH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Murray</LastName>
+<ForeName>Desiree W</ForeName>
+<Initials>DW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Riddle</LastName>
+<ForeName>Mark A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Greenhill</LastName>
+<ForeName>Laurence</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cunningham</LastName>
+<ForeName>Charles</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abikoff</LastName>
+<ForeName>Howard B</ForeName>
+<Initials>HB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McCracken</LastName>
+<ForeName>James T</ForeName>
+<Initials>JT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vitiello</LastName>
+<ForeName>Benedetto</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davies</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>McGough</LastName>
+<ForeName>James J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Posner</LastName>
+<ForeName>Kelly</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Skrobala</LastName>
+<ForeName>Anne M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Swanson</LastName>
+<ForeName>James M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wigal</LastName>
+<ForeName>Tim</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wigal</LastName>
+<ForeName>Sharon B</ForeName>
+<Initials>SB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ghuman</LastName>
+<ForeName>Jaswinder K</ForeName>
+<Initials>JK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chuang</LastName>
+<ForeName>Shirley Z</ForeName>
+<Initials>SZ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>K23 MH001883-06</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 MH 60848</GrantID>
+<Acronym>MH</Acronym>
+<Agency>NIMH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Child Adolesc Psychopharmacol</MedlineTA>
+<NlmUniqueID>9105358</NlmUniqueID>
+<ISSNLinking>1044-5463</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001288">Attention</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001289">Attention Deficit Disorder with Hyperactivity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002652">Child Behavior</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003627">Data Interpretation, Statistical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005163">Factor Analysis, Statistical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006948">Hyperkinesis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007175">Impulsive Behavior</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009483">Neuropsychological Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010290">Parents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011569">Psychiatric Status Rating Scales</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012574">Schools</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>11</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>3</Month>
+<Day>12</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>11</Month>
+<Day>6</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17979582</ArticleId>
+<ArticleId IdType="doi">10.1089/cap.2007.0073</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

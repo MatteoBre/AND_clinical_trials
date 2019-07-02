@@ -1,0 +1,444 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18048646</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>05</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0006-4971</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>111</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Feb</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Blood</Title>
+<ISOAbbreviation>Blood</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The retinoblastoma tumor suppressor is a critical intrinsic regulator for hematopoietic stem and progenitor cells under stress.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1894-902</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The retinoblastoma tumor suppressor protein (RB) plays important roles in the control of the cell division cycle. It is estimated that RB is dysfunctional/inactivated in up to 40% of human leukemias. The consequences of loss of RB on hematopoietic stem and progenitor cell (HSPC) function in vivo are incompletely understood. Here, we report that mice genetically deficient in Rb in all hematopoietic cells (Vav-Cre Rb knockout [KO] animals) showed altered contribution of distinct hematopoietic cell lineages to peripheral blood, bone marrow, and spleen; significantly increased extramedullary hematopoiesis in the spleen; and a 2-fold increase in the frequency of hematopoietic progenitor cells in peripheral blood. Upon competitive transplantation, HSPCs from Vav-Cre Rb KO mice contributed with an at least 4- to 6-fold less efficiency to hematopoiesis compared with control cells. HSPCs deficient in Rb presented with impaired cell-cycle exit upon stress-induced proliferation, which correlated with impaired function. In summary, Rb is critical for hematopoietic stem and progenitor cell function, localization, and differentiation.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Daria</LastName>
+<ForeName>Deidre</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Experimental Hematology, Cincinnati Children's Hospital Medical Center, Department of Medicine, University of Cincinnati, OH 45229, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Filippi</LastName>
+<ForeName>Marie-Dominique</ForeName>
+<Initials>MD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Knudsen</LastName>
+<ForeName>Erik S</ForeName>
+<Initials>ES</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Faccio</LastName>
+<ForeName>Roberta</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Zhixiong</ForeName>
+<Initials>Z</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kalfa</LastName>
+<ForeName>Theodosia</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Geiger</LastName>
+<ForeName>Hartmut</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 HL076604</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>11</Month>
+<Day>29</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Blood</MedlineTA>
+<NlmUniqueID>7603509</NlmUniqueID>
+<ISSNLinking>0006-4971</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016160">Retinoblastoma Protein</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001854">Bone Marrow Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002455">Cell Division</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003433">Crosses, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006412">Hematopoietic Stem Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018345">Mice, Knockout</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016160">Retinoblastoma Protein</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000172">deficiency</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013154">Spleen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013312">Stress, Physiological</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>5</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18048646</ArticleId>
+<ArticleId IdType="pii">blood-2007-02-071746</ArticleId>
+<ArticleId IdType="doi">10.1182/blood-2007-02-071746</ArticleId>
+<ArticleId IdType="pmc">PMC2234042</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Nature. 2004 Dec 23;432(7020):1040-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15616565</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2007 Jun 15;129(6):1081-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17574022</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Cycle. 2005 Jan;4(1):42-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15611658</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2005 Mar;11(3):284-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15711558</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2005 Aug 1;106(3):827-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15692066</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2000 Mar 10;287(5459):1804-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10710306</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Dev. 2000 Apr 15;14(8):994-1004</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10783170</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2000 Aug 15;96(4):1380-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10942381</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2000 Nov;6(11):1235-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11062534</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2001 Nov 15;98(10):2966-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11698278</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Cell Res. 2002 Jun 10;276(2):201-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12027450</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2002 May 13;21(21):3475-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12032783</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Leukemia. 2002 Sep;16(9):1844-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12200702</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genesis. 2002 Dec;34(4):251-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12434335</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2003 Oct 23;425(6960):836-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14574412</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2003 Oct 23;425(6960):841-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14574413</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 2004 Feb;20(2):153-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14975238</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2004 May;6(5):436-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15122268</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Cell. 2004 Jun;5(6):539-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15193257</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Sci. 2004 Jul 15;117(Pt 16):3411-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15252123</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2004 Sep 1;104(5):1324-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15155463</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Biol. 2004 Oct;2(10):e301</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15459755</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO J. 2004 Oct 27;23(21):4319-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15457215</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1992 Sep 24;359(6393):288-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1406932</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1992 Sep 24;359(6393):295-300</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1406933</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1992 Sep 24;359(6393):328-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1406937</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Dev. 1993 Jul;7(7A):1111-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8319904</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1995 May 23;92(11):4808-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7761404</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Hematol. 1995 Nov;23(12):1242-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7589277</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 1997 May 15;89(10):3596-606</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9160664</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 1997 Sep 15;57(18):4123-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9307303</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Hematol. 1999 Mar;27(3):533-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10089917</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 1999 Sep 15;94(6):1971-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10477726</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2005 Aug;11(8):886-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16025125</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2006 May 9;103(19):7345-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16648263</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Med. 2006 Jun;12(6):657-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16715089</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2006 Jun 13;103(24):9057-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16754850</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2006 Aug 28;25(38):5210-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16936739</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2006 Aug 28;25(38):5250-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16936744</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2006 Oct 1;108(7):2190-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16741255</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2006 Sep 28;443(7110):421-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16957735</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2007 Feb;39(2):178-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17220891</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2005 Feb;7(2):172-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15654333</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

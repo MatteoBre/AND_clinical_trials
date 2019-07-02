@@ -1,0 +1,156 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17646503</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>08</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>07</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1526-7598</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>105</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Anesthesia and analgesia</Title>
+<ISOAbbreviation>Anesth. Analg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Perioperative patient safety: correct patient, correct surgery, correct side--a multifaceted, cross-organizational, interventional study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>443-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">It is important to ensure a patient-safe environment in the perioperative setting. With this in mind, a "patient-safety first" philosophy was adopted within our operating room service.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">During the first phase of the interventional study (2001-2002), we defined and executed the organizational and educational aspects of the intervention. Thereafter, the implementation phase (2003-2005) was performed. According to our zero tolerance policy, in the event that a major error in patient readiness for anesthesia and surgery was found in the operating room holding area, the patient would be returned to the parent department ("failure") and the surgical procedure delayed until the major error was corrected.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The data of 15,856 patients were recorded. During the 3-yr implementation period, 112 patients (0.71%) were returned to the department. A statistically significant (P &lt; 0.002) reduction in major errors was recorded when comparing the year 2003 to the years 2004 and 2005 (1.04, 0.59, and 0.49% for the years 2003, 2004, and 2005, respectively). Furthermore, stepwise logistic regression demonstrated a time-dependant significant decrease in the incidence of a major error that resulted from inadequate patient preparation (odds ratio = 1.48, 95% CI: 1.16-1.87). In addition, the mean time between failures was 6.6, 11.2, and 14.7 days for the years 2003, 2004, and 2005, respectively (P &lt; 0.03). Finally, a significant (P &lt; 0.0001) improvement in patient preparation over time, as well as the overall probability that the patient preparation score = 100% (P &lt; 0.001), were demonstrated.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Education and increased awareness can decrease perioperative errors. However, even with a carefully designed policy in place, an error-free environment was not achieved. Therefore, monitoring and system analysis should be performed on a continuing basis.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zohar</LastName>
+<ForeName>Edna</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Anesthesiology, Critical Care and Pain Management, Meir Medical Center, Kfar Saba, Israel.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Noga</LastName>
+<ForeName>Yossi</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davidson</LastName>
+<ForeName>Ehud</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kantor</LastName>
+<ForeName>Margalit</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fredman</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Anesth Analg</MedlineTA>
+<NlmUniqueID>1310650</NlmUniqueID>
+<ISSNLinking>0003-2999</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001071">Appointments and Schedules</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006282">Health Personnel</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp; administration</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019300">Medical Errors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009873">Operating Rooms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000458">organization &amp; administration</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009937">Organizational Objectives</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010355">Patient Identification Systems</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000458">organization &amp; administration</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019990">Perioperative Care</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000458">organization &amp; administration</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017751">Safety Management</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp; administration</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000639">trends</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>7</Month>
+<Day>25</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>8</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>7</Month>
+<Day>25</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17646503</ArticleId>
+<ArticleId IdType="pii">105/2/443</ArticleId>
+<ArticleId IdType="doi">10.1213/01.ane.0000267521.75245.ad</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

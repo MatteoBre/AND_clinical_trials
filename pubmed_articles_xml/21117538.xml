@@ -1,0 +1,183 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21117538</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>09</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>05</Month>
+<Day>10</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">1081-597X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>27</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of refractive surgery (Thorofare, N.J. : 1995)</Title>
+<ISOAbbreviation>J Refract Surg</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Biometry of the cornea in myopic chinese patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>345-55</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3928/1081597X-20101105-02</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To develop a close-fit mathematical model of corneal anterior and posterior topography and investigate the variation of corneal topography with biometric parameters in a group of young adult myopic Chinese patients.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Corneal topography data were acquired from 112 eyes of 61 myopic patients (mean age: 24.10±3.66 years). Videokeratoscopic images were recorded for anterior and posterior corneal surfaces using an Orbscan IIz topography system (Bausch &amp; Lomb), and elevation data were fit to ellipsoid, hyperboloid, and paraboloid equations. Axial length, anterior chamber depth, refractive error, corneal curvature, central corneal thickness, and white-to-white distance were also measured and statistically analyzed.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The ellipsoid equation provided the best fit for the anterior and posterior corneal surfaces in all patients. Corneal asymmetry slightly improved the accuracy of the mathematical model and reduced errors of fit with the clinical data. Strong evidence of right and left corneal symmetry was obtained in the form of similar corneal curvature, shape factor, and thickness values. The refractive error showed strong correlation with axial length (r=-0.586, P&lt;.001) but not with corneal curvature or anterior chamber depth, indicating that myopia may be related to scleral stretching and globe elongation rather than changes in corneal curvature or anterior chamber depth.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Axial length appears to be the main morphological parameter related to myopia. Myopic corneas took the form of a rotationally asymmetric prolate ellipsoid that gradually flattened towards the periphery. The study also provided evidence of symmetry between an individual's right and left corneas.</AbstractText>
+<CopyrightInformation>Copyright 2011, SLACK Incorporated.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bao</LastName>
+<ForeName>Fang-Jun</ForeName>
+<Initials>FJ</Initials>
+<AffiliationInfo>
+<Affiliation>Wenzhou Medical College, Wenzhou, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yu</LastName>
+<ForeName>A-Yong</ForeName>
+<Initials>AY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kassem</LastName>
+<ForeName>Wael</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Qin-Mei</ForeName>
+<Initials>QM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Elsheikh</LastName>
+<ForeName>Ahmed</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>05</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Refract Surg</MedlineTA>
+<NlmUniqueID>9505927</NlmUniqueID>
+<ISSNLinking>1081-597X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000867">Anterior Chamber</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D044466">Asian Continental Ancestry Group</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001699">Biometry</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D002681">China</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003315">Cornea</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008962">Models, Theoretical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009216">Myopia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D041623">Tomography, Optical Coherence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>06</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>08</Month>
+<Day>31</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>12</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>9</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21117538</ArticleId>
+<ArticleId IdType="doi">10.3928/1081597X-20101105-02</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

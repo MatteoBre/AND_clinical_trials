@@ -1,0 +1,255 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21827732</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>05</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>08</Month>
+<Day>24</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1600-0641</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>56</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of hepatology</Title>
+<ISOAbbreviation>J. Hepatol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Ligand-dependent corepressor acts as a novel corepressor of thyroid hormone receptor and represses hepatic lipogenesis in mice.</ArticleTitle>
+<Pagination>
+<MedlinePgn>248-54</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jhep.2011.07.014</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND &amp; AIMS" NlmCategory="OBJECTIVE">Transcriptional co-regulators assist nuclear receptors to control the transcription and maintain the metabolic homeostasis. Ligand-dependent corepressor (LCOR) was reported to function as a transcriptional corepressor in vitro. We found LCOR expression decreased in fatty livers of leptin-deficient (ob/ob) mice, diet-induced obese mice, as well as patients, suggesting LCOR may play a role in lipid homeostasis. We sought to investigate the physiological role of LCOR in vivo and elucidate the underlining molecular mechanisms.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The effect of LCOR on hepatic lipid accumulation and thyroid hormone receptor (TR) mediated expression of lipogenic genes was studied in vitro and in vivo.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Ectopic expression of LCOR via intravenous infection with LCOR adenovirus decreased the hepatic triglyceride level in wild type, ob/ob, and diet-induced obese mice. Interestingly, overexpression of LCOR repressed the thyroid hormone induced expression of lipogenic genes and non-lipogenic genes, and ameliorated hepatic steatosis in obese mice, suggesting that LCOR might regulate lipogenesis as a novel TR corepressor. Furthermore, our study revealed that LCOR could interact with TRβ1 in the presence of the ligand, which resulted in competitive binding and reduced recruitment of steroid receptor coactivator-1/3 (SRC-1/3) to the promoter region of TR target genes.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our data suggest that LCOR is likely to suppress TRβ1-mediated hepatic lipogenesis by decreasing binding and recruitment of SRCs to TRβ1. Our study reveals the physiological function of hepatic LCOR in lipid metabolism and the mechanism by which LCOR regulates lipogenesis. Hepatic LCOR may be a potential target for treating hepatic steatosis.</AbstractText>
+<CopyrightInformation>Copyright © 2011 European Association for the Study of the Liver. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Song</LastName>
+<ForeName>Yiyun</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Key Laboratory of Nutrition and Metabolism, Institute for Nutritional Sciences, Shanghai Institutes for Biological Sciences, Graduate School of the Chinese Academy of Sciences, Chinese Academy of Sciences, Shanghai 200031, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shan</LastName>
+<ForeName>Shifang</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Ying</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Wei</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ding</LastName>
+<ForeName>Weiqiao</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ren</LastName>
+<ForeName>Wenxia</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xia</LastName>
+<ForeName>Hongfeng</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Xiaojun</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Qin</ForeName>
+<Initials>Q</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhao</LastName>
+<ForeName>Lei</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Xihua</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yan</LastName>
+<ForeName>Jun</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ying</LastName>
+<ForeName>Hao</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>08</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>J Hepatol</MedlineTA>
+<NlmUniqueID>8503886</NlmUniqueID>
+<ISSNLinking>0168-8278</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D056970">Co-Repressor Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008024">Ligands</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D037021">Thyroid Hormone Receptors alpha</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D037042">Thyroid Hormone Receptors beta</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056970">Co-Repressor Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005234">Fatty Liver</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D057809">HEK293 Cells</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008024">Ligands</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050155">Lipogenesis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008099">Liver</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018345">Mice, Knockout</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008820">Mice, Obese</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008954">Models, Biological</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054730">Protein Interaction Domains and Motifs</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D037021">Thyroid Hormone Receptors alpha</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D037042">Thyroid Hormone Receptors beta</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>02</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2011</Year>
+<Month>06</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2011</Year>
+<Month>07</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>8</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>8</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21827732</ArticleId>
+<ArticleId IdType="pii">S0168-8278(11)00607-6</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jhep.2011.07.014</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

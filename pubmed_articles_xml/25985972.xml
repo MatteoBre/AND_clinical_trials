@@ -1,0 +1,596 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25985972</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>05</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>06</Month>
+<Day>07</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1468-2060</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>75</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>06</Month>
+</PubDate>
+</JournalIssue>
+<Title>Annals of the rheumatic diseases</Title>
+<ISOAbbreviation>Ann. Rheum. Dis.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The risk and nature of flares in juvenile idiopathic arthritis: results from the ReACCh-Out cohort.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1092-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1136/annrheumdis-2014-207164</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE">To describe probabilities and characteristics of disease flares in children with juvenile idiopathic arthritis (JIA) and to identify clinical features associated with an increased risk of flare.</AbstractText>
+<AbstractText Label="METHODS">We studied children in the Research in Arthritis in Canadian Children emphasizing Outcomes (ReACCh-Out) prospective inception cohort. A flare was defined as a recurrence of disease manifestations after attaining inactive disease and was called significant if it required intensification of treatment. Probability of first flare was calculated with Kaplan-Meier methods, and associated features were identified using Cox regression.</AbstractText>
+<AbstractText Label="RESULTS">1146 children were followed up a median of 24 months after attaining inactive disease. We observed 627 first flares (54.7% of patients) with median active joint count of 1, physician global assessment (PGA) of 12 mm and duration of 27 weeks. Within a year after attaining inactive disease, the probability of flare was 42.5% (95% CI 39% to 46%) for any flare and 26.6% (24% to 30%) for a significant flare. Within a year after stopping treatment, it was 31.7% (28% to 36%) and 25.0% (21% to 29%), respectively. A maximum PGA &gt;30 mm, maximum active joint count &gt;4, rheumatoid factor (RF)-positive polyarthritis, antinuclear antibodies (ANA) and receiving disease-modifying antirheumatic drugs (DMARDs) or biological agents before attaining inactive disease were associated with increased risk of flare. Systemic JIA was associated with the lowest risk of flare.</AbstractText>
+<AbstractText Label="CONCLUSIONS">In this real-practice JIA cohort, flares were frequent, usually involved a few swollen joints for an average of 6 months and 60% led to treatment intensification. Children with a severe disease course had an increased risk of flare.</AbstractText>
+<CopyrightInformation>Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to http://www.bmj.com/company/products-services/rights-and-licensing/</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Guzman</LastName>
+<ForeName>Jaime</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>British Columbia Children's Hospital and University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oen</LastName>
+<ForeName>Kiem</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics and Child Health, University of Manitoba, Winnipeg, Manitoba, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huber</LastName>
+<ForeName>Adam M</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>IWK Health Centre and Dalhousie University, Halifax, Nova Scotia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Watanabe Duffy</LastName>
+<ForeName>Karen</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Children's Hospital of Eastern Ontario and University of Ottawa, Ottawa, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boire</LastName>
+<ForeName>Gilles</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Centre Hospitalier Universitaire de Sherbrooke and Departments of Medicine and Pediatrics, Université de Sherbrooke, Sherbrooke, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shiff</LastName>
+<ForeName>Natalie</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Royal University Hospital and University of Saskatchewan, Saskatoon, Saskatchewan, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Berard</LastName>
+<ForeName>Roberta A</ForeName>
+<Initials>RA</Initials>
+<AffiliationInfo>
+<Affiliation>London Health Sciences Centre and Western University, London, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Levy</LastName>
+<ForeName>Deborah M</ForeName>
+<Initials>DM</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital for Sick Children and University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stringer</LastName>
+<ForeName>Elizabeth</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>IWK Health Centre and Dalhousie University, Halifax, Nova Scotia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scuccimarri</LastName>
+<ForeName>Rosie</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>McGill University Health Centre and McGill University, Montréal, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morishita</LastName>
+<ForeName>Kimberly</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>British Columbia Children's Hospital and University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Johnson</LastName>
+<ForeName>Nicole</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Alberta Children's Hospital and University of Calgary, Calgary, Alberta, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cabral</LastName>
+<ForeName>David A</ForeName>
+<Initials>DA</Initials>
+<AffiliationInfo>
+<Affiliation>British Columbia Children's Hospital and University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenberg</LastName>
+<ForeName>Alan M</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>Royal University Hospital and University of Saskatchewan, Saskatoon, Saskatchewan, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Larché</LastName>
+<ForeName>Maggie</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, McMaster University, Hamilton, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dancey</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Janeway Children's Health and Rehabilitation Centre and Memorial University, Saint John's, Newfoundland, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Petty</LastName>
+<ForeName>Ross E</ForeName>
+<Initials>RE</Initials>
+<AffiliationInfo>
+<Affiliation>British Columbia Children's Hospital and University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Laxer</LastName>
+<ForeName>Ronald M</ForeName>
+<Initials>RM</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital for Sick Children and University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Silverman</LastName>
+<ForeName>Earl</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital for Sick Children and University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miettunen</LastName>
+<ForeName>Paivi</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Alberta Children's Hospital and University of Calgary, Calgary, Alberta, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chetaille</LastName>
+<ForeName>Anne-Laure</ForeName>
+<Initials>AL</Initials>
+<AffiliationInfo>
+<Affiliation>Centre Hospitalier Universitaire de Laval and Université Laval, Quebec, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haddad</LastName>
+<ForeName>Elie</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Centre Hospitalier Universitaire Ste. Justine and Université de Montréal, Montréal, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Houghton</LastName>
+<ForeName>Kristin</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>British Columbia Children's Hospital and University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Spiegel</LastName>
+<ForeName>Lynn</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital for Sick Children and University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Turvey</LastName>
+<ForeName>Stuart E</ForeName>
+<Initials>SE</Initials>
+<AffiliationInfo>
+<Affiliation>British Columbia Children's Hospital and University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmeling</LastName>
+<ForeName>Heinrike</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Alberta Children's Hospital and University of Calgary, Calgary, Alberta, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lang</LastName>
+<ForeName>Bianca</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>IWK Health Centre and Dalhousie University, Halifax, Nova Scotia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ellsworth</LastName>
+<ForeName>Janet</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Stollery Children's Hospital and University of Alberta, Edmonton, Alberta, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ramsey</LastName>
+<ForeName>Suzanne E</ForeName>
+<Initials>SE</Initials>
+<AffiliationInfo>
+<Affiliation>IWK Health Centre and Dalhousie University, Halifax, Nova Scotia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bruns</LastName>
+<ForeName>Alessandra</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Centre Hospitalier Universitaire de Sherbrooke and Departments of Medicine and Pediatrics, Université de Sherbrooke, Sherbrooke, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Roth</LastName>
+<ForeName>Johannes</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Children's Hospital of Eastern Ontario and University of Ottawa, Ottawa, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Campillo</LastName>
+<ForeName>Sarah</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>McGill University Health Centre and McGill University, Montréal, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Benseler</LastName>
+<ForeName>Susanne</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Alberta Children's Hospital and University of Calgary, Calgary, Alberta, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chédeville</LastName>
+<ForeName>Gaëlle</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>McGill University Health Centre and McGill University, Montréal, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schneider</LastName>
+<ForeName>Rayfel</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital for Sick Children and University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tse</LastName>
+<ForeName>Shirley M L</ForeName>
+<Initials>SM</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital for Sick Children and University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bolaria</LastName>
+<ForeName>Roxana</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gross</LastName>
+<ForeName>Katherine</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feldman</LastName>
+<ForeName>Brian</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital for Sick Children and University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feldman</LastName>
+<ForeName>Debbie</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Université de Montréal, Montréal, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cameron</LastName>
+<ForeName>Bonnie</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital for Sick Children and University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jurencak</LastName>
+<ForeName>Roman</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Children's Hospital of Eastern Ontario and University of Ottawa, Ottawa, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dorval</LastName>
+<ForeName>Jean</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Centre Hospitalier Universitaire de Laval and Université Laval, Quebec, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>LeBlanc</LastName>
+<ForeName>Claire</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>McGill University Health Centre and McGill University, Montréal, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>St Cyr</LastName>
+<ForeName>Claire</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Centre Hospitalier Universitaire Ste. Justine and Université de Montréal, Montréal, Québec, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gibbon</LastName>
+<ForeName>Michele</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Children's Hospital of Eastern Ontario and University of Ottawa, Ottawa, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yeung</LastName>
+<ForeName>Rae S M</ForeName>
+<Initials>RS</Initials>
+<AffiliationInfo>
+<Affiliation>Hospital for Sick Children and University of Toronto, Toronto, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Duffy</LastName>
+<ForeName>Ciarán M</ForeName>
+<Initials>CM</Initials>
+<AffiliationInfo>
+<Affiliation>Children's Hospital of Eastern Ontario and University of Ottawa, Ottawa, Ontario, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tucker</LastName>
+<ForeName>Lori B</ForeName>
+<Initials>LB</Initials>
+<AffiliationInfo>
+<Affiliation>British Columbia Children's Hospital and University of British Columbia, Vancouver, British Columbia, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>ReACCh-Out investigators</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>QNT 69301</GrantID>
+<Agency>CIHR</Agency>
+<Country>Canada</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>05</Month>
+<Day>18</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Ann Rheum Dis</MedlineTA>
+<NlmUniqueID>0372355</NlmUniqueID>
+<ISSNLinking>0003-4967</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000974">Antibodies, Antinuclear</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018501">Antirheumatic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001685">Biological Factors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9009-79-4</RegistryNumber>
+<NameOfSubstance UI="D012217">Rheumatoid Factor</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000974">Antibodies, Antinuclear</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018501">Antirheumatic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001171">Arthritis, Juvenile</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001685">Biological Factors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002170">Canada</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017063">Outcome Assessment (Health Care)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012008">Recurrence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012217">Rheumatoid Factor</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012720">Severity of Illness Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Disease Activity</Keyword>
+<Keyword MajorTopicYN="Y">Epidemiology</Keyword>
+<Keyword MajorTopicYN="Y">Juvenile Idiopathic Arthritis</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>16</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>05</Month>
+<Day>01</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>5</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25985972</ArticleId>
+<ArticleId IdType="pii">annrheumdis-2014-207164</ArticleId>
+<ArticleId IdType="doi">10.1136/annrheumdis-2014-207164</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

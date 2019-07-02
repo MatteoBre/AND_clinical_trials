@@ -1,0 +1,387 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23315187</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>02</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1708-0428</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>23</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Obesity surgery</Title>
+<ISOAbbreviation>Obes Surg</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Short- and mid-term changes in bone mineral density after laparoscopic sleeve gastrectomy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>861-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s11695-013-0866-6</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Bariatric surgery is the most effective treatment for achieving a significant weight loss. Morbidities present a significant reduction after bariatric surgery, but it may also result in several health complications, related to nutritional deficiencies, including bone metabolism. Several studies have reported a decrease in bone mineral density (BMD), but most of them referring to malabsorptive procedures. Restrictive procedures do not imply changes in gastrointestinal anatomy, so that one may expect fewer metabolic disturbances.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We performed a retrospective observational study of all morbidly obese patients undergoing LSG between 2008 and 2011 at our institution. Bone densitometry was performed before surgery and 1 and 2 years after the intervention. Body size measurements, analytical variables and densitometric values in the lumbar spine (BMD, t score and z score) were investigated.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Forty-two patients were included, 39 females and 3 males. Mean BMI was 51.21 kg/m(2). Mean excessive BMI loss was 79.9 % after 1 year and 80.6 % after 2 years. Mean BMD values for spine increased progressively, reaching statistical significance at 1 and at 2 years. Percentage of BMD increase was 5.7 % at 1 year and 7.9 % at 2 years. An inverse correlation was observed between BMD increase and parathyroid hormone (PTH) decrease and a direct correlation between BMD and vitamin D increase.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Bone mineral density showed a progressive increase during the first and second year after sleeve gastrectomy. BMD changes are not associated with weight loss, but showed a direct correlation with vitamin D and an inverse correlation with PTH levels.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ruiz-Tovar</LastName>
+<ForeName>Jaime</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Bariatric Surgery Unit, General University Hospital Elche, University Miguel Hernandez, Elche, Alicante, Spain. jruiztovar@gmail.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oller</LastName>
+<ForeName>Inmaculada</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Priego</LastName>
+<ForeName>Pablo</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Arroyo</LastName>
+<ForeName>Antonio</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Calero</LastName>
+<ForeName>Alicia</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Diez</LastName>
+<ForeName>María</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zubiaga</LastName>
+<ForeName>Lorea</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Calpena</LastName>
+<ForeName>Rafael</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D064888">Observational Study</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Obes Surg</MedlineTA>
+<NlmUniqueID>9106714</NlmUniqueID>
+<ISSNLinking>0960-8923</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>1406-16-2</RegistryNumber>
+<NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015502">Absorptiometry, Photon</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015519">Bone Density</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015391">Gastroplasty</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007408">Intestinal Absorption</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010535">Laparoscopy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008159">Lumbar Vertebrae</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044342">Malnutrition</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009752">Nutritional Status</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009767">Obesity, Morbid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010281">Parathyroid Hormone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D013030">Spain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014807">Vitamin D</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015431">Weight Loss</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>1</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>1</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>2</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23315187</ArticleId>
+<ArticleId IdType="doi">10.1007/s11695-013-0866-6</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Obes Rev. 2010 Dec;11(12):835-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20973911</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cir Esp. 2010 Aug;88(2):103-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20619402</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocrine. 2008 Feb;33(1):90-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18338271</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2010 Apr;20(4):447-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20101473</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2005 Mar;15(3):330-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15826464</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2009 Apr 15;(2):CD003641</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19370590</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Surg Obes Relat Dis. 2006 Mar-Apr;2(2):98-103; discussion 104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16925330</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2007 Sep;17(9):1150-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18074487</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2012 May;22(5):797-801</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22179702</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2010 Apr;20(4):468-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19937150</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2009 Nov;19(11):1497-503</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19727982</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2008 Oct;93(10):3735-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18647809</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Rev. 2009 Feb;67(2):109-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19178653</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Biochem Biophys. 2012 Jul 1;523(1):73-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22230327</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2008 Dec;18(12):1526-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18716852</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2011 Apr;21(4):465-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21188546</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2012 Jul;22(7):1068-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22555865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Surg Obes Relat Dis. 2006 Nov-Dec;2(6):638-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17138235</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am Surg. 2012 Sep;78(9):969-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22964206</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2008 Jan;18(1):58-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18074189</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Densitom. 2005 Spring;8(1):31-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15722585</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2009 Jul;19(7):860-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19412643</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Age Ageing. 2013 Mar;42(2):181-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22585931</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutrition. 2009 Nov-Dec;25(11-12):1150-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19487104</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2012 Aug;22(8):1287-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22692668</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Sci. 2006 Apr;331(4):219-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16617238</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Derm Venereol. 2011 Mar;91(2):115-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21384086</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

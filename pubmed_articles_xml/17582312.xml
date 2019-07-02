@@ -1,0 +1,162 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17582312</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>09</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0040-5957</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>62</Volume>
+<Issue>2</Issue>
+<PubDate>
+<MedlineDate>2007 Mar-Apr</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Therapie</Title>
+<ISOAbbreviation>Therapie</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Dosing of cancer patients with low or absent renal function.</ArticleTitle>
+<Pagination>
+<MedlinePgn>117-20</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Boddy</LastName>
+<ForeName>Alan</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Northern Institute for Cancer Research, Newcastle University, Newcastle upon Tyne and Derby Hospitals NHS Trust, Derby, UK. alan.boddy@ncl.ac.uk</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Griffin</LastName>
+<ForeName>Melanie</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Knowles</LastName>
+<ForeName>Sarah</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Persic</LastName>
+<ForeName>Mojca</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scott</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Errington</LastName>
+<ForeName>Julie</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Veal</LastName>
+<ForeName>Gareth</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>06</Month>
+<Day>21</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>France</Country>
+<MedlineTA>Therapie</MedlineTA>
+<NlmUniqueID>0420544</NlmUniqueID>
+<ISSNLinking>0040-5957</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>6PLQ3CP4P3</RegistryNumber>
+<NameOfSubstance UI="D005047">Etoposide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>BG3F62OND5</RegistryNumber>
+<NameOfSubstance UI="D016190">Carboplatin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019540">Area Under Curve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016190">Carboplatin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005047">Etoposide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007668">Kidney</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051437">Renal Insufficiency</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>6</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>9</Month>
+<Day>19</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>6</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17582312</ArticleId>
+<ArticleId IdType="doi">10.2515/therapie:2007022</ArticleId>
+<ArticleId IdType="pii">th071586</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,621 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26890143</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">2041-4889</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>7</Volume>
+<PubDate>
+<Year>2016</Year>
+<Month>Feb</Month>
+<Day>18</Day>
+</PubDate>
+</JournalIssue>
+<Title>Cell death &amp; disease</Title>
+<ISOAbbreviation>Cell Death Dis</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Role of apoptosis-related miRNAs in resveratrol-induced breast cancer cell death.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e2104</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/cddis.2016.6</ELocationID>
+<Abstract>
+<AbstractText>Breast cancer is the most frequently diagnosed cancer in women, and one of the leading causes of cancer-related deaths worldwide. Recent evidences indicate that dietary agents such as resveratrol may inhibit cancer progression through modulation of microRNAs (miRNAs). We demonstrate that resveratrol regulates apoptotic and cell cycle machinery in breast cancer cells by modulating key tumor-suppressive miRNAs including miR-125b-5p, miR-200c-3p, miR-409-3p, miR-122-5p and miR-542-3p. Resveratrol-mediated miRNA modulation regulates key anti-apoptotic and cell cycle proteins including Bcl-2, X-linked inhibitor of apoptosis protein and CDKs, which are critical for its activity. Modulating miRNAs with mimics or inhibitors further validated a key role for miR-542-3p in MCF-7 and miR-122-5p in MDA-MB-231 breast cancer cell death in response to resveratrol. In conclusion, this study reveals novel miRNAs modulated by resveratrol that have a key role in breast cancer cell death. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Venkatadri</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pharmaceutical Sciences, Hampton University, Hampton, VA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Muni</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pharmaceutical Sciences, Hampton University, Hampton, VA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Iyer</LastName>
+<ForeName>A K V</ForeName>
+<Initials>AK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pharmaceutical Sciences, Hampton University, Hampton, VA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yakisich</LastName>
+<ForeName>J S</ForeName>
+<Initials>JS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pharmaceutical Sciences, Hampton University, Hampton, VA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Azad</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pharmaceutical Sciences, Hampton University, Hampton, VA, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>SC1 CA173069</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>SC1 HL112630</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>CA173069</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>HL112630</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>02</Month>
+<Day>18</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Cell Death Dis</MedlineTA>
+<NlmUniqueID>101524092</NlmUniqueID>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000972">Antineoplastic Agents, Phytogenic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019253">Proto-Oncogene Proteins c-bcl-2</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D013267">Stilbenes</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051636">X-Linked Inhibitor of Apoptosis Protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C496866">XIAP protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.22.-</RegistryNumber>
+<NameOfSubstance UI="D020169">Caspases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>Q369O8926L</RegistryNumber>
+<NameOfSubstance UI="D000077185">Resveratrol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000972">Antineoplastic Agents, Phytogenic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001943">Breast Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020169">Caspases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061986">MCF-7 Cells</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D035683">MicroRNAs</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019253">Proto-Oncogene Proteins c-bcl-2</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077185">Resveratrol</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013267">Stilbenes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051636">X-Linked Inhibitor of Apoptosis Protein</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>2</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26890143</ArticleId>
+<ArticleId IdType="pii">cddis20166</ArticleId>
+<ArticleId IdType="doi">10.1038/cddis.2016.6</ArticleId>
+<ArticleId IdType="pmc">PMC5399194</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Mol Cells. 2013 Mar;35(3):219-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23456297</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013 Oct 03;8(10):e76247</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24098452</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Gene Ther. 2008 Jun;15(6):341-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18369380</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 2013 Mar 1;587(5):436-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23337876</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Exp Pharmacol Physiol. 2012 Mar;39(3):227-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22211760</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Androl. 2007 Mar-Apr;28(2):282-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17050787</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncologist. 2002;7 Suppl 3:12-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12165651</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem Pharmacol. 2002 Nov 1;64(9):1375-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12392819</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Drug Targets. 2013 Sep;14(10):1167-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23834152</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Gynaecol Oncol. 2014;35(6):696-700</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25566594</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Epigenetics. 2012 Aug;7(8):940-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22805767</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Pharmacol. 2007 Dec;72(6):1466-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17848600</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2006 Apr 10;24(11):1770-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16603719</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2010 Dec 28;5(12 ):e15627</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21209944</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Biosyst. 2011 Sep;7(9):2571-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21766137</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Breast Cancer Res. 2012 May 22;14(3):R80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22616882</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 1998 Aug 1;92(3):996-1002</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9680369</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Struct Funct. 2012;37(1):27-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22307404</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2004 Jan 1;32(Database issue):D109-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14681370</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Med Res. 2008 Feb;39(2):162-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18164959</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2015 Oct 9;290(41):24678-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26286747</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Rep. 2011 Jun;25(6):1713-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21479363</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Biol Ther. 2006 Feb;5(2):165-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16322690</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer Ther. 2006 Aug;5(8):2034-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16928824</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2014 Jul 29;9(7):e103760</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25072848</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Oncol. 2009 Mar;16(2):36-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19370178</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cancer Res Ther. 2015 Aug;11 Suppl 1:C24-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26323919</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann N Y Acad Sci. 2007 Jan;1095:441-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17404056</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>World J Surg Oncol. 2014 Dec 16;12:383</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25510179</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Lett. 2010 May;1(3):565-568</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22966344</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2010 May 4;107(18):8231-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20406904</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Reprod Med. 2008 Nov;26(6):522-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18951334</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013 Nov 07;8(11):e79655</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24244539</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(1):e55183</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23372833</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Biol Rep. 2015 Feb;42(2):497-505</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25318895</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2012 Feb;32(3):633-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22144583</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(11):e48746</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23152798</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2003 Oct 17;278(42):41482-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12902349</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>World J Stem Cells. 2014 Nov 26;6(5):591-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25426255</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Nutr Food Res. 2011 Aug;55(8):1219-29</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21714127</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Ovarian Res. 2011 Sep 22;4(1):17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21939554</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2014 Feb 6;33(6):702-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23416980</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2007 Sep 1;13(17):5162-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17785572</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Elife. 2014 Nov 18;3:null</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25406066</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 1999 Dec;104(12):1645-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10606615</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2015 Oct;62(4):1132-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26054020</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Colloid Interface Sci. 2016 Jan 15;462:368-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26479200</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2005 May 20;115(1):74-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15688415</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biochem. 2015 Mar;116(3):450-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25336146</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Res. 2011;19(7):311-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21936401</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 2010 Sep 24;584(18):4048-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20728447</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Expert Opin Investig Drugs. 2000 Aug;9(8):1849-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11060782</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Cancer. 2014 Mar 24;14:218</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24655788</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2008 Jan;36(Database issue):D154-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17991681</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2011 Sep;18(9):1441-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21455218</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anticancer Res. 2006 Nov-Dec;26(6B):4361-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17201156</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D140-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16381832</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer Ther. 2006 Mar;5(3):621-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16546976</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2011 Jan;39(Database issue):D152-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21037258</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2014 May 15;33(20):2589-600</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23752191</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

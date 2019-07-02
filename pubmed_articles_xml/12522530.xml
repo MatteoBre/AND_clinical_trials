@@ -1,0 +1,226 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12522530</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>04</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0944-1174</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>37</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2002</Year>
+</PubDate>
+</JournalIssue>
+<Title>Journal of gastroenterology</Title>
+<ISOAbbreviation>J. Gastroenterol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Expression of inducible nitric oxide synthase in the lower esophageal sphincter of the endotoxemic opossum.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1000-4</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Endotoxin modulates esophageal motor function by increasing nitric oxide (NO) production. The aims of this study were to examine inducible nitric oxide synthase (iNOS) induction in the lower esophageal sphincter (LES) of endotoxemic opossums and to investigate the effects of aminoguanidine (AG), a selective inhibitor of iNOS, on plasma nitrite/nitrate levels and on iNOS protein and mRNA expression after exposure to lipopolysaccharide (LPS).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Before and 12 h after the intravenous administration of LPS and/or AG, plasma nitrite/nitrate levels were determined. The iNOS protein and mRNA expression were investigated in the tissues taken from the LES by Western blot and reverse-transcriptase polymerase chain reaction (RT-PCR).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Plasma nitrite/nitrate levels were significantly increased by LPS. The increase in plasma nitrite/nitrate produced by LPS was significantly decreased by AG. Western blot and RT-PCR demonstrated that iNOS expression was markedly increased by LPS, and attenuated slightly by AG.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These studies support the hypothesis that endotoxin increases NO production by the induction of iNOS protein and mRNA.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Park</LastName>
+<ForeName>Hyojin</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Internal Medicine, University of Iowa College of Medicine and VA Medical Center, Iowa City, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clark</LastName>
+<ForeName>Eugene</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cullen</LastName>
+<ForeName>Joseph J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koland</LastName>
+<ForeName>John G</ForeName>
+<Initials>JG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>Myong Soo</ForeName>
+<Initials>MS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Conklin</LastName>
+<ForeName>Jeffrey L</ForeName>
+<Initials>JL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Japan</Country>
+<MedlineTA>J Gastroenterol</MedlineTA>
+<NlmUniqueID>9430794</NlmUniqueID>
+<ISSNLinking>0944-1174</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006146">Guanidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008070">Lipopolysaccharides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>31C4KY9ESH</RegistryNumber>
+<NameOfSubstance UI="D009569">Nitric Oxide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.13.39</RegistryNumber>
+<NameOfSubstance UI="D019001">Nitric Oxide Synthase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.14.13.39</RegistryNumber>
+<NameOfSubstance UI="D052247">Nitric Oxide Synthase Type II</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>J Gastroenterol. 2002;37(12):1090-1</RefSource>
+<PMID Version="1">12522546</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015153">Blotting, Western</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019446">Endotoxemia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000201">enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004943">Esophagogastric Junction</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005786">Gene Expression Regulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006146">Guanidines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008070">Lipopolysaccharides</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009569">Nitric Oxide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019001">Nitric Oxide Synthase</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D052247">Nitric Oxide Synthase Type II</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009893">Opossums</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011336">Probability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011897">Random Allocation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020133">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018709">Statistics, Nonparametric</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>1</Month>
+<Day>11</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>4</Month>
+<Day>12</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>1</Month>
+<Day>11</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12522530</ArticleId>
+<ArticleId IdType="doi">10.1007/s005350200169</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

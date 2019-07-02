@@ -1,0 +1,231 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21527296</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>10</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1095-8304</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>57</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Appetite</Title>
+<ISOAbbreviation>Appetite</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effects of neuromedin-β on caloric compensation, eating behaviours and habitual food intake.</ArticleTitle>
+<Pagination>
+<MedlinePgn>21-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.appet.2011.04.003</ELocationID>
+<Abstract>
+<AbstractText>We have previously shown that a missense mutation (p.P73T) located in the neuromedin-β gene, a satiety peptide, was associated with higher levels of disinhibition, susceptibility to hunger, and body weight gain over time. In this study we compare caloric compensation, eating behaviour traits, food intake and adiposity between premenopausal women with (T73T) and without (P73P) mutation. Subjects (N=153) were screened to find homozygous women (T73T) that were matched for age, BMI and use of oral contraceptives with 7 women (P73P) not carrying the mutation. Eating behaviour traits were assessed with the Three-Factors Eating Questionnaire and habitual dietary intakes with a 3-day dietary record. A randomized single-blind cross-over design was used to test the effect of p.P73T on caloric compensation. We measured appetite sensations and ad libitum dietary intake following two different energy preloads. We found no difference in eating behaviour traits, adiposity, appetite sensations, ad libitum dietary intake and caloric compensation. However, T73T women had lower habitual energy and carbohydrate intakes than P73P. Differences in carbohydrate intakes disappeared when expressed in percentage of energy. These results suggest that the neuromedin-β p.P73T mutation modulates energy intake without effects on macronutrient. A lack of power resulting from our difficulty to recruit enough T73T women precludes any definitive conclusion regarding the impact of this mutation on caloric compensation.</AbstractText>
+<CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Blanchet</LastName>
+<ForeName>Rosanne</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Nutraceuticals and Functional Foods, Université Laval, Québec (Québec), Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lemieux</LastName>
+<ForeName>Simone</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Couture</LastName>
+<ForeName>Patrick</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bouchard</LastName>
+<ForeName>Luigi</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vohl</LastName>
+<ForeName>Marie-Claude</ForeName>
+<Initials>MC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pérusse</LastName>
+<ForeName>Louis</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>MOP-77652</GrantID>
+<Agency>Canadian Institutes of Health Research</Agency>
+<Country>Canada</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>04</Month>
+<Day>16</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Appetite</MedlineTA>
+<NlmUniqueID>8006808</NlmUniqueID>
+<ISSNLinking>0195-6663</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004040">Dietary Carbohydrates</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>86933-75-7</RegistryNumber>
+<NameOfSubstance UI="D015287">Neurokinin B</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>87096-84-2</RegistryNumber>
+<NameOfSubstance UI="C038393">neuromedin B</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050154">Adiposity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001066">Appetite</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004040">Dietary Carbohydrates</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004435">Eating</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002149">Energy Intake</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005247">Feeding Behavior</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006720">Homozygote</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020125">Mutation, Missense</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015287">Neurokinin B</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054647">Nutrigenomics</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011110">Polymorphism, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016037">Single-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011795">Surveys and Questionnaires</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>01</Month>
+<Day>24</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2011</Year>
+<Month>03</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2011</Year>
+<Month>04</Month>
+<Day>08</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>4</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>4</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>10</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21527296</ArticleId>
+<ArticleId IdType="pii">S0195-6663(11)00124-3</ArticleId>
+<ArticleId IdType="doi">10.1016/j.appet.2011.04.003</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,143 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18425979</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>06</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1469-493X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Issue>2</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Apr</Month>
+<Day>16</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Cochrane database of systematic reviews</Title>
+<ISOAbbreviation>Cochrane Database Syst Rev</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Adjuvant treatment of anaplastic oligodendrogliomas and oligoastrocytomas.</ArticleTitle>
+<Pagination>
+<MedlinePgn>CD007104</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/14651858.CD007104</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">AO and AOA are known to be chemosensitive tumors. However, the impact of adding chemotherapy to surgery and radiotherapy has not been studied. Also, the value of chromosome 1p and 19q deletions as prognostic and predictive markers is only beginning to be defined.</AbstractText>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">After surgery, to compare radiotherapy (RT) plus chemotherapy versus RT alone (standard of care) in adults with newly diagnosed AO or mixed AOA. To investigate the prognostic and predictive value of loss of heterozygosity of chromosomes 1p and 19q. Outcomes analyzed include overall survival (OS), progression-free survival (PFS), and treatment toxicity greater than or equal to grade 3.</AbstractText>
+<AbstractText Label="SEARCH STRATEGY" NlmCategory="METHODS">Cochrane Central Register for Controlled Trials (CENTRAL, Issue 4,2006), MEDLINE (1966 to 2006) and EMBASE (1988 to 2006) were searched. Reference lists from relevant studies were scanned for any additional relevant articles.</AbstractText>
+<AbstractText Label="SELECTION CRITERIA" NlmCategory="METHODS">RCTs of adults with AO or mixed AOA comparing surgery plus RT versus surgery plus RT plus chemotherapy were included. No specific chemotherapy regimens were excluded.</AbstractText>
+<AbstractText Label="DATA COLLECTION AND ANALYSIS" NlmCategory="METHODS">Relevant studies were critically appraised and data was extracted. Based on the differences in patient selection with respect to the definition of AO (2 versus 3 high risk anaplastic features) and sequence of treatment (RT and chemotherapy), the results from the two RCTs were not able to be considered for meta-analysis.</AbstractText>
+<AbstractText Label="MAIN RESULTS" NlmCategory="RESULTS">Two RCTs have tested surgery plus RT plus early procarbazine, lomustine, and vincristine (PCV) chemotherapy versus surgery plus RT alone. Neither study observed a survival benefit with the addition of early PCV chemotherapy. However, both studies found a statistically significant increase in PFS associated with the administration of PCV chemotherapy before surgery or after surgery and RT, with the benefit ranging from 10 to 11 months. Co-deletion of chromosomes 1p and 19q identifies a favorable subgroup of tumors with better overall survival outcomes. The predictive value of 1p and 19q co-deletions is less clear with one study observing a longer PFS with chemotherapy, while the other study did not.</AbstractText>
+<AbstractText Label="AUTHORS' CONCLUSIONS" NlmCategory="CONCLUSIONS">Early PCV chemotherapy in addition to standard treatment of surgery and RT does not improve OS in patients with AO or AOA. However, it does improve PFS. It also is associated with significant toxicities. Tumors with 1p and 19q co-deletions are associated with better OS and may indicate a more chemo-responsive tumor.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Quon</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abdulkarim</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+<PublicationType UI="D000078182">Systematic Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>04</Month>
+<Day>16</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Cochrane Database Syst Rev</MedlineTA>
+<NlmUniqueID>100909747</NlmUniqueID>
+<ISSNLinking>1361-6137</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="UpdateIn">
+<RefSource>Cochrane Database Syst Rev. 2014;5:CD007104</RefSource>
+<PMID Version="1">24833028</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001254">Astrocytoma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001932">Brain Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017024">Chemotherapy, Adjuvant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009837">Oligodendroglioma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000532">radiotherapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016032">Randomized Controlled Trials as Topic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>11</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>4</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>6</Month>
+<Day>14</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>4</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18425979</ArticleId>
+<ArticleId IdType="doi">10.1002/14651858.CD007104</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

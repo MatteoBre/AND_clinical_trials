@@ -1,0 +1,475 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26249018</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>04</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>01</Month>
+<Day>08</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1475-2840</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>14</Volume>
+<PubDate>
+<Year>2015</Year>
+<Month>Aug</Month>
+<Day>07</Day>
+</PubDate>
+</JournalIssue>
+<Title>Cardiovascular diabetology</Title>
+<ISOAbbreviation>Cardiovasc Diabetol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Delay in treatment intensification increases the risks of cardiovascular events in patients with type 2 diabetes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>100</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/s12933-015-0260-x</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The aim of the study was to evaluate the effect of delay in treatment intensification (IT; clinical inertia) in conjunction with glycaemic burden on the risk of macrovascular events (CVE) in type 2 diabetes (T2DM) patients.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A retrospective cohort study was carried out using United Kingdom Clinical Practice Research Datalink, including T2DM patients diagnosed from 1990 with follow-up data available until 2012.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">In the cohort of 105,477 patients mean HbA1c was 8.1% (65 mmol/mol) at diagnosis, 11% had a history of cardiovascular disease, and 7.1% experienced at least one CVE during 5.3 years of median follow-up. In patients with HbA1c consistently above 7/7.5% (53/58 mmol/mol, n = 23,101/11,281) during 2 years post diagnosis, 26/22% never received any IT. Compared to patients with HbA1c &lt;7% (&lt;53 mmol/mol), in patients with HbA1c ≥7% (≥53 mmol/mol), a 1 year delay in receiving IT was associated with significantly increased risk of MI, stroke, HF and composite CVE by 67% (HR CI: 1.39, 2.01), 51% (HR CI: 1.25, 1.83), 64% (HR CI: 1.40, 1.91) and 62% (HR CI: 1.46, 1.80) respectively. One year delay in IT in interaction with HbA1c above 7.5% (58 mmol/mol) was also associated with similar increased risk of CVE.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Among patients with newly diagnosed T2DM, 22% remained under poor glycaemic control over 2 years, and 26% never received IT. Delay in IT by 1 year in conjunction with poor glycaemic control significantly increased the risk of MI, HF, stroke and composite CVE.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Paul</LastName>
+<ForeName>Sanjoy K</ForeName>
+<Initials>SK</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Trials and Biostatistics Unit, QIMR Berghofer Medical Research Institute, 300 Herston Road, Herston, Brisbane, QLD, 4006, Australia. Sanjoy.Paul@qimrberghofer.edu.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Klein</LastName>
+<ForeName>Kerenaftali</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Trials and Biostatistics Unit, QIMR Berghofer Medical Research Institute, 300 Herston Road, Herston, Brisbane, QLD, 4006, Australia. kerenaftali.klein@qimrberghofer.edu.au.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thorsted</LastName>
+<ForeName>Brian L</ForeName>
+<Initials>BL</Initials>
+<AffiliationInfo>
+<Affiliation>Novo Nordisk A/S, Vandtårnsvej, Denmark. bltt@novonordisk.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wolden</LastName>
+<ForeName>Michael L</ForeName>
+<Initials>ML</Initials>
+<AffiliationInfo>
+<Affiliation>Novo Nordisk A/S, Vandtårnsvej, Denmark. mlwo@novonordisk.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khunti</LastName>
+<ForeName>Kamlesh</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Leicester Diabetes Centre, University of Leicester, Leicester, UK. kk22@le.ac.uk.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D064888">Observational Study</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Cardiovasc Diabetol</MedlineTA>
+<NlmUniqueID>101147637</NlmUniqueID>
+<ISSNLinking>1475-2840</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006442">Glycated Hemoglobin A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007004">Hypoglycemic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C517652">hemoglobin A1c protein, human</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001786">Blood Glucose</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002318">Cardiovascular Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016208">Databases, Factual</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003924">Diabetes Mellitus, Type 2</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004359">Drug Therapy, Combination</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006442">Glycated Hemoglobin A</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007004">Hypoglycemic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011314">Preventive Health Services</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011320">Primary Health Care</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D061665">Time-to-Treatment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006113">United Kingdom</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>06</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>07</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26249018</ArticleId>
+<ArticleId IdType="doi">10.1186/s12933-015-0260-x</ArticleId>
+<ArticleId IdType="pii">10.1186/s12933-015-0260-x</ArticleId>
+<ArticleId IdType="pmc">PMC4528846</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Diabetes Care. 2013 Jun;36(6):1779-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23704680</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2011 Jul 9;378(9786):156-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21705063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Technol Ther. 2013 Sep;15(9):776-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23786228</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Health Stat Q. 2004 Spring;(21):5-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15615148</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Diabetol. 2013;12:98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23829205</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pharm Pract (Granada). 2013 Oct;11(4):203-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24367460</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Med Inform Assoc. 2014 Mar-Apr;21(2):292-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24272162</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiovasc Drugs. 2013 Jun;13(3):213-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23585143</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2010 Feb;27(2):203-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20546265</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2000 Aug;85(8):2970-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10946914</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Metabolism. 2004 Mar;53(3):330-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15015145</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prim Care Diabetes. 2010 Dec;4(4):203-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20719586</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2014 Jan;37 Suppl 1:S14-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24357209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2009 Jan 20;53(3):298-304</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19147051</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1998 Sep 12;352(9131):854-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9742977</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2013 Jun;56(6):1201-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23475367</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2009 Nov;52(11):2288-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19655124</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2014 Jun 11;311(22):2288-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24915260</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Obes Metab. 2012 Jan;14(1):47-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21834876</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Med Res Opin. 2013 Nov;29(11):1495-502</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23944631</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Diabetes Sci Technol. 2013 Jul;7(4):880-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23911169</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2008 Jan;31(1):102-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17934146</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2008 Jun 12;358(24):2560-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18539916</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2009 Jul;52(7):1219-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19373446</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 1994 Aug;43(8):960-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8039603</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rev Med Liege. 2012 Dec;67(12):623-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23342872</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2010 Aug 7;376(9739):419-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20594588</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2009 Jan;32(1):193-203</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18945920</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2015 Jan;38 Suppl:S4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25537706</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Gen Pract. 2010 Mar;60(572):e128-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20202356</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2008 Oct 9;359(15):1577-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18784090</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2013 Nov;36(11):3411-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23877982</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ther Adv Drug Saf. 2012 Apr;3(2):89-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25083228</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(10):e78821</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24205325</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2012 Mar;29(3):410-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21916978</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Metab Syndr Relat Disord. 2003 Mar;1(1):3-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18370622</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2009 May 23;373(9677):1765-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19465231</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2010 Jun;33(6):1213-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20299488</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

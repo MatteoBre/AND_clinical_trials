@@ -1,0 +1,163 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25920362</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>12</Month>
+<Day>30</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1651-226X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>55</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2016</Year>
+</PubDate>
+</JournalIssue>
+<Title>Acta oncologica (Stockholm, Sweden)</Title>
+<ISOAbbreviation>Acta Oncol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Very low rate of circulating tumour cells (CTCs) in patients with PSA recurrence after radical prostatectomy referred to salvage radiotherapy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>113-5</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3109/0284186X.2015.1037013</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gunnlaugsson</LastName>
+<ForeName>Adalsteinn</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>a Department of Oncology and Radiation Physics , Skåne University Hospital, Lund University , Lund , Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nilsson</LastName>
+<ForeName>Per</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>a Department of Oncology and Radiation Physics , Skåne University Hospital, Lund University , Lund , Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kjellén</LastName>
+<ForeName>Elisabeth</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>a Department of Oncology and Radiation Physics , Skåne University Hospital, Lund University , Lund , Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Blom</LastName>
+<ForeName>René</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>a Department of Oncology and Radiation Physics , Skåne University Hospital, Lund University , Lund , Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016422">Letter</PublicationType>
+<PublicationType UI="D064888">Observational Study</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>04</Month>
+<Day>29</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Acta Oncol</MedlineTA>
+<NlmUniqueID>8709065</NlmUniqueID>
+<ISSNLinking>0284-186X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.4.21.77</RegistryNumber>
+<NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009360">Neoplastic Cells, Circulating</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017430">Prostate-Specific Antigen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011468">Prostatectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016879">Salvage Therapy</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>4</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>4</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25920362</ArticleId>
+<ArticleId IdType="doi">10.3109/0284186X.2015.1037013</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,191 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19563465</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>06</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1399-3038</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>21</Volume>
+<Issue>1 Pt 2</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology</Title>
+<ISOAbbreviation>Pediatr Allergy Immunol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Feasibility of a new method to collect exhaled breath condensate in pre-school children.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e235-44</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1399-3038.2009.00909.x</ELocationID>
+<Abstract>
+<AbstractText>Exhaled breath condensate (EBC) is a promising non-invasive method to assess respiratory inflammation in adults and children with lung disease. Especially in pre-school children, condensate collection is hampered by long sampling times because of open-ended collection systems. We aimed to assess the feasibility of condensate collection in pre-school children using a closed glass condenser with breath recirculation system, which also collects the residual non-condensed exhaled breath, and subsequently recirculates it back into the condenser. Condensate was collected before and after breath recirculation in 70 non-sedated pre-school children with and without recurrent wheeze. Cytokines (IL-4, IL-5, IL-6, IL-8, IL-10, IL-12p70, IL-13, TNF-α) were measured in 50 μl samples using ultrasensitive multiplexed liquid bead array. The success rate of condensate collection increased from 64% (without recirculation) to 83% (after breath recirculation), and mean condensate volume from 214 to 465 μl respectively. Detection of cytokines was successful in 95-100% of samples. Cytokine concentrations before and after breath recirculation were not different (p &gt; 0.232). In asthmatic children, only TNF-α concentrations were significantly decreased, compared to non-asthmatics. In pre-school children, the collection of EBC is feasible using a new closed glass condenser with breath recirculation system. This new method may help to assess - non-invasively - cytokine profiles in asthmatic and non-asthmatic pre-school children.</AbstractText>
+<CopyrightInformation>© 2009 John Wiley &amp; Sons A/S.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rosias</LastName>
+<ForeName>Philippe P R</ForeName>
+<Initials>PP</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Paediatrics, Orbis Medical Center, Sittard, The Netherlands. p.rosias@orbisconcern.nl</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Robroeks</LastName>
+<ForeName>Charlotte M</ForeName>
+<Initials>CM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>van de Kant</LastName>
+<ForeName>Kim D</ForeName>
+<Initials>KD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rijkers</LastName>
+<ForeName>Ger T</ForeName>
+<Initials>GT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zimmermann</LastName>
+<ForeName>Luc J</ForeName>
+<Initials>LJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Schayck</LastName>
+<ForeName>Constant P</ForeName>
+<Initials>CP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Heynens</LastName>
+<ForeName>Jan W</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jöbsis</LastName>
+<ForeName>Quirijn</ForeName>
+<Initials>Q</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dompeling</LastName>
+<ForeName>Edward</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>06</Month>
+<Day>26</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Pediatr Allergy Immunol</MedlineTA>
+<NlmUniqueID>9106718</NlmUniqueID>
+<ISSNLinking>0905-6157</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001249">Asthma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001944">Breath Tests</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016207">Cytokines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004864">Equipment and Supplies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045853">Exhalation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012135">Respiratory Sounds</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>6</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19563465</ArticleId>
+<ArticleId IdType="pii">PAI909</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1399-3038.2009.00909.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

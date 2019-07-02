@@ -1,0 +1,186 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19734632</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>12</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>11</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1590-8577</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>10</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Sep</Month>
+<Day>04</Day>
+</PubDate>
+</JournalIssue>
+<Title>JOP : Journal of the pancreas</Title>
+<ISOAbbreviation>JOP</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Surgical resection after TNFerade therapy for locally advanced pancreatic cancer.</ArticleTitle>
+<Pagination>
+<MedlinePgn>535-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">Treatment of pancreatic cancer remains a major oncological challenge and survival is dismal. Most patients, present with advanced disease at diagnosis and are not candidates for curative resection. Preoperative chemoradiation may downstage and improve survival in locally advanced pancreatic cancer. This has prompted investigators to look for novel neoadjuvant therapies. Gene therapy for pancreatic cancer is a novel investigational approach that may have promise. TNFerade is a replication deficient adenovirus vector carrying the human tumor necrosis factor (TNF)-alpha gene regulated under control of a radiation-inducible gene promoter. Transfection of tumor cells with TNFerade maximizes the antitumor effect of TNF-alpha under influence of radiation leading to synergistic effects in preclinical studies.</AbstractText>
+<AbstractText Label="CASE REPORT" NlmCategory="METHODS">We describe a case of locally advanced unresectable pancreatic cancer treated with a novel multimodal approach utilizing gene therapy with TNFerade and concurrent chemoradiation that was followed by successful surgical resection.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Neoadjuvant TNFerade based chemoradiation therapy may be a useful adjunct to treatment of locally advanced pancreatic cancer.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Chadha</LastName>
+<ForeName>Manpreet K</ForeName>
+<Initials>MK</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Roswell Park Cancer Institute and State University of New York at Buffalo, Buffalo, NY, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Litwin</LastName>
+<ForeName>Alan</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Levea</LastName>
+<ForeName>Charles</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Iyer</LastName>
+<ForeName>Renuka</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Gary</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Javle</LastName>
+<ForeName>Milind</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gibbs</LastName>
+<ForeName>John F</ForeName>
+<Initials>JF</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>09</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Italy</Country>
+<MedlineTA>JOP</MedlineTA>
+<NlmUniqueID>101091810</NlmUniqueID>
+<ISSNLinking>1590-8577</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000230">Adenocarcinoma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018450">Disease Progression</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015316">Genetic Therapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020360">Neoadjuvant Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010190">Pancreatic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016577">Pancreaticoduodenectomy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011401">Promoter Regions, Genetic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011878">Radiotherapy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015533">Transcriptional Activation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014409">Tumor Necrosis Factor-alpha</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>9</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>9</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>12</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19734632</ArticleId>
+<ArticleId IdType="pii">v10i05a12</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

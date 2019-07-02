@@ -1,0 +1,151 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22656427</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>09</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>06</Month>
+<Day>04</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1527-9995</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>79</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Urology</Title>
+<ISOAbbreviation>Urology</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Basal cell carcinoma of the prostate: a case report.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e79-80</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.urology.2012.03.003</ELocationID>
+<Abstract>
+<AbstractText>A 69-year-old man presented with gross hematuria and irritative urinary symptoms. He underwent transurethral resection of his prostate. The prostate chips revealed 70% poorly differentiated carcinoma with neuroendocrine features, initially read as small cell carcinoma, later as basal cell carcinoma. PSA at this time was 0.3. He received 4 cycles of etoposide and cisplatin. After which, rebiopsy of the prostate showed tumor consistent with poorly differentiated basal cell carcinoma. Given progression on chemotherapy, decision was made to proceed with radical prostatectomy. Metastatic workup was negative. Gross extraprostatic invasion was noted but lymph nodes were free of metastatic disease.</AbstractText>
+<CopyrightInformation>Copyright © 2012 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Stearns</LastName>
+<ForeName>Gillian</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>State University of New York, Syracuse, New York 13206, USA. stearnsg@upstate.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cheng</LastName>
+<ForeName>Jed-Sian</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Shapiro</LastName>
+<ForeName>Oleg</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nsouli</LastName>
+<ForeName>Imad</ForeName>
+<Initials>I</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Urology</MedlineTA>
+<NlmUniqueID>0366151</NlmUniqueID>
+<ISSNLinking>0090-4295</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002280">Carcinoma, Basal Cell</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011468">Prostatectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011471">Prostatic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>01</Month>
+<Day>31</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2012</Year>
+<Month>02</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>03</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>6</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>6</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22656427</ArticleId>
+<ArticleId IdType="pii">S0090-4295(12)00283-X</ArticleId>
+<ArticleId IdType="doi">10.1016/j.urology.2012.03.003</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

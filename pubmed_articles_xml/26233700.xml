@@ -1,0 +1,311 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26233700</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>05</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1534-3170</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>17</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Current cardiology reports</Title>
+<ISOAbbreviation>Curr Cardiol Rep</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Leadless Cardiac Pacemakers: Pacing Paradigm Change.</ArticleTitle>
+<Pagination>
+<MedlinePgn>68</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s11886-015-0619-3</ELocationID>
+<Abstract>
+<AbstractText>Traditional transvenous approach for permanent cardiac pacing can be associated with significant acute and chronic complications related partly to either the insertion of transvenous lead or subcutaneous placement of pacemaker device. We summarize the current status of a novel self-contained leadless cardiac pacemaker in the first-in-human and subsequent series of feasibility studies in patients indicated for ventricular rate-responsive pacing (VVI). Using a femoral venous approach, the device is implanted at the right ventricular apical septum region. We describe the technical and clinical characterization of this innovative technology. Two different systems of leadless pacemakers are currently implanted to the patients. Up to now, the electrical parameters, such as pacing thresholds, sensing parameters, and pacing impedances, either improved or remained stable within the accepted range. In this chapter, we also discuss the potential benefit for the future, but in summary, all available data demonstrate the feasibility of leadless cardiac pacing. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Neuzil</LastName>
+<ForeName>Petr</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiology Department, Na Homolce Hospital, Prague, Czech Republic, pneuzil@seznam.cz.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Reddy</LastName>
+<ForeName>Vivek Y</ForeName>
+<Initials>VY</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Curr Cardiol Rep</MedlineTA>
+<NlmUniqueID>100888969</NlmUniqueID>
+<ISSNLinking>1523-3782</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="ErratumIn">
+<RefSource>Curr Cardiol Rep. 2015 Nov;17(11):97</RefSource>
+<PMID Version="1">26370553</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001145">Arrhythmias, Cardiac</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D002304">Cardiac Pacing, Artificial</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004567">Electrodes, Implanted</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004867">Equipment Design</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010138">Pacemaker, Artificial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26233700</ArticleId>
+<ArticleId IdType="doi">10.1007/s11886-015-0619-3</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Curr Opin Cardiol. 2012 Jan;27(1):19-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22139700</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Europace. 2013 Aug;15(8):1191-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23703364</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J. 2014 May;35(18):1186-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24347317</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pacing Clin Electrophysiol. 2014 Feb;37(2):255-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24313269</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Cardiol Rep. 2012 Oct;14(5):547-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22825920</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pacing Clin Electrophysiol. 2003 Nov;26(11):2116-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14622313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pacing Clin Electrophysiol. 2009 Feb;32(2):177-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19170906</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Europace. 2011 Dec;13(12):1663-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22089974</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2014 Apr 8;129(14):1466-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24664277</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2010 Sep 15;106(6):810-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21391322</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2011 Aug 30;58(10):995-1000</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21867832</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pacing Clin Electrophysiol. 2007 Feb;30(2):199-206</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17338716</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart Rhythm. 2006 Oct;3(10):1202-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17018352</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1970 Oct 22;283(17):907-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4917725</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart Rhythm. 2014 Apr;11(4):609-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24486432</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart Rhythm. 2007 Feb;4(2):154-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17275749</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart Rhythm. 2009 Jun;6(6):749-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19467502</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Europace. 2013 Mar;15(3):453-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23027843</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pacing Clin Electrophysiol. 2000 May;23 (5):877-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10833709</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2012 Apr 24;59(17 ):1509-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22405632</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Indian Pacing Electrophysiol J. 2004 Oct 01;4(4):201-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16943934</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pacing Clin Electrophysiol. 2003 Oct;26(10):1961-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14516336</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 1963 Mar;11:362-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">13937691</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Europace. 2014 May;16(5):681-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24497573</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2007 Aug 28;50(9):877-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17719475</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2007 Sep 18;116(12):1349-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17724263</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart Rhythm. 2012 Aug;9(8):1344-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22858114</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 1999 Mar 11;83(5B):187D-191D</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10089864</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Heart Rhythm. 2009 Jun;6(6):742-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19427274</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pacing Clin Electrophysiol. 1995 Dec;18(12 Pt 1):2116-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8771121</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

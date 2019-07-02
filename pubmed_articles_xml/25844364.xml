@@ -1,0 +1,247 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">25844364</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>04</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic-eCollection">
+<Journal>
+<ISSN IssnType="Print">2291-0026</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>3</Volume>
+<Issue>1</Issue>
+<PubDate>
+<MedlineDate>2015 Jan-Mar</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>CMAJ open</Title>
+<ISOAbbreviation>CMAJ Open</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Dermatoses among returned Canadian travellers and immigrants: surveillance report based on CanTravNet data, 2009-2012.</ArticleTitle>
+<Pagination>
+<MedlinePgn>E119-26</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.9778/cmajo.20140082</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">There is a lack of multicentre analyses of the spectrum of dermatologic illnesses acquired by Canadian travellers and immigrants. Our objective for this study was to provide a comprehensive, Canada-specific surveillance summary of travel-related dermatologic conditions in a cohort of returned Canadian travellers and immigrants.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Data for Canadian travellers and immigrants with a primary dermatologic diagnosis presenting to CanTravNet sites between September 2009 and September 2012 were extracted and analyzed. Data were collected using the GeoSentinel data platform. This network comprises 56 specialized travel and tropical medicine clinics, including 6 Canadian sites (Vancouver, Calgary, Toronto, Ottawa and Montréal), that contribute anonymous, de-linked, clinician- and questionnaire-based travel surveillance data on all ill travellers examined to a centralized Structure Query Language database. Results were analyzed according to reason for most recent ravel: immigration (including refugee); tourism; business; missionary/volunteer/research and aid work; visiting friends and relatives; and other, which included students, military personnel and medical tourists.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">During the study period, 6639 patients presented to CanTravNet sites across Canada and 1076 (16.2%) received a travel-related primary dermatologic diagnosis. Arthropod bites (n = 162, 21.5%), rash (n = 141, 18.7%), cutaneous larva migrans (n = 98, 13.0%), and skin and soft tissue infection (n = 92, 12.2%) were the most common dermatologic diagnoses or diagnostic bundles issued to returning Canadian tourists (n = 754, 70.1% of total sample). Patients travelling for the purpose of immigration (n = 63, 5.9%) were significantly more likely to require inpatient management of their dermatologic diagnoses (p &lt; 0.001) than those travelling for other purposes.</AbstractText>
+<AbstractText Label="INTERPRETATION" NlmCategory="CONCLUSIONS">This analysis of surveillance data details the spectrum of travel-related dermatological conditions among returning Canadian travellers in this cohort, and provides an epidemiologic framework for Canadian physicians encountering these patients.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Stevens</LastName>
+<ForeName>Michael S</ForeName>
+<Initials>MS</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Dermatology, Department of Medicine, University of Toronto, Toronto, Ont.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Geduld</LastName>
+<ForeName>Jennifer</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Travel and Migration Health Division, Infectious Disease Prevention and Control Branch, Public Health Agency of Canada, Ottawa, Ont.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Libman</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Infectious Diseases, Department of Microbiology, and JD Maclean Centre for Tropical Diseases, McGill University Health Centre, Montréal, Que.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ward</LastName>
+<ForeName>Brian J</ForeName>
+<Initials>BJ</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Infectious Diseases, Department of Microbiology, and JD Maclean Centre for Tropical Diseases, McGill University Health Centre, Montréal, Que.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>McCarthy</LastName>
+<ForeName>Anne E</ForeName>
+<Initials>AE</Initials>
+<AffiliationInfo>
+<Affiliation>Tropical Medicine and International Health Clinic, Division of Infectious Diseases, Ottawa Hospital and the University of Ottawa, Ottawa, Ont.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vincelette</LastName>
+<ForeName>Jean</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Hôpital Saint-Luc du Centre Hospitalier de l'Université de Montréal, Montréal, Que.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ghesquiere</LastName>
+<ForeName>Wayne</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>Infectious Diseases, Vancouver Island Health Authority, Department of Medicine, University of British Columbia, Victoria, BC.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hajek</LastName>
+<ForeName>Jan</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Infectious Diseases, Department of Medicine, University of British Columbia, Vancouver, BC.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kuhn</LastName>
+<ForeName>Susan</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Section of Pediatric Infectious Diseases, Departments of Pediatrics and Medicine, Alberta Children's Hospital and the University of Calgary, Calgary, Alta.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Freedman</LastName>
+<ForeName>David O</ForeName>
+<Initials>DO</Initials>
+<AffiliationInfo>
+<Affiliation>UAB Travelers Health Clinic with the Gorgas Center for Geographic Medicine, Division of Infectious Diseases, University of Alabama at Birmingham, Birmingham, Alabama.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kain</LastName>
+<ForeName>Kevin C</ForeName>
+<Initials>KC</Initials>
+<AffiliationInfo>
+<Affiliation>SAR Laboratories, Sandra Rotman Centre for Global Health, Toronto, Ont. ; Tropical Disease Unit, Division of Infectious Diseases, Department of Medicine, University Health Network and the University of Toronto, Toronto, Ont.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boggild</LastName>
+<ForeName>Andrea K</ForeName>
+<Initials>AK</Initials>
+<AffiliationInfo>
+<Affiliation>Tropical Disease Unit, Division of Infectious Diseases, Department of Medicine, University Health Network and the University of Toronto, Toronto, Ont. ; Public Health Ontario Laboratories, Public Health Ontario, Toronto, Ont.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>01</Month>
+<Day>13</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Canada</Country>
+<MedlineTA>CMAJ Open</MedlineTA>
+<NlmUniqueID>101620603</NlmUniqueID>
+<ISSNLinking>2291-0026</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>4</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>4</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>4</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25844364</ArticleId>
+<ArticleId IdType="doi">10.9778/cmajo.20140082</ArticleId>
+<ArticleId IdType="pii">20140082</ArticleId>
+<ArticleId IdType="pmc">PMC4382030</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Travel Med. 2008 Jul-Aug;15(4):263-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18666927</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2013 Mar 19;158(6):456-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23552375</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 1995 Mar;20(3):542-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7756473</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Infect Dis. 2008 Nov;12(6):593-602</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18343180</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Travel Med. 2000 Sep-Oct;7(5):259-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11231210</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2006 Jan 12;354(2):119-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16407507</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Open Med. 2014 Feb 11;8(1):e20-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25009682</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Infect Dis. 2008 Oct;21(5):495-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18725799</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>MMWR Surveill Summ. 2013 Jul 19;62:1-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23863769</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Travel Med. 2008 Nov-Dec;15(6):457-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19090803</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

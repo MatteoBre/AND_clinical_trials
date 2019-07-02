@@ -1,0 +1,667 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27526873</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1931-8405</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>32</Volume>
+<Issue>10-11</Issue>
+<PubDate>
+<MedlineDate>2016 Oct/Nov</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>AIDS research and human retroviruses</Title>
+<ISOAbbreviation>AIDS Res. Hum. Retroviruses</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Intracellular Tenofovir and Emtricitabine Anabolites in Genital, Rectal, and Blood Compartments from First Dose to Steady State.</ArticleTitle>
+<Pagination>
+<MedlinePgn>981-991</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The pharmacokinetics (PK) of tenofovir-diphosphate (TFV-DP) and emtricitabine-triphosphate (FTC-TP), the active anabolites of tenofovir disoproxil fumarate (TDF), and emtricitabine (FTC) in blood, genital, and rectal compartments was determined in HIV-positive and seronegative adults who undertook a 60-day intensive PK study of daily TDF/FTC (plus efavirenz in HIV positives). Lymphocyte cell sorting, genital, and rectal sampling occurred once per subject, at staggered visits. Among 19 HIV-positive (3 female) and 21 seronegative (10 female) adults, TFV-DP in peripheral blood mononuclear cells (PBMC) accumulated 8.6-fold [95% confidence interval (CI): 7.2-10] from first-dose to steady-state concentration (Css) versus 1.7-fold (95% CI: 1.5-1.9) for FTC-TP. Css was reached in ∼11 and 3 days, respectively. Css values were similar between HIV-negative and HIV-positive individuals. Css TFV-DP in rectal mononuclear cells (1,450 fmol/10<sup>6</sup> cells, 898-2,340) was achieved in 5 days and was &gt;10 times higher than PBMC (95 fmol/10<sup>6</sup> cells, 85-106), seminal cells (22 fmol/10<sup>6</sup> cells, 6-79), and cervical cells (111 fmol/10<sup>6</sup> cells, 64-194). FTC-TP Css was highest in PBMC (5.7 pmol/10<sup>6</sup> cells, 5.2-6.1) and cervical cells (7 pmol/10<sup>6</sup> cells, 2-19) versus rectal (0.8 pmol/10<sup>6</sup> cells, 0.6-1.1) and seminal cells (0.3 pmol/10<sup>6</sup> cells, 0.2-0.5). Genital drug concentrations on days 1-7 overlapped with estimated Css, but accumulation characteristics were based on limited data. TFV-DP and FTC-TP in cell sorted samples were highest and achieved most rapidly in CD14<sup>+</sup> compared with CD4<sup>+</sup>, CD8<sup>+</sup>, and CD19<sup>+</sup> cells. Together, these findings demonstrate cell-type and tissue-dependent cellular pharmacology, preferential accumulation of TFV-DP in rectal mononuclear cells, and rapid distribution into rectal and genital compartments.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Seifert</LastName>
+<ForeName>Sharon M</ForeName>
+<Initials>SM</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>Xinhui</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meditz</LastName>
+<ForeName>Amie L</ForeName>
+<Initials>AL</Initials>
+<AffiliationInfo>
+<Affiliation>2 Boulder Community Hospital, Beacon Center for Infectious Diseases , Boulder, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Castillo-Mancilla</LastName>
+<ForeName>Jose R</ForeName>
+<Initials>JR</Initials>
+<AffiliationInfo>
+<Affiliation>3 Division of Infectious Diseases, School of Medicine, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gardner</LastName>
+<ForeName>Edward M</ForeName>
+<Initials>EM</Initials>
+<AffiliationInfo>
+<Affiliation>4 Denver Public Health , Denver, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Predhomme</LastName>
+<ForeName>Julie A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clayton</LastName>
+<ForeName>Carolyn</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>5 Department of Biostatistics and Informatics, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Austin</LastName>
+<ForeName>Gregory</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>6 School of Medicine, Internal Medicine, Gastroenterology, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palmer</LastName>
+<ForeName>Brent E</ForeName>
+<Initials>BE</Initials>
+<AffiliationInfo>
+<Affiliation>7 Division of Allergy and Clinical Immunology, School of Medicine, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zheng</LastName>
+<ForeName>Jia-Hua</ForeName>
+<Initials>JH</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Klein</LastName>
+<ForeName>Brandon</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kerr</LastName>
+<ForeName>Becky J</ForeName>
+<Initials>BJ</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guida</LastName>
+<ForeName>L Anthony</ForeName>
+<Initials>LA</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rower</LastName>
+<ForeName>Caitlin</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rower</LastName>
+<ForeName>Joseph E</ForeName>
+<Initials>JE</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kiser</LastName>
+<ForeName>Jennifer J</ForeName>
+<Initials>JJ</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bushman</LastName>
+<ForeName>Lane R</ForeName>
+<Initials>LR</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>MaWhinney</LastName>
+<ForeName>Samantha</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>5 Department of Biostatistics and Informatics, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>Peter L</ForeName>
+<Initials>PL</Initials>
+<AffiliationInfo>
+<Affiliation>1 Department of Pharmaceutical Sciences, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of Colorado Denver Anschutz Medical Campus , Aurora, Colorado.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>K23 AI104315</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>UL1 TR001082</GrantID>
+<Acronym>TR</Acronym>
+<Agency>NCATS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>T32 AI007447</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>U01 AI084735</GrantID>
+<Acronym>AI</Acronym>
+<Agency>NIAID NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D064888">Observational Study</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>09</Month>
+<Day>19</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>AIDS Res Hum Retroviruses</MedlineTA>
+<NlmUniqueID>8709376</NlmUniqueID>
+<ISSNLinking>0889-2229</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019380">Anti-HIV Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>99YXE507IL</RegistryNumber>
+<NameOfSubstance UI="D000068698">Tenofovir</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>G70B4ETF4S</RegistryNumber>
+<NameOfSubstance UI="D000068679">Emtricitabine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>X</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019380">Anti-HIV Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000068679">Emtricitabine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004847">Epithelial Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005835">Genitalia</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007963">Leukocytes, Mononuclear</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012007">Rectum</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013094">Spermatozoa</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000068698">Tenofovir</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">HIV pre-exposure prophylaxis</Keyword>
+<Keyword MajorTopicYN="Y">genital compartment</Keyword>
+<Keyword MajorTopicYN="Y">intracellular</Keyword>
+<Keyword MajorTopicYN="Y">nucleoside analog</Keyword>
+<Keyword MajorTopicYN="Y">pharmacokinetics</Keyword>
+<Keyword MajorTopicYN="Y">rectal compartment</Keyword>
+</KeywordList>
+<CoiStatement>Author Disclosure Statement Peter Anderson receives contract work and grant support from Gilead Sciences, paid to his institution. All other authors report no competing financial interests exit.</CoiStatement>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>12</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27526873</ArticleId>
+<ArticleId IdType="doi">10.1089/AID.2016.0008</ArticleId>
+<ArticleId IdType="pmc">PMC5067852</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Infection. 2016 Apr;44(2):151-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26471511</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 1998 Jun;72(6):4962-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9573265</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(7):e40382</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22808148</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Infect Dis. 2014 Sep;14(9):820-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25065857</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2016 Jul 1;214(1):55-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26917574</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2016 Jan 2;387(10013):53-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26364263</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2012 Aug 2;367(5):423-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22784038</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2012 Aug 2;367(5):399-410</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22784037</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2014 Feb 11;111(6):2307-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24469825</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Res Hum Retroviruses. 2016 Jan;32(1):32-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26414912</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pharm Res. 2008 Dec;25(12):2869-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19015955</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Pharmacol. 1995 Aug;35(8):763-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8522631</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2012 Aug 2;367(5):411-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22784040</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Control Release. 2015 Dec 10;219:681-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26278511</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Infect Dis. 2014 Nov;14(11):1055-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25300863</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2012 Dec 15;61(5):593-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23187888</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2016 Jul 31;30(12):1973-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27149090</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2013 Oct 24;155(3):515-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24243011</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pharm Biomed Anal. 2011 Sep 10;56(2):390-401</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21715120</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sci Transl Med. 2010 Jan 13;2(14):14ra4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20371467</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2011;6(10):e25974</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22039430</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2007 Sep 12;21(14):1899-907</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17721097</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2005 Aug 1;39(4):406-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16010161</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2004 Sep 24;18(14):1958-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15353984</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ther Drug Monit. 2007 Oct;29(5):566-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17898645</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2013;8(1):e55013</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23383037</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Res Hum Retroviruses. 2004 Nov;20(11):1173-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15588339</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS. 2015 Jun 1;29(9):1113-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25870991</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antiviral Res. 2010 Jan;85(1):39-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19887088</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Expert Opin Drug Metab Toxicol. 2015 Jun;11(6):893-905</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25797064</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2015 Feb 5;372(6):509-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25651245</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2010 Dec 30;363(27):2587-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21091279</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 2005 May;49(5):1907-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15855513</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acquir Immune Defic Syndr. 2008 Mar 1;47(3):329-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18197124</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CPT Pharmacometrics Syst Pharmacol. 2014 Nov 12;3:e147</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25390686</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2015 Dec 3;373(23):2237-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26624850</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sci Transl Med. 2011 Dec 7;3(112):112re4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22158861</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin HIV AIDS. 2016 Jan;11(1):94-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26633641</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 2001 Oct;45(10):2733-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11557462</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2014 Jun 30;9(6):e100863</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24978212</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA Intern Med. 2016 Jan;176(1):75-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26571482</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 2003 May 15;36(10):1295-304</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12746776</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Pathol. 1981 Oct;34(10):1083-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6975780</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EBioMedicine. 2015 Jul 09;2(9):1145-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26501112</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Antimicrob Agents Chemother. 2012 Jun;56(6):3011-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22391541</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anal Biochem. 2004 Jul 1;330(1):172-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15183777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Pharmacol. 2010 Feb;50(2):226-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19837908</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2014 Oct 28;9(10):e106196</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25350119</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Antimicrob Chemother. 2011 Feb;66(2):240-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21118913</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chromatogr B Analyt Technol Biomed Life Sci. 2009 Jul 1;877(20-21):1907-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19493710</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 2015 Mar 1;60(5):804-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25409469</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>AIDS Res Hum Retroviruses. 2013 Nov;29(11):1443-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23600365</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

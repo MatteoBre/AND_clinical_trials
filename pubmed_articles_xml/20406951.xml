@@ -1,0 +1,266 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20406951</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>08</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>01</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1538-8514</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>9</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Molecular cancer therapeutics</Title>
+<ISOAbbreviation>Mol. Cancer Ther.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Epithelial-to-mesenchymal transition and oncogenic Ras expression in resistance to the protein kinase Cbeta inhibitor enzastaurin in colon cancer cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1308-17</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1158/1535-7163.MCT-10-0167</ELocationID>
+<Abstract>
+<AbstractText>Identifying molecular factors of sensitivity and resistance of cancer cells to enzastaurin, a drug inhibiting protein kinase C (PKC) beta, remains a major challenge to improve its clinical development. Investigating the cellular effects of enzastaurin in a panel of 20 human cancer cell lines, we found that most cells displaying oncogenic K-Ras mutations also display resistance to enzastaurin. Wild-type (WT) K-Ras cancer cells displaying high sensitivity to enzastaurin also expressed high mRNA levels of epithelial markers, such as E-cadherin (CDH1), and low mRNA expressions of mesenchymal markers, such as vimentin, N-cadherin (CDH2), and other genes frequently expressed in mesenchymal transition such as ZEB1, TWIST, SLUG, SNAIL, and TGFbeta. WT K-Ras enzastaurin-resistant cells also expressed high levels of mesenchymal markers. Based on this observation, the effects of enzastaurin were investigated in epithelial colon COLO205-S cells that expressed WT Ras/Raf and its derived COLO205-R mesenchymal counterpart selected for resistance to most PKC modulators and displaying oncogenic K-Ras (G13D/exon 2). In COLO205-S cells, inhibition of phosphorylated PKCbeta led to the inactivation of AKT and glycogen synthase kinase 3beta and was associated with apoptosis without significant effect on cell cycle progression. In COLO205-R cells, enzastaurin induced mainly necrosis at high concentrations. In COLO205-R cells, a strong activation of extracellular signal-regulated kinase 1/2 possibly due to oncogenic K-Ras was predominantly associated with transcription of potent antiapoptotic genes, such as BCL2, GADD45B, and CDKN1A, as well as the multidrug resistance gene ABCB1. From this study, colon cancer cells undergoing apoptosis under enzastaurin exposure seem to frequently express a WT Ras and an epithelial phenotype.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Serova</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>INSERM U728, RayLab, Beaujon University Hospital (AP-HP-Paris 7 Diderot), Clichy, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Astorgues-Xerri</LastName>
+<ForeName>Lucile</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bieche</LastName>
+<ForeName>Ivan</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Albert</LastName>
+<ForeName>Sebastien</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vidaud</LastName>
+<ForeName>Michel</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Benhadji</LastName>
+<ForeName>Karim A</ForeName>
+<Initials>KA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Emami</LastName>
+<ForeName>Shahin</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vidaud</LastName>
+<ForeName>Dominique</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hammel</LastName>
+<ForeName>Pascal</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Theou-Anton</LastName>
+<ForeName>Nathalie</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gespach</LastName>
+<ForeName>Christian</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Faivre</LastName>
+<ForeName>Sandrine</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Raymond</LastName>
+<ForeName>Eric</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>04</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Mol Cancer Ther</MedlineTA>
+<NlmUniqueID>101132535</NlmUniqueID>
+<ISSNLinking>1535-7163</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007211">Indoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D047428">Protein Kinase Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.11.13</RegistryNumber>
+<NameOfSubstance UI="D011493">Protein Kinase C</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.11.13</RegistryNumber>
+<NameOfSubstance UI="D064546">Protein Kinase C beta</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>UC96G28EQF</RegistryNumber>
+<NameOfSubstance UI="C504878">enzastaurin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002277">Carcinoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054337">Cell Dedifferentiation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003110">Colonic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004353">Drug Evaluation, Preclinical</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019008">Drug Resistance, Neoplasm</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004847">Epithelial Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011905">Genes, ras</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045325">HCT116 Cells</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019073">HT29 Cells</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007211">Indoles</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D059630">Mesenchymal Stem Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011493">Protein Kinase C</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D064546">Protein Kinase C beta</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047428">Protein Kinase Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014407">Tumor Cells, Cultured</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>4</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>4</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>8</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20406951</ArticleId>
+<ArticleId IdType="pii">1535-7163.MCT-10-0167</ArticleId>
+<ArticleId IdType="doi">10.1158/1535-7163.MCT-10-0167</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

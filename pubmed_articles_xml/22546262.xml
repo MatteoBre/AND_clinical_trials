@@ -1,0 +1,279 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22546262</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>01</Month>
+<Day>03</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1479-5868</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>9</Volume>
+<PubDate>
+<Year>2012</Year>
+<Month>Apr</Month>
+<Day>30</Day>
+</PubDate>
+</JournalIssue>
+<Title>The international journal of behavioral nutrition and physical activity</Title>
+<ISOAbbreviation>Int J Behav Nutr Phys Act</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Results from an experimental trial at a Head Start center to evaluate two meal service approaches to increase fruit and vegetable intake of preschool aged children.</ArticleTitle>
+<Pagination>
+<MedlinePgn>51</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/1479-5868-9-51</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Strategies to increase fruit and vegetable consumption of preschool aged children are needed.</AbstractText>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Evaluate the independent effects of the following meal service strategies on intake of fruits and vegetables of preschool children: 1.) Serving fruits and vegetables in advance of other menu items as part of traditional family style meal service; and 2.) Serving meals portioned and plated by providers.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Fifty-three preschool aged children completed a randomized crossover experiment conducted at a Head Start center in Minneapolis, MN. Over a six week trial period each of the experimental meal service strategies (serving fruits and vegetable first and serving meals portioned by providers) was implemented during lunch service for two one-week periods. Two one-week control periods (traditional family style meal service with all menu items served at once) were also included over the six week trial period. Childrens lunch intake was observed as a measure of food and nutrient intake during each experimental condition.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Fruit intake was significantly higher (p&lt;0.01) when fruits and vegetables were served in advance of other meal items (0.40 servings/meal) compared to the traditional family style meal service control condition when they were served in tandem with other menu items (0.32 servings/meal). Intakes of some nutrients found in fruits (vitamin A and folate) were concomitantly higher. In contrast, fruit and vegetable intakes were significantly lower and energy intake significantly higher during the provider portioned compared with control condition.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Serving fruits in advance of other meal items may be a low cost easy to implement strategy for increasing fruit intake in young children. However, serving vegetables first does not appear to increase vegetable intake. Results provide support for current recommendations for traditional family style meal service in preschool settings.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Harnack</LastName>
+<ForeName>Lisa J</ForeName>
+<Initials>LJ</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Epidemiology and Community Health, School of Public Health, University of Minnesota, Minneapolis, MN, USA. harnack@epi.umn.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oakes</LastName>
+<ForeName>J Michael</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>French</LastName>
+<ForeName>Simone A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rydell</LastName>
+<ForeName>Sarah A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Farah</LastName>
+<ForeName>Farhiyah M</ForeName>
+<Initials>FM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taylor</LastName>
+<ForeName>Gretchen L</ForeName>
+<Initials>GL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>04</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Int J Behav Nutr Phys Act</MedlineTA>
+<NlmUniqueID>101217089</NlmUniqueID>
+<ISSNLinking>1479-5868</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018479">Early Intervention (Education)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D002149">Energy Intake</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005247">Feeding Behavior</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005518">Food Preferences</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005522">Food Services</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005638">Fruit</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D062407">Meals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012574">Schools</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014675">Vegetables</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>06</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>04</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>1</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22546262</ArticleId>
+<ArticleId IdType="pii">1479-5868-9-51</ArticleId>
+<ArticleId IdType="doi">10.1186/1479-5868-9-51</ArticleId>
+<ArticleId IdType="pmc">PMC3419662</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Nutr Rev. 2001 Jul;59(7):224-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11475448</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acad Nutr Diet. 2012 Feb;112(2):235-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22741167</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatrics. 1998 Mar;101(3 Pt 2):539-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12224660</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2003 Aug;78(2):215-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12885700</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Annu Rev Nutr. 1999;19:41-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10448516</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 1999 Aug;99(8):981-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10450319</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Appetite. 2006 May;46(3):318-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16626838</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2007 Apr;107(4):656-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17383271</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Dev Behav Pediatr. 2007 Apr;28(2):100-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17435460</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hum Nutr Diet. 2007 Aug;20(4):294-301</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17635306</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cancer Educ. 2007 Fall;22(3):177-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17760525</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obesity (Silver Spring). 2008 Jul;16(7):1559-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18451770</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Physiol Behav. 2009 Jul 14;97(5):609-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19303887</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2010 Oct;140(10):1832-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20702750</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2011 Apr;93(4):756-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21289225</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2011 May;111(5):716-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21515118</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2002 Mar;75(3):581-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11864866</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

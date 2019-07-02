@@ -1,0 +1,267 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25766346</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>07</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">0972-2823</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>61</Volume>
+<Issue>2</Issue>
+<PubDate>
+<MedlineDate>2015 Apr-Jun</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Journal of postgraduate medicine</Title>
+<ISOAbbreviation>J Postgrad Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Painful legs and moving toes syndrome responsive to pregabalin.</ArticleTitle>
+<Pagination>
+<MedlinePgn>116-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.4103/0022-3859.153106</ELocationID>
+<Abstract>
+<AbstractText>Report three cases of painful legs and moving toes (PLMT) syndrome responsive to pregabalin along with a review of its literature. Three patients with PLMT syndrome improved with pregabalin. The first and third patient reported improvement in pain scores, quality of life, and quality of sleep sustained over time. The second and third patient had near complete remission of toe movements, but pregabalin was discontinued in the second patient due to aggravation of leg edema. PLMT is a rare and debilitating disorder characterized by lower limb pain and involuntary toes or feet movements. Its pathophysiology remains unknown and its therapy refractory to most drugs, except for pregabalin, as shown in this case series. PLMT is a rare and incapacitating syndrome due to the lack of an effective pain therapy. We report three patients with PLMT who favorable responded to pregabalin. We propose pregabalin be considered in the management of PLMT. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rossi</LastName>
+<ForeName>F H</ForeName>
+<Initials>FH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Orlando Veteran Affairs Medical Center in Orlando, Orlando, Fl, United States of America.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Geigel</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Castaneda</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rossi</LastName>
+<ForeName>E M</ForeName>
+<Initials>EM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schnacky</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>India</Country>
+<MedlineTA>J Postgrad Med</MedlineTA>
+<NlmUniqueID>2985196R</NlmUniqueID>
+<ISSNLinking>0022-3859</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000700">Analgesics</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>55JG375S6M</RegistryNumber>
+<NameOfSubstance UI="D000069583">Pregabalin</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000700">Analgesics</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007866">Leg</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009069">Movement Disorders</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010146">Pain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069583">Pregabalin</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011788">Quality of Life</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013577">Syndrome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014034">Toes</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>3</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25766346</ArticleId>
+<ArticleId IdType="pii">jpgm_2015_61_2_116_153106</ArticleId>
+<ArticleId IdType="doi">10.4103/0022-3859.153106</ArticleId>
+<ArticleId IdType="pmc">PMC4943426</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Ital J Neurol Sci. 1990 Dec;11(6):573-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2081681</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pain. 2008 Sep;9(9):792-805</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18524684</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Neurol. 2004;51(3):180-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15073446</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 1971;94(3):541-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4255783</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CNS Spectr. 2005 Sep;10(9):698-706</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16142210</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CNS Drug Rev. 2004 Summer;10 (2):183-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15317151</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 1994 Jan;9(1):13-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7511213</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mov Disord. 2006 Apr;21(4):579-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16416415</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Singapore Med J. 1996 Aug;37(4):446-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8993154</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Epilepsia. 1992 Nov-Dec;33(6):981-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1334454</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intern Med. 2007;46(23):1937</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18057770</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 1983 May;46(5):399-403</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6101221</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Rev Neurol (Paris). 1985;141(5):422-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2996110</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Neurol. 2012 Aug;69(8):1032-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22490324</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Neurosurg Psychiatry. 1978 Oct;41(10):934-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">215727</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

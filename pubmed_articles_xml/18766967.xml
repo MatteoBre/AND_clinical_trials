@@ -1,0 +1,174 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18766967</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>11</Month>
+<Day>04</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>01</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1029-2403</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>49</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Leukemia &amp; lymphoma</Title>
+<ISOAbbreviation>Leuk. Lymphoma</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Primary cutaneous lymphomas: a population-based descriptive study of 71 consecutive cases diagnosed between 1980 and 2003.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1537-44</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1080/10428190802136368</ELocationID>
+<Abstract>
+<AbstractText>Although primary cutaneous lymphomas (PCL) are the second most common group of extra-nodal non-Hodgkin lymphomas, few epidemiological data are available in the literature, and most of them are provided by large databases from population-based cancer registries in the US or patients attending a single institution. We conducted this study to investigate the epidemiological and clinical features of PCL diagnosed in the department of Doubs from 1980 to 2003. Data were collected from the Doubs cancer registry from 1980 to 2003. Seventy-one patients with PCL were investigated. 82% were cutaneous T-cell lymphoma (CTCL) and 18% were cutaneous B-cell lymphoma (CBCL). Among CTCL, mycosis fungoides (MF) represented 58% and Sezary syndrome 10%. The standardised incidence rate of PCL was 0.42 for 100 000 person-years and significantly increased from 0.21 in 1980-1984 to 0.70 in 2000-2003 (p &lt;0.05). The incidence rate of CTCL was 0.34 for 100 000 person-year and significantly increased from 0.2 to 0.57 (p &lt;0.05). For MF and CBCL, the incidence rates were 0.20 and 0.08, respectively and did not vary significantly from 1980-1984 to 2000-2003. Five-year survival was 64.5% for PCL patients similar to MF patients. Our results provide updated data on the incidence of PCL in France.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Riou-Gotta</LastName>
+<ForeName>Marie Odile</ForeName>
+<Initials>MO</Initials>
+<AffiliationInfo>
+<Affiliation>Service de Dermatologie, CHU de Besançon, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fournier</LastName>
+<ForeName>Evelyne</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mermet</LastName>
+<ForeName>Isabelle</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pelletier</LastName>
+<ForeName>Fabien</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Humbert</LastName>
+<ForeName>Philippe</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Danzon</LastName>
+<ForeName>Arlette</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aubin</LastName>
+<ForeName>François</ForeName>
+<Initials>F</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Leuk Lymphoma</MedlineTA>
+<NlmUniqueID>9007422</NlmUniqueID>
+<ISSNLinking>1026-8022</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D005602">France</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015994">Incidence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016393">Lymphoma, B-Cell</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016410">Lymphoma, T-Cell, Cutaneous</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009182">Mycosis Fungoides</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012751">Sezary Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012878">Skin Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013995">Time</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>4</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>11</Month>
+<Day>5</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>9</Month>
+<Day>4</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18766967</ArticleId>
+<ArticleId IdType="pii">902121150</ArticleId>
+<ArticleId IdType="doi">10.1080/10428190802136368</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

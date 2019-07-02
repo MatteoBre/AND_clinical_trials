@@ -1,0 +1,144 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18341973</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>07</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>03</Month>
+<Day>17</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0399-8320</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>32</Volume>
+<Issue>1 Pt. 1</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Gastroenterologie clinique et biologique</Title>
+<ISOAbbreviation>Gastroenterol. Clin. Biol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Hormone replacement therapy and colorectal cancer].</ArticleTitle>
+<Pagination>
+<MedlinePgn>19-28</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.gcb.2007.12.008</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Delluc</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Service d'anatomie et cytologie pathologiques, hôpital Cochin, 27, rue du Faubourg-Saint-Jacques, 75014 Paris, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Benamouzig</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>fre</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Traitement hormonal substitutif de la ménopause et cancer colorectal.</VernacularTitle>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>03</Month>
+<Day>04</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>France</Country>
+<MedlineTA>Gastroenterol Clin Biol</MedlineTA>
+<NlmUniqueID>7704825</NlmUniqueID>
+<ISSNLinking>0399-8320</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004967">Estrogens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003106">Colon</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003110">Colonic Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015914">Estrogen Replacement Therapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004967">Estrogens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008593">Menopause</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016032">Randomized Controlled Trials as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012004">Rectal Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018570">Risk Assessment</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>63</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>3</Month>
+<Day>18</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>7</Month>
+<Day>11</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>3</Month>
+<Day>18</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18341973</ArticleId>
+<ArticleId IdType="pii">S0399-8320(07)00013-9</ArticleId>
+<ArticleId IdType="doi">10.1016/j.gcb.2007.12.008</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,389 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26285821</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>03</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1471-2466</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>15</Volume>
+<PubDate>
+<Year>2015</Year>
+<Month>Aug</Month>
+<Day>19</Day>
+</PubDate>
+</JournalIssue>
+<Title>BMC pulmonary medicine</Title>
+<ISOAbbreviation>BMC Pulm Med</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Radial endobronchial ultrasound in diagnosing peripheral lung lesions in a high tuberculosis setting.</ArticleTitle>
+<Pagination>
+<MedlinePgn>90</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/s12890-015-0089-9</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Current data for the utility of radial endobronchial ultrasound (EBUS) in investigating peripheral lung lesions (PLLs) has been restricted to populations with low pulmonary tuberculosis (TB) incidence. The aim of this study was to assess the diagnostic utility of radial EBUS with guide sheath in the diagnosis of peripheral lung lesions in Singapore, a high TB incidence setting.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">A post-hoc database analysis was performed. 123 consecutive patients with computed tomographic evidence of PLLs who underwent radial EBUS guided bronchoscopy were included.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The final diagnosis was malignancy in 76 cases and benign in 44 cases. Radial EBUS guided bronchoscopy had a sensitivity of 65.8 % for malignancy, positive predictive value of 100 %, negative predictive value of 62.9 %, and a diagnostic accuracy of 82.5 %. 22 patients had a final diagnosis of pulmonary TB. The diagnostic sensitivity for pulmonary TB was 77.3 %, with a positive predictive value of 100 %, negative predictive value of 95.2 % and a diagnostic accuracy of 95.8 %. Overall, 58.8 % of pulmonary TB cases relied on histology to make an early diagnosis.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Radial EBUS guided bronchosopy is useful in investigating PLLs in a high TB incidence setting. Our data also suggests that radial EBUS is a more rapid diagnosis technique for tuberculous lesions.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Chan</LastName>
+<ForeName>Adrian</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Respiratory and Critical Care Medicine, Singapore General Hospital, Singapore, Singapore. adrian.chan.k.w@sgh.com.sg.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Devanand</LastName>
+<ForeName>Anantham</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Respiratory and Critical Care Medicine, Singapore General Hospital, Singapore, Singapore. anantham.devanand@sgh.com.sg.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Duke- NUS Graduate Medical School, Singapore, Singapore. anantham.devanand@sgh.com.sg.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Low</LastName>
+<ForeName>Su Ying</ForeName>
+<Initials>SY</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Respiratory and Critical Care Medicine, Singapore General Hospital, Singapore, Singapore. low.su.ying@sgh.com.sg.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Duke- NUS Graduate Medical School, Singapore, Singapore. low.su.ying@sgh.com.sg.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koh</LastName>
+<ForeName>Mariko Siyue</ForeName>
+<Initials>MS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Respiratory and Critical Care Medicine, Singapore General Hospital, Singapore, Singapore. mariko.koh.s.y@sgh.com.sg.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Duke- NUS Graduate Medical School, Singapore, Singapore. mariko.koh.s.y@sgh.com.sg.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>19</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>BMC Pulm Med</MedlineTA>
+<NlmUniqueID>100968563</NlmUniqueID>
+<ISSNLinking>1471-2466</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001999">Bronchoscopy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003937">Diagnosis, Differential</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019160">Endosonography</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011237">Predictive Value of Tests</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014397">Tuberculosis, Pulmonary</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>04</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>3</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26285821</ArticleId>
+<ArticleId IdType="doi">10.1186/s12890-015-0089-9</ArticleId>
+<ArticleId IdType="pii">10.1186/s12890-015-0089-9</ArticleId>
+<ArticleId IdType="pmc">PMC4541739</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Respir Med. 2007 Apr;101(4):738-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17015004</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thorax. 2013 Aug;68 Suppl 1:i1-i44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23860341</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intern Med J. 2012 Aug;42(8):894-900</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22212110</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lung Cancer. 2013 Jul;81(1):60-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23639784</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2005 Nov;128(5):3551-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16304312</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respir Med. 1996 Mar;90(3):139-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8736205</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2011 Apr;37(4):902-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20693253</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2007 Jun;131(6):1788-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17565021</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2000 Apr;117(4):1049-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10767238</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kekkaku. 1990 Jan;65(1):33-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2313959</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Respiration. 2015;90(2):129-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26112297</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2007 Sep;132(3):946-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17573496</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diagn Microbiol Infect Dis. 2005 Jul;52(3):247-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15893903</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 1967 May;20(5):687-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6024282</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2003 Feb 15;167(4):603-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12588714</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Pulm Med. 2013 Jan 1;20(1):29-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23525679</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2011 Feb;37(2):441-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20847074</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 1979 Aug;76(2):176-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">456057</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2013 May;143(5 Suppl):e93S-120S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23649456</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 2009 Jul 1;49(1):46-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19476429</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 1995 Jul;108(1):131-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7606947</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2009 Jul;136(1):229-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18812446</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Dis. 2015 Apr;7(4):596-602</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25973225</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intern Med. 2012;51(5):455-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22382558</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2012 Aug;142(2):385-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21980059</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2002 Oct;20(4):972-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12412691</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thorax. 1988 Nov;43(11):887-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3222759</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Respir J. 2004 Oct;24(4):533-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15459129</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Am Thorac Soc. 2014 May;11(4):578-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24635641</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lung. 1991;169(5):285-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1745059</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chest. 2004 Sep;126(3):959-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15364779</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Infect Dis. 2004 Nov 1;39(9):1321-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15494909</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

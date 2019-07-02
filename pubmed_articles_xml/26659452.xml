@@ -1,0 +1,307 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26659452</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>07</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>01</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1527-3350</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>63</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>06</Month>
+</PubDate>
+</JournalIssue>
+<Title>Hepatology (Baltimore, Md.)</Title>
+<ISOAbbreviation>Hepatology</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Liver stiffness in nonalcoholic fatty liver disease: A comparison of supersonic shear imaging, FibroScan, and ARFI with liver biopsy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1817-27</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/hep.28394</ELocationID>
+<Abstract>
+<AbstractText Label="UNLABELLED">Nonalcoholic fatty liver disease (NAFLD) has become a major public health issue. The goal of this study was to assess the clinical use of liver stiffness measurement (LSM) evaluated by supersonic shear imaging (SSI), FibroScan, and acoustic radiation force impulse (ARFI) in a cohort of NAFLD patients who underwent liver biopsy. A total of 291 NAFLD patients were prospectively enrolled from November 2011 to February 2015 at 2 French university hospitals. LSM was assessed by SSI, FibroScan (M probe), and ARFI within two weeks prior to liver biopsy. Calculations of the area under the receiver operating curve (AUROC) were performed and compared for the staging of liver fibrosis. AUROC for SSI, FibroScan, and ARFI were 0.86, 0.82, and 0.77 for diagnoses of ≥F2; 0.89, 0.86, and 0.84 for ≥F3; and 0.88, 0.87, and 0.84 for F4, respectively. SSI had a higher accuracy than ARFI for diagnoses of significant fibrosis (≥F2) (P = 0.004). Clinical factors related to obesity such as body mass index ≥ 30 kg/m(2) , waist circumference ≥102 cm or increased parietal wall thickness were associated with LSM failures when using SSI or FibroScan and with unreliable results when using ARFI. In univariate analysis, FibroScan values were slightly correlated with NAFLD activity score and steatosis (R = 0.28 and 0.22, respectively), whereas SSI and ARFI were not; however, these components of NAFLD did not affect LSM results in multivariate analysis. The cutoff values for SSI and FibroScan for staging fibrosis with a sensitivity ≥90% were very close: 6.3/6.2 kPa for ≥F2, 8.3/8.2 kPa for ≥F3, and 10.5/9.5 kPa for F4.</AbstractText>
+<AbstractText Label="CONCLUSION">Although obesity is associated with an increase in LSM failure, the studied techniques and especially SSI provide high value for the diagnosis of liver fibrosis in NAFLD patients. (Hepatology 2016;63:1817-1827).</AbstractText>
+<CopyrightInformation>© 2015 by the American Association for the Study of Liver Diseases.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Cassinotto</LastName>
+<ForeName>Christophe</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Diagnostic and Interventional Imaging, Hôpital Haut-Lévêque, University Hospital of Bordeaux, Pessac, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>INSERM U1053, University of Bordeaux, Bordeaux, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boursier</LastName>
+<ForeName>Jérome</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Hepatology, University Hospital of Angers, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Laboratory HIFIH, UPRES 3859, LUNAM University, Angers, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>de Lédinghen</LastName>
+<ForeName>Victor</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>INSERM U1053, University of Bordeaux, Bordeaux, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Centre d'Investigation de la Fibrose Hépatique, Hôpital Haut-Lévêque, University Hospital of Bordeaux, Pessac, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lebigot</LastName>
+<ForeName>Jérome</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory HIFIH, UPRES 3859, LUNAM University, Angers, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Radiology, University Hospital of Angers, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lapuyade</LastName>
+<ForeName>Bruno</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Diagnostic and Interventional Imaging, Hôpital Haut-Lévêque, University Hospital of Bordeaux, Pessac, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cales</LastName>
+<ForeName>Paul</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Hepatology, University Hospital of Angers, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Laboratory HIFIH, UPRES 3859, LUNAM University, Angers, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hiriart</LastName>
+<ForeName>Jean-Baptiste</ForeName>
+<Initials>JB</Initials>
+<AffiliationInfo>
+<Affiliation>Centre d'Investigation de la Fibrose Hépatique, Hôpital Haut-Lévêque, University Hospital of Bordeaux, Pessac, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Michalak</LastName>
+<ForeName>Sophie</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory HIFIH, UPRES 3859, LUNAM University, Angers, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pathology, University Hospital of Angers, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bail</LastName>
+<ForeName>Brigitte Le</ForeName>
+<Initials>BL</Initials>
+<AffiliationInfo>
+<Affiliation>INSERM U1053, University of Bordeaux, Bordeaux, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Pathology, Hôpital Pellegrin, University Hospital of Bordeaux, Bordeaux, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cartier</LastName>
+<ForeName>Victoire</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory HIFIH, UPRES 3859, LUNAM University, Angers, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Radiology, University Hospital of Angers, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mouries</LastName>
+<ForeName>Amaury</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Diagnostic and Interventional Imaging, Hôpital Haut-Lévêque, University Hospital of Bordeaux, Pessac, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oberti</LastName>
+<ForeName>Frédéric</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Hepatology, University Hospital of Angers, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Laboratory HIFIH, UPRES 3859, LUNAM University, Angers, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fouchard-Hubert</LastName>
+<ForeName>Isabelle</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Hepatology, University Hospital of Angers, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vergniol</LastName>
+<ForeName>Julien</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Centre d'Investigation de la Fibrose Hépatique, Hôpital Haut-Lévêque, University Hospital of Bordeaux, Pessac, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aubé</LastName>
+<ForeName>Christophe</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory HIFIH, UPRES 3859, LUNAM University, Angers, France.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Department of Radiology, University Hospital of Angers, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>01</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Hepatology</MedlineTA>
+<NlmUniqueID>8302946</NlmUniqueID>
+<ISSNLinking>0270-9139</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D054459">Elasticity Imaging Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008099">Liver</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008103">Liver Cirrhosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D065626">Non-alcoholic Fatty Liver Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>07</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>19</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>10</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>7</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26659452</ArticleId>
+<ArticleId IdType="doi">10.1002/hep.28394</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

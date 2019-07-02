@@ -1,0 +1,219 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12721285</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>08</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>11</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0021-9258</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>278</Volume>
+<Issue>29</Issue>
+<PubDate>
+<Year>2003</Year>
+<Month>Jul</Month>
+<Day>18</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of biological chemistry</Title>
+<ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Identification of regulatory domains in ADP-ribosyltransferase-1 that determine transferase and NAD glycohydrolase activities.</ArticleTitle>
+<Pagination>
+<MedlinePgn>26351-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Mono-ADP-ribosyltransferases (ART1-7) transfer ADP-ribose from NAD+ to proteins (transferase activity) or water (NAD glycohydrolase activity). The mature proteins contain two domains, an alpha-helical amino terminus and a beta-sheet-rich carboxyl terminus. A basic region in the carboxyl termini is encoded in a separate exon in ART1 and ART5. Structural motifs are conserved among ART molecules. Successive amino- or carboxyl-terminal truncations of ART1, an arginine-specific transferase, identified regions that regulated transferase and NAD glycohydrolase activities. In mouse ART1, amino acids 24-38 (ART-specific extension) were needed to inhibit both activities; amino acids 39-45 (common ART coil) were required for both. Successive truncations of the alpha-helical region reduced transferase and NAD glycohydrolase activities; however, truncation to residue 106 enhanced both. Removal of the carboxyl-terminal basic domain decreased transferase, but enhanced NAD glycohydrolase, activity. Thus, amino- and carboxyl-terminal regions of ART1 are required for transferase activity. The enhanced glycohydrolase activity of the shorter mutants indicates that sequences, which are not part of the NAD binding, core catalytic site, exert structural constraints, modulating substrate specificity and catalytic activity. These functional domains, defined by discrete exons or structural motifs, are found in ART1 and other ARTs, consistent with conservation of structure and function across the ART family.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bourgeois</LastName>
+<ForeName>Christelle</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Pulmonary-Critical Care Medicine Branch, NHLBI, National Institutes of Health, Bethesda, Maryland 20892-1590, USA. bougeoc@nhlbi.nih.gov</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Okazaki</LastName>
+<ForeName>Ian</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cavanaugh</LastName>
+<ForeName>Eleanor</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nightingale</LastName>
+<ForeName>Maria</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moss</LastName>
+<ForeName>Joel</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2003</Year>
+<Month>04</Month>
+<Day>28</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Biol Chem</MedlineTA>
+<NlmUniqueID>2985121R</NlmUniqueID>
+<ISSNLinking>0021-9258</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017931">DNA Primers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011994">Recombinant Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0U46U6E8UK</RegistryNumber>
+<NameOfSubstance UI="D009243">NAD</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>20762-30-5</RegistryNumber>
+<NameOfSubstance UI="D000246">Adenosine Diphosphate Ribose</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>70J407ZL5Q</RegistryNumber>
+<NameOfSubstance UI="D000376">Agmatine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.4.2.-</RegistryNumber>
+<NameOfSubstance UI="D036002">ADP Ribose Transferases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.2.5</RegistryNumber>
+<NameOfSubstance UI="D009244">NAD+ Nucleosidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D036002">ADP Ribose Transferases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000246">Adenosine Diphosphate Ribose</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000376">Agmatine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020134">Catalytic Domain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017931">DNA Primers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D066298">In Vitro Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009243">NAD</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009244">NAD+ Nucleosidase</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017434">Protein Structure, Tertiary</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011817">Rabbits</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011994">Recombinant Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017384">Sequence Deletion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017386">Sequence Homology, Amino Acid</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013045">Species Specificity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>5</Month>
+<Day>2</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>8</Month>
+<Day>28</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>5</Month>
+<Day>2</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12721285</ArticleId>
+<ArticleId IdType="doi">10.1074/jbc.M303193200</ArticleId>
+<ArticleId IdType="pii">M303193200</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

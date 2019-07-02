@@ -1,0 +1,418 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23563909</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>05</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1522-1709</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>17</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Sleep &amp; breathing = Schlaf &amp; Atmung</Title>
+<ISOAbbreviation>Sleep Breath</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Do pregnant women accurately report sleep time? A comparison between self-reported and objective measures of sleep duration in pregnancy among a sample of urban mothers.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1323-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s11325-013-0835-2</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Survey questions are commonly used to assess sleep duration because of their low cost and convenience. Responses to these questions correlate moderately with objectively measured sleep duration in nonpregnant individuals, but little is known about the validity of self-reported sleep measures in pregnancy. The aim of the present study was to determine the extent to which self-reported gestational sleep duration assessed by questionnaire predicted objectively measured gestational sleep duration via actigraphy.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We analyzed data from 80 mothers enrolled in an ancillary study of Project BABIES, a prospective cohort study of urban, pregnant women. Sleep measurements were collected in midpregnancy and included 7 days of wrist actigraphy, a sleep log, and survey questions about sleep time adapted from the Pittsburgh Sleep Quality Index.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Mean measured gestational sleep duration derived from actigraphy was 6.87 h [standard deviation (SD) 0.87], and questionnaire-assessed nocturnal sleep time averaged 7.29 h (SD 1.84). While the difference between measures did not reach statistical significance (p = 0.07 for paired samples t test), over half (62 %) of participants reported a habitual average nightly sleep time that differed more than 1 h from their average actigraphically measured sleep duration (39 % overestimated by more than an hour; 23 % underestimated by more than an hour). There was no correlation between measures (r = 0.007; 95 % confidence interval -0.21, 0.23).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Questionnaire-derived reports of usual sleep hours do not reflect objectively measured sleep time in urban, pregnant women. Actigraphy is preferable to accurately assess gestational sleep duration.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Herring</LastName>
+<ForeName>Sharon J</ForeName>
+<Initials>SJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Center for Obesity Research and Education, Temple University School of Medicine, 3223 N. Broad Street, Suite 175, Philadelphia, PA, 19140, USA, Sharon.Herring@temple.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Foster</LastName>
+<ForeName>Gary D</ForeName>
+<Initials>GD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pien</LastName>
+<ForeName>Grace W</ForeName>
+<Initials>GW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Massa</LastName>
+<ForeName>Katherine</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nelson</LastName>
+<ForeName>Deborah B</ForeName>
+<Initials>DB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gehrman</LastName>
+<ForeName>Philip R</ForeName>
+<Initials>PR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Davey</LastName>
+<ForeName>Adam</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>K23 HL106231</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>L30 HL104554</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R01 HD038856</GrantID>
+<Acronym>HD</Acronym>
+<Agency>NICHD NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>04</Month>
+<Day>06</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Sleep Breath</MedlineTA>
+<NlmUniqueID>9804161</NlmUniqueID>
+<ISSNLinking>1520-9512</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056044">Actigraphy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D059026">Diagnostic Self Evaluation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006306">Health Surveys</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D010414">Pennsylvania</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011248">Pregnancy Complications</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011594">Psychometrics</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000706">statistics &amp; numerical data</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012892">Sleep Deprivation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011795">Surveys and Questionnaires</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014505">Urban Population</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>03</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>01</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23563909</ArticleId>
+<ArticleId IdType="doi">10.1007/s11325-013-0835-2</ArticleId>
+<ArticleId IdType="pmc">PMC3796189</ArticleId>
+<ArticleId IdType="mid">NIHMS464906</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Behav Sleep Med. 2012;10(3):152-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22742434</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Womens Health Issues. 2012 Sep;22(5):e439-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22818249</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2012 Oct;35(10):1403-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23024439</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep Breath. 2013 May;17(2):735-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22872283</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Behav Sleep Med. 2013;11(3):207-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23205562</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obstet Gynecol. 2000 Jan;95(1):14-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10636494</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2003 Feb 1;26(1):81-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12627737</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2003 May 1;26(3):342-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12749557</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep Med. 2003 Jul;4(4):285-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14592301</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2004 May 1;27(3):440-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15164896</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychiatry Res. 1989 May;28(2):193-213</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2748771</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Percept Mot Skills. 1997 Aug;85(1):207-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9293579</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2004 Nov 1;27(7):1405-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15586794</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Obstet Gynecol. 2004 Dec;191(6):2041-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15592289</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2006 Oct;29(10):1353-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17068990</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Stat Med. 2008 Feb 28;27(5):778-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17907247</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Sleep Res. 2008 Sep;17(3):295-302</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18321246</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Epidemiology. 2008 Nov;19(6):838-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18854708</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Paediatr Perinat Epidemiol. 2010 Jan;24(1):45-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20078829</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2010 Apr;33(4):531-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20394323</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Womens Health. 2010;10:17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20470416</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Obstet Gynecol. 2010 Aug;203(2):142.e1-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20510182</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2010 Oct;33(10):1363-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21061859</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Pregnancy Childbirth. 2010;10:72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21047418</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Best Pract Res Clin Endocrinol Metab. 2010 Oct;24(5):731-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21112022</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin J Pain. 2011 May;27(4):289-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21178589</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Sleep Med. 2012 Jun 15;8(3):287-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22701386</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Matern Fetal Neonatal Med. 2012 May;25(5):535-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21827377</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Obstet Gynaecol Res. 2011 Jul;37(7):734-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21736667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sleep. 2012 Feb;35(2):257-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22294816</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2011 Nov;34(11):2454-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21926292</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Epidemiology. 2011 Sep;22(5):738-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21734587</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

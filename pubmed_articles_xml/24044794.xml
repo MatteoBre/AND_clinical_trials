@@ -1,0 +1,249 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24044794</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>09</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>06</Month>
+<Day>30</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1879-0887</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>109</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology</Title>
+<ISOAbbreviation>Radiother Oncol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Cardiac comorbidity is an independent risk factor for radiation-induced lung toxicity in lung cancer patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>100-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.radonc.2013.08.035</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0167-8140(13)00435-0</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To test the hypothesis that cardiac comorbidity before the start of radiotherapy (RT) is associated with an increased risk of radiation-induced lung toxicity (RILT) in lung cancer patients.</AbstractText>
+<AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">A retrospective analysis was performed of a prospective cohort of 259 patients with locoregional lung cancer treated with definitive radio(chemo)therapy between 2007 and 2011 (ClinicalTrials.gov Identifiers: NCT00572325 and NCT00573040). We defined RILT as dyspnea CTCv.3.0 grade ≥2 within 6 months after RT, and cardiac comorbidity as a recorded treatment of a cardiac pathology at a cardiology department. Univariate and multivariate analyses, as well as external validation, were performed. The model-performance measure was the area under the receiver operating characteristic curve (AUC).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Prior to RT, 75/259 (28.9%) patients had cardiac comorbidity, 44% of whom (33/75) developed RILT. The odds ratio of developing RILT for patients with cardiac comorbidity was 2.58 (p&lt;0.01). The cross-validated AUC of a model with cardiac comorbidity, tumor location, forced expiratory volume in 1s, sequential chemotherapy and pretreatment dyspnea score was 0.72 (p&lt;0.001) on the training set, and 0.67 (p&lt;0.001) on the validation set.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Cardiac comorbidity is an important risk factor for developing RILT after definite radio(chemo)therapy of lung cancer patients.</AbstractText>
+<CopyrightInformation>Copyright © 2013 The Authors. Published by Elsevier Ireland Ltd.. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Nalbantov</LastName>
+<ForeName>Georgi</ForeName>
+<Initials>G</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Radiation Oncology (Maastro Clinic), GROW - School for Oncology and Developmental Biology, Maastricht University Medical Centre, Maastricht, The Netherlands. Electronic address: georgi.nalbantov@maastro.nl.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kietselaer</LastName>
+<ForeName>Bas</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vandecasteele</LastName>
+<ForeName>Katrien</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oberije</LastName>
+<ForeName>Cary</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Berbee</LastName>
+<ForeName>Maaike</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Troost</LastName>
+<ForeName>Esther</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dingemans</LastName>
+<ForeName>Anne-Marie</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>van Baardwijk</LastName>
+<ForeName>Angela</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smits</LastName>
+<ForeName>Kim</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dekker</LastName>
+<ForeName>André</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bussink</LastName>
+<ForeName>Johan</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>De Ruysscher</LastName>
+<ForeName>Dirk</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lievens</LastName>
+<ForeName>Yolande</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lambin</LastName>
+<ForeName>Philippe</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT00572325</AccessionNumber>
+<AccessionNumber>NCT00573040</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>14</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Ireland</Country>
+<MedlineTA>Radiother Oncol</MedlineTA>
+<NlmUniqueID>8407192</NlmUniqueID>
+<ISSNLinking>0167-8140</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000806">Angiotensin-Converting Enzyme Inhibitors</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000806">Angiotensin-Converting Enzyme Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015897">Comorbidity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006331">Heart Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008168">Lung</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000532">radiotherapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011829">Radiation Dosage</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011878">Radiotherapy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012907">Smoking</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Cardiac comorbidity</Keyword>
+<Keyword MajorTopicYN="N">Dyspnea</Keyword>
+<Keyword MajorTopicYN="N">Lung cancer</Keyword>
+<Keyword MajorTopicYN="N">Radiation-induced lung toxicity</Keyword>
+<Keyword MajorTopicYN="N">Radiotherapy</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>05</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>08</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>9</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24044794</ArticleId>
+<ArticleId IdType="pii">S0167-8140(13)00435-0</ArticleId>
+<ArticleId IdType="doi">10.1016/j.radonc.2013.08.035</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

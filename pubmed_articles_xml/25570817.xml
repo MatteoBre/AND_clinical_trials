@@ -1,0 +1,135 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25570817</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1557-170X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>2014</Volume>
+<PubDate>
+<Year>2014</Year>
+</PubDate>
+</JournalIssue>
+<Title>Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference</Title>
+<ISOAbbreviation>Conf Proc IEEE Eng Med Biol Soc</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Single trial behavioral task classification using subthalamic nucleus local field potential signals.</ArticleTitle>
+<Pagination>
+<MedlinePgn>3793-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1109/EMBC.2014.6944449</ELocationID>
+<Abstract>
+<AbstractText>Deep Brain Stimulation (DBS) has been a successful technique for alleviating Parkinson's disease (PD) symptoms especially for whom drug therapy is no longer efficient. Existing DBS therapy is open-loop, providing a time invariant stimulation pulse train that is not customized to the patient's current behavioral task. By customizing this pulse train to the patient's current task the side effects may be suppressed. This paper introduces a method for single trial recognition of the patient's current task using the local field potential (LFP) signals. This method utilizes wavelet coefficients as features and support vector machine (SVM) as the classifier for recognition of a selection of behaviors: speech, motor, and random. The proposed method is 82.4% accurate for the binary classification and 73.2% for classifying three tasks. These algorithms will be applied in a closed loop feedback control system to optimize DBS parameters to the patient's real time behavioral goals. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Niketeghad</LastName>
+<ForeName>Soroush</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hebb</LastName>
+<ForeName>Adam O</ForeName>
+<Initials>AO</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nedrud</LastName>
+<ForeName>Joshua</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hanrahan</LastName>
+<ForeName>Sara J</ForeName>
+<Initials>SJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mahoor</LastName>
+<ForeName>Mohammad H</ForeName>
+<Initials>MH</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Conf Proc IEEE Eng Med Biol Soc</MedlineTA>
+<NlmUniqueID>101243413</NlmUniqueID>
+<ISSNLinking>1557-170X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D046690">Deep Brain Stimulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009043">Motor Activity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010300">Parkinson Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D012815">Signal Processing, Computer-Assisted</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013060">Speech</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020531">Subthalamic Nucleus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060388">Support Vector Machine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>1</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25570817</ArticleId>
+<ArticleId IdType="doi">10.1109/EMBC.2014.6944449</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

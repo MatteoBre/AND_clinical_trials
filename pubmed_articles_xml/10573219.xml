@@ -1,0 +1,219 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">10573219</PMID>
+<DateCompleted>
+<Year>1999</Year>
+<Month>12</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0903-1936</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>14</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>1999</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>The European respiratory journal</Title>
+<ISOAbbreviation>Eur. Respir. J.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Presence of substance P and neurokinin 1 receptors in human sputum macrophages and U-937 cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>776-82</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Tachykinins such as substance P (SP) may be involved in the pathogenesis of inflammatory airway diseases such as asthma. This study investigated the presence of SP and its receptor in the differentiated macrophage-like U-937 cell line and in macrophages from sputum induced in healthy subjects (n=8). In situ hybridization with digoxigenin-labelled sense and antisense complementary ribonucleic acid (cRNA) probes was used to determine the expression of SP and its receptor (neurokinin (NK)1 receptor). SP-immunoreactive material was detected using a rabbit anti-SP antiserum and the alkaline phosphatase anti-alkaline phosphatase technique. Beta-preprotachykinin (PPT)-I messenger ribonucleic acid (mRNA) encoding SP, was detected using in situ hybridization in differentiated U-937 cells as well as in CD45+ human leukocyte antigen (HLA) DR+ sputum macrophages. The expression of the beta-PPT-I mRNA was increased in lipopolysaccharide (LPS)-stimulated U-937 cells. SP-immunoreactive material was found in differentiated U-937 cells and in CD68+ sputum macrophages. NK1 receptor mRNA was detected in differentiated U-937 cells and sputum macrophages. Incubation of U-937 cells with SP considerably increased the expression of NK1 receptor mRNA. This study demonstrates that human monocytes/macrophages express substance P and that this expression is upregulated by lipopolysacharide. Human monocytes/macrophages also express neurokinin1 receptor messenger ribonucleic acid, suggesting an autocrine effect of substance P on these cells.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Germonpre</LastName>
+<ForeName>P R</ForeName>
+<Initials>PR</Initials>
+<AffiliationInfo>
+<Affiliation>Dept of Respiratory Diseases, University of Ghent, Belgium.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bullock</LastName>
+<ForeName>G R</ForeName>
+<Initials>GR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lambrecht</LastName>
+<ForeName>B N</ForeName>
+<Initials>BN</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Van De Velde</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Luyten</LastName>
+<ForeName>W H</ForeName>
+<Initials>WH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Joos</LastName>
+<ForeName>G F</ForeName>
+<Initials>GF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pauwels</LastName>
+<ForeName>R A</ForeName>
+<Initials>RA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Eur Respir J</MedlineTA>
+<NlmUniqueID>8803460</NlmUniqueID>
+<ISSNLinking>0903-1936</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006684">HLA-DR Antigens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008070">Lipopolysaccharides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011498">Protein Precursors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018040">Receptors, Neurokinin-1</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015320">Tachykinins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C044206">preprotachykinin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>33507-63-0</RegistryNumber>
+<NameOfSubstance UI="D013373">Substance P</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.48</RegistryNumber>
+<NameOfSubstance UI="D017493">Leukocyte Common Antigens</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004797">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005455">Fluorescent Antibody Technique</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006684">HLA-DR Antigens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017403">In Situ Hybridization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017493">Leukocyte Common Antigens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008070">Lipopolysaccharides</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016676">Macrophages, Alveolar</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011498">Protein Precursors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018040">Receptors, Neurokinin-1</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013183">Sputum</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013373">Substance P</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015320">Tachykinins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020298">U937 Cells</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1999</Year>
+<Month>11</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1999</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1999</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10573219</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

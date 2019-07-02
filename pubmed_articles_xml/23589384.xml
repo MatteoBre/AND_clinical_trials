@@ -1,0 +1,206 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23589384</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>09</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2014</Year>
+<Month>01</Month>
+<Day>17</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1552-4965</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>102</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of biomedical materials research. Part A</Title>
+<ISOAbbreviation>J Biomed Mater Res A</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Cell response of nanographene platelets to human osteoblast-like MG63 cells.</ArticleTitle>
+<Pagination>
+<MedlinePgn>732-42</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/jbm.a.34751</ELocationID>
+<Abstract>
+<AbstractText>The biologic/cytotoxic effects of dispersed nanographene platelets (NGPs) on human osteosarcoma cells (MG63 cell line) were first studied by examining cell viability, cycle, apoptosis, change in morphology, lactate dehydrogenase (LDH) release, alkaline phosphatase (ALP) activity, and inflammation. The results shown that the cell cytotoxicity of the dispersed NGPs exhibited dose-dependent characters, which had no obvious cytotoxic effects to MG63 cells at the concentration less than 10 μg mL(-1), whereas could postpone cell cycle, promote cell apoptosis, damage cell microstructure, induce serious tumor necrosis factor-α expression and greatly reduce ALP activity of MG63 cells at higher concentration of NGPs (&gt;10 µg mL(-1)). Besides, NGPs had little influence on the LDH leakage. The cytotoxic mechanism of NGPs to MG63 cells was speculated to be intracellular activity with no physical damage of plasma membrane.</AbstractText>
+<CopyrightInformation>Copyright © 2013 Wiley Periodicals, Inc.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Center for Biomedical Materials and Tissue Engineering, Academy for Advanced Interdisciplinary Studies, Peking University, Beijing, 100871, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Y B</ForeName>
+<Initials>YB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cheng</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zheng</LastName>
+<ForeName>Y F</ForeName>
+<Initials>YF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xi</LastName>
+<ForeName>T F</ForeName>
+<Initials>TF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wei</LastName>
+<ForeName>S C</ForeName>
+<Initials>SC</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>05</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Biomed Mater Res A</MedlineTA>
+<NlmUniqueID>101234237</NlmUniqueID>
+<ISSNLinking>1549-3296</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001672">Biocompatible Materials</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>7782-42-5</RegistryNumber>
+<NameOfSubstance UI="D006108">Graphite</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.1.3.1</RegistryNumber>
+<NameOfSubstance UI="D000469">Alkaline Phosphatase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000469">Alkaline Phosphatase</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001672">Biocompatible Materials</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000633">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002453">Cell Cycle</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002470">Cell Survival</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006108">Graphite</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000633">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D049329">Nanostructures</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000633">toxicity</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010006">Osteoblasts</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">ALP</Keyword>
+<Keyword MajorTopicYN="N">LDH</Keyword>
+<Keyword MajorTopicYN="N">MG63 cells</Keyword>
+<Keyword MajorTopicYN="N">cytotoxicity</Keyword>
+<Keyword MajorTopicYN="N">nanographene platelets</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>01</Month>
+<Day>03</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>03</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>04</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>9</Month>
+<Day>16</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23589384</ArticleId>
+<ArticleId IdType="doi">10.1002/jbm.a.34751</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,328 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26332981</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>05</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic-eCollection">
+<Journal>
+<ISSN IssnType="Electronic">1932-6203</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>10</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2015</Year>
+</PubDate>
+</JournalIssue>
+<Title>PloS one</Title>
+<ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The Relationship between Same-Day Access and Continuity in Primary Care and Emergency Department Visits.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e0135274</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0135274</ELocationID>
+<Abstract>
+<AbstractText>We examined how emergency department (ED) visits for potentially preventable, mental health, and other diagnoses were related to same-day access and provider continuity in primary care using administrative data from 71,296 patients in 22 VHA clinics over a three-year period. ED visits were categorized as non-emergent; primary care treatable; preventable; not preventable; or mental health-related. We conducted multi-level regression models adjusted for patient and clinic factors. More same-day access significantly predicted fewer non-emergent and primary care treatable ED visits while continuity was not significantly related to any type of ED visit. Neither measure was related to ED visits for mental health problems. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Yoon</LastName>
+<ForeName>Jean</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Health Economics Resource Center, VA Palo Alto, Menlo Park, CA, United States of America; Center for Innovation to Implementation, VA Palo Alto, Menlo Park, CA, United States of America.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cordasco</LastName>
+<ForeName>Kristina M</ForeName>
+<Initials>KM</Initials>
+<AffiliationInfo>
+<Affiliation>Center for the Study of Healthcare Innovation, Implementation, &amp; Policy, Greater Los Angeles VA, Sepulveda, CA, United States of America; UCLA School of Medicine, Los Angeles, CA, United States of America; RAND Corp, Santa Monica, CA, United States of America.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chow</LastName>
+<ForeName>Adam</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Health Economics Resource Center, VA Palo Alto, Menlo Park, CA, United States of America.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rubenstein</LastName>
+<ForeName>Lisa V</ForeName>
+<Initials>LV</Initials>
+<AffiliationInfo>
+<Affiliation>Center for the Study of Healthcare Innovation, Implementation, &amp; Policy, Greater Los Angeles VA, Sepulveda, CA, United States of America; UCLA School of Medicine, Los Angeles, CA, United States of America; RAND Corp, Santa Monica, CA, United States of America.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>09</Month>
+<Day>02</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>PLoS One</MedlineTA>
+<NlmUniqueID>101285081</NlmUniqueID>
+<ISSNLinking>1932-6203</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D002140">California</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004636">Emergency Service, Hospital</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp; administration</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004638">Emergency Treatment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019538">Health Care Surveys</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006297">Health Services Accessibility</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp; administration</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015999">Multivariate Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D011320">Primary Health Care</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000458">organization &amp; administration</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012044">Regression Analysis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>03</Month>
+<Day>25</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>07</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26332981</ArticleId>
+<ArticleId IdType="doi">10.1371/journal.pone.0135274</ArticleId>
+<ArticleId IdType="pii">PONE-D-15-12849</ArticleId>
+<ArticleId IdType="pmc">PMC4557991</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Ann Fam Med. 2013 May-Jun;11 Suppl 1:S19-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23690382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Health Aff (Millwood). 2013 Jan;32(1):175-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23242631</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Emerg Med. 2013 Aug;62(2):151-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23582617</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Manag Care. 2013 Jul;19(7):e263-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23919446</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2014;9(5):e96356</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24867300</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Intern Med. 2014 Jul;29 Suppl 2:S689-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24715391</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acad Emerg Med. 2002 Sep;9(9):916-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12208681</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Fam Med. 2000 Apr;9(4):333-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10776361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 2001 Sep;58(9):861-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11545670</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Issue Brief (Commonw Fund). 2000 Nov;(433):1-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11665698</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Issue Brief (Commonw Fund). 2000 Nov;(434):1-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11665699</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2002 Dec 11;288(22):2836-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12472325</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acad Emerg Med. 2004 Feb;11(2):193-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14759965</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Gen Psychiatry. 2004 Oct;61(10):1042-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15466678</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Chronic Dis. 1987;40(5):373-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3558716</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Psychiatr Serv. 2005 Jun;56(6):671-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15939942</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Care. 2005 Nov;43(11):1130-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16224307</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Med Res Methodol. 2007;7:9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17302984</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Public Health. 2007 Dec;97(12):2151-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17971540</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2009 May 6;301(17):1771-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19417194</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2008 Aug 11;168(15):1705-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18695087</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Psychiatry. 2008 Feb;69(2):286-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18363455</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Care. 2010 Jan;48(1):58-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19952803</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Care Res Rev. 2010 Aug;67(4):412-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20519430</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Health Aff (Millwood). 2012 Sep;31(9):2010-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22949450</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Manag Care. 2012 Sep;18(9):534-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23009304</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Intern Med. 2013 Jun;28(6):778-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23456697</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

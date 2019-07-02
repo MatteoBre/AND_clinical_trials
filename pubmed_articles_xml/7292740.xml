@@ -1,0 +1,135 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">7292740</PMID>
+<DateCompleted>
+<Year>1981</Year>
+<Month>12</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2008</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0041-5782</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>143</Volume>
+<Issue>27</Issue>
+<PubDate>
+<Year>1981</Year>
+<Month>Jun</Month>
+<Day>29</Day>
+</PubDate>
+</JournalIssue>
+<Title>Ugeskrift for laeger</Title>
+<ISOAbbreviation>Ugeskr. Laeg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Ectopic pancreatic tissue as a polypoid tumor in the stomach].</ArticleTitle>
+<Pagination>
+<MedlinePgn>1694-6</MedlinePgn>
+</Pagination>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Plucnar</LastName>
+<ForeName>B J</ForeName>
+<Initials>BJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Remvig</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vittrup</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hansen</LastName>
+<ForeName>J P</ForeName>
+<Initials>JP</Initials>
+</Author>
+</AuthorList>
+<Language>dan</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<VernacularTitle>Ektopisk pancreasvaev som polypøs tumor i ventriklen.</VernacularTitle>
+</Article>
+<MedlineJournalInfo>
+<Country>Denmark</Country>
+<MedlineTA>Ugeskr Laeger</MedlineTA>
+<NlmUniqueID>0141730</NlmUniqueID>
+<ISSNLinking>0041-5782</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D002828">Choristoma</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003937">Diagnosis, Differential</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005336">Fiber Optic Technology</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005773">Gastroscopy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D010179">Pancreas</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011127">Polyps</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013274">Stomach Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1981</Year>
+<Month>6</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1981</Year>
+<Month>6</Month>
+<Day>29</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1981</Year>
+<Month>6</Month>
+<Day>29</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7292740</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

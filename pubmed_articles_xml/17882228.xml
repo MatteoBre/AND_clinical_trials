@@ -1,0 +1,257 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17882228</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>04</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0950-9240</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>22</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of human hypertension</Title>
+<ISOAbbreviation>J Hum Hypertens</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Sympathoadrenergic and metabolic factors are involved in ambulatory blood pressure rise in childhood obesity.</ArticleTitle>
+<Pagination>
+<MedlinePgn>75-82</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>We investigated in a young Italian obese population, the relationship between ambulatory BP (ABP) and several pathophysiological factors linking obesity to hypertension. A total of 89 obese children and adolescents underwent a 24-h ambulatory BP monitoring (ABPM) and an oral glucose tolerance test. The circulating levels of insulin, lipids, uric acid, C-reactive protein, interleukin-6, renin and aldosterone and the 24-h urinary levels of epinephrine, norepinephrine and albumin excretion rate were measured. Nine percent of subjects had daytime sustained hypertension (SH), 26% night-time hypertension and 11% a non-dipping pattern. SH subjects compared to those with sustained normotension (SN) were more obese (P&lt;0.05), with a more frequent family history of hypertension (P&lt;0.05), higher urinary catecholamine (P&lt;0.05) and heart rate values (P&lt;0.05) after adjustment for standard deviation score (SDS) of body mass index (BMI) and sex. Subjects with night-time hypertension compared to those with night-time normotension were more obese (P&lt;0.0001), with a higher prevalence of impaired glucose tolerance (P&lt;0.05) and metabolic syndrome (P&lt;0.05) and higher 2-h glucose (P&lt;0.05), uric acid (P&lt;0.05) and triglycerides (P&lt;0.05). In multivariate regression analysis, daytime systolic BP (SBP) remained independently correlated with urinary norepinephrine and SDS-BMI (P&lt;0.05 for both), daytime diastolic BP (DBP) with waist circumference (P&lt;0.05) and night-time SBP and DBP with SDS-BMI (P&lt;0.01 for both). The risk of having systolic and diastolic hypertension increased with the increase in SDS-BMI and waist circumference, respectively. In conclusion, in our cohort of obese children and adolescents, daytime and night-time hypertension were associated with activation of the sympathoadrenal system and worst metabolic conditions, respectively.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gilardini</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>Unit of Metabolic Diseases and Diabetes, Istituto Auxologico Italiano, Milan, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Parati</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sartorio</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mazzilli</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pontiggia</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Invitti</LastName>
+<ForeName>C</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2007</Year>
+<Month>09</Month>
+<Day>20</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>J Hum Hypertens</MedlineTA>
+<NlmUniqueID>8811625</NlmUniqueID>
+<ISSNLinking>0950-9240</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>268B43MJ25</RegistryNumber>
+<NameOfSubstance UI="D014527">Uric Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>4964P6T9RB</RegistryNumber>
+<NameOfSubstance UI="D000450">Aldosterone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-41-4</RegistryNumber>
+<NameOfSubstance UI="D002097">C-Reactive Protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.23.15</RegistryNumber>
+<NameOfSubstance UI="D012083">Renin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>X4W3ENH1CV</RegistryNumber>
+<NameOfSubstance UI="D009638">Norepinephrine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>YKH834O4BH</RegistryNumber>
+<NameOfSubstance UI="D004837">Epinephrine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>J Hum Hypertens. 2008 Feb;22(2):73-4</RefSource>
+<PMID Version="1">17882227</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000419">Albuminuria</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000450">Aldosterone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018660">Blood Pressure Monitoring, Ambulatory</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002097">C-Reactive Protein</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004837">Epinephrine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005951">Glucose Tolerance Test</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006339">Heart Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007328">Insulin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015850">Interleukin-6</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008055">Lipids</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D024821">Metabolic Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009638">Norepinephrine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009765">Obesity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012083">Renin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012737">Sex Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013564">Sympathetic Nervous System</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014527">Uric Acid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>9</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>4</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>9</Month>
+<Day>21</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17882228</ArticleId>
+<ArticleId IdType="pii">1002288</ArticleId>
+<ArticleId IdType="doi">10.1038/sj.jhh.1002288</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

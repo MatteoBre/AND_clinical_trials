@@ -1,0 +1,258 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27487277</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>03</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1678-2674</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>31</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Acta cirurgica brasileira</Title>
+<ISOAbbreviation>Acta Cir Bras</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Serum concentrations and renal expressions of IL-1 and TNF-a early after hemorrhage in rats under the effect of glibenclamide.</ArticleTitle>
+<Pagination>
+<MedlinePgn>434-41</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1590/S0102-865020160070000002</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0102-86502016000700434</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To investigate changes in the serum concentration and renal expression of IL-1 and TNF-α cytokines in rats that received sevoflurane and glibenclamide prior to hemorrhage.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Two groups of sevoflurane-anesthetized Wistar rats (n=10): G1 (control) and G2 (glibenclamide, 1 µg/g i.v.); hemorrhage of 30% blood volume (10% every 10 min), with replacement using Ringer solution, 5 ml/kg/h. Serum concentrations of IL-1 and TNF-α were studied in the first hemorrhage (T1) and 50 min later (T2), renal expression, at T2.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">In serum, G1 TNF-α (pg/mL) was T1=178.6±33.5, T2=509.2±118.8 (p&lt;0.05); IL-1 (pg/mL) was T1=148.8±31.3, T2=322.6±115.4 (p&lt;0.05); in G2, TNF-α was T1=486.2±83.6, T2=261.8±79.5 (p&lt;0.05); IL-1 was T1=347.0±72.0, T2= 327.3±90.9 (p&gt;0.05). The expression of TNF-α and IL-1 in the glomerular and tubular cells was significantly higher in the G2 group.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Hemorrhage and glibenclamide elevated TNF-α and IL-1 concentrations in serum and kidneys. High levels of TNF-α already present before the hemorrhage in the glibenclamide group may have attenuated the damages found in the kidneys after the ischemia event.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Marques</LastName>
+<ForeName>Christiane D'Oliveira</ForeName>
+<Initials>CD</Initials>
+<AffiliationInfo>
+<Affiliation>MSc, Postgraduate Program in Anesthesiology, Botucatu Medical School, Universidade Estadual Paulista (UNESP), Botucatu-SP, Brazil. Conception, design, intellectual and scientific content of the study.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Diego</LastName>
+<ForeName>Luis Antonio Dos Santos</ForeName>
+<Initials>LA</Initials>
+<AffiliationInfo>
+<Affiliation>PhD, Postgraduate Program in Anesthesiology, Botucatu Medical School, UNESP, Botucatu-SP, Brazil. Conception, design, intellectual and scientific content of the study.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marcondes-Machado</LastName>
+<ForeName>Jussara</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>PhD, Department of Tropical Diseases, Botucatu Medical School, UNESP, Botucatu-SP, Brazil. Acquisition and interpretation of immunohistochemical data.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Amorim</LastName>
+<ForeName>Renée Lauffer</ForeName>
+<Initials>RL</Initials>
+<AffiliationInfo>
+<Affiliation>PhD, Department of Pathology, Botucatu Veterinary and Animal Science School, UNESP, Botucatu-SP, Brazil. Acquisition of data, histological examinations.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carvalho</LastName>
+<ForeName>Lídia Raquel</ForeName>
+<Initials>LR</Initials>
+<AffiliationInfo>
+<Affiliation>PhD, Department of Biostatistics, Bioscience Institute, UNESP, Botucatu-SP, Brazil. Acquisition of data, statistical analysis.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Módolo</LastName>
+<ForeName>Norma Sueli Pinheiro</ForeName>
+<Initials>NS</Initials>
+<AffiliationInfo>
+<Affiliation>Full Professor, Department of Anesthesiology, Botucatu Medical School, UNESP, Botucatu-SP, Brazil. Critical revision.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Braz</LastName>
+<ForeName>Leandro Gobbo</ForeName>
+<Initials>LG</Initials>
+<AffiliationInfo>
+<Affiliation>PhD, Department of Anesthesiology, Botucatu Medical School, UNESP, Botucatu-SP, Brazil. Critical revision.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Castiglia</LastName>
+<ForeName>Yara Marcondes Machado</ForeName>
+<Initials>YM</Initials>
+<AffiliationInfo>
+<Affiliation>Full Professor, Department of Anesthesiology, Botucatu Medical School, UNESP, Botucatu-SP, Brazil. Manuscript writing, supervised all phases of the study.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Brazil</Country>
+<MedlineTA>Acta Cir Bras</MedlineTA>
+<NlmUniqueID>9103983</NlmUniqueID>
+<ISSNLinking>0102-8650</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018685">Anesthetics, Inhalation</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007004">Hypoglycemic Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D007375">Interleukin-1</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D054086">KATP Channels</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D008738">Methyl Ethers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>38LVP0K73A</RegistryNumber>
+<NameOfSubstance UI="D000077149">Sevoflurane</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>SX6K58TVWC</RegistryNumber>
+<NameOfSubstance UI="D005905">Glyburide</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018685">Anesthetics, Inhalation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001835">Body Weight</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005905">Glyburide</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007004">Hypoglycemic Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007375">Interleukin-1</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054086">KATP Channels</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007668">Kidney</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000098">blood supply</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007684">Kidney Tubules</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008738">Methyl Ethers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D023421">Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011897">Random Allocation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017208">Rats, Wistar</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077149">Sevoflurane</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012771">Shock, Hemorrhagic</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014409">Tumor Necrosis Factor-alpha</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>03</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>06</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>8</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>3</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27487277</ArticleId>
+<ArticleId IdType="pii">S0102-86502016000700434</ArticleId>
+<ArticleId IdType="doi">10.1590/S0102-865020160070000002</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

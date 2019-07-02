@@ -1,0 +1,136 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15037665</PMID>
+<DateCompleted>
+<Year>2004</Year>
+<Month>04</Month>
+<Day>29</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>05</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1526-632X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>62</Volume>
+<Issue>6 Suppl 4</Issue>
+<PubDate>
+<Year>2004</Year>
+<Month>Mar</Month>
+<Day>23</Day>
+</PubDate>
+</JournalIssue>
+<Title>Neurology</Title>
+<ISOAbbreviation>Neurology</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Subcutaneously administered apomorphine: pharmacokinetics and metabolism.</ArticleTitle>
+<Pagination>
+<MedlinePgn>S8-11</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Apomorphine is a non-narcotic morphine derivative that acts as a potent dopaminergic agonist. Its high first-pass hepatic metabolism prevents effectiveness by the oral route; instead, subcutaneous injection is the usual route, and intranasal, sublingual, rectal, and iontophoretic transdermal delivery has been investigated for the treatment of Parkinson's disease (PD). The rate of uptake after subcutaneous injection is influenced by factors such as location, temperature, depth of injection, and body fat. Studies have shown the latency of onset to clinical effect after s.c. injection ranged from 7.3 to 14 minutes. Cerebrospinal fluid T(max)lags behind plasma T(max) by 10 to 20 minutes. Considerable intersubject variability is found with pharmacokinetic variables; in some studies there are five- to tenfold differences in C(max)and area-under-the-concentration-time-curve seen in PD patients. Apomorphine metabolism occurs through several enzymatic pathways, including N-demethylation, sulfation, glucuronidation, and catechol-O-methyltransferase as well as by nonenzymatic oxidation. The complexities of apomorphine uptake, distribution, and clearance probably contribute to its variability of clinical actions.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>LeWitt</LastName>
+<ForeName>Peter A</ForeName>
+<Initials>PA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Wayne State University School of Medicine, Detroit, Michigan, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Neurology</MedlineTA>
+<NlmUniqueID>0401060</NlmUniqueID>
+<ISSNLinking>0028-3878</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000978">Antiparkinson Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018491">Dopamine Agonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>N21FAR7B4S</RegistryNumber>
+<NameOfSubstance UI="D001058">Apomorphine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000978">Antiparkinson Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001058">Apomorphine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018491">Dopamine Agonists</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007279">Injections, Subcutaneous</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010300">Parkinson Disease</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>38</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2004</Year>
+<Month>3</Month>
+<Day>24</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2004</Year>
+<Month>4</Month>
+<Day>30</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2004</Year>
+<Month>3</Month>
+<Day>24</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15037665</ArticleId>
+<ArticleId IdType="doi">10.1212/wnl.62.6_suppl_4.s8</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,187 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15944969</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>06</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0278-2391</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>63</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons</Title>
+<ISOAbbreviation>J. Oral Maxillofac. Surg.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Hemodynamics and oxygen saturation during intravenous sedation for office-based laser-assisted uvuloplasty.</ArticleTitle>
+<Pagination>
+<MedlinePgn>752-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Patients undergoing office-based laser-assisted uvuloplasty (LAUP) for snoring or mild obstructive sleep apnea are generally obese and have a high Mallampati score. Because avoidance of supplemental oxygen during laser procedures is generally mandated, the potential for intraoperative desaturation is high. This study was designed to look at intraoperative hemodynamic changes, respiration patterns, and oxygen saturations during intravenous sedation with midazolam and fentanyl during LAUP procedures.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">This was a retrospective anesthesia chart review of 15 consecutive patients undergoing midazolam/fentanyl intravenous sedation for office-based LAUP treatment for snoring and/or mild obstructive sleep apnea. Data recorded were noninvasive baseline and intraoperative hemodynamic measurements at 5-minute intervals for systolic blood pressure (SBP), diastolic blood pressure (DBP), mean arterial pressure (MAP), pulse pressure (PP), pulse (P), and rate-pressure product (RPP). Data collected were reported as mean values with standard deviation. Statistical analysis using the Student's t test was performed and found significant for P&lt;.05.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">All changes from baseline were statistically insignificant, SBP (P=.4), DBP (P=.2), MAP (P=.2), P (P=.1), PP (P=.9), RPP (P=.5), RR (P=.9), and SpO2 (P=.4), and all within +/-20% of baseline (range, -5.0% to +7.5%).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Midazolam and fentanyl intravenous sedation with local anesthesia maintained intraoperative hemodynamic and oxygenation variables close to baseline for office-based LAUP procedures.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Cillo</LastName>
+<ForeName>Joseph E</ForeName>
+<Initials>JE</Initials>
+<Suffix>Jr</Suffix>
+<AffiliationInfo>
+<Affiliation>Oral and Maxillofacial Surgery, Parkland Memorial Hospital, The University of Texas Southwestern Medical Center, Dallas, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Finn</LastName>
+<ForeName>Richard</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Oral Maxillofac Surg</MedlineTA>
+<NlmUniqueID>8206428</NlmUniqueID>
+<ISSNLinking>0278-2391</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018686">Anesthetics, Intravenous</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>R60L0SM5BC</RegistryNumber>
+<NameOfSubstance UI="D008874">Midazolam</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>S88TT14065</RegistryNumber>
+<NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>UF599785JZ</RegistryNumber>
+<NameOfSubstance UI="D005283">Fentanyl</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>D</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000556">Ambulatory Surgical Procedures</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000766">Anesthesia, Dental</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018686">Anesthetics, Intravenous</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016292">Conscious Sedation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005283">Fentanyl</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006339">Heart Rate</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008874">Midazolam</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016343">Monitoring, Intraoperative</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019647">Oral Surgical Procedures</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010100">Oxygen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010160">Palate, Soft</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020181">Sleep Apnea, Obstructive</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012913">Snoring</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>6</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>6</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>6</Month>
+<Day>10</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15944969</ArticleId>
+<ArticleId IdType="pii">S0278239105001990</ArticleId>
+<ArticleId IdType="doi">10.1016/j.joms.2005.02.004</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

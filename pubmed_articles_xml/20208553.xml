@@ -1,0 +1,412 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20208553</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>07</Month>
+<Day>07</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1745-7254</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>31</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Acta pharmacologica Sinica</Title>
+<ISOAbbreviation>Acta Pharmacol. Sin.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Effects of chronic ethanol consumption on levels of adipokines in visceral adipose tissues and sera of rats.</ArticleTitle>
+<Pagination>
+<MedlinePgn>461-9</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/aps.2010.12</ELocationID>
+<Abstract>
+<AbstractText Label="AIM" NlmCategory="OBJECTIVE">To investigate the effects of ethanol on adipokines (leptin, adiponectin, resistin, visfatin and cartonectin) levels in visceral adipose tissue (VAT) and sera, and explore the correlation between VAT and serum adipokine levels.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Forty-eight Wistar rats were randomly divided into control, low, middle and high ethanol treatment groups that received 0, 0.5, 2.5, or 5.0 g of ethanol x kg(-1) x d(-1), respectively, via gastric tubes for 22 weeks. The levels of fasting blood glucose (FBG) and fasting serum insulin (FINS) were measured and homeostasis model assessment of insulin resistance (HOMA-IR) values were calculated. Adipokines in perirenal and epididymal VAT and sera were measured by enzyme-linked immunosorbent assays (ELISAs).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">High-dose treatments of ethanol (vs control group) significantly increased FINS (eg 37.86%) and HOMA-IR values (eg 40.63%). In VAT, levels of leptin, resistin and visfatin in the middle- and high-dose groups were significantly elevated, whereas adiponectin and cartonectin levels decreased. In sera, changes in adipokine levels were similar to that observed in VAT, with the exception of cartonectin. These ethanol-induced effects were dose-dependent. A positive correlation existed between VAT and serum adipokine levels, except for cartonectin.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Chronic ethanol consumption affects adipokine levels in VAT and sera in a dose-dependent manner, with the exception of serum cartonectin. The altered levels of adipokines in VAT and sera are positively correlated.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Yu</LastName>
+<ForeName>Heng-cai</ForeName>
+<Initials>HC</Initials>
+<AffiliationInfo>
+<Affiliation>Provincial Hospital Affiliated to Shandong University, Ji-nan 250021, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Si-ying</ForeName>
+<Initials>SY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cao</LastName>
+<ForeName>Ming-feng</ForeName>
+<Initials>MF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jiang</LastName>
+<ForeName>Xiu-yun</ForeName>
+<Initials>XY</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feng</LastName>
+<ForeName>Li</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhao</LastName>
+<ForeName>Jia-jun</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gao</LastName>
+<ForeName>Ling</ForeName>
+<Initials>L</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>03</Month>
+<Day>08</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Acta Pharmacol Sin</MedlineTA>
+<NlmUniqueID>100956087</NlmUniqueID>
+<ISSNLinking>1671-4083</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D054392">Adipokines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D052242">Adiponectin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D020738">Leptin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D052243">Resistin</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>3K9958V90M</RegistryNumber>
+<NameOfSubstance UI="D000431">Ethanol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.4.2.12</RegistryNumber>
+<NameOfSubstance UI="D054409">Nicotinamide Phosphoribosyltransferase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054392">Adipokines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D052242">Adiponectin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000431">Ethanol</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007333">Insulin Resistance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D050152">Intra-Abdominal Fat</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020738">Leptin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054409">Nicotinamide Phosphoribosyltransferase</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017208">Rats, Wistar</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D052243">Resistin</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>3</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>3</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>7</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20208553</ArticleId>
+<ArticleId IdType="pii">aps201012</ArticleId>
+<ArticleId IdType="doi">10.1038/aps.2010.12</ArticleId>
+<ArticleId IdType="pmc">PMC4007662</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Biol Chem. 2007 Sep 28;282(39):28465-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17686776</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2004 Jul;80(1):217-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15213051</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alcohol Clin Exp Res. 2005 Aug;29(8):1450-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16131853</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocr Regul. 2006 Sep;40(3):91-104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17100551</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Clin Endocrinol Diabetes. 2006 Feb;114(2):58-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16570234</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obesity (Silver Spring). 2008 Jul;16(7):1481-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18421280</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2003 Jul;112(1):91-100</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12840063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2001 Feb 2;276(5):3628-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11071891</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Horm Metab Res. 2002 Nov-Dec;34(11-12):616-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12660870</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 2005 Oct 24;579(25):5565-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16213490</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Osteoporos Int. 2009 Sep;20(9):1529-38</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19238309</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Mol Life Sci. 2005 Jun;62(12):1359-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15924267</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Acta Pharmacol Sin. 2007 Feb;28(2):221-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17241525</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Metabolism. 1987 Jan;36(1):54-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3796297</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Med. 2008 Nov-Dec;14(11-12):741-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19009016</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2009 Sep;50(3):957-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19585655</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alcohol Clin Exp Res. 2002 Feb;26(2):255-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11964566</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Alcohol. 2009 Feb;43(1):51-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19185210</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 1999 Apr;48(4):839-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10102702</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obesity (Silver Spring). 2009 Jun;17(6):1269-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19584883</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2001 Jul 13;276(28):25651-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11373275</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2005 Jan 21;307(5708):426-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15604363</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Endocrinol Metab. 2003 Aug;285(2):E303-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12684223</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Metabolism. 2010 May;59(5):664-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19913846</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2007 Jul 3;116(1):39-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17576866</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Metab (Lond). 2004 Nov 05;1(1):12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15530168</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2004 Jan;27(1):184-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14693987</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gen Physiol Biophys. 2007 Sep;26(3):221-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18063850</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obesity (Silver Spring). 2008 Feb;16(2):384-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18239648</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Obes (Lond). 2009 Apr;33(4):424-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19290012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1995 Jul 28;269(5223):546-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7624778</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Physiol Endocrinol Metab. 2007 Feb;292(2):E621-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17047161</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 1985 Jul;28(7):412-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3899825</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuron. 1997 Aug;19(2):227-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9292714</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

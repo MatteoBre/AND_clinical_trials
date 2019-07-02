@@ -1,0 +1,774 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27447114</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>12</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>06</Month>
+<Day>10</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1476-5403</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>23</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>12</Month>
+</PubDate>
+</JournalIssue>
+<Title>Cell death and differentiation</Title>
+<ISOAbbreviation>Cell Death Differ.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>ASPP2 deficiency causes features of 1q41q42 microdeletion syndrome.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1973-1984</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1038/cdd.2016.76</ELocationID>
+<Abstract>
+<AbstractText>Chromosomal abnormalities are implicated in a substantial number of human developmental syndromes, but for many such disorders little is known about the causative genes. The recently described 1q41q42 microdeletion syndrome is characterized by characteristic dysmorphic features, intellectual disability and brain morphological abnormalities, but the precise genetic basis for these abnormalities remains unknown. Here, our detailed analysis of the genetic abnormalities of 1q41q42 microdeletion cases identified TP53BP2, which encodes apoptosis-stimulating protein of p53 2 (ASPP2), as a candidate gene for brain abnormalities. Consistent with this, Trp53bp2-deficient mice show dilation of lateral ventricles resembling the phenotype of 1q41q42 microdeletion patients. Trp53bp2 deficiency causes 100% neonatal lethality in the C57BL/6 background associated with a high incidence of neural tube defects and a range of developmental abnormalities such as congenital heart defects, coloboma, microphthalmia, urogenital and craniofacial abnormalities. Interestingly, abnormalities show a high degree of overlap with 1q41q42 microdeletion-associated abnormalities. These findings identify TP53BP2 as a strong candidate causative gene for central nervous system (CNS) defects in 1q41q42 microdeletion syndrome, and open new avenues for investigation of the mechanisms underlying CNS abnormalities.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zak</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Ludwig Institute for Cancer Research, Nuffield Department of Clinical Medicine, University of Oxford, Oxford OX3 7DQ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vives</LastName>
+<ForeName>V</ForeName>
+<Initials>V</Initials>
+<AffiliationInfo>
+<Affiliation>Ludwig Institute for Cancer Research, Nuffield Department of Clinical Medicine, University of Oxford, Oxford OX3 7DQ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Szumska</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cardiovascular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford OX3 7BN, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vernet</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cardiovascular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford OX3 7BN, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schneider</LastName>
+<ForeName>J E</ForeName>
+<Initials>JE</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cardiovascular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford OX3 7BN, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miller</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Ludwig Institute for Cancer Research, Nuffield Department of Clinical Medicine, University of Oxford, Oxford OX3 7DQ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Slee</LastName>
+<ForeName>E A</ForeName>
+<Initials>EA</Initials>
+<AffiliationInfo>
+<Affiliation>Ludwig Institute for Cancer Research, Nuffield Department of Clinical Medicine, University of Oxford, Oxford OX3 7DQ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Joss</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Queen Elizabeth University Hospital Glasgow, Glasgow G51 4TF, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lacassie</LastName>
+<ForeName>Y</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, Louisiana State University, New Orleans, LA 70118, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Genetics Services, Children's Hospital New Orleans, New Orleans, LA 70118, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Kaiser Permanente, San Francisco Medical Center, San Francisco, CA 94115, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Escobar</LastName>
+<ForeName>L F</ForeName>
+<Initials>LF</Initials>
+<AffiliationInfo>
+<Affiliation>St Vincent Children's Hospital, Indianapolis, IN 46260, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tucker</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>St Vincent Children's Hospital, Indianapolis, IN 46260, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Aylsworth</LastName>
+<ForeName>A S</ForeName>
+<Initials>AS</Initials>
+<AffiliationInfo>
+<Affiliation>Departments of Pediatrics and Genetics, University of North Carolina, Chapel Hill, NC 27599, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dubbs</LastName>
+<ForeName>H A</ForeName>
+<Initials>HA</Initials>
+<AffiliationInfo>
+<Affiliation>Children's Hospital of Philadelphia, Philadelphia, PA 19104, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Collins</LastName>
+<ForeName>A T</ForeName>
+<Initials>AT</Initials>
+<AffiliationInfo>
+<Affiliation>Seattle Children's Hospital, Seattle, WA 98105, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Andrieux</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Medical Genetics, Jeanne de Flandre Hospital, CHRU de Lille, Lille 59000, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dieux-Coeslier</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>CHU Lille, Clinique de Génétique, Lille F-59000, France.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Haberlandt</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Clinical Department of Pediatrics, Innsbruck Medical University, Innsbruck A-6020, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kotzot</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Human Genetics, Department of Medical Genetics, Molecular and Clinical Pharmacology, Innsbruck Medical University, Innsbruck A-6020, Austria.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scott</LastName>
+<ForeName>D A</ForeName>
+<Initials>DA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Parker</LastName>
+<ForeName>M J</ForeName>
+<Initials>MJ</Initials>
+<AffiliationInfo>
+<Affiliation>Sheffield Children's Hospital NHS Foundation Trust, Western Bank, Sheffield, S10 2TH, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zakaria</LastName>
+<ForeName>Z</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Institute for Medical Research, Kuala Lumpur, Jalan Pahang 50588, Malaysia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Choy</LastName>
+<ForeName>Y S</ForeName>
+<Initials>YS</Initials>
+<AffiliationInfo>
+<Affiliation>Prince Court Medical Centre, Kuala Lumpur 50450, Malaysia.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wieczorek</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Institute of Human Genetics, University Clinic Essen, Duisburg-Essen University, Essen 45122, Germany.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Institute of Human Genetics, University Clinic, Heinrich-Heine University, Düsseldorf 40225, Germany.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Innes</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Genetics and Alberta Children's Hospital Research Institute, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada T3B 6A8.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jun</LastName>
+<ForeName>K R</ForeName>
+<Initials>KR</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Laboratory Medicine, Haeundae Paik Hospital, Inje University, Haeundae-gu, Busan, Korea.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zinner</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>Seattle Children's Hospital, Seattle, WA 98105, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Prin</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>The Francis Crick Institute Mill Hill Laboratory, London NW7 1AA, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lygate</LastName>
+<ForeName>C A</ForeName>
+<Initials>CA</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Cardiovascular Medicine, Radcliffe Department of Medicine, University of Oxford, Oxford OX3 7BN, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pretorius</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neuroradiology, John Radcliffe Hospital, Oxford University Hospitals NHS Trust, Oxford OX3 9DU, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenfeld</LastName>
+<ForeName>J A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mohun</LastName>
+<ForeName>T J</ForeName>
+<Initials>TJ</Initials>
+<AffiliationInfo>
+<Affiliation>The Francis Crick Institute Mill Hill Laboratory, London NW7 1AA, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lu</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+<AffiliationInfo>
+<Affiliation>Ludwig Institute for Cancer Research, Nuffield Department of Clinical Medicine, University of Oxford, Oxford OX3 7DQ, UK.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>N01 HD023343</GrantID>
+<Acronym>HD</Acronym>
+<Agency>NICHD NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>RE/08/004</GrantID>
+<Agency>British Heart Foundation</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>RG/13/8/30266</GrantID>
+<Agency>British Heart Foundation</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<Agency>Wellcome Trust</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+<Grant>
+<GrantID>FS/11/50/29038</GrantID>
+<Agency>British Heart Foundation</Agency>
+<Country>United Kingdom</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Cell Death Differ</MedlineTA>
+<NlmUniqueID>9437445</NlmUniqueID>
+<ISSNLinking>1350-9047</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051017">Apoptosis Regulatory Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C090468">TP53BP2 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C511437">Trp53bp2 protein, mouse</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D025521">Tumor Suppressor Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051017">Apoptosis Regulatory Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000172">deficiency</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001921">Brain</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000002">abnormalities</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D002872">Chromosome Deletion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004622">Embryo, Mammalian</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000002">abnormalities</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017353">Gene Deletion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006352">Heart Ventricles</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000002">abnormalities</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008807">Mice, Inbred BALB C</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009436">Neural Tube Defects</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010641">Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013577">Syndrome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D025521">Tumor Suppressor Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000172">deficiency</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2016</Year>
+<Month>04</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2016</Year>
+<Month>06</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>06</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>12</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27447114</ArticleId>
+<ArticleId IdType="pii">cdd201676</ArticleId>
+<ArticleId IdType="doi">10.1038/cdd.2016.76</ArticleId>
+<ArticleId IdType="pmc">PMC5136487</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Am J Hum Genet. 1998 Oct;63(4):1153-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9758599</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Genet A. 2015 Jun;167(6):1418-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25900767</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2014 Oct;46(10):1063-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25217958</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Genet. 2010 Jul 29;6(7):e1001040</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20686710</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Res. 2009 Sep;19(9):1682-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19592680</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2015 Feb 12;518(7538):245-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25607361</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BioData Min. 2013 Oct 16;6(1):18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24131735</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell. 2001 Oct;8(4):781-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11684014</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Genet. 2014 Oct;86(4):361-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24116836</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Genet. 2010 Apr;77(4):404-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20095987</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genet Med. 2007 Sep;9(9):607-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17873649</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Med Genet. 2013 Jun;56(6):309-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23542665</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Genet A. 2014 Feb;164A(2):441-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24357076</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Growth Differ. 2013 Jan;55(1):164-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23277919</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genome Res. 2002 Jun;12(6):996-1006</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12045153</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2014 Apr 10;508(7495):199-206</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24695229</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Dev Biol. 2006 Jan 24;6:3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16433929</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1995 Jun;10(2):175-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7663512</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2011 Aug 14;43(9):838-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21841781</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Hum Genet. 2007 Apr;15(4):389-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17299439</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2004 Feb;24(3):1341-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14729977</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochim Biophys Acta. 2012 Jan;1824(1):224-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21864727</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Genet A. 2006 Aug 1;140(15):1637-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16835927</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Reprod Sci. 2012 Jul;19(7):764-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22447895</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2011 Oct;31(19):4097-106</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21791606</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Med Genet. 2011 Jan-Feb;54(1):42-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20951845</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2009 Mar 17;106(11):4390-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19251665</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Perinatol. 2012 Mar;32(3):238-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22370897</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 2013 Jun;45(6):580-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23715323</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatrics. 2006 Sep;118(3):916-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16950981</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2014 Oct 9;514(7521):228-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25119037</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Cell. 2010 Jul 20;19(1):126-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20619750</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anat Embryol (Berl). 1998 May;197(5):341-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9623667</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Dev. 2006 May 15;20(10):1262-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16702401</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Genet. 2008 Aug;124(1):73-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18563447</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO Mol Med. 2013 Jul;5(7):1067-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23776131</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2012 Mar;19(3):397-405</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21818120</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Genet A. 2010 Apr;152A(4):987-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20358614</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Genet. 2011 May;48(5):299-307</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21525063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2007 Jan 12;128(1):9-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17218247</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2014 Nov;16(11):1092-104</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25344754</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Biol. 1995 Aug 1;5(8):931-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7583151</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biol. 2011 Dec 12;195(6):1047-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22162136</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Med Genet A. 2007 Aug 1;143A(15):1790-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17603805</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1996 Nov 8;274(5289):1001-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8875926</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Development. 2016 Apr 1;143(7):1192-204</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26903501</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mamm Genome. 2012 Oct;23(9-10):632-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22940749</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuroimage. 2011 Oct 15;58(4):1051-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21835253</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dev Biol. 2000 Feb 1;218(1):74-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10644412</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

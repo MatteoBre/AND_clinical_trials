@@ -1,0 +1,205 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Automated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26422720</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>10</Month>
+<Day>09</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1533-4406</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>373</Volume>
+<Issue>14</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>The New England journal of medicine</Title>
+<ISOAbbreviation>N. Engl. J. Med.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Reduced-Nicotine Cigarettes--A Promising Regulatory Pathway.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1289-91</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1056/NEJMp1509510</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Fiore</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>From the Center for Tobacco Research and Intervention and the Department of Medicine, University of Wisconsin School of Medicine and Public Health, Madison.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Baker</LastName>
+<ForeName>Timothy</ForeName>
+<Initials>T</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>P01 CA180945</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>P50 CA143188</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R35 CA197573</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016420">Comment</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>N Engl J Med</MedlineTA>
+<NlmUniqueID>0255562</NlmUniqueID>
+<ISSNLinking>0028-4793</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>6M3C89ZY6R</RegistryNumber>
+<NameOfSubstance UI="D009538">Nicotine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>N Engl J Med. 2016 Jan 28;374(4):395</RefSource>
+<PMID Version="1">26816024</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentOn">
+<RefSource>N Engl J Med. 2015 Oct;373(14):1340-9</RefSource>
+<PMID Version="1">26422724</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019570">Inhalation Exposure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009538">Nicotine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014026">Tobacco</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D062789">Tobacco Products</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014029">Tobacco Use Disorder</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>10</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26422720</ArticleId>
+<ArticleId IdType="doi">10.1056/NEJMp1509510</ArticleId>
+<ArticleId IdType="pmc">PMC4593068</ArticleId>
+<ArticleId IdType="mid">NIHMS721826</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Tob Control. 2013 May;22 Suppl 1:i14-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23591498</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tob Control. 1998 Autumn;7(3):281-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9825424</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Addiction. 2015 Oct;110(10):1667-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26198394</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br Med J. 1976 Jun 12;1(6023):1430-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">953530</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1994 Jul 14;331(2):123-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7818638</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2015 Oct;373(14):1340-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26422724</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tob Control. 2013 May;22 Suppl 1:i36-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23591505</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Tob Control. 2013 May;22 Suppl 1:i40-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23591507</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,165 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21382109</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>08</Month>
+<Day>19</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2011</Year>
+<Month>05</Month>
+<Day>03</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1365-2583</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>20</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Insect molecular biology</Title>
+<ISOAbbreviation>Insect Mol. Biol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Molecular cloning and characterization of a thioredoxin peroxidase gene from Apis cerana cerana.</ArticleTitle>
+<Pagination>
+<MedlinePgn>367-78</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2583.2011.01071.x</ELocationID>
+<Abstract>
+<AbstractText>Thioredoxin peroxidases (Tpxs) play important roles in protecting organisms against the toxicity of reactive oxygen species (ROS) and regulating intracellular signal transduction. In the present study, we cloned the full cDNA of Tpx1 encoding a 195-amino acid protein from Apis cerana cerana (Acc). Based on the genomic DNA sequence, a 1442-bp 5'-flanking region was obtained, and the putative transcription factor binding sites were predicted. Quantitative PCR analysis showed that AccTpx1 was highly expressed in thorax and that the AccTpx1 transcript reached its highest level in two-week-old adult worker honeybees. Moreover, expression of the AccTpx1 transcript was increased by various abiotic stresses, such as ultraviolet light, HgCl(2) , and insecticide treatments. In addition, the recombinant AccTpx1 protein exhibited antioxidant activity; it removed hydrogen peroxide and protected DNA. These results suggest that AccTpx1 plays an important role in protecting honeybees from oxidative injury and may act in extending the lifespan of them.</AbstractText>
+<CopyrightInformation>© 2011 The Authors. Insect Molecular Biology © 2011 The Royal Entomological Society.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Yu</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>State Key Laboratory of Crop Biology, College of Life Sciences, Shandong Agricultural University, Taian, Shandong, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kang</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Meng</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Guo</LastName>
+<ForeName>X</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xu</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2011</Year>
+<Month>03</Month>
+<Day>07</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Insect Mol Biol</MedlineTA>
+<NlmUniqueID>9303579</NlmUniqueID>
+<ISSNLinking>0962-1075</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 1.11.1.15</RegistryNumber>
+<NameOfSubstance UI="D054464">Peroxiredoxins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000595">Amino Acid Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001516">Bees</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000201">enzymology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003001">Cloning, Molecular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020869">Gene Expression Profiling</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018507">Gene Expression Regulation, Developmental</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054464">Peroxiredoxins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010802">Phylogeny</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016415">Sequence Alignment</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014018">Tissue Distribution</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>3</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>3</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>8</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21382109</ArticleId>
+<ArticleId IdType="doi">10.1111/j.1365-2583.2011.01071.x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

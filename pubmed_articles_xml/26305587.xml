@@ -1,0 +1,208 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26305587</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>07</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">2374-4243</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>47</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2015</Year>
+</PubDate>
+</JournalIssue>
+<Title>Infectious diseases (London, England)</Title>
+<ISOAbbreviation>Infect Dis (Lond)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Time window for positive cerebrospinal fluid broad-range bacterial PCR and Streptococcus pneumoniae immunochromatographic test in acute bacterial meningitis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>869-77</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3109/23744235.2015.1078907</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Reliable microbiological tests are essential for the diagnosis of acute bacterial meningitis (ABM). In this study we investigated the time period after the start of antibiotic therapy during which culture, polymerase chain reaction (PCR) and the immunochromatographic test (ICT) are able to detect bacteria in cerebrospinal fluid (CSF).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The study was performed on CSF samples from adults with ABM admitted to the Department of Infectious Diseases, Sahlgrenska University Hospital, Gothenburg, Sweden, from January 2007 to April 2014. In addition to the initial lumbar puncture (LP), the participants underwent one or two more LPs during 10 days following the start of antibiotics. The analyses performed on the CSF samples were culture, PCR and ICT.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The study comprised 70 CSF samples from 25 patients with ABM. A bacterium could be identified by CSF culture in 44%, by blood culture in 58% and by PCR in 100% of the patients. There were no positive CSF cultures in samples taken later than the day of starting antibiotics. PCR was positive in 89% on days 1-3, 70% on days 4-6 and 33% on days 7-10. For cases of pneumococcal meningitis, the ICT was positive in 88% on days 1-3, 90% on days 4-6 and 75% on days 7-10.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study shows that PCR is highly sensitive for bacterial detection in CSF samples taken up to 1 week into antibiotic therapy. The ICT is highly sensitive for the detection of pneumococci in CSF samples taken during the first week of antibiotic treatment.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Brink</LastName>
+<ForeName>Magnus</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>a From the Institute of Biomedicine, Department of Infectious Diseases , University of Gothenburg , Gothenburg , Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Welinder-Olsson</LastName>
+<ForeName>Christina</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>a From the Institute of Biomedicine, Department of Infectious Diseases , University of Gothenburg , Gothenburg , Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hagberg</LastName>
+<ForeName>Lars</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>a From the Institute of Biomedicine, Department of Infectious Diseases , University of Gothenburg , Gothenburg , Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>24</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Infect Dis (Lond)</MedlineTA>
+<NlmUniqueID>101650235</NlmUniqueID>
+<ISSNLinking>2374-4243</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Infect Dis (Lond). 2017 Sep;49(9):705-707</RefSource>
+<PMID Version="1">28397596</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000900">Anti-Bacterial Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058491">Bacterial Load</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002555">Cerebrospinal Fluid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002846">Chromatography, Affinity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017714">Community-Acquired Infections</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008586">Meningitis, Pneumococcal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000382">microbiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016133">Polymerase Chain Reaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013129">Spinal Puncture</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013296">Streptococcus pneumoniae</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp; development</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000302">isolation &amp; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013548">Sweden</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Acute bacterial meningitis</Keyword>
+<Keyword MajorTopicYN="N">broad-range PCR</Keyword>
+<Keyword MajorTopicYN="N">cerebrospinal fluid</Keyword>
+<Keyword MajorTopicYN="N">diagnosis</Keyword>
+<Keyword MajorTopicYN="N">immunochromatographic test</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>8</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>7</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26305587</ArticleId>
+<ArticleId IdType="doi">10.3109/23744235.2015.1078907</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

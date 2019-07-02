@@ -1,0 +1,195 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23861366</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>06</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>10</Month>
+<Day>29</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1531-8257</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>12</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Movement disorders : official journal of the Movement Disorder Society</Title>
+<ISOAbbreviation>Mov. Disord.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Acute complications of movement disorders surgery: effects of age and comorbidities.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1661-7</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/mds.25610</ELocationID>
+<Abstract>
+<AbstractText>The most common indication for movement disorder surgery is Parkinson's disease (PD), and the incidence of PD increases with age. The analysis reported here was undertaken with the primary goal of examining whether there is a relationship between peri-operative complications and age. The Nationwide Inpatient Sample (Agency for Healthcare Research and Quality, Rockville, MD, USA) was queried for 10 years beginning in 1999 for patients undergoing deep brain stimulator insertion, pallidotomy, and thalamotomy for treatment of PD, essential tremor, and dystonia. Inpatient complications, including death, stroke (both ischemic and hemorrhagic), and other overall complications were examined. The relative risks associated with advanced age; primary diagnosis; treatment modality; the diagnoses of hypertension, diabetes, and nicotinism; and the cumulative number of comorbidities were examined. There were 5464 patients who met inclusion criteria, including 4145 patients treated for PD and 4961 patients treated with deep brain stimulation (DBS). Overall in-hospital mortality was 0.26%, with 0.15% related to surgical factors. There was a correlation between in-hospital mortality, increasing age, and number of medical comorbidities. After multivariate regression no factor remained predictive of mortality. Having more than 1 medical comorbidity or PD increased the risk of in-hospital complications. Patients with PD were more likely to suffer hemorrhage or stroke. Hypertension, diabetes, nicotinism, and modality of treatment were not associated with increased mortality, hemorrhage or stroke risk, or in-hospital mortality in univariate or multivariate analysis. Both age and medical comorbidity are correlated with in-hospital complications, but age appears to serve as a surrogate for comorbidity. Surgery for PD appears to carry an increased risk of hemorrhage or stroke and in-hospital complications.</AbstractText>
+<CopyrightInformation>© 2013 Movement Disorder Society.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Rughani</LastName>
+<ForeName>Anand I</ForeName>
+<Initials>AI</Initials>
+<AffiliationInfo>
+<Affiliation>Neuroscience Institute, Maine Medical Center, Portland, Maine, United States.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hodaie</LastName>
+<ForeName>Mojgan</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lozano</LastName>
+<ForeName>Andres M</ForeName>
+<Initials>AM</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>16</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Mov Disord</MedlineTA>
+<NlmUniqueID>8610688</NlmUniqueID>
+<ISSNLinking>0885-3185</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D046690">Deep Brain Stimulation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003924">Diabetes Mellitus, Type 2</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020821">Dystonic Disorders</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020329">Essential Tremor</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005917">Globus Pallidus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019635">Neurosurgical Procedures</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010300">Parkinson Disease</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013788">Thalamus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Parkinson's disease</Keyword>
+<Keyword MajorTopicYN="N">complications</Keyword>
+<Keyword MajorTopicYN="N">deep brain stimulation</Keyword>
+<Keyword MajorTopicYN="N">dystonia</Keyword>
+<Keyword MajorTopicYN="N">essential tremor</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>01</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>05</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>05</Month>
+<Day>31</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>7</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>7</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>6</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23861366</ArticleId>
+<ArticleId IdType="doi">10.1002/mds.25610</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,424 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23618779</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>05</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1557-8615</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>28</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of critical care</Title>
+<ISOAbbreviation>J Crit Care</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Critical illness is associated with decreased plasma levels of coenzyme Q10: a cross-sectional study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>571-6</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jcrc.2013.02.009</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0883-9441(13)00052-X</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Plasma coenzyme Q10 (CoQ10) levels are lower in patients with septic shock (SS) than in healthy controls (HCs). However, CoQ10 status in critically ill patients without SS is unknown. Here, we investigated CoQ10 concentrations in patients with SS and without SS as compared with HCs.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">We enrolled 36 critically ill patients and 18 HCs. Plasma CoQ10 concentrations were measured, and patients' clinical and demographical data were collected.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Plasma CoQ10 concentrations were lower in critically ill patients (0.50±0.36 μg/mL, P&lt;.001), both in patients with SS (0.37±0.25 μg/mL, P=.002) and patients without SS (0.56±0.39, P=.04), as compared with HCs (0.79±0.19). Coenzyme Q10 levels did not differ between patients with SS and patients without SS (P=.13). In critically ill patients, CoQ10 levels inversely correlated with age (r=-0.40, P=.015) and did not correlate with partial pressure of oxygen in the arterial blood/fraction of inspired oxygen, Simplified Acute Physiology Score II, Systemic Organ Failure Assessment score, or mortality. Lower CoQ10 levels were associated with lower activities of daily living score after discharge (P=.005), independent of age.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Decreased plasma CoQ10 levels are not specific to patients with SS, but rather observed in a broad range of critically ill patients. In critically ill patients, CoQ10 insufficiency may be associated with various conditions; age may be a risk factor.</AbstractText>
+<CopyrightInformation>Copyright © 2013 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Coppadoro</LastName>
+<ForeName>Andrea</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Anesthesia, Critical Care, and Pain Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, MA 02129, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Berra</LastName>
+<ForeName>Lorenzo</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kumar</LastName>
+<ForeName>Asheesh</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pinciroli</LastName>
+<ForeName>Riccardo</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yamada</LastName>
+<ForeName>Marina</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schmidt</LastName>
+<ForeName>Ulrich H</ForeName>
+<Initials>UH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bittner</LastName>
+<ForeName>Edward A</ForeName>
+<Initials>EA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kaneki</LastName>
+<ForeName>Masao</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 DK058127</GrantID>
+<Acronym>DK</Acronym>
+<Agency>NIDDK NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>04</Month>
+<Day>22</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Crit Care</MedlineTA>
+<NlmUniqueID>8610642</NlmUniqueID>
+<ISSNLinking>0883-9441</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>1339-63-5</RegistryNumber>
+<NameOfSubstance UI="D014451">Ubiquinone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EJ27X76M46</RegistryNumber>
+<NameOfSubstance UI="C024989">coenzyme Q10</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000203">Activities of Daily Living</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016638">Critical Illness</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003430">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014451">Ubiquinone</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Age</Keyword>
+<Keyword MajorTopicYN="N">Critically ill patients</Keyword>
+<Keyword MajorTopicYN="N">Plasma coenzyme Q10</Keyword>
+<Keyword MajorTopicYN="N">Sepsis</Keyword>
+<Keyword MajorTopicYN="N">Septic shock</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>09</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2013</Year>
+<Month>01</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>02</Month>
+<Day>11</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>4</Month>
+<Day>27</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>5</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23618779</ArticleId>
+<ArticleId IdType="pii">S0883-9441(13)00052-X</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jcrc.2013.02.009</ArticleId>
+<ArticleId IdType="pmc">PMC4073588</ArticleId>
+<ArticleId IdType="mid">NIHMS599073</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Lipid Res. 1996 Jan;37(1):67-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8820103</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Aspects Med. 1997;18 Suppl:S105-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9266511</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Biol Sci. 2007;3(4):257-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17479158</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Respir Crit Care Med. 2010 Sep 15;182(6):745-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20538956</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intensive Care Med. 2009 Nov;35(11):1907-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19693486</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care. 2011;15(4):R189</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21827677</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chim Acta. 2004 Sep;347(1-2):139-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15313151</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J. 2006 Nov;27(22):2675-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16882678</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1985 Jun;82(12):4240-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3858877</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2002 Jul 20;360(9328):219-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12133657</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 2011 Jun;216(2):395-401</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21388622</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intensive Care. 2011 Sep 26;1(1):41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21942988</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chim Acta. 2004 Apr;342(1-2):219-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15026284</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub. 2008 Dec;152(2):181-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19219206</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Crit Care. 2002 Nov;11(6):543-51; quiz 552-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12425405</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2011 Jun;39(6):1514-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21317651</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chim Acta. 2003 Jun;332(1-2):123-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12763289</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Resuscitation. 2012 Aug;83(8):991-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22465806</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Chim Acta. 2002 Apr;318(1-2):127-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11880122</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochim Biophys Acta. 1995 May 24;1271(1):195-204</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7599208</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2011;(12):CD008150</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22161420</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2010 Oct 5;56(15):1196-204</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20883926</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biofactors. 2011 Sep-Oct;37(5):361-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21990098</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1993 Dec 22-29;270(24):2957-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8254858</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 2001 Aug;29(8):1563-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11505128</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pediatr. 2011 Mar;158(3):458-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20884007</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Heart J. 2007 Sep;28(18):2249-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17644511</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood Coagul Fibrinolysis. 2009 Jun;20(4):248-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19530339</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Crit Care Med. 1992 Jun;20(6):864-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1597042</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Intensive Care Med. 1996 Jul;22(7):707-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8844239</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Aspects Med. 1997;18 Suppl:S251-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9266531</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 1999 Jan 25;443(2):163-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9989597</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gerontologist. 1970 Spring;10(1):20-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5420677</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Sci. 1999 Jan 1;162(1):65-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10064171</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

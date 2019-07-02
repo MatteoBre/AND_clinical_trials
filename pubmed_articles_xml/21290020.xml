@@ -1,0 +1,138 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21290020</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>06</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1934-3418</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>39</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Sep</Month>
+</PubDate>
+</JournalIssue>
+<Title>American journal of orthopedics (Belle Mead, N.J.)</Title>
+<ISOAbbreviation>Am J. Orthop.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Evaluation of reliability of the Mason classification for radial head fractures.</ArticleTitle>
+<Pagination>
+<MedlinePgn>430-2</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>In the study reported here, we sought to determine the interobserver reliability and the intraobserver reproductibility of the Mason classification. We also evaluated the effect of having an external rotation oblique view on agreement in radiographic readings. Four readers reviewed 50 radial head fracture radiographs approximately 2 months apart. Half the radiographs had an anteroposterior view and a lateral view; the other half had an additional external rotation oblique view. There was a trend toward improved interobserver agreement in the 3-view radiographs. Three of the 4 readers demonstrated substantial intraobserver reproducibility, which was noted to be higher when 3 views were available.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Dillon</LastName>
+<ForeName>Mark T</ForeName>
+<Initials>MT</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Orthopaedic Surgery, The Permanente Medical Group, Sacramento, California, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Getz</LastName>
+<ForeName>Charles L</ForeName>
+<Initials>CL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Beredjiklian</LastName>
+<ForeName>Pedro K</ForeName>
+<Initials>PK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wiesel</LastName>
+<ForeName>Brent B</ForeName>
+<Initials>BB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carolan</LastName>
+<ForeName>Gregory F</ForeName>
+<Initials>GF</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ramsey</LastName>
+<ForeName>Matthew L</ForeName>
+<Initials>ML</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D023362">Evaluation Studies</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Am J Orthop (Belle Mead NJ)</MedlineTA>
+<NlmUniqueID>9502918</NlmUniqueID>
+<ISSNLinking>1078-4519</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004551">Elbow Joint</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015588">Observer Variation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011859">Radiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011885">Radius Fractures</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000145">classification</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000000981">diagnostic imaging</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2011</Year>
+<Month>2</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2011</Year>
+<Month>2</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>6</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21290020</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

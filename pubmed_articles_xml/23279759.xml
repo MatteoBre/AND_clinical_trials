@@ -1,0 +1,148 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23279759</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>06</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>09</Month>
+<Day>12</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1755-5922</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>31</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Cardiovascular therapeutics</Title>
+<ISOAbbreviation>Cardiovasc Ther</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Anticoagulation in patients with dilated cardiomyopathy, low ejection fraction, and sinus rhythm: back to the drawing board.</ArticleTitle>
+<Pagination>
+<MedlinePgn>298-302</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1111/1755-5922.12019</ELocationID>
+<Abstract>
+<AbstractText>Heart failure patients present an important thrombo-embolic risk, including symptomatic or silent peripheral arterial embolism, pulmonary embolism, and stroke. Patients in sinus rhythm who have concomitant depressed (&lt; 35%) left ventricular ejection fraction have a 4% rate of embolic events. Several prospective randomized trials of anticoagulation in this group of patients were either underpowered or had a short period of follow-up. Even though in two studies warfarin had a slight advantage over aspirin (in the WATCH and WARCEF trials), it was at the cost of an increased risk in major hemorrhage. To decrease bleeding rates and to improve anticoagulant effect, new treatment strategies have to be tested. Novel anticoagulants (dabigatran, rivaroxaban, and apixaban) seem to be a promising alternative.</AbstractText>
+<CopyrightInformation>© 2012 John Wiley &amp; Sons Ltd.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mischie</LastName>
+<ForeName>Alexandru Nicolae</ForeName>
+<Initials>AN</Initials>
+<AffiliationInfo>
+<Affiliation>Cardiology Department, "Bagdasar Arseni" Emergency Hospital, Bucharest, Romania.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chioncel</LastName>
+<ForeName>Valentin</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Droc</LastName>
+<ForeName>Ionel</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sinescu</LastName>
+<ForeName>Crina</ForeName>
+<Initials>C</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Cardiovasc Ther</MedlineTA>
+<NlmUniqueID>101319630</NlmUniqueID>
+<ISSNLinking>1755-5914</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000925">Anticoagulants</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000925">Anticoagulants</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002311">Cardiomyopathy, Dilated</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002986">Clinical Trials as Topic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006339">Heart Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020521">Stroke</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D013318">Stroke Volume</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Apixaban</Keyword>
+<Keyword MajorTopicYN="N">Dabigatran</Keyword>
+<Keyword MajorTopicYN="N">Dilated cardiomyopathy</Keyword>
+<Keyword MajorTopicYN="N">Heart failure</Keyword>
+<Keyword MajorTopicYN="N">Low ejection fraction &lt;35%</Keyword>
+<Keyword MajorTopicYN="N">Rivaroxaban</Keyword>
+<Keyword MajorTopicYN="N">Sinus rhythm</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>1</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>1</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>6</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23279759</ArticleId>
+<ArticleId IdType="doi">10.1111/1755-5922.12019</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

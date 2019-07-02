@@ -1,0 +1,198 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25648657</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>01</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>03</Month>
+<Day>17</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1502-7708</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>50</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Scandinavian journal of gastroenterology</Title>
+<ISOAbbreviation>Scand. J. Gastroenterol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Neoplasia in the colorectal specimens of patients with ulcerative colitis and ileal pouch-anal anastomosis - need for routine surveillance?</ArticleTitle>
+<Pagination>
+<MedlinePgn>528-35</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3109/00365521.2015.1004364</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Patients who undergo ileal pouch-anal anastomosis (IPAA) after colectomy for ulcerative colitis (UC) occasionally have neoplasia in the IPAA. Patients with evidence of dysplasia or carcinoma in the colorectal specimen may have an increased risk of such neoplasia. A surveillance program has been suggested. The aims of this study were to evaluate the outcomes of surveillance of a large patient cohort, and to investigate the prevalences of neoplasia in the ileal pouch mucosa and in the anal transitional zone (ATZ).</AbstractText>
+<AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">A total of 629 patients underwent IPAA for UC at Sahlgrenska University Hospital, Gothenburg, Sweden. Identified from a register, 73 patients with neoplasia in their specimen considered eligible for the trial were prospectively enrolled, and underwent clinical examination, endoscopy with macroscopic evaluation, and mucosal biopsies from the ileal pouch and the ATZ. The biopsies were independently evaluated by two experienced gastro-pathologists.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">In all, 56 patients (39 males) with a median follow-up time of 18 (range, 1-29) years were evaluated. One patient (1.8%; 95% CI 0%-5.3%) showed low-grade dysplasia in the pouch, as recorded by one of the two pathologists. The individual pathologists recorded indefinite for dysplasia (IFD) in the pouch for 19 and 20 patients, respectively, and IFD in the ATZ for 2 and 4 patients, respectively. None of the biopsies showed evidence of high-grade dysplasia (HGD) or carcinoma.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Neoplasia in the ileal pouch or ATZ after IPAA for UC is rare in the proposed risk group. The necessity for and value of a routine surveillance program should be prospectively evaluated.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Block</LastName>
+<ForeName>Mattias</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, Sahlgrenska University Hospital, Institution for Clinical Sciences, Sahlgrenska Academy at University of Gothenburg , Gothenburg , Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Börjesson</LastName>
+<ForeName>Lars</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Willén</LastName>
+<ForeName>Roger</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bengtson</LastName>
+<ForeName>Jonas</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lindholm</LastName>
+<ForeName>Elisabeth</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brevinge</LastName>
+<ForeName>Hans</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Saksena</LastName>
+<ForeName>Pushpa</ForeName>
+<Initials>P</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>02</Month>
+<Day>03</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Scand J Gastroenterol</MedlineTA>
+<NlmUniqueID>0060105</NlmUniqueID>
+<ISSNLinking>0036-5521</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001003">Anal Canal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000714">Anastomosis, Surgical</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001706">Biopsy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002277">Carcinoma</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003093">Colitis, Ulcerative</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D039021">Colonic Pouches</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007082">Ileum</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016737">Proctocolectomy, Restorative</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D013548">Sweden</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">IPAA</Keyword>
+<Keyword MajorTopicYN="N">carcinoma</Keyword>
+<Keyword MajorTopicYN="N">dysplasia</Keyword>
+<Keyword MajorTopicYN="N">neoplasia</Keyword>
+<Keyword MajorTopicYN="N">risk factors</Keyword>
+<Keyword MajorTopicYN="N">surveillance</Keyword>
+<Keyword MajorTopicYN="N">ulcerative colitis</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>2</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>2</Month>
+<Day>5</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25648657</ArticleId>
+<ArticleId IdType="doi">10.3109/00365521.2015.1004364</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

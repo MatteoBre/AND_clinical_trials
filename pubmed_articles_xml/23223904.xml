@@ -1,0 +1,287 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23223904</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>10</Month>
+<Day>31</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1432-1777</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>24</Volume>
+<Issue>3-4</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Mammalian genome : official journal of the International Mammalian Genome Society</Title>
+<ISOAbbreviation>Mamm. Genome</ISOAbbreviation>
+</Journal>
+<ArticleTitle>A thyroid peroxidase (TPO) mutation in dogs reveals a canid-specific gene structure.</ArticleTitle>
+<Pagination>
+<MedlinePgn>127-33</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00335-012-9442-y</ELocationID>
+<Abstract>
+<AbstractText>Congenital hypothyroidism with goiter (CHG) occurring as an autosomal recessive disorder is typically due to a defect of thyroid hormone synthesis (aka dyshormonogenesis). Thyroid peroxidase (TPO) is a multifunctional, heme-containing enzyme whose activity is required, and several inactivating TPO mutations causing CHG in humans and dogs have been described. Recently, two half-sib Spanish water dog (SWD) pups were diagnosed with CHG based on clinical signs, endocrine testing, and thyroid histology. TPO enzyme activity was absent, and immuno-cross-reactive TPO was undetectable in affected-dog thyroid tissue. A single guanosine insertion was observed in the first exon of the affected-dog TPO cDNA at a site not previously thought to be within the coding sequence. The insertion allele segregated with the deduced disease allele in the SWD breed and was not observed in unrelated dogs of various breeds. Comparison of the insertion site (an 8-nt poly-G tract) with the orthologous sequences of other mammalian reference genomes revealed that the octa-G tract obliterated the intron 1 splice acceptor site and the exon 2 translation initiation codon found at that position in other species. An in-frame ATG in strong Kozak consensus context was observed in the normal dog sequence 12 codons 5' of the usual mammalian start site, suggesting that dogs have lost the noncoding exon 1 demonstrated in human and mouse. A survey of TPO sequences in other carnivore species indicates that the poly-G tract necessitating an alternative translation initiation site is a canid-specific feature.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Fyfe</LastName>
+<ForeName>John C</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>Laboratory of Comparative Medical Genetics, Biomedical &amp; Physical Sciences, Michigan State University, East Lansing, MI 48824, USA. fyfe@msu.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lynch</LastName>
+<ForeName>Mary</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Olsen</LastName>
+<ForeName>Jayme</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Louёr</LastName>
+<ForeName>Eric</ForeName>
+<Initials>E</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>08</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Mamm Genome</MedlineTA>
+<NlmUniqueID>9100916</NlmUniqueID>
+<ISSNLinking>0938-8990</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018076">DNA, Complementary</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D013963">Thyroid Hormones</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.11.1.8</RegistryNumber>
+<NameOfSubstance UI="D007453">Iodide Peroxidase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000483">Alleles</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001483">Base Sequence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003409">Congenital Hypothyroidism</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018076">DNA, Complementary</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000302">isolation &amp; purification</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004285">Dogs</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019143">Evolution, Molecular</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005091">Exons</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006042">Goiter</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000151">congenital</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007453">Iodide Peroxidase</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008969">Molecular Sequence Data</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010641">Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017422">Sequence Analysis, DNA</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013045">Species Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013963">Thyroid Hormones</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2012</Year>
+<Month>09</Month>
+<Day>14</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>11</Month>
+<Day>17</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23223904</ArticleId>
+<ArticleId IdType="doi">10.1007/s00335-012-9442-y</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Vet Pathol. 2007 Jan;44(1):50-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17197623</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mamm Genome. 1996 Aug;7(8):563-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8679005</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vet Intern Med. 2003 Jul-Aug;17(4):463-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12892297</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thyroid. 1994 Spring;4(1):107-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8054857</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Vet Res. 1983 Jul;44(7):1257-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6881664</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thyroid. 2010 Jul;20(7):763-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20578900</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Orphanet J Rare Dis. 2010 Jun 10;5:17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20537182</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Phylogenet Evol. 2010 Jul;56(1):49-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20138220</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Vet Q. 2001 Nov;23(4):218-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11765244</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vet Intern Med. 2003 Jan-Feb;17(1):50-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12564727</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Genet. 2005 May;42(5):379-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15863666</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Vet Intern Med. 2012 Nov-Dec;26(6):1350-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23113744</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1965 Sep 17;149(3690):1380-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4157517</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Z Vet J. 2011 May;59(3):115-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21541884</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Thyroid. 2001 May;11(5):501-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11396709</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

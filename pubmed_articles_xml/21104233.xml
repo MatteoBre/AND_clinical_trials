@@ -1,0 +1,481 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">21104233</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>01</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1433-2965</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>22</Volume>
+<Issue>8</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA</Title>
+<ISOAbbreviation>Osteoporos Int</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Polymorphisms in the ALOX12 gene and osteoporosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2249-59</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1007/s00198-010-1472-2</ELocationID>
+<Abstract>
+<AbstractText Label="UNLABELLED">ALOX12 produces ligands for PPARγ thereby turning mesenchymal stem cells into adipocytes instead of osteoblasts. We investigated the effect of polymorphisms in the ALOX12 gene on BMD and fracture risk in two Danish cohorts and found four polymorphisms and a haplotype thereof to be associated with BMD and fracture risk.</AbstractText>
+<AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Stimulation of the PPARγ with ligands produced by the ALOX enzymes drives mesenchymal stem cells in an adipocyte direction at the expense of osteoblasts leading to decreased osteoblast number and BMD. Previously, polymorphisms in the ALOX12 gene have been associated with osteoporosis.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We examined the effect of ALOX12 polymorphisms on BMD and the risk of fractures in two Danish cohorts: AROS, a case-control population comprising 809 individuals and DOPS, a population comprising 1,716 perimenopausal women allocated to hormone therapy or not at baseline and followed for up to 10 years. On the basis of linkage disequilibrium (LD) between SNPs throughout the gene and previous genetic association studies we chose ten polymorphisms for investigation. Genotyping was carried out using the Sequenom MassARRAY genotyping system and TaqMan assays.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">In AROS, individuals heterozygous for the polymorphisms rs3840880, rs9897850, rs2292350 and rs1126667 had a 3.0-4.7% decreased lumbar spine BMD (p = 0.02-0.06) and an increased risk of vertebral fractures (p &lt; 0.05) compared with individuals homozygous for either allele. In DOPS, none of the individual SNPs were associated with BMD or incident fractures. In both cohorts, the above-mentioned SNPs comprised an LD-block (pairwise D´ = 1.0, r (2) = 0.45-0.97). A haplotype comprising all the common alleles (frequency 9%) was associated with decreased bone loss at the hip (p &lt; 0.05) and decreased incidence of osteoporotic fractures (p &lt; 0.05) in DOPS and increased femoral neck BMD in AROS (p &lt; 0.05).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our study suggests that genetic variants in ALOX12 may influence BMD and fracture risk.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Harsløf</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Endocrinology and Internal Medicine, THG, Aarhus University Hospital, 8000, Aarhus C, Denmark. torbhars@rm.dk</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Husted</LastName>
+<ForeName>L B</ForeName>
+<Initials>LB</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nyegaard</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carstens</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stenkjær</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brixen</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Eiken</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jensen</LastName>
+<ForeName>J-E B</ForeName>
+<Initials>JE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Børglum</LastName>
+<ForeName>A D</ForeName>
+<Initials>AD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mosekilde</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rejnmark</LastName>
+<ForeName>L</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Langdahl</LastName>
+<ForeName>B L</ForeName>
+<Initials>BL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>23</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Osteoporos Int</MedlineTA>
+<NlmUniqueID>9100105</NlmUniqueID>
+<ISSNLinking>0937-941X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 1.13.11.31</RegistryNumber>
+<NameOfSubstance UI="D001092">Arachidonate 12-Lipoxygenase</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 1.13.11.31.</RegistryNumber>
+<NameOfSubstance UI="C476558">ALOX12 protein, human</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001092">Arachidonate 12-Lipoxygenase</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015519">Bone Density</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004812">Epidemiologic Methods</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015914">Estrogen Replacement Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005787">Gene Frequency</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020022">Genetic Predisposition to Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006239">Haplotypes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010024">Osteoporosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015663">Osteoporosis, Postmenopausal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058866">Osteoporotic Fractures</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D020641">Polymorphism, Single Nucleotide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016103">Spinal Fractures</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>05</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>25</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>11</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>1</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21104233</ArticleId>
+<ArticleId IdType="doi">10.1007/s00198-010-1472-2</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Osteoporos Int. 2006;17(7):1078-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16758144</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bone. 2003 Mar;32(3):297-310</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12667558</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Kidney Dis. 2008 Aug;52(2):242-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18640486</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Miner Metab. 2005;23(4):275-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15981022</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biochem. 2006 May 15;98(2):251-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16479589</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Hum Genet. 2004 May;12(5):395-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14872201</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Miner Res. 1991 Jun;6(6):561-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1887818</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Arch Psychiatry Clin Neurosci. 2003 Feb;253(1):40-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12664313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hist Psychol. 2002 May;5(2):163-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12096759</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Miner Res. 2006 Apr;21(4):556-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16598376</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2008 Mar 19;299(11):1277-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18349089</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Miner Res. 1990 Apr;5(4):311-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2343771</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Med Res Methodol. 2007 Jul 03;7:30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17608932</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Work Environ Health. 2006 Oct;32(5):402-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17091208</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Signal. 2002 Jul;14(7):573-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11955950</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 1988 Feb 11;16(3):1215</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3344216</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1996 Oct;14 (2):203-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8841196</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1999 Jul 22;400(6742):378-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10432118</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Osteoporos Int. 1993 May;3(3):138-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8481590</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Genet Metab. 2000 Sep-Oct;71(1-2):19-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11001792</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Orthop Relat Res. 1971 Oct;80:147-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">5133320</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bone. 1997 Mar;20(3):289-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9071481</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Hum Genet. 2005 Jul;13(7):840-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15827565</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2004 Mar;113(6):846-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15067317</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bone. 1995 Mar;16(3):385-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7786643</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Miner Res. 1994 Oct;9(10):1503-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7817795</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mol Biol. 2008 Feb 8;376(1):193-209</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18155727</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2005 Jan 15;21(2):263-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15297300</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2004 Jan 9;303(5655):229-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14716014</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Miner Res. 2000 Nov;15(11):2222-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11092403</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Calcif Tissue Int. 2007 Jul;81(1):10-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17520163</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocrinology. 2005 Mar;146(3):1226-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15591153</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Miner Res. 2001 Feb;16(2):371-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11204437</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Calcif Tissue Int. 2007 Jan;80(1):21-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17205326</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Calcif Tissue Int. 2009 Feb;84(2):85-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19082910</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Osteoporos Int. 2011 Apr;22(4):1145-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20571774</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Maturitas. 1999 Mar 15;31(3):207-19</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10340280</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Bone Miner Res. 2002 Jul;17(7):1245-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12096838</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 1998 Jan 1;26(1):362-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9399875</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

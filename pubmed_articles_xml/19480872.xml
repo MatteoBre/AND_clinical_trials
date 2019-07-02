@@ -1,0 +1,182 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19480872</PMID>
+<DateCompleted>
+<Year>2009</Year>
+<Month>06</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>06</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1532-821X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>90</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2009</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Archives of physical medicine and rehabilitation</Title>
+<ISOAbbreviation>Arch Phys Med Rehabil</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Immediate and long-term effects of hippotherapy on symmetry of adductor muscle activity and functional ability in children with spastic cerebral palsy.</ArticleTitle>
+<Pagination>
+<MedlinePgn>966-74</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.apmr.2009.01.011</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To investigate the immediate effects of 10 minutes of hippotherapy, compared with 10 minutes of barrel-sitting, on symmetry of adductor muscle activity during walking in children with cerebral palsy (CP) (phase I). To investigate the long-term effects of 12 weeks of hippotherapy on adductor activity, gross motor function, and self-concept (phase II).</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">Pretest/posttest randomized controlled trial plus clinical follow-up.</AbstractText>
+<AbstractText Label="SETTING" NlmCategory="METHODS">Outpatient therapy center.</AbstractText>
+<AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">Children with spastic CP (phase I: n=47; phase II: n=6).</AbstractText>
+<AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">Phase I: 10 minutes of hippotherapy or 10 minutes of barrel-sitting; phase II: 12 weekly hippotherapy sessions.</AbstractText>
+<AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">Phases I and II: adductor muscle activity measured by surface electromyography. Phase II: gross motor function and self-perception profiles.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Phase I: hippotherapy significantly improved adductor muscle asymmetry (P&lt;.001; d=1.32). Effects of barrel-sitting were not significant (P&gt;.05; d=.10). Phase II: after 12 weeks of hippotherapy, testing in several functional domains showed improvements over baseline that were sustained for 12 weeks posttreatment.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Hippotherapy can improve adductor muscle symmetry during walking and can also improve other functional motor skills.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>McGibbon</LastName>
+<ForeName>Nancy H</ForeName>
+<Initials>NH</Initials>
+<AffiliationInfo>
+<Affiliation>Therapeutic Riding of Tucson Therapy Services, Tucson, AZ, USA. nhmcgibbon@gmail.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Benda</LastName>
+<ForeName>William</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Duncan</LastName>
+<ForeName>Burris R</ForeName>
+<Initials>BR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Silkwood-Sherer</LastName>
+<ForeName>Debbie</ForeName>
+<Initials>D</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>AT00008-05</GrantID>
+<Acronym>AT</Acronym>
+<Agency>NCCIH NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Arch Phys Med Rehabil</MedlineTA>
+<NlmUniqueID>2985158R</NlmUniqueID>
+<ISSNLinking>0003-9993</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002547">Cerebral Palsy</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000534">rehabilitation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004576">Electromyography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D026241">Exercise Movement Techniques</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006736">Horses</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D009068">Movement</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016138">Walking</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>26</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2008</Year>
+<Month>12</Month>
+<Day>12</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2009</Year>
+<Month>01</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>6</Month>
+<Day>2</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>6</Month>
+<Day>2</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2009</Year>
+<Month>6</Month>
+<Day>18</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19480872</ArticleId>
+<ArticleId IdType="pii">S0003-9993(09)00204-4</ArticleId>
+<ArticleId IdType="doi">10.1016/j.apmr.2009.01.011</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

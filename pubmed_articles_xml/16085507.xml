@@ -1,0 +1,140 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16085507</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>01</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1462-2203</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>7</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Nicotine &amp; tobacco research : official journal of the Society for Research on Nicotine and Tobacco</Title>
+<ISOAbbreviation>Nicotine Tob. Res.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Steady-state nicotine plasma levels following use of four different types of Swedish snus compared with 2-mg Nicorette chewing gum: a crossover study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>397-403</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The present study evaluated nicotine plasma levels achieved following 1 day's regular use of four commonly used brands of Swedish portion snus and 2-mg Nicorette chewing gum. The study also estimated the amount of sodium chloride extracted from each snus sachet to identify potential risks for exacerbation of heart failure and hypertension with the use of Swedish snus. Extracted dose of nicotine, area under the venous plasma concentration-time curve (AUC), maximum plasma nicotine concentration (Cmax) of the last (12th) dosing interval, and the Cmax and AUC ratios versus Nicorette were calculated. Relative bioavailable dose was calculated using AUC of 2-mg Nicorette gum as the reference. The mean extracted nicotine doses were 2.74+/-0.80, 1.55+/-0.68, 2.00+/-0.56, and 1.08+/-0.94 mg/sachet for General, Catch Licorice, Catch Mini, and Catch Dry Mini snus, respectively. The approximate bioavailable dose of nicotine from snus was 40%-60% of the extracted dose. The steady-state nicotine plasma concentration-time curve for the weakest brand, Catch Dry Mini portion snus, did not differ significantly from that of the 2-mg Nicorette gum. The AUC and Cmax for Catch Licorice 1 g and Catch Mini 0.5 g portion snus were twice those for the 2-mg Nicorette gum; for the strongest brand, General, these values were 2(1/2) times those for Nicorette gum. The differences in AUC and Cmax versus the 2-mg Nicorette gum were statistically significant (p=.020). Nicotine plasma levels with General portion snus were sustained at higher levels than current nicotine replacement therapy products, peaking at 29.0+/-8.5 ng/ml, and more closely mimicking cigarette smokers' nicotine plasma levels. The risks of aggravation of heart failure and hypertension with respect to increased salt load from the use of snus appeared to be negligible.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Lunell</LastName>
+<ForeName>Erik</ForeName>
+<Initials>E</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Clinical Pharmacology, University Hospital, Lund, Sweden.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lunell</LastName>
+<ForeName>Marianne</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Nicotine Tob Res</MedlineTA>
+<NlmUniqueID>9815751</NlmUniqueID>
+<ISSNLinking>1462-2203</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D002638">Chewing Gum</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>6M3C89ZY6R</RegistryNumber>
+<NameOfSubstance UI="D009538">Nicotine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019540">Area Under Curve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001682">Biological Availability</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D002638">Chewing Gum</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018592">Cross-Over Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009538">Nicotine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000493">pharmacokinetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014030">Tobacco, Smokeless</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>8</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>1</Month>
+<Day>24</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>8</Month>
+<Day>9</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16085507</ArticleId>
+<ArticleId IdType="pii">J2312K3410272757</ArticleId>
+<ArticleId IdType="doi">10.1080/14622200500125468</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

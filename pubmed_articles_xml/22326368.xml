@@ -1,0 +1,155 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">22326368</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>07</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>02</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1872-9800</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>70</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine</Title>
+<ISOAbbreviation>Appl Radiat Isot</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Selenium-72 formation via nat Br(p,x) induced by 100 MeV protons: steps towards a novel 72Se/72As generator system.</ArticleTitle>
+<Pagination>
+<MedlinePgn>595-601</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.apradiso.2012.01.018</ELocationID>
+<Abstract>
+<AbstractText>Selenium-72 production by the proton bombardment of a natural NaBr target has been successfully demonstrated at the Los Alamos National Laboratory Isotope Production Facility (LANL-IPF). Arsenic-72 (half life 26 h) is a medium-lived positron emitting radionuclide with the major advantage of being formed as the daughter of another "generator" radioisotope (Se-72, 8.5 d). A (72)Se/(72)As generator would be the preferred mechanism for clinical utilization of (72)As for positron emission tomography (PET). No portable (72)Se/(72)As generator system has been demonstrated for convenient, repeated (72)As elution ("milking"). In this work, we describe (72)Se production and recovery from irradiated NaBr targets using a 100 MeV proton beam. We also introduce an (72)As generator principle based on (72)Se chelation followed by liquid-liquid extraction, which will be transferred to a solid-phase sorption/elution system.</AbstractText>
+<CopyrightInformation>Copyright Â© 2012 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ballard</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+<AffiliationInfo>
+<Affiliation>Chemistry Division, Los Alamos National Laboratory, Los Alamos, NM 87545, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wycoff</LastName>
+<ForeName>D</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Birnbaum</LastName>
+<ForeName>E R</ForeName>
+<Initials>ER</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>John</LastName>
+<ForeName>K D</ForeName>
+<Initials>KD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lenz</LastName>
+<ForeName>J W</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jurisson</LastName>
+<ForeName>S S</ForeName>
+<Initials>SS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cutler</LastName>
+<ForeName>C S</ForeName>
+<Initials>CS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nortier</LastName>
+<ForeName>F M</ForeName>
+<Initials>FM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Taylor</LastName>
+<ForeName>W A</ForeName>
+<Initials>WA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fassbender</LastName>
+<ForeName>M E</ForeName>
+<Initials>ME</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>02</Month>
+<Day>01</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Appl Radiat Isot</MedlineTA>
+<NlmUniqueID>9306253</NlmUniqueID>
+<ISSNLinking>0969-8043</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>11</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2012</Year>
+<Month>01</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2012</Year>
+<Month>01</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>14</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22326368</ArticleId>
+<ArticleId IdType="pii">S0969-8043(12)00019-X</ArticleId>
+<ArticleId IdType="doi">10.1016/j.apradiso.2012.01.018</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

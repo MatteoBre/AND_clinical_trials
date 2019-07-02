@@ -1,0 +1,117 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22938980</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>12</Month>
+<Day>18</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>03</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0072-9752</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>107</Volume>
+<PubDate>
+<Year>2012</Year>
+</PubDate>
+</JournalIssue>
+<Title>Handbook of clinical neurology</Title>
+<ISOAbbreviation>Handb Clin Neurol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Electroencephalography and video-electroencephalography.</ArticleTitle>
+<Pagination>
+<MedlinePgn>323-45</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/B978-0-444-52898-8.00020-3</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gil-Nagel</LastName>
+<ForeName>Antonio</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Neurology, Hospital Ruber Internacional, Madrid, Spain.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Abou-Khalil</LastName>
+<ForeName>Bassel</ForeName>
+<Initials>B</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>Handb Clin Neurol</MedlineTA>
+<NlmUniqueID>0166161</NlmUniqueID>
+<ISSNLinking>0072-9752</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D001931">Brain Mapping</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058256">Brain Waves</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004566">Electrodes</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004569">Electroencephalography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004827">Epilepsy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014741">Video Recording</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>9</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>12</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22938980</ArticleId>
+<ArticleId IdType="pii">B978-0-444-52898-8.00020-3</ArticleId>
+<ArticleId IdType="doi">10.1016/B978-0-444-52898-8.00020-3</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

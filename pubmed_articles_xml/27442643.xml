@@ -1,0 +1,314 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27442643</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>08</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>02</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1536-5964</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>95</Volume>
+<Issue>29</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Medicine</Title>
+<ISOAbbreviation>Medicine (Baltimore)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Influence of body mass index on the long-term outcomes of patients with esophageal squamous cell carcinoma who underwent esophagectomy as a primary treatment: A 10-year medical experience.</ArticleTitle>
+<Pagination>
+<MedlinePgn>e4204</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1097/MD.0000000000004204</ELocationID>
+<Abstract>
+<AbstractText>We explored the influence of body mass index (BMI) on long-term outcomes in patients with esophageal squamous cell carcinoma (ESCC) who underwent esophagectomy as a primary treatment. BMI is a risk factor for development of esophageal cancer. However, the details of the relationship between BMI and cancer prognosis remains unclear. Patients who underwent esophagectomy as an initial treatment in 2000 to 2009 period were included. The patients were divided into 3 groups according to Asian-specific BMI cut-offs. The associations between BMI and long-term outcomes were explored. This study included 1082 ESCC patients between 2000 and 2009; all the patients underwent esophagectomy. The median overall survival (OS) of the BMI &lt;18.5, 18.5 ≤ BMI &lt;23, and BMI ≥23 kg/m groups were 21, 24, and 29.5 months, respectively; they differed significantly (P = 0.005). The 5-year survival rates of the 3 groups were 24.6%, 30.4%, and 35.3%, respectively. Multivariate analysis showed that lower BMI was an independent risk factor for a shorter OS (18.5 ≤ BMI &lt;23 kg/m vs. BMI ≥23 kg/m, hazard ratio [HR] = 1.18; 95% confidence interval [CI] = 1.00-1.40, P = 0.054, BMI &lt;18.5 kg/m vs. BMI ≥23 kg/m, HR = 1.38; 95% CI = 1.09-1.75, P = 0.007). The better OS of the BMI ≥23 kg/m patients remained statistically significant in never-smoking patients (P &lt; 0.05). In conclusion, patients with BMIs ≥23 kg/m experienced better OS, and multivariate analysis further indicated that BMI ≥23 kg/m was an independent predictor of survival. When stratified by smoking status, BMI ≥23 kg/m was still a factor in better OS among never smokers. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ji</LastName>
+<ForeName>Wenhao</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>aZhejiang Key Laboratory of Radiation Oncology bDepartment of surgery cDepartment of thoracic surgery, Zhejiang Cancer Research Institute, Zhejiang Cancer Hospital, Hangzhou, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zheng</LastName>
+<ForeName>Weihui</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Bo</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cao</LastName>
+<ForeName>Caineng</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mao</LastName>
+<ForeName>Weimin</ForeName>
+<Initials>W</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Medicine (Baltimore)</MedlineTA>
+<NlmUniqueID>2985248R</NlmUniqueID>
+<ISSNLinking>0025-7974</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015992">Body Mass Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002294">Carcinoma, Squamous Cell</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004938">Esophageal Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077277">Esophageal Squamous Cell Carcinoma</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D016629">Esophagectomy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012907">Smoking</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<CoiStatement>The authors report no conflict of interest.</CoiStatement>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>2</Month>
+<Day>9</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27442643</ArticleId>
+<ArticleId IdType="doi">10.1097/MD.0000000000004204</ArticleId>
+<ArticleId IdType="pii">00005792-201607190-00013</ArticleId>
+<ArticleId IdType="pmc">PMC5265760</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Cancer Res Clin Oncol. 2015 May;141(5):941-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25428458</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>World J Surg. 2010 Nov;34(11):2621-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20596708</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2013 Feb;108(2):200-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23247577</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastrointest Surg. 2013 Feb;17(2):218-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22972011</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2010 Dec 2;363(23):2211-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21121834</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg Oncol. 2012 Mar;19(3):766-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21979112</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur Urol. 2011 Jun;59(6):923-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21295907</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Jpn J Clin Oncol. 2013 Feb;43(2):146-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23264675</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2010 Dec 15;116(24):5619-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21136578</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2008 Apr 1;122(7):1604-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18059032</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2008 Sep 15;123(6):1422-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18546259</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg Oncol. 2013 Nov;20(12):3984-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23797753</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>CA Cancer J Clin. 2015 Mar;65(2):87-108</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25651787</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dis Esophagus. 2013 Aug;26(6):623-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23317016</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2012 Apr 1;118(7):1901-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21960146</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2012 May 31;366(22):2074-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22646630</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dis Esophagus. 2012 Sep-Oct;25(7):614-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22150920</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Thorac Dis. 2015 Mar;7(3):337-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25922711</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Natl Cancer Inst. 2008 Aug 20;100(16):1184-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18695138</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Surg Oncol. 2010 Jul;17(7):1721-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20369299</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2009 Mar 28;373(9669):1083-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19299006</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>World J Surg. 2012 Aug;36(8):1785-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22526035</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Surg. 2000 May;190(5):562-72; discussion 572-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10801023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Cancer. 2013 Nov 26;109(11):2894-903</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24201750</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

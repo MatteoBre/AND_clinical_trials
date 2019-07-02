@@ -1,0 +1,175 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">10471815</PMID>
+<DateCompleted>
+<Year>1999</Year>
+<Month>10</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>06</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0014-5793</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>457</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>1999</Year>
+<Month>Sep</Month>
+<Day>03</Day>
+</PubDate>
+</JournalIssue>
+<Title>FEBS letters</Title>
+<ISOAbbreviation>FEBS Lett.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>High level expression of Thermococcus litoralis 4-alpha-glucanotransferase in a soluble form in Escherichia coli with a novel expression system involving minor arginine tRNAs and GroELS.</ArticleTitle>
+<Pagination>
+<MedlinePgn>393-6</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The Thermococcus litoralis 4-alpha-glucanotransferase (GTase) gene has a high content of AGA and AGG codons for arginine, which are extremely rare in Escherichia coli. Expression of the GTase gene in E. coli resulted in low protein production and the accumulation of inclusion bodies. However, simultaneous expression of GTase with tRNA(AGA), tRNA(AGG) and GroELS affected both the production and solubility of GTase, and production of soluble GTase increasing about 5-fold. This new E. coli expression system should be applicable to the expression of not only archaeal but also eukaryotic genes, which usually contain a large number of AGA and AGG codons.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Imamura</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biotechnology, The University of Tokyo, Yayoi, Bunkyo-ku, Tokyo, Japan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jeon</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wakagi</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matsuzawa</LastName>
+<ForeName>H</ForeName>
+<Initials>H</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>FEBS Lett</MedlineTA>
+<NlmUniqueID>0155157</NlmUniqueID>
+<ISSNLinking>0014-5793</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018834">Chaperonin 60</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D003062">Codon</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D006004">Glycogen Debranching Enzyme System</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012347">RNA, Transfer, Arg</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011994">Recombinant Proteins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.4.1.25</RegistryNumber>
+<NameOfSubstance UI="C020569">4 alpha-glucanotransferase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018834">Chaperonin 60</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003062">Codon</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004926">Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015964">Gene Expression Regulation, Bacterial</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006004">Glycogen Debranching Enzyme System</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015202">Protein Engineering</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012347">RNA, Transfer, Arg</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011994">Recombinant Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018741">Replication Origin</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012995">Solubility</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019712">Thermococcus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000201">enzymology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1999</Year>
+<Month>9</Month>
+<Day>3</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1999</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1999</Year>
+<Month>9</Month>
+<Day>3</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10471815</ArticleId>
+<ArticleId IdType="pii">S0014579399010819</ArticleId>
+<ArticleId IdType="doi">10.1016/s0014-5793(99)01081-9</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,187 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">15504729</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>03</Month>
+<Day>22</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>11</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0021-9258</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>280</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Feb</Month>
+<Day>04</Day>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of biological chemistry</Title>
+<ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Loss of caveolin-1 polarity impedes endothelial cell polarization and directional movement.</ArticleTitle>
+<Pagination>
+<MedlinePgn>3541-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The ability of a cell to move requires the asymmetrical organization of cellular activities. To investigate polarized cellular activity in moving endothelial cells, human endothelial cells were incubated in a Dunn chamber to allow migration toward vascular endothelial growth factor. Immunofluorescent staining with a specific antibody against caveolin-1 revealed that caveolin-1 was concentrated at the rear of moving cells. Similarly, monolayer scraping to induce random cell walk resulted in relocation of caveolin-1 to the cell rear. These results suggest that posterior polarization of caveolin-1 is a common feature both for chemotaxis and chemokinesis. Dual immunofluorescent labeling showed that, during cell spreading, caveolin-1 was compacted in the cell center and excluded from nascent focal contacts along the circular lamellipodium, as revealed by integrin beta1 and FAK staining. When cells were migrating, integrin beta1 and FAK appeared at polarized lamellipodia, whereas caveolin-1 was found at the posterior of moving cells. Notably, wherever caveolin-1 was polarized, there was a conspicuous absence of lamellipod protrusion. Transmission electron microscopy showed that caveolae, similar to their marker caveolin-1, were located at the cell center during cell spreading or at the cell rear during cell migration. In contrast to its unphosphorylated form, tyrosine-phosphorylated caveolin-1, upon fibronectin stimulation, was associated with the focal complex molecule phosphopaxillin along the lamellipodia of moving cells. Thus, unphosphorylated and phosphorylated caveolin-1 were located at opposite poles during cell migration. Importantly, loss of caveolin-1 polarity by targeted down-regulation of the protein prevented cell polarization and directional movement. Our present results suggest a potential role of caveolin polarity in lamellipod extension and cell migration.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Beardsley</LastName>
+<ForeName>Andrew</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Mary Babb Randolph Cancer Center and Departments of Physiology and Pharmacology, and Obstetrics and Gynecology, West Virginia University, Morgantown, West Virginia 26506, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fang</LastName>
+<ForeName>Kai</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mertz</LastName>
+<ForeName>Heather</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Castranova</LastName>
+<ForeName>Vince</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Friend</LastName>
+<ForeName>Sherri</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Liu</LastName>
+<ForeName>Jun</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2004</Year>
+<Month>10</Month>
+<Day>25</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Biol Chem</MedlineTA>
+<NlmUniqueID>2985121R</NlmUniqueID>
+<ISSNLinking>0021-9258</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C495540">CAV1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051242">Caveolin 1</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D022461">Caveolins</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D034741">RNA, Small Interfering</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D021941">Caveolae</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051242">Caveolin 1</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D022461">Caveolins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002465">Cell Movement</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016764">Cell Polarity</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004730">Endothelium, Vascular</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D022001">Focal Adhesions</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011554">Pseudopodia</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D034741">RNA, Small Interfering</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014471">Umbilical Veins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2004</Year>
+<Month>10</Month>
+<Day>27</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>3</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2004</Year>
+<Month>10</Month>
+<Day>27</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15504729</ArticleId>
+<ArticleId IdType="pii">M409040200</ArticleId>
+<ArticleId IdType="doi">10.1074/jbc.M409040200</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

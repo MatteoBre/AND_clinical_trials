@@ -1,0 +1,226 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17003454</PMID>
+<DateCompleted>
+<Year>2006</Year>
+<Month>10</Month>
+<Day>24</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0146-0404</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>47</Volume>
+<Issue>10</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Oct</Month>
+</PubDate>
+</JournalIssue>
+<Title>Investigative ophthalmology &amp; visual science</Title>
+<ISOAbbreviation>Invest. Ophthalmol. Vis. Sci.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Intravitreal bevacizumab for choroidal neovascularization caused by AMD (IBeNA Study): results of a phase 1 dose-escalation study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>4569-78</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To evaluate the safety of three dose regimens of intravitreal bevacizumab (Avastin; Genentech, Inc., South San Francisco, CA) for the management of choroidal neovascularization (CNV) associated with age-related macular degeneration (AMD).</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">This was a prospective, nonrandomized open-label study of 45 patients with AMD and subfoveal CNV. A standardized ophthalmic evaluation was performed at baseline and at weeks 1, 6, and 12 (+/-1) after a single intravitreous injection (1.0, 1.5, or 2.0 mg) of bevacizumab. Main outcomes measures include clinical evidence of toxicity and complications. Changes in best corrected visual acuity (BCVA) and lesion characteristics-macular morphology were also evaluated.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The most common adverse events were conjunctival hyperemia and subconjunctival hemorrhage at the injection site. Mean BCVA improved from baseline throughout the study (P &lt; 0.001; ANOVA with Geisser-Greenhouse correction). Compared with baseline, BCVA was improved at week 1 (P = 0.001), week 6 (P &lt; 0.001), and week 12 (P = 0.001; Dunnett test). At week 12, the lesion area and CNV area were stable or decreased in 79.1% (34/43) and in 74.4% (32/43) of patients, respectively, with no deterioration of macular architecture observed in 83.7% (36/43). A dose-related change in BCVA (in Early Treatment Diabetic Retinopathy Study [ETDRS] lines) was observed at week 12 (1.0 mg [+0.3 line]; 1.5 mg [+0.6 line]; and 2.0 mg [+1.0 line]; P = 0.02; nonparametric test for ordered groups).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A single intravitreal bevacizumab injection was well tolerated and, except for minor transient local adverse events, no other adverse events were observed. In the short-term, treatment was associated with vision stabilization or improvement and no unfavorable neovascular lesion-macular changes in most patients.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Costa</LastName>
+<ForeName>Rogério A</ForeName>
+<Initials>RA</Initials>
+<AffiliationInfo>
+<Affiliation>U.D.A.T. Macular Imaging and Treatment Division, Hospital de Olhos de Araraquara, Araraquara, SP, Brazil. roger.retina@globo.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jorge</LastName>
+<ForeName>Rodrigo</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Calucci</LastName>
+<ForeName>Daniela</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cardillo</LastName>
+<ForeName>José A</ForeName>
+<Initials>JA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Melo</LastName>
+<ForeName>Luiz A S</ForeName>
+<Initials>LA</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scott</LastName>
+<ForeName>Ingrid U</ForeName>
+<Initials>IU</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D017426">Clinical Trial, Phase I</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Invest Ophthalmol Vis Sci</MedlineTA>
+<NlmUniqueID>7703701</NlmUniqueID>
+<ISSNLinking>0146-0404</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D020533">Angiogenesis Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D061067">Antibodies, Monoclonal, Humanized</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C467484">VEGFA protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>2S9ZZM9Q9V</RegistryNumber>
+<NameOfSubstance UI="D000068258">Bevacizumab</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020533">Angiogenesis Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000911">Antibodies, Monoclonal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061067">Antibodies, Monoclonal, Humanized</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000068258">Bevacizumab</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020256">Choroidal Neovascularization</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005451">Fluorescein Angiography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007267">Injections</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008268">Macular Degeneration</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D041623">Tomography, Optical Coherence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D042461">Vascular Endothelial Growth Factor A</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014792">Visual Acuity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014822">Vitreous Body</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>9</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2006</Year>
+<Month>10</Month>
+<Day>25</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>9</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17003454</ArticleId>
+<ArticleId IdType="pii">47/10/4569</ArticleId>
+<ArticleId IdType="doi">10.1167/iovs.06-0433</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

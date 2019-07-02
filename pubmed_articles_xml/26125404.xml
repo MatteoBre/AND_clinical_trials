@@ -1,0 +1,142 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">26125404</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>09</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>10</Month>
+<Day>23</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1539-4794</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>40</Volume>
+<Issue>13</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Jul</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Optics letters</Title>
+<ISOAbbreviation>Opt Lett</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Electroluminescence of GeSn/Ge MQW LEDs on Si substrate.</ArticleTitle>
+<Pagination>
+<MedlinePgn>3209-12</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1364/OL.40.003209</ELocationID>
+<Abstract>
+<AbstractText>Multi-quantum well light-emitting diodes, consisting of ten alternating GeSn/Ge-layers, were grown by molecular beam epitaxy on Si. The Ge barriers were 10 nm thick, and the GeSn wells were grown with 7% Sn and thicknesses between 6 and 12 nm. The electroluminescence spectra measured at 300 and 80 K yield a broad and intensive luminescence band. Deconvolution revealed three major lines produced by the GeSn wells that can be interpreted in terms of quantum confinement. We interpret that the three lines represent two direct lines, formed by transitions with the light and heavy hole band, respectively, and an indirect line. Biaxial compressive strain causes a splitting of light and heavy holes in the GeSn wells. This interpretation is supported by an effective mass band structure calculation. </AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Schwartz</LastName>
+<ForeName>Bernhard</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Oehme</LastName>
+<ForeName>Michael</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kostecki</LastName>
+<ForeName>Konrad</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Widmann</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gollhofer</LastName>
+<ForeName>Martin</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Koerner</LastName>
+<ForeName>Roman</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bechler</LastName>
+<ForeName>Stefan</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Fischer</LastName>
+<ForeName>Inga A</ForeName>
+<Initials>IA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wendav</LastName>
+<ForeName>Torsten</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kasper</LastName>
+<ForeName>Erich</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Schulze</LastName>
+<ForeName>Jörg</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kittler</LastName>
+<ForeName>Martin</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Opt Lett</MedlineTA>
+<NlmUniqueID>7708433</NlmUniqueID>
+<ISSNLinking>0146-9592</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26125404</ArticleId>
+<ArticleId IdType="pii">321326</ArticleId>
+<ArticleId IdType="doi">10.1364/OL.40.003209</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

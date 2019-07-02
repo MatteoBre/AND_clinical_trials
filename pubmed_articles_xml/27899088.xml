@@ -1,0 +1,445 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27899088</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>09</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1471-2407</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>16</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>11</Month>
+<Day>30</Day>
+</PubDate>
+</JournalIssue>
+<Title>BMC cancer</Title>
+<ISOAbbreviation>BMC Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Alternative splicing of estrogen receptor alpha in hepatocellular carcinoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>926</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND">The role of estrogen receptor alpha (ERa), estrogen receptor beta (ERb) and ERa36 signaling in hepatocellular carcinoma (HCC) is not fully addressed.</AbstractText>
+<AbstractText Label="METHODS">In this study, three cohorts were included: (i) primary HCC patients (N = 76, cohort P), (ii) colorectal liver metastasis (mCRC) (N = 32, cohort S), and (iii) HCC from The Cancer Genome Atlas (TCGA) (N = 121). The levels of ERa36 and wtER36 were measured and their correlation with clinicopathologic features was determined.</AbstractText>
+<AbstractText Label="RESULTS">WtERa was downregulated and that ERa36 was upregulated in tumor tissues in both cohort P and TCGA data set. ERa36 was downregulated in tumor tissues in cohort S. In cohort P, wtERa was differentially expressed in gender (P &lt; 0.000), age (P = 0.004), tumor number (P = 0.043), tumor size (P = 0.002), intrahepatic recurrence (P = 0.054). ERa36 was unequally expressed in different non-tumor liver status (P = 0.040). WtERa was negatively associated with overall survival (OS) and disease free survival (DFS) in cohort P. Compared with non-tumor tissues, the expression of ERa36 was increased in primary HCC but decreased in secondary HCC, showing opposite expression patterns of ERa36 between primary HCC and secondary HCC.</AbstractText>
+<AbstractText Label="CONCLUSIONS">Primary HCC is associated with the decreased WtERa but increased ERa36. The expression pattern of ERa36 is different between primary HCC and secondary HCC, as the former with the increased ERa36 but the latter with the decreased ERa36. Therefore, the expression of ERa36 may be used to differentiate the primary HCC and the secondary one.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Jian</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, New Territories, Hong Kong, Special Administrative Region of China.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Division of Gastrointestinal Surgery &amp; Gastric Cancer Center, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ren</LastName>
+<ForeName>Jianwei</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, New Territories, Hong Kong, Special Administrative Region of China.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Shenzhen Research Institute, the Chinese University of Hong Kong, Shenzhen, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wei</LastName>
+<ForeName>Jiamin</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>The Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chong</LastName>
+<ForeName>Charing C N</ForeName>
+<Initials>CC</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, New Territories, Hong Kong, Special Administrative Region of China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yang</LastName>
+<ForeName>Dongjie</ForeName>
+<Initials>D</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Gastrointestinal Surgery &amp; Gastric Cancer Center, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>He</LastName>
+<ForeName>Yulong</ForeName>
+<Initials>Y</Initials>
+<AffiliationInfo>
+<Affiliation>Division of Gastrointestinal Surgery &amp; Gastric Cancer Center, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Chen</LastName>
+<ForeName>George G</ForeName>
+<Initials>GG</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, New Territories, Hong Kong, Special Administrative Region of China. gchen@cuhk.edu.hk.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>Shenzhen Research Institute, the Chinese University of Hong Kong, Shenzhen, China. gchen@cuhk.edu.hk.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lai</LastName>
+<ForeName>Paul B S</ForeName>
+<Initials>PB</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, New Territories, Hong Kong, Special Administrative Region of China. paullai@surgery.cuhk.edu.hk.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>BMC Cancer</MedlineTA>
+<NlmUniqueID>100967800</NlmUniqueID>
+<ISSNLinking>1471-2407</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D047628">Estrogen Receptor alpha</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C506487">estrogen receptor alpha, human</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017398">Alternative Splicing</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014408">Biomarkers, Tumor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006528">Carcinoma, Hepatocellular</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015179">Colorectal Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003131">Combined Modality Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D047628">Estrogen Receptor alpha</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007124">Immunoenzyme Techniques</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008113">Liver Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000556">secondary</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008207">Lymphatic Metastasis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060787">Neoplasm Grading</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009361">Neoplasm Invasiveness</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009364">Neoplasm Recurrence, Local</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="Y">Estrogen receptors</Keyword>
+<Keyword MajorTopicYN="Y">HCC survival</Keyword>
+<Keyword MajorTopicYN="Y">Hepatocellular carcinoma</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>28</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2016</Year>
+<Month>11</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>1</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>12</Month>
+<Day>3</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>9</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27899088</ArticleId>
+<ArticleId IdType="doi">10.1186/s12885-016-2928-3</ArticleId>
+<ArticleId IdType="pii">10.1186/s12885-016-2928-3</ArticleId>
+<ArticleId IdType="pmc">PMC5129602</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Trends Endocrinol Metab. 2003 Apr;14(3):124-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12670738</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Transl Med. 2014 Apr 08;12:93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24708807</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2000 Aug;32(2):233-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10915729</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Physiol Biochem. 2013;31(6):833-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23816933</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Endocrinol. 2002 Jul 31;193(1-2):65-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12161003</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2003 Feb 1;21(3):441-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12560432</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 1986 Jan 1;57(1):87-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3000573</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Endocrinol. 2009 Oct;23(10):1544-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19574448</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Steroid Biochem Mol Biol. 2014 Oct;144 Pt B:417-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25158023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Cancer. 2015 Feb 15;136(4):761-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24975878</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Oncol. 2013 Jul;43(1):88-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23695389</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem Biophys Res Commun. 2005 Nov 4;336(4):1023-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16165085</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hepatol. 1995 Dec;23(6):712-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8750171</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>OMICS. 2011 May;15(5):313-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21348637</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2002 Nov;36(5):1221-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12395333</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 2009 Feb;136(2):683-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19027010</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gastroenterol Hepatol. 2015 Aug;30(8):1237-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25708186</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Exp Biol Med (Maywood). 2014 Jun 17;239(7):883-890</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24939822</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dig Dis Sci. 1991 Sep;36(9):1299-302</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1654242</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2016 Apr 19;11(4):e0153863</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27093553</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Cancer Res. 2011 Sep 1;17(17):5593-603</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21750200</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Bioinformatics. 2012 Sep 15;28(18):2385-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22820202</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer. 2003 Aug 1;98(3):529-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12879470</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2015 Jan 2;34(1):1-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24441040</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Transl Med. 2014 Jan 21;12:16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24447535</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Onco Targets Ther. 2014 Aug 30;7:1525-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25210466</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dig Dis Sci. 1991 Sep;36(9):1303-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1654243</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2005 Jul 1;23(19):4338-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15994145</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,155 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27091746</PMID>
+<DateCompleted>
+<Year>2018</Year>
+<Month>02</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1941-2452</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>31</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Nutrition in clinical practice : official publication of the American Society for Parenteral and Enteral Nutrition</Title>
+<ISOAbbreviation>Nutr Clin Pract</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Increased Force Required With Proposed Standardized Enteral Feed Connector in Blenderized Tube Feeding.</ArticleTitle>
+<Pagination>
+<MedlinePgn>795-798</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1177/0884533616639126</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Enteral tube misconnections resulting in enteral nutrition being provided into the wrong port or tube has been increasingly reported, prompting the development of new international design standards for medical device tubing connectors.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Four sample enteral feeds with varying viscosity were placed into a syringe with either the current feeding connector or a prototype ENFit connector. The force (N) required to compress the syringe was gathered through a dynamic mechanical analyzer (RSA G2 Solids Analyzer; TA Instruments).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The force needed to compress the syringe was lowest with a fiber-containing formula (Jevity 1 Cal, Abbott Nutrition, Columbus, OH), and a decline in force was detected with the ENFit compared with the current connector (8.61 ± 0.27 N vs 9.62 ± 0.23 N, P &lt; .001). A commercial blenderized formula (Liquid Hope, Functional Formularies, Centerville, OH) required slightly higher force with the ENFit than the current connector (16.82 ± 1.23 N vs 14.5 ± 0.03 N, P &lt; .001). Another commercial blenderized formula (Salmon, Oats, &amp; Squash, Real Food Blends, Chesterton, IN) and a homemade blenderized recipe required significantly more force with the ENFit than the current tube (34.12 ± 0.95 N vs 22.91 ± 0.06 N, P &lt; .001; 34.95 ± 0.06 N vs 27.72 ± 0.07 N, P &lt; .001, respectively).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">ENFit adapter implementation is the largest change to home enteral nutrition in more than a decade. Additional rigorous testing is required to ensure that the needs of all patients receiving home enteral nutrition are met prior to widespread adoption.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Mundi</LastName>
+<ForeName>Manpreet S</ForeName>
+<Initials>MS</Initials>
+<AffiliationInfo>
+<Affiliation>1 Division of Endocrinology, Diabetes, Metabolism and Nutrition, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Epp</LastName>
+<ForeName>Lisa</ForeName>
+<Initials>L</Initials>
+<AffiliationInfo>
+<Affiliation>1 Division of Endocrinology, Diabetes, Metabolism and Nutrition, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hurt</LastName>
+<ForeName>Ryan T</ForeName>
+<Initials>RT</Initials>
+<AffiliationInfo>
+<Affiliation>1 Division of Endocrinology, Diabetes, Metabolism and Nutrition, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>2 Division of General Internal Medicine, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>3 Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, Minnesota, USA.</Affiliation>
+</AffiliationInfo>
+<AffiliationInfo>
+<Affiliation>4 Division of Gastroenterology, Hepatology and Nutrition, University of Louisville, Kentucky, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2016</Year>
+<Month>07</Month>
+<Day>10</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Nutr Clin Pract</MedlineTA>
+<NlmUniqueID>8606733</NlmUniqueID>
+<ISSNLinking>0884-5336</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CitationSubset>N</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D004750">Enteral Nutrition</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005526">Food, Formulated</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007441">Intubation, Gastrointestinal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000295">instrumentation</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009752">Nutritional Status</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011312">Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014783">Viscosity</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">ENFit</Keyword>
+<Keyword MajorTopicYN="N">enteral nutrition</Keyword>
+<Keyword MajorTopicYN="N">enteral nutrition formulas</Keyword>
+<Keyword MajorTopicYN="N">home nutrition support</Keyword>
+<Keyword MajorTopicYN="N">viscosity</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2018</Year>
+<Month>2</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>4</Month>
+<Day>20</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27091746</ArticleId>
+<ArticleId IdType="pii">0884533616639126</ArticleId>
+<ArticleId IdType="doi">10.1177/0884533616639126</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

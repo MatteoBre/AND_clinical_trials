@@ -1,0 +1,214 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">20926184</PMID>
+<DateCompleted>
+<Year>2011</Year>
+<Month>03</Month>
+<Day>10</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1873-3336</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>185</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2011</Year>
+<Month>Jan</Month>
+<Day>15</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of hazardous materials</Title>
+<ISOAbbreviation>J. Hazard. Mater.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Screening for novel antibacterial agents based on the activities of compounds on metabolism of Escherichia coli: a microcalorimetric study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>346-52</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jhazmat.2010.09.040</ELocationID>
+<Abstract>
+<AbstractText>The emergence and prevalence of resistance to antibacterial agents is a pressing threaten for human health. Screening for novel antibacterial agents targeting not only multiplying but also non-multiplying bacteria using appropriate approach is in great demand. In this study, the microcalorimetric method was used to measure the metabolic curves of E. coli growth affected by chenodeoxycholic acid (CDCA) and ursodeoxycholic acid (UDCA). By analyzing the metabolic curves and thermo- kinetic/dynamic parameters, the antibacterial activities of CDCA and UDCA on multiplying and non-multiplying bacteria of Escherichia coli (E. coli) were evaluated. The results illustrated that, for the multiplying metabolism of E. coli, the two compounds controlled the anaerobic fermentative, with IC(50(1)) (half-inhibitory concentration) of 566.2 μg/mL for CDCA and 573.6 μg/mL for UDCA, respectively, but had no effective action on aerobic metabolism of the bacteria. The action of the two compounds on the non-multiplying metabolism was studied by taking the heat output of E. coli in the stationary phase as the additive guideline of the activity. The values of IC(50(2)) were 543.4 and 547.5 μg/mL, and MSC(50) (minimum stationary-cidal concentration 50) were 532.6 and 537.3 μg/mL for CDCA and UDCA, respectively. So, CDCA had more powerful antibacterial activity on E. coli than UDCA either for multiplying bacteria or non-multiplying metabolism, and they both showed stronger activities on non-multiplying metabolism than on multiplying metabolism of the bacteria. The microcalorimetric method should be strongly suggested in screening novel antibacterial agents for fighting against multidrug-resistant bacteria.</AbstractText>
+<CopyrightInformation>Crown Copyright © 2010. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kong</LastName>
+<ForeName>Weijun</ForeName>
+<Initials>W</Initials>
+<AffiliationInfo>
+<Affiliation>China Military Institute of Chinese Materia Medica, 302 Military Hospital of China, Beijing 100039, PR China. kongwj302@126.com</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Jiabo</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xing</LastName>
+<ForeName>Xiaoyan</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jin</LastName>
+<ForeName>Cheng</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Xiao</LastName>
+<ForeName>Xiaohe</ForeName>
+<Initials>X</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhao</LastName>
+<ForeName>Yanling</ForeName>
+<Initials>Y</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zhang</LastName>
+<ForeName>Ping</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zang</LastName>
+<ForeName>Qingce</ForeName>
+<Initials>Q</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Li</LastName>
+<ForeName>Zulun</ForeName>
+<Initials>Z</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2010</Year>
+<Month>09</Month>
+<Day>17</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>J Hazard Mater</MedlineTA>
+<NlmUniqueID>9422688</NlmUniqueID>
+<ISSNLinking>0304-3894</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D003470">Culture Media</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012997">Solvents</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0GEI24LG0J</RegistryNumber>
+<NameOfSubstance UI="D002635">Chenodeoxycholic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>724L30Y2QR</RegistryNumber>
+<NameOfSubstance UI="D014580">Ursodeoxycholic Acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000465">Algorithms</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000900">Anti-Bacterial Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002151">Calorimetry</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002635">Chenodeoxycholic Acid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003470">Culture Media</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004926">Escherichia coli</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000254">growth &amp; development</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008826">Microbial Sensitivity Tests</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012997">Solvents</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013816">Thermodynamics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014580">Ursodeoxycholic Acid</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2010</Year>
+<Month>07</Month>
+<Day>29</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2010</Year>
+<Month>09</Month>
+<Day>07</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2010</Year>
+<Month>09</Month>
+<Day>07</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2010</Year>
+<Month>10</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2011</Year>
+<Month>3</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20926184</ArticleId>
+<ArticleId IdType="pii">S0304-3894(10)01199-4</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jhazmat.2010.09.040</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

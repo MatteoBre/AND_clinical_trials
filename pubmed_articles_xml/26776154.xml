@@ -1,0 +1,206 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26776154</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>10</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1557-8615</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>32</Volume>
+<PubDate>
+<Year>2016</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of critical care</Title>
+<ISOAbbreviation>J Crit Care</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Heart rate variability is reduced during acute uncomplicated diverticulitis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>189-95</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jcrc.2015.12.006</ELocationID>
+<ELocationID EIdType="pii" ValidYN="Y">S0883-9441(15)00609-7</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The aim of the present study was to report the trajectory of heart rate variability (HRV) indices during a low-grade acute inflammation and their associations to biomarkers for infection.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Twelve patients with uncomplicated acute diverticulitis completed this observational study, which composed of 3 sessions of continuous HRV recording from 9 PM to 8 AM during ongoing diverticulitis and at complete remission (baseline). The blood samples were collected at each study session measuring C-reactive protein (CRP) and leukocytes.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">This study showed that the trajectories of the HRV indices were decreased both in time and frequency domains during acute diverticulitis compared to baseline. In particular, the indices reflecting the balance of sympathetic and parasympathetic activities were affected: standard deviation of normal-to-normal beats (P = .003), low-frequency power (P &lt; .001), and total power (P = .001). These HRV changes indicate alterations in the autonomic nervous system during acute inflammation. All reductions of mean HRV indices had significant (P &lt; .001) correlations to increased CRP correlations to increased CRP levels during diverticulitis suggesting inflammatory involvement in the observed HRV alterations.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We found substantial HRV depression in relation to acute uncomplicated diverticulitis, and this was associated with the elevated CRP levels.</AbstractText>
+<CopyrightInformation>Copyright © 2015 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Chenxi</ForeName>
+<Initials>C</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Copenhagen, Roskilde and Køge Hospitals, DK-4600, Køge, Denmark; Department of Surgical Gastroenterology, University of Copenhagen, Herlev Hospital, DK-2730, Herlev, Denmark. Electronic address: chenxihuang@msn.com.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Alamili</LastName>
+<ForeName>Mahdi</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Copenhagen, Roskilde and Køge Hospitals, DK-4600, Køge, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosenberg</LastName>
+<ForeName>Jacob</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgical Gastroenterology, University of Copenhagen, Herlev Hospital, DK-2730, Herlev, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gögenur</LastName>
+<ForeName>Ismail</ForeName>
+<Initials>I</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Surgery, University of Copenhagen, Roskilde and Køge Hospitals, DK-4600, Køge, Denmark.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Crit Care</MedlineTA>
+<NlmUniqueID>8610642</NlmUniqueID>
+<ISSNLinking>0883-9441</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9007-41-4</RegistryNumber>
+<NameOfSubstance UI="D002097">C-Reactive Protein</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000208">Acute Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001341">Autonomic Nervous System</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002097">C-Reactive Protein</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004238">Diverticulitis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006339">Heart Rate</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007962">Leukocytes</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000166">cytology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">Autonomic nervous system</Keyword>
+<Keyword MajorTopicYN="N">C-reactive protein</Keyword>
+<Keyword MajorTopicYN="N">Diverticulitis</Keyword>
+<Keyword MajorTopicYN="N">Heart rate</Keyword>
+<Keyword MajorTopicYN="N">Inflammation</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>05</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>09</Month>
+<Day>30</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>12</Month>
+<Day>07</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>19</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26776154</ArticleId>
+<ArticleId IdType="pii">S0883-9441(15)00609-7</ArticleId>
+<ArticleId IdType="doi">10.1016/j.jcrc.2015.12.006</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

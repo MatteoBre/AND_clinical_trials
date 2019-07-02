@@ -1,0 +1,421 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26418181</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>07</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1521-3773</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>54</Volume>
+<Issue>41</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Oct</Month>
+<Day>05</Day>
+</PubDate>
+</JournalIssue>
+<Title>Angewandte Chemie (International ed. in English)</Title>
+<ISOAbbreviation>Angew. Chem. Int. Ed. Engl.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Optogenetic apoptosis: light-triggered cell death.</ArticleTitle>
+<Pagination>
+<MedlinePgn>12064-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/anie.201506346</ELocationID>
+<Abstract>
+<AbstractText>An optogenetic Bax has been designed that facilitates light-induced apoptosis. We demonstrate that mitochondrial recruitment of a genetically encoded light-responsive Bax results in the release of mitochondrial proteins, downstream caspase-3 cleavage, changes in cellular morphology, and ultimately cell death. Mutagenesis of a key phosphorylatable residue or modification of the C-terminus mitigates background (dark) levels of apoptosis that result from Bax overexpression. The mechanism of optogenetic Bax-mediated apoptosis was explored using a series of small molecules known to interfere with various steps in programmed cell death. Optogenetic Bax appears to form a mitochondrial apoptosis-induced channel analogous to that of endogenous Bax. </AbstractText>
+<CopyrightInformation>© 2015 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Hughes</LastName>
+<ForeName>Robert M</ForeName>
+<Initials>RM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, Division of Chemical Biology and Medicinal Chemistry, Department of Pharmacology, University of North Carolina, Chapel Hill, NC 27599 (USA). rhughes@email.unc.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Freeman</LastName>
+<ForeName>David J</ForeName>
+<Initials>DJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, Division of Chemical Biology and Medicinal Chemistry, Department of Pharmacology, University of North Carolina, Chapel Hill, NC 27599 (USA).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lamb</LastName>
+<ForeName>Kelsey N</ForeName>
+<Initials>KN</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, Division of Chemical Biology and Medicinal Chemistry, Department of Pharmacology, University of North Carolina, Chapel Hill, NC 27599 (USA).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pollet</LastName>
+<ForeName>Rebecca M</ForeName>
+<Initials>RM</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, Division of Chemical Biology and Medicinal Chemistry, Department of Pharmacology, University of North Carolina, Chapel Hill, NC 27599 (USA).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Smith</LastName>
+<ForeName>Weston J</ForeName>
+<Initials>WJ</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, Division of Chemical Biology and Medicinal Chemistry, Department of Pharmacology, University of North Carolina, Chapel Hill, NC 27599 (USA).</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lawrence</LastName>
+<ForeName>David S</ForeName>
+<Initials>DS</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Chemistry, Division of Chemical Biology and Medicinal Chemistry, Department of Pharmacology, University of North Carolina, Chapel Hill, NC 27599 (USA). lawrencd@email.unc.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>R01 CA159189</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>R21 NS093617</GrantID>
+<Acronym>NS</Acronym>
+<Agency>NINDS NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>1R01CA159189</GrantID>
+<Acronym>CA</Acronym>
+<Agency>NCI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>25</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Germany</Country>
+<MedlineTA>Angew Chem Int Ed Engl</MedlineTA>
+<NlmUniqueID>0370543</NlmUniqueID>
+<ISSNLinking>1433-7851</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051028">bcl-2-Associated X Protein</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.22.-</RegistryNumber>
+<NameOfSubstance UI="D053148">Caspase 3</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.22.-</RegistryNumber>
+<NameOfSubstance UI="D020169">Caspases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017209">Apoptosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053148">Caspase 3</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020169">Caspases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008027">Light</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008928">Mitochondria</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000528">radiation effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D062308">Optogenetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015202">Protein Engineering</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051028">bcl-2-Associated X Protein</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">apoptosis</Keyword>
+<Keyword MajorTopicYN="N">optogenetics</Keyword>
+<Keyword MajorTopicYN="N">photochemistry</Keyword>
+<Keyword MajorTopicYN="N">protein engineering</Keyword>
+<Keyword MajorTopicYN="N">synthetic biology</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2015</Year>
+<Month>07</Month>
+<Day>09</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2015</Year>
+<Month>08</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>9</Month>
+<Day>30</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>7</Month>
+<Day>28</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26418181</ArticleId>
+<ArticleId IdType="doi">10.1002/anie.201506346</ArticleId>
+<ArticleId IdType="pmc">PMC4819321</ArticleId>
+<ArticleId IdType="mid">NIHMS768888</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Angew Chem Int Ed Engl. 2014 Oct 6;53(41):10904-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25156888</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Cell Biol. 2014 Oct;30:112-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25216352</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Chem Biol. 2014 Jul;10(7):533-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24937071</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Dermatol Clin. 2014 Jul;32(3):415-25, x</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24891062</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Pharmacol. 2014 Apr;171(8):1973-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24117105</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pflugers Arch. 2013 Mar;465(3):397-408</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23417571</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell. 2013 Mar 7;49(5):959-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23375500</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Redox Biol. 2014;2:368-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24563855</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2007 Apr;14(4):785-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17096026</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Mol Cell Biol. 2008 Jan;9(1):47-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18097445</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem J. 2008 Aug 1;413(3):389-404</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18613816</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2008 Aug;15(8):1243-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18437166</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochim Biophys Acta. 2002 Sep 2;1592(1):3-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12191763</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Chem. 2003 Oct 9;46(21):4365-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14521400</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Cell Biol. 2003 Dec;15(6):725-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14644197</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2003 Dec;5(12):1083-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14634665</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biotechniques. 1997 Jun;22(6):1020-1, 1024</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9187742</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biol. 1998 Oct 5;143(1):217-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9763433</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO J. 1999 May 4;18(9):2330-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10228148</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2005 Jun 3;121(5):671-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15935754</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2006 Aug 1;103(31):11573-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16864784</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>ACS Chem Biol. 2009 Jun 19;4(6):409-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19298086</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Methods Mol Biol. 2011;683:465-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21053150</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Methods. 2010 Dec;7(12):973-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21037589</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Biochem Sci. 2011 Dec;36(12):642-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21978892</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Angew Chem Int Ed Engl. 2012 Aug 20;51(34):8446-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22829531</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Chem Rev. 2013 Jan 9;113(1):119-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23256727</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2015 Jul 16;162(2):403-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26165941</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Expert Opin Drug Deliv. 2015 Jan;12(1):85-101</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25247277</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurochem Res. 2014 Dec;39(12):2301-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25322820</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Methods. 2014 Oct;11(10):1012-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25264778</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

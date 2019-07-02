@@ -1,0 +1,1594 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24107659</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>03</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1935-5548</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>36</Volume>
+<Issue>11</Issue>
+<PubDate>
+<Year>2013</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Diabetes care</Title>
+<ISOAbbreviation>Diabetes Care</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Nutrition therapy recommendations for the management of adults with diabetes.</ArticleTitle>
+<Pagination>
+<MedlinePgn>3821-42</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.2337/dc13-2042</ELocationID>
+<Abstract>
+<AbstractText>There is no standard meal plan or eating pattern that works universally for all people with diabetes. In order to be effective, nutrition therapy should be individualized for each patient/client based on his or her individual health goals; personal and cultural preferences; health literacy and numeracy; access to healthful choices; and readiness, willingness, and ability to change. Nutrition interventions should emphasize a variety of minimally processed nutrient dense foods in appropriate portion sizes as part of a healthful eating pattern and provide the individual with diabetes with practical tools for day-to-day food plan and behavior change that can be maintained over the long term.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Evert</LastName>
+<ForeName>Alison B</ForeName>
+<Initials>AB</Initials>
+<AffiliationInfo>
+<Affiliation>Corresponding authors: Alison B. Evert, atevert@u.washington.edu.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boucher</LastName>
+<ForeName>Jackie L</ForeName>
+<Initials>JL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cypress</LastName>
+<ForeName>Marjorie</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dunbar</LastName>
+<ForeName>Stephanie A</ForeName>
+<Initials>SA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Franz</LastName>
+<ForeName>Marion J</ForeName>
+<Initials>MJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mayer-Davis</LastName>
+<ForeName>Elizabeth J</ForeName>
+<Initials>EJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Neumiller</LastName>
+<ForeName>Joshua J</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nwankwo</LastName>
+<ForeName>Robin</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Verdi</LastName>
+<ForeName>Cassandra L</ForeName>
+<Initials>CL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Urbanski</LastName>
+<ForeName>Patti</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yancy</LastName>
+<ForeName>William S</ForeName>
+<Initials>WS</Initials>
+<Suffix>Jr</Suffix>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>American Diabetes Association</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>09</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Diabetes Care</MedlineTA>
+<NlmUniqueID>7805975</NlmUniqueID>
+<ISSNLinking>0149-5992</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Diabetes Care. 2014 May;37(5):e100</RefSource>
+<PMID Version="1">24757233</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Diabetes Care. 2014 May;37(5):e101</RefSource>
+<PMID Version="1">24757234</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Diabetes Care. 2014 May;37(5):e102-3</RefSource>
+<PMID Version="1">24757235</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Nat Rev Endocrinol. 2013 Dec;9(12):687</RefSource>
+<PMID Version="1">24165995</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003920">Diabetes Mellitus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000178">diet therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D044623">Nutrition Therapy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017410">Practice Guidelines as Topic</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>3</Month>
+<Day>21</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24107659</ArticleId>
+<ArticleId IdType="pii">dc13-2042</ArticleId>
+<ArticleId IdType="doi">10.2337/dc13-2042</ArticleId>
+<ArticleId IdType="pmc">PMC3816916</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Alcohol. 2009 Dec;43(8):635-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20004341</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prev Med. 2002 Feb;34(2):252-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11817922</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Nutr. 2010 Sep;104(6):797-802</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20420752</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2009 Jul;109(7):1266-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19562864</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2010 Mar;91(3):808-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20071644</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1993 May 20;328(20):1444-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8479463</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Obes Relat Metab Disord. 2003 Jul;27(7):797-802</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12821964</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2002 Nov;102(11):1621-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12449285</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Food Nutr Res. 2013;57:null</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23467387</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 1999 Dec;22(12):2037-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10587839</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2010 May 25;121(20):2162-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20458012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2013 Jan;36 Suppl 1:S11-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23264422</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2009 Feb;32(2):215-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18957534</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2002 Jan;25(1):148-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11772915</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Geriatr Med. 2004 May;20(2):237-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15182880</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2008 Apr;31(4):655-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18184894</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Prev Med. 2012 Feb;42(2):174-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22261214</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acad Nutr Diet. 2012 Dec;112(12):2014-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23174688</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2012;9:CD007170</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22972104</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2008 Sep;88(3):660-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18779281</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2010 Jan;33(1):109-15</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19808926</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Metab Cardiovasc Dis. 2011 Sep;21(9):740-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20674309</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2008 Jan;31 Suppl 1:S61-78</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18165339</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2013 Feb;97(2):437-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23255568</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Clin Nutr. 2010 Jun;64(6):595-602</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20216558</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Nutr. 2003 Apr;42(2):111-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12638032</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2010 May;33(5):969-76</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20150293</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Epidemiol. 2006 Sep;16(9):688-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16458538</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Apr 4;368(14):1279-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23432189</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2002 Jul;25(7):1159-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12087014</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Diabetes. 2012 Mar;4(1):104-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22018074</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 1995 Sep;95(9):1009-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7657902</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2010;341:c3337</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20647285</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2008 Jan;87(1):114-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18175744</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2009 Jan 26;169(2):163-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19171813</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2004 Jul;27(7):1570-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15220230</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2002 Apr;25(4):645-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11919119</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2011 Mar 15;123(10):1138-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21233236</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Res Clin Pract. 2013 Jan;99(1):19-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23146371</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Ren Nutr. 2005 Oct;15(4):398-406</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16198932</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocr Pract. 2011 Jan-Feb;17(1):132-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20713332</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2000 Aug;72(2):476-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10919944</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Board Fam Med. 2012 Jan-Feb;25(1):16-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22218620</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2008;337:a1840</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18927173</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2009 Sep 28;169(17):1619-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19786682</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2007 Oct;107(10):1755-67</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17904936</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 1993 Nov;16(11):1453-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8299434</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2003 Jan;26(1):24-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12502654</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2008 May 20;148(10):737-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18490687</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>South Med J. 2002 Jul;95(7):684-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12144072</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Med. 2010 Apr;42(3):178-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20350251</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2005 Jul;28(7):1801-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15983341</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Res Clin Pract. 2004 Sep;65 Suppl 1:S23-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15315867</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Obes Metab. 2007 May;9(3):386-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17391167</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Educ. 2005 Mar-Apr;31(2):225-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15797851</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2011 Jul;94(1):26-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21613555</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2012 Jun;35(6):1364-79</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22517736</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2007;(4):CD002181</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17943769</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Jul 11;369(2):145-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23796131</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Free Radic Res. 2010 Sep;44(9):983-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20540666</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2011 Mar;34(3):703-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21289228</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2011 Apr;54(4):731-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21246185</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 1993 Oct;58(4):555-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8379513</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Obes Metab. 2010 Mar;12(3):204-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20151996</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2005 Oct;48(10):1965-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16132954</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obesity (Silver Spring). 2012 Apr;20(4):783-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22016099</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2013 Aug;36(8):2162-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23412077</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2012 Apr;55(4):905-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22286528</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2009 Oct;32(10):1930-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19592634</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Res Clin Pract. 2004 Sep;65(3):235-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15331203</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 2010 Sep;212(1):281-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20537650</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Clin Pract. 2012 Aug;27(4):553-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22661243</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Diab Rep. 2002 Oct;2(5):448-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12643171</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2007 May;24(5):533-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17381504</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Clin Nutr. 2005 Mar;59(3):411-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15674301</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Metabolism. 1990 Sep;39(9):905-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2392060</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2009 Apr;32(4):688-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19151203</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2002 Nov;25(11):1919-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12401733</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Urol. 2012 Mar;187(3):939-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22264468</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2006 Jan;23(1):15-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16409560</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2012 Jul;35(7):1611-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22723585</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2011 Feb;54(2):271-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20978741</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2009 Aug;109(8):1367-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19631042</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2009 Dec;32(12):2168-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19741188</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2011 Apr;34(4):861-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21307382</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2012 Nov 26;172(21):1660-1</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23090061</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2005 Jun;81(6):1351-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15941886</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Apr 25;368(17):1613-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23614587</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1998 Sep 12;352(9131):854-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9742977</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2012 Nov 7;308(17):1751-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23117775</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2012 Aug;35(8):1798-808</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22778165</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2011 May;28(5):549-59</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21480966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2007 Jun;30(6):1374-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17363746</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2007 May;30(5):1081-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17337504</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2008 Jan;108(1):91-100</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18155993</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Clin Nutr. 2002 Dec;56(12):1200-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12494305</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2002 Feb;25(2):269-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11815494</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2007 Mar;24(3):312-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17263767</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Acad Nutr Diet. 2012 Sep;112(9):1403-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22939441</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2004 May 18;140(10):778-85</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15148064</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Educ. 2006 Mar-Apr;32(2):253-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16554429</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2007 Dec;30(12):3011-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17848609</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2010;(12):CD006763</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21154374</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2008 Oct;108(10):1716-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18953766</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2003 Sep;78(3 Suppl):617S-625S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12936956</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Diabetes. 2010 Mar;2(1):36-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20923473</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2011 Apr;93(4):764-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21289226</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Clin Nutr. 2006 Apr;60(4):529-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16391591</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 2008 Aug;199(2):432-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18062976</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Surg. 2011 Mar;21(3):351-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21128002</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2011 Jan;34(1):55-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20843978</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2010 Jun;110(6):879-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20497777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2009 Feb;89(2):518-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19106241</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2008 Dec 17;300(23):2742-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19088352</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Pediatr Diabetes. 2010 May;11(3):154-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19663922</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2009 Jul;139(7):1333-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19420347</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocr Pract. 2010 Jul-Aug;16(4):600-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20350923</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Med. 2011;9:123</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22093544</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2007 Dec;24(12):1430-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17971178</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Nutr. 2004 Aug;134(8):1874-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15284369</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Educ. 2003 May-Jun;29(3):488-501</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12854339</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Health Educ Res. 2011 Oct;26(5):896-907</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21715653</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Kidney Int. 2002 Jul;62(1):220-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12081581</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2009 May;32(5):959-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19407076</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1993 Sep 30;329(14):977-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8366922</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med J Aust. 2010 Jun 7;192(11):637-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20528716</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2008 Jul 17;359(3):229-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18635428</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nutr Metab Cardiovasc Dis. 2004 Dec;14(6):373-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15853122</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2003 Jun;26(6):1719-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12766100</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2010 Dec;110(12):1852-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21111095</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Res Clin Pract. 2010 Jul;89(1):22-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20399523</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2008 Jan 12;371(9607):117-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18191683</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cardiovasc Diabetol. 2009;8:35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19604407</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2009 Nov;52(11):2288-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19655124</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2007 Jul 31;116(5):480-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17646581</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Nutr. 2010 Feb;29(1):72-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20595648</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2008 Oct;108(10):1636-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18926128</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2002 Jul 24-31;288(4):475-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12132978</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2011 Jul 9;378(9786):129-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21705068</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Res Clin Pract. 2011 Apr;92(1):37-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21208675</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2009 May;32(5):791-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19351712</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Cardiol. 2001 Dec;38(7):1836-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11738282</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2012 Aug;55(8):2118-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22562179</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2004 Aug 25;292(8):927-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15328324</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2003 Apr;26(4):1147-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12663588</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2001 Oct;24(10):1821-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11574449</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Sultan Qaboos Univ Med J. 2010 Dec;10(3):341-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21509254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2001 Jan 4;344(1):3-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11136953</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obesity (Silver Spring). 2010 Sep;18(9):1733-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20019677</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 1996 Apr;81(4):1508-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8636359</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Br J Nutr. 2008 May;99(5):1025-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18197995</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2010 Feb;33(2):233-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19910499</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2011 Apr;34(4):823-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21378215</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2009 Sep;109(9):1532-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19699832</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2010 Jan;27(1):54-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20121889</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2009 Jul 27;169(14):1307-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19636033</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Atherosclerosis. 2011 Aug;217(2):473-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21514589</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Hum Nutr Diet. 2010 Apr;23(2):183-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20113388</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2004 Jun;79(6):999-1005</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15159229</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2009 May;119(5):1322-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19381015</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2007;(3):CD004097</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17636747</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2000 Jul 24;160(14):2150-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10904458</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 1998 Jan;98(1):62-70; quiz 71-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9434653</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Nutr. 2008 Feb;27(1):133-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17765364</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neuropsychobiology. 2011;63(4):219-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21422768</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2011 Nov;28(11):1282-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21699560</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 1999 May;22(5):667-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10332663</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2006 Aug;29(8):1777-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16873779</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Intern Med. 2008 Mar;23(3):275-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18183468</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2009;(1):CD006296</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19160276</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2004 May;104(5):807-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15127069</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMJ. 2002 Oct 5;325(7367):746</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12364302</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2009 Jul;109(7):1173-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19559133</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2004 Feb 3;140(3):211-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14757619</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2010 Nov;33(11):2477-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20693348</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2012 Dec 19;308(23):2489-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23288372</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2005 Jan 4;142(1):37-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15537682</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Appl Physiol Nutr Metab. 2010 Apr;35(2):195-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20383232</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2003 Apr;26(4):1277-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12663610</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2012 Jul 26;367(4):309-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22686415</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2012 Feb;29(2):236-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21824187</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2002 Mar;25(3):425-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11874925</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 1994 Jul;17(7):734-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7924788</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 1998 Jun;15(6):503-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9632126</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2008 Oct 9;359(15):1577-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18784090</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Res Clin Pract. 2008 Jun;80(3):439-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18353485</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Educ. 1999 Mar-Apr;25(2):226-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10531848</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2004 Oct;47(10):1677-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15480538</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(8):e43127</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22927948</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2006 Apr;49(4):648-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16463045</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Metabolism. 2008 Feb;57(2):241-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18191055</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 1993 Dec;42(12):1700-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8243815</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Appl Physiol Nutr Metab. 2012 Aug;37(4):610-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22533481</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2012 Nov;35(11):2393-401</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22995096</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Eur J Nutr. 2009 Sep;48(6):349-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19370371</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Coll Nutr. 1999 Jun;18(3):242-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10376780</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2009 Jan;52(1):50-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19002433</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Ren Nutr. 2004 Oct;14(4):208-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15483780</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1997 Apr 17;336(16):1117-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9099655</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2008 Jul;31(7):1299-304</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18375417</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2007 Aug;30(8):2154-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17519436</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Obes Rev. 2000 May;1(1):37-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12119644</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Sex Med. 2011 Oct;8(10):2868-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21819545</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 2003 Aug;103(8):1061-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12891159</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Diabetes. 2011 Mar;3(1):58-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21040500</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cochrane Database Syst Rev. 2005;(2):CD003417</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15846663</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2011 Aug;34(8):1706-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21715526</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2010 Aug;33(8):1712-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20484125</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 1984 Sep-Oct;7(5):465-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6389060</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 1982 May;35(5 Suppl):1319-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7081115</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 1991 Jan;53(1):155-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1984341</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2011 Dec;34(12):2515-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22110169</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prev Med. 1999 Aug;29(2):87-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10446033</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 1987 May;45(5):877-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3554960</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2008 Nov;88(5):1419-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18996880</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Diet Assoc. 1999 Aug;99(8 Suppl):S35-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10450292</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Intern Med. 2009 Sep 1;151(5):306-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19721018</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 2003 May 21;289(19):2560-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12748199</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Klin (Munich). 1991 Nov 15;86(11):551-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1770894</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2001 Mar;86(3):1040-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11238483</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Singapore Med J. 2012 Sep;53(9):615-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23023905</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>MMWR Morb Mortal Wkly Rep. 2012 Feb 10;61(5):89-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22318471</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2009 Jul;32(7):1147-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19366978</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2010 Apr;27(4):477-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20536522</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Can J Diet Pract Res. 2009 Spring;70(1):28-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19261204</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2012 Feb;35(2):434-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22275443</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2009 Feb 17;119(6):902-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19171857</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Cardiol. 2004 Jul 15;94(2):222-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15246908</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2009 May;89(5):1588S-1596S</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19339401</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Clin Nutr. 2003 Oct;78(4):734-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14522731</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Nutr Metab. 2011 Oct;58(4):290-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21912106</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes Care. 2008 Apr;31(4):648-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18184902</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Intern Med. 2012 Nov 26;172(21):1653-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23089999</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

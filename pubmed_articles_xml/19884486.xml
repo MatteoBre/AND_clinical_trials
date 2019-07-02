@@ -1,0 +1,180 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">19884486</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>01</Month>
+<Day>12</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>12</Month>
+<Day>30</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1530-8561</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>56</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2010</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Clinical chemistry</Title>
+<ISOAbbreviation>Clin. Chem.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Detection of increased amounts of cell-free fetal DNA with short PCR amplicons.</ArticleTitle>
+<Pagination>
+<MedlinePgn>136-8</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1373/clinchem.2009.132951</ELocationID>
+<Abstract>
+<AbstractText Label="AIM" NlmCategory="OBJECTIVE">A digital PCR approach has recently been suggested to detect greater amounts of cell-free fetal DNA in maternal plasma than conventional real-time quantitative PCR (qPCR). Because the digital qPCR approach uses shorter PCR amplicons than the real-time qPCR assay, we investigated whether a real-time qPCR assay appropriately modified for such short amplicons would improve the detection of cell-free fetal DNA.</AbstractText>
+<AbstractText Label="METHOD" NlmCategory="METHODS">We developed a novel universal-template (UT) real-time qPCR assay that was specific for the DYS14 sequence on Y chromosome and had a short amplicon size of 50 bp. We examined this "short" assay with 50 maternal plasma samples and compared the results with those for a conventional real-time qPCR assay of the same locus but with a longer amplicon (84 bp).</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Qualitatively, both assays detected male cell-free fetal DNA with the same specificity and detection capability. Quantitatively, however, the new UT real-time qPCR assay for shorter amplicons detected, on average, almost 1.6-fold more cell-free fetal DNA than the conventional real-time qPCR assay with longer amplicons.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The use of short PCR amplicons improves the detection of cell-free fetal DNA. This feature may prove useful in attempts to detect cell-free fetal DNA under conditions in which the amount of template is low, such as in samples obtained early in pregnancy.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Sikora</LastName>
+<ForeName>Aleksandra</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Biomedicine, University Women's Hospital, Basel, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zimmermann</LastName>
+<ForeName>Bernhard G</ForeName>
+<Initials>BG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rusterholz</LastName>
+<ForeName>Corinne</ForeName>
+<Initials>C</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Birri</LastName>
+<ForeName>Daniella</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kolla</LastName>
+<ForeName>Varaprasad</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lapaire</LastName>
+<ForeName>Olav</ForeName>
+<Initials>O</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hoesli</LastName>
+<ForeName>Irene</ForeName>
+<Initials>I</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kiefer</LastName>
+<ForeName>Vivian</ForeName>
+<Initials>V</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jackson</LastName>
+<ForeName>Laird</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hahn</LastName>
+<ForeName>Sinuhe</ForeName>
+<Initials>S</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2009</Year>
+<Month>11</Month>
+<Day>02</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Clin Chem</MedlineTA>
+<NlmUniqueID>9421549</NlmUniqueID>
+<ISSNLinking>0009-9147</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>9007-49-2</RegistryNumber>
+<NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004247">DNA</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D005333">Fetus</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008431">Maternal-Fetal Exchange</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016133">Polymerase Chain Reaction</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>11</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2009</Year>
+<Month>11</Month>
+<Day>4</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>1</Month>
+<Day>13</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19884486</ArticleId>
+<ArticleId IdType="pii">clinchem.2009.132951</ArticleId>
+<ArticleId IdType="doi">10.1373/clinchem.2009.132951</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

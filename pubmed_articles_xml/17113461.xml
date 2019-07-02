@@ -1,0 +1,117 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17113461</PMID>
+<DateCompleted>
+<Year>2007</Year>
+<Month>01</Month>
+<Day>26</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>11</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0889-8588</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>20</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2006</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>Hematology/oncology clinics of North America</Title>
+<ISOAbbreviation>Hematol. Oncol. Clin. North Am.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The changing management of low-grade astrocytomas and oligodendrogliomas.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1249-66</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Low-grade gliomas are uncommon primary brain tumors that preferentially affect young to middle-aged adults. Although they are indolent tumors, low-grade gliomas cause considerable and progressive morbidity and are ultimately fatal. Surgery and radiotherapy are the primary therapeutic options for patients with these diseases. Chemotherapy is playing a larger role in the management of patients with low-grade gliomas. Patients with oligodendrogliomas or other low-grade gliomas that harbor a distinct genetic derangement characterized by allelic loss of chromosomes 1p and 19q appear to have a superior prognosis that is due in part to a more predictable and durable response to treatment. For this subset of patients with low-grade gliomas, treatment with initial chemotherapy and deferred radiotherapy is an increasingly attractive therapeutic approach.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Agulnik</LastName>
+<ForeName>Mark</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medical Oncology and Hematology, Princess Margaret Hospital, University of Toronto, 610 University Avenue, Room 5-110, Toronto, Ontario M5G 2M9, Canada.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mason</LastName>
+<ForeName>Warren P</ForeName>
+<Initials>WP</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Hematol Oncol Clin North Am</MedlineTA>
+<NlmUniqueID>8709473</NlmUniqueID>
+<ISSNLinking>0889-8588</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001254">Astrocytoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016543">Central Nervous System Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009837">Oligodendroglioma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2006</Year>
+<Month>11</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2007</Year>
+<Month>1</Month>
+<Day>27</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2006</Year>
+<Month>11</Month>
+<Day>23</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17113461</ArticleId>
+<ArticleId IdType="pii">S0889-8588(06)00156-0</ArticleId>
+<ArticleId IdType="doi">10.1016/j.hoc.2006.09.003</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,178 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12712471</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>05</Month>
+<Day>20</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2006</Year>
+<Month>11</Month>
+<Day>15</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0008-543X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>97</Volume>
+<Issue>9</Issue>
+<PubDate>
+<Year>2003</Year>
+<Month>May</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Cancer</Title>
+<ISOAbbreviation>Cancer</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Adenosquamous histology predicts a poor outcome for patients with advanced-stage, but not early-stage, cervical carcinoma.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2196-202</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The objective of this study was to compare survival between patients with adenocarcinoma and patients with adenosquamous carcinoma of the cervix.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Patients who were diagnosed with invasive cervical carcinoma from 1988 to 1999 were identified from the Automated Central Tumor Registry for the United States Military Health Care System. Clinical data, including race, age at diagnosis, histology, tumor grade, disease stage, lymph node status, treatment modality, and survival, were collected. Survival analysis was performed with Kaplan-Meier survival curves and compared using the log-rank test.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 273 women were identified, 185 women with a histologic diagnosis of adenocarcinoma (AC) and 88 women with a diagnosis of adenosquamous carcinoma (ASC). Among the women with ASC, only 5% had Grade 1 tumors, and 66% had Grade 3 tumors. By comparison, among the women with AC, 37% had Grade 1 tumors, and 26% had Grade 3 tumors (P &lt; 0.001). There was no difference in the incidence of positive lymph nodes or in the number of patients who underwent radical hysterectomy as primary treatment between patients with ASC and patients with AC. More patients with ASC received radiation therapy (51% vs. 28%) or chemotherapy (29% vs. 12%) as treatment (P &lt; 0.001). Patients who had tumors with ASC histology had a significantly decreased 5-year survival rate compared with patients who had tumors with AC histology (65% vs. 83%; P &lt; 0.002). When patients with early-stage cervical carcinoma (International Federation of Gynecology and Obstetrics [FIGO] Stage I) were examined separately, there was no statistically significant difference in the 5-year survival rate (AC, 89%; ASC, 86%; P = 0.644). However, when patients with advanced-stage disease (FIGO Stages II-IV) were analyzed, ASC was associated with a significant decrease in median and overall survival (P = 0.01). When the results were analyzed by grade, patients who had tumors with ASC histology had a shorter survival compared with patients who had AC histology of any grade; however, this was a significant difference only for patients with Grade 1 tumors: The 5-year survival rate for patients with Grade 1 AC was 93%, compared with 50% for patients with Grade 1 ASC (P &lt; 0.01).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">ASC histology appears to be an independent predictor of poor outcome in women with cervical carcinoma compared with their counterparts who have pure AC. The significant decrease in survival was observed only in patients with advanced-stage cervical carcinoma. This decreased survival may be related mainly to the grade of ASC.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Farley</LastName>
+<ForeName>John H</ForeName>
+<Initials>JH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, Division of Gynecologic Oncology, Tripler Army Medical Center, Honolulu, Hawaii 96859-5000, USA. john.farley@amedd.army.mil</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hickey</LastName>
+<ForeName>Kimberly W</ForeName>
+<Initials>KW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carlson</LastName>
+<ForeName>Jay W</ForeName>
+<Initials>JW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rose</LastName>
+<ForeName>G Scott</ForeName>
+<Initials>GS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kost</LastName>
+<ForeName>Edward R</ForeName>
+<Initials>ER</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harrison</LastName>
+<ForeName>Terry A</ForeName>
+<Initials>TA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Cancer</MedlineTA>
+<NlmUniqueID>0374236</NlmUniqueID>
+<ISSNLinking>0008-543X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000230">Adenocarcinoma</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018196">Carcinoma, Adenosquamous</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018714">Radiotherapy, Adjuvant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002583">Uterine Cervical Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>23</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>4</Month>
+<Day>25</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>5</Month>
+<Day>21</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>4</Month>
+<Day>25</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12712471</ArticleId>
+<ArticleId IdType="doi">10.1002/cncr.11371</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

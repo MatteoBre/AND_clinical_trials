@@ -1,0 +1,135 @@
+<PubmedArticle>
+<MedlineCitation IndexingMethod="Curated" Owner="NLM" Status="MEDLINE">
+<PMID Version="1">27765139</PMID>
+<DateCompleted>
+<Year>2017</Year>
+<Month>09</Month>
+<Day>25</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0254-6450</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>37</Volume>
+<Issue>10</Issue>
+<PubDate>
+<Year>2016</Year>
+<Month>Oct</Month>
+<Day>10</Day>
+</PubDate>
+</JournalIssue>
+<Title>Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi</Title>
+<ISOAbbreviation>Zhonghua Liu Xing Bing Xue Za Zhi</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Progress in research of mobile health intervention].</ArticleTitle>
+<Pagination>
+<MedlinePgn>1430-1434</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.0254-6450.2016.10.022</ELocationID>
+<Abstract>
+<AbstractText>With the rapid development of mobile communication technology and the growing popularity of smartphones worldwide, mobile health has become an extension of e-Health and Tele-Health, and is of value in the research and practice of public health. In this paper, we systematically assessed research literature of mobile health' s application on disease prevention and control as well as health promotion. Based on the characteristics of current literature, this paper focused on the application of mobile health in maternal health promotion, chronic disease management, and communicable disease prevention and control to provide reference for the mobile health intervention research in China.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Z</ForeName>
+<Initials>Z</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Epidemiology and Biostatistics, Xiangya School of Public Health, Central South University, Changsha 410008, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ning</LastName>
+<ForeName>P S</ForeName>
+<Initials>PS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cheng</LastName>
+<ForeName>P X</ForeName>
+<Initials>PX</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hu</LastName>
+<ForeName>G Q</ForeName>
+<Initials>GQ</Initials>
+</Author>
+</AuthorList>
+<Language>chi</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>China</Country>
+<MedlineTA>Zhonghua Liu Xing Bing Xue Za Zhi</MedlineTA>
+<NlmUniqueID>8208604</NlmUniqueID>
+<ISSNLinking>0254-6450</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D040421">Cell Phone</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002681">China</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D002908">Chronic Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006293">Health Promotion</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D063731">Mobile Applications</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011634">Public Health</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012106">Research</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017216">Telemedicine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2017</Year>
+<Month>9</Month>
+<Day>26</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2016</Year>
+<Month>10</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">27765139</ArticleId>
+<ArticleId IdType="doi">10.3760/cma.j.issn.0254-6450.2016.10.022</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,190 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">17545041</PMID>
+<DateCompleted>
+<Year>2010</Year>
+<Month>05</Month>
+<Day>11</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>11</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">1673-4254</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>27</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2007</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Nan fang yi ke da xue xue bao = Journal of Southern Medical University</Title>
+<ISOAbbreviation>Nan Fang Yi Ke Da Xue Xue Bao</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Effects of two different antigen-loading methods on the activity of dendritic cell vaccine for colorectal carcinoma cell inhibition in vitro].</ArticleTitle>
+<Pagination>
+<MedlinePgn>492-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To observe the changes in the activity of dendritic cells (DCs) after carcino-embryonic antigen (CEA) gene transfection mediated by recombinant adeno-associated virus type2 (rAAV) and tumor cell lysate.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Immature DCs isolated from peripheral blood monocytes of HLA-A11-positive healthy volunteers were infected with the rAAV carrying CEA gene or loaded with tumor cell lysate. The surface markers of the DCs such as CD40, CD 1alpha, and CD86 were analyzed by flow cytometry. Interleukin-12 (IL-12) in the supernatants of DCs and interferon-gamma (IFN-gamma) released by the cytotoxic T lymphocytes (CTLs) were determined by ELISA detection kit. The specific killing activity of CTL against LoVo cells was assessed by MTT assay.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The DCs following antigen loading with the two methods both highly expressed CD40, CD86 and IL-12, and induced specific CTL that specifically recognized and killed LoVo cells, but the killing effect resulting from rAAV infection of the DCs was much better than that induced by tumor cell lysate loading.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Both methods of antigen loading can induce mature DCs from peripheral blood monocyte cells, but rAAV infection of the DCs can be more effective than tumor cells lysate loading. DCs infected with rAAV may have the potential to serve as an adjuvant immunotherapy for patients with colorectal carcinoma.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Hao</ForeName>
+<Initials>H</Initials>
+<AffiliationInfo>
+<Affiliation>Oncology Center, Nanfang Hospital, Southern Medical University, Guangzhou 510515, China.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wang</LastName>
+<ForeName>Hang</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wu</LastName>
+<ForeName>Zi-qing</ForeName>
+<Initials>ZQ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>You</LastName>
+<ForeName>Chang-xuan</ForeName>
+<Initials>CX</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Luo</LastName>
+<ForeName>Rong-cheng</ForeName>
+<Initials>RC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yong</LastName>
+<ForeName>Liu</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hermonat</LastName>
+<ForeName>Paul L</ForeName>
+<Initials>PL</Initials>
+</Author>
+</AuthorList>
+<Language>chi</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>China</Country>
+<MedlineTA>Nan Fang Yi Ke Da Xue Xue Bao</MedlineTA>
+<NlmUniqueID>101266132</NlmUniqueID>
+<ISSNLinking>1673-4254</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051940">B7-2 Antigen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019013">CD40 Antigens</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D019496">Cancer Vaccines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D002272">Carcinoembryonic Antigen</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>187348-17-0</RegistryNumber>
+<NameOfSubstance UI="D018664">Interleukin-12</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051940">B7-2 Antigen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019013">CD40 Antigens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019496">Cancer Vaccines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002272">Carcinoembryonic Antigen</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015179">Colorectal Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003713">Dendritic Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000229">Dependovirus</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005822">Genetic Vectors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018664">Interleukin-12</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014162">Transfection</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2007</Year>
+<Month>6</Month>
+<Day>5</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2010</Year>
+<Month>5</Month>
+<Day>12</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2007</Year>
+<Month>6</Month>
+<Day>5</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17545041</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

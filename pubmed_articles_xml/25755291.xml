@@ -1,0 +1,531 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">25755291</PMID>
+<DateCompleted>
+<Year>2015</Year>
+<Month>07</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>12</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1528-0020</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>125</Volume>
+<Issue>19</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>May</Month>
+<Day>07</Day>
+</PubDate>
+</JournalIssue>
+<Title>Blood</Title>
+<ISOAbbreviation>Blood</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The Bruton tyrosine kinase inhibitor ibrutinib with chemoimmunotherapy in patients with chronic lymphocytic leukemia.</ArticleTitle>
+<Pagination>
+<MedlinePgn>2915-22</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1182/blood-2014-09-585869</ELocationID>
+<Abstract>
+<AbstractText>The safety and efficacy of ibrutinib, an oral inhibitor of Bruton tyrosine kinase, were evaluated with chemoimmunotherapy (CIT) in a multicenter phase 1b study. Patients with relapsed/refractory chronic lymphocytic leukemia received bendamustine and rituximab (BR) or fludarabine, cyclophosphamide, and rituximab (FCR) for up to 6 cycles with daily ibrutinib (420 mg) until progressive disease or unacceptable toxicity. Enrollment to FCR-ibrutinib closed early due to a lack of fludarabine-naïve previously treated patients. No patients treated with BR-ibrutinib (n = 30) or FCR-ibrutinib (n = 3) experienced prolonged hematologic toxicity in cycle 1 (primary end point). Tolerability was as expected with either CIT or single-agent ibrutinib. The overall response rate (ORR) with BR-ibrutinib was 93.3%, including 16.7% complete responses (CRs) initially, which increased to 40% with the extension period. Including 1 patient with partial response with lymphocytosis, the best ORR was 96.7%. Sixteen of 21 patients with baseline cytopenias had sustained hematologic improvement. At 12 and 36 months, 86.3% and 70.3% remained progression-free, respectively. All 3 patients treated with ibrutinib-FCR achieved CR. Ibrutinib may enhance CIT efficacy without additive toxicities, providing the rationale for studying this combination in an ongoing phase 3 trial. The study is registered to www.clinicaltrials.gov as #NCT01292135. </AbstractText>
+<CopyrightInformation>© 2015 by The American Society of Hematology.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Jennifer R</ForeName>
+<Initials>JR</Initials>
+<AffiliationInfo>
+<Affiliation>Dana-Farber Cancer Institute, Boston, MA;</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barrientos</LastName>
+<ForeName>Jacqueline C</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>Hofstra North Shore-Long Island Jewish Medical Center School of Medicine at Hofstra University, Hempstead, NY;</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barr</LastName>
+<ForeName>Paul M</ForeName>
+<Initials>PM</Initials>
+<AffiliationInfo>
+<Affiliation>Hematology/Oncology Division, James P. Wilmot Cancer Center, University of Rochester, Rochester, NY;</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Flinn</LastName>
+<ForeName>Ian W</ForeName>
+<Initials>IW</Initials>
+<AffiliationInfo>
+<Affiliation>Sarah Cannon Research Institute, Tennessee Oncology, Nashville, TN;</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Burger</LastName>
+<ForeName>Jan A</ForeName>
+<Initials>JA</Initials>
+<AffiliationInfo>
+<Affiliation>The University of Texas MD Anderson Cancer Center, Houston, TX; and.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tran</LastName>
+<ForeName>Anh</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Pharmacyclics, Sunnyvale, CA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Clow</LastName>
+<ForeName>Fong</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Pharmacyclics, Sunnyvale, CA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>James</LastName>
+<ForeName>Danelle F</ForeName>
+<Initials>DF</Initials>
+<AffiliationInfo>
+<Affiliation>Pharmacyclics, Sunnyvale, CA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Graef</LastName>
+<ForeName>Thorsten</ForeName>
+<Initials>T</Initials>
+<AffiliationInfo>
+<Affiliation>Pharmacyclics, Sunnyvale, CA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Friedberg</LastName>
+<ForeName>Jonathan W</ForeName>
+<Initials>JW</Initials>
+<AffiliationInfo>
+<Affiliation>Hematology/Oncology Division, James P. Wilmot Cancer Center, University of Rochester, Rochester, NY;</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rai</LastName>
+<ForeName>Kanti</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Hofstra North Shore-Long Island Jewish Medical Center School of Medicine at Hofstra University, Hempstead, NY;</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>O'Brien</LastName>
+<ForeName>Susan</ForeName>
+<Initials>S</Initials>
+<AffiliationInfo>
+<Affiliation>The University of Texas MD Anderson Cancer Center, Houston, TX; and.</Affiliation>
+</AffiliationInfo>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<DataBankList CompleteYN="Y">
+<DataBank>
+<DataBankName>ClinicalTrials.gov</DataBankName>
+<AccessionNumberList>
+<AccessionNumber>NCT01292135</AccessionNumber>
+</AccessionNumberList>
+</DataBank>
+</DataBankList>
+<PublicationTypeList>
+<PublicationType UI="D017426">Clinical Trial, Phase I</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2015</Year>
+<Month>03</Month>
+<Day>09</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Blood</MedlineTA>
+<NlmUniqueID>7603509</NlmUniqueID>
+<ISSNLinking>0006-4971</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C551803">PCI 32765</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011720">Pyrazoles</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011743">Pyrimidines</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.10.1</RegistryNumber>
+<NameOfSubstance UI="D011505">Protein-Tyrosine Kinases</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 2.7.10.2</RegistryNumber>
+<NameOfSubstance UI="D000077329">Agammaglobulinaemia Tyrosine Kinase</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Blood. 2015 May 7;125(19):2878-9</RefSource>
+<PMID Version="1">25953974</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000077329">Agammaglobulinaemia Tyrosine Kinase</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015451">Leukemia, Lymphocytic, Chronic, B-Cell</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009367">Neoplasm Staging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011505">Protein-Tyrosine Kinases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011720">Pyrazoles</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011743">Pyrimidines</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015996">Survival Rate</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2014</Year>
+<Month>09</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2015</Year>
+<Month>02</Month>
+<Day>18</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>3</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>3</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2015</Year>
+<Month>7</Month>
+<Day>22</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">25755291</ArticleId>
+<ArticleId IdType="pii">blood-2014-09-585869</ArticleId>
+<ArticleId IdType="doi">10.1182/blood-2014-09-585869</ArticleId>
+<ArticleId IdType="pmc">PMC4424415</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Blood. 2002 Nov 15;100(10):3741-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12393602</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2014 Jun 12;370(24):2286-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24869598</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Immunol. 2001;2:4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11410123</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Exp Med. 2003 Nov 17;198(10):1539-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14610042</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Immunity. 1995 Sep;3(3):283-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7552994</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 1999 Oct 22;274(43):30644-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10521450</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2005 Jun 20;23(18):4070-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15767647</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2005 Jun 20;23(18):4079-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15767648</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2006 Feb 1;107(3):885-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16219797</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2002 Dec 15;100(13):4609-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12393534</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Exp Med. 2000 May 15;191(10):1745-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10811867</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2000 Dec 14;343(24):1750-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11114313</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2001 Jan 19;276(3):1715-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11042193</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2001 Nov 15;98(10):3050-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11698290</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>ChemMedChem. 2007 Jan;2(1):58-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17154430</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2007 Mar 1;109(5):2032-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17038529</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2007 Mar 1;25(7):793-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17283364</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2007 Jul 21;370(9583):230-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17658394</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 Mar 1;111(5):2685-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18048647</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 Jun 15;111(12):5446-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18216293</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2009 Feb 20;27(6):904-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19114699</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2009 Sep 10;27(26):4378-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19652068</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2010 Apr 1;28(10):1756-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20194844</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2010 Jul 20;107(29):13075-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20615965</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2010 Sep 23;116(12):2078-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20522708</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 2010 Oct 2;376(9747):1164-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20888994</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2011 Jan 13;117(2):563-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20940416</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2011 Feb 10;29(5):544-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21220603</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2011 Mar 17;117(11):3016-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21245487</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2011 Jun 9;117(23):6287-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21422473</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2011 Sep 10;29(26):3559-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21844497</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2011 Oct 20;118(16):4313-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21816833</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hematology Am Soc Hematol Educ Program. 2011;2011:110-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22160021</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2012 Feb 2;119(5):1182-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22180443</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Hematol Malig Rep. 2012 Mar;7(1):26-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22105489</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Oncol. 2013 Jan 1;31(1):88-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23045577</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2013 Jul 4;369(1):32-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23782158</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2014 Jan;15(1):48-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24332241</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2014 Mar 20;123(12):1810-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24415539</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

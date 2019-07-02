@@ -1,0 +1,187 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">26473002</PMID>
+<DateCompleted>
+<Year>2016</Year>
+<Month>01</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>10</Month>
+<Day>16</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1524-4539</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>132</Volume>
+<Issue>18 Suppl 2</Issue>
+<PubDate>
+<Year>2015</Year>
+<Month>Nov</Month>
+<Day>03</Day>
+</PubDate>
+</JournalIssue>
+<Title>Circulation</Title>
+<ISOAbbreviation>Circulation</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Part 14: Education: 2015 American Heart Association Guidelines Update for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.</ArticleTitle>
+<Pagination>
+<MedlinePgn>S561-73</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1161/CIR.0000000000000268</ELocationID>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bhanji</LastName>
+<ForeName>Farhan</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Donoghue</LastName>
+<ForeName>Aaron J</ForeName>
+<Initials>AJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wolff</LastName>
+<ForeName>Margaret S</ForeName>
+<Initials>MS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Flores</LastName>
+<ForeName>Gustavo E</ForeName>
+<Initials>GE</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Halamek</LastName>
+<ForeName>Louis P</ForeName>
+<Initials>LP</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Berman</LastName>
+<ForeName>Jeffrey M</ForeName>
+<Initials>JM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sinz</LastName>
+<ForeName>Elizabeth H</ForeName>
+<Initials>EH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cheng</LastName>
+<ForeName>Adam</ForeName>
+<Initials>A</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016446">Consensus Development Conference</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D017065">Practice Guideline</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Circulation</MedlineTA>
+<NlmUniqueID>0147763</NlmUniqueID>
+<ISSNLinking>0009-7322</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D022561">Advanced Cardiac Life Support</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000193">education</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016887">Cardiopulmonary Resuscitation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000193">education</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002983">Clinical Competence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004554">Electric Countershock</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004632">Emergency Medical Services</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004635">Emergency Medicine</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000193">education</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060731">Emergency Responders</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000193">education</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005392">First Aid</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000068156">Formative Feedback</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006323">Heart Arrest</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006336">Heart Massage</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008348">Manikins</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011247">Pregnancy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018566">Pregnancy, High-Risk</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">cardiopulmonary resuscitation</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2015</Year>
+<Month>10</Month>
+<Day>17</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2016</Year>
+<Month>1</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">26473002</ArticleId>
+<ArticleId IdType="pii">CIR.0000000000000268</ArticleId>
+<ArticleId IdType="doi">10.1161/CIR.0000000000000268</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,728 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24079660</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>06</Month>
+<Day>23</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1743-422X</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>10</Volume>
+<PubDate>
+<Year>2013</Year>
+<Month>Sep</Month>
+<Day>30</Day>
+</PubDate>
+</JournalIssue>
+<Title>Virology journal</Title>
+<ISOAbbreviation>Virol. J.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Human Polyomavirus JC monitoring and noncoding control region analysis in dynamic cohorts of individuals affected by immune-mediated diseases under treatment with biologics: an observational study.</ArticleTitle>
+<Pagination>
+<MedlinePgn>298</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1186/1743-422X-10-298</ELocationID>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Progressive multifocal leukoencephalopathy (PML) onset, caused by Polyomavirus JC (JCPyV) in patients affected by immune-mediated diseases during biological treatment, raised concerns about the safety profile of these agents. Therefore, the aims of this study were the JCPyV reactivation monitoring and the noncoding control region (NCCR) and viral protein 1 (VP1) analysis in patients affected by different immune-mediated diseases and treated with biologics.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We performed JCPyV-specific quantitative PCR of biological samples collected at moment of recruitment (t0) and every 4 months (t1, t2, t3, t4). Subsequently, rearrangements' analysis of NCCR and VP1 was carried out. Data were analyzed using χ2 test.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Results showed that at t0 patients with chronic inflammatory rheumatic diseases presented a JCPyV load in the urine significantly higher (p≤0.05) than in patients with multiple sclerosis (MS) and Crohn's disease (CD). It can also be observed a significant association between JC viruria and JCPyV antibodies after 1 year of natalizumab (p=0.04) in MS patients. Finally, NCCR analysis showed the presence of an archetype-like sequence in all urine samples, whereas a rearranged NCCR Type IR was found in colon-rectal biopsies collected from 2 CD patients after 16 months of infliximab. Furthermore, sequences isolated from peripheral blood mononuclear cells (PBMCs) of 2 MS patients with JCPyV antibody at t0 and t3, showed a NCCR Type IIR with a duplication of a 98 bp unit and a 66 bp insert, resulting in a boxB deletion and 37 T to G transversion into the Spi-B binding site. In all patients, a prevalence of genotypes 1A and 1B, the predominant JCPyV genotypes in Europe, was observed.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">It has been important to understand whether the specific inflammatory scenario in different immune-mediated diseases could affect JCPyV reactivation from latency, in particular from kidneys. Moreover, for a more accurate PML risk stratification, testing JC viruria seems to be useful to identify patients who harbor JCPyV but with an undetectable JCPyV-specific humoral immune response. In these patients, it may also be important to study the JCPyV NCCR rearrangement: in particular, Spi-B expression in PBMCs could play a crucial role in JCPyV replication and NCCR rearrangement.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Bellizzi</LastName>
+<ForeName>Anna</ForeName>
+<Initials>A</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Public Health and Infectious Diseases, Sapienza University, P,le Aldo Moro, 5, 00185 Rome, Italy. valeria.pietropaolo@uniroma1.it.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anzivino</LastName>
+<ForeName>Elena</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rodio</LastName>
+<ForeName>Donatella Maria</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cioccolo</LastName>
+<ForeName>Sara</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Scrivo</LastName>
+<ForeName>Rossana</ForeName>
+<Initials>R</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Morreale</LastName>
+<ForeName>Manuela</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pontecorvo</LastName>
+<ForeName>Simona</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ferrari</LastName>
+<ForeName>Federica</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Di Nardo</LastName>
+<ForeName>Giovanni</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nencioni</LastName>
+<ForeName>Lucia</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Carluccio</LastName>
+<ForeName>Silvia</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Valesini</LastName>
+<ForeName>Guido</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Francia</LastName>
+<ForeName>Ada</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cucchiara</LastName>
+<ForeName>Salvatore</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palamara</LastName>
+<ForeName>Anna Teresa</ForeName>
+<Initials>AT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Pietropaolo</LastName>
+<ForeName>Valeria</ForeName>
+<Initials>V</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>30</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>England</Country>
+<MedlineTA>Virol J</MedlineTA>
+<NlmUniqueID>101231645</NlmUniqueID>
+<ISSNLinking>1743-422X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D001688">Biological Products</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D021901">DNA, Intergenic</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015678">Viral Structural Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001688">Biological Products</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003106">Colon</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D021901">DNA, Intergenic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005838">Genotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007154">Immune System Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007577">JC Virus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007963">Leukocytes, Mononuclear</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D060888">Real-Time Polymerase Chain Reaction</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011995">Recombination, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014556">Urine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000821">virology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D019562">Viral Load</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015678">Viral Structural Proteins</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014775">Virus Activation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>07</Month>
+<Day>04</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>27</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2013</Year>
+<Month>10</Month>
+<Day>2</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>6</Month>
+<Day>24</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>epublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24079660</ArticleId>
+<ArticleId IdType="pii">1743-422X-10-298</ArticleId>
+<ArticleId IdType="doi">10.1186/1743-422X-10-298</ArticleId>
+<ArticleId IdType="pmc">PMC3849738</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>Nat Rev Neurol. 2010 Dec;6(12):667-79</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21131916</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuroimmunol. 2011 Feb;231(1-2):73-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20937530</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Am Acad Dermatol. 2011 Sep;65(3):546-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21514689</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurovirol. 2011 Aug;17(4):303-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21547609</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mult Scler. 2012 Feb;18(2):143-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22312009</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Virol. 2012 Mar;93(Pt 3):651-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22071512</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurovirol. 2012 Feb;18(1):1-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22290500</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2012 May 17;366(20):1870-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22591293</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Virol. 2001 May;82(Pt 5):1221-331</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11297697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Transplantation. 2001 May 15;71(9):1300-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11397966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurovirol. 2001 Aug;7(4):280-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11517403</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2001 Oct;75(20):9687-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11559801</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Virol. 2001;146(11):2097-113</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11765914</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Inflamm Bowel Dis. 2012 Jun;18(6):1194-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22467521</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>BMC Med. 2012;10:82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22853635</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuroimmune Pharmacol. 2012 Sep;7(3):665-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22585413</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2012 Sep;64(9):3043-51</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22422012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Pathog. 2012;8(11):e1003014</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23144619</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Transl Med. 2012;10:248</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23232085</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Virol. 2013 Apr;85(4):716-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23364870</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Clin Dev Immunol. 2013;2013:839719</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23690827</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Virol. 2002 Jan;66(1):1-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11748651</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Immunol. 2002 Jan 1;168(1):499-504</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11751998</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Physiol. 2002 Jun;191(3):249-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12012320</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann N Y Acad Sci. 2002 Jun;966:290-303</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12114286</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2002 Dec 1;186 Suppl 2:S180-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12424695</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurovirol. 2003 Dec;9(6):603-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14602573</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brain. 2004 Sep;127(Pt 9):1970-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15215217</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Leukoc Biol. 2004 Sep;76(3):685-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15197236</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1971 Jun 19;1(7712):1257-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">4104715</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 1976 Jun;133(6):686-90</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">778304</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gastroenterology. 1979 Oct;77(4 Pt 2):843-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">467941</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 1982 Sep-Oct;9(5):789-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7175852</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 1983 Nov;33(11):1444-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6685237</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 1984 Apr;27(4):361-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6231933</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 1984 Aug;51(2):458-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">6086957</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1985 Dec 20;230(4732):1350-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2999980</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 1988 Mar;31(3):315-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3358796</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 1990 Jun;64(6):3139-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2159570</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Virology. 1991 Feb;180(2):553-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1846488</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Scand J Immunol. 1991 Dec;34(6):697-712</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1749920</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 1993 Jan;167(1):13-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8380288</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Rheumatol. 1994 Dec;21(12):2286-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7699630</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1999 May 6;340(18):1398-405</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10228190</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Gastroenterol. 2005 May;100(5):1117-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15842587</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Immunol Ther Exp (Warsz). 2006 May-Jun;54(3):149-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16652219</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2006 Aug;54(8):2665-73</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16871531</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Inflamm Bowel Dis. 2007 Jul;13(7):896-902</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17345605</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol Sci. 2007 Aug 15;259(1-2):50-2</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17521672</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2007 Jul;56(7):2116-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17599729</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuroimmunol. 2008 Feb;194(1-2):153-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18178259</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 Apr 1;111(7):3893-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18235044</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Blood. 2008 Sep 1;112(5):1804-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18552212</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Virol. 2008 Dec;80(12):2147-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19040292</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Gut. 2009 Jan;58(1):25-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18593810</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Virol. 2009 Jan;44(1):20-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18819837</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS Pathog. 2009 Mar;5(3):e1000363</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19325891</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2009 Apr;65(4):367-77</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19399841</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2009 Mar 15;199(6):837-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19434930</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Infect Dis. 2009 Mar 15;199(6):881-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19434914</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Oncol. 2009 Aug;10(8):816-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19647202</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2009 Sep 10;361(11):1041-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19741226</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2009 Sep 10;361(11):1067-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19741227</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Neurology. 2009 Nov 10;73(19):1551-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19901246</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2009 Dec;60(12):3761-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19950261</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Virol. 2010 Jan;82(1):138-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19950244</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Annu Rev Med. 2010;61:35-47</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19719397</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet Neurol. 2010 Apr;9(4):425-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20298966</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Med Virol. 2010 May;82(5):806-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20336718</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neurol. 2010 Jun;257(6):954-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20052484</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Neuroimmune Pharmacol. 2010 Sep;5(3):404-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20401541</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Virol. 2010 Sep;84(18):9200-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20610709</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2010 Sep;68(3):295-303</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20737510</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2010 Sep;68(3):304-10</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20737514</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Ann Neurol. 2010 Sep;68(3):384-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20818792</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arthritis Rheum. 2010 Nov;62(11):3191-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20722036</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Gen Virol. 2010 Dec;91(Pt 12):3042-52</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20826618</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

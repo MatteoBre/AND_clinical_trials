@@ -1,0 +1,506 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">23047930</PMID>
+<DateCompleted>
+<Year>2013</Year>
+<Month>03</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1934-2403</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>18</Volume>
+<Issue>5</Issue>
+<PubDate>
+<MedlineDate>2012 Sep-Oct</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists</Title>
+<ISOAbbreviation>Endocr Pract</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Syndromic insulin resistance: models for the therapeutic basis of the metabolic syndrome and other targets of insulin resistance.</ArticleTitle>
+<Pagination>
+<MedlinePgn>763-71</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.4158/EP12139.RA</ELocationID>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the link between insulin resistance and the metabolic syndrome how to develop treatment approaches.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We present 3 cases of extreme syndromic insulin resistance: lipodystrophy, autoantibodies to the insulin receptor, and mutations in the insulin receptor gene, with accompanying discussion of pathophysiology and treatment.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">In lipodystrophy, insulin resistance is a direct consequence of leptin deficiency, and thus leptin replacement reverses metabolic syndrome abnormalities, including diabetes and hypertriglyceridemia. The insulin "receptoropathies," including autoantibodies to the insulin receptor and insulin receptor gene mutations, are characterized by extreme insulin resistance and ovarian hyperandrogenism, without dyslipidemia or fatty liver disease. Autoantibodies to the insulin receptor can be treated using an immunosuppressive paradigm adapted from treatment of other autoimmune and neoplastic conditions. Leptin treatment has shown some success in treating hyperglycemia in patients with insulin receptor gene mutations. Treatment for this condition remains inadequate, and novel therapies that bypass insulin receptor signaling, such as enhancers of brown adipose tissue, are needed.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We present a clinical approach to the treatment of syndromic insulin resistance. The study of rare diseases that replicate the metabolic syndrome, with clear-cut pathophysiology, promotes understanding of novel physiology and development of targeted therapies that may be applicable to the broader population with obesity, insulin resistance, and diabetes.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Gorden</LastName>
+<ForeName>Phillip</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Diabetes, Endocrinology, and Obesity Branch, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, Maryland 20892, USA. phillipg@intra.niddk.nih.gov</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Zadeh</LastName>
+<ForeName>Elika Safar</ForeName>
+<Initials>ES</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Cochran</LastName>
+<ForeName>Elaine</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>Rebecca J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>ZIA DK047050-07</GrantID>
+<Acronym>NULL</Acronym>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>ZIA DK047052-07</GrantID>
+<Acronym>NULL</Acronym>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Endocr Pract</MedlineTA>
+<NlmUniqueID>9607439</NlmUniqueID>
+<ISSNLinking>1530-891X</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007333">Insulin Resistance</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D024821">Metabolic Syndrome</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>10</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>10</Month>
+<Day>11</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2013</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23047930</ArticleId>
+<ArticleId IdType="pii">N5614VQ320067P74</ArticleId>
+<ArticleId IdType="doi">10.4158/EP12139.RA</ArticleId>
+<ArticleId IdType="pmc">PMC3875336</ArticleId>
+<ArticleId IdType="mid">NIHMS539789</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>N Engl J Med. 2002 Feb 21;346(8):570-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11856796</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2012 Mar 2;148(5):852-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22385956</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FASEB J. 2002 Apr;16(6):509-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11919153</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2002 May;109(10):1345-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12021250</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2002 Oct;110(8):1093-103</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12393845</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2004 Feb;89(2):548-56</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14764760</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 Mar 18;350(12):1220-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15028826</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Metabolism. 2004 Apr;53(4):513-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15045701</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2004 Apr;89(4):1548-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15070911</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2004 Jun;89(6):2583-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15181027</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Medicine (Baltimore). 2004 Jul;83(4):209-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15232309</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2004 Sep 2;351(10):987-97</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15342807</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 1976 Nov;58(5):1123-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">993336</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1978 Dec 9;2(8102):1222-4</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">82734</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 1988 Dec;37(12):1595-607</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">3056758</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocrinol Metab Clin North Am. 1989 Mar;18(1):123-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">2645123</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1999 Oct 27;282(16):1523-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10546691</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>JAMA. 1999 Oct 27;282(16):1568-75</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10546697</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 2001 Jun;50(6):1440-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11375346</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 1992 Jun;74(6):1242-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1592865</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1993 Sep 30;329(14):977-86</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8366922</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1994 Dec 1;372(6505):425-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7984236</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1995 Jul 28;269(5223):540-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7624776</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1996 Feb 1;334(5):292-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8532024</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 1996 Apr;45(4):531-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8603777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1998 Sep 12;352(9131):837-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9742976</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Lancet. 1998 Sep 12;352(9131):854-65</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9742977</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Am J Public Health. 1999 Aug;89(8):1194-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10432905</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 1999 Sep 16;341(12):879-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10486419</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 1999 Sep 2;401(6748):73-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10485707</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hepatology. 2005 Apr;41(4):753-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15791619</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabet Med. 2005 Jun;22(6):814-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15910639</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Diab Rep. 2005 Jun;5(3):157-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15929859</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2005 Jun;115(6):1627-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15902306</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 2005 Jul;54(7):1994-2002</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15983199</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>N Engl J Med. 2005 Dec 22;353(25):2643-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16371630</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Arch Pediatr Adolesc Med. 2006 May;160(5):523-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16651496</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2006 Aug;91(8):3219-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16705075</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Metabolism. 2007 Apr;56(4):508-16</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17379009</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetes. 2007 Jun;56(6):1712-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17325257</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocrinology. 2008 Dec;149(12):6018-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18687777</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2009 Mar;94(3):793-800</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19050052</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Medicine (Baltimore). 2009 May;88(3):141-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19440117</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Circulation. 2009 Oct 20;120(16):1640-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19805654</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2010 Jan;95(1):256-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19897683</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Metab. 2010 Jan;11(1):11-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20074524</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2010 Jan;53(1):27-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19727665</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Metab. 2010 Mar 3;11(3):206-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20197053</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Diabetologia. 2010 Jul;53(7):1534-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20401463</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2010 Aug;95(8):3641-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20484479</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Invest. 2011 Jun;121(6):2457-61</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21555852</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocr Rev. 2011 Aug;32(4):498-514</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21536711</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2011 Nov;96(11):3313-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21865368</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Endocr Pract. 2011 Nov-Dec;17(6):922-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22068254</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2012 Jan 26;481(7382):463-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22237023</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Dev. 2012 Feb 1;26(3):271-81</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22302939</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2012 Feb;97(2):563-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22090274</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Medicine (Baltimore). 2002 Mar;81(2):87-100</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11889410</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

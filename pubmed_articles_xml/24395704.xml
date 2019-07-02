@@ -1,0 +1,1261 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">24395704</PMID>
+<DateCompleted>
+<Year>2014</Year>
+<Month>12</Month>
+<Day>30</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2018</Year>
+<Month>11</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1098-1004</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>35</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2014</Year>
+<Month>Jun</Month>
+</PubDate>
+</JournalIssue>
+<Title>Human mutation</Title>
+<ISOAbbreviation>Hum. Mutat.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Mutant TP53 posttranslational modifications: challenges and opportunities.</ArticleTitle>
+<Pagination>
+<MedlinePgn>738-55</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1002/humu.22506</ELocationID>
+<Abstract>
+<AbstractText>The wild-type (WT) human p53 (TP53) tumor suppressor can be posttranslationally modified at over 60 of its 393 residues. These modifications contribute to changes in TP53 stability and in its activity as a transcription factor in response to a wide variety of intrinsic and extrinsic stresses in part through regulation of protein-protein and protein-DNA interactions. The TP53 gene frequently is mutated in cancers, and in contrast to most other tumor suppressors, the mutations are mostly missense often resulting in the accumulation of mutant (MUT) protein, which may have novel or altered functions. Most MUT TP53s can be posttranslationally modified at the same residues as in WT TP53. Strikingly, however, codons for modified residues are rarely mutated in human tumors, suggesting that TP53 modifications are not essential for tumor suppression activity. Nevertheless, these modifications might alter MUT TP53 activity and contribute to a gain-of-function leading to increased metastasis and tumor progression. Furthermore, many of the signal transduction pathways that result in TP53 modifications are altered or disrupted in cancers. Understanding the signaling pathways that result in TP53 modification and the functions of these modifications in both WT TP53 and its many MUT forms may contribute to more effective cancer therapies. </AbstractText>
+<CopyrightInformation>Published 2014. Wiley Periodicals, Inc. **This article is a U.S. Government work and is in the public domain in the USA.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Nguyen</LastName>
+<ForeName>Thuy-Ai</ForeName>
+<Initials>TA</Initials>
+<AffiliationInfo>
+<Affiliation>Chromosome Stability Section, Laboratory of Molecular Genetics, National Institute of Environmental Health Sciences, Research Triangle Park, North Carolina.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Menendez</LastName>
+<ForeName>Daniel</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Resnick</LastName>
+<ForeName>Michael A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Anderson</LastName>
+<ForeName>Carl W</ForeName>
+<Initials>CW</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>Z01 ES065079-15</GrantID>
+<Acronym>NULL</Acronym>
+<Agency>Intramural NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2014</Year>
+<Month>02</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Hum Mutat</MedlineTA>
+<NlmUniqueID>9215429</NlmUniqueID>
+<ISSNLinking>1059-7794</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C495901">TP53 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D016159">Tumor Suppressor Protein p53</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000107">Acetylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015972">Gene Expression Regulation, Neoplastic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008745">Methylation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009154">Mutation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009369">Neoplasms</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010766">Phosphorylation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016159">Tumor Suppressor Protein p53</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000096">biosynthesis</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D054875">Ubiquitination</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<KeywordList Owner="NOTNLM">
+<Keyword MajorTopicYN="N">TP53</Keyword>
+<Keyword MajorTopicYN="N">acetylation</Keyword>
+<Keyword MajorTopicYN="N">methylation</Keyword>
+<Keyword MajorTopicYN="N">p53</Keyword>
+<Keyword MajorTopicYN="N">phosphorylation</Keyword>
+<Keyword MajorTopicYN="N">transcription</Keyword>
+<Keyword MajorTopicYN="N">ubiquitylation</Keyword>
+</KeywordList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2013</Year>
+<Month>09</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2014</Year>
+<Month>01</Month>
+<Day>02</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2014</Year>
+<Month>1</Month>
+<Day>8</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2014</Year>
+<Month>12</Month>
+<Day>31</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24395704</ArticleId>
+<ArticleId IdType="doi">10.1002/humu.22506</ArticleId>
+<ArticleId IdType="pmc">PMC4074372</ArticleId>
+<ArticleId IdType="mid">NIHMS579188</ArticleId>
+</ArticleIdList>
+<ReferenceList>
+<Reference>
+<Citation>J Biol Chem. 2010 Nov 26;285(48):37725-32</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20870725</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Physiol. 2010 Nov;225(2):394-405</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20589832</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2003 Jul 8;100(14):8424-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12826609</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Cycle. 2011 Dec 15;10(24):4330-40</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22134238</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Clin Endocrinol Metab. 2001 Oct;86(10):4970-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11600572</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochemistry. 2010 Jun 29;49(25):5331-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20499882</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 2011 Jun 6;585(11):1625-39</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21570395</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Biol Ther. 2012 Aug;13(10):848-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22785213</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1994 Jul 15;265(5170):346-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8023157</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Cell Biol. 2010 May;20(5):299-309</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20172729</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2004 Jan 2;279(1):348-55</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14559903</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pathol. 2002 May;197(1):82-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12081208</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Biol Cell. 2005 Apr;16(4):1684-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15659650</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Cell. 2012 Dec 11;22(6):751-64</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23238012</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Biol Sci. 2012;8(5):672-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22606048</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer Res. 2010 Feb;8(2):216-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20145032</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2012 Mar 30;287(14):11151-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22334668</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1994 Jun 21;91(13):6098-102</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8016121</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>PLoS One. 2012;7(12):e51426</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23251530</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2003 Sep 26;278(39):37536-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12860987</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2013 Mar 5;110(10):3895-900</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23431171</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2007 Dec;27(23):8284-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17908790</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2004 Jul 15;64(14):4749-54</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15256442</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell. 2001 Feb;7(2):283-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11239457</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Cell. 2011 Jul 12;20(1):79-91</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21741598</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2004 Oct;24(20):8884-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15456863</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Brief Funct Genomics. 2013 Jan;12(1):46-57</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23242178</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2007 Feb 9;315(5813):840-3</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17234915</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2005 Jul;25(13):5389-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15964796</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Mol Biol Transl Sci. 2012;106:145-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22340717</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2001 Jul 31;98(16):9330-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11481490</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>DNA Repair (Amst). 2011 Oct 10;10(10):1071-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21868291</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2010 Dec;30(24):5787-94</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20956556</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nucleic Acids Res. 2013 Jan;41(Database issue):D962-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23161690</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Annu Rev Biochem. 2012;81:587-613</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22482904</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2012 Sep 27;31(39):4290-301</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22249259</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2009 Jun 1;69(11):4818-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19487292</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Cycle. 2010 Apr 1;9(7):1390-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20234175</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Signal Transduct. 2012;2012:294097</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22545213</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2003 Oct 17;278(42):41028-33</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12909629</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mutat. 2014 Jun;35(6):715-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24415648</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Dev. 2008 May 15;22(10):1337-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18483220</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2010 Aug 5;29(31):4378-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20514025</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2013 May 9;32(19):2452-62</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22797063</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Genet Dev. 2009 Feb;19(1):18-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19179064</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2009 May 21;28(20):2112-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19363523</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell. 2007 Nov 9;28(3):408-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17996705</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2009 May 1;137(3):413-31</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19410540</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cold Spring Harb Perspect Biol. 2009 Dec;1(6):a000950</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20457558</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 1999 Jun 4;274(23):16531-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10347217</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biol. 2011 Jan 24;192(2):209-18</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21263025</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Proteomics. 2008 Apr;7(4):716-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18178582</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mol Cell Biol. 2012 Oct;4(5):294-303</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22735644</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Genet. 1998 Jun;19(2):175-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9620776</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochemistry. 1997 Aug 19;36(33):10117-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9254608</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Anticancer Res. 2011 Jun;31(6):2255-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21737649</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Cell Biol. 2013 May 13;201(4):511-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23649806</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Struct Mol Biol. 2011 Dec;18(12):1345-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22120668</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Gynecol Cancer. 2009 Nov;19(8):1322-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20009884</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell. 2011 Aug 19;43(4):681-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21855806</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2012 Jun 8;149(6):1269-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22682249</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1995 Mar 10;267(5203):1498-502</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7878469</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Cycle. 2005 Sep;4(9):1247-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16082226</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2003 Aug;23(16):5556-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12897130</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Signal. 2013 Jan;25(1):74-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22975685</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 1991 Jul 5;253(5015):49-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">1905840</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 1997 Sep 4;15(10):1179-89</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9294611</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2007 May;9(5):573-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17417627</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2007 Jun 1;129(5):915-28</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17540172</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2008 Dec;10(12):1431-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19011621</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2010 Nov 9;107(45):19479-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20962274</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mol Biol. 2010 May 14;398(4):489-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20307547</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Cycle. 2006 Dec;5(23):2812-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17172844</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Cycle. 2007 Jun 1;6(11):1304-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17534149</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Biol Ther. 2007 Oct;6(10):1576-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17895645</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Cancer. 2009 Nov;9(11):831-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19776746</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer Res. 2011 Nov;9(11):1493-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21933903</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Cancer. 2009 Oct;9(10):701-13</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19693097</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2006 Sep;26(18):6859-69</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16943427</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2005 Jul;25(13):5380-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15964795</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Cancer. 2009 Oct;9(10):714-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19730431</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Drug Discov. 2010 Aug;9(8):643-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20671765</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2010 Nov 9;107(45):19290-5</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20962272</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2003 Aug 19;100(17):9934-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12909720</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cancer Res. 2011 May;9(5):577-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21478269</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2011 Feb;18(2):214-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20671749</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2013 Jan;15(1):2-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23263379</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO J. 2001 Apr 2;20(7):1630-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11285227</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1994 Mar 15;91(6):1998-2002</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8134338</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>FEBS Lett. 2010 Apr 16;584(8):1443-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20206173</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2005 Jul 19;102(29):10188-93</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16006521</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2008 Dec 12;283(50):34660-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18840612</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 1995 Jul 28;270(30):18165-74</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">7629129</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO J. 2004 Sep 15;23(18):3689-99</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15343266</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Cycle. 2010 Feb 1;9(3):540-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20081368</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2008 May 16;133(4):612-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18485870</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Mol Med. 2010 Nov;16(11):528-36</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20932800</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Struct Mol Biol. 2007 Oct;14(10):912-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17906639</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Annu Rev Biochem. 2013;82:81-118</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23642229</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Dev. 1998 Sep 15;12(18):2831-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9744860</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Cycle. 2012 Jun 15;11(12):2367-79</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22672905</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Cancer. 2009 Oct;9(10):724-37</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19776742</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell. 2011 Aug 19;43(4):673-80</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21855805</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Int J Biochem Cell Biol. 2010 Oct;42(10):1618-21</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20601087</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2011 Oct 11;108(41):17123-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21969549</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Rep. 2013 May 30;3(5):1512-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23665223</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Mol Biol. 2009 Dec 18;394(5):922-30</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19819244</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2006 Sep 14;443(7108):214-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16957739</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2010 Jun;17(6):901-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20379196</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Aging (Albany NY). 2009 May;1(5):490-502</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20157532</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Commun. 2012;3:927</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22735455</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell. 2008 Feb 15;29(3):392-400</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18280244</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prostate. 2013 Mar;73(4):418-27</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22996738</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Biochem Sci. 2011 Oct;36(10):501-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21852138</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Metastasis Rev. 2008 Jun;27(2):123-35</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18265945</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Genes Cancer. 2012 Nov;3(11-12):739-48</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23634261</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Rep. 2013 May 30;3(5):1339-45</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23665218</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Biol. 2004 Feb;24(3):976-84</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">14729946</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Biol Ther. 2011 Dec 15;12(12):1059-68</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22157150</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Cycle. 2012 Dec 1;11(23):4436-46</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23151455</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell Death Differ. 2010 Jan;17(1):86-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19543236</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Mol Cell Biol. 2013 Apr;14(4):211-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23524488</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2004 Dec 10;279(50):52175-82</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15469940</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncol Rep. 2004 Nov;12(5):1039-43</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15492790</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Biol Ther. 2008 Sep;7(9):1481-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18769132</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2003 Sep 4;22(38):5958-66</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12955074</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2011 Jan 7;286(1):252-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20978130</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Mol Biol Transl Sci. 2012;110:263-88</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22749149</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Semin Cell Dev Biol. 2011 Sep;22(7):688-95</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21945648</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Cell Biol. 2005 Feb;7(2):165-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15619621</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 1997 Oct 31;91(3):325-34</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">9363941</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2013 Jun 7;288(23):16704-14</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23612969</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2009 Jan 30;284(5):3250-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19033443</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2002 Dec 27;277(52):50607-11</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12421820</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Carcinogenesis. 2012 Aug;33(8):1441-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22505655</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2009 Jul 10;284(28):18588-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19473992</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 1999 Oct 28;18(44):6037-49</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10557093</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2011 Nov 22;108(47):18937-42</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22084066</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Trends Cell Biol. 2011 Jun;21(6):344-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21601459</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 1993 Jul 1;90(13):5954-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8327466</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO J. 2006 Jun 7;25(11):2615-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16757976</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nature. 2007 Sep 6;449(7158):105-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17805299</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Cell. 2012 Jul 10;22(1):9-20</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22789535</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Pharmacol. 2011 Aug;11(4):281-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21497135</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Cancer. 2004 Oct;4(10):793-805</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15510160</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Essays Biochem. 2012;52:79-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22708565</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>EMBO Rep. 2012 Jul;13(7):638-44</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22653443</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2001 Jun 7;20(26):3341-7</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11423984</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Science. 2013 Mar 29;339(6127):1546-58</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23539594</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2009 Apr 3;137(1):87-98</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19345189</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2013 Jul 5;288(27):19581-92</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23677994</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Biochem Biophys Res Commun. 1999 Aug 2;261(2):256-63</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">10425175</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Epigenomics. 2011 Jun;3(3):361-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21826189</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2004 Dec 17;119(6):847-60</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15607980</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Cell Biol. 2003 Apr;15(2):164-71</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12648672</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2009 May 15;137(4):609-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19450511</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Mol Cell Proteomics. 2014 Jan;13(1):1-17</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">24056736</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2014 Feb 20;33(8):939-53</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23503460</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Genet Dev. 2007 Feb;17(1):66-70</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17208429</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2005 May 1;65(9):3610-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15867355</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Med Mol Morphol. 2006 Jun;39(2):79-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16821145</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Proc Natl Acad Sci U S A. 2009 Apr 21;106(16):6591-6</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19357310</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cell. 2004 Dec 17;119(6):861-72</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15607981</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncology. 2004;67(2):143-50</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">15539919</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cancer Res. 2007 Dec 15;67(24):11696-703</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18089799</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Prog Mol Biol Transl Sci. 2012;106:307-25</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22340722</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Pathol. 2011 Jan;223(2):116-26</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21125670</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Mol Cell Biol. 2008 May;9(5):402-12</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18431400</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2011 Jul 15;286(28):25076-87</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21586571</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Cancer. 2006 Dec;6(12):909-23</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17128209</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>J Biol Chem. 2006 Sep 29;281(39):28575-83</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16870621</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Curr Opin Oncol. 2011 Jan;23(1):62-8</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21119514</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Struct Mol Biol. 2012 Sep;19(9):916-24</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22864287</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Hum Mutat. 2007 Jun;28(6):622-9</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17311302</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Cancer. 2013 Feb;13(2):83-96</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">23303139</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Cold Spring Harb Perspect Biol. 2009 Nov;1(5):a001883</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">20066118</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Oncogene. 2007 Nov 22;26(53):7414-22</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">17546051</ArticleId>
+</ArticleIdList>
+</Reference>
+<Reference>
+<Citation>Nat Rev Cancer. 2010 Dec;10(12):825-41</Citation>
+<ArticleIdList>
+<ArticleId IdType="pubmed">21102634</ArticleId>
+</ArticleIdList>
+</Reference>
+</ReferenceList>
+</PubmedData>
+</PubmedArticle>

@@ -1,0 +1,189 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">18486298</PMID>
+<DateCompleted>
+<Year>2008</Year>
+<Month>10</Month>
+<Day>21</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2009</Year>
+<Month>08</Month>
+<Day>25</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0300-9572</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>78</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2008</Year>
+<Month>Aug</Month>
+</PubDate>
+</JournalIssue>
+<Title>Resuscitation</Title>
+<ISOAbbreviation>Resuscitation</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Hyperbaric oxygen improves rate of return of spontaneous circulation after prolonged normothermic porcine cardiopulmonary arrest.</ArticleTitle>
+<Pagination>
+<MedlinePgn>200-14</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.resuscitation.2008.02.026</ELocationID>
+<Abstract>
+<AbstractText Label="AIM" NlmCategory="OBJECTIVE">This controlled, prospective, randomized porcine study tests the hypothesis that high-dose hyperbaric oxygen (HDHBO2) compared with normobaric oxygen (NBO2) or standard-dose hyperbaric oxygen (SDHBO2), improves return of sustained spontaneous circulation (ROSC) after a normothermic, normobaric, 25-min, non-intervened-upon cardiopulmonary arrest. The study incorporated a direct mechanical ventricular assist device (DMVAD) for open chest continuous cardiac compressions (OCCC) to assist advanced cardiac life support (ACLS). The experiment demonstrates a dose response to oxygen concentration in the breathing mix used in resuscitative ventilation.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Male pigs (average 30kg weight) underwent a 25-min, normothermic, non-intervened-upon cardiopulmonary arrest. Following arrest all animals were ventilated with 100% oxygen and were subjected to OCCC, incorporating DMVAD-aided ACLS. The animals so treated were randomized to be in one of three groups, with six animals in each group. The NBO2 group remained at 1.0 atmosphere absolute (ATA), while the SDHBO2 and HDHBO2 groups were initially placed at 1.9 and 4.0ATA, respectively. Uniform, but not American Heart Association (AHA) protocol, ACLS was maintained as needed over the ensuing 2h for all animals in all groups. At the end of 2h, the animals were euthanized.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Continuously sustained ROSC (mean arterial pressure &gt; or =50mmHg at all times), without the need of the pump assist over the 2-h resuscitation attempt that followed the 25-min arrest, occurred in four out of six animals in the HDHBO2 group, and in none of the animals in the NBO2 or SBHBO2 groups (p&lt; or =0.001).</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our results show significantly sustained ROSC using HDHBO2 to resuscitate swine after a 25-min, non-intervened-upon, normothermic cardiopulmonary arrest. These results could not be achieved using NBO2 or SDHBO2.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Van Meter</LastName>
+<ForeName>Keith</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Section of Emergency Medicine, Department of Medicine, and Neuroscience Center of Excellence, LSU Health Sciences Center in New Orleans, LA, United States. scusimano@newsouth.net</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sheps</LastName>
+<ForeName>Simon</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kriedt</LastName>
+<ForeName>Fred</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Moises</LastName>
+<ForeName>James</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Barratt</LastName>
+<ForeName>Diana</ForeName>
+<Initials>D</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Murphy-Lavoie</LastName>
+<ForeName>Heather</ForeName>
+<Initials>H</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Harch</LastName>
+<ForeName>Paul G</ForeName>
+<Initials>PG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bazan</LastName>
+<ForeName>Nicolas</ForeName>
+<Initials>N</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2008</Year>
+<Month>05</Month>
+<Day>16</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>Ireland</Country>
+<MedlineTA>Resuscitation</MedlineTA>
+<NlmUniqueID>0332173</NlmUniqueID>
+<ISSNLinking>0300-9572</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000704">Analysis of Variance</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006323">Heart Arrest</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006353">Heart-Assist Devices</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D006931">Hyperbaric Oxygenation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011897">Random Allocation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020127">Recovery of Function</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012039">Regional Blood Flow</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013552">Swine</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2007</Year>
+<Month>08</Month>
+<Day>13</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2008</Year>
+<Month>02</Month>
+<Day>07</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2008</Year>
+<Month>02</Month>
+<Day>20</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2008</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2008</Year>
+<Month>10</Month>
+<Day>22</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2008</Year>
+<Month>5</Month>
+<Day>20</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">18486298</ArticleId>
+<ArticleId IdType="pii">S0300-9572(08)00132-9</ArticleId>
+<ArticleId IdType="doi">10.1016/j.resuscitation.2008.02.026</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>
