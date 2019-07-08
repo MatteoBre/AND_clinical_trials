@@ -1,4 +1,10 @@
 from nltk.tag import StanfordNERTagger
+import spacy
+from spacy import displacy
+from collections import Counter
+import en_core_web_sm
+from nltk.tokenize import word_tokenize
+from itertools import groupby
 import os
 
 
@@ -28,3 +34,41 @@ def get_stanford_ner_tagger():
     os.environ['JAVAHOME'] = java_path
 
     return tagger
+
+
+def get_organizations_with_stanford(organizations):
+    tagger = get_stanford_ner_tagger()
+    stanford_organizations = []
+
+    for org in organizations:
+
+        if org is None:
+            stanford_organizations.append(None)
+            continue
+
+        tokenized_text = word_tokenize(org)
+        classified_text = tagger.tag(tokenized_text)
+
+        possible_organizations = []
+        for tag, chunk in groupby(classified_text, lambda x: x[1]):
+            if tag == "ORGANIZATION":
+                org_name = " ".join(w for w, t in chunk)
+                possible_organizations.append(org_name)
+
+        stanford_organizations.append(possible_organizations)
+
+    return stanford_organizations
+
+
+def get_organizations_with_spacy(organizations):
+    nlp = en_core_web_sm.load()
+    spacy_organizations = []
+
+    for org in organizations:
+        if org is None:
+            spacy_organizations.append(None)
+            continue
+        doc = nlp(org.replace(';', ','))
+        spacy_organizations.append([X.text for X in doc.ents if X.label_ == 'ORG'])
+
+    return spacy_organizations

@@ -2,9 +2,7 @@
 # I start to get them for the clinical trials
 from clinical_trials.clinical_trial import ClinicalTrial
 from common_functions import common_functions
-from nltk.tokenize import word_tokenize
 from datetime import datetime
-from itertools import groupby
 
 
 # Here I get the NCT correspondency in the gold standard to the cell in my clinical_trials
@@ -61,25 +59,17 @@ def get_all_name_parts(clinical_trials, gold_standard):
     return last_names, first_name_initials, first_names
 
 
-def get_all_organization_names(clinical_trials, last_names, initials):
+def get_all_organization_names(clinical_trials, last_names, initials, sample='standard'):
+    if sample not in ['standard', 'spacy', 'stanford']:
+        raise ValueError('sample can assume only these values: standard, spacy, stanford')
     organizations = []
-    # tagger = common_functions.get_stanford_ner_tagger()
     for i in range(len(clinical_trials)):
         organization_name = clinical_trials[i].get_organization_name(last_names[i], initials[i])
-        '''
-        # I apply the Stanford NER
-        tokenized_text = word_tokenize(organization_name)
-        classified_text = tagger.tag(tokenized_text)
-
-        possible_organizations = []
-        for tag, chunk in groupby(classified_text, lambda x: x[1]):
-            if tag == "ORGANIZATION":
-                org_name = ("%-12s" % tag, " ".join(w for w, t in chunk))
-                possible_organizations.append(org_name)
-
-        organizations.append(possible_organizations)
-        '''
         organizations.append(organization_name)
+    if sample == 'spacy':
+        organizations = common_functions.get_organizations_with_spacy(organizations)
+    if sample == 'stanford':
+        organizations = common_functions.get_organizations_with_stanford(organizations)
     return organizations
 
 

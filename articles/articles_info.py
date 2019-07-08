@@ -48,11 +48,17 @@ def get_all_name_parts(articles, gold_standard):
     return last_names, first_name_initials, first_names
 
 
-def get_all_organizations(articles, last_names, initials):
+def get_all_organizations(articles, last_names, initials, sample='standard'):
+    if sample not in ['standard', 'spacy', 'stanford']:
+        raise ValueError('sample can assume only these values: standard, spacy, stanford')
     organizations = []
     for i in range(len(articles)):
         organization_name = articles[i].get_organization_name(last_names[i], initials[i])
         organizations.append(organization_name)
+    if sample == 'spacy':
+        organizations = common_functions.get_organizations_with_spacy(organizations)
+    if sample == 'stanford':
+        organizations = common_functions.get_organizations_with_stanford(organizations)
     return organizations
 
 

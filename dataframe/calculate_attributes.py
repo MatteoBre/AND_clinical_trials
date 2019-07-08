@@ -42,28 +42,39 @@ def get_string_arrays_similarity(arr1, arr2):
     return similarities
 
 
-def get_similarity(phrase1, phrase2):
-    words1 = phrase1.split(" ")
-    words2 = phrase2.split(" ")
-    counter = 0
-    for word1 in words1:
-        for word2 in words2:
-            if word1 == word2:
-                counter += 1
-                break
-    return counter/len(words1)
+def get_best_similarity(arr1, arr2):
+    max_score = 0
+    for org1 in arr1:
+        for org2 in arr2:
+            max_length = len(max([org1, org2], key=len))
+            score = 1-(levenshtein(org1, org2)/max_length)
+
+            if score > max_score:
+                max_score = score
+    return max_score
 
 
-def get_organization_similarity(ct_org, ar_org):
+def get_similarity(org1, org2, ct_sample, ar_sample):
+
+    if ct_sample == 'standard' and ar_sample == 'standard':
+        max_length = len(max([org1, org2], key=len))
+        return 1-(levenshtein(org1, org2)/max_length)
+
+    if ct_sample == 'standard' and ar_sample != 'standard':
+        similarity = get_best_similarity([org1], org2)
+    else:
+        similarity = get_best_similarity(org1, org2)
+
+    return similarity
+
+
+def get_organization_similarity(ct_org, ar_org, ct_sample, ar_sample):
+    if ct_sample not in ['standard', 'spacy', 'stanford'] or ar_sample not in ['standard', 'spacy', 'stanford']:
+        raise ValueError('ct_sample and ar_sample can assume only these values: standard, spacy, stanford')
     similarities = []
     for i in range(len(ct_org)):
-        if ct_org[i] is not None:
-            ct_org[i] = ct_org[i].replace('.', '').replace(',', '').replace(';', '').replace('-', ' ')
-        if ar_org[i] is not None:
-            ar_org[i] = ar_org[i].replace('.', '').replace(',', '').replace(';', '').replace('-', ' ')
-
         if ct_org[i] is not None and ar_org[i] is not None:
-            similarities.append(get_similarity(ct_org[i], ar_org[i]))
+            similarities.append(get_similarity(ct_org[i], ar_org[i], ct_sample, ar_sample))
         else:
             similarities.append(0)
     return similarities
