@@ -1,3 +1,6 @@
+from common_functions import common_functions
+
+
 class ClinicalTrial:
 
     def __init__(self, clinical_trial):
@@ -17,20 +20,25 @@ class ClinicalTrial:
         first_name_initial = first_name[0]
         return last_name, first_name_initial, first_name
 
-    def get_organization_name(self):
+    def get_organization_name(self, last_name, initial):
+
+        tags = self.get_all_name_tags(last_name, initial)
+
+        for tag in tags:
+            if tag.parent.investigator_affiliation is not None:
+                return tag.parent.investigator_affiliation.text
+            if tag.affiliation is not None:
+                return tag.affiliation.text
+
+
+        '''
         try:
             org_name = self.clinical_trial.responsible_party.investigator_affiliation
         except AttributeError:
             org_name = None
 
         if org_name is not None and org_name.text.strip() != "":
-            # print(org_name.text)
-            return org_name.text.strip().lower()
-
-        # org_name = clinical_trial.responsible_party.organization
-        # if (org_name != None and org_name.text.strip() != ""):
-        # print(org_name.text)
-        # return org_name.text.strip().lower()
+            return org_name.text.strip()
 
         try:
             org_name = self.clinical_trial.overall_official.affiliation
@@ -38,69 +46,66 @@ class ClinicalTrial:
             org_name = None
 
         if org_name is not None and org_name.text.strip() != "":
-            # print(org_name.text)
-            return org_name.text.strip().lower()
+            return org_name.text.strip()
 
-        # org_name = clinical_trial.source
-        # if (org_name != None and org_name.text.strip() != ""):
-        # print(org_name.text)
-        # return org_name.text.strip().lower()
-
+        print(self.clinical_trial.id_info.nct_id.text, 'doesn\'t have an organization.')
+        '''
         print(self.clinical_trial.id_info.nct_id.text, 'doesn\'t have an organization.')
         return ""
 
     def get_mail(self, last_name, initial):
-        try:
-            mail = self.clinical_trial.clinical_results.point_of_contact.email
-        except AttributeError:
-            mail = None
 
-        if mail is not None:
-            mail = mail.text.split(";")
-            return mail[0].strip()
+        tags = self.get_all_name_tags(last_name, initial)
 
-        try:
-            mail = self.clinical_trial.location
-        except AttributeError:
-            mail = None
+        mails = []
 
-        if mail is not None:
-            contacts = [contact for contact in mail.findAll() if contact.name == 'contact']
-            for contact in contacts:
-                if(self.extrapolate_name_parts(contact.find('last_name').text)[0] == last_name and
-                        self.extrapolate_name_parts(contact.find('last_name').text)[1] == initial and
-                        contact.find('email') is not None):
-                    return contact.find('email').text.strip()
+        points_of_contact = self.clinical_trial.findAll('point_of_contact')
+        mails.extend([point.email.text.split(";")[0] for point in points_of_contact if point.email is not None])
 
+        mails.extend([tag.email.text for tag in tags if tag.email is not None])
+
+        for mail in mails:
+            return mail.lower().strip()
         return None
 
+    def get_all_name_tags(self, correct_last_name, correct_first_name_initial):
+        tags = []
+
+        overall_contacts = self.clinical_trial.findAll('overall_contact')
+        tags.extend([official for official in overall_contacts if
+                     self.extrapolate_name_parts(official.last_name.text)[0] == correct_last_name and
+                     self.extrapolate_name_parts(official.last_name.text)[1] == correct_first_name_initial])
+
+        overall_officials = self.clinical_trial.findAll('overall_official')
+        tags.extend([official for official in overall_officials if
+                     self.extrapolate_name_parts(official.last_name.text)[0] == correct_last_name and
+                     self.extrapolate_name_parts(official.last_name.text)[1] == correct_first_name_initial])
+
+        investigator_full_name = self.clinical_trial.findAll('investigator_full_name')
+        tags.extend([official for official in investigator_full_name if
+                     self.extrapolate_name_parts(official.text)[0] == correct_last_name and
+                     self.extrapolate_name_parts(official.text)[1] == correct_first_name_initial])
+        return tags
+
     def get_name(self, correct_last_name, correct_first_name_initial):
-        # I get the name from the 3 possible locations
-        try:
-            name_1 = self.clinical_trial.overall_official.last_name
-        except AttributeError:
-            name_1 = None
 
-        try:
-            name_2 = self.clinical_trial.responsible_party.investigator_full_name
-        except AttributeError:
-            name_2 = None
+        tags = self.get_all_name_tags(correct_last_name, correct_first_name_initial)
 
-        try:
-            name_3 = self.clinical_trial.overall_contact.last_name
-        except AttributeError:
-            name_3 = None
+        for tag in tags:
+            if tag.last_name is not None:
+                return tag.last_name
+            return tag
+        return None
 
-        # I get the right name, the one that coincides with the name on the gold standard
-        name = None
-        if (name_1 is not None and self.extrapolate_name_parts(name_1.text)[0] == correct_last_name and
-                self.extrapolate_name_parts(name_1.text)[1] == correct_first_name_initial):
-            name = name_1
-        if (name_2 is not None and self.extrapolate_name_parts(name_2.text)[0] == correct_last_name and
-                self.extrapolate_name_parts(name_2.text)[1] == correct_first_name_initial):
-            name = name_2
-        if (name_3 is not None and self.extrapolate_name_parts(name_3.text)[0] == correct_last_name and
-                self.extrapolate_name_parts(name_3.text)[1] == correct_first_name_initial):
-            name = name_3
+    def get_year(self):
+        date = self.clinical_trial.find('study_first_submitted')
 
-        return name
+        if date is None:
+            return None
+
+        strings = date.text.split(' ')
+
+        return strings[-1]
+
+    def get_country(self):
+        pass

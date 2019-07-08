@@ -67,3 +67,18 @@ def get_organization_similarity(ct_org, ar_org):
         else:
             similarities.append(0)
     return similarities
+
+
+def get_year_differences(ct_years, ar_years):
+    differences = []
+    for i in range(len(ct_years)):
+        difference = abs(ct_years[i] - ar_years[i])
+        differences.append(difference)
+    return differences
+
+
+def get_last_name_lengths(last_names):
+    lengths = []
+    for i in range(len(last_names)):
+        lengths.append(len(last_names[i]))
+    return lengths

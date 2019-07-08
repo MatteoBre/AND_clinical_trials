@@ -4,6 +4,7 @@ def numerical_answers(df):
     df.replace({'2': {'yes': 1, 'no': 0}}, inplace=True)
     df.replace({'3': {'yes': 1, 'ynes': 1, 'no': 0}}, inplace=True)
 
+
 def checkData(data):
     error = False
     for i in range(len(data)):
@@ -18,6 +19,7 @@ def checkData(data):
             print('error at', i, ': common answer should be no')
             error = True
     return error
+
 
 def correctData(data):
     for i in range(len(data)):

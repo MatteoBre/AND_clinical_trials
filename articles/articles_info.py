@@ -1,6 +1,8 @@
 # We need to get the last name, first name initial, first name, e-mail and organization
 # Now let's do that for the PubMed articles
 from articles.article import Article
+from common_functions import common_functions
+from datetime import datetime
 
 
 def get_gold_standard_last_name(pm_id, gold_standard):
@@ -60,3 +62,20 @@ def get_all_mails(articles, last_names, initials):
         mail = articles[i].get_mail(last_names[i], initials[i])
         mails.append(mail)
     return mails
+
+
+def get_all_years(articles):
+    years = []
+    for i in range(len(articles)):
+        year = articles[i].get_year()
+        if year is None:
+            year = datetime.now().year
+        years.append(int(year))
+    return years
+
+
+def get_all_initials(first_names):
+    initials = []
+    for i in range(len(first_names)):
+        initials.append(common_functions.get_initials(first_names[i]))
+    return initials

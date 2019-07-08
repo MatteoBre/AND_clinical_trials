@@ -1,3 +1,6 @@
+from pymaybe import maybe
+
+
 class Article:
 
     def __init__(self, article):
@@ -7,8 +10,8 @@ class Article:
         authors = self.article.MedlineCitation.Article.AuthorList
         for author in authors.findAll():
 
-            if (author.find('LastName') is not None and author.find('LastName').text.lower() == last_name and
-                    author.find('Initials') is not None and author.find('Initials').text.lower()[0] == initial):
+            if (maybe(author).find('LastName').text.lower() == last_name and
+                    maybe(author).find('Initials').text.lower()[0] == initial):
                 pass
             else:
                 continue
@@ -34,8 +37,8 @@ class Article:
         authors = self.article.MedlineCitation.Article.AuthorList
 
         for author in authors.findAll():
-            if (author.find('LastName') is not None and author.find('LastName').text.lower() == last_name and
-                    author.find('Initials') is not None and author.find('Initials').text.lower()[0] == initial):
+            if (maybe(author).find('LastName').text.lower() == last_name and
+                    maybe(author).find('Initials').text.lower()[0] == initial):
                 return author
         return None
 
@@ -63,4 +66,17 @@ class Article:
         mail_string = mail_string[0]
         if mail_string[-1] == '.':
             mail_string = mail_string[:-1]
-        return mail_string.strip()
+        return mail_string.lower().strip()
+
+    def get_year(self):
+        date = self.article.PubDate
+
+        year = date.Year
+        if year is not None:
+            return year.text
+
+        year = date.MedlineDate
+        if year is not None:
+            return year.text.split(' ')[0]
+
+        return None
