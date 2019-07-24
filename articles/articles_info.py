@@ -48,18 +48,29 @@ def get_all_name_parts(articles, gold_standard):
     return last_names, first_name_initials, first_names
 
 
-def get_all_organizations(articles, last_names, initials, sample='standard'):
+def get_all_formatted_words(string):
+    if string is None:
+        return None
+    arr = string.lower().strip().replace(",", " ").replace(";", " ").replace(".", " "). replace("-", " ").split(" ")
+    arr = [word for word in arr if word is not None and word != ""]
+    return arr
+
+
+def get_all_organizations_locations(articles, last_names, initials, sample='standard'):
     if sample not in ['standard', 'spacy', 'stanford']:
         raise ValueError('sample can assume only these values: standard, spacy, stanford')
     organizations = []
+    locations = []
     for i in range(len(articles)):
         organization_name = articles[i].get_organization_name(last_names[i], initials[i])
         organizations.append(organization_name)
+        if sample == 'standard':
+            locations.append(get_all_formatted_words(organization_name))
     if sample == 'spacy':
-        organizations = common_functions.get_organizations_with_spacy(organizations)
+        organizations, locations = common_functions.get_organizations_locations_with_spacy(organizations)
     if sample == 'stanford':
-        organizations = common_functions.get_organizations_with_stanford(organizations)
-    return organizations
+        organizations, locations = common_functions.get_organizations_locations_with_stanford(organizations)
+    return organizations, locations
 
 
 def get_all_mails(articles, last_names, initials):
@@ -85,3 +96,17 @@ def get_all_initials(first_names):
     for i in range(len(first_names)):
         initials.append(common_functions.get_initials(first_names[i]))
     return initials
+
+
+def get_all_titles(articles):
+    titles = []
+    for i in range(len(articles)):
+        titles.append(articles[i].get_title())
+    return titles
+
+
+def get_all_texts(articles):
+    texts = []
+    for i in range(len(articles)):
+        texts.append(articles[i].get_text())
+    return texts

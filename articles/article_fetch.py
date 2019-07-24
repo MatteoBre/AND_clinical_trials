@@ -52,7 +52,7 @@ def fetch_many_articles(id_list, local=False):  # To use only for >300 articles
     responses = []
     result = []
 
-    # I make requests of 300 cinical trials each
+    # I make requests of 300 articles each
     while begin < end:
         responses.append(fetch_articles(id_list[begin:(begin + 300)]))
         begin += 300

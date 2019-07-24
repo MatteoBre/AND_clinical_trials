@@ -67,9 +67,9 @@ def get_all_organization_names(clinical_trials, last_names, initials, sample='st
         organization_name = clinical_trials[i].get_organization_name(last_names[i], initials[i])
         organizations.append(organization_name)
     if sample == 'spacy':
-        organizations = common_functions.get_organizations_with_spacy(organizations)
+        organizations = common_functions.get_organizations_locations_with_spacy(organizations)
     if sample == 'stanford':
-        organizations = common_functions.get_organizations_with_stanford(organizations)
+        organizations = common_functions.get_organizations_locations_with_stanford(organizations)
     return organizations
 
 
@@ -98,8 +98,25 @@ def get_all_initials(first_names):
     return initials
 
 
-def get_all_countries(clinical_trials):
-    countries = []
+def get_all_titles(clinical_trials):
+    titles = []
     for i in range(len(clinical_trials)):
-        countries.append(clinical_trials[i].get_country())
-    return countries
+        titles.append(clinical_trials[i].get_title())
+    return titles
+
+
+def get_all_texts(clinical_trials):
+    texts = []
+    for i in range(len(clinical_trials)):
+        texts.append(clinical_trials[i].get_text())
+    return texts
+
+
+def get_all_countries_and_cities(clinical_trials):
+    countries = []
+    cities = []
+    for i in range(len(clinical_trials)):
+        country, city = clinical_trials[i].get_country_and_city()
+        countries.append(country)
+        cities.append(city)
+    return countries, cities

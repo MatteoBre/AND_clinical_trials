@@ -9,7 +9,6 @@ class Article:
     def get_affiliation_tag(self, last_name, initial):
         authors = self.article.MedlineCitation.Article.AuthorList
         for author in authors.findAll():
-
             if (maybe(author).find('LastName').text.lower() == last_name and
                     maybe(author).find('Initials').text.lower()[0] == initial):
                 pass
@@ -80,3 +79,18 @@ class Article:
             return year.text.split(' ')[0]
 
         return None
+
+    def get_title(self):
+        return self.article.ArticleTitle.text
+
+    def get_text(self):
+        abstracts = maybe(self).article.findAll('AbstractText')
+        abstracts = [abstract.text for abstract in abstracts]
+
+        return abstracts
+
+    def get_mesh_terms(self):
+        mesh_terms = maybe(self).article.findAll('MeshHeading')
+        mesh_terms = [mesh_term.text for mesh_term in mesh_terms]
+
+        return mesh_terms

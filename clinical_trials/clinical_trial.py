@@ -1,4 +1,5 @@
 from common_functions import common_functions
+from pymaybe import maybe
 
 
 class ClinicalTrial:
@@ -107,5 +108,23 @@ class ClinicalTrial:
 
         return strings[-1]
 
-    def get_country(self):
-        pass
+    def get_title(self):
+        title = self.clinical_trial.brief_title
+        if title is None:
+            return None
+        return title.text
+
+    def get_text(self):
+        brief_summary = maybe(self).clinical_trial.brief_summary.textblock.text
+        detailed_description = maybe(self).clinical_trial.detailed_description.textblock.text
+        eligibility_criteria = maybe(self).clinical_trial.eligibility.criteria.textblock.text
+
+        arr = [str(brief_summary), str(detailed_description), str(eligibility_criteria)]
+        arr = [string for string in arr if string != 'None']
+        return arr
+
+    def get_country_and_city(self):
+        locations = self.clinical_trial.findAll('location')
+        countries = [location.country.text for location in locations]
+        cities = [location.city.text for location in locations]
+        return countries, cities
