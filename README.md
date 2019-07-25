@@ -14,13 +14,16 @@ You can download them here: <https://clinicaltrials.gov/AllPublicXML.zip>.
 
 After downloading this .zip archive, you have to extract its content in the folder called "AllPublicXmL".
 You should then have an hierarchy like "AllPublicXML -> NTC0000xxx -> NCT00000102.xml".
+Copy the "AllPublicXML" folder into the "src" folder.
 
 You will need to download the text categorization library, here's the link: <https://lexsrv2.nlm.nih.gov/LexSysGroup/Projects/tc/2011/release/tc2011.tgz>.
 Extract it and place the "tc2011/data" folder in "src/java_libraries".
 
-Another thing to do is to write the path to the bin folder of your java (eg. C:\Program Files\Java\jdk-11.0.1\bin).
+Another thing to do is to write the path to the bin folder of your java (eg. C:\Program Files\Java\jdk-11.0.1\bin) in the file "java_path.txt".
 
 After doing that you can execute the .ipynb files using jupyter notebook (available in the Anaconda distribution).
+
+For now it only works for Windows.
 
 ## Components
 
