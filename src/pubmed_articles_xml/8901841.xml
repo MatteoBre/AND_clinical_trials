@@ -1,0 +1,164 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">8901841</PMID>
+<DateCompleted>
+<Year>1996</Year>
+<Month>12</Month>
+<Day>06</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>07</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0194-911X</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>28</Volume>
+<Issue>5</Issue>
+<PubDate>
+<Year>1996</Year>
+<Month>Nov</Month>
+</PubDate>
+</JournalIssue>
+<Title>Hypertension (Dallas, Tex. : 1979)</Title>
+<ISOAbbreviation>Hypertension</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The Y chromosome. Epistatic and ecogenetic interactions in genetic hypertension.</ArticleTitle>
+<Pagination>
+<MedlinePgn>895-7</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Previous studies have revealed conflicting evidence concerning a Y-chromosome effect on blood pressure (BP) in genetic crosses involving different strains of spontaneously hypertensive rats (SHR or SHRSP). We had previously found an approximately 16 mm Hg difference in systolic BP (P &lt; 10(-7)) at baseline but not after dietary salt loading (P = .82) between F2 males derived from an SHRSPHD grandfather and a Wistar-Kyoto (WKYHD-0) grandmother and F2 males from a reciprocal cross (WKYHD-0 grandfather). When we examined F2 animals from reciprocal crosses between SHRSPHD and a congenic strain, WKYHD-1, which carries a 6-centimorgan-long SHRSPHD-homologous genomic fragment on chromosome 10 that contains a quantitative trait locus linked to BP (BP/SP-la), we found no significant differences either at baseline (P = .39) or after salt loading (P = .51) in the two reciprocal F2 cohorts. To test the hypothesis that Y-chromosome-autosomal epistasis accounts for the discrepant Y-chromosome effects on BP, we analyzed the interaction between BP/SP-1a and reciprocal cross status on BP in the two crosses. In the F2 (WKYHD-0xSHRSPHD) cross, no significant interaction was found for basal systolic BP (P = .89), arguing against a major influence of BP/SP-1a on the Y-chromosome effects on basal BP. However, a significant interaction between zygosity at the BP/SP-1a locus and reciprocal cross status for systolic BP after salt loading (P = .022) indicated that the BP/SP-1a-SHRSPHD allele exhibited a significant effect on BP after dietary excess salt only in males that inherited the SHRSP Y chromosome. These results support the relevance of a Y-chromosome effect on BP and suggest that a complex interplay of epistatic and ecogenetic interactions governs its effect on phenotype.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Kreutz</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Medicine, Brigham and Women's Hospital, Boston, MA 02115, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stock</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Struk</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lindpaintner</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>K04HL03039</GrantID>
+<Acronym>HL</Acronym>
+<Agency>NHLBI NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Hypertension</MedlineTA>
+<NlmUniqueID>7906255</NlmUniqueID>
+<ISSNLinking>0194-911X</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D017673">Sodium Chloride, Dietary</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003433">Crosses, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004843">Epistasis, Genetic</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006973">Hypertension</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010641">Phenotype</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011918">Rats, Inbred SHR</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011921">Rats, Inbred WKY</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017673">Sodium Chloride, Dietary</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013045">Species Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014998">Y Chromosome</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1996</Year>
+<Month>11</Month>
+<Day>1</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1996</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>1996</Year>
+<Month>11</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">8901841</ArticleId>
+<ArticleId IdType="doi">10.1161/01.hyp.28.5.895</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

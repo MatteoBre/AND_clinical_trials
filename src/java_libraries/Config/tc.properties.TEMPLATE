@@ -1,0 +1,48 @@
+#-------------------------------------------------------------------
+# Directory and files
+#
+# ROOT_DIR: the absolute path of the Text Categorization tool directory
+# DATA_DIR: the relative path (to ROOT_DIR) of the TC data directory
+# DB_DIR: the relative path (to DATA_DIR) of the TC database directory
+#
+# JD_FILE: the relative path (to DATA_DIR) of Journal Descriptors.
+# CONTRACTIONS_FILE: the relative path (to DATA_DIR) of contractions.
+# SUB_HEADINGS_FILE: the relative path (to DATA_DIR) of MeSHs.
+#
+# STOP_WORDS_FILE: the relative path (to DATA_DIR) of stop words
+# RESTRICT_WORDS_FILE: the relative path (to DATA_DIR) of restrict words
+# WORD_SIGNAL_WC_DC_FILE: the relative path (to DATA_DIR) of word-Signal-wc-dc
+#
+# ST_FILE: the relative path (to DATA_DIR) of Semantic Types.
+# ST_JD_FILE: the relative path (to DATA_DIR) of ST_JD file
+#
+# JID_TA_JDS_FILE: the relative path (to DATA_DIR) of JID_TA_JDS file
+#-------------------------------------------------------------------
+ROOT_DIR=___ROOT_DIR___
+DATA_DIR=___DATA_DIR___
+DB_DIR=HSqlDb/
+JD_FILE=Jdi/jds.txt
+CONTRACTIONS_FILE=Jdi/contractions.txt
+SUB_HEADINGS_FILE=Jdi/shs.txt
+STOP_WORDS_FILE=Jdi/stopWords.txt
+RESTRICT_WORDS_FILE=Jdi/restrictWords.txt
+WORD_SIGNAL_WC_DC_FILE=Jdi/wordSignalWcDcGt1.txt
+ST_FILE=Sti/sts.txt
+ST_JD_FILE=Stri/stJdTable.txt
+JID_TA_JDS_FILE=Jdi/jidTaJds.txt
+#-------------------------------------------------------------------
+# Database and JDBC driver
+#
+# DB_DRIVER: the JDBC driver
+# DB_URL: db url for JDBC
+# DB_NAME: database name for tc (default is tc2011)
+#-------------------------------------------------------------------
+DB_DRIVER=org.hsqldb.jdbcDriver
+DB_URL=jdbc:hsqldb:
+DB_NAME=___DB_NAME___
+#-------------------------------------------------------------------
+# Variables:
+#
+# NO_OUTPUT_MSG: the string for no output
+#-------------------------------------------------------------------
+NO_OUTPUT_MSG=-No Score-

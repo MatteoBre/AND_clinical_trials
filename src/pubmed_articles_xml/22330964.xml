@@ -1,0 +1,259 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22330964</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>05</Month>
+<Day>17</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Electronic">1549-4713</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>119</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Apr</Month>
+</PubDate>
+</JournalIssue>
+<Title>Ophthalmology</Title>
+<ISOAbbreviation>Ophthalmology</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Ranibizumab for diabetic macular edema: results from 2 phase III randomized trials: RISE and RIDE.</ArticleTitle>
+<Pagination>
+<MedlinePgn>789-801</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ophtha.2011.12.039</ELocationID>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To evaluate the efficacy and safety of intravitreal ranibizumab in diabetic macular edema (DME) patients.</AbstractText>
+<AbstractText Label="DESIGN" NlmCategory="METHODS">Two parallel, methodologically identical, phase III, multicenter, double-masked, sham injection-controlled, randomized studies.</AbstractText>
+<AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">Adults with vision loss from DME (best-corrected visual acuity [BCVA], 20/40-20/320 Snellen equivalent) and central subfield thickness ≥275 μm on time-domain optical coherence tomography (OCT).</AbstractText>
+<AbstractText Label="INTERVENTION" NlmCategory="METHODS">Monthly intravitreal ranibizumab (0.5 or 0.3 mg) or sham injections. Macular laser was available per-protocol-specified criteria.</AbstractText>
+<AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">Proportion of patients gaining ≥15 letters in BCVA from baseline at 24 months.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">In RISE (NCT00473330), 377 patients were randomized (127 to sham, 125 to 0.3 mg, 125 to 0.5 mg). At 24 months, 18.1% of sham patients gained ≥15 letters versus 44.8% of 0.3-mg (P&lt;0.0001; difference vs sham adjusted for randomization stratification factors, 24.3%; 95% confidence interval [CI], 13.8-34.8) and 39.2% of 0.5-mg ranibizumab patients (P&lt;0.001; adjusted difference, 20.9%; 95% CI, 10.7-31.1). In RIDE (NCT00473382), 382 patients were randomized (130 to sham, 125 to 0.3 mg, 127 to 0.5 mg). Significantly more ranibizumab-treated patients gained ≥15 letters: 12.3% of sham patients versus 33.6% of 0.3-mg patients (P&lt;0.0001; adjusted difference, 20.8%; 95% CI, 11.4-30.2) and 45.7% of 0.5-mg ranibizumab patients (P&lt;0.0001; adjusted difference, 33.3%; 95% CI, 23.8-42.8). Significant improvements in macular edema were noted on OCT, and retinopathy was less likely to worsen and more likely to improve in ranibizumab-treated patients. Ranibizumab-treated patients underwent significantly fewer macular laser procedures (mean of 1.8 and 1.6 laser procedures over 24 months in the sham groups vs 0.3-0.8 in ranibizumab groups). Ocular safety was consistent with prior ranibizumab studies; endophthalmitis occurred in 4 ranibizumab patients. The total incidence of deaths from vascular or unknown causes, nonfatal myocardial infarctions, and nonfatal cerebrovascular accidents, which are possible effects from systemic vascular endothelial growth factor inhibition, was 4.9% to 5.5% of sham patients and 2.4% to 8.8% of ranibizumab patients.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Ranibizumab rapidly and sustainably improved vision, reduced the risk of further vision loss, and improved macular edema in patients with DME, with low rates of ocular and nonocular harm.</AbstractText>
+<CopyrightInformation>Copyright © 2012 American Academy of Ophthalmology. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Nguyen</LastName>
+<ForeName>Quan Dong</ForeName>
+<Initials>QD</Initials>
+<AffiliationInfo>
+<Affiliation>Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brown</LastName>
+<ForeName>David M</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marcus</LastName>
+<ForeName>Dennis M</ForeName>
+<Initials>DM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Boyer</LastName>
+<ForeName>David S</ForeName>
+<Initials>DS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Patel</LastName>
+<ForeName>Sunil</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Feiner</LastName>
+<ForeName>Leonard</ForeName>
+<Initials>L</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gibson</LastName>
+<ForeName>Andrea</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sy</LastName>
+<ForeName>Judy</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rundle</LastName>
+<ForeName>Amy Chen</ForeName>
+<Initials>AC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hopkins</LastName>
+<ForeName>J Jill</ForeName>
+<Initials>JJ</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rubio</LastName>
+<ForeName>Roman G</ForeName>
+<Initials>RG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ehrlich</LastName>
+<ForeName>Jason S</ForeName>
+<Initials>JS</Initials>
+</Author>
+<Author ValidYN="Y">
+<CollectiveName>RISE and RIDE Research Group</CollectiveName>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D017428">Clinical Trial, Phase III</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2012</Year>
+<Month>02</Month>
+<Day>11</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Ophthalmology</MedlineTA>
+<NlmUniqueID>7802443</NlmUniqueID>
+<ISSNLinking>0161-6420</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D020533">Angiogenesis Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D061067">Antibodies, Monoclonal, Humanized</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>ZL1R02VT79</RegistryNumber>
+<NameOfSubstance UI="D000069579">Ranibizumab</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<CommentsCorrectionsList>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Ophthalmology. 2013 Jan;120(1):221</RefSource>
+<PMID Version="1">23283200</PMID>
+</CommentsCorrections>
+<CommentsCorrections RefType="CommentIn">
+<RefSource>Ophthalmology. 2013 Jan;120(1):221-2</RefSource>
+<PMID Version="1">23283201</PMID>
+</CommentsCorrections>
+</CommentsCorrectionsList>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D020533">Angiogenesis Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D061067">Antibodies, Monoclonal, Humanized</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003930">Diabetic Retinopathy</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004311">Double-Blind Method</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D058449">Intravitreal Injections</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017075">Laser Coagulation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008269">Macular Edema</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000069579">Ranibizumab</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D041623">Tomography, Optical Coherence</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014792">Visual Acuity</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>08</Month>
+<Day>28</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="revised">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>06</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>15</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>5</Month>
+<Day>18</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22330964</ArticleId>
+<ArticleId IdType="pii">S0161-6420(11)01242-5</ArticleId>
+<ArticleId IdType="doi">10.1016/j.ophtha.2011.12.039</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

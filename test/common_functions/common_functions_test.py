@@ -1,5 +1,6 @@
 import unittest
-from common_functions import common_functions
+import pandas as pd
+from src.common_functions import common_functions
 
 
 class TestCommonFunctions(unittest.TestCase):
@@ -24,6 +25,10 @@ class TestCommonFunctions(unittest.TestCase):
         initials = common_functions.get_initials('larry\'george')
         self.assertEqual(initials, 'lg')
 
+    def test_get_src_path(self):
+        src_path = common_functions.get_src_path()
+        self.assertEqual('src', src_path[-3:])
+
     def test_get_stanford_ner_tagger(self):
         tagger = common_functions.get_stanford_ner_tagger()
         self.assertNotEqual(tagger, None)
@@ -41,7 +46,12 @@ class TestCommonFunctions(unittest.TestCase):
         self.assertEquals(locations_expected, locations_res)
 
     def test_normalize(self):
-        pass
+        arr = [19, 23, 45, 100, 807]
+        max_num = max(arr)
+        min_num = min(arr)
+        normalized_result = common_functions.normalize(pd.Series(arr))
+        normalized_expected = [(num - min_num)/(max_num - min_num) for num in arr]
+        self.assertEquals(normalized_expected, normalized_result.tolist())
 
     def test_get_java_gateway_server(self):
         pass
@@ -50,7 +60,11 @@ class TestCommonFunctions(unittest.TestCase):
         pass
 
     def test_get_java_path(self):
-        pass
+        java_path = common_functions.get_java_path()
+        java_executable_path = java_path + '\\java.exe'
+        java_compiler_path = java_path + '\\javac.exe'
+        open(java_executable_path)
+        open(java_compiler_path)
 
 
 if __name__ == '__main__':

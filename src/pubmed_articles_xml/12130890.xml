@@ -1,0 +1,167 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12130890</PMID>
+<DateCompleted>
+<Year>2002</Year>
+<Month>08</Month>
+<Day>16</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>07</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0012-3706</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>45</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2002</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Diseases of the colon and rectum</Title>
+<ISOAbbreviation>Dis. Colon Rectum</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Inflammatory bowel perforation during immune restoration after one year of antiretroviral and antituberculous therapy in an HIV-1-infected patient: report of a case.</ArticleTitle>
+<Pagination>
+<MedlinePgn>977-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">This article reports an unusual presentation of bowel perforation.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">We report the case of a 30-year-old HIV-infected male who suffered from an advanced state of CD4 cell depletion (29 CD4 cells per 106/l). Abdominal pain and diarrhea led to further examinations.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Colonoscopy revealed a severe tuberculous ileocecal inflammation. Tuberculosis and HIV infection were treated. The patient's response to antiretroviral therapy was excellent. After 11 months of potent antiretroviral treatment and 12 months of antituberculous therapy he suffered from acute abdominal pain with fever and ileus. Laparotomy revealed two intestinal perforations of the jejunum and inflammation of the whole ileocecal region.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Immunopathologic reactions caused by immune restoration are novel presentations of highly active antiretroviral treatment as shown here. The presented patient is an unusual case with a very late onset of inflammatory response, which led to intestinal perforation.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Guex</LastName>
+<ForeName>Anne-Catherine</ForeName>
+<Initials>AC</Initials>
+<AffiliationInfo>
+<Affiliation>Basel Center for HIV Research, Outpatient Department of Internal Medicine, University Hospital Basel, Basel, Switzerland.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bucher</LastName>
+<ForeName>Heiner C</ForeName>
+<Initials>HC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Demartines</LastName>
+<ForeName>Nicolas</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Flückiger</LastName>
+<ForeName>Ursula</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Battegay</LastName>
+<ForeName>Manuel</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D002363">Case Reports</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Dis Colon Rectum</MedlineTA>
+<NlmUniqueID>0372764</NlmUniqueID>
+<ISSNLinking>0012-3706</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D000995">Antitubercular Agents</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017088">AIDS-Related Opportunistic Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D023241">Antiretroviral Therapy, Highly Active</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000995">Antitubercular Agents</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015497">HIV-1</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007249">Inflammation</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007416">Intestinal Perforation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007579">Jejunal Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014385">Tuberculosis, Gastrointestinal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000276">immunology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>7</Month>
+<Day>20</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2002</Year>
+<Month>8</Month>
+<Day>17</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>7</Month>
+<Day>20</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12130890</ArticleId>
+<ArticleId IdType="doi">10.1007/s10350-004-6339-1</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

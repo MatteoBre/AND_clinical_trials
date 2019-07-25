@@ -1,0 +1,145 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12580496</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>07</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>07</Month>
+<Day>20</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0021-9673</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>985</Volume>
+<Issue>1-2</Issue>
+<PubDate>
+<Year>2003</Year>
+<Month>Jan</Month>
+<Day>24</Day>
+</PubDate>
+</JournalIssue>
+<Title>Journal of chromatography. A</Title>
+<ISOAbbreviation>J Chromatogr A</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Relaxed eddy accumulation, a new technique for measuring emission and deposition fluxes of volatile organic compounds by capillary gas chromatography and mass spectrometry.</ArticleTitle>
+<Pagination>
+<MedlinePgn>283-96</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The possibility afforded by a new relaxed eddy accumulation system in the determination of emission and deposition fluxes of volatile organic compounds (VOCs) by chromatographic techniques will be presented. The system, especially designed to limit sampling artifacts, uses adsorption traps filled with solid sorbents as reservoirs for VOC collection. Enriched compounds were analyzed by capillary GC and positive identification and quantification of eluted compounds was Achieved by mass-spectrometric detection. The method has been used to quantify the emission and deposition of both biogenic and anthropogenic VOCs over a Mediterranean forest ecosystem located in Central Italy. For the first time, both daily and seasonal trends of anthropogenic and biogenic VOCs will be reported. The consistency of monoterpene fluxes with predictions based on the knowledge of VOC emission from the dominant vegetation species will be tested. Data have been used to develop a novel algorithm to predict the seasonality of biogenic emission from the forest ecosystem.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Ciccioli</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+<AffiliationInfo>
+<Affiliation>Istituto di Metodologie Chimiche, Area della Ricerca del CNR di Montilibretti, Via Salaria km 29.300. 00016, Monterotondo Scalo, Italy. ciccioli@iia.mlib.cnr.it</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brancaleoni</LastName>
+<ForeName>E</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Frattoni</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Marta</LastName>
+<ForeName>S</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Brachetti</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vitullo</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Tirone</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Valentini</LastName>
+<ForeName>R</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>J Chromatogr A</MedlineTA>
+<NlmUniqueID>9318488</NlmUniqueID>
+<ISSNLinking>0021-9673</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D009930">Organic Chemicals</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008401">Gas Chromatography-Mass Spectrometry</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009930">Organic Chemicals</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014835">Volatilization</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2003</Year>
+<Month>2</Month>
+<Day>13</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>7</Month>
+<Day>29</Day>
+<Hour>5</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2003</Year>
+<Month>2</Month>
+<Day>13</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12580496</ArticleId>
+<ArticleId IdType="pii">S0021-9673(02)01731-4</ArticleId>
+<ArticleId IdType="doi">10.1016/s0021-9673(02)01731-4</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

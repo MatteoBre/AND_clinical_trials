@@ -1,0 +1,96 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+<PMID Version="1">19802179</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>10</Month>
+<Day>02</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>07</Month>
+<Day>03</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0146-9592</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>18</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>1993</Year>
+<Month>Apr</Month>
+<Day>01</Day>
+</PubDate>
+</JournalIssue>
+<Title>Optics letters</Title>
+<ISOAbbreviation>Opt Lett</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Strain effects on two-mode fiber gratings.</ArticleTitle>
+<Pagination>
+<MedlinePgn>497-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The spectral, interferometric, and polarization properties of mode-coupling fiber gratings under strain are described. The grating is formed by photosensitivity that uses modal interference in the two-mode fiber. Theoretical and experimental results show the possibilities of using the fiber grating for optical switches, tunable filters, interferometric sensors, and polarizers.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Koh</LastName>
+<ForeName>Y W</ForeName>
+<Initials>YW</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yun</LastName>
+<ForeName>S H</ForeName>
+<Initials>SH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kim</LastName>
+<ForeName>B Y</ForeName>
+<Initials>BY</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Opt Lett</MedlineTA>
+<NlmUniqueID>7708433</NlmUniqueID>
+<ISSNLinking>0146-9592</ISSNLinking>
+</MedlineJournalInfo>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="entrez">
+<Year>2009</Year>
+<Month>10</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>1993</Year>
+<Month>4</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>1993</Year>
+<Month>4</Month>
+<Day>1</Day>
+<Hour>0</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">19802179</ArticleId>
+<ArticleId IdType="pii">11623</ArticleId>
+<ArticleId IdType="doi">10.1364/ol.18.000497</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

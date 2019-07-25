@@ -1,5 +1,5 @@
 import unittest
-from dataframe import calculate_attributes
+from src.dataframe import calculate_attributes
 
 
 class TestCalculateAttributes(unittest.TestCase):
