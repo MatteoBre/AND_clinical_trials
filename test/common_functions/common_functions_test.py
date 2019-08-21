@@ -54,17 +54,27 @@ class TestCommonFunctions(unittest.TestCase):
         self.assertEquals(normalized_expected, normalized_result.tolist())
 
     def test_get_java_gateway_server(self):
-        pass
+        server = common_functions.get_java_gateway_server()
+        self.assertNotEqual(server, None)
+        server.close_server()
 
     def test_get_info_from_jds_sts(self):
-        pass
+        text = ['--- JD scores (x 1) and rank based on word count ---\r', 'JD129|Neoplasms\r',
+                '1|0,0587849|JD129|Neoplasms\r', '2|0,0224318|JD101|Radiotherapy\r',
+                '3|0,0185469|JD100|Radiology\r', '--- JD scores (x 1) and rank based on document count ---\r',
+                'JD129|Neoplasms\r', '1|0,1117369|JD129|Neoplasms\r', '2|0,0441393|JD101|Radiotherapy\r',
+                '3|0,0394280|JD100|Radiology\r', '--- Overall JD rank ---\r', 'JD129|Neoplasms|dc\r']
+        text_result = common_functions.get_info_from_jds_sts(text)
+        text_expected = [(0.0587849, 'Neoplasms'), (0.0224318, 'Radiotherapy'), (0.0185469, 'Radiology')]
+        self.assertEqual(text_expected, text_result)
 
     def test_get_java_path(self):
         java_path = common_functions.get_java_path()
-        java_executable_path = java_path + '\\java.exe'
-        java_compiler_path = java_path + '\\javac.exe'
-        open(java_executable_path)
-        open(java_compiler_path)
+        open(java_path)
+
+    def test_get_gensim_doc2vec_model(self):
+        model = common_functions.get_gensim_doc2vec_model()
+        self.assertNotEqual(None, model)
 
 
 if __name__ == '__main__':

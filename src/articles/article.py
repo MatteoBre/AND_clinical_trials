@@ -83,14 +83,18 @@ class Article:
     def get_title(self):
         return self.article.ArticleTitle.text
 
-    def get_text(self):
-        abstracts = maybe(self).article.findAll('AbstractText')
-        abstracts = [abstract.text for abstract in abstracts]
+    def get_text(self, mesh=False, whole_text=False):
+        if whole_text:
+            return [self.article.get_text()]
+        # These are the abstracts
+        texts = [abstract.text.strip() for abstract in self.article.findAll('AbstractText')]
+        mesh_terms = [mesh_term.text.strip() for mesh_term in self.article.findAll('MeshHeading') if mesh]
+        texts.extend(mesh_terms)
+        return texts
 
-        return abstracts
+    def get_all_texts(self):
+        texts = self.get_text()
+        texts.append(self.get_title())
+        texts = " ".join(texts)
+        return texts
 
-    def get_mesh_terms(self):
-        mesh_terms = maybe(self).article.findAll('MeshHeading')
-        mesh_terms = [mesh_term.text for mesh_term in mesh_terms]
-
-        return mesh_terms

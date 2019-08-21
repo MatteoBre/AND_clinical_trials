@@ -1,9 +1,15 @@
 import requests
 from bs4 import BeautifulSoup
 from ..common_functions import common_functions
+from ..oger.ctrl.router import Router, PipelineServer
+import codecs
+import math
+import os
 
 
 def get_arrays_equality(arr1, arr2):
+    # This functions returns an array containing 0s and 1s
+    # 0 when arr1[i] != arr2[i] and 1 if arr1[i] == arr2[i]
     equalities = []
     for i in range(len(arr1)):
         if arr1[i] is not None and arr2[i] is not None and arr1[i] == arr2[i]:
@@ -14,6 +20,8 @@ def get_arrays_equality(arr1, arr2):
 
 
 def levenshtein(s1, s2):
+    # This is the levenshtein function
+    # I use it to compare strings
     if len(s1) < len(s2):
         return levenshtein(s2, s1)
 
@@ -36,11 +44,16 @@ def levenshtein(s1, s2):
 
 
 def get_string_arrays_similarity(arr1, arr2):
+    # The input is composed by 2 arrays of strings
+    # I return an array containing numbers from 0.0 to 1.0
+    # the number is obtained by comparing arr1[i] and arr2[i] using levenshtein
     similarities = []
     for i in range(len(arr1)):  # both arrays need to have the same length
         if arr1[i] is not None and arr2[i] is not None:
             max_length = len(max([arr1[i], arr2[i]], key=len))
+            # the score is divided by the max length, so that it can have the 0.0 - 1.0 range
             score = levenshtein(arr1[i], arr2[i])/max_length
+            # 0.0 means the strings are utterly different and 1.0 means the strings are identical
             similarities.append(1-score)
         else:
             similarities.append(0)
@@ -48,25 +61,34 @@ def get_string_arrays_similarity(arr1, arr2):
 
 
 def get_best_similarity(arr1, arr2):
+    # The input is composed by 2 arrays of strings
+    # The result is the best possible score
+    # The score is calculated using levenshtein, it has the 0.0 - 1.0 range
     max_score = 0
     for org1 in arr1:
         for org2 in arr2:
             max_length = len(max([org1, org2], key=len))
+            # 0.0 means the strings are utterly different and 1.0 means the strings are identical
             score = 1-(levenshtein(org1, org2)/max_length)
-
             if score > max_score:
                 max_score = score
     return max_score
 
 
 def get_org_similarity(org1, org2, ct_sample, ar_sample):
-
+    # We need to compare org1 and org2
+    # Depending on the extraction method, org1/2 will be strings or arrays of strings
+    # string if they use the standard extraction, arrays if they use spacy/stanford
     if ct_sample == 'standard' and ar_sample == 'standard':
+        # If they are strings, I simply compare them using levenshtein
         max_length = len(max([org1, org2], key=len))
         return 1-(levenshtein(org1, org2)/max_length)
-
+    # In case org1 or org2 are not spacy/stanford, I have to put the string org1/2 to an array
+    # I do that to reuse the function "get_best_similarity" that needs 2 arrays of strings
     if ct_sample == 'standard' and ar_sample != 'standard':
         similarity = get_best_similarity([org1], org2)
+    elif ct_sample != 'standard' and ar_sample == 'standard':
+        similarity = get_best_similarity(org1, [org2])
     else:
         similarity = get_best_similarity(org1, org2)
 
@@ -74,21 +96,27 @@ def get_org_similarity(org1, org2, ct_sample, ar_sample):
 
 
 def both_contain(phrase1, phrase2, word):
+    # This function checks whether 2 strings contains a string called "word"
     return word in phrase1 and word in phrase2
 
 
 def check_same_organization_type(phrase1, phrase2):
+    # This function check if 2 strings contain one specific word
+    # This word can be one of the following: university, hospital, school, institute
     phrase1 = phrase1.lower()
     phrase2 = phrase2.lower()
+
     university = both_contain(phrase1, phrase2, 'university')
     hospital = both_contain(phrase1, phrase2, 'hospital')
     school = both_contain(phrase1, phrase2, 'school')
     institute = both_contain(phrase1, phrase2, 'institute')
 
+    # If only one criteria is matched, it returns True, False otherwise
     return university or hospital or school or institute
 
 
 def get_type_equality(arr1, arr2):
+    # I check whether a pair of words contains the same type of organization
     for org1 in arr1:
         for org2 in arr2:
             if check_same_organization_type(org1, org2):
@@ -97,18 +125,25 @@ def get_type_equality(arr1, arr2):
 
 
 def get_org_type_equality(org1, org2, ct_sample, ar_sample):
+    # This function takes the organizations as input and, depending on the extraction method used,
+    # it calls the right method to assess whether or not the type of the organization is the same
     if ct_sample == 'standard' and ar_sample == 'standard':
-        return 1 if check_same_organization_type(org1, org2) else 0
+        # If both of them are single strings, I can call this function directly
+        return check_same_organization_type(org1, org2)
 
     if ct_sample == 'standard' and ar_sample != 'standard':
         equality = get_type_equality([org1], org2)
+    elif ct_sample != 'standard' and ar_sample == 'standard':
+        equality = get_type_equality(org1, [org2])
     else:
         equality = get_type_equality(org1, org2)
 
     return equality
 
 
-def get_organization_similarity_and_type_equality(ct_org, ar_org, ct_sample, ar_sample):
+def get_organization_similarities_and_type_equalities(ct_org, ar_org, ct_sample, ar_sample):
+    # This function returns all the organization similarities and the type equalities between 2 organizations
+    # There are 3 ways to extract information from the string: 'standard', 'spacy', 'stanford'
     if ct_sample not in ['standard', 'spacy', 'stanford'] or ar_sample not in ['standard', 'spacy', 'stanford']:
         raise ValueError('ct_sample and ar_sample can assume only these values: standard, spacy, stanford')
     org_similarities = []
@@ -179,9 +214,9 @@ def get_namespace_ambiguities(last_names, initials):
     for response in responses:
         namespaces = BeautifulSoup(response.content, 'xml')
         # sometimes it splits into full author name, author and investigator (I only need the Author)
-        termSets = [termSet for termSet in namespaces.TranslationStack.findAll('TermSet')
-                    if termSet.Term.text.split('[')[1][:-1].lower() == 'author']
-        for termSet in termSets:
+        term_sets = [termSet for termSet in namespaces.TranslationStack.findAll('TermSet')
+                     if termSet.Term.text.split('[')[1][:-1].lower() == 'author']
+        for termSet in term_sets:
             namespace_sizes.append(int(termSet.Count.text))
     return namespace_sizes
 
@@ -289,29 +324,139 @@ def get_jds_sts_percentage_ranking_similarities(jds_1, jds_2):
     return percentage_difference_sum / max_percentage_sum
 
 
-def get_all_jds_sts_similarities(clinical_trials, articles, max_jds, max_sts, mode_jds='basic', mode_sts='basic'):
-    java_server = common_functions.get_java_gateway_server()
+def get_all_jds_sts(clinical_trials, articles):
+    server = common_functions.get_java_gateway_server()
+
+    jds = []
+    sts = []
+    for i in range(len(articles)):
+        ct_texts = clinical_trials[i].get_all_texts()
+        ar_texts = articles[i].get_all_texts()
+
+        jd = [server.get_jds(ct_texts), server.get_jds(ar_texts)]
+        jds.append(jd)
+
+        st = [server.get_sts(ct_texts), server.get_sts(ar_texts)]
+        sts.append(st)
+    server.close_server()
+    return jds, sts
+
+
+def get_all_jds_sts_similarities(jds, sts, max_jds, max_sts, mode_jds='basic', mode_sts='basic'):
     jds_similarities = []
     sts_similarities = []
 
-    for i in range(len(clinical_trials)):
-        ct_texts = clinical_trials[i].get_text()
-        ct_texts.append(clinical_trials[i].get_title())
-        ct_texts = " ".join(ct_texts)
-
-        ar_texts = articles[i].get_text()
-        ar_texts.append(articles[i].get_title())
-        ar_texts = " ".join(ar_texts)
-
+    for i in range(len(jds)):
         jds_comparator = globals()['get_jds_sts_' + mode_jds + '_similarities']
         sts_comparator = globals()['get_jds_sts_' + mode_sts + '_similarities']
 
-        jds_similarity = jds_comparator(java_server.get_jds(ct_texts)[:max_jds],
-                                        java_server.get_jds(ar_texts)[:max_jds])
-        sts_similarity = sts_comparator(java_server.get_sts(ct_texts)[:max_sts],
-                                        java_server.get_sts(ar_texts)[:max_sts])
+        jds_similarity = jds_comparator(jds[i][0][:max_jds], jds[i][1][:max_jds])
+        sts_similarity = sts_comparator(sts[i][0][:max_sts], sts[i][1][:max_sts])
 
         jds_similarities.append(jds_similarity)
         sts_similarities.append(sts_similarity)
-    java_server.close_server()
     return jds_similarities, sts_similarities
+
+
+def get_oger_similarity(oger_1, oger_2):
+    common_words = 0
+    max_words = max(len(oger_1), len(oger_2))
+    for term_1 in oger_1:
+        for term_2 in oger_2:
+            if term_1 == term_2:
+                common_words += 1
+    if max_words == 0:
+        max_words = 1
+    return common_words/max_words
+
+
+def create_required_folders():
+    if not os.path.exists(common_functions.get_src_path() + '\\tmp_txt_ct\\'):
+        os.makedirs(common_functions.get_src_path() + '\\tmp_txt_ct\\')
+    if not os.path.exists(common_functions.get_src_path() + '\\tmp_txt_ar\\'):
+        os.makedirs(common_functions.get_src_path() + '\\tmp_txt_ar\\')
+
+
+def get_oger_similarities(clinical_trials, articles):
+    conf = Router(termlist_path='src/oger/test/testfiles/test_terms.tsv')
+    pl = PipelineServer(conf)
+    create_required_folders()
+    similarities = []
+
+    for i in range(len(articles)):
+        ct_entities = []
+        ar_entities = []
+
+        ct_texts = clinical_trials[i].get_all_texts()
+        ar_texts = articles[i].get_all_texts()
+
+        ct_id = clinical_trials[i].clinical_trial.find('nct_id').text.strip()
+        ar_id = articles[i].article.PMID.text.strip()
+
+        ct_file = codecs.open(common_functions.get_src_path()+'\\tmp_txt_ct\\' + ct_id + '.txt', 'w', 'utf-8')
+        ct_file.write(ct_texts)
+        ct_file.close()
+
+        ar_file = codecs.open(common_functions.get_src_path()+'\\tmp_txt_ar\\' + ar_id + '.txt', 'w', 'utf-8')
+        ar_file.write(ar_texts)
+        ar_file.close()
+
+        # Oger library usage with clinical trials
+        doc = pl.load_one(common_functions.get_src_path()+'\\tmp_txt_ct\\' + ct_id + ".txt", 'txt')
+        pl.process(doc)
+
+        entity_iter = doc[0].iter_entities()
+
+        for entity in entity_iter:
+            ct_entities.append(entity.info[3])
+
+        # Oger library usage with articles
+        doc = pl.load_one(common_functions.get_src_path()+'\\tmp_txt_ar\\' + ar_id + ".txt", 'txt')
+        pl.process(doc)
+
+        entity_iter = doc[0].iter_entities()
+
+        for entity in entity_iter:
+            ar_entities.append(entity.info[3])
+
+        similarities.append(get_oger_similarity(ct_entities, ar_entities))
+    return similarities
+
+
+def get_doc2vec_vectors(clinical_trials, articles):
+    model = common_functions.get_gensim_doc2vec_model()
+
+    ct_vectors = []
+    ar_vectors = []
+    for i in range(len(articles)):
+        ct_texts = clinical_trials[i].get_all_texts().replace(",", " ").replace(";", " ").replace(".", " ")
+        ct_texts = ct_texts.split(" ")
+
+        ar_texts = articles[i].get_all_texts().replace(",", " ").replace(";", " ").replace(".", " ")
+        ar_texts = ar_texts.split(" ")
+
+        ct_vector = model.infer_vector(ct_texts)
+        ct_vectors.append(ct_vector)
+
+        ar_vector = model.infer_vector(ar_texts)
+        ar_vectors.append(ar_vector)
+
+    return ct_vectors, ar_vectors
+
+
+def get_vectors_similarity(vec_1, vec_2):
+    if len(vec_1) != len(vec_2):
+        print("warning: different lengths")
+        return 1
+    vec_1_length = math.sqrt(sum([el**2 for el in vec_1]))
+    vec_2_length = math.sqrt(sum([el**2 for el in vec_2]))
+    scalar_product = sum(el[0] * el[1] for el in zip(vec_1, vec_2))
+    return scalar_product/(vec_1_length * vec_2_length)
+
+
+def get_doc2vec_vectors_similarities(clinical_trials, articles):
+    ct_vectors, ar_vectors = get_doc2vec_vectors(clinical_trials, articles)
+    similarities = []
+    for i in range(len(ct_vectors)):
+        similarities.append(get_vectors_similarity(ct_vectors[i], ar_vectors[i]))
+    return similarities

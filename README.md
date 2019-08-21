@@ -19,11 +19,14 @@ Copy the "AllPublicXML" folder into the "src" folder.
 You will need to download the text categorization library, here's the link: <https://lexsrv2.nlm.nih.gov/LexSysGroup/Projects/tc/2011/release/tc2011.tgz>.
 Extract it and place the "tc2011/data" folder in "src/java_libraries".
 
-Another thing to do is to write the path to the bin folder of your java (eg. C:\Program Files\Java\jdk-11.0.1\bin) in the file "java_path.txt".
+To be able to use the Doc2Vec feature, you will have to download the pre-trained model, here's the link: <https://ibm.ent.box.com/s/3f160t4xpuya9an935k84ig465gvymm2>.
+Extract the content to "src/gensim", you then have "src/gensim/enwiki_dbow/doc2vec.bin" and the 2 linked files.
 
-After doing that you can execute the .ipynb files using jupyter notebook (available in the Anaconda distribution).
+Another thing to do is to write the path to your java (eg. C:\Program Files\Java\jdk-11.0.1\bin\java.exe) in the file "java_path.txt".
 
-For now it only works for Windows.
+After doing that you can execute the python files dataframe_creator and model_maker.
+
+For now it has only been tested on Windows.
 
 ## Components
 

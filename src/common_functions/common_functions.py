@@ -8,6 +8,7 @@ from nltk.tokenize import word_tokenize
 from itertools import groupby
 import os
 from ..java_libraries import java_server
+from gensim.models.doc2vec import Doc2Vec
 
 
 def get_initials(name):
@@ -16,6 +17,10 @@ def get_initials(name):
     strings = name.split(' ')
     initials = [string[0] for string in strings if string != '']
     return ''.join(initials).strip()
+
+
+def get_all_initials(first_names):
+    return [get_initials(first_name) for first_name in first_names]
 
 
 def get_src_path():
@@ -33,7 +38,7 @@ def get_stanford_ner_tagger():
     # Creating Tagger Object
     tagger = StanfordNERTagger(stanford_classifier, stanford_ner_path, encoding='utf-8')
 
-    java_path = get_java_path()+"\\java.exe"
+    java_path = get_java_path()
     os.environ['JAVAHOME'] = java_path
 
     return tagger
@@ -113,6 +118,13 @@ def get_info_from_jds_sts(texts):
 
 
 def get_java_path():
-    src_parent_path = os.path.abspath(os.path.join(get_src_path(), os.pardir))
-    path = open(src_parent_path + "\\java_path.txt", "r")
-    return path.read()
+    if os.name == 'nt':
+        src_parent_path = os.path.abspath(os.path.join(get_src_path(), os.pardir))
+        path = open(src_parent_path + "\\java_path.txt", "r")
+        return path.read()
+    return 'java'
+
+
+def get_gensim_doc2vec_model():
+    model_path = get_src_path() + "\\gensim\\enwiki_dbow\\doc2vec.bin"
+    return Doc2Vec.load(model_path)

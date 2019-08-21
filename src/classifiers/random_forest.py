@@ -20,6 +20,9 @@ class RandomForest(Classifier):
         pred = self.rfc.predict(x_test)
         return pred
 
+    def get_importance(self):
+        return self.rfc.feature_importances_
+
     def save_model_to_file(self, path):
         if self.canSave:
             dump(self.rfc, path+'.joblib')

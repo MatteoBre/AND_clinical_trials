@@ -23,7 +23,6 @@ class ClinicalTrial:
         return last_name, first_name_initial, first_name
 
     def get_organization_name(self, last_name, initial):
-
         tags = self.get_all_name_tags(last_name, initial)
 
         for tag in tags:
@@ -36,7 +35,6 @@ class ClinicalTrial:
         return ""
 
     def get_mail(self, last_name, initial):
-
         tags = self.get_all_name_tags(last_name, initial)
 
         mails = []
@@ -90,17 +88,25 @@ class ClinicalTrial:
             return None
         return title.text
 
-    def get_text(self):
-        brief_summary = maybe(self).clinical_trial.brief_summary.textblock.text
-        detailed_description = maybe(self).clinical_trial.detailed_description.textblock.text
-        eligibility_criteria = maybe(self).clinical_trial.eligibility.criteria.textblock.text
-
-        arr = [str(brief_summary), str(detailed_description), str(eligibility_criteria)]
-        arr = [string for string in arr if string != 'None']
-        return arr
-
     def get_country_and_city(self):
         locations = self.clinical_trial.findAll('location')
         countries = [location.country.text for location in locations]
         cities = [location.city.text for location in locations]
         return countries, cities
+
+    def get_text(self, elig=False, whole_text=False):
+        if whole_text:
+            return [self.clinical_trial.get_text()]
+        brief_summary = maybe(self).clinical_trial.brief_summary.textblock.text.strip()
+        detailed_description = maybe(self).clinical_trial.detailed_description.textblock.text.strip()
+        eligibility_criteria = maybe(self).clinical_trial.eligibility.criteria.textblock.text.strip() if elig else None
+
+        arr = [str(brief_summary), str(detailed_description), str(eligibility_criteria)]
+        arr = [string for string in arr if string != 'None']
+        return arr
+
+    def get_all_texts(self):
+        texts = self.get_text()
+        texts.append(self.get_title())
+        texts = " ".join(texts)
+        return texts
