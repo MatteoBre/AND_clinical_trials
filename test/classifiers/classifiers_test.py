@@ -9,7 +9,7 @@ from src.classifiers.mlp_classifier import MLPClassifier
 
 
 class TestClassifiers(unittest.TestCase):
-    df = pd.read_csv('src\\dataframe.csv', encoding='utf-8')
+    df = pd.read_csv('src/dataframe.csv', encoding='utf-8')
     x = np.array(df.drop('common_answer', axis=1))
     y = np.array(df['common_answer'])
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.33, random_state=1)
@@ -19,8 +19,8 @@ class TestClassifiers(unittest.TestCase):
             classifier = RandomForest(0)
             classifier.create_model(self.x_train, self.y_train)
             classifier.predict(self.x_test)
-            if not os.path.exists('test\\test_models\\'):
-                os.makedirs('test\\test_models\\')
+            if not os.path.exists('test/test_models/'):
+                os.makedirs('test/test_models/')
             classifier.save_model_to_file('test/test_models/random_forest')
             classifier.get_importance()
         except:
@@ -31,8 +31,8 @@ class TestClassifiers(unittest.TestCase):
             classifier = SVMClassifier(0)
             classifier.create_model(self.x_train, self.y_train)
             classifier.predict(self.x_test)
-            if not os.path.exists('test\\test_models\\'):
-                os.makedirs('test\\test_models\\')
+            if not os.path.exists('test/test_models/'):
+                os.makedirs('test/test_models/')
             classifier.save_model_to_file('test/test_models/svm_classifier')
         except:
             self.assertTrue(False)
@@ -42,8 +42,8 @@ class TestClassifiers(unittest.TestCase):
             classifier = MLPClassifier(0)
             classifier.create_model(self.x_train, self.y_train)
             classifier.predict(self.x_test)
-            if not os.path.exists('test\\test_models\\'):
-                os.makedirs('test\\test_models\\')
+            if not os.path.exists('test/test_models/'):
+                os.makedirs('test/test_models/')
             classifier.save_model_to_file('test/test_models/svm_classifier')
         except:
             self.assertTrue(False)

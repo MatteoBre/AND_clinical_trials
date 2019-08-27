@@ -28,8 +28,8 @@ def get_src_path():
 def get_stanford_ner_tagger():
     src_path = get_src_path()
 
-    stanford_classifier = src_path + '\\stanfordNER\\classifiers\\english.all.3class.distsim.crf.ser.gz'
-    stanford_ner_path = src_path + '\\stanfordNER\\stanford-ner.jar'
+    stanford_classifier = src_path + '/stanfordNER/classifiers/english.all.3class.distsim.crf.ser.gz'
+    stanford_ner_path = src_path + '/stanfordNER/stanford-ner.jar'
 
     # Creating Tagger Object
     tagger = StanfordNERTagger(stanford_classifier, stanford_ner_path, encoding='utf-8')
@@ -116,11 +116,11 @@ def get_info_from_jds_sts(texts):
 def get_java_path():
     if os.name == 'nt':
         src_parent_path = os.path.abspath(os.path.join(get_src_path(), os.pardir))
-        path = open(src_parent_path + "\\java_path.txt", "r")
+        path = open(src_parent_path + "/java_path.txt", "r")
         return path.read()
     return 'java'
 
 
 def get_gensim_doc2vec_model():
-    model_path = get_src_path() + "\\gensim\\enwiki_dbow\\doc2vec.bin"
+    model_path = get_src_path() + "/gensim/enwiki_dbow/doc2vec.bin"
     return Doc2Vec.load(model_path)

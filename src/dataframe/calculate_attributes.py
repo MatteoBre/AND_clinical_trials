@@ -369,10 +369,10 @@ def get_all_jds_sts_similarities(jds, sts, max_jds, max_sts, mode_jds='basic', m
 
 def create_required_folders():
     # This function is used to create support folders, the folders will be used to calculate oger similarities
-    if not os.path.exists(common_functions.get_src_path() + '\\tmp_txt_ct\\'):
-        os.makedirs(common_functions.get_src_path() + '\\tmp_txt_ct\\')
-    if not os.path.exists(common_functions.get_src_path() + '\\tmp_txt_ar\\'):
-        os.makedirs(common_functions.get_src_path() + '\\tmp_txt_ar\\')
+    if not os.path.exists(common_functions.get_src_path() + '/tmp_txt_ct/'):
+        os.makedirs(common_functions.get_src_path() + '/tmp_txt_ct/')
+    if not os.path.exists(common_functions.get_src_path() + '/tmp_txt_ar/'):
+        os.makedirs(common_functions.get_src_path() + '/tmp_txt_ar/')
 
 
 def get_oger_similarity(oger_1, oger_2):
@@ -410,16 +410,16 @@ def get_oger_similarities(clinical_trials, articles):
         ct_id = clinical_trials[i].clinical_trial.find('nct_id').text.strip()
         ar_id = articles[i].article.PMID.text.strip()
 
-        ct_file = codecs.open(common_functions.get_src_path()+'\\tmp_txt_ct\\' + ct_id + '.txt', 'w', 'utf-8')
+        ct_file = codecs.open(common_functions.get_src_path()+'/tmp_txt_ct/' + ct_id + '.txt', 'w', 'utf-8')
         ct_file.write(ct_texts)
         ct_file.close()
 
-        ar_file = codecs.open(common_functions.get_src_path()+'\\tmp_txt_ar\\' + ar_id + '.txt', 'w', 'utf-8')
+        ar_file = codecs.open(common_functions.get_src_path()+'/tmp_txt_ar/' + ar_id + '.txt', 'w', 'utf-8')
         ar_file.write(ar_texts)
         ar_file.close()
 
         # Oger library usage with clinical trials
-        doc = pl.load_one(common_functions.get_src_path()+'\\tmp_txt_ct\\' + ct_id + ".txt", 'txt')
+        doc = pl.load_one(common_functions.get_src_path()+'/tmp_txt_ct/' + ct_id + ".txt", 'txt')
         pl.process(doc)
 
         entity_iter = doc[0].iter_entities()
@@ -428,7 +428,7 @@ def get_oger_similarities(clinical_trials, articles):
             ct_entities.append(entity.info[3])
 
         # Oger library usage with articles
-        doc = pl.load_one(common_functions.get_src_path()+'\\tmp_txt_ar\\' + ar_id + ".txt", 'txt')
+        doc = pl.load_one(common_functions.get_src_path()+'/tmp_txt_ar/' + ar_id + ".txt", 'txt')
         pl.process(doc)
 
         entity_iter = doc[0].iter_entities()

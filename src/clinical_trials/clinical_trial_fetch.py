@@ -5,7 +5,7 @@ from ..clinical_trials.clinical_trial import ClinicalTrial
 # This function returns the location of a file, given the clinical trial ID or the file name
 def get_file_location(name):
     inner_folder = name[:7] + 'xxxx'   # I get the name of the inner folder (e.g. NTC0000xxxx)
-    location = 'src\\AllPublicXML\\' + inner_folder + '\\' + name   # I set the location
+    location = 'src/AllPublicXML/' + inner_folder + '/' + name   # I set the location
     if name[-4:] != '.xml':
         location += '.xml'    # If the input was the ID, we add .xml because the file name is identical to the ID
     return location    # I return the file location

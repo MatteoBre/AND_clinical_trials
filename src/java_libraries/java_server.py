@@ -13,7 +13,7 @@ class JavaServer:
         else:
             java = 'java'
         command = java + ' -jar server.jar'
-        self.process = subprocess.Popen(command, cwd=r'src\java_libraries')
+        self.process = subprocess.Popen(command, cwd=r'src/java_libraries')
         self._apiwrapper = JavaGateway().entry_point
         # Until it's not set up, wait
         while True:
