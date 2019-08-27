@@ -5,12 +5,13 @@ from joblib import dump
 
 class SVMClassifier(Classifier):
 
-    def __init__(self):
+    def __init__(self, random_state):
         self.svm = None
         self.canSave = False
+        self.random_state = random_state
 
     def create_model(self, x_train, y_train):
-        self.svm = svm.SVC()
+        self.svm = svm.SVC(random_state=self.random_state)
         self.svm.fit(x_train, y_train)
         self.canSave = True
 

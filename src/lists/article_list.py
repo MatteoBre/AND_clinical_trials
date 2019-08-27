@@ -44,10 +44,3 @@ class ArticleList(list):
 
     def get_years(self):
         return [int(ar.get_year() or datetime.now().year) for ar in self]
-
-    def get_all_titles(self):
-        return [ar.get_title() for ar in self]
-
-    def get_all_texts(self):
-        return [ar.get_text() for ar in self]
-

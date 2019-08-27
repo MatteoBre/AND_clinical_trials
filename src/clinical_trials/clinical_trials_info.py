@@ -38,7 +38,7 @@ def get_all_name_parts(clinical_trials, gold_standard):
         correct_first_name_initial = get_gold_standard_initial(clinical_trials[i].clinical_trial.id_info.nct_id.text,
                                                                gold_standard)
 
-        name = clinical_trials[i].get_name(correct_last_name, correct_first_name_initial)
+        name = clinical_trials[i].get_author_tag(correct_last_name, correct_first_name_initial)
 
         # If I can't get the right name, I save the node and I will delete it later (fortunately it happens only twice)
         if name is None:
@@ -67,9 +67,9 @@ def get_all_organization_names(clinical_trials, last_names, initials, sample='st
         organization_name = clinical_trials[i].get_organization_name(last_names[i], initials[i])
         organizations.append(organization_name)
     if sample == 'spacy':
-        organizations = common_functions.get_organizations_locations_with_spacy(organizations)
+        organizations = common_functions.get_organizations_locations_with_spacy(organizations)[0]
     if sample == 'stanford':
-        organizations = common_functions.get_organizations_locations_with_stanford(organizations)
+        organizations = common_functions.get_organizations_locations_with_stanford(organizations)[0]
     return organizations
 
 

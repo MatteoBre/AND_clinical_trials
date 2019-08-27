@@ -59,7 +59,8 @@ country_equalities, city_equalities = calculate_attributes.get_location_equaliti
                                                                                    ar_locations)
 jds, sts = calculate_attributes.get_all_jds_sts(clinical_trial_list, article_list)
 jds_similarities, sts_similarities = calculate_attributes.\
-    get_all_jds_sts_similarities(jds, sts, 10, 75, 'ranking', 'percentage_ranking')
+        get_all_jds_sts_similarities(jds, sts, 4, 1, 'confidence', 'ranking')
+
 doc2vec_similarities = calculate_attributes.get_doc2vec_vectors_similarities(clinical_trial_list, article_list)
 oger_similarities = calculate_attributes.get_oger_similarities(clinical_trial_list, article_list)
 
@@ -85,3 +86,5 @@ csv = df.to_csv(index=False)
 file = codecs.open("src\\dataframe.csv", "w", "utf-8")
 file.write(csv)
 file.close()
+
+print('dataframe created successfully')

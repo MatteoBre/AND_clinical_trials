@@ -1,0 +1,197 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">16018755</PMID>
+<DateCompleted>
+<Year>2005</Year>
+<Month>09</Month>
+<Day>27</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>11</Month>
+<Day>14</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0022-3492</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>76</Volume>
+<Issue>7</Issue>
+<PubDate>
+<Year>2005</Year>
+<Month>Jul</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of periodontology</Title>
+<ISOAbbreviation>J. Periodontol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Periodontal disease and the incidence of tooth loss in postmenopausal women.</ArticleTitle>
+<Pagination>
+<MedlinePgn>1123-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The role of periodontal disease as a predictor of incident tooth loss in postmenopausal women has not been determined. The aim of this cohort study was to determine the extent of the association between baseline periodontal status and incident tooth loss in a population of postmenopausal women.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">The study population included 106 dentate white postmenopausal women who participated in a cross-sectional study between 1989 and 1991 who were willing and eligible to have a repeat examination after 10 to 13 years. At baseline, full-mouth assessment of periodontal status was performed clinically and radiographically. Assessment of tooth loss during follow- up was assessed clinically by a periodontist. Odds ratio (OR) and its 95% confidence interval (CI) for each periodontal variable was obtained from separate multiple logistic regression analyses adjusting for the effect of age, household income, smoking, hormone therapy, snack consumption, and number of decayed teeth.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Sixty-one (57.5%) subjects lost at least one tooth during follow-up. Mean tooth loss per person was 1.81 +/- 2.77. After adjusting for confounders, each millimeter of alveolar bone loss at baseline increased the risk of tooth loss 3-fold (OR = 3.26; 95% CI: 1.60 to 6.64). The risk of tooth loss also increased 2.5 times for each millimeter of clinical attachment loss (OR = 2.50; 95% CI: 1.24 to 5.07). Probing depth (OR = 2.53; 95% CI: 0.98 to 6.53), gingival bleeding (OR = 1.99; 95% CI: 0.21 to 18.94), calculus (OR = 2.05; 95% CI: 0.91 to 4.61), and plaque (OR = 0.70; 95% CI: 0.13 to 3.34) were not significantly associated with incident tooth loss.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Periodontal disease, especially measured by alveolar bone loss, is a strong and independent predictor for incident tooth loss in postmenopausal women.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Tezal</LastName>
+<ForeName>Mine</ForeName>
+<Initials>M</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Oral Biology, University at Buffalo, Buffalo, NY, USA. mtezal@buffalo.edu</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Wactawski-Wende</LastName>
+<ForeName>Jean</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Grossi</LastName>
+<ForeName>Sara G</ForeName>
+<Initials>SG</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Dmochowski</LastName>
+<ForeName>Jacek</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Genco</LastName>
+<ForeName>Robert J</ForeName>
+<Initials>RJ</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<GrantList CompleteYN="Y">
+<Grant>
+<GrantID>1R01 DE 13505</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>DE 00158</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>DE 04898</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+<Grant>
+<GrantID>T32-DE 07034</GrantID>
+<Acronym>DE</Acronym>
+<Agency>NIDCR NIH HHS</Agency>
+<Country>United States</Country>
+</Grant>
+</GrantList>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+<PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Periodontol</MedlineTA>
+<NlmUniqueID>8000345</NlmUniqueID>
+<ISSNLinking>0022-3492</ISSNLinking>
+</MedlineJournalInfo>
+<CitationSubset>D</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016301">Alveolar Bone Loss</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003430">Cross-Sectional Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003710">Demography</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005500">Follow-Up Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016015">Logistic Models</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015999">Multivariate Analysis</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016017">Odds Ratio</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017622">Periodontal Attachment Loss</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010512">Periodontal Index</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017698">Postmenopause</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015203">Reproducibility of Results</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016388">Tooth Loss</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2005</Year>
+<Month>7</Month>
+<Day>16</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2005</Year>
+<Month>9</Month>
+<Day>28</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2005</Year>
+<Month>7</Month>
+<Day>16</Day>
+<Hour>9</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">16018755</ArticleId>
+<ArticleId IdType="doi">10.1902/jop.2005.76.7.1123</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

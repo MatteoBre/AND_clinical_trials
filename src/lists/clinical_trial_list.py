@@ -23,9 +23,9 @@ class ClinicalTrialList(list):
             organization_name = self[i].get_organization_name(last_names[i], initials[i])
             organizations.append(organization_name)
         if sample == 'spacy':
-            organizations = common_functions.get_organizations_locations_with_spacy(organizations)
+            organizations = common_functions.get_organizations_locations_with_spacy(organizations)[0]
         if sample == 'stanford':
-            organizations = common_functions.get_organizations_locations_with_stanford(organizations)
+            organizations = common_functions.get_organizations_locations_with_stanford(organizations)[0]
         return organizations
 
     def get_mails(self, last_names, initials):
@@ -33,12 +33,6 @@ class ClinicalTrialList(list):
 
     def get_years(self):
         return [int(ct.get_year() or datetime.now().year) for ct in self]
-
-    def get_all_titles(self):
-        return [ct.get_title() for ct in self]
-
-    def get_all_texts(self):
-        return [ct.get_text() for ct in self]
 
     def get_countries_and_cities(self):
         countries_and_cities = [ct.get_country_and_city() for ct in self]

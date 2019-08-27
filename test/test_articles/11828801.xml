@@ -1,0 +1,181 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11828801</PMID>
+<DateCompleted>
+<Year>2002</Year>
+<Month>02</Month>
+<Day>15</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2007</Year>
+<Month>07</Month>
+<Day>18</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0914-5087</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>39</Volume>
+<Issue>1</Issue>
+<PubDate>
+<Year>2002</Year>
+<Month>Jan</Month>
+</PubDate>
+</JournalIssue>
+<Title>Journal of cardiology</Title>
+<ISOAbbreviation>J Cardiol</ISOAbbreviation>
+</Journal>
+<ArticleTitle>[Up-regulation of inositol 1, 4, 5-trisphosphate receptor expression in atrial tissue in patients with chronic atrial fibrillation].</ArticleTitle>
+<Pagination>
+<MedlinePgn>57-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Abnormal intracellular Ca2+ homeostasis occurs in chronic atrial fibrillation(AF). The intracellular Ca2+ concentration is regulated by ryanodine and inositol 1,4,5-trisphosphate (IP3) receptors. Changes occur in ryanodine receptors in atrial tissue from patients in chronic AF. Whether AF patients have alterations in atrial IP3 receptors was investigated.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">IP3 receptor expression was analyzed in the right atrial myocardium from 13 mitral valvular disease (MVD) patients with AF (MVD/AF), 5MVD patients with normal sinus rhythm(MVD/NSR), and 8 control patients with NSR(tissue obtained during coronary artery bypass surgery). Hemodynamic and echocardiographic data were obtained preoperatively, and an immunohistochemical study was performed on the atrial tissue.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The relative expression level of IP3 receptor protein was significantly greater in MVD/AF (0.75 +/- 0.26) than in MVD/NSR (0.42 +/- 0.13, p &lt; 0.01), and both were significantly above the control value (0.14 +/- 0.08). The relative expression level of IP3 receptor mRNA was significantly greater in MVD/AF(0.028 +/- 0.008) than in control subjects (0.015 +/- 0.004, p &lt; 0.01), but MVD/AF patients did not differ from MVD/NSR (0.020 +/- 0.006) patients. The relative expression levels of IP3 receptor protein and mRNA were higher in patients with left atrial dimension &gt; or = 40 mm, pulmonary capillary wedge pressure &gt; or = 10 mmHg, and right atrial pressure &gt; or = 5 mmHg. IP3 receptors were overexpressed in the cytosol and at the nuclear envelope of atrial myocytes in MVD.</AbstractText>
+<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Since chronic mechanical overload of the atrial myocardium increases IP3 receptor expression, especially in patients with chronic AF, up-regulation of IP3 receptors may be important in modulating intracellular Ca2+ homeostasis and initiating and/or perpetuating AF.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Yamada</LastName>
+<ForeName>Jutaro</ForeName>
+<Initials>J</Initials>
+<AffiliationInfo>
+<Affiliation>Second Department of Internal Medicine, Yamaguchi University, School of Medicine, Minamikogushi 1-1-1, Ube, Yamaguchi 755-8505.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ohkusa</LastName>
+<ForeName>Tomoko</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Nao</LastName>
+<ForeName>Tomoko</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ueyama</LastName>
+<ForeName>Takeshi</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Yano</LastName>
+<ForeName>Masafumi</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Kobayashi</LastName>
+<ForeName>Shigeki</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hamano</LastName>
+<ForeName>Kimikazu</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Esato</LastName>
+<ForeName>Kensuke</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Matsuzaki</LastName>
+<ForeName>Masunori</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>jpn</Language>
+<PublicationTypeList>
+<PublicationType UI="D004740">English Abstract</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Netherlands</Country>
+<MedlineTA>J Cardiol</MedlineTA>
+<NlmUniqueID>8804703</NlmUniqueID>
+<ISSNLinking>0914-5087</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D015220">Calcium Channels</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C506926">ITPR1 protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D053496">Inositol 1,4,5-Trisphosphate Receptors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018160">Receptors, Cytoplasmic and Nuclear</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001281">Atrial Fibrillation</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015220">Calcium Channels</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002908">Chronic Disease</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006325">Heart Atria</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D053496">Inositol 1,4,5-Trisphosphate Receptors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018160">Receptors, Cytoplasmic and Nuclear</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000096">biosynthesis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015854">Up-Regulation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>2</Month>
+<Day>7</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2002</Year>
+<Month>2</Month>
+<Day>16</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>2</Month>
+<Day>7</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11828801</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

@@ -1,4 +1,5 @@
 import unittest
+from unittest import mock
 import pandas as pd
 from src.common_functions import common_functions
 
@@ -24,6 +25,14 @@ class TestCommonFunctions(unittest.TestCase):
     def test_get_initials_3(self):
         initials = common_functions.get_initials('larry\'george')
         self.assertEqual(initials, 'lg')
+
+    @mock.patch('src.common_functions.common_functions.get_initials')
+    def test_get_all_initials(self, mock_get_initials):
+        mock_get_initials.return_value = "random"
+        first_names = ["George", "Robert", "Steve"]
+        all_initials = common_functions.get_all_initials(first_names)
+        self.assertEqual(mock_get_initials.call_count, 3)
+        self.assertEqual(all_initials, ["random", "random", "random"])
 
     def test_get_src_path(self):
         src_path = common_functions.get_src_path()

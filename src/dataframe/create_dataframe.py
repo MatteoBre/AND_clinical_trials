@@ -111,7 +111,7 @@ def get_all_name_parts(clinical_trial, article, gold_standard):
                                                            gold_standard)
 
     ct_name = clinical_trial.get_name(correct_last_name, correct_first_name_initial)
-    ar_name = article.get_name(correct_last_name, correct_first_name_initial)
+    ar_name = article.get_author_tag(correct_last_name, correct_first_name_initial)
 
     # If I can't get the right name, I save the node and I will delete it later (fortunately it happens only twice)
     if ct_name is None or ar_name is None:

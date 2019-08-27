@@ -1,0 +1,236 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11870092</PMID>
+<DateCompleted>
+<Year>2002</Year>
+<Month>05</Month>
+<Day>29</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>05</Month>
+<Day>13</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0006-3363</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>66</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2002</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Biology of reproduction</Title>
+<ISOAbbreviation>Biol. Reprod.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Pituitary adenylate cyclase-activating polypeptide modulates plasminogen activator expression in rat granulosa cell.</ArticleTitle>
+<Pagination>
+<MedlinePgn>830-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Pituitary adenylate cyclase-activating polypeptide (PACAP) is a bioactive peptide isolated from ovine hypothalamus. It has been demonstrated to be transiently expressed in preovulatory follicles and to positively affect several parameters correlated with the ovulatory process. The aim of the present study was to investigate whether PACAP influences the plasminogen/plasmin system in rat ovary. Plasminogen activators (PAs) are serine proteases, modulated by gonadotropins and several peptides in preovulatory follicles, that appear to be involved in ovulation. Granulosa cells obtained from immature eCG-treated rats were cultured for 24 h in the presence of increasing concentrations of PACAP and vasoactive intestinal peptide (VIP). A significant, dose-dependent increase in tissue-type PA (tPA) activity and decrease in urokinase-type (uPA) PA activity were observed in PACAP-treated cells. These effects were exerted at the mRNA level. The use of cycloheximide, a protein synthesis inhibitor, suggested that PACAP requires an intermediary protein to decrease uPA-mRNA, but not to induce tPA-mRNA. However, no significant modulation of PAs was observed in the presence of VIP. When granulosa cells were stimulated within the intact follicle (i.e., maintaining the three-dimensional structure and in the presence of the theca cell layers), both PACAP and VIP dose-dependently stimulated tPA. These data suggest that, in addition to the PACAP type I receptor present on granulosa cells, different subtypes of PACAP receptors are present in the different ovarian compartments.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Apa</LastName>
+<ForeName>Rosanna</ForeName>
+<Initials>R</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Obstetrics and Gynecology, Università Cattolica del Sacro Cuore, Rome, Italy.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lanzone</LastName>
+<ForeName>Antonio</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Miceli</LastName>
+<ForeName>Fiorella</ForeName>
+<Initials>F</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vaccari</LastName>
+<ForeName>Sergio</ForeName>
+<Initials>S</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Macchione</LastName>
+<ForeName>Elisabetta</ForeName>
+<Initials>E</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stefanini</LastName>
+<ForeName>Mario</ForeName>
+<Initials>M</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Canipari</LastName>
+<ForeName>Rita</ForeName>
+<Initials>R</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Biol Reprod</MedlineTA>
+<NlmUniqueID>0207224</NlmUniqueID>
+<ISSNLinking>0006-3363</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="C495403">Adcyap1 protein, rat</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D009479">Neuropeptides</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D051219">Pituitary Adenylate Cyclase-Activating Polypeptide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D011500">Protein Synthesis Inhibitors</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>37221-79-7</RegistryNumber>
+<NameOfSubstance UI="D014660">Vasoactive Intestinal Peptide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9002-68-0</RegistryNumber>
+<NameOfSubstance UI="D005640">Follicle Stimulating Hormone</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>98600C0908</RegistryNumber>
+<NameOfSubstance UI="D003513">Cycloheximide</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.-</RegistryNumber>
+<NameOfSubstance UI="D010960">Plasminogen Activators</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.68</RegistryNumber>
+<NameOfSubstance UI="D010959">Tissue Plasminogen Activator</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.4.21.73</RegistryNumber>
+<NameOfSubstance UI="D014568">Urokinase-Type Plasminogen Activator</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002478">Cells, Cultured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003513">Cycloheximide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005640">Follicle Stimulating Hormone</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015870">Gene Expression</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006107">Granulosa Cells</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007700">Kinetics</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009479">Neuropeptides</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051219">Pituitary Adenylate Cyclase-Activating Polypeptide</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010960">Plasminogen Activators</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011500">Protein Synthesis Inhibitors</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012333">RNA, Messenger</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010959">Tissue Plasminogen Activator</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014568">Urokinase-Type Plasminogen Activator</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014660">Vasoactive Intestinal Peptide</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>3</Month>
+<Day>1</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2002</Year>
+<Month>5</Month>
+<Day>30</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>3</Month>
+<Day>1</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11870092</ArticleId>
+<ArticleId IdType="doi">10.1095/biolreprod66.3.830</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

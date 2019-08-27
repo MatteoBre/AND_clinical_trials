@@ -7,16 +7,8 @@ class Article:
         self.article = article
 
     def get_affiliation_tag(self, last_name, initial):
-        authors = self.article.MedlineCitation.Article.AuthorList
-        for author in authors.findAll():
-            if (maybe(author).find('LastName').text.lower() == last_name and
-                    maybe(author).find('Initials').text.lower()[0] == initial):
-                pass
-            else:
-                continue
-
-            return author.find('Affiliation')
-        return None
+        author = self.get_author_tag(last_name, initial)
+        return author.find('Affiliation') if author is not None else None
 
     @staticmethod
     def extrapolate_name(name):
@@ -32,7 +24,7 @@ class Article:
         return last_name, first_name_initial, first_name
 
     # I need to find the right author because in PubMed he/she is not always the first on the list
-    def get_name(self, last_name, initial):
+    def get_author_tag(self, last_name, initial):
         authors = self.article.MedlineCitation.Article.AuthorList
 
         for author in authors.findAll():

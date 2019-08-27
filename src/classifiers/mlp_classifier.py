@@ -5,7 +5,7 @@ from joblib import dump
 
 class MLPClassifier(Classifier):
 
-    def __init__(self, random_state, sizes):
+    def __init__(self, random_state, sizes = (8)):
         self.mlp = None
         self.sizes = sizes
         self.canSave = False

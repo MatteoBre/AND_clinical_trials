@@ -1,0 +1,178 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">22353292</PMID>
+<DateCompleted>
+<Year>2012</Year>
+<Month>07</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2012</Year>
+<Month>02</Month>
+<Day>22</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Electronic">1873-5150</ISSN>
+<JournalIssue CitedMedium="Internet">
+<Volume>46</Volume>
+<Issue>3</Issue>
+<PubDate>
+<Year>2012</Year>
+<Month>Mar</Month>
+</PubDate>
+</JournalIssue>
+<Title>Pediatric neurology</Title>
+<ISOAbbreviation>Pediatr. Neurol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Early pathologic changes and responses to treatment in patients with later-onset Pompe disease.</ArticleTitle>
+<Pagination>
+<MedlinePgn>168-71</MedlinePgn>
+</Pagination>
+<ELocationID EIdType="doi" ValidYN="Y">10.1016/j.pediatrneurol.2011.12.010</ELocationID>
+<Abstract>
+<AbstractText>The treatment of later-onset Pompe disease with enzyme replacement therapy may not lead to significant improvement in muscle function, probably because of the irreversible muscle destruction caused by glycogen storage. A prospective study was performed to understand early muscle pathology in patients and the response of these pathologic changes to treatment. Five newborns and one child with later-onset Pompe disease but no signs at time of diagnosis were prospectively followed, and treatment was initiated when signs appeared. Six pretreatment biopsies taken at ages 1.5 months to 7 years indicated glycogen storage, lipid storage, stage 4 myocytes, and autophagic debris. Four 6-month posttreatment biopsies revealed glycogen clearance, but stage 4 myocytes and autophagic debris were still evident in three. In conclusion, among patients with later-onset Pompe disease and very mild signs, advanced pathologic changes were evident in a small portion of their myocytes. Because these pathologic changes may not respond to treatment, early treatment is necessary to achieve the best outcomes.</AbstractText>
+<CopyrightInformation>Copyright Â© 2012 Elsevier Inc. All rights reserved.</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Chien</LastName>
+<ForeName>Yin-Hsiu</ForeName>
+<Initials>YH</Initials>
+<AffiliationInfo>
+<Affiliation>Department of Pediatrics, National Taiwan University Hospital and National Taiwan University College of Medicine, Taipei, Taiwan.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Ni-Chung</ForeName>
+<Initials>NC</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Huang</LastName>
+<ForeName>Pei-Hsin</ForeName>
+<Initials>PH</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Wang-Tso</ForeName>
+<Initials>WT</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Thurberg</LastName>
+<ForeName>Beth L</ForeName>
+<Initials>BL</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Hwu</LastName>
+<ForeName>Wuh-Liang</ForeName>
+<Initials>WL</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Pediatr Neurol</MedlineTA>
+<NlmUniqueID>8508183</NlmUniqueID>
+<ISSNLinking>0887-8994</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>EC 3.2.1.20</RegistryNumber>
+<NameOfSubstance UI="C509951">GAA protein, human</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>EC 3.2.1.20</RegistryNumber>
+<NameOfSubstance UI="D000520">alpha-Glucosidases</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002675">Child, Preschool</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D056947">Enzyme Replacement Therapy</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006009">Glycogen Storage Disease Type II</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007223">Infant</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018482">Muscle, Skeletal</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011446">Prospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000520">alpha-Glucosidases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2011</Year>
+<Month>09</Month>
+<Day>05</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2011</Year>
+<Month>12</Month>
+<Day>22</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2012</Year>
+<Month>2</Month>
+<Day>23</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2012</Year>
+<Month>7</Month>
+<Day>6</Day>
+<Hour>6</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">22353292</ArticleId>
+<ArticleId IdType="pii">S0887-8994(11)00547-9</ArticleId>
+<ArticleId IdType="doi">10.1016/j.pediatrneurol.2011.12.010</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

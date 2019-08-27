@@ -1,0 +1,165 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11805404</PMID>
+<DateCompleted>
+<Year>2002</Year>
+<Month>03</Month>
+<Day>14</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0302-2838</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>40</Volume>
+<Issue>6</Issue>
+<PubDate>
+<Year>2001</Year>
+<Month>Dec</Month>
+</PubDate>
+</JournalIssue>
+<Title>European urology</Title>
+<ISOAbbreviation>Eur. Urol.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Dopamine and male sexual function.</ArticleTitle>
+<Pagination>
+<MedlinePgn>601-8</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>The use of the D1/D2 dopamine receptor agonist apomorphine for the treatment of erectile dysfunction provides strong support in favor of a participation of the dopaminergic system in the control of sexual function. However, the exact involvement of dopamine in the control of sexual motivation and genital arousal in males is unknown. Experimental data in male rats suggested an implication of dopamine in sexual motivation as well as in copulatory performance. Specific tests allowing assessment of sexual motivation showed that the release of dopamine at the level of the nucleus accumbens (innervated by the mesolimbic dopaminergic pathway) and the medial preoptic area of the hypothalamus (innervated by the dopaminergic incertohypothalamic pathway) positively regulated the anticipatory/motivational phase of copulatory behavior. A permissive role of dopamine released at the level of the median preoptic area of the hypothalamus in the display of copulatory behavior has also been demonstrated. It is noteworthy that these participations of the dopaminergic system are not specific for sexual behavior but rather reflect the involvement of dopamine in the regulation of cognitive, integrative and reward processes. Because of its role in the control of locomotor activity, the integrity of the nigrostriatal dopaminergic pathway is also essential for the display of copulatory behavior. Somehow more specific to sexual function, it is likely that dopamine can trigger penile erection by acting on oxytocinergic neurons located in the paraventricular nucleus of the hypothalamus, and perhaps on the pro-erectile sacral parasympathetic nucleus within the spinal cord. In conclusion, central dopamine is a key neurotransmitter in the control of sexual function.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Giuliano</LastName>
+<ForeName>F</ForeName>
+<Initials>F</Initials>
+<AffiliationInfo>
+<Affiliation>Groupe de Recherche en Urologie, UPRES, EA 1602, Medical University of Paris South, Le Kremlin-Bicêtre, France. giuliano@cyber-sante.org</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Allard</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016454">Review</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>Switzerland</Country>
+<MedlineTA>Eur Urol</MedlineTA>
+<NlmUniqueID>7512719</NlmUniqueID>
+<ISSNLinking>0302-2838</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D018491">Dopamine Agonists</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>N21FAR7B4S</RegistryNumber>
+<NameOfSubstance UI="D001058">Apomorphine</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>VTD58H1Z2X</RegistryNumber>
+<NameOfSubstance UI="D004298">Dopamine</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001058">Apomorphine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004298">Dopamine</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018491">Dopamine Agonists</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D007172">Erectile Dysfunction</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009714">Nucleus Accumbens</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010286">Paraventricular Hypothalamic Nucleus</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010410">Penile Erection</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011301">Preoptic Area</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012726">Sexual Behavior, Animal</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013116">Spinal Cord</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+<NumberOfReferences>59</NumberOfReferences>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>1</Month>
+<Day>24</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2002</Year>
+<Month>3</Month>
+<Day>15</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>1</Month>
+<Day>24</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11805404</ArticleId>
+<ArticleId IdType="pii">eur40601</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

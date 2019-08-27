@@ -1,4 +1,6 @@
 from src.classifiers.random_forest import RandomForest
+from src.classifiers.svm_classifier import SVMClassifier
+from src.classifiers.mlp_classifier import MLPClassifier
 
 import pandas as pd
 import numpy as np

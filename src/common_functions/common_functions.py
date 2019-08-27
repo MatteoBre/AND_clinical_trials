@@ -1,8 +1,4 @@
-from sklearn.preprocessing import StandardScaler
 from nltk.tag import StanfordNERTagger
-import spacy
-from spacy import displacy
-from collections import Counter
 import en_core_web_sm
 from nltk.tokenize import word_tokenize
 from itertools import groupby

@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from ..clinical_trials.clinical_trial import  ClinicalTrial
+from ..clinical_trials.clinical_trial import ClinicalTrial
 
 
 # This function returns the location of a file, given the clinical trial ID or the file name
@@ -23,4 +23,4 @@ def get_xml_dom(ID):
 
 def get_xml_doms(id_list):  # use this for a list of IDs
     doms = [ClinicalTrial(get_xml_dom(element)) for element in id_list]
-    return [dom for dom in doms if dom is not None]
+    return [dom for dom in doms if dom.clinical_trial is not None]

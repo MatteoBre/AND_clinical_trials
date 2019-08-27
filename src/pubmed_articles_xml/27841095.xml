@@ -1,10 +1,10 @@
 <PubmedArticle>
-<MedlineCitation Owner="NLM" Status="In-Data-Review">
+<MedlineCitation Owner="NLM" Status="In-Process">
 <PMID Version="1">27841095</PMID>
 <DateRevised>
 <Year>2019</Year>
-<Month>01</Month>
-<Day>07</Day>
+<Month>08</Month>
+<Day>10</Day>
 </DateRevised>
 <Article PubModel="Print-Electronic">
 <Journal>
@@ -14,7 +14,7 @@
 <Issue>1</Issue>
 <PubDate>
 <Year>2018</Year>
-<Month>Jan</Month>
+<Month>01</Month>
 </PubDate>
 </JournalIssue>
 <Title>The journal of spinal cord medicine</Title>
@@ -26,11 +26,11 @@
 </Pagination>
 <ELocationID EIdType="doi" ValidYN="Y">10.1080/10790268.2016.1245010</ELocationID>
 <Abstract>
-<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine whether antispasmodic medications are associated with neurological and functional outcomes during the first year after traumatic spinal cord injury (SCI).</AbstractText>
-<AbstractText Label="DESIGN/METHODS" NlmCategory="METHODS">Retrospective analysis of prospectively collected data from six inpatient SCI rehabilitation centers. Baseline-adjusted outcomes at discharge and one-year follow-up were compared using analysis of covariance between patients who received antispasmodic medication on at least 5 days during inpatient rehabilitation and patients who did not.</AbstractText>
-<AbstractText Label="OUTCOME MEASURES" NlmCategory="METHODS">Rasch-transformed motor subscore of the Functional Independence Measure (FIM); International Standards for Neurological Classification of Spinal Cord Injury motor scores, grade, and level.</AbstractText>
-<AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 1,259 patients, 59.8%, 35.4%, and 4.8% were injured at the cervical, thoracic, and lumbosacral levels, respectively. 65.6% had motor complete injury. Rasch-transformed motor FIM score at admission averaged 23.3 (95% confidence interval (CI) 22.4-24.2). Total motor score averaged 39.2 (95% CI 37.8-40.6). 685 patients (54.4%) received one or more antispasmodic medications on at least 5 days. After controlling for demographic and injury variables at admission, Rasch-transformed motor FIM scores at discharge were significantly lower (P = 0.018) in patients receiving antispasmodic medications than in those who did not. This trend persisted in secondary analyses for cervical, thoracic, and lumbosacral subgroups. Multivariate regression showed that receiving antispasmodic medication significantly contributed to discharge motor FIM outcome. At one-year follow-up, no outcomes significantly differed between patients ON or OFF antispasmodics.</AbstractText>
-<AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Antispasmodic medications may be associated with decreased functional recovery at discharge from inpatient traumatic SCI rehabilitation. Randomized prospective studies are needed to directly evaluate the effects of antispasmodic medication on recovery.</AbstractText>
+<AbstractText Label="OBJECTIVE">To determine whether antispasmodic medications are associated with neurological and functional outcomes during the first year after traumatic spinal cord injury (SCI).</AbstractText>
+<AbstractText Label="DESIGN/METHODS">Retrospective analysis of prospectively collected data from six inpatient SCI rehabilitation centers. Baseline-adjusted outcomes at discharge and one-year follow-up were compared using analysis of covariance between patients who received antispasmodic medication on at least 5 days during inpatient rehabilitation and patients who did not.</AbstractText>
+<AbstractText Label="OUTCOME MEASURES">Rasch-transformed motor subscore of the Functional Independence Measure (FIM); International Standards for Neurological Classification of Spinal Cord Injury motor scores, grade, and level.</AbstractText>
+<AbstractText Label="RESULTS">Of 1,259 patients, 59.8%, 35.4%, and 4.8% were injured at the cervical, thoracic, and lumbosacral levels, respectively. 65.6% had motor complete injury. Rasch-transformed motor FIM score at admission averaged 23.3 (95% confidence interval (CI) 22.4-24.2). Total motor score averaged 39.2 (95% CI 37.8-40.6). 685 patients (54.4%) received one or more antispasmodic medications on at least 5 days. After controlling for demographic and injury variables at admission, Rasch-transformed motor FIM scores at discharge were significantly lower (P = 0.018) in patients receiving antispasmodic medications than in those who did not. This trend persisted in secondary analyses for cervical, thoracic, and lumbosacral subgroups. Multivariate regression showed that receiving antispasmodic medication significantly contributed to discharge motor FIM outcome. At one-year follow-up, no outcomes significantly differed between patients ON or OFF antispasmodics.</AbstractText>
+<AbstractText Label="CONCLUSIONS">Antispasmodic medications may be associated with decreased functional recovery at discharge from inpatient traumatic SCI rehabilitation. Randomized prospective studies are needed to directly evaluate the effects of antispasmodic medication on recovery.</AbstractText>
 </Abstract>
 <AuthorList CompleteYN="Y">
 <Author ValidYN="Y">
@@ -72,7 +72,7 @@
 <LastName>Harel</LastName>
 <ForeName>Noam Y</ForeName>
 <Initials>NY</Initials>
-<Identifier Source="ORCID">http://orcid.org/0000-0003-3085-2194</Identifier>
+<Identifier Source="ORCID">0000-0003-3085-2194</Identifier>
 <AffiliationInfo>
 <Affiliation>b Icahn School of Medicine at Mount Sinai , Department of Rehabilitation Medicine , New York , NY , USA.</Affiliation>
 </AffiliationInfo>
@@ -84,6 +84,7 @@
 <Language>eng</Language>
 <PublicationTypeList>
 <PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
 </PublicationTypeList>
 <ArticleDate DateType="Electronic">
 <Year>2016</Year>
@@ -98,10 +99,10 @@
 <ISSNLinking>1079-0268</ISSNLinking>
 </MedlineJournalInfo>
 <KeywordList Owner="NOTNLM">
-<Keyword MajorTopicYN="N">Muscle relaxants</Keyword>
-<Keyword MajorTopicYN="N">Muscle spasticity</Keyword>
-<Keyword MajorTopicYN="N">Rehabilitation</Keyword>
-<Keyword MajorTopicYN="N">Spinal cord injuries</Keyword>
+<Keyword MajorTopicYN="Y">Muscle relaxants</Keyword>
+<Keyword MajorTopicYN="Y">Muscle spasticity</Keyword>
+<Keyword MajorTopicYN="Y">Rehabilitation</Keyword>
+<Keyword MajorTopicYN="Y">Spinal cord injuries</Keyword>
 </KeywordList>
 </MedlineCitation>
 <PubmedData>

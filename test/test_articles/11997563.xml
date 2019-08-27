@@ -1,0 +1,193 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11997563</PMID>
+<DateCompleted>
+<Year>2002</Year>
+<Month>06</Month>
+<Day>13</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2015</Year>
+<Month>11</Month>
+<Day>19</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0033-8419</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>223</Volume>
+<Issue>2</Issue>
+<PubDate>
+<Year>2002</Year>
+<Month>May</Month>
+</PubDate>
+</JournalIssue>
+<Title>Radiology</Title>
+<ISOAbbreviation>Radiology</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Liver lesions: manganese-enhanced MR and dual-phase helical CT for preoperative detection and characterization comparison with receiver operating characteristic analysis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>525-31</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The purpose of this study was to compare, by means of receiver operating characteristic (ROC) analysis, dual-phase helical computed tomography (CT) and manganese-enhanced magnetic resonance (MR) imaging in the detection and characterization of hepatic lesions in patients prior to surgery.</AbstractText>
+<AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Twenty-five patients known to have or suspected of having hepatic lesions who were eligible for surgery underwent dual-phase (ie, arterial and portal phase) helical CT and phased-array MR imaging (ie, unenhanced fast spin-echo T2-weighted imaging and gradient-echo T1-weighted imaging performed before and after administration of mangafodipir trisodium). All images were reviewed independently by three off-site blinded reviewers who separately reviewed the CT scans and MR images. The standard of reference was findings at surgery, intraoperative ultrasonography (US), and histopathologic examination. ROC curves were established to analyze the results for each reader and modality.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">Ninety-four lesions (77 malignant and 17 benign) were revealed at surgery, intraoperative US, and/or histopathologic examination. The overall rate of lesion detection for the three readers at CT was 81.9% +/- 7.8, 90.4% +/- 5.9, and 76.6% +/- 8.6. At MR imaging, the detection rates were 72.3% +/- 9.0, 71.3% +/- 9.1, and 69.1% +/- 9.3 (P =.001 for the difference between MR and CT). The average rate of false-positive diagnoses in patients was 14.1% at CT and 6.4% at MR imaging (P =.06 for the difference between MR and CT). The mean areas under the alternative-free-response ROC curves were 0.74 for MR and 0.72 for CT (P =.751, not significant).</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In detection and characterization of liver lesions, manganese-enhanced MR imaging and dual-phase helical CT were not statistically different.</AbstractText>
+<CopyrightInformation>Copyright RSNA, 2002</CopyrightInformation>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Braga</LastName>
+<ForeName>Helio J V</ForeName>
+<Initials>HJ</Initials>
+<AffiliationInfo>
+<Affiliation>Russell H. Morgan Department of Radiology and Radiological Sciences, Johns Hopkins University School of Medicine, 600 N Wolfe St, Baltimore, MD 21287, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Choti</LastName>
+<ForeName>Michael A</ForeName>
+<Initials>MA</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Lee</LastName>
+<ForeName>Vivian S</ForeName>
+<Initials>VS</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Paulson</LastName>
+<ForeName>Erik K</ForeName>
+<Initials>EK</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Siegelman</LastName>
+<ForeName>Evan S</ForeName>
+<Initials>ES</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Bluemke</LastName>
+<ForeName>David A</ForeName>
+<Initials>DA</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D003160">Comparative Study</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Radiology</MedlineTA>
+<NlmUniqueID>0401260</NlmUniqueID>
+<ISSNLinking>0033-8419</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D003287">Contrast Media</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>5V5IOJ8338</RegistryNumber>
+<NameOfSubstance UI="D011732">Pyridoxal Phosphate</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>9G34HU7RV0</RegistryNumber>
+<NameOfSubstance UI="D004492">Edetic Acid</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>P28BIW0UTB</RegistryNumber>
+<NameOfSubstance UI="C060076">N,N'-bis(pyridoxal-5-phosphate)ethylenediamine-N,N'-diacetic acid</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>AIM</CitationSubset>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D016009">Chi-Square Distribution</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003287">Contrast Media</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004492">Edetic Acid</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008107">Liver Diseases</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D008279">Magnetic Resonance Imaging</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011300">Preoperative Care</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011732">Pyridoxal Phosphate</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012372">ROC Curve</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012680">Sensitivity and Specificity</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D014057">Tomography, X-Ray Computed</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>5</Month>
+<Day>9</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2002</Year>
+<Month>6</Month>
+<Day>14</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>5</Month>
+<Day>9</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11997563</ArticleId>
+<ArticleId IdType="doi">10.1148/radiol.2232010908</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

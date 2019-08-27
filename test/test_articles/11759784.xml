@@ -1,0 +1,219 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11759784</PMID>
+<DateCompleted>
+<Year>2001</Year>
+<Month>12</Month>
+<Day>28</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2017</Year>
+<Month>02</Month>
+<Day>02</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0098-8421</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>56</Volume>
+<Issue>4</Issue>
+<PubDate>
+<Year>2001</Year>
+<Season>Fall</Season>
+</PubDate>
+</JournalIssue>
+<Title>Journal of the American Medical Women's Association (1972)</Title>
+<ISOAbbreviation>J Am Med Womens Assoc (1972)</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Reducing risk for cardiovascular disease in uninsured women: combined results from two WISEWOMAN projects.</ArticleTitle>
+<Pagination>
+<MedlinePgn>161-5</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">to evaluate the effectiveness of a cardiovascular disease (CVD) risk factor reduction program for financially disadvantaged women. The program included cholesterol and blood pressure assessments and tailored physical activity and nutrition interventions.</AbstractText>
+<AbstractText Label="METHODS" NlmCategory="METHODS">Women who attended selected National Breast and Cervical Cancer Early Detection Program sites in North Carolina and Massachusetts received either enhanced physical activity and nutrition interventions (EI) or minimum interventions (MI). The effectiveness of EI was assessed by pooling data from the North Carolina and Massachusetts projects after 1 year, and a mixed models analysis of covariance was used to compare changes in CVD risk factors across groups.</AbstractText>
+<AbstractText Label="RESULTS" NlmCategory="RESULTS">The blood pressure, total cholesterol, and high-density lipoprotein cholesterol profiles of both groups improved, body weight was maintained, and smoking declined. The 10-year estimated coronary heart disease death rate (per 1,000 women) at baseline was 64.8 for the El group and 61.9 for the MI group. The rate declined by 3.5 deaths per 1,000 for the EI and 0.7 per 1,000 for the MI. Although the decline was statistically significant for the EI group, the difference between groups was not significant.</AbstractText>
+<AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Further lifestyle intervention research targeting financially disadvantaged women is needed.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Will</LastName>
+<ForeName>J C</ForeName>
+<Initials>JC</Initials>
+<AffiliationInfo>
+<Affiliation>National Center for Chronic Disease Prevention and Health Promotion, Centers for Disease Control and Prevention in Atlanta, USA. Jxw6@cdc.gov</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Massoudi</LastName>
+<ForeName>B</ForeName>
+<Initials>B</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mokdad</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ford</LastName>
+<ForeName>E S</ForeName>
+<Initials>ES</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Rosamond</LastName>
+<ForeName>W</ForeName>
+<Initials>W</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Stoddard</LastName>
+<ForeName>A M</ForeName>
+<Initials>AM</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Palombo</LastName>
+<ForeName>S R</ForeName>
+<Initials>SR</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Holliday</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Byers</LastName>
+<ForeName>T</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Ammerman</LastName>
+<ForeName>A</ForeName>
+<Initials>A</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Troped</LastName>
+<ForeName>P</ForeName>
+<Initials>P</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sorensen</LastName>
+<ForeName>G</ForeName>
+<Initials>G</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016430">Clinical Trial</PublicationType>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D016448">Multicenter Study</PublicationType>
+<PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Am Med Womens Assoc (1972)</MedlineTA>
+<NlmUniqueID>7503064</NlmUniqueID>
+<ISSNLinking>0098-8421</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>97C5T2UQ7J</RegistryNumber>
+<NameOfSubstance UI="D002784">Cholesterol</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002318">Cardiovascular Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000401">mortality</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002784">Cholesterol</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D008404">Massachusetts</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="Y" UI="D017057">Medically Uninsured</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" Type="Geographic" UI="D009657">North Carolina</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000453">epidemiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D017063">Outcome Assessment (Health Care)</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010865">Pilot Projects</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011203">Poverty</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011314">Preventive Health Services</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000458">organization &amp; administration</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015397">Program Evaluation</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014932">Women's Health Services</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000458">organization &amp; administration</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>1</Month>
+<Day>5</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2002</Year>
+<Month>1</Month>
+<Day>5</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>1</Month>
+<Day>5</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11759784</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

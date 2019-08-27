@@ -1,0 +1,168 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">11807266</PMID>
+<DateCompleted>
+<Year>2002</Year>
+<Month>05</Month>
+<Day>31</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2019</Year>
+<Month>06</Month>
+<Day>05</Day>
+</DateRevised>
+<Article PubModel="Print-Electronic">
+<Journal>
+<ISSN IssnType="Print">0907-4449</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>58</Volume>
+<Issue>Pt 2</Issue>
+<PubDate>
+<Year>2002</Year>
+<Month>Feb</Month>
+</PubDate>
+</JournalIssue>
+<Title>Acta crystallographica. Section D, Biological crystallography</Title>
+<ISOAbbreviation>Acta Crystallogr. D Biol. Crystallogr.</ISOAbbreviation>
+</Journal>
+<ArticleTitle>Crystallization and preliminary X-ray studies of the single-stranded DNA-binding protein from Mycobacterium tuberculosis.</ArticleTitle>
+<Pagination>
+<MedlinePgn>327-9</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Single-stranded DNA-binding proteins play an important role in DNA replication, repair and recombination. The protein from Mycobacterium tuberculosis (MtSSB) is a tetramer with 164 amino-acid residues in each subunit. The protein readily crystallizes in space group P3(1)21 (or P3(2)21) at pH 7.4 under appropriate conditions. Under different conditions, but at the same pH, orthorhombic crystals belonging to space group I222 or I2(1)2(1)2(1) were obtained after several months. Similar orthorhombic crystals were obtained when protein samples stored for several months were used for crystallization. The orthorhombic crystals obtained in different experiments, though similar to one another, exhibited variations in unit-cell parameters, presumably on account of different extents of proteolytic cleavage of the C-terminal region. Molecular-replacement calculations using different search models did not yield the structure. As part of attempts to solve the structure using isomorphous replacement, a good mercury derivative of the trigonal crystal has been prepared.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Saikrishnan</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+<AffiliationInfo>
+<Affiliation>Molecular Biophysics Unit, Indian Institute of Science, Bangalore 560 012, India.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Jeyakanthan</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Venkatesh</LastName>
+<ForeName>J</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Acharya</LastName>
+<ForeName>N</ForeName>
+<Initials>N</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Purnapatre</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Sekar</LastName>
+<ForeName>K</ForeName>
+<Initials>K</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Varshney</LastName>
+<ForeName>U</ForeName>
+<Initials>U</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Vijayan</LastName>
+<ForeName>M</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+<PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+</PublicationTypeList>
+<ArticleDate DateType="Electronic">
+<Year>2002</Year>
+<Month>01</Month>
+<Day>24</Day>
+</ArticleDate>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>Acta Crystallogr D Biol Crystallogr</MedlineTA>
+<NlmUniqueID>9305878</NlmUniqueID>
+<ISSNLinking>0907-4449</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>0</RegistryNumber>
+<NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D003460">Crystallization</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D018360">Crystallography, X-Ray</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D004268">DNA-Binding Proteins</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006863">Hydrogen-Ion Concentration</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D009169">Mycobacterium tuberculosis</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000737">chemistry</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D011487">Protein Conformation</DescriptorName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="received">
+<Year>2001</Year>
+<Month>10</Month>
+<Day>23</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="accepted">
+<Year>2001</Year>
+<Month>11</Month>
+<Day>21</Day>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>1</Month>
+<Day>25</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2002</Year>
+<Month>6</Month>
+<Day>1</Day>
+<Hour>10</Hour>
+<Minute>1</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>1</Month>
+<Day>25</Day>
+<Hour>10</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">11807266</ArticleId>
+<ArticleId IdType="pii">S090744490102008X</ArticleId>
+<ArticleId IdType="doi">10.1107/s090744490102008x</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

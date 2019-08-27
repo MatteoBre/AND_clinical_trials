@@ -1,0 +1,193 @@
+<PubmedArticle>
+<MedlineCitation Owner="NLM" Status="MEDLINE">
+<PMID Version="1">12432318</PMID>
+<DateCompleted>
+<Year>2003</Year>
+<Month>03</Month>
+<Day>05</Day>
+</DateCompleted>
+<DateRevised>
+<Year>2013</Year>
+<Month>11</Month>
+<Day>21</Day>
+</DateRevised>
+<Article PubModel="Print">
+<Journal>
+<ISSN IssnType="Print">0273-8481</ISSN>
+<JournalIssue CitedMedium="Print">
+<Volume>23</Volume>
+<Issue>6</Issue>
+<PubDate>
+<MedlineDate>2002 Nov-Dec</MedlineDate>
+</PubDate>
+</JournalIssue>
+<Title>The Journal of burn care &amp; rehabilitation</Title>
+<ISOAbbreviation>J Burn Care Rehabil</ISOAbbreviation>
+</Journal>
+<ArticleTitle>The 2002 Moyer Award. Metabolic effects of vitamin D on serum calcium, magnesium, and phosphorus in pediatric burn patients.</ArticleTitle>
+<Pagination>
+<MedlinePgn>416-23</MedlinePgn>
+</Pagination>
+<Abstract>
+<AbstractText>Severe burn injury results in profound metabolic derangements. Recently, we have shown that vitamin D metabolism is disturbed after burn injury. Vitamin D is essential for calcium and phosphorus homeostasis and skeletal bone integrity. The role of vitamin D on magnesium homeostasis is not well understood. The purpose of this study was to assess the effects of vitamin D deficiency on serum electrolytes. Forty-one pediatric burn patients with a mean (+/- SEM) total body surface area burn of 53.1 +/- 2.9% and full-thickness injury of 44.2 +/- 4.1% were studied from July 1996 to December 2000. The mean age of the patients was 6.5 +/- 0.8 years. Patients were studied for 6 weeks after admission to the hospital. Blood samples were obtained weekly for serum 25-hydroxycholecalciferol (25D), 1,25-dihydroxycholecalciferol (1,25D), and daily for calcium, magnesium, and phosphorus. Total intravenous (IV) replacement of calcium, magnesium, and phosphorus was also quantitated retrospectively. Bivariate and multivariate correlational analysis was used for statistical comparison. For the study duration, multivariate analysis demonstrated a positive correlation between 25D and serum calcium (r =.47, P &lt;.05) and 1,25D and calcium (r =.27, P &lt;.05). Overall, calcium had a positive correlation with phosphorus and a negative correlation with IV calcium replacement (ie, patients with lower calcium received more IV replacement). During the initial week of hospitalization (week 0), decreased 25D (mean 11.6 ng/ml; normal range 15-57 ng/ml) and 1,25D (mean 13.9 pg/ml; normal range 15-75 pg/ml) did not correlate with any other measured variable. In week 1, 1,25D (mean 15.2 ng/ml) had a positive correlation (r =.410, P &lt;.05) with calcium (mean 7.70 mg/dl). Hypovitaminosis D observed in burn injury correlates with serum calcium and phosphorus abnormalities. Early after injury (&lt;1 week) there was no observed correlation between vitamin D and other variables possibly because of the effects of burn shock. After 1 week, vitamin D appears to significantly effect phosphorus homeostasis. The relationship between vitamin D and magnesium is not well established. These results may indicate a role for vitamin D replacement therapy during the initial phase of burn resuscitation.</AbstractText>
+</Abstract>
+<AuthorList CompleteYN="Y">
+<Author ValidYN="Y">
+<LastName>Wray</LastName>
+<ForeName>Curtis J</ForeName>
+<Initials>CJ</Initials>
+<AffiliationInfo>
+<Affiliation>Shriners Hospitals for Children, Cincinnati, Ohio 45229, USA.</Affiliation>
+</AffiliationInfo>
+</Author>
+<Author ValidYN="Y">
+<LastName>Mayes</LastName>
+<ForeName>Theresa</ForeName>
+<Initials>T</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Khoury</LastName>
+<ForeName>Jane</ForeName>
+<Initials>J</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Warden</LastName>
+<ForeName>Glenn D</ForeName>
+<Initials>GD</Initials>
+</Author>
+<Author ValidYN="Y">
+<LastName>Gottschlich</LastName>
+<ForeName>Michele</ForeName>
+<Initials>M</Initials>
+</Author>
+</AuthorList>
+<Language>eng</Language>
+<PublicationTypeList>
+<PublicationType UI="D016428">Journal Article</PublicationType>
+</PublicationTypeList>
+</Article>
+<MedlineJournalInfo>
+<Country>United States</Country>
+<MedlineTA>J Burn Care Rehabil</MedlineTA>
+<NlmUniqueID>8110188</NlmUniqueID>
+<ISSNLinking>0273-8481</ISSNLinking>
+</MedlineJournalInfo>
+<ChemicalList>
+<Chemical>
+<RegistryNumber>1406-16-2</RegistryNumber>
+<NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>27YLU75U4W</RegistryNumber>
+<NameOfSubstance UI="D010758">Phosphorus</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>FXC9231JVH</RegistryNumber>
+<NameOfSubstance UI="D002117">Calcitriol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>I38ZP9992A</RegistryNumber>
+<NameOfSubstance UI="D008274">Magnesium</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>P6YZ13C99Q</RegistryNumber>
+<NameOfSubstance UI="D002112">Calcifediol</NameOfSubstance>
+</Chemical>
+<Chemical>
+<RegistryNumber>SY7Q814VUP</RegistryNumber>
+<NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+</Chemical>
+</ChemicalList>
+<CitationSubset>IM</CitationSubset>
+<MeshHeadingList>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002056">Burns</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000150">complications</QualifierName>
+<QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002112">Calcifediol</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002117">Calcitriol</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002118">Calcium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008274">Magnesium</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D008659">Metabolic Diseases</DescriptorName>
+<QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000209">etiology</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D010758">Phosphorus</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D015599">Trauma Severity Indices</DescriptorName>
+</MeshHeading>
+<MeshHeading>
+<DescriptorName MajorTopicYN="N" UI="D014807">Vitamin D</DescriptorName>
+<QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+<QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+</MeshHeading>
+</MeshHeadingList>
+</MedlineCitation>
+<PubmedData>
+<History>
+<PubMedPubDate PubStatus="pubmed">
+<Year>2002</Year>
+<Month>11</Month>
+<Day>15</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="medline">
+<Year>2003</Year>
+<Month>3</Month>
+<Day>6</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+<PubMedPubDate PubStatus="entrez">
+<Year>2002</Year>
+<Month>11</Month>
+<Day>15</Day>
+<Hour>4</Hour>
+<Minute>0</Minute>
+</PubMedPubDate>
+</History>
+<PublicationStatus>ppublish</PublicationStatus>
+<ArticleIdList>
+<ArticleId IdType="pubmed">12432318</ArticleId>
+<ArticleId IdType="doi">10.1097/01.BCR.0000036587.27970.0D</ArticleId>
+</ArticleIdList>
+</PubmedData>
+</PubmedArticle>

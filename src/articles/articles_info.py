@@ -30,7 +30,7 @@ def get_all_name_parts(articles, gold_standard):
         correct_last_name = get_gold_standard_last_name(articles[i].article.MedlineCitation.PMID.text, gold_standard)
         correct_first_name_initial = get_gold_standard_initial(articles[i].article.MedlineCitation.PMID.text, gold_standard)
 
-        author = articles[i].get_name(correct_last_name, correct_first_name_initial)
+        author = articles[i].get_author_tag(correct_last_name, correct_first_name_initial)
 
         if author is None:
             print('not found:', i)
