@@ -1,6 +1,6 @@
 # Machine Learning for disambiguation of clinical trial scientist names
 
-The aim of this project is to recognise if the author in a pair consisting of an article and a clinical trial is the same.
+The aim of this project is to recognise whether the author present in a pair consisting of an article and a clinical trial is the same person or not.
 
 Articles and Clinical trials are paired with the constraint that the authors of both have the same last names and the same initials of the first name.
 
@@ -22,16 +22,42 @@ Extract it and place the "tc2011/data" folder in "src/java_libraries".
 To be able to use the Doc2Vec feature, you will have to download the pre-trained model, here's the link: <https://ibm.ent.box.com/s/3f160t4xpuya9an935k84ig465gvymm2>.
 Extract the content to "src/gensim", you then have "src/gensim/enwiki_dbow/doc2vec.bin" and the 2 linked files.
 
-Another thing to do is to write the path to your java (eg. C:\Program Files\Java\jdk-11.0.1\bin\java.exe) in the file "java_path.txt".
+Another thing to do is to write the path to your java (usually C:\Program Files\Java\jdk-11.0.1\bin\java.exe for Windows or /usr/bin/java for linux/mac) in the file "java_path.txt".
 
-After doing that you can execute the python files dataframe_creator and model_maker.
+## Python Packages Required
 
-For now it has only been tested on Windows.
+libraries needed:
+
+- requests
+- bs4
+- pymaybe
+- pandas
+- nltk
+- punkt (python -m nltk.downloader 'punkt')
+- spacy
+- en\_core\_web\_sm (python -m spacy download en\_core\_web\_sm)
+- py4j
+- gensim
+- lxml
+- sklearn
+
 
 ## Components
 
-dataframe_creator is responsible for the creation of the csv that will be used with the classifier.
+download\_pubmed\_xml is used to download all the pubmed files and store them in a folder called pubmed_articles_xml.
 
-model_maker creates the model of the classifier, trains it and saves it in the folder "models".
+dataframe\_creator is responsible for the creation of the csv that will be used with the classifier.
 
-download_pubmed_files_by_pmid is used to download all the pubmed files and store them in a folder called pubmed_articles_xml.
+model\_maker creates the model of the classifier, trains it and saves it in the folder "models".
+
+## Usage
+
+Using the shell, or command prompt, go in the main folder and execute these commands:
+
+- python download\_pubmed\_xml.py
+- python dataframe\_creator.py
+- python model\_maker.py
+
+To run the tests, you can execute this command:
+
+- python TestSuite.py
