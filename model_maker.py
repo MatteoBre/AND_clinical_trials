@@ -8,7 +8,7 @@ import numpy as np
 from sklearn.metrics import precision_recall_fscore_support
 from sklearn.model_selection import KFold
 
-df = pd.read_csv('src\\dataframe.csv', encoding='utf-8')
+df = pd.read_csv('src/dataframe.csv', encoding='utf-8')
 x = np.array(df.drop('common_answer', axis=1))
 y = np.array(df['common_answer'])
 

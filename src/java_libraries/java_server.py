@@ -8,12 +8,9 @@ import os
 
 class JavaServer:
     def __init__(self):
-        if os.name == 'nt':
-            java = '\"' + common_functions.get_java_path() + '\"'
-        else:
-            java = 'java'
+        java = '\"' + common_functions.get_java_path() + '\"'
         command = java + ' -jar server.jar'
-        self.process = subprocess.Popen(command, cwd=r'src/java_libraries')
+        self.process = subprocess.Popen(command, cwd='src/java_libraries', shell=True)
         self._apiwrapper = JavaGateway().entry_point
         # Until it's not set up, wait
         while True:

@@ -114,11 +114,9 @@ def get_info_from_jds_sts(texts):
 
 
 def get_java_path():
-    if os.name == 'nt':
-        src_parent_path = os.path.abspath(os.path.join(get_src_path(), os.pardir))
-        path = open(src_parent_path + "/java_path.txt", "r")
-        return path.read()
-    return 'java'
+    src_parent_path = os.path.abspath(os.path.join(get_src_path(), os.pardir))
+    path = open(src_parent_path + "/java_path.txt", "r")
+    return path.read()
 
 
 def get_gensim_doc2vec_model():

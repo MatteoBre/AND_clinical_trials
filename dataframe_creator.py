@@ -83,7 +83,7 @@ df['oger_similarity'] = common_functions.normalize(df['oger_similarity'])
 # Writing the dataframe to file
 csv = df.to_csv(index=False)
 
-file = codecs.open("src\\dataframe.csv", "w", "utf-8")
+file = codecs.open("src/dataframe.csv", "w", "utf-8")
 file.write(csv)
 file.close()
 
