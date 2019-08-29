@@ -11,6 +11,7 @@ class ClinicalTrial:
     # Given a name, it finds the last name, initial and first name
     @staticmethod
     def extrapolate_name_parts(name):
+        # Given a string (formatted in clinical trial way), it extracts the last name, first name initial and first name
         # I use the lower case and remove the points to uniform the later comparison
         name = name.split(',')[0].lower().replace('.',
                                                   '').strip()  # I get rid of the M.D and PhD, I only need the name now
@@ -23,6 +24,7 @@ class ClinicalTrial:
         return last_name, first_name_initial, first_name
 
     def get_organization_name(self, last_name, initial):
+        # Given all the tags, I get the organization
         tags = self.get_all_name_tags(last_name, initial)
 
         for tag in tags:
@@ -35,6 +37,7 @@ class ClinicalTrial:
         return ""
 
     def get_mail(self, last_name, initial):
+        # Given all the tags, I get the mail (I also watch in the point_of_contact tags)
         tags = self.get_all_name_tags(last_name, initial)
 
         mails = []
@@ -53,6 +56,8 @@ class ClinicalTrial:
         return parts[0] == correct_last_name and parts[1] == correct_first_name_initial
 
     def get_all_name_tags(self, correct_last_name, correct_first_name_initial):
+        # In the clinical trials there are more than one possible spots for the name of the author
+        # Here we get every tag that contains the author
         getters = [attrgetter(a) for a in ['last_name.text'] * 2 + ['text']]
         tag_names = ['overall_contact', 'overall_official', 'investigator_full_name']
         res = [[official for official in self.clinical_trial.findAll(tag_names[i])
@@ -63,7 +68,7 @@ class ClinicalTrial:
         return res
 
     def get_name(self, correct_last_name, correct_first_name_initial):
-
+        # given the tags, I get the name of the author (last_name is the tag name, but it contains the full name)
         tags = self.get_all_name_tags(correct_last_name, correct_first_name_initial)
 
         for tag in tags:
@@ -73,6 +78,7 @@ class ClinicalTrial:
         return None
 
     def get_year(self):
+        # Here I get the publication year of the clinical trial
         date = self.clinical_trial.find('study_first_submitted')
 
         if date is None:
@@ -83,18 +89,21 @@ class ClinicalTrial:
         return strings[-1]
 
     def get_title(self):
+        # I get the title
         title = self.clinical_trial.brief_title
         if title is None:
             return None
         return title.text
 
     def get_country_and_city(self):
+        # I get all the countries and the cities in which the clinical trial has been made
         locations = self.clinical_trial.findAll('location')
         countries = [location.country.text for location in locations]
         cities = [location.city.text for location in locations]
         return countries, cities
 
     def get_text(self, elig=False, whole_text=False):
+        # I get the useful text of the article
         if whole_text:
             return [self.clinical_trial.get_text()]
         brief_summary = maybe(self).clinical_trial.brief_summary.textblock.text.strip()
@@ -106,6 +115,7 @@ class ClinicalTrial:
         return arr
 
     def get_all_texts(self):
+        # I get title + text in string format
         texts = self.get_text()
         texts.append(self.get_title())
         texts = " ".join(texts)

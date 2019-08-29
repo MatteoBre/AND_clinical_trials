@@ -258,6 +258,8 @@ def get_location_equalities(ct_countries, ct_cities, ar_locations):
         city_equalities.append(city_equality)
     return country_equalities, city_equalities
 
+# Here there are all the functions used to compare the jds and sts
+
 
 def get_sum_jds_sts(jds):
     percentage_sum = 0
@@ -331,6 +333,7 @@ def get_jds_sts_confidence_ranking_similarities(jds_1, jds_2):
 
 
 def get_all_jds_sts(clinical_trials, articles):
+    # In this function I interrogate the java server to get the jds and sts
     server = common_functions.get_java_gateway_server()
 
     jds = []
@@ -349,6 +352,7 @@ def get_all_jds_sts(clinical_trials, articles):
 
 
 def get_all_jds_sts_similarities(jds, sts, max_jds, max_sts, mode_jds='basic', mode_sts='basic'):
+    # Given the jds, sts and the methods to compare them, I compare and return the results of jds and sts
     possible_modes = ['basic', 'confidence', 'ranking', 'confidence_ranking']
     if mode_jds not in possible_modes or mode_sts not in possible_modes:
         raise ValueError("Use a valid mode to compare jds and sts")
@@ -368,6 +372,7 @@ def get_all_jds_sts_similarities(jds, sts, max_jds, max_sts, mode_jds='basic', m
 
 
 def create_required_folders():
+    # I create this folders in case they weren't present (they will be used in the oger similarity function)
     # This function is used to create support folders, the folders will be used to calculate oger similarities
     if not os.path.exists(common_functions.get_src_path() + '/tmp_txt_ct/'):
         os.makedirs(common_functions.get_src_path() + '/tmp_txt_ct/')
@@ -441,6 +446,7 @@ def get_oger_similarities(clinical_trials, articles):
 
 
 def get_doc2vec_vectors(clinical_trials, articles):
+    # I get the doc2vec for each article and clinical trial
     model = common_functions.get_gensim_doc2vec_model()
 
     ct_vectors = []
@@ -462,6 +468,7 @@ def get_doc2vec_vectors(clinical_trials, articles):
 
 
 def get_vectors_similarity(vec_1, vec_2):
+    # I get the similarity of the vector with the formula scalar_rpoduce(vec_1, vec_2)/(||vec_1||*||vec_2||)
     vec_1_length = math.sqrt(sum([el**2 for el in vec_1]))
     vec_2_length = math.sqrt(sum([el**2 for el in vec_2]))
     scalar_product = sum(el[0] * el[1] for el in zip(vec_1, vec_2))
@@ -469,5 +476,6 @@ def get_vectors_similarity(vec_1, vec_2):
 
 
 def get_doc2vec_vectors_similarities(clinical_trials, articles):
+    # I get all the vector similarities
     ct_vectors, ar_vectors = get_doc2vec_vectors(clinical_trials, articles)
     return [get_vectors_similarity(ct_vectors[i], ar_vectors[i]) for i in range(len(ct_vectors))]

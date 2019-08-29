@@ -45,3 +45,7 @@ print('the results have been obtained doing the average of', repetitions, n_spli
 print('average precision: ', avg_precision)
 print('average recall: ', avg_recall)
 print('average fscore: ', avg_fscore)
+
+# Let's now train on everything and save the model
+classifier.create_model(x, y)
+classifier.save_model_to_file("src/models/random_forest")

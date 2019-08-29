@@ -11,7 +11,8 @@ class JavaServer:
         java = '\"' + common_functions.get_java_path() + '\"'
         command = java + ' -jar server.jar'
         self.process = subprocess.Popen(command, cwd='src/java_libraries', shell=True)
-        self._apiwrapper = JavaGateway().entry_point
+        self._server = JavaGateway()
+        self._apiwrapper = self._server.entry_point
         # Until it's not set up, wait
         while True:
             try:
@@ -36,4 +37,5 @@ class JavaServer:
 
     def close_server(self):
         self._apiwrapper.close()
+        self._server.shutdown()
         os.kill(self.process.pid, signal.SIGTERM)

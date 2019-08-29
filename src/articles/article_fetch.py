@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 from ..articles.article import Article
 
 
-# I get all the articles from an article list
 def article_doms(fetch_result):
+    # I get all the articles from an article list
     root = BeautifulSoup(fetch_result, "xml")
     doms_list = []
 
@@ -15,8 +15,8 @@ def article_doms(fetch_result):
     return doms_list
 
 
-# Download a list of full articles from PubMed
 def fetch_articles(id_list):
+    # Download a list of full articles from PubMed
     id_str_list = ''
 
     # I create the list of ID in a string, so that it can be usable in the HTTP request
@@ -31,6 +31,7 @@ def fetch_articles(id_list):
 
 
 def fetch_local_articles(id_list):
+    # Here I get the articles saved in the folder pubmed_articles_xml
     articles = []
     for ar_id in id_list:
         location = 'src/pubmed_articles_xml/'+ar_id+'.xml'
